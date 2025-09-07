@@ -2,7 +2,7 @@
 
 ## HOW TO GET DIRECT TO HIRING MANAGERS:
 
-1. Download the data files from this repo.
+1. Download the data files from this repo: https://www.dol.gov/agencies/eta/foreign-labor/performance
 2. Load them up in a spreadsheet or database.
 3. Use the contact info in the files to contact the employer.
 4. Request Copies of their LCAs.
