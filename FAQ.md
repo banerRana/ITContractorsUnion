@@ -28,7 +28,7 @@ Those Companies To Increase The Number Of H1B Visas They Can Obtain.<br>
 If You Run Into This, It Is ABSOLUTELY Necessary That You Report It To
 The United States Department Of Labor, AND USCIS.<br>
 
-See [REPORTING_VIOLATORS](/REPORTING_VIOLTORS.md) For What You Can Do
+See [REPORTING_VIOLATORS](/REPORTING_VIOLATORS.md) For What You Can Do
 To Report H1B Scammers.
 
 #### Q. Why Are THESE Jobs Supposedly Real, When There Are So Many Bullshit Jobs On DICE, Monster, LinkedIn, Indeed, ZipRecruiter, Cyberoders, etc...
