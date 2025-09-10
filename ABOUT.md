@@ -1,12 +1,12 @@
 The Data Files Here Were Obtained From The Unites States Department Of Labor,
 And Are Current Up To 30 Jun 2025.
 
-They Can Be Downloaded From The Link In The Main [README] (/README.md) For This Repo.
+They Can Be Downloaded From The Link In The Main [README](/README.md) For This Repo.
 
 The Original Files Are Published In Microsoft Excel Format. 
 Here We Have Converted Them To CSV For Use In SQL Databases.
 
-They Were Converted Using [CloudConvert] (https://cloudconvert.com/). Thanks! 👍
+They Were Converted Using [CloudConvert](https://cloudconvert.com/). Thanks! 👍
 
 The Data Files Contain Contact Info For Internal Contacts At Many Employers.
 
@@ -21,4 +21,4 @@ You May Have To Travel To The Worksite To View Them.
 When An Employer Files An LCA, They Are Required By Federal Law To
 Allow You To Compete For The Jobs They Are Offering To Foreign Workers.
 
-For More Information Read The Accompanying [FAQ] (/FAQ.md)
+For More Information Read The Accompanying [FAQ](/FAQ.md)
