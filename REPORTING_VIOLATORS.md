@@ -1,6 +1,6 @@
 ## Reporting Violators
 
-U.S. Department Of Labor Complaint Online Complaint Page:<br>
+U.S. Department Of Labor Online Complaint Page:<br>
 https://webapps.dol.gov/contactwhd/
 
 DOL Complaint Form (MS-Word Format):<br>
