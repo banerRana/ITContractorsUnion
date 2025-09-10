@@ -28,7 +28,7 @@ Those Companies To Increase The Number Of H1B Visas They Can Obtain.
 If You Run Into This, It Is ABSOLUTELY Necessary That You Report It To
 The United States Department Of Labor, AND USCIS.
 
-See [REPORTING_VIOLATORS](/REPORTING_VIOLTORS) For What You Can Do
+See [REPORTING_VIOLATORS](/REPORTING_VIOLTORS.md) For What You Can Do
 To Report H1B Scammers.
 
 Q. How Can I Help?
