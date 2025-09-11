@@ -7,12 +7,12 @@ The First Step In An Employer Obtaining An H1B Visa To Sponsor A Foreign Worker.
 See: https://flag.dol.gov/programs/LCA
 
 #### Q. Why Have I never Heard About This Before?
-A. It Was On The List Of Stuff You Did Not Know Yet. Its Off Now.
+A. It Was On The List Of Stuff You Did Not Know Yet. Now Its Not.
 
 #### Q. Why Is No One Else Talking About This?
 A. Recruiters And Staffing Agencies Have Been Using These Data For Years,
 To Get Clients And Place People. They Have No Interest In Telling You
-About It. Instead They Use This Info To Get Job Leads, And Then Offer
+About It. Instead, They Use This Info To Get Job Leads, And Then Offer
 Those Jobs To You In Third, And Now Fourth Party Fashion.
 
 #### Q. How Is This Not A Scam?
@@ -31,7 +31,7 @@ The United States Department Of Labor, AND USCIS.<br>
 See [REPORTING_VIOLATORS](/REPORTING_VIOLATORS.md) For What You Can Do
 To Report H1B Scammers.
 
-#### Q. Why Are THESE Jobs Supposedly Real, When There Are So Many Bullshit Jobs On DICE, Monster, LinkedIn, Indeed, ZipRecruiter, Cyberoders, etc...
+#### Q. Why Are THESE Jobs Supposedly Real, When There Are So Many Bullshit Jobs On DICE, Monster, LinkedIn, Indeed, ZipRecruiter, CyberCoders, etc...
 A. Simple. In Order To File An LCA A Hiring Manager Must Swear Under Penalty Of Perjury That The Job Is Real, And Must Allow Americans To Compete For It.
 Unlike Bullshit Jobs On Bullshit Websites, These Listings Are Jobs That A Hiring Manager Can Go To Prison For Lying About.
 
