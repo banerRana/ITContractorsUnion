@@ -15,7 +15,7 @@ https://www.consumerfinance.gov/complaint/
 Federal Trade Commission Complaint:<br>
 https://reportfraud.ftc.gov/
 
-United States Department Of Justice:
+United States Department Of Justice:<br>
 https://www.justice.gov/crt/reporting-unfair-visa-related-employment-practices
 
 Tips:
