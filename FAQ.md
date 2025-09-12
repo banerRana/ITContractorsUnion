@@ -26,7 +26,7 @@ Working In Collaboration With Larger Indian IT Companies, To File LCAs For
 Those Companies To Increase The Number Of H1B Visas They Can Obtain.<br>
 
 If You Run Into This, It Is ABSOLUTELY Necessary That You Report It To
-The United States Department Of Labor, AND USCIS.<br>
+The United States Department Of Labor, The FTC, USCIS, And The Department Of Justice.<br>
 
 See [REPORTING_VIOLATORS](/REPORTING_VIOLATORS.md) For What You Can Do
 To Report H1B Scammers.
