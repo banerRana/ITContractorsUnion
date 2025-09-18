@@ -6,6 +6,9 @@ https://webapps.dol.gov/contactwhd/
 DOL Complaint Form (MS-Word Format):<br>
 https://www.dol.gov/sites/dolgov/files/ETA/mas/pdfs/ETA_Form_8429.docx
 
+The DOL Office of The Inspector General Hotline:
+https://www.oig.dol.gov/hotline.htm
+
 USCIS Tip Form:<br>
 https://www.uscis.gov/report-fraud/uscis-tip-form
 
