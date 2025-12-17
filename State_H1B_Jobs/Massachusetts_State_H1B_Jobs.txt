@@ -1,0 +1,2462 @@
+-[ RECORD 1 ]------------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22137-180046
+job_title                      | Principal Technical Professional - Software Engineering
+employer_name                  | KBR Wyle Services LLC
+secondary_entity_business_name | .S. Department of Transportation Volpe National Transportation Systems Center
+employer_poc_email             | Iris.Landry@kbr.com
+employer_poc_phone             | 17137535914
+employer_poc_first_name        | Iris
+employer_poc_last_name         | Landry
+worksite_address1              | 55 Broadway
+worksite_address2              | 
+worksite_city                  | Cambridge
+worksite_county                | CAMBRIDGE CITY
+lawfirm_name_business_name     | EY Law LLP
+employer_address1              | 601 Jefferson Street
+employer_address2              | 
+employer_city                  | Houston
+employer_state                 | TX
+employer_postal_code           | 77002
+begin_date                     | 7/8/2022
+end_date                       | 7/7/2025
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 2 ]------------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22287-529995
+job_title                      | .Net Developer
+employer_name                  | Novalink Solutions
+secondary_entity_business_name | Acro Corp/ State of Massachusetts
+employer_poc_email             | Reports@novalink-solutions.com
+employer_poc_phone             | 17702391641
+employer_poc_first_name        | Huu
+employer_poc_last_name         | Phan
+worksite_address1              | 100 Cambridge Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Malik & Popiel, P.C.
+employer_address1              | 2180 Satellite Blvd,
+employer_address2              | Suite 400
+employer_city                  | Duluth
+employer_state                 | GA
+employer_postal_code           | 30097
+begin_date                     | 10/21/2022
+end_date                       | 10/20/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 3 ]------------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22278-512945
+job_title                      | .Net Developer
+employer_name                  | Novalink Solutions
+secondary_entity_business_name | Acro Corp/ State of Massachusetts
+employer_poc_email             | Reports@novalink-solutions.com
+employer_poc_phone             | 17702391641
+employer_poc_first_name        | Huu
+employer_poc_last_name         | Phan
+worksite_address1              | 1 Winter Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Malik & Popiel, P.C.
+employer_address1              | 2180 Satellite Blvd,
+employer_address2              | Suite 400
+employer_city                  | Duluth
+employer_state                 | GA
+employer_postal_code           | 30097
+begin_date                     | 10/5/2022
+end_date                       | 10/4/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 4 ]------------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22111-095384
+job_title                      | Web Technology Consultant
+employer_name                  | MOURI Tech LLC
+secondary_entity_business_name | Boston Police Department
+employer_poc_email             | tammyh@mouritech.com
+employer_poc_phone             | 19727561500
+employer_poc_first_name        | Tammy
+employer_poc_last_name         | Hurst
+worksite_address1              | 1 Schroeder Plaza
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Ramineni & Shepard LLC
+employer_address1              | 1183 W. John Carpenter Freeway
+employer_address2              | 
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75039
+begin_date                     | 9/10/2022
+end_date                       | 9/9/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 5 ]------------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23353-576355
+job_title                      | Software QA Analyst
+employer_name                  | ABD Solutions Inc
+secondary_entity_business_name | Client  Commonwealth of MA (EHS Department)
+employer_poc_email             | info2@abdsinc.com
+employer_poc_phone             | 17034833128
+employer_poc_first_name        | Vishnu
+employer_poc_last_name         | Donepudi
+worksite_address1              | 100 Hancock Street
+worksite_address2              | 
+worksite_city                  | Quincy
+worksite_county                | QUINCY CITY
+lawfirm_name_business_name     | Law Offices of Claudia Y. Tsou
+employer_address1              | 4229 Lafayette Center Drive
+employer_address2              | Suite 1500
+employer_city                  | Chantilly
+employer_state                 | VA
+employer_postal_code           | 20151
+begin_date                     | 12/19/2023
+end_date                       | 12/18/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 6 ]------------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24270-365826
+job_title                      | Tableau Developer
+employer_name                  | Cognowiz LLC
+secondary_entity_business_name | Commonwealth of MA - the Department of Public Health
+employer_poc_email             | ishashah@cognowiz.com
+employer_poc_phone             | 12024654858
+employer_poc_first_name        | Isha
+employer_poc_last_name         | Shah
+worksite_address1              | 250 Washington St
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | International Legal and Business Services Group LLP
+employer_address1              | 44679 Endicott Drive
+employer_address2              | Suite 300-778
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24172-131516
+job_title                      | Full-stack Developer
+employer_name                  | MOURI Tech LLC
+secondary_entity_business_name | Commonwealth of MA, Department of Elementary and Secondary Education (DESE) (Working Remotely)
+employer_poc_email             | tammyh@mouritech.com
+employer_poc_phone             | 14698883061
+employer_poc_first_name        | Tammy
+employer_poc_last_name         | Hurst
+worksite_address1              | 15 Sumner Street
+worksite_address2              | 
+worksite_city                  | Norfolk
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | Fragomen, Del Rey, Bernsen & Loewy, LLP
+employer_address1              | 1183 W. John Carpenter Freeway
+employer_address2              | 
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75039
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 8 ]------------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23355-585608
+job_title                      |  Database Administrator
+employer_name                  | Sunmerge Systems Inc
+secondary_entity_business_name | Commonwealth of MA-Executive health and human services (Department of Transitional Assistance)
+employer_poc_email             | HR@SUNMERGESYSTEMS.COM
+employer_poc_phone             | 17329810400
+employer_poc_first_name        | Harish
+employer_poc_last_name         | Bathini
+worksite_address1              | 600 Washington St
+worksite_address2              | Floor 5
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 15 CORPORATE PLACE SOUTH
+employer_address2              | SUITE 430
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 12/21/2023
+end_date                       | 11/30/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 9 ]------------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25148-026173
+job_title                      | Senior Systems Analyst
+employer_name                  | THE BSST SOFTWARE GROUP
+secondary_entity_business_name | Commonwealth of Massachusetts (Department of Transportation)
+employer_poc_email             | naveen@thebostongroup.com
+employer_poc_phone             | 15083939180
+employer_poc_first_name        | VIRGINIA
+employer_poc_last_name         | KOTA
+worksite_address1              | 128 Floral Street
+worksite_address2              | 
+worksite_city                  | Shrewsbury
+worksite_county                | SHREWSBURY
+lawfirm_name_business_name     | Tadmor & Tadmor LLP
+employer_address1              | 21 SOUTHWEST CUTOFF
+employer_address2              | 
+employer_city                  | NORTHBOROUGH
+employer_state                 | MA
+employer_postal_code           | 01532
+begin_date                     | 6/1/2025
+end_date                       | 5/31/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 10 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22108-077278
+job_title                      | Power BI Developer
+employer_name                  | Avco Consulting Inc
+secondary_entity_business_name | Commonwealth of Massachusetts Department of Elementary & Secondary Education
+employer_poc_email             | sudhir@avcoconsulting.com
+employer_poc_phone             | 15082924795
+employer_poc_first_name        | Sudhir Reddy
+employer_poc_last_name         | Prodduturi
+worksite_address1              | 75 Pleasant St
+worksite_address2              | 
+worksite_city                  | Malden
+worksite_county                | MALDEN CITY
+lawfirm_name_business_name     | International Legal and Business Services Group LLP
+employer_address1              | 38 Front St
+employer_address2              | Fl 4
+employer_city                  | Worcester
+employer_state                 | MA
+employer_postal_code           | 01608
+begin_date                     | 10/1/2022
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24201-210109
+job_title                      | Development Lead
+employer_name                  | Digit Outsource Inc
+secondary_entity_business_name | Commonwealth of Massachusetts Department of Revenue (DOR)
+employer_poc_email             | hr@digitoutsource.com
+employer_poc_phone             | 13025150390
+employer_poc_first_name        | Ranjith
+employer_poc_last_name         | Ravula
+worksite_address1              | 200 Arlington St
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | BBI Law Group, P.C.
+employer_address1              | 1201 N Orange Street
+employer_address2              | Suite 820
+employer_city                  | Wilmington
+employer_state                 | DE
+employer_postal_code           | 19801
+begin_date                     | 12/16/2024
+end_date                       | 12/15/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21352-774792
+job_title                      | Development Lead
+employer_name                  | Digit Outsource Inc
+secondary_entity_business_name | Commonwealth of Massachusetts Department of Revenue (DOR)
+employer_poc_email             | hr@digitoutsource.com
+employer_poc_phone             | 13028001950
+employer_poc_first_name        | Ranjith
+employer_poc_last_name         | Ravula
+worksite_address1              | 200 Arlington St
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | BBI Law Group, P.C.
+employer_address1              | 2803 PHILADELPHIA PIKE
+employer_address2              | Ste 1260
+employer_city                  | CLAYMONT
+employer_state                 | DE
+employer_postal_code           | 19703
+begin_date                     | 12/17/2021
+end_date                       | 12/16/2024
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 13 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22075-985145
+job_title                      | Business System Analyst
+employer_name                  | Renee Systems Inc
+secondary_entity_business_name | Commonwealth of Massachusetts Executive Office of Energy and Environmental Affairs IT Department (EEA IT)
+employer_poc_email             | IMMIGRATION@RENEESYSTEMS.COM
+employer_poc_phone             | 14407460705
+employer_poc_first_name        | PRASADA
+employer_poc_last_name         | INDUKURI
+worksite_address1              | 1 Winter St
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Lamboley Law FIrm LLC
+employer_address1              | 6944 West Snowville Road
+employer_address2              | 
+employer_city                  | Brecksville
+employer_state                 | OH
+employer_postal_code           | 44141
+begin_date                     | 8/19/2022
+end_date                       | 8/18/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23026-729176
+job_title                      | Data Warehousing Developer/Software Engineer
+employer_name                  | Morlogic Inc
+secondary_entity_business_name | DEPARTMENT OF PUBLIC HEALTH
+employer_poc_email             | accounts@morlogic.com
+employer_poc_phone             | 17349292151
+employer_poc_first_name        | Chamu
+employer_poc_last_name         | Pammi
+worksite_address1              | 250 Washington St,
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2500 Packard Street
+employer_address2              | Suite 201
+employer_city                  | Ann Arbor
+employer_state                 | MI
+employer_postal_code           | 48104
+begin_date                     | 7/1/2023
+end_date                       | 6/30/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 15 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-20127-547539
+job_title                      | Software Developer
+employer_name                  | Intone Networks Inc
+secondary_entity_business_name | Department of Developmental Services
+employer_poc_email             | legalteam@intonenetworks.com
+employer_poc_phone             | 17327213002
+employer_poc_first_name        | Sailaja
+employer_poc_last_name         | Allu
+worksite_address1              | 500 Harrison Avenue
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Ramineni & Shepard LLC
+employer_address1              | 10 Austin Avenue
+employer_address2              | 
+employer_city                  | Iselin
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 10/10/2020
+end_date                       | 10/9/2023
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 16 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24079-811454
+job_title                      | .NET Developer
+employer_name                  | Cloudbridge Solutions Inc
+secondary_entity_business_name | Department of Education (DOE), MA
+employer_poc_email             | legal@cloudbridgeusa.com
+employer_poc_phone             | 17744329051
+employer_poc_first_name        | Jayasree
+employer_poc_last_name         | Athota
+worksite_address1              | 135 Santilli Highway
+worksite_address2              | 
+worksite_city                  | Everett
+worksite_county                | EVERETT CITY
+lawfirm_name_business_name     | 
+employer_address1              | 5 Mt Royal Ave
+employer_address2              | Suite 150
+employer_city                  | Marlborough
+employer_state                 | MA
+employer_postal_code           | 01752
+begin_date                     | 4/1/2024
+end_date                       | 3/31/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23145-053493
+job_title                      | Technical Developer
+employer_name                  | Global Bridge Infotech Inc
+secondary_entity_business_name | Department of Elementary and Secondary Education
+employer_poc_email             | hari@gbitinc.com
+employer_poc_phone             | 19728509400
+employer_poc_first_name        | Hari
+employer_poc_last_name         | Nagineni
+worksite_address1              | 75 Pleasant Street
+worksite_address2              | 
+worksite_city                  | Malden
+worksite_county                | MALDEN CITY
+lawfirm_name_business_name     | Eugene Chen Law, PLLC
+employer_address1              | 5525 N. MacArthur Blvd., Suite 670
+employer_address2              | 
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75038
+begin_date                     | 9/13/2023
+end_date                       | 9/12/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23220-247420
+job_title                      | Functional Analyst
+employer_name                  | Software Associates Inc
+secondary_entity_business_name | Department of Health and Human Services
+employer_poc_email             | ravi@software-associates-inc.com
+employer_poc_phone             | 15105799958
+employer_poc_first_name        | Ravindra
+employer_poc_last_name         | Thota
+worksite_address1              | 67 Black Bear Drive
+worksite_address2              | Apt   1502
+worksite_city                  | Waltham
+worksite_county                | WALTHAM CITY
+lawfirm_name_business_name     | The Khurana Law Firm LLC
+employer_address1              | 13810 Ankonian Overlook
+employer_address2              | 
+employer_city                  | North Potomac
+employer_state                 | MD
+employer_postal_code           | 20878
+begin_date                     | 9/1/2023
+end_date                       | 8/31/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 19 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22255-465992
+job_title                      | Software Quality Assurance Analysts and Testers
+employer_name                  | HTC GLOBAL SERVICES INC
+secondary_entity_business_name | Department of Public Health
+employer_poc_email             | IMMIGRATION@HTCINC.COM
+employer_poc_phone             | 12487862500
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | SUBRAMANIAN
+worksite_address1              | 250 Washington St 6th floor
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 3270 WEST BIG BEAVER ROAD
+employer_address2              | 
+employer_city                  | TROY
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 9/19/2022
+end_date                       | 9/18/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 20 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22196-354008
+job_title                      | Quality Assurance Analyst
+employer_name                  | ITAMERICA INC
+secondary_entity_business_name | Department of Revenue for the Common Wealth of Massachusetts
+employer_poc_email             | Immigration@itamerica.com
+employer_poc_phone             | 17329855100
+employer_poc_first_name        | PRAVEEN
+employer_poc_last_name         | THADAKAMALLA
+worksite_address1              | 200 Arlington Street
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 100 METROPLEX DR SUITE 207
+employer_address2              | 
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 7/21/2022
+end_date                       | 7/20/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 21 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23018-709597
+job_title                      | Java Application Developer
+employer_name                  | Vizva Tech Solutions LLC
+secondary_entity_business_name | Department of Revenue, Massachusetts
+employer_poc_email             | rao@vizva-tech.com
+employer_poc_phone             | 16365796689
+employer_poc_first_name        | Nageswara
+employer_poc_last_name         | Boppana
+worksite_address1              | 200 Arlington Street
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | Musillo Unkenholt LLC
+employer_address1              | 1018 Wilmas Hollow Drive
+employer_address2              | 
+employer_city                  | Chesterfield
+employer_state                 | MO
+employer_postal_code           | 63005
+begin_date                     | 1/25/2023
+end_date                       | 1/24/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21280-630551
+job_title                      | Web Software Developer
+employer_name                  | Kyyba Inc
+secondary_entity_business_name | Department of Transitional Assistance, Commonwealth of Massachusetts
+employer_poc_email             | kavi@kyyba.com
+employer_poc_phone             | 12488139665
+employer_poc_first_name        | Kavidha
+employer_poc_last_name         | Selvaraj
+worksite_address1              | 600 Washington Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
+employer_address1              | 28230 Orchard Lake Road
+employer_address2              | Suite 130
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 3/17/2022
+end_date                       | 3/16/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 23 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25042-683392
+job_title                      | Web Software Developer
+employer_name                  | Kyyba Tech Inc
+secondary_entity_business_name | Department of Transitional Assistance, Commonwealth of Massachusetts
+employer_poc_email             | kavi@kyyba.com
+employer_poc_phone             | 12482902910
+employer_poc_first_name        | Kavidha
+employer_poc_last_name         | Selvaraj
+worksite_address1              | 1 Ashburton Pl
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
+employer_address1              | 28230 Orchard Lake Road
+employer_address2              | Suite 130
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 2/24/2025
+end_date                       | 2/23/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 24 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23326-521223
+job_title                      | Technical Advisor – Software Engineering - KBGFJG138441-7
+employer_name                  | KBR Wyle Services LLC
+secondary_entity_business_name | Department of Transportation - Volpe Center
+employer_poc_email             | Iris.Landry@kbr.com
+employer_poc_phone             | 17137535914
+employer_poc_first_name        | Iris
+employer_poc_last_name         | Landry
+worksite_address1              | 55 Broadway
+worksite_address2              | 
+worksite_city                  | Cambridge
+worksite_county                | CAMBRIDGE CITY
+lawfirm_name_business_name     | EY Law LLP
+employer_address1              | 601 Jefferson Street
+employer_address2              | 
+employer_city                  | Houston
+employer_state                 | TX
+employer_postal_code           | 77002
+begin_date                     | 4/27/2024
+end_date                       | 4/26/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 25 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21319-706720
+job_title                      | BI Developer
+employer_name                  | NobleSoft Solutions Inc
+secondary_entity_business_name | Department of Unemployment Assistance
+employer_poc_email             | dan@noblesoft-solutions.com
+employer_poc_phone             | 13212778477
+employer_poc_first_name        | Dan
+employer_poc_last_name         | McLinden
+worksite_address1              | 19 Staniford St
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Reddy & Neumann.P.C.
+employer_address1              | 405 Executive Dr.
+employer_address2              | 
+employer_city                  | Langhorne
+employer_state                 | PA
+employer_postal_code           | 19047
+begin_date                     | 5/1/2022
+end_date                       | 4/30/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 26 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23286-429905
+job_title                      | Software Developer
+employer_name                  | WIZCOM CORPORATION
+secondary_entity_business_name | EOHHS MA (Department of Public Health)
+employer_poc_email             | sundar@wizcom.com
+employer_poc_phone             | 16099369400
+employer_poc_first_name        | Sundar
+employer_poc_last_name         | SUNDARAM
+worksite_address1              | 250 Washington Street
+worksite_address2              | N/A
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES, LLP
+employer_address1              | 742 Alexander Road
+employer_address2              | Ste 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 1/21/2024
+end_date                       | 1/20/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25003-590887
+job_title                      | Computer Programmer
+employer_name                  | WIZCOM CORPORATION
+secondary_entity_business_name | EOHHS MA (Department of Public Health)
+employer_poc_email             | vmaram@wizcom.com
+employer_poc_phone             | 16099369400
+employer_poc_first_name        | Venkat
+employer_poc_last_name         | MARAM
+worksite_address1              | 250 Washington Street
+worksite_address2              | N/A
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES, LLP
+employer_address1              | 742 Alexander Road
+employer_address2              | Ste 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 1/9/2025
+end_date                       | 1/8/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 28 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24253-324557
+job_title                      | Technical Architect
+employer_name                  | Kyyba Tech Inc
+secondary_entity_business_name | EOHHSDTA (Department of Transitional Assistance)
+employer_poc_email             | kavi@creatus.com
+employer_poc_phone             | 12488139665
+employer_poc_first_name        | Kavidha
+employer_poc_last_name         | Selvaraj
+worksite_address1              | 600 Washington Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
+employer_address1              | 28230 Orchard Lake Road
+employer_address2              | Suite 130
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 9/16/2024
+end_date                       | 9/15/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22046-904625
+job_title                      | Technical Architect
+employer_name                  | Kyyba Tech Inc
+secondary_entity_business_name | EOHHSDTA (Department of Transitional Assistance)
+employer_poc_email             | kavi@kyyba.com
+employer_poc_phone             | 12488139665
+employer_poc_first_name        | Kavidha
+employer_poc_last_name         | Selvaraj
+worksite_address1              | 600 Washington St
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
+employer_address1              | 28230 Orchard Lake Road
+employer_address2              | Suite 130
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 2/23/2022
+end_date                       | 2/22/2025
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 30 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21288-648716
+job_title                      | BUSINESS ANALYST
+employer_name                  | XCELTECH INC
+secondary_entity_business_name | Executive Office of Environmental & Energy Affairs (EEA) State of Massachusetts
+employer_poc_email             | hr@xceltech.com
+employer_poc_phone             | 17032089120
+employer_poc_first_name        | SUBANI
+employer_poc_last_name         | SHRESTHA
+worksite_address1              | 1 WINTER St
+worksite_address2              | 
+worksite_city                  | BOSTON
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Law Offices of Rakesh Mehrotra
+employer_address1              | 2136 GALLOWS ROAD
+employer_address2              | SUITE F
+employer_city                  | DUNN LORING
+employer_state                 | VA
+employer_postal_code           | 22027
+begin_date                     | 10/22/2021
+end_date                       | 10/21/2024
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 31 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22199-359834
+job_title                      | Software Applications Developer
+employer_name                  | Webject Systems Inc
+secondary_entity_business_name | MA Department of Public Health
+employer_poc_email             | madhu@webject.com
+employer_poc_phone             | 15082796562
+employer_poc_first_name        | Madhu
+employer_poc_last_name         | Rao
+worksite_address1              | 250 Washington St
+worksite_address2              | 5th Floor
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 25 Central Square
+employer_address2              | Suite 2
+employer_city                  | Bridgewater
+employer_state                 | MA
+employer_postal_code           | 02324
+begin_date                     | 11/16/2022
+end_date                       | 11/15/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 32 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22189-340805
+job_title                      | Software Applications Developer
+employer_name                  | Webject Systems Inc
+secondary_entity_business_name | MA Department of Public Health
+employer_poc_email             | madhu@webject.com
+employer_poc_phone             | 15082796562
+employer_poc_first_name        | Madhu
+employer_poc_last_name         | Rao
+worksite_address1              | 250 Washington St
+worksite_address2              | 5th Floor
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 25 Central Square
+employer_address2              | Suite 2
+employer_city                  | Bridgewater
+employer_state                 | MA
+employer_postal_code           | 02324
+begin_date                     | 11/16/2022
+end_date                       | 11/15/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 33 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24073-796057
+job_title                      | SQA Engineer (Performance)
+employer_name                  | ConglomerateIT LLC
+secondary_entity_business_name | MA Department of Revenue
+employer_poc_email             | info@conglomerateit.com
+employer_poc_phone             | 19032135093
+employer_poc_first_name        | Sandeep
+employer_poc_last_name         | Jangiti
+worksite_address1              | 200 Arlington Street
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | Murthy Law Firm
+employer_address1              | 3721 S Stonebridge Dr
+employer_address2              | Unit 701
+employer_city                  | McKinney
+employer_state                 | TX
+employer_postal_code           | 75070
+begin_date                     | 4/29/2024
+end_date                       | 4/28/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 34 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23101-923432
+job_title                      | LEAD ANALYST II
+employer_name                  | APPLICATIONS SOFTWARE TECHNOLOGY LLC
+secondary_entity_business_name | MASSACHUSETTS DEPARTMENT OF TRANSPORTATION
+employer_poc_email             | JLAHANIS@ASTCOROPORATION.COM
+employer_poc_phone             | 16307781180
+employer_poc_first_name        | JILL
+employer_poc_last_name         | LAHANIS
+worksite_address1              | 25 NEWPORT AVENUE EXT
+worksite_address2              | 
+worksite_city                  | QUINCY
+worksite_county                | QUINCY CITY
+lawfirm_name_business_name     | Masuda Funai Eifert & Mitchell, Ltd.
+employer_address1              | 4343 COMMERCE COURT
+employer_address2              | SUITE 701
+employer_city                  | LISLE
+employer_state                 | IL
+employer_postal_code           | 60532
+begin_date                     | 4/12/2023
+end_date                       | 4/11/2026
+total_worker_positions         | 5
+h_1b_dependent                 | Yes
+-[ RECORD 35 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23032-743876
+job_title                      | NETWORK ENGINEER
+employer_name                  | BEEJAUM TECHNOLOGY GROUP INC
+secondary_entity_business_name | MASSACHUSETTS DEPARTMENT OF TRANSPORTATION (MASSDOT)
+employer_poc_email             | RAJ@BEEJAUM.COM
+employer_poc_phone             | 16092692588
+employer_poc_first_name        | RAJENDER
+employer_poc_last_name         | BADINENI
+worksite_address1              | 185 KNEELAND ST.
+worksite_address2              | 
+worksite_city                  | BOSTON
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN, PLLC.
+employer_address1              | 100 OVERLOOK CENTER
+employer_address2              | 2ND FLOOR
+employer_city                  | PRINCETON
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2/9/2023
+end_date                       | 2/8/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 36 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25108-881452
+job_title                      | SENIOR BUSINESS ANALYST
+employer_name                  | NAGARRO INC
+secondary_entity_business_name | MASSACHUSETTS STATE RETIREMENT BOARD
+employer_poc_email             | US.IMMIGRATION@NAGARRO.COM
+employer_poc_phone             | 14084367508
+employer_poc_first_name        | JASON
+employer_poc_last_name         | CASTELLANI
+worksite_address1              | 1 WINTER STREET
+worksite_address2              | 8TH FLOOR
+worksite_city                  | BOSTON
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | CHUGH LLP
+employer_address1              | 1737 N. FIRST STREET
+employer_address2              | SUITE 590
+employer_city                  | SAN JOSE
+employer_state                 | CA
+employer_postal_code           | 95112
+begin_date                     | 4/24/2025
+end_date                       | 4/23/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 37 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22320-591137
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | DOTCOM TEAM LLC
+secondary_entity_business_name | MASSACHUSETTS STATE RETIREMENT BOARD (TELECOMMUTING)
+employer_poc_email             | TSHERING@DOTCOM-TEAM.COM
+employer_poc_phone             | 17818483867
+employer_poc_first_name        | TSHERING
+employer_poc_last_name         | SHAKYA
+worksite_address1              | 292 MARRETT ROAD
+worksite_address2              | 
+worksite_city                  | LEXINGTON
+worksite_county                | LEXINGTON
+lawfirm_name_business_name     | MADAN & SAIGAL LLC
+employer_address1              | 325 WOOD ROAD, SUITE 103
+employer_address2              | 
+employer_city                  | BRAINTREE
+employer_state                 | MA
+employer_postal_code           | 02184
+begin_date                     | 12/12/2022
+end_date                       | 12/11/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 38 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22321-593010
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | DOTCOM TEAM LLC
+secondary_entity_business_name | MASSACHUSETTS STATE RETIREMENT BOARD (TELECOMMUTING)
+employer_poc_email             | TSHERING@DOTCOM-TEAM.COM
+employer_poc_phone             | 17818483867
+employer_poc_first_name        | TSHERING
+employer_poc_last_name         | SHAKYA
+worksite_address1              | 292 MARRETT ROAD
+worksite_address2              | 
+worksite_city                  | LEXINGTON
+worksite_county                | LEXINGTON
+lawfirm_name_business_name     | MADAN & SAIGAL LLC
+employer_address1              | 325 WOOD ROAD, SUITE 103
+employer_address2              | 
+employer_city                  | BRAINTREE
+employer_state                 | MA
+employer_postal_code           | 02184
+begin_date                     | 12/12/2022
+end_date                       | 12/11/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 39 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22028-861593
+job_title                      | SharePoint Developer
+employer_name                  | Charter Global Inc
+secondary_entity_business_name | MassDEP - Massachusetts Department of Environmental Protection
+employer_poc_email             | immigration@charterglobal.com
+employer_poc_phone             | 17703269933
+employer_poc_first_name        | Molly
+employer_poc_last_name         | Landholm
+worksite_address1              | 1 Winter Street
+worksite_address2              | 4th floor
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 1 Glenlake Pkwy
+employer_address2              | Ste 525
+employer_city                  | Atlanta
+employer_state                 | GA
+employer_postal_code           | 30328
+begin_date                     | 6/11/2022
+end_date                       | 6/10/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 40 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22105-073791
+job_title                      | Network Engineer
+employer_name                  | Techno9 Solutions Inc
+secondary_entity_business_name | MassaChusetts Department Of Transportation
+employer_poc_email             | Prasanna@tech9sol.com
+employer_poc_phone             | 17329867753
+employer_poc_first_name        | Lakshmi
+employer_poc_last_name         | GADDAM
+worksite_address1              | 185 Kneeland St
+worksite_address2              | Floor 8
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES, LLP
+employer_address1              | 40 Brunswick Ave
+employer_address2              | Suite 205
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 9/5/2022
+end_date                       | 9/4/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 41 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24264-352211
+job_title                      | Database Architect (Data Architect)
+employer_name                  | CGI Technologies and Solutions Inc
+secondary_entity_business_name | Massachusetts Department of Early Education and Care
+employer_poc_email             | cgiusemlca@cgi.com
+employer_poc_phone             | 12126123644
+employer_poc_first_name        | Tamara
+employer_poc_last_name         | Grant
+worksite_address1              | 50 Milk Street
+worksite_address2              | 14th Floor
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Fragomen, Del Rey, Bernsen & Loewy, LLP
+employer_address1              | 11325 Random Hills Road
+employer_address2              | 
+employer_city                  | Fairfax
+employer_state                 | VA
+employer_postal_code           | 22030
+begin_date                     | 1/26/2025
+end_date                       | 1/25/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 42 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21274-618352
+job_title                      | Database Architect
+employer_name                  | CGI Technologies and Solutions Inc
+secondary_entity_business_name | Massachusetts Department of Early Education and Care
+employer_poc_email             | cgiusemlca@cgi.com
+employer_poc_phone             | 17324282390
+employer_poc_first_name        | Josephine
+employer_poc_last_name         | Fix
+worksite_address1              | 50 Milk Street
+worksite_address2              | 14th Floor
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Fragomen, Del Rey, Bernsen & Loewy, LLP
+employer_address1              | 11325 Random Hills Road
+employer_address2              | 
+employer_city                  | Fairfax
+employer_state                 | VA
+employer_postal_code           | 22030
+begin_date                     | 1/26/2022
+end_date                       | 1/25/2025
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 43 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21350-768611
+job_title                      | Business System Analyst
+employer_name                  | CGI Technologies and Solutions Inc
+secondary_entity_business_name | Massachusetts Department of Early Education and Care
+employer_poc_email             | cgiusemlca@cgi.com
+employer_poc_phone             | 17324282390
+employer_poc_first_name        | Josephine
+employer_poc_last_name         | Fix
+worksite_address1              | 75 Pleasant Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Fragomen, Del Rey, Bernsen & Loewy, LLP
+employer_address1              | 11325 Random Hills Road
+employer_address2              | 
+employer_city                  | Fairfax
+employer_state                 | VA
+employer_postal_code           | 22030
+begin_date                     | 12/21/2021
+end_date                       | 12/20/2024
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 44 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22180-322541
+job_title                      | Systems Administrator
+employer_name                  | SmartWorks LLC
+secondary_entity_business_name | Massachusetts Department of Education
+employer_poc_email             | mcarreto@smtworks.com
+employer_poc_phone             | 17329858800
+employer_poc_first_name        | Marci
+employer_poc_last_name         | Carreto
+worksite_address1              | 75 Pleasant Street
+worksite_address2              | 
+worksite_city                  | Malden
+worksite_county                | MALDEN CITY
+lawfirm_name_business_name     | 
+employer_address1              | 55 Carter Dr
+employer_address2              | Suite 107
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 9/1/2022
+end_date                       | 8/31/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 45 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24296-422787
+job_title                      | Software Quality Assurance Analyst and Tester
+employer_name                  | HTC GLOBAL SERVICES INC
+secondary_entity_business_name | Massachusetts Department of Public Health
+employer_poc_email             | IMMIGRATION@HTCINC.COM
+employer_poc_phone             | 12487862500
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | SUBRAMANIAN
+worksite_address1              | 250 Washington Street, 6th Floor
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 3270 WEST BIG BEAVER ROAD
+employer_address2              | 
+employer_city                  | TROY
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 4/8/2025
+end_date                       | 4/7/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 46 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23107-937544
+job_title                      | Software Developer
+employer_name                  | Cogent Infotech Corporation
+secondary_entity_business_name | Massachusetts Department of Transportation
+employer_poc_email             | nandan@cogentinfo.com
+employer_poc_phone             | 14128352700
+employer_poc_first_name        | Nandan
+employer_poc_last_name         | Banerjee
+worksite_address1              | 10 Park Plaza
+worksite_address2              | Room 8350
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Law Offices of Kamlesh Tewary, P.C.
+employer_address1              | 1035 Boyce Road, Suite 108
+employer_address2              | 
+employer_city                  | Pittsburgh
+employer_state                 | PA
+employer_postal_code           | 15241
+begin_date                     | 6/15/2023
+end_date                       | 6/14/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 47 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21327-722409
+job_title                      | Network Engineer
+employer_name                  | Pro IT Inc
+secondary_entity_business_name | Massachusetts Department of Transportation
+employer_poc_email             | VIJAY@PROIT-INC.COM
+employer_poc_phone             | 16365275200
+employer_poc_first_name        | Vijaya
+employer_poc_last_name         | Buddi
+worksite_address1              | 205 Revere Beach Pkwy
+worksite_address2              | Unit  504
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Shankar And Associates, PC
+employer_address1              | 1415 Elbridge Payne Road
+employer_address2              | Suite 268
+employer_city                  | Chesterfield
+employer_state                 | MO
+employer_postal_code           | 63017
+begin_date                     | 11/29/2021
+end_date                       | 11/28/2024
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 48 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22213-387914
+job_title                      | QA Automation Manager
+employer_name                  | SIRI INFOSOLUTIONS INC
+secondary_entity_business_name | Massachusetts Department of Transportation
+employer_poc_email             | milind@siriinfo.com
+employer_poc_phone             | 17327771515
+employer_poc_first_name        | MILIND
+employer_poc_last_name         | WAGH
+worksite_address1              | 25 Newport Avenue Extension
+worksite_address2              | 
+worksite_city                  | Quincy
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | 
+employer_address1              | 3 ETHEL ROAD
+employer_address2              | SUITE 302
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 1/1/2023
+end_date                       | 12/31/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 49 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-19298-110151
+job_title                      | Microsoft SQL Database Administrator
+employer_name                  | Signature IT Solutions Inc
+secondary_entity_business_name | Massachusetts Department of Transportation
+employer_poc_email             | raji@signatureits.com
+employer_poc_phone             | 18035006996
+employer_poc_first_name        | Rajeswari
+employer_poc_last_name         | Paidi
+worksite_address1              | 10 Park Plaza
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 11020 David Taylor Drive
+employer_address2              | Suite 402
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28262
+begin_date                     | 11/1/2019
+end_date                       | 10/31/2022
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 50 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24052-736079
+job_title                      |  Sr. Software Developer
+employer_name                  | TECHNOSOFT GROUP INC
+secondary_entity_business_name | Massachusetts Department of Transportation
+employer_poc_email             | immigration@technosoftgroup.com
+employer_poc_phone             | 14692625658
+employer_poc_first_name        | Swarupa
+employer_poc_last_name         | Rallapalli
+worksite_address1              | 10 Park Plaza  4160
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | THE LAW FIRM OF SIM, PARVATHANENI AND BROWN PLLC
+employer_address1              | 2300 VALLEY VIEW LANE
+employer_address2              | SUITE 380
+employer_city                  | IRVING
+employer_state                 | TX
+employer_postal_code           | 75062
+begin_date                     | 2/26/2024
+end_date                       | 2/25/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 51 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23052-789722
+job_title                      | Sr. Software Developer
+employer_name                  | TECHNOSOFT GROUP INC
+secondary_entity_business_name | Massachusetts Department of Transportation
+employer_poc_email             | immigration@technosoftgroup.com
+employer_poc_phone             | 14692625658
+employer_poc_first_name        | Swarupa
+employer_poc_last_name         | Rallapalli
+worksite_address1              | 10 Park Plaza  4160
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | THE LAW FIRM OF SIM, PARVATHANENI AND BROWN PLLC
+employer_address1              | 2300 VALLEY VIEW LANE
+employer_address2              | SUITE 380
+employer_city                  | IRVING
+employer_state                 | TX
+employer_postal_code           | 75062
+begin_date                     | 2/27/2023
+end_date                       | 2/26/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 52 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25115-905576
+job_title                      | Network Engineer
+employer_name                  | Techno9 Solutions Inc
+secondary_entity_business_name | Massachusetts Department of Transportation
+employer_poc_email             | hr@tech9sol.com
+employer_poc_phone             | 17325159650
+employer_poc_first_name        | Lakshmi Prasanna
+employer_poc_last_name         | GADDAM
+worksite_address1              | 185 kneeland St
+worksite_address2              | Floor 8
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES, LLP
+employer_address1              | 3575 Lone Star Cir
+employer_address2              | Suite 430
+employer_city                  | Fort Worth
+employer_state                 | TX
+employer_postal_code           | 76177
+begin_date                     | 9/5/2025
+end_date                       | 9/4/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 53 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-20092-451609
+job_title                      | Software Engineer 
+employer_name                  | COOLSOFT LLC
+secondary_entity_business_name | Massachusetts Department of Transportation (MassDOT)
+employer_poc_email             | roger@coolsofttech.com
+employer_poc_phone             | 15024184234
+employer_poc_first_name        | Roger
+employer_poc_last_name         | Natarajan
+worksite_address1              | 10 Park Plaza
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 3240 OFFICE POINTE PLACE
+employer_address2              | SUITE 200
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40220
+begin_date                     | 9/29/2020
+end_date                       | 9/29/2023
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 54 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24026-671565
+job_title                      | Sr. Business Analyst
+employer_name                  | LanceSoft Inc
+secondary_entity_business_name | Massachusetts Department of Transportation-massDOT
+employer_poc_email             | immigration@lancesoft.com
+employer_poc_phone             | 17036744505
+employer_poc_first_name        | Alyssa
+employer_poc_last_name         | Wagner
+worksite_address1              | 10 Park Plaza
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Piston & Carpenter P.C.
+employer_address1              | 2121  Cooperative Way
+employer_address2              | Suite 130
+employer_city                  | Herndon
+employer_state                 | VA
+employer_postal_code           | 20171
+begin_date                     | 5/20/2024
+end_date                       | 5/19/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 55 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25100-851599
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | ANDHUS TECHNOLOGIES INC
+secondary_entity_business_name | NATIONAL PARK SERVICE, U.S. DEPARTMENT OF THE INTERIOR
+employer_poc_email             | KISHORE@ANDHUSTECHNOLOGIES.COM
+employer_poc_phone             | 16304385116
+employer_poc_first_name        | KRISHNA
+employer_poc_last_name         | ATLURI
+worksite_address1              | 40 HOME TOWN TERRACE
+worksite_address2              | APT 40
+worksite_city                  | BRIDGEWATER
+worksite_county                | PLYMOUTH
+lawfirm_name_business_name     | 
+employer_address1              | 650 E.DEVON AVE
+employer_address2              | SUITE 131
+employer_city                  | ITASCA
+employer_state                 | IL
+employer_postal_code           | 60143
+begin_date                     | 9/9/2025
+end_date                       | 9/8/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 56 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25155-050179
+job_title                      | Clinician
+employer_name                  | Riverside Community Care Inc
+secondary_entity_business_name | Needham Police Department (community embedded role through Mobile Crisis Intervention Program)
+employer_poc_email             | schevalier@riversidecc.org
+employer_poc_phone             | 17816103177
+employer_poc_first_name        | Sharon
+employer_poc_last_name         | Chevalier
+worksite_address1              | 99 School Street
+worksite_address2              | 
+worksite_city                  | Needham
+worksite_county                | NEEDHAM
+lawfirm_name_business_name     | Mandell Law Offices LLC
+employer_address1              | 270 Bridge Street
+employer_address2              | Suite 301
+employer_city                  | Dedham
+employer_state                 | MA
+employer_postal_code           | 02026
+begin_date                     | 10/17/2025
+end_date                       | 10/16/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 57 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22362-662248
+job_title                      | Dot Net Developer
+employer_name                  | Technumen Inc
+secondary_entity_business_name | New York City Department of Education (NYC – DOE) (Remote Work Location)
+employer_poc_email             | chilpur@technumen.com
+employer_poc_phone             | 17325950962
+employer_poc_first_name        | Chilpur
+employer_poc_last_name         | Reddy
+worksite_address1              | 25 Skyline Dr
+worksite_address2              | 
+worksite_city                  | Malden
+worksite_county                | MALDEN CITY
+lawfirm_name_business_name     | INTERNATIONAL LEGAL AND BUSINESS SERVICES GROUP LLP
+employer_address1              | 242 OLD NEWBRUNSWICK ROAD
+employer_address2              | SUITE 310
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 12/28/2022
+end_date                       | 12/27/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 58 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21299-667046
+job_title                      | IT Consultant (Oracle Developer)
+employer_name                  | Infosmart Technologies Inc
+secondary_entity_business_name | Remote Work From Home for Department of Administration (DOA) , State of Rhode Island
+employer_poc_email             | hr@infosmarttech.com
+employer_poc_phone             | 16789332226
+employer_poc_first_name        | Karun
+employer_poc_last_name         | Asireddy
+worksite_address1              | 36 Gaslight Dr
+worksite_address2              | Apt  7
+worksite_city                  | South Weymouth
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | Mannam & Associates LLC
+employer_address1              | 5400 Laurel Springs Parkway
+employer_address2              | Suite 706
+employer_city                  | Suwanee
+employer_state                 | GA
+employer_postal_code           | 30024
+begin_date                     | 10/25/2021
+end_date                       | 10/24/2024
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 59 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21290-649351
+job_title                      | IT Consultant (JAVA Developer)
+employer_name                  | Infosmart Technologies Inc
+secondary_entity_business_name | Remote Work From Home for Department of Administration (DOA)State of Rhode Island
+employer_poc_email             | hr@infosmarttech.com
+employer_poc_phone             | 16789332226
+employer_poc_first_name        | Karun
+employer_poc_last_name         | Asireddy
+worksite_address1              | 36 Gaslight Drive
+worksite_address2              | Apt  7
+worksite_city                  | South Weymouth
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | Mannam & Associates LLC
+employer_address1              | 5400 Laurel Springs Parkway
+employer_address2              | Suite 706
+employer_city                  | Suwanee
+employer_state                 | GA
+employer_postal_code           | 30024
+begin_date                     | 10/17/2021
+end_date                       | 10/16/2024
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 60 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23223-259813
+job_title                      | Sr. Java Developer
+employer_name                  | Noblesoft Technologies Inc
+secondary_entity_business_name | Remotely Work from Home for State of Massachusetts – Department of Public Health
+employer_poc_email             | immigration@noblesoft.com
+employer_poc_phone             | 19728458400
+employer_poc_first_name        | Venkat
+employer_poc_last_name         | Yerubandi
+worksite_address1              | 99 Florence St
+worksite_address2              | 
+worksite_city                  | Malden
+worksite_county                | MALDEN CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2021 Lakeside Pkwy
+employer_address2              | 
+employer_city                  | Flower Mound
+employer_state                 | TX
+employer_postal_code           | 75028
+begin_date                     | 8/28/2023
+end_date                       | 8/27/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 61 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24047-726716
+job_title                      | SOFTWARE QA ENGINEER
+employer_name                  | ILOGIC INC
+secondary_entity_business_name | STATE OF MASSACHUSETTS
+employer_poc_email             | SRINI@ILOGIC-INC.COM
+employer_poc_phone             | 16092285701
+employer_poc_first_name        | SRINIVAS
+employer_poc_last_name         | LINGAMNENI
+worksite_address1              | 100 HANCOCK ST.
+worksite_address2              | 
+worksite_city                  | QUINCY
+worksite_county                | QUINCY CITY
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 3525 QUAKERBRIDGE ROAD
+employer_address2              | SUITE 1400
+employer_city                  | HAMILTON
+employer_state                 | NJ
+employer_postal_code           | 08619
+begin_date                     | 2/26/2024
+end_date                       | 2/25/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 62 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23013-700115
+job_title                      | SALES FORCE DEVELOPER
+employer_name                  | Collaborate Solutions Inc
+secondary_entity_business_name | STATE OF MASSACHUSETTS (DEPARTMENT OF TRANSPORTATION)
+employer_poc_email             | tiru@collaboratesolutions.com
+employer_poc_phone             | 15088454440
+employer_poc_first_name        | Tiru
+employer_poc_last_name         | Chandrapu
+worksite_address1              | 10 PARK PLAZA
+worksite_address2              | 
+worksite_city                  | BOSTON
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | International Legal and Business Services Group LLP
+employer_address1              | 415 Boston Tpke Road
+employer_address2              | Suite 302
+employer_city                  | Shrewsbury
+employer_state                 | MA
+employer_postal_code           | 01545
+begin_date                     | 1/30/2023
+end_date                       | 1/29/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 63 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23257-345583
+job_title                      | Salesforce Developer
+employer_name                  | Collaborate Solutions Inc
+secondary_entity_business_name | STATE OF MASSACHUSETTS (DEPARTMENT OF TRANSPORTATION)
+employer_poc_email             | tiru@collaboratesolutions.com
+employer_poc_phone             | 15088454440
+employer_poc_first_name        | Tiru
+employer_poc_last_name         | Chandrapu
+worksite_address1              | 10 Park Plaza
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | International Legal and Business Services Group LLP
+employer_address1              | 415 Boston Tpke Road
+employer_address2              | Suite 302
+employer_city                  | Shrewsbury
+employer_state                 | MA
+employer_postal_code           | 01545
+begin_date                     | 2/8/2024
+end_date                       | 2/7/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 64 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24122-945698
+job_title                      | Java Developer
+employer_name                  | Prime Software Technologies Inc
+secondary_entity_business_name | State Of Massachusetts
+employer_poc_email             | pgurtata@primesofttech.com
+employer_poc_phone             | 17819353135
+employer_poc_first_name        | Preeti
+employer_poc_last_name         | Gurtata
+worksite_address1              | 600 Washington Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | BBI Law Group, P.C
+employer_address1              | 155U New Boston
+employer_address2              | St 181
+employer_city                  | Woburn
+employer_state                 | MA
+employer_postal_code           | 01801
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 65 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22230-422983
+job_title                      | Database Admistrator
+employer_name                  | MAHAUGHA LLC
+secondary_entity_business_name | State of MA Secretary of Common Wealth Department
+employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
+employer_poc_phone             | 16092354355
+employer_poc_first_name        | VINOD
+employer_poc_last_name         | MANDALA
+worksite_address1              | 1 Ashburton Pl
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2650 ROUTE 130
+employer_address2              | SUITE K
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 8/17/2022
+end_date                       | 8/16/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 66 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22230-423000
+job_title                      | Database Admistrator
+employer_name                  | MAHAUGHA LLC
+secondary_entity_business_name | State of MA Secretary of Common Wealth Department
+employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
+employer_poc_phone             | 16092354355
+employer_poc_first_name        | VINOD
+employer_poc_last_name         | MANDALA
+worksite_address1              | 1 Ashburton Pl
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2650 ROUTE 130
+employer_address2              | SUITE K
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 8/17/2022
+end_date                       | 8/16/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 67 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25074-779192
+job_title                      | Business Analyst
+employer_name                  | California SoftTech Inc
+secondary_entity_business_name | State of MA- Education Department
+employer_poc_email             | hr@calisofttech.com
+employer_poc_phone             | 14085208758
+employer_poc_first_name        | Ashok
+employer_poc_last_name         | Kondapalli
+worksite_address1              | 135 Santilli Highway
+worksite_address2              | 
+worksite_city                  | Everett
+worksite_county                | EVERETT CITY
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 5600 W Maple Road
+employer_address2              | STE C307
+employer_city                  | West Bloomfield Township
+employer_state                 | MI
+employer_postal_code           | 48322
+begin_date                     | 3/21/2025
+end_date                       | 3/20/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 68 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25071-768311
+job_title                      | Business Analyst
+employer_name                  | California SoftTech Inc
+secondary_entity_business_name | State of MA- Education Department
+employer_poc_email             | hr@calisofttech.com
+employer_poc_phone             | 14085208758
+employer_poc_first_name        | Ashok
+employer_poc_last_name         | Kondapalli
+worksite_address1              | 135 Santilli Highway
+worksite_address2              | 
+worksite_city                  | Everett
+worksite_county                | EVERETT CITY
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 5600 W Maple Road
+employer_address2              | STE C307
+employer_city                  | West Bloomfield Township
+employer_state                 | MI
+employer_postal_code           | 48322
+begin_date                     | 3/19/2025
+end_date                       | 3/18/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 69 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24165-108750
+job_title                      | Talend ETL Developer
+employer_name                  | Artificial Inventions LLC
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | immigration@artificialinventions.com
+employer_poc_phone             | 15152285001
+employer_poc_first_name        | Radhika
+employer_poc_last_name         | Meka
+worksite_address1              | 501 Boylston St, Suite 5100,
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | SALEM CITY
+lawfirm_name_business_name     | 
+employer_address1              | 1977 J N Pease Place
+employer_address2              | Suite 201
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28262
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 70 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23054-799696
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
+employer_poc_phone             | 16096069010
+employer_poc_first_name        | STEVE
+employer_poc_last_name         | MONTELEONE
+worksite_address1              | 600 Washington Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 103 MORGAN LANE
+employer_address2              | SUITE 102
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 2/24/2023
+end_date                       | 2/23/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 71 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23055-802110
+job_title                      |  Software Developer
+employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
+employer_poc_phone             | 16096069010
+employer_poc_first_name        | STEVE
+employer_poc_last_name         | MONTELEONE
+worksite_address1              | 600 Washington Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 103 MORGAN LANE
+employer_address2              | SUITE 102
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 2/24/2023
+end_date                       | 2/23/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 72 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-20141-588331
+job_title                      | Senior Performance Engineer
+employer_name                  | COOLSOFT LLC
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | roger@coolsofttech.com
+employer_poc_phone             | 15024184234
+employer_poc_first_name        | Roger
+employer_poc_last_name         | Natarajan
+worksite_address1              | 100 Hancock Street
+worksite_address2              | 
+worksite_city                  | Quincy
+worksite_county                | QUINCY CITY
+lawfirm_name_business_name     | 
+employer_address1              | 3240 OFFICE POINTE PLACE
+employer_address2              | SUITE 200
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40220
+begin_date                     | 6/30/2020
+end_date                       | 6/30/2023
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 73 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23200-199362
+job_title                      | Business System Analyst
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 16783199818
+employer_poc_first_name        | Gowthami
+employer_poc_last_name         | Donthi
+worksite_address1              | 100 Cambridge Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 7/27/2023
+end_date                       | 7/26/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 74 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24026-670761
+job_title                      | Software Developer
+employer_name                  | GATEWAY SOLUTIONS INC
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | HR@GATEWAYSI.COM
+employer_poc_phone             | 19134404867
+employer_poc_first_name        | SIVA
+employer_poc_last_name         | JASTI
+worksite_address1              | 135 Santilli Highway
+worksite_address2              | 
+worksite_city                  | Everett
+worksite_county                | EVERETT CITY
+lawfirm_name_business_name     | HALLETT MCCANN LAW GROUP LTD.
+employer_address1              | 12980 METCALF AVENUE
+employer_address2              | SUITE 330
+employer_city                  | OVERLAND PARK
+employer_state                 | KS
+employer_postal_code           | 66213
+begin_date                     | 1/29/2024
+end_date                       | 1/28/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 75 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23010-691802
+job_title                      | Software Developer
+employer_name                  | GSSR Inc
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | hr@gssr.com
+employer_poc_phone             | 17038802717
+employer_poc_first_name        | Maheshwar
+employer_poc_last_name         | Reddy
+worksite_address1              | 75 Pleasant Street
+worksite_address2              | 
+worksite_city                  | Malden
+worksite_county                | MALDEN CITY
+lawfirm_name_business_name     | 
+employer_address1              | 14900 Bogle Drive, Suite 100
+employer_address2              | 
+employer_city                  | Chantilly
+employer_state                 | VA
+employer_postal_code           | 20151
+begin_date                     | 1/10/2023
+end_date                       | 1/9/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 76 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25010-610353
+job_title                      | Snowflake Data Engineer
+employer_name                  | Imetris Corporation
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | carol@imetris.com
+employer_poc_phone             | 17344706819
+employer_poc_first_name        | Carol
+employer_poc_last_name         | Sperr
+worksite_address1              | 100 Cambridge Street Suite 300
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 162 South Industrial Drive
+employer_address2              | 
+employer_city                  | Saline
+employer_state                 | MI
+employer_postal_code           | 48176
+begin_date                     | 1/13/2025
+end_date                       | 1/12/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 77 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-20134-566890
+job_title                      | Sr. Java Full Stack Developer
+employer_name                  | Kyyba Inc
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | kavi@kyyba.com
+employer_poc_phone             | 12488139665
+employer_poc_first_name        | Kavidha
+employer_poc_last_name         | Selvaraj
+worksite_address1              | 100 Hancock St
+worksite_address2              | 
+worksite_city                  | Quincy
+worksite_county                | QUINCY CITY
+lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
+employer_address1              | 28230 Orchard Lake Road
+employer_address2              | Suite 130
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 11/8/2020
+end_date                       | 11/7/2023
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 78 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25016-623422
+job_title                      | Snowflake Data Engineer
+employer_name                  | Morlogic Inc
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | accounts@morlogic.com
+employer_poc_phone             | 17349292151
+employer_poc_first_name        | Chamu
+employer_poc_last_name         | Pammi
+worksite_address1              | 100 Cambridge, Suite 300
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2500 Packard Street
+employer_address2              | Suite 201
+employer_city                  | Ann Arbor
+employer_state                 | MI
+employer_postal_code           | 48104
+begin_date                     | 1/21/2025
+end_date                       | 1/20/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 79 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23096-910125
+job_title                      | .Net Developer
+employer_name                  | Quest IT Solutions Inc
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | legal@questits.com
+employer_poc_phone             | 18325328877
+employer_poc_first_name        | Sunil Kumar
+employer_poc_last_name         | Gandhe
+worksite_address1              | 100 cambridge st
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 122 Venice St
+employer_address2              | 
+employer_city                  | Sugar Land
+employer_state                 | TX
+employer_postal_code           | 77478
+begin_date                     | 7/1/2023
+end_date                       | 6/30/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 80 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21355-779993
+job_title                      | .Net Developer
+employer_name                  | Quest IT Solutions Inc
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | legal@questits.com
+employer_poc_phone             | 18325328877
+employer_poc_first_name        | Sunil Kumar
+employer_poc_last_name         | Gandhe
+worksite_address1              | 1 Winter St
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 122 Venice St
+employer_address2              | 
+employer_city                  | Sugar Land
+employer_state                 | TX
+employer_postal_code           | 77478
+begin_date                     | 1/3/2022
+end_date                       | 1/2/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 81 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23133-019591
+job_title                      | Information Security Engineer
+employer_name                  | Socotra Tech Services LLC
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | hr@socotratechservices.com
+employer_poc_phone             | 19256056614
+employer_poc_first_name        | Raghavendra
+employer_poc_last_name         | Chintapalli
+worksite_address1              | State Transportation Building, 10 Park Plaza
+worksite_address2              | STE 8150
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 462 E King Road
+employer_address2              | Suite 2
+employer_city                  | Malvern
+employer_state                 | PA
+employer_postal_code           | 19355
+begin_date                     | 10/1/2023
+end_date                       | 9/30/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 82 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25174-118976
+job_title                      | BI Analyst
+employer_name                  | Spark Technologies Inc
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | immigration@sparktechcorp.com
+employer_poc_phone             | 18609566187
+employer_poc_first_name        | Brianna
+employer_poc_last_name         | Meredith
+worksite_address1              | 100 Hancock St
+worksite_address2              | 
+worksite_city                  | Quincy
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | BBI Law Group P.C.
+employer_address1              | 750 Main St
+employer_address2              | Suite 1500
+employer_city                  | Hartford
+employer_state                 | CT
+employer_postal_code           | 06103
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 83 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25172-118535
+job_title                      | BI Analyst
+employer_name                  | Spark Technologies Inc
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | immigration@sparktechcorp.com
+employer_poc_phone             | 18609566187
+employer_poc_first_name        | Brianna
+employer_poc_last_name         | Meredith
+worksite_address1              | 100 Hancock St
+worksite_address2              | 
+worksite_city                  | Quincy
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | BBI Law Group P.C.
+employer_address1              | 750 Main St
+employer_address2              | Suite 1500
+employer_city                  | Hartford
+employer_state                 | CT
+employer_postal_code           | 06103
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 84 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25129-960400
+job_title                      | Cloud Architect
+employer_name                  | ePromptus Inc
+secondary_entity_business_name | State of Massachusetts
+employer_poc_email             | nag@epromptus.com
+employer_poc_phone             | 12484681603
+employer_poc_first_name        | Bharathi
+employer_poc_last_name         | Aytha
+worksite_address1              | 100 Hancock St.
+worksite_address2              | 
+worksite_city                  | Quincy
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
+employer_address1              | 24175 Northwestern Hwy.
+employer_address2              | Suite 130
+employer_city                  | Southfield
+employer_state                 | MI
+employer_postal_code           | 48075
+begin_date                     | 5/19/2025
+end_date                       | 5/18/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 85 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23128-001786
+job_title                      | Tableau Developer
+employer_name                  | Imetris Corporation
+secondary_entity_business_name | State of Massachusetts (EOHHS)
+employer_poc_email             | carol@imetris.com
+employer_poc_phone             | 17344706819
+employer_poc_first_name        | Carol
+employer_poc_last_name         | Sperr
+worksite_address1              | 250 Washington Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | 
+employer_address1              | 162 S. Industrial Drive
+employer_address2              | 
+employer_city                  | Saline
+employer_state                 | MI
+employer_postal_code           | 48176
+begin_date                     | 6/5/2023
+end_date                       | 6/4/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 86 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25037-671439
+job_title                      | Computer Programmer
+employer_name                  | GATEWAY SOLUTIONS INC
+secondary_entity_business_name | State of Massachusetts - Department of Education
+employer_poc_email             | HR@GATEWAYSI.COM
+employer_poc_phone             | 19134404867
+employer_poc_first_name        | SIVA
+employer_poc_last_name         | JASTI
+worksite_address1              | 135 Santilli Highway
+worksite_address2              | 
+worksite_city                  | Everett
+worksite_county                | EVERETT CITY
+lawfirm_name_business_name     | HALLETT MCCANN LAW GROUP LTD.
+employer_address1              | 12980 METCALF AVENUE
+employer_address2              | SUITE 330
+employer_city                  | OVERLAND PARK
+employer_state                 | KS
+employer_postal_code           | 66213
+begin_date                     | 3/1/2025
+end_date                       | 2/28/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 87 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23166-115834
+job_title                      | QA Analyst
+employer_name                  | Acadia Technologies Inc
+secondary_entity_business_name | State of Massachusetts / EOE (Executive Office of Education)
+employer_poc_email             | mitali@acadiatechnologies.com
+employer_poc_phone             | 16786884891
+employer_poc_first_name        | MITALI
+employer_poc_last_name         | DESAI
+worksite_address1              | 75 Pleasant Street
+worksite_address2              | 
+worksite_city                  | Malden,
+worksite_county                | MIDDLETON
+lawfirm_name_business_name     | LAW OFFICE OF KAVITHA RAMASAMI
+employer_address1              | 2250 Satellite Blvd.,
+employer_address2              | Ste 115
+employer_city                  | Duluth
+employer_state                 | GA
+employer_postal_code           | 30097
+begin_date                     | 6/15/2023
+end_date                       | 6/14/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 88 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24169-119735
+job_title                      | Software Developer
+employer_name                  | DATICS INC
+secondary_entity_business_name | State of Massachusetts Administration and Finance ITA&F
+employer_poc_email             | immigration@daticsinc.com
+employer_poc_phone             | 17044538128
+employer_poc_first_name        | Shraddha Reddy
+employer_poc_last_name         | Aileni
+worksite_address1              | McCormack Building, 1 Ashburton Pl
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | THE LAW FIRM OF SIM, PARVATHANENI AND BROWN PLLC
+employer_address1              | 1315 Macom Drive
+employer_address2              | Suite 004
+employer_city                  | Naperville
+employer_state                 | IL
+employer_postal_code           | 60564
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 89 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23064-823459
+job_title                      | Business Analyst
+employer_name                  | Adroit Associates Inc
+secondary_entity_business_name | State of Massachusetts,  Executive Office of Education
+employer_poc_email             | immigration@adroitassociates.com
+employer_poc_phone             | 17325169600
+employer_poc_first_name        | Prasada
+employer_poc_last_name         | Indukuri
+worksite_address1              | 75 Pleasant Street
+worksite_address2              | 
+worksite_city                  | Malden
+worksite_county                | MALDEN CITY
+lawfirm_name_business_name     | Shahin Qureshi Law Offices, P.L.L.C.
+employer_address1              | 100 Wood Avenue South
+employer_address2              | Suite 108
+employer_city                  | Iselin
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 9/1/2023
+end_date                       | 8/31/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 90 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23188-172441
+job_title                      | Technical Project Manager
+employer_name                  | Ventois Inc
+secondary_entity_business_name | State of Massachusetts, DOR
+employer_poc_email             | skota@ventois.com
+employer_poc_phone             | 15089257979
+employer_poc_first_name        | Suman Reddy
+employer_poc_last_name         | Kota
+worksite_address1              | 200 Arlington St
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | INTERNATIONAL LEGAL AND BUSINESS SERVICES GROUP LLP
+employer_address1              | 382 Boston Tpke
+employer_address2              | Suite 201
+employer_city                  | Shrewsbury
+employer_state                 | MA
+employer_postal_code           | 01545
+begin_date                     | 12/24/2023
+end_date                       | 12/23/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 91 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22144-207305
+job_title                      | Business Analyst
+employer_name                  | QUANTUM TECHNOLOGIES INC
+secondary_entity_business_name | State of Massachusetts, Executive Office of Health and Human Services
+employer_poc_email             | HR@QUANTUMTECHINC.COM
+employer_poc_phone             | 17032149756
+employer_poc_first_name        | Shruti
+employer_poc_last_name         | SHARMA
+worksite_address1              | 100 Hancock St
+worksite_address2              | 
+worksite_city                  | Quincy
+worksite_county                | QUINCY CITY
+lawfirm_name_business_name     | Law Offices of Rakesh Mehrotra
+employer_address1              | 7635 LEESBURG PIKE
+employer_address2              | SUITE B
+employer_city                  | FALLS CHURCH
+employer_state                 | VA
+employer_postal_code           | 22043
+begin_date                     | 10/1/2022
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 92 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24116-923897
+job_title                      | IT Business Analyst
+employer_name                  | Inrika Inc
+secondary_entity_business_name | State of Massachusetts/EOHHS
+employer_poc_email             | immigration@inrika.com
+employer_poc_phone             | 13476841902
+employer_poc_first_name        | Ajit
+employer_poc_last_name         | Kumar
+worksite_address1              | 100 Hancock St
+worksite_address2              | 
+worksite_city                  | Quincy
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | International Legal and Business Services Group LLP
+employer_address1              | 3759 US Highway 1
+employer_address2              | Suite 103
+employer_city                  | Monmouth Junction
+employer_state                 | NJ
+employer_postal_code           | 08852
+begin_date                     | 4/29/2024
+end_date                       | 4/28/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 93 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23047-779940
+job_title                      | Resident
+employer_name                  | Mass General Brigham Incorporated
+secondary_entity_business_name | Suffolk County Sheriffs Department , South Bay House of Corrections
+employer_poc_email             | npalatas@partners.org
+employer_poc_phone             | 18572822421
+employer_poc_first_name        | Noel
+employer_poc_last_name         | Palatas
+worksite_address1              | 20 Bradston Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | Office for Global Professionals and Scholars
+employer_address2              | 399 Revolution Drive
+employer_city                  | Somerville
+employer_state                 | MA
+employer_postal_code           | 02145
+begin_date                     | 7/1/2023
+end_date                       | 6/30/2025
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 94 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22056-932442
+job_title                      | QUALITY ASSURANCE ANALYST
+employer_name                  | COMPUSOFT INTEGRATED SOLUTIONS INC
+secondary_entity_business_name | THE COMMONWEALTH OF MASSACHUSETTS EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE DEPARTMENT OF REVENUE
+employer_poc_email             | pkoganti@compusoft-is.com
+employer_poc_phone             | 12485389494
+employer_poc_first_name        | PRATAP
+employer_poc_last_name         | KOGANTI
+worksite_address1              | 200 ARLINGTON STREET
+worksite_address2              | 
+worksite_city                  | CHELSEA
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 31500 W 13 MILE ROAD
+employer_address2              | SUITE 200
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 8/20/2022
+end_date                       | 8/19/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 95 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24200-206224
+job_title                      | SOFTWARE TESTER
+employer_name                  | IT RESILIENCE INC
+secondary_entity_business_name | THE COMMONWEALTH OF MASSACHUSETTS EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE DEPARTMENT OF REVENUE
+employer_poc_email             | SHIVALI@ITRESILIENCETECH.COM
+employer_poc_phone             | 16822306648
+employer_poc_first_name        | SHIVALI
+employer_poc_last_name         | NUKALA
+worksite_address1              | 200 ARLINGTON STREET
+worksite_address2              | 
+worksite_city                  | CHELSEA
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 6675 MEDITERRANEAN DRIVE
+employer_address2              | SUITE 504
+employer_city                  | MCKINNEY
+employer_state                 | TX
+employer_postal_code           | 75072
+begin_date                     | 8/1/2024
+end_date                       | 7/31/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 96 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24219-248466
+job_title                      | SOFTWARE TESTER
+employer_name                  | IT RESILIENCE INC
+secondary_entity_business_name | THE COMMONWEALTH OF MASSACHUSETTS EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE DEPARTMENT OF REVENUE
+employer_poc_email             | SHIVALI@ITRESILIENCETECH.COM
+employer_poc_phone             | 16822306648
+employer_poc_first_name        | SHIVALI
+employer_poc_last_name         | NUKALA
+worksite_address1              | 200 ARLINGTON STREET
+worksite_address2              | 
+worksite_city                  | CHELSEA
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 6675 MEDITERRANEAN DRIVE
+employer_address2              | SUITE 504
+employer_city                  | MCKINNEY
+employer_state                 | TX
+employer_postal_code           | 75072
+begin_date                     | 8/13/2024
+end_date                       | 8/12/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 97 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24022-655040
+job_title                      | QA Analyst
+employer_name                  | IP HEIGHTS LLC
+secondary_entity_business_name | The Commonwealth of Massachusetts, Department of Revenue (DOR)
+employer_poc_email             | Hr@ipheights.com
+employer_poc_phone             | 17324551455
+employer_poc_first_name        | Shiva kumar
+employer_poc_last_name         | Chikine
+worksite_address1              | 200 Arlington St
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 145 Talmadge Road
+employer_address2              | Suite 18
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 1/22/2024
+end_date                       | 1/21/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 98 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24022-655038
+job_title                      | QA Analyst
+employer_name                  | IP HEIGHTS LLC
+secondary_entity_business_name | The Commonwealth of Massachusetts, Department of Revenue (DOR)
+employer_poc_email             | Hr@ipheights.com
+employer_poc_phone             | 17324551455
+employer_poc_first_name        | Shiva kumar
+employer_poc_last_name         | Chikine
+worksite_address1              | 200 Arlington St
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 145 Talmadge Road
+employer_address2              | Suite 18
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 1/22/2024
+end_date                       | 1/21/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 99 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23145-054674
+job_title                      | PEGA Systems Architect
+employer_name                  | Comptech Associates Inc
+secondary_entity_business_name | The Commonwealth of Massachusetts, Executive Office for Administration and Finance, Department of Revenue
+employer_poc_email             | anil@comptechassoc.com
+employer_poc_phone             | 17328735040
+employer_poc_first_name        | Anil
+employer_poc_last_name         | Sabharwal
+worksite_address1              | 200 Arlington Street
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | Rondon Law Group LLC
+employer_address1              | 1075 Easton Avenue
+employer_address2              | Tower 1, Suite 4
+employer_city                  | Somerset
+employer_state                 | NJ
+employer_postal_code           | 08873
+begin_date                     | 11/10/2023
+end_date                       | 11/9/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 100 ]----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23025-727974
+job_title                      | PEGA Systems Architect
+employer_name                  | Comptech Associates Inc
+secondary_entity_business_name | The Commonwealth of Massachusetts, Executive Office for Administration and Finance, Department of Revenue
+employer_poc_email             | anil@comptechassoc.com
+employer_poc_phone             | 17328735040
+employer_poc_first_name        | Anil
+employer_poc_last_name         | Sabharwal
+worksite_address1              | 200 Arlington Street
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | Rondon Law Group LLC
+employer_address1              | 1075 Easton Avenue
+employer_address2              | Tower 1, Suite 4
+employer_city                  | Somerset
+employer_state                 | NJ
+employer_postal_code           | 08873
+begin_date                     | 1/25/2023
+end_date                       | 1/24/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 101 ]----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-20356-972152
+job_title                      | Lead IT Applications Developer - KBGFJG127476-1
+employer_name                  | KBR Inc
+secondary_entity_business_name | U.S. Department of Transportation
+employer_poc_email             | Iris.Landry@kbr.com
+employer_poc_phone             | 17137535914
+employer_poc_first_name        | Iris
+employer_poc_last_name         | Landry
+worksite_address1              | 55 Broadway
+worksite_address2              | 
+worksite_city                  | Cambridge
+worksite_county                | CAMBRIDGE CITY
+lawfirm_name_business_name     | EY Law LLP
+employer_address1              | 601 Jefferson Street
+employer_address2              | 
+employer_city                  | Houston
+employer_state                 | TX
+employer_postal_code           | 77002
+begin_date                     | 2/19/2021
+end_date                       | 2/18/2024
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 102 ]----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22166-283441
+job_title                      | Principal Technical Professional – Test Engineering 
+employer_name                  | KBR Wyle Services LLC
+secondary_entity_business_name | U.S. Department of Transportation
+employer_poc_email             | Iris.Landry@kbr.com
+employer_poc_phone             | 17137535914
+employer_poc_first_name        | Iris
+employer_poc_last_name         | Landry
+worksite_address1              | 55 Broadway
+worksite_address2              | 
+worksite_city                  | Cambridge
+worksite_county                | CAMBRIDGE CITY
+lawfirm_name_business_name     | EY Law LLP
+employer_address1              | 601 Jefferson Street
+employer_address2              | 
+employer_city                  | Houston
+employer_state                 | TX
+employer_postal_code           | 77002
+begin_date                     | 7/30/2022
+end_date                       | 7/29/2025
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 103 ]----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22130-155445
+job_title                      | Sr. Technical Professional - Software Engineer
+employer_name                  | KBR Wyle Services LLC
+secondary_entity_business_name | U.S. Department of Transportation
+employer_poc_email             | Iris.Landry@kbr.com
+employer_poc_phone             | 17137535914
+employer_poc_first_name        | Iris
+employer_poc_last_name         | Landry
+worksite_address1              | 55 Broadway
+worksite_address2              | 
+worksite_city                  | Cambridge
+worksite_county                | CAMBRIDGE CITY
+lawfirm_name_business_name     | EY Law LLP
+employer_address1              | 601 Jefferson Street
+employer_address2              | 
+employer_city                  | Houston
+employer_state                 | TX
+employer_postal_code           | 77002
+begin_date                     | 6/28/2022
+end_date                       | 6/27/2025
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 104 ]----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23107-937085
+job_title                      | Software Developer - KBGFJG190550-2
+employer_name                  | KBR Wyle Services LLC
+secondary_entity_business_name | US Department of Transportation
+employer_poc_email             | Iris.Landry@kbr.com
+employer_poc_phone             | 17137535914
+employer_poc_first_name        | Iris
+employer_poc_last_name         | Landry
+worksite_address1              | 55 Broadway
+worksite_address2              | 
+worksite_city                  | Cambridge
+worksite_county                | CAMBRIDGE CITY
+lawfirm_name_business_name     | EY Law LLP
+employer_address1              | 601 Jefferson Street
+employer_address2              | 
+employer_city                  | Houston
+employer_state                 | TX
+employer_postal_code           | 77002
+begin_date                     | 10/1/2023
+end_date                       | 9/30/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 105 ]----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23094-901089
+job_title                      | Software Developer - KBGFJG190550-2
+employer_name                  | KBR Wyle Services LLC
+secondary_entity_business_name | US Department of Transportation
+employer_poc_email             | Iris.Landry@kbr.com
+employer_poc_phone             | 17137535914
+employer_poc_first_name        | Iris
+employer_poc_last_name         | Landry
+worksite_address1              | 55 Broadway
+worksite_address2              | 
+worksite_city                  | Cambridge
+worksite_county                | CAMBRIDGE CITY
+lawfirm_name_business_name     | EY Law LLP
+employer_address1              | 601 Jefferson Street
+employer_address2              | 
+employer_city                  | Houston
+employer_state                 | TX
+employer_postal_code           | 77002
+begin_date                     | 10/1/2023
+end_date                       | 9/30/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 106 ]----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22126-144833
+job_title                      | Sr. Technical Professional-  KBGFJG191306-1
+employer_name                  | KBR Wyle Services LLC
+secondary_entity_business_name | US Department of Transportation
+employer_poc_email             | Iris.Landry@kbr.com
+employer_poc_phone             | 17137535914
+employer_poc_first_name        | Iris
+employer_poc_last_name         | Landry
+worksite_address1              | 55 Broadway
+worksite_address2              | 
+worksite_city                  | Cambridge
+worksite_county                | CAMBRIDGE CITY
+lawfirm_name_business_name     | EY Law LLP
+employer_address1              | 601 Jefferson Street
+employer_address2              | 
+employer_city                  | Houston
+employer_state                 | TX
+employer_postal_code           | 77002
+begin_date                     | 5/16/2022
+end_date                       | 5/15/2025
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 107 ]----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23123-990568
+job_title                      | Portuguese Teacher
+employer_name                  | Massachusetts Department of Elementary and Secondary Education Hudson Public Schools
+secondary_entity_business_name | 
+employer_poc_email             | djgale@hudson.k12.ma.us
+employer_poc_phone             | 19785676100
+employer_poc_first_name        | Daniel
+employer_poc_last_name         | Gale
+worksite_address1              | 155 Apsley Street
+worksite_address2              | 
+worksite_city                  | Hudson
+worksite_county                | HUDSON
+lawfirm_name_business_name     | Garreta Law LLC
+employer_address1              | 155 Apsley Street
+employer_address2              | 
+employer_city                  | Hudson
+employer_state                 | MA
+employer_postal_code           | 01749
+begin_date                     | 6/1/2023
+end_date                       | 5/31/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+

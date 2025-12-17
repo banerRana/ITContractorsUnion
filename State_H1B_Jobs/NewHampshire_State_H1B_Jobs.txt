@@ -1,0 +1,760 @@
+-[ RECORD 1 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25135-978203
+job_title                      | Data Analysis Administrator
+employer_name                  | SMA Tech LLC
+secondary_entity_business_name | Department of Human Services/Remote
+employer_poc_email             | amar@smatechllc.com
+employer_poc_phone             | 16032602049
+employer_poc_first_name        | Amaralingeswara Rao
+employer_poc_last_name         | Nalabothula
+worksite_address1              | 6 Hamlett Dr
+worksite_address2              | Apt 18
+worksite_city                  | Nashua
+worksite_county                | HILLSBOROUGH
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 46 Technology way
+employer_address2              | Ste 1E1A
+employer_city                  | Nashua
+employer_state                 | NH
+employer_postal_code           | 03060
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 2 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24162-090016
+job_title                      | Systems Analyst
+employer_name                  | Coforge Limited
+secondary_entity_business_name | Department of Information Technology of New Hampshire
+employer_poc_email             | luka.poulton@coforge.com
+employer_poc_phone             | 17702906191
+employer_poc_first_name        | Luka
+employer_poc_last_name         | Poulton
+worksite_address1              | 33 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig, LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 3 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23041-767101
+job_title                      | Business System Analyst
+employer_name                  | Dallas Infotech LLC
+secondary_entity_business_name | Department of Information Technology, State of NH
+employer_poc_email             | hr@dallasinfotech.com
+employer_poc_phone             | 14798992624
+employer_poc_first_name        | Sarath Babu
+employer_poc_last_name         | Alla Venkata
+worksite_address1              | 2 Pillsbury St.
+worksite_address2              | Suite 200
+worksite_city                  | Concord
+worksite_county                | CONCORD CITY
+lawfirm_name_business_name     | Burgos & Garritson Law
+employer_address1              | 100 N. Central Expressway
+employer_address2              | Suite 500
+employer_city                  | Richardson
+employer_state                 | TX
+employer_postal_code           | 75080
+begin_date                     | 2/17/2023
+end_date                       | 2/16/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 4 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22026-855135
+job_title                      | Software Developer
+employer_name                  | RAM Software Solutions Inc
+secondary_entity_business_name | NH Department of Information Technology
+employer_poc_email             | ramesh.makkena@ramsoftinc.com
+employer_poc_phone             | 19732415052
+employer_poc_first_name        | Ramesh
+employer_poc_last_name         | Makkena
+worksite_address1              | 27 Hazen dr
+worksite_address2              | 
+worksite_city                  | concord
+worksite_county                | CONCORD CITY
+lawfirm_name_business_name     | 
+employer_address1              | 333 Littleton ROAD
+employer_address2              | ste 302
+employer_city                  | Parsippany
+employer_state                 | NJ
+employer_postal_code           | 07054
+begin_date                     | 1/26/2022
+end_date                       | 1/25/2024
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 5 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22242-446083
+job_title                      | Salesforce Developer
+employer_name                  | Global IT Inc
+secondary_entity_business_name | New Hampshire Department of Health & Human Services
+employer_poc_email             | immigration@globalitinc.com
+employer_poc_phone             | 19725366063
+employer_poc_first_name        | Prabhath
+employer_poc_last_name         | Kasaraneni
+worksite_address1              | 64 South St
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Reddy & Neumann P.C.
+employer_address1              | 1300 W Walnut Hill Ln., Suite  263
+employer_address2              | 
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75038
+begin_date                     | 9/7/2022
+end_date                       | 9/6/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 6 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25106-870192
+job_title                      | Software Developer
+employer_name                  | Coforge DPA NA Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | Vishakha.Gandhi@coforge.com
+employer_poc_phone             | 17326684134
+employer_poc_first_name        | Vishakha
+employer_poc_last_name         | Gandhi
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig, LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 4/23/2025
+end_date                       | 4/22/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23108-943708
+job_title                      | Systems Analyst
+employer_name                  | Coforge DPA NA Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | luka.poulton@coforge.com
+employer_poc_phone             | 17702906191
+employer_poc_first_name        | Luka
+employer_poc_last_name         | Poulton
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig, LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 4/25/2023
+end_date                       | 4/24/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24354-559643
+job_title                      | Systems Analyst
+employer_name                  | Coforge Limited
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | Vishakha.Gandhi@coforge.com
+employer_poc_phone             | 17326684134
+employer_poc_first_name        | Vishakha
+employer_poc_last_name         | Gandhi
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig, LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 12/26/2024
+end_date                       | 12/25/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22034-876548
+job_title                      | Senior Systems Analyst
+employer_name                  | Coforge Limited f/k/a NIIT Technologies Limited
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | Luka.Poulton@coforge.com
+employer_poc_phone             | 17702906191
+employer_poc_first_name        | Luka
+employer_poc_last_name         | Poulton
+worksite_address1              | 33 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig, LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2/25/2022
+end_date                       | 2/24/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22053-919157
+job_title                      | Java Full Stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 19727829648
+employer_poc_first_name        | Raghavendra
+employer_poc_last_name         | Konduru
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | International Legal And Business Services Group LLP
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 2/22/2022
+end_date                       | 2/21/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22060-939267
+job_title                      | Java Full Stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 19727829648
+employer_poc_first_name        | Raghavendra
+employer_poc_last_name         | Konduru
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | International Legal And Business Services Group LLP
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 3/1/2022
+end_date                       | 2/28/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22061-943312
+job_title                      | Java Full stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 16783199818
+employer_poc_first_name        | Raghavendra
+employer_poc_last_name         | Konduru
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Atlanta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 3/3/2022
+end_date                       | 3/2/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24263-350960
+job_title                      | Java Full Stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 16783199818
+employer_poc_first_name        | Umamahesh
+employer_poc_last_name         | Karanam
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 9/27/2024
+end_date                       | 9/26/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24263-350750
+job_title                      | Java Full Stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 16783199818
+employer_poc_first_name        | Umamahesh
+employer_poc_last_name         | Karanam
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 9/27/2024
+end_date                       | 9/26/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 15 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25028-649092
+job_title                      | Software Systems Engineer
+employer_name                  | Tech Mahindra (Americas) Inc
+secondary_entity_business_name | New Hampshire Division of Motor  Vehicles, Department of Safety
+employer_poc_email             | LCAMovement@Techmahindra.com
+employer_poc_phone             | 19732169008
+employer_poc_first_name        | Ulpa
+employer_poc_last_name         | Shukla
+worksite_address1              | 23 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Chugh, LLP
+employer_address1              | 500 Hills Drive
+employer_address2              | Suite 200A
+employer_city                  | Bedminster
+employer_state                 | NJ
+employer_postal_code           | 07921
+begin_date                     | 2/4/2025
+end_date                       | 2/3/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 16 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25154-044593
+job_title                      | Computer Programmer
+employer_name                  | TECH MAHINDRA (AMERICAS) INC
+secondary_entity_business_name | New Hampshire Division of Motor vehicles, Department of Safety
+employer_poc_email             | LCAMovement@Techmahindra.com
+employer_poc_phone             | 19732169008
+employer_poc_first_name        | ULPA
+employer_poc_last_name         | SHUKLA
+worksite_address1              | 23 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 500 HILLS DRIVE
+employer_address2              | SUITE 200A
+employer_city                  | BEDMINSTER
+employer_state                 | NJ
+employer_postal_code           | 07921
+begin_date                     | 6/18/2025
+end_date                       | 6/17/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22132-167093
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | ACEQUEST CORPORATION
+secondary_entity_business_name | STATE OF NEW HAMPSHIRE - DEPARTMENT OF EDUCATION
+employer_poc_email             | SRINIVAS.GATTU@ACEQUESTCORPORATION.COM
+employer_poc_phone             | 17322100546
+employer_poc_first_name        | SRINIVAS
+employer_poc_last_name         | GATTU
+worksite_address1              | 101 PLEASANT STREET
+worksite_address2              | 
+worksite_city                  | CONCORD
+worksite_county                | CONCORD CITY
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC
+employer_address1              | 200 CENTENNIAL AVENUE
+employer_address2              | SUITE 123
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 5/23/2022
+end_date                       | 5/22/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22064-953853
+job_title                      | NETWORK ENGINEER
+employer_name                  | WISE GEN INC
+secondary_entity_business_name | STATE OF NEW HAMPSHIRE DOS/DOIT
+employer_poc_email             | hr@wisegeninc.com
+employer_poc_phone             | 17348556300
+employer_poc_first_name        | Kiran
+employer_poc_last_name         | Puram
+worksite_address1              | 33 HAZEN DR
+worksite_address2              | 
+worksite_city                  | CONCORD
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 32985 Hamilton Court
+employer_address2              | Suite 210
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 3/4/2022
+end_date                       | 9/30/2024
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 19 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24079-813815
+job_title                      | Software Developer
+employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+secondary_entity_business_name | State of New Hampshire
+employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
+employer_poc_phone             | 16096069010
+employer_poc_first_name        | STEVE
+employer_poc_last_name         | MONTELEONE
+worksite_address1              | 7 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | CONCORD CITY
+lawfirm_name_business_name     | 
+employer_address1              | 103 MORGAN LANE
+employer_address2              | SUITE 102
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 3/25/2024
+end_date                       | 3/24/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 20 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23066-830487
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | CONCH TECHNOLOGIES INC
+secondary_entity_business_name | State of New Hampshire
+employer_poc_email             | MAREDU@CONCHTECH.COM
+employer_poc_phone             | 19017546870
+employer_poc_first_name        | MADHU
+employer_poc_last_name         | MAREDU
+worksite_address1              | 64 South Street
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 6750 POPLAR AVE
+employer_address2              | SUITE 711
+employer_city                  | MEMPHIS
+employer_state                 | TN
+employer_postal_code           | 38138
+begin_date                     | 3/13/2023
+end_date                       | 3/12/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22171-297781
+job_title                      | Programmer Analyst
+employer_name                  | Ness USA Inc
+secondary_entity_business_name | State of New Hampshire
+employer_poc_email             | Thomas.McLaughlin@ness.com
+employer_poc_phone             | 17242457100
+employer_poc_first_name        | Thomas
+employer_poc_last_name         | McLaughlin
+worksite_address1              | 64 South street,
+worksite_address2              | 
+worksite_city                  | Concord,
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 1000 Town Center Way
+employer_address2              | Suite 210
+employer_city                  | Canonsburg
+employer_state                 | PA
+employer_postal_code           | 15317
+begin_date                     | 10/30/2022
+end_date                       | 10/29/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22133-170753
+job_title                      | Programmer Analyst
+employer_name                  | Ness USA Inc
+secondary_entity_business_name | State of New Hampshire
+employer_poc_email             | Thomas.McLaughlin@ness.com
+employer_poc_phone             | 17242495667
+employer_poc_first_name        | Thomas
+employer_poc_last_name         | McLaughlin
+worksite_address1              | 64 South Street,
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 1000 Town Center Way
+employer_address2              | Suite 210
+employer_city                  | Canonsburg
+employer_state                 | PA
+employer_postal_code           | 15317
+begin_date                     | 5/13/2022
+end_date                       | 5/12/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 23 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24285-401585
+job_title                      | Senior Systems Analyst
+employer_name                  | Coforge Limited
+secondary_entity_business_name | State of New Hampshire Department of Information Technology
+employer_poc_email             | Vishakha.Gandhi@coforge.com
+employer_poc_phone             | 17326684134
+employer_poc_first_name        | Vishakha
+employer_poc_last_name         | Gandhi
+worksite_address1              | 33 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig, LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2/25/2025
+end_date                       | 2/24/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 24 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22361-661861
+job_title                      | Systems Analyst
+employer_name                  | Coforge Limited
+secondary_entity_business_name | State of New Hampshire, Department of Information Technology
+employer_poc_email             | luka.poulton@coforge.com
+employer_poc_phone             | 17702906191
+employer_poc_first_name        | Luka
+employer_poc_last_name         | Poulton
+worksite_address1              | 33 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig, LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 5/25/2023
+end_date                       | 5/24/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 25 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23255-338797
+job_title                      | Software Developer
+employer_name                  | Primesoft Technologies Inc
+secondary_entity_business_name | Symbiosys Solutions/State Of New Hampshire.
+employer_poc_email             | kashi@primesft.net
+employer_poc_phone             | 12488953839
+employer_poc_first_name        | Kashi
+employer_poc_last_name         | KOTHA
+worksite_address1              | 46 S Main St  4
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
+employer_address1              | 830 Kirts Blvd
+employer_address2              | Ste 380
+employer_city                  | Troy
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 9/19/2023
+end_date                       | 9/18/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 26 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24193-190544
+job_title                      | QUALITY ASSURANCE ANALYST
+employer_name                  | COMPUSOFT INTEGRATED SOLUTIONS INC
+secondary_entity_business_name | THE COMMONWEALTH OF MASSACHUSETTS EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE DEPARTMENT OF REVENUE
+employer_poc_email             | pkoganti@compusoft-is.com
+employer_poc_phone             | 12485389494
+employer_poc_first_name        | PRATAP
+employer_poc_last_name         | KOGANTI
+worksite_address1              | 349 BROOK VILLAGE RD
+worksite_address2              | APT  36
+worksite_city                  | NASHUA
+worksite_county                | HILLSBOROUGH
+lawfirm_name_business_name     | 
+employer_address1              | 31500 W 13 MILE ROAD
+employer_address2              | SUITE 200
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 8/5/2024
+end_date                       | 8/4/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 27 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-20119-524883
+job_title                      | Bureau Chief, Bureau of Population Health & Community Srvcs
+employer_name                  | NEW HAMPSHIRE DEPARTMENT OF HEALTH AND HUMAN SERVICES
+secondary_entity_business_name | 
+employer_poc_email             | FRANK.NACHMAN@DHHS.NH.GOV
+employer_poc_phone             | 16032719228
+employer_poc_first_name        | Frank
+employer_poc_last_name         | NACHMAN
+worksite_address1              | 29 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | CONCORD CITY
+lawfirm_name_business_name     | GoffWilson, P.A.
+employer_address1              | 129 PLEASANT STREET
+employer_address2              | 
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 5/4/2020
+end_date                       | 5/3/2023
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 28 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25160-070679
+job_title                      | COMP & INFORMATION ANALYST 4
+employer_name                  | State of New Hampshire, Department of Administrative Services
+secondary_entity_business_name | 
+employer_poc_email             | james.a.shepard@das.nh.gov
+employer_poc_phone             | 16032713088
+employer_poc_first_name        | James
+employer_poc_last_name         | Shepard
+worksite_address1              | 105 Pleasant St.
+worksite_address2              | 3rd Floor, Office 302C
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 25 Capitol Street
+employer_address2              | Suite 308
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25140-997307
+job_title                      | COMP & INFORMATION ANALYST 4
+employer_name                  | State of New Hampshire, Department of Administrative Services,
+secondary_entity_business_name | 
+employer_poc_email             | james.a.shepard@das.nh.gov
+employer_poc_phone             | 16032713088
+employer_poc_first_name        | James
+employer_poc_last_name         | Shepard
+worksite_address1              | 105 Pleasant St.
+worksite_address2              | 3rd Floor, Office 302C
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 105 Pleasant St.
+employer_address2              | 3rd Floor, Office 302C
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 30 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25147-020586
+job_title                      | COMP & INFORMATION ANALYST 4
+employer_name                  | State of New Hampshire, Department of Administrative Services,
+secondary_entity_business_name | 
+employer_poc_email             | james.a.shepard@das.nh.gov
+employer_poc_phone             | 16032713088
+employer_poc_first_name        | James
+employer_poc_last_name         | Shepard
+worksite_address1              | 105 Pleasant St.
+worksite_address2              | 3rd Floor, Office 302C
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 105 Pleasant St.
+employer_address2              | 3rd Floor, Office 302C
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 31 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25147-020471
+job_title                      | COMP & INFORMATION ANALYST 4
+employer_name                  | State of New Hampshire, Department of Administrative Services,
+secondary_entity_business_name | 
+employer_poc_email             | james.a.shepard@das.nh.gov
+employer_poc_phone             | 16032713088
+employer_poc_first_name        | James
+employer_poc_last_name         | Shepard
+worksite_address1              | 105 Pleasant St.
+worksite_address2              | 3rd Floor
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 105 Pleasant St.
+employer_address2              | 3rd Floor, Office 302C
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 32 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25147-020692
+job_title                      | Planning Business Systems Manager
+employer_name                  | State of New Hampshire, Department of Safety
+secondary_entity_business_name | 
+employer_poc_email             | Amy.L.Newbury@dos.nh.gov
+employer_poc_phone             | 16032238020
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Newbury
+worksite_address1              | 7 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 33 Hazen Drive
+employer_address2              | 
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03305
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 33 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25119-915879
+job_title                      | Data and Digital Analyst
+employer_name                  | State of New Hampshire, New Hampshire Lottery Commission
+secondary_entity_business_name | 
+employer_poc_email             | Sharda.B.Rao@lottery.nh.gov
+employer_poc_phone             | 16032717132
+employer_poc_first_name        | Sharda
+employer_poc_last_name         | Rao
+worksite_address1              | 14 Integra Dr.
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 14 Integra Dr.
+employer_address2              | 
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+

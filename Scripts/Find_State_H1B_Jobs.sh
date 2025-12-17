@@ -8,6 +8,7 @@ states='Alabama:AL,Alaska:AK,Arizona:AZ,Arkansas:AR,California:CA,Colorado:CO,Co
 run_query () {
 
 q="select
+CASE_NUMBER,
 JOB_TITLE, 
 EMPLOYER_NAME,
 SECONDARY_ENTITY_BUSINESS_NAME,
@@ -24,7 +25,11 @@ EMPLOYER_ADDRESS1,
 EMPLOYER_ADDRESS2,
 EMPLOYER_CITY,
 EMPLOYER_STATE,
-EMPLOYER_POSTAL_CODE
+EMPLOYER_POSTAL_CODE,
+BEGIN_DATE,
+END_DATE,
+TOTAL_WORKER_POSITIONS,
+H_1B_DEPENDENT
 
 from LCA_Disclosure_Data_2022To2025Q3
 
@@ -48,6 +53,7 @@ WORKSITE_COUNTY;"
 
 /usr/local/pgsql/bin/psql -A -d lca_data -c "$q" > ../State_H1B_Jobs/$fname"_State_H1B_Jobs.csv"
 /usr/local/pgsql/bin/psql -H -d lca_data -c "$q" > ../State_H1B_Jobs/$fname"_State_H1B_Jobs.html"
+/usr/local/pgsql/bin/psql -x -d lca_data -c "$q" > ../State_H1B_Jobs/$fname"_State_H1B_Jobs.txt"
 
 }
 

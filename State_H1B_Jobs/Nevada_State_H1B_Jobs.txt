@@ -1,0 +1,1082 @@
+-[ RECORD 1 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23206-212750
+job_title                      | Technical Analyst
+employer_name                  | Lorven Group Inc
+secondary_entity_business_name | Caesars Digital Marketing Department
+employer_poc_email             | dilip@lorvengroupinc.com
+employer_poc_phone             | 17048995240
+employer_poc_first_name        | Dilip Kumar
+employer_poc_last_name         | Thotakuri
+worksite_address1              | 6385 S. Rainbow Blvd., Suite 700
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | Malik & Popiel, P.C.
+employer_address1              | 11006 Rushmore Dr, Suite 175
+employer_address2              | 
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28277
+begin_date                     | 7/25/2023
+end_date                       | 7/24/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 2 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25126-944462
+job_title                      | Software Engineer
+employer_name                  | Ness USA Inc
+secondary_entity_business_name | Clark County Election Department
+employer_poc_email             | Thomas.McLaughlin@ness.com
+employer_poc_phone             | 17247457100
+employer_poc_first_name        | Thomas
+employer_poc_last_name         | McLaughlin
+worksite_address1              | 965 Trade Dr
+worksite_address2              | 
+worksite_city                  | North Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 400 Southpointe Boulevard, Southpointe Plaza 1
+employer_address2              | Suite 230
+employer_city                  | Canonsburg
+employer_state                 | PA
+employer_postal_code           | 15317
+begin_date                     | 6/1/2025
+end_date                       | 3/14/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 3 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-203-23348-565793
+job_title                      | Project Manager
+employer_name                  | International Projects Consultancy Services (IPCS) Inc
+secondary_entity_business_name | Department of Motor Vehicles (DMV)
+employer_poc_email             | kuldeep@ipcs.net
+employer_poc_phone             | 19525414888
+employer_poc_first_name        | Kuldeep
+employer_poc_last_name         | Dhar
+worksite_address1              | 555 Wright Way
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | METROPOINT, Suite 1595
+employer_address2              | 600 South Highway 169
+employer_city                  | MINNEAPOLIS
+employer_state                 | MN
+employer_postal_code           | 55426
+begin_date                     | 2/2/2024
+end_date                       | 2/1/2026
+total_worker_positions         | 1
+h_1b_dependent                 | N/A
+-[ RECORD 4 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23096-911531
+job_title                      | DATAWAREHOUSE ENGINEER
+employer_name                  | Sysintelli Inc
+secondary_entity_business_name | Department of Veterans Affairs
+employer_poc_email             | PANNY@SYSINTELLI.COM
+employer_poc_phone             | 15714587810
+employer_poc_first_name        | Ravi
+employer_poc_last_name         | Hanumara
+worksite_address1              | 501 E LAKE MEAD PKWY
+worksite_address2              | UNIT 1124
+worksite_city                  | HENDERSON
+worksite_county                | CLARK
+lawfirm_name_business_name     | Sysintelli Inc
+employer_address1              | 1775 TYSONS BLVD
+employer_address2              | Suite 05124
+employer_city                  | TYSONS
+employer_state                 | VA
+employer_postal_code           | 22102
+begin_date                     | 4/13/2023
+end_date                       | 4/12/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 5 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22005-808842
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | PREMIER IT SOLUTIONS LLC
+secondary_entity_business_name | NEVADA DEPARTMENT OF EMPLOYMENT, TRAINING & REHABILITATION
+employer_poc_email             | HR@PREMIERITSOLUTIONS.COM
+employer_poc_phone             | 19722314747
+employer_poc_first_name        | KRUTIKA
+employer_poc_last_name         | AMIN
+worksite_address1              | 500 E 3RD ST
+worksite_address2              | 
+worksite_city                  | CARSON CITY
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 801 E CAMPBELL ROAD
+employer_address2              | SUITE 270
+employer_city                  | RICHARDSON
+employer_state                 | TX
+employer_postal_code           | 75081
+begin_date                     | 7/1/2022
+end_date                       | 6/30/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 6 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25003-592311
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | PREMIER IT SOLUTIONS LLC
+secondary_entity_business_name | NEVADA DEPARTMENT OF EMPLOYMENT, TRAINING & REHABILITATION
+employer_poc_email             | HR@PREMIERITSOLUTIONS.COM
+employer_poc_phone             | 19722314747
+employer_poc_first_name        | KRUTIKA
+employer_poc_last_name         | AMIN
+worksite_address1              | 1370 S CURRY ST
+worksite_address2              | 
+worksite_city                  | CARSON CITY
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 801 E CAMPBELL ROAD
+employer_address2              | SUITE 270
+employer_city                  | RICHARDSON
+employer_state                 | TX
+employer_postal_code           | 75081
+begin_date                     | 7/1/2025
+end_date                       | 6/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22250-459110
+job_title                      | BUSINESS INTELLIGENCE ANALYST
+employer_name                  | EFICENS SYSTEMS LLC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION
+employer_poc_email             | LEGAL@EFICENSIT.COM
+employer_poc_phone             | 16788929800
+employer_poc_first_name        | RAMU
+employer_poc_last_name         | VENIGANDLA
+worksite_address1              | 1263 S. STEWART STREET
+worksite_address2              | 
+worksite_city                  | CARSON CITY
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | MADAN & SAIGAL LLC
+employer_address1              | 5400 LAUREL SPRINGS PARKWAY
+employer_address2              | SUITE 603
+employer_city                  | SUWANEE
+employer_state                 | GA
+employer_postal_code           | 30024
+begin_date                     | 9/7/2022
+end_date                       | 9/6/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 8 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24344-527110
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | SOFTTUNE TECHNOLOGIES INC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION
+employer_poc_email             | Hr@softtunetech.com
+employer_poc_phone             | 13093244477
+employer_poc_first_name        | PRATHYUSHA
+employer_poc_last_name         | VALLURU
+worksite_address1              | 6610 ULLOM DR
+worksite_address2              | 
+worksite_city                  | LAS VEGAS
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 650 E DEVON AVE
+employer_address2              | SUITE 155
+employer_city                  | ITASCA
+employer_state                 | IL
+employer_postal_code           | 60143
+begin_date                     | 2/24/2025
+end_date                       | 2/23/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 9 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22054-924039
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | SOFTTUNE TECHNOLOGIES INC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION
+employer_poc_email             | Hr@softtunetech.com
+employer_poc_phone             | 13093244477
+employer_poc_first_name        | PRATHYUSHA
+employer_poc_last_name         | VALLURU
+worksite_address1              | 123 E WASHINGTON AVE
+worksite_address2              | 
+worksite_city                  | LAS VEGAS
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 650 E DEVON AVE
+employer_address2              | SUITE 155
+employer_city                  | ITASCA
+employer_state                 | IL
+employer_postal_code           | 60143
+begin_date                     | 2/24/2022
+end_date                       | 2/23/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 10 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24095-854409
+job_title                      | SYSTEM ENGINEER
+employer_name                  | TECHNODEED LLC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION
+employer_poc_email             | IMMIGRATION@TECHNODEED.COM
+employer_poc_phone             | 19193363030
+employer_poc_first_name        | DIVYA
+employer_poc_last_name         | KANDULA
+worksite_address1              | 6610 S ULLOM DR
+worksite_address2              | BLDG E
+worksite_city                  | LAS VEGAS
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 10404 CHAPEL HILL ROAD
+employer_address2              | SUITE 106
+employer_city                  | MORRISVILLE
+employer_state                 | NC
+employer_postal_code           | 27560
+begin_date                     | 4/15/2024
+end_date                       | 4/14/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 11 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22335-615852
+job_title                      | NETWORK ENGINEER
+employer_name                  | TECHNODEED LLC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION (NDOT)
+employer_poc_email             | IMMIGRATION@TECHNODEED.COM
+employer_poc_phone             | 19193363030
+employer_poc_first_name        | VENKAT PAVAN GANESH
+employer_poc_last_name         | PINAPATI
+worksite_address1              | 1301 OLD HOT SPRINGS ROAD
+worksite_address2              | ROOM NO  108
+worksite_city                  | CARSON CITY
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 10404 CHAPEL HILL ROAD
+employer_address2              | SUITE 106
+employer_city                  | MORRISVILLE
+employer_state                 | NC
+employer_postal_code           | 27560
+begin_date                     | 12/12/2022
+end_date                       | 12/11/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 12 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24074-798494
+job_title                      | NETWORK ENGINEER
+employer_name                  | TECHNODEED LLC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION (NDOT)
+employer_poc_email             | IMMIGRATION@TECHNODEED.COM
+employer_poc_phone             | 19193363030
+employer_poc_first_name        | DIVYA
+employer_poc_last_name         | KANDULA
+worksite_address1              | 1164 WESTERN AVE
+worksite_address2              | 
+worksite_city                  | LAS VEGAS
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 10404 CHAPEL HILL ROAD
+employer_address2              | SUITE 106
+employer_city                  | MORRISVILLE
+employer_state                 | NC
+employer_postal_code           | 27560
+begin_date                     | 3/25/2024
+end_date                       | 3/24/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22336-618348
+job_title                      | NETWORK ENGINEER
+employer_name                  | TECHNODEED LLC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION (NDOT)
+employer_poc_email             | IMMIGRATION@TECHNODEED.COM
+employer_poc_phone             | 19193363030
+employer_poc_first_name        | VENKAT PAVAN GANESH
+employer_poc_last_name         | PINAPATI
+worksite_address1              | 1164 WESTERN AVE
+worksite_address2              | 
+worksite_city                  | LAS VEGAS
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 10404 CHAPEL HILL ROAD
+employer_address2              | SUITE 106
+employer_city                  | MORRISVILLE
+employer_state                 | NC
+employer_postal_code           | 27560
+begin_date                     | 12/12/2022
+end_date                       | 12/11/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22321-593519
+job_title                      | Database Engineer
+employer_name                  | SAGARSOFT INC
+secondary_entity_business_name | Nevada Department of Taxation - IT Division
+employer_poc_email             | Selva@sagarsoft.com
+employer_poc_phone             | 18606332025
+employer_poc_first_name        | Selvanaigam
+employer_poc_last_name         | Subramaniam
+worksite_address1              | 1550 College Parkway
+worksite_address2              | N/A
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Lamboley Law Firm
+employer_address1              | 200 Glastonbury Boulevard
+employer_address2              | Suite 304
+employer_city                  | Glastonbury
+employer_state                 | CT
+employer_postal_code           | 06033
+begin_date                     | 11/28/2022
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 15 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22252-462885
+job_title                      | Systems Administrator
+employer_name                  | IT IDEOLOGY LLC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | HR@ITIDEOLOGY.COM
+employer_poc_phone             | 12014167913
+employer_poc_first_name        | ANN
+employer_poc_last_name         | ZULLO
+worksite_address1              | 1164 Western Ave.
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | Feldman & Bossert LLC
+employer_address1              | 109 SOUTH MAIN STREET
+employer_address2              | SUITE 16
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 9/8/2022
+end_date                       | 9/7/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 16 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23220-246671
+job_title                      | Systems Administrator
+employer_name                  | IT IDEOLOGY LLC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | HR@ITIDEOLOGY.COM
+employer_poc_phone             | 12014167913
+employer_poc_first_name        | ANN
+employer_poc_last_name         | ZULLO
+worksite_address1              | 1164 Western Ave.
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | Feldman & Bossert LLC
+employer_address1              | 109 SOUTH MAIN STREET
+employer_address2              | SUITE 16
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 8/8/2023
+end_date                       | 8/7/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23227-265302
+job_title                      | Systems Administrator
+employer_name                  | IT IDEOLOGY LLC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | HR@ITIDEOLOGY.COM
+employer_poc_phone             | 12014167913
+employer_poc_first_name        | ANN
+employer_poc_last_name         | ZULLO
+worksite_address1              | 1164 Western Ave.
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | Feldman & Bossert LLC
+employer_address1              | 109 SOUTH MAIN STREET
+employer_address2              | SUITE 16
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 8/15/2023
+end_date                       | 8/14/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23236-294277
+job_title                      | Technical Project Manager
+employer_name                  | RS Consulting Services LLC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | rsegu@rsconsultservices.com
+employer_poc_phone             | 17752309871
+employer_poc_first_name        | Ramesh
+employer_poc_last_name         | Segu
+worksite_address1              | 1263 S Stewart St
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | BBI Law Group, P.C.
+employer_address1              | 2318 Copper Springs dr
+employer_address2              | 
+employer_city                  | Reno
+employer_state                 | NV
+employer_postal_code           | 89521
+begin_date                     | 8/25/2023
+end_date                       | 8/24/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 19 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24123-951293
+job_title                      | Business Data Analyst
+employer_name                  | RS Consulting Services LLC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | rsegu@rsconsultservices.com
+employer_poc_phone             | 17752309871
+employer_poc_first_name        | Ramesh
+employer_poc_last_name         | Segu
+worksite_address1              | 1263 South Stewart Street
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | BBI Law Group, P.C.
+employer_address1              | 2318 Copper Springs Dr
+employer_address2              | 
+employer_city                  | Reno
+employer_state                 | NV
+employer_postal_code           | 89521
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 20 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24150-045620
+job_title                      | Network Engineer
+employer_name                  | SWANKTEK INC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | RAHUL@SWANKTEK.COM
+employer_poc_phone             | 19735428326
+employer_poc_first_name        | RAHUL
+employer_poc_last_name         | KUNDAVARAM
+worksite_address1              | 1301 Old Hot Springs Rd.
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | JOHN J. BOUDIA & ASSOCIATES PLC
+employer_address1              | 510 FRANKLIN AVENUE
+employer_address2              | SUITE 6,7 & 8
+employer_city                  | NUTLEY
+employer_state                 | NJ
+employer_postal_code           | 07110
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 21 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25106-870493
+job_title                      | BUSINESS PROCESS ANALYST
+employer_name                  | TECH SMART SOLUTIONS LLC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | ITEAM@TSSUS.NET
+employer_poc_phone             | 15512270336
+employer_poc_first_name        | VIKRAM
+employer_poc_last_name         | ODEDARA
+worksite_address1              | 1263 S Stewart St,
+worksite_address2              | 
+worksite_city                  | Carson
+worksite_county                | WASHOE
+lawfirm_name_business_name     | 
+employer_address1              | 190 ROUTE 27 SUITE 107
+employer_address2              | 
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08820
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25106-872556
+job_title                      | BUSINESS ANALYST 3
+employer_name                  | TECH SMART SOLUTIONS LLC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | ITEAM@TSSUS.NET
+employer_poc_phone             | 15512270336
+employer_poc_first_name        | VIKRAM
+employer_poc_last_name         | ODEDARA
+worksite_address1              | 1263 S Stewart St
+worksite_address2              | 
+worksite_city                  | CARSON CITY
+worksite_county                | WASHOE
+lawfirm_name_business_name     | 
+employer_address1              | 190 ROUTE 27 SUITE 107
+employer_address2              | 
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08820
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 23 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24051-732104
+job_title                      | System Administrator 4
+employer_name                  | USM Business Sytems Inc
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | immigration@usmsystems.com
+employer_poc_phone             | 17032630855
+employer_poc_first_name        | Asha
+employer_poc_last_name         | Haridas
+worksite_address1              | 1301 Old Hot Springs Road
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 44320 Premier Plaza
+employer_address2              | Suite 210
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 8/1/2024
+end_date                       | 7/31/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 24 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24060-757834
+job_title                      | Technical Architect 3
+employer_name                  | USM Business Sytems Inc
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | immigration@usmsystems.com
+employer_poc_phone             | 17032630855
+employer_poc_first_name        | Asha
+employer_poc_last_name         | Haridas
+worksite_address1              | 1301 Old Hot Springs Road
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 44320 Premier Plaza
+employer_address2              | Suite 210
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 8/1/2024
+end_date                       | 7/31/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 25 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24071-788783
+job_title                      | System Administrator
+employer_name                  | KEANE SOFT INC
+secondary_entity_business_name | Nevada Department of Transportation - State of Nevada
+employer_poc_email             | HR@KEANESOFT.COM
+employer_poc_phone             | 19088181718
+employer_poc_first_name        | Ann
+employer_poc_last_name         | Zullo
+worksite_address1              | 6610 S Ullom Dr.
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | Feldman & Bossert LLC
+employer_address1              | 2601 Little Elm Pkwy
+employer_address2              | Suite 701
+employer_city                  | Little Elm
+employer_state                 | TX
+employer_postal_code           | 75068
+begin_date                     | 3/11/2024
+end_date                       | 3/10/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 26 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24010-630189
+job_title                      | PROGRAMMER ANALYST
+employer_name                  | IT TRAILBLAZERS LLC
+secondary_entity_business_name | STATE OF NEVADA (Division of Welfare and Supportive Services)
+employer_poc_email             | hr@ittblazers.com
+employer_poc_phone             | 17322271772
+employer_poc_first_name        | SRINIVAS
+employer_poc_last_name         | NOMULA
+worksite_address1              | 1470 E COLLEGE PKWY
+worksite_address2              | 
+worksite_city                  | CARSON CITY
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 510 THORNALL ST
+employer_address2              | SUITE 306
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08837
+begin_date                     | 4/9/2024
+end_date                       | 4/8/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 27 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22104-072587
+job_title                      | Sap Functional Consultant
+employer_name                  | DENKEN SOLUTIONS INC
+secondary_entity_business_name | State of Nevada
+employer_poc_email             | immigration@denkensolutions.com
+employer_poc_phone             | 19098155011
+employer_poc_first_name        | Eddie
+employer_poc_last_name         | Gallardo
+worksite_address1              | 3427 Goni Road
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Law Office of Thomas V. Allen, PLLC
+employer_address1              | 9170 Irvine Center Drive
+employer_address2              | Suite 200
+employer_city                  | IRVINE
+employer_state                 | CA
+employer_postal_code           | 92618
+begin_date                     | 10/1/2022
+end_date                       | 9/13/2025
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 28 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22104-072732
+job_title                      | SAP Functional Consultant
+employer_name                  | DENKEN SOLUTIONS INC
+secondary_entity_business_name | State of Nevada
+employer_poc_email             | immigration@denkensolutions.com
+employer_poc_phone             | 19098155011
+employer_poc_first_name        | Eddie
+employer_poc_last_name         | Gallardo
+worksite_address1              | 3427 Goni Road
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Law Office of Thomas V. Allen, PLLC
+employer_address1              | 9170 Irvine Center Drive
+employer_address2              | Suite 200
+employer_city                  | IRVINE
+employer_state                 | CA
+employer_postal_code           | 92618
+begin_date                     | 10/1/2022
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 29 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23059-808858
+job_title                      | Software Quality Assurance Analysts and Testers 
+employer_name                  | HTC GLOBAL SERVICES INC
+secondary_entity_business_name | State of Nevada
+employer_poc_email             | IMMIGRATION@HTCINC.COM
+employer_poc_phone             | 12487862500
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | SUBRAMANIAN
+worksite_address1              | 1919 East College Parkway
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 3270 WEST BIG BEAVER ROAD
+employer_address2              | 
+employer_city                  | TROY
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 7/9/2023
+end_date                       | 7/8/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 30 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23275-405481
+job_title                      | Software Engineer 
+employer_name                  | KBTS Technologies Inc
+secondary_entity_business_name | State of Nevada
+employer_poc_email             | radhika@kbtstech.com
+employer_poc_phone             | 12483741230
+employer_poc_first_name        | Radhika
+employer_poc_last_name         | Kandikonda
+worksite_address1              | 555 Wright Way
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 41461 West Eleven Mile Road
+employer_address2              | 
+employer_city                  | Novi
+employer_state                 | MI
+employer_postal_code           | 48375
+begin_date                     | 10/9/2023
+end_date                       | 10/8/2026
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 31 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-202-25094-834215
+job_title                      | Technical Architect
+employer_name                  | Novalink Solutions LLC
+secondary_entity_business_name | State of Nevada
+employer_poc_email             | reports@novalink-solutions.com
+employer_poc_phone             | 14705672003
+employer_poc_first_name        | Huu
+employer_poc_last_name         | Phan
+worksite_address1              | 3850 Arrowhead Drive
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Malik & Popiel, P.C.
+employer_address1              | 1186 Satellite Blvd
+employer_address2              | Suite 250
+employer_city                  | Suwanee
+employer_state                 | GA
+employer_postal_code           | 30024
+begin_date                     | 4/11/2025
+end_date                       | 4/10/2028
+total_worker_positions         | 1
+h_1b_dependent                 | N/A
+-[ RECORD 32 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-202-25094-834261
+job_title                      | Technical Architect
+employer_name                  | Novalink Solutions LLC
+secondary_entity_business_name | State of Nevada
+employer_poc_email             | reports@novalink-solutions.com
+employer_poc_phone             | 14705672003
+employer_poc_first_name        | Huu
+employer_poc_last_name         | Phan
+worksite_address1              | 3850 Arrowhead Drive
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Malik & Popiel, P.C.
+employer_address1              | 1186 Satellite Blvd
+employer_address2              | Suite 250
+employer_city                  | Suwanee
+employer_state                 | GA
+employer_postal_code           | 30024
+begin_date                     | 4/11/2025
+end_date                       | 4/10/2028
+total_worker_positions         | 1
+h_1b_dependent                 | N/A
+-[ RECORD 33 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24288-404797
+job_title                      | Network Engineer
+employer_name                  | COMTEK GLOBAL INC
+secondary_entity_business_name | State of Nevada - Department of Transportation
+employer_poc_email             | IMMIGRATION@CENTILLIONZ.COM
+employer_poc_phone             | 19082058990
+employer_poc_first_name        | YOGENDRANATH
+employer_poc_last_name         | PAPAGARI
+worksite_address1              | 6610 S Ullom Drive
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 15 Corporate PL S
+employer_address2              | SUITE 402
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 12/2/2024
+end_date                       | 12/1/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 34 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21299-667935
+job_title                      | Network Engineer
+employer_name                  | COMTEK GLOBAL INC
+secondary_entity_business_name | State of Nevada - Department of transportation
+employer_poc_email             | IMMIGRATION@CENTILLIONZ.COM
+employer_poc_phone             | 17324475253
+employer_poc_first_name        | RANGA
+employer_poc_last_name         | ARAVAPALLI
+worksite_address1              | 123 East Washington Ave
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 242 OLD NEW BRUNSWICK ROAD
+employer_address2              | SUITE 457
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 12/2/2021
+end_date                       | 12/1/2024
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 35 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-21312-692731
+job_title                      | Network Engineer
+employer_name                  | COMTEK GLOBAL INC
+secondary_entity_business_name | State of Nevada - Department of transportation
+employer_poc_email             | IMMIGRATION@CENTILLIONZ.COM
+employer_poc_phone             | 19082058990
+employer_poc_first_name        | KANCHANA
+employer_poc_last_name         | ARAVAPALLI
+worksite_address1              | 123 East Washington Ave
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 242 OLD NEW BRUNSWICK ROAD
+employer_address2              | SUITE 457
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 12/2/2021
+end_date                       | 12/1/2024
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 36 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23318-500424
+job_title                      | PROJECT MANAGER
+employer_name                  | MAVIN TECHNOLOGIES INC
+secondary_entity_business_name | State of Nevada - Dept. of Motor Vehicles (DMV)
+employer_poc_email             | RAJ.UMMADI@MAVIN-TECH.COM
+employer_poc_phone             | 13015919755
+employer_poc_first_name        | NAGARAJU
+employer_poc_last_name         | UMMADISETTY
+worksite_address1              | 555 Wright way
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 4 PROFESSIONAL DR.
+employer_address2              | SUITE 149
+employer_city                  | GAITHERSBURG
+employer_state                 | MD
+employer_postal_code           | 20879
+begin_date                     | 12/29/2023
+end_date                       | 12/28/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 37 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24295-421178
+job_title                      | Applications Developer
+employer_name                  | CSXTech Inc
+secondary_entity_business_name | State of Nevada - Division of Welfare and Supportive Services
+employer_poc_email             | Immigration@csxtech.com
+employer_poc_phone             | 14694434700
+employer_poc_first_name        | Hari
+employer_poc_last_name         | Kancharla
+worksite_address1              | 1470 College Parkway
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | WASHOE
+lawfirm_name_business_name     | 
+employer_address1              | 4975 Preston Park Blvd
+employer_address2              | Suite 55
+employer_city                  | Plano
+employer_state                 | TX
+employer_postal_code           | 75093
+begin_date                     | 10/29/2024
+end_date                       | 10/28/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 38 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25155-053095
+job_title                      | Software Engineer 
+employer_name                  | KBTS Technologies Inc
+secondary_entity_business_name | State of Nevada - Office of Project Management (OPM)
+employer_poc_email             | radhika@kbtstech.com
+employer_poc_phone             | 12483741230
+employer_poc_first_name        | Radhika
+employer_poc_last_name         | Kandikonda
+worksite_address1              | 3850 Arrowhead Dr.
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 41461 West Eleven Mile Road
+employer_address2              | 
+employer_city                  | Novi
+employer_state                 | MI
+employer_postal_code           | 48375
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 39 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24009-626387
+job_title                      | Business Systems Analyst
+employer_name                  | CGI Technologies and Solutions Inc
+secondary_entity_business_name | State of Nevada Office of Project Management
+employer_poc_email             | cgiusemlca@cgi.com
+employer_poc_phone             | 17324282390
+employer_poc_first_name        | Josephine
+employer_poc_last_name         | Fix
+worksite_address1              | 3850 Arrowhead Drive
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Fragomen, Del Rey, Bernsen & Loewy, LLP
+employer_address1              | 11325 Random Hills Road
+employer_address2              | 
+employer_city                  | Fairfax
+employer_state                 | VA
+employer_postal_code           | 22030
+begin_date                     | 1/16/2024
+end_date                       | 1/15/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 40 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23150-062527
+job_title                      | Technical Test Lead
+employer_name                  | Congensys Corp.
+secondary_entity_business_name | State of Nevada, Department of Human and Health Services (DHHS) / Division of Welfare and Supportive Services (DWSS)
+employer_poc_email             | iteam@congensys.com
+employer_poc_phone             | 17328327999
+employer_poc_first_name        | Durga
+employer_poc_last_name         | Mokkapati
+worksite_address1              | 1470 College Parkway
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 3 ETHEL ROAD
+employer_address2              | SUITE 307A
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 11/28/2023
+end_date                       | 11/27/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 41 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22017-833758
+job_title                      | Business Analyst 
+employer_name                  | Quest IT Solutions Inc
+secondary_entity_business_name | State of Nevada, Division of Welfare & Supportive Services (DWSS)
+employer_poc_email             | legal@questits.com
+employer_poc_phone             | 18325328877
+employer_poc_first_name        | Sunil Kumar
+employer_poc_last_name         | Gandhe
+worksite_address1              | 10890 Serratina Dr
+worksite_address2              | 
+worksite_city                  | Reno
+worksite_county                | WASHOE
+lawfirm_name_business_name     | 
+employer_address1              | 122 Venice St
+employer_address2              | 
+employer_city                  | Sugar Land
+employer_state                 | TX
+employer_postal_code           | 77478
+begin_date                     | 1/17/2022
+end_date                       | 1/16/2025
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 42 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24164-103834
+job_title                      | Database Administrator
+employer_name                  | Appridat Solutions LLC
+secondary_entity_business_name | State of Nevada,Department Of Public Safety
+employer_poc_email             | anj@appridat.com
+employer_poc_phone             | 16786486191
+employer_poc_first_name        | Anj
+employer_poc_last_name         | Balusu
+worksite_address1              | 1445 Old Hot Springs Road
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Law Offices of Priti Tripathi, PC
+employer_address1              | 5655 Peachtree Parkway
+employer_address2              | Suite 207
+employer_city                  | Peachtree Corners
+employer_state                 | GA
+employer_postal_code           | 30092
+begin_date                     | 11/6/2024
+end_date                       | 11/5/2027
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 43 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23135-021853
+job_title                      | Database Administrator
+employer_name                  | Appridat Solutions LLC
+secondary_entity_business_name | State of Nevada-Department of Public Safety, Parole and Probation
+employer_poc_email             | anj@appridat.com
+employer_poc_phone             | 16786486191
+employer_poc_first_name        | Anj
+employer_poc_last_name         | Balusu
+worksite_address1              | 1445 Old Hot Springs Road
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Law Offices of Priti Tripathi, PC
+employer_address1              | 5655 Peachtree Parkway
+employer_address2              | Suite 207
+employer_city                  | Peachtree Corners
+employer_state                 | GA
+employer_postal_code           | 30092
+begin_date                     | 11/6/2023
+end_date                       | 11/5/2026
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 44 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22148-222962
+job_title                      | Database Administrator
+employer_name                  | Appridat Solutions LLC
+secondary_entity_business_name | State of Nevada-Department of Public Safety, Parole and Probation
+employer_poc_email             | anj@appridat.com
+employer_poc_phone             | 16786486191
+employer_poc_first_name        | Anj
+employer_poc_last_name         | Balusu
+worksite_address1              | 1445 Old Hot Springs Road
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Law Offices of Priti Tripathi, PC
+employer_address1              | 5655 Peachtree Parkway
+employer_address2              | Suite 207
+employer_city                  | Peachtree Corners
+employer_state                 | GA
+employer_postal_code           | 30092
+begin_date                     | 11/6/2022
+end_date                       | 11/5/2023
+total_worker_positions         | 1
+h_1b_dependent                 | Yes
+-[ RECORD 45 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24150-048472
+job_title                      | Staff Physician (Pulmonary/Critical Care)
+employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
+secondary_entity_business_name | 
+employer_poc_email             | kristen.banks@va.gov
+employer_poc_phone             | 12023523964
+employer_poc_first_name        | Kristen
+employer_poc_last_name         | Banks
+worksite_address1              | 6900 North Pecos Road
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 6900 North Pecos Road
+employer_address2              | c/o Triny Cooper, Human Resources
+employer_city                  | Las Vegas
+employer_state                 | NV
+employer_postal_code           | 89086-4400
+begin_date                     | 8/11/2024
+end_date                       | 8/10/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 46 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24150-048459
+job_title                      | Staff Physician (Oncologist)
+employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
+secondary_entity_business_name | 
+employer_poc_email             | kristen.banks@va.gov
+employer_poc_phone             | 12023523964
+employer_poc_first_name        | Kristen
+employer_poc_last_name         | Banks
+worksite_address1              | 6900 North Pecos Road
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 6900 North Pecos Road
+employer_address2              | c/o Triny Cooper, Human Resources
+employer_city                  | Las Vegas
+employer_state                 | NV
+employer_postal_code           | 89086-4400
+begin_date                     | 8/11/2024
+end_date                       | 8/10/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+-[ RECORD 47 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24201-208158
+job_title                      | Staff Physician (Cardiology)
+employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Administration
+secondary_entity_business_name | 
+employer_poc_email             | timothy.mcbrian@va.gov
+employer_poc_phone             | 16508523216
+employer_poc_first_name        | Timothy
+employer_poc_last_name         | McBrian
+worksite_address1              | 975 Kirman Avenue
+worksite_address2              | 
+worksite_city                  | Reno
+worksite_county                | WASHOE
+lawfirm_name_business_name     | 
+employer_address1              | 975 Kirman Avenue
+employer_address2              | c/o Jeannette Hester, Human Resources
+employer_city                  | Reno
+employer_state                 | NV
+employer_postal_code           | 89502-0993
+begin_date                     | 10/20/2024
+end_date                       | 10/19/2027
+total_worker_positions         | 1
+h_1b_dependent                 | No
+
