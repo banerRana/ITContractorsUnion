@@ -55,3 +55,11 @@ do
 
 	run_query
 done
+
+# Files Larger Than 100M Are Too Big For GitHub Without Git LFS
+bigfiles="Illinois_H1B_Jobs.txt,California_H1B_Jobs.csv,Washington_H1B_Jobs.html,NewJersey_H1B_Jobs.txt,Washington_H1B_Jobs.txt,NewYork_H1B_Jobs.html,NewYork_H1B_Jobs.txt,Texas_H1B_Jobs.html,Texas_H1B_Jobs.txt,California_H1B_Jobs.html,California_H1B_Jobs.txt"
+
+for file in $bigfiles
+do
+	zip -m ../H1B_Jobs_By_State/$file".zip"  ../H1B_Jobs_By_State/$file
+done
