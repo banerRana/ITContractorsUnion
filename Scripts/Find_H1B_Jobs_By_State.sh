@@ -29,6 +29,7 @@ EMPLOYER_POSTAL_CODE,
 BEGIN_DATE,
 END_DATE,
 TOTAL_WORKER_POSITIONS,
+SOC_CODE,
 H_1B_DEPENDENT
 
 from LCA_Disclosure_Data_2022To2025Q3
@@ -57,7 +58,7 @@ do
 done
 
 # Files Larger Than 100M Are Too Big For GitHub Without Git LFS
-bigfiles="Illinois_H1B_Jobs.txt,California_H1B_Jobs.csv,Washington_H1B_Jobs.html,NewJersey_H1B_Jobs.txt,Washington_H1B_Jobs.txt,NewYork_H1B_Jobs.html,NewYork_H1B_Jobs.txt,Texas_H1B_Jobs.html,Texas_H1B_Jobs.txt,California_H1B_Jobs.html,California_H1B_Jobs.txt"
+bigfiles="Illinois_H1B_Jobs.txt,California_H1B_Jobs.csv,Washington_H1B_Jobs.html,NewJersey_H1B_Jobs.txt,Washington_H1B_Jobs.txt,NewYork_H1B_Jobs.html,NewYork_H1B_Jobs.txt,Texas_H1B_Jobs.html,Texas_H1B_Jobs.txt,California_H1B_Jobs.html,California_H1B_Jobs.txt,NewJersey_H1B_Jobs.html"
 
 for file in $bigfiles
 do
