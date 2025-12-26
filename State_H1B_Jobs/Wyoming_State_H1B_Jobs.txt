@@ -1,27 +1,4 @@
 -[ RECORD 1 ]------------------+-------------------------------------------------------------------
-case_number                    | I-200-25162-078514
-job_title                      | Tech Architecture Assoc Manager
-employer_name                  | Accenture LLP
-secondary_entity_business_name | State of Wyoming
-employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
-employer_poc_phone             | 13104265295
-employer_poc_first_name        | LEONARD
-employer_poc_last_name         | OXFORD
-worksite_address1              | 2300 Capitol Ave
-worksite_address2              | 
-worksite_city                  | Cheyenne
-worksite_county                | LARAMIE
-lawfirm_name_business_name     | 
-employer_address1              | 500 West Madison Street
-employer_address2              | 
-employer_city                  | Chicago
-employer_state                 | IL
-employer_postal_code           | 60661
-begin_date                     | 6/18/2025
-end_date                       | 6/17/2028
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 2 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-25125-936043
 job_title                      | Technology Architecture Specialist
 employer_name                  | Accenture LLP
@@ -43,6 +20,31 @@ employer_postal_code           | 60661
 begin_date                     | 5/12/2025
 end_date                       | 5/11/2028
 total_worker_positions         | 1
+soc_code                       | 13-1111
+h_1b_dependent                 | No
+-[ RECORD 2 ]------------------+-------------------------------------------------------------------
+case_number                    | I-200-25162-078514
+job_title                      | Tech Architecture Assoc Manager
+employer_name                  | Accenture LLP
+secondary_entity_business_name | State of Wyoming
+employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
+employer_poc_phone             | 13104265295
+employer_poc_first_name        | LEONARD
+employer_poc_last_name         | OXFORD
+worksite_address1              | 2300 Capitol Ave
+worksite_address2              | 
+worksite_city                  | Cheyenne
+worksite_county                | LARAMIE
+lawfirm_name_business_name     | 
+employer_address1              | 500 West Madison Street
+employer_address2              | 
+employer_city                  | Chicago
+employer_state                 | IL
+employer_postal_code           | 60661
+begin_date                     | 6/18/2025
+end_date                       | 6/17/2028
+total_worker_positions         | 1
+soc_code                       | 13-1111
 h_1b_dependent                 | No
 -[ RECORD 3 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-22175-310860
@@ -66,6 +68,7 @@ employer_postal_code           | 08830
 begin_date                     | 6/27/2022
 end_date                       | 9/30/2023
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 4 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-24135-995644
@@ -89,6 +92,7 @@ employer_postal_code           | 20190
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-24073-795024
@@ -112,31 +116,9 @@ employer_postal_code           | 20850
 begin_date                     | 3/26/2024
 end_date                       | 3/25/2027
 total_worker_positions         | 1
+soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+-------------------------------------------------------------------
-case_number                    | I-200-24135-995686
-job_title                      | Software Developer
-employer_name                  | ASR Tech Group Inc
-secondary_entity_business_name | Wyoming Department of Enterprise Technology Services
-employer_poc_email             | aishwarya@asrtechgroup.com
-employer_poc_phone             | 15715287517
-employer_poc_first_name        | Aishwarya
-employer_poc_last_name         | PANNEERSELVAM
-worksite_address1              | 2001 Capitol Avenue
-worksite_address2              | 
-worksite_city                  | Cheyenne
-worksite_county                | LARAMIE
-lawfirm_name_business_name     | Somireddy Law Group PLLC
-employer_address1              | 11710 Plaza America Drive
-employer_address2              | Suite 2000
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-24135-995736
 job_title                      | Software Developer
 employer_name                  | ASR Tech Group Inc
@@ -158,6 +140,31 @@ employer_postal_code           | 20190
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+-------------------------------------------------------------------
+case_number                    | I-200-24135-995686
+job_title                      | Software Developer
+employer_name                  | ASR Tech Group Inc
+secondary_entity_business_name | Wyoming Department of Enterprise Technology Services
+employer_poc_email             | aishwarya@asrtechgroup.com
+employer_poc_phone             | 15715287517
+employer_poc_first_name        | Aishwarya
+employer_poc_last_name         | PANNEERSELVAM
+worksite_address1              | 2001 Capitol Avenue
+worksite_address2              | 
+worksite_city                  | Cheyenne
+worksite_county                | LARAMIE
+lawfirm_name_business_name     | Somireddy Law Group PLLC
+employer_address1              | 11710 Plaza America Drive
+employer_address2              | Suite 2000
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20190
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-23108-942227
@@ -181,6 +188,7 @@ employer_postal_code           | 08540
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-24086-830894
@@ -204,5 +212,6 @@ employer_postal_code           | 82007
 begin_date                     | 7/1/2024
 end_date                       | 4/24/2025
 total_worker_positions         | 1
+soc_code                       | 29-1031.00
 h_1b_dependent                 | No
 

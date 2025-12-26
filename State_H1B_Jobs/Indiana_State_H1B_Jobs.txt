@@ -20,6 +20,7 @@ employer_postal_code           | 08873
 begin_date                     | 4/12/2023
 end_date                       | 4/11/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 2 ]------------------+--------------------------------------------------------------------
 case_number                    | I-200-23173-135625
@@ -43,31 +44,9 @@ employer_postal_code           | 48167
 begin_date                     | 7/5/2023
 end_date                       | 7/4/2026
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+--------------------------------------------------------------------
-case_number                    | I-200-24138-007971
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | EIA TECHNOLOGIES INC
-secondary_entity_business_name | DEPARTMENT OF CHILD SERVICES - CHILD SUPPORT BUREAU
-employer_poc_email             | HR@EIATECHINC.COM
-employer_poc_phone             | 17328101013
-employer_poc_first_name        | LAKSHMI PRATHYUSHA
-employer_poc_last_name         | SAKHAMURI
-worksite_address1              | 500 N MERIDIAN ST.
-worksite_address2              | 
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 1000 ROUTE 9N.
-employer_address2              | SUITE 102 A
-employer_city                  | WOODBRIDGE
-employer_state                 | NJ
-employer_postal_code           | 07095
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 4 ]------------------+--------------------------------------------------------------------
 case_number                    | I-200-24131-981791
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | EIA TECHNOLOGIES INC
@@ -89,6 +68,31 @@ employer_postal_code           | 07095
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 4 ]------------------+--------------------------------------------------------------------
+case_number                    | I-200-24138-007971
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | EIA TECHNOLOGIES INC
+secondary_entity_business_name | DEPARTMENT OF CHILD SERVICES - CHILD SUPPORT BUREAU
+employer_poc_email             | HR@EIATECHINC.COM
+employer_poc_phone             | 17328101013
+employer_poc_first_name        | LAKSHMI PRATHYUSHA
+employer_poc_last_name         | SAKHAMURI
+worksite_address1              | 500 N MERIDIAN ST.
+worksite_address2              | 
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 1000 ROUTE 9N.
+employer_address2              | SUITE 102 A
+employer_city                  | WOODBRIDGE
+employer_state                 | NJ
+employer_postal_code           | 07095
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 5 ]------------------+--------------------------------------------------------------------
 case_number                    | I-200-22070-970635
@@ -112,6 +116,7 @@ employer_postal_code           | 19020
 begin_date                     | 5/14/2022
 end_date                       | 5/13/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.09
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+--------------------------------------------------------------------
 case_number                    | I-200-22136-173342
@@ -135,6 +140,7 @@ employer_postal_code           | 30518
 begin_date                     | 11/13/2022
 end_date                       | 11/12/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 7 ]------------------+--------------------------------------------------------------------
 case_number                    | I-200-22320-590330
@@ -158,6 +164,7 @@ employer_postal_code           | 08830
 begin_date                     | 12/6/2022
 end_date                       | 12/5/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+--------------------------------------------------------------------
 case_number                    | I-200-22213-388187
@@ -181,6 +188,7 @@ employer_postal_code           | 43035
 begin_date                     | 9/1/2022
 end_date                       | 8/31/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+--------------------------------------------------------------------
 case_number                    | I-200-22308-569780
@@ -204,31 +212,9 @@ employer_postal_code           | 46240
 begin_date                     | 11/11/2022
 end_date                       | 11/10/2025
 total_worker_positions         | 1
+soc_code                       | 15-1299.08
 h_1b_dependent                 | No
 -[ RECORD 10 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-23270-386642
-job_title                      | Software Architect Senior
-employer_name                  | GDN Infotech Inc
-secondary_entity_business_name | Department of Revenue
-employer_poc_email             | gali@gdninfo.net
-employer_poc_phone             | 13172193236
-employer_poc_first_name        | Bharath
-employer_poc_last_name         | Gali
-worksite_address1              | 7811 Millhouse Road
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Corporate Immigration Partners, P.C.
-employer_address1              | 2346 S Lynhurst Drive
-employer_address2              | Suite F201C
-employer_city                  | Indianapolis
-employer_state                 | IN
-employer_postal_code           | 46241
-begin_date                     | 9/27/2023
-end_date                       | 9/26/2026
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23263-361880
 job_title                      | Software Architect Senior
 employer_name                  | GDN Infotech Inc
@@ -250,31 +236,33 @@ employer_postal_code           | 46241
 begin_date                     | 9/25/2023
 end_date                       | 9/24/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24361-572127
-job_title                      | Software Developer
-employer_name                  | GSSR Inc
+-[ RECORD 11 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-23270-386642
+job_title                      | Software Architect Senior
+employer_name                  | GDN Infotech Inc
 secondary_entity_business_name | Department of Revenue
-employer_poc_email             | hr@gssr.com
-employer_poc_phone             | 17038802717
-employer_poc_first_name        | Maheshwar
-employer_poc_last_name         | Reddy
-worksite_address1              | 7811 Millhouse Drive, Suite M
+employer_poc_email             | gali@gdninfo.net
+employer_poc_phone             | 13172193236
+employer_poc_first_name        | Bharath
+employer_poc_last_name         | Gali
+worksite_address1              | 7811 Millhouse Road
 worksite_address2              | 
 worksite_city                  | Indianapolis
 worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 14900 Bogle Drive, Suite 102
-employer_address2              | 
-employer_city                  | Chantilly
-employer_state                 | VA
-employer_postal_code           | 20151-1757
-begin_date                     | 4/16/2025
-end_date                       | 4/15/2028
+lawfirm_name_business_name     | Corporate Immigration Partners, P.C.
+employer_address1              | 2346 S Lynhurst Drive
+employer_address2              | Suite F201C
+employer_city                  | Indianapolis
+employer_state                 | IN
+employer_postal_code           | 46241
+begin_date                     | 9/27/2023
+end_date                       | 9/26/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+--------------------------------------------------------------------
+-[ RECORD 12 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23003-677732
 job_title                      | Software Developer
 employer_name                  | GSSR Inc
@@ -296,6 +284,31 @@ employer_postal_code           | 20151
 begin_date                     | 1/3/2023
 end_date                       | 1/2/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24361-572127
+job_title                      | Software Developer
+employer_name                  | GSSR Inc
+secondary_entity_business_name | Department of Revenue
+employer_poc_email             | hr@gssr.com
+employer_poc_phone             | 17038802717
+employer_poc_first_name        | Maheshwar
+employer_poc_last_name         | Reddy
+worksite_address1              | 7811 Millhouse Drive, Suite M
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 14900 Bogle Drive, Suite 102
+employer_address2              | 
+employer_city                  | Chantilly
+employer_state                 | VA
+employer_postal_code           | 20151-1757
+begin_date                     | 4/16/2025
+end_date                       | 4/15/2028
+total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 14 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22144-206301
@@ -319,6 +332,7 @@ employer_postal_code           | 38017
 begin_date                     | 6/20/2022
 end_date                       | 6/19/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 15 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23114-959814
@@ -342,6 +356,7 @@ employer_postal_code           | 45040
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 16 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23229-273164
@@ -365,6 +380,7 @@ employer_postal_code           | 20151
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | No
 -[ RECORD 17 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25143-015070
@@ -388,6 +404,7 @@ employer_postal_code           | 21117
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051
 h_1b_dependent                 | Yes
 -[ RECORD 18 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25143-013369
@@ -411,6 +428,7 @@ employer_postal_code           | 21117
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051
 h_1b_dependent                 | Yes
 -[ RECORD 19 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25154-046445
@@ -434,31 +452,9 @@ employer_postal_code           | 21117
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051.02
 h_1b_dependent                 | Yes
 -[ RECORD 20 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-203-24354-559045
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | Sysintelli Inc
-secondary_entity_business_name | INDIANA DEPARTMENT OF HEALTH
-employer_poc_email             | PANNY@SYSINTELLI.COM
-employer_poc_phone             | 18582711600
-employer_poc_first_name        | Ravi
-employer_poc_last_name         | Hanumara
-worksite_address1              | 2N MERIDIAN STREET
-worksite_address2              | 
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | Sysintelli Inc
-employer_address1              | 9466 Black Mountain Road
-employer_address2              | Suite 200
-employer_city                  | San Diego
-employer_state                 | CA
-employer_postal_code           | 92126
-begin_date                     | 12/23/2024
-end_date                       | 12/23/2026
-total_worker_positions         | 1
-h_1b_dependent                 | N/A
--[ RECORD 21 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-203-24326-492031
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | Sysintelli Inc
@@ -480,6 +476,31 @@ employer_postal_code           | 92126
 begin_date                     | 11/25/2024
 end_date                       | 11/25/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | N/A
+-[ RECORD 21 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-203-24354-559045
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | Sysintelli Inc
+secondary_entity_business_name | INDIANA DEPARTMENT OF HEALTH
+employer_poc_email             | PANNY@SYSINTELLI.COM
+employer_poc_phone             | 18582711600
+employer_poc_first_name        | Ravi
+employer_poc_last_name         | Hanumara
+worksite_address1              | 2N MERIDIAN STREET
+worksite_address2              | 
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | Sysintelli Inc
+employer_address1              | 9466 Black Mountain Road
+employer_address2              | Suite 200
+employer_city                  | San Diego
+employer_state                 | CA
+employer_postal_code           | 92126
+begin_date                     | 12/23/2024
+end_date                       | 12/23/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | N/A
 -[ RECORD 22 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-203-25117-909129
@@ -503,6 +524,7 @@ employer_postal_code           | 92126
 begin_date                     | 4/27/2025
 end_date                       | 4/26/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | N/A
 -[ RECORD 23 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25139-993563
@@ -526,6 +548,7 @@ employer_postal_code           | 21117
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051
 h_1b_dependent                 | Yes
 -[ RECORD 24 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25098-844205
@@ -549,6 +572,7 @@ employer_postal_code           | 75070
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 25 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24288-405470
@@ -572,10 +596,11 @@ employer_postal_code           | 46216
 begin_date                     | 2/1/2025
 end_date                       | 1/31/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 26 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-21125-290106
-job_title                      | Software Developer 
+job_title                      | Software Developer
 employer_name                  | V-Soft Consulting Group INC
 secondary_entity_business_name | INDIANA STATE DEPARTMENT OF HEALTH
 employer_poc_email             | tanya@vsoftconsulting.com
@@ -595,6 +620,7 @@ employer_postal_code           | 40222
 begin_date                     | 9/28/2021
 end_date                       | 9/27/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 27 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24170-121896
@@ -618,6 +644,7 @@ employer_postal_code           | 30022
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1243.00
 h_1b_dependent                 | Yes
 -[ RECORD 28 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23208-219291
@@ -641,6 +668,7 @@ employer_postal_code           | 60173
 begin_date                     | 7/27/2023
 end_date                       | 7/26/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 29 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24254-326233
@@ -664,31 +692,9 @@ employer_postal_code           | 30518
 begin_date                     | 9/17/2024
 end_date                       | 9/16/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 30 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-23121-978631
-job_title                      | MuleSoft Developer
-employer_name                  | CORE SOFTWARE TECHNOLOGIES INC
-secondary_entity_business_name | Indiana Department of Child Services
-employer_poc_email             | INFO@CORESOFTTECH.COM
-employer_poc_phone             | 16092568005
-employer_poc_first_name        | MONIKA
-employer_poc_last_name         | SIRCAR
-worksite_address1              | 500 N Meridian Street,
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 666 PLAINSBORO ROAD
-employer_address2              | 
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 9/30/2023
-end_date                       | 8/30/2026
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 31 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23128-000151
 job_title                      | CRM Developer
 employer_name                  | CORE SOFTWARE TECHNOLOGIES INC
@@ -710,6 +716,31 @@ employer_postal_code           | 08536
 begin_date                     | 9/30/2023
 end_date                       | 8/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 31 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-23121-978631
+job_title                      | MuleSoft Developer
+employer_name                  | CORE SOFTWARE TECHNOLOGIES INC
+secondary_entity_business_name | Indiana Department of Child Services
+employer_poc_email             | INFO@CORESOFTTECH.COM
+employer_poc_phone             | 16092568005
+employer_poc_first_name        | MONIKA
+employer_poc_last_name         | SIRCAR
+worksite_address1              | 500 N Meridian Street,
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 666 PLAINSBORO ROAD
+employer_address2              | 
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 9/30/2023
+end_date                       | 8/30/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 32 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22041-893803
@@ -733,6 +764,7 @@ employer_postal_code           | 18104
 begin_date                     | 7/25/2022
 end_date                       | 7/24/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 33 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24317-470668
@@ -756,6 +788,7 @@ employer_postal_code           | 43017
 begin_date                     | 11/19/2024
 end_date                       | 11/18/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 34 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22067-960156
@@ -779,10 +812,11 @@ employer_postal_code           | 43017
 begin_date                     | 6/6/2022
 end_date                       | 6/5/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 35 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23187-172164
-job_title                      | Senior Software Architect 
+job_title                      | Senior Software Architect
 employer_name                  | Prospance Inc
 secondary_entity_business_name | Indiana Department of Child Services
 employer_poc_email             | Immigration@prospanceinc.com
@@ -802,31 +836,9 @@ employer_postal_code           | 94560
 begin_date                     | 7/10/2023
 end_date                       | 7/9/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 36 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24221-253031
-job_title                      | Senior .NET Developer
-employer_name                  | Prospance Inc
-secondary_entity_business_name | Indiana Department of Child Services
-employer_poc_email             | Immigration@prospanceinc.com
-employer_poc_phone             | 15106512045
-employer_poc_first_name        | Manish
-employer_poc_last_name         | Bhardwaj
-worksite_address1              | 500 N Meridian St.
-worksite_address2              | Flr. 7
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Credence Support Services Inc
-employer_address1              | 5600 Mowry School Road,
-employer_address2              | Suite 140
-employer_city                  | Newark
-employer_state                 | CA
-employer_postal_code           | 94560
-begin_date                     | 8/20/2024
-end_date                       | 8/19/2027
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23187-172149
 job_title                      | Senior .Net Developer
 employer_name                  | Prospance Inc
@@ -848,6 +860,31 @@ employer_postal_code           | 94560
 begin_date                     | 7/10/2023
 end_date                       | 7/9/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 37 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24221-253031
+job_title                      | Senior .NET Developer
+employer_name                  | Prospance Inc
+secondary_entity_business_name | Indiana Department of Child Services
+employer_poc_email             | Immigration@prospanceinc.com
+employer_poc_phone             | 15106512045
+employer_poc_first_name        | Manish
+employer_poc_last_name         | Bhardwaj
+worksite_address1              | 500 N Meridian St.
+worksite_address2              | Flr. 7
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Credence Support Services Inc
+employer_address1              | 5600 Mowry School Road,
+employer_address2              | Suite 140
+employer_city                  | Newark
+employer_state                 | CA
+employer_postal_code           | 94560
+begin_date                     | 8/20/2024
+end_date                       | 8/19/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 38 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23157-084684
@@ -871,6 +908,7 @@ employer_postal_code           | 20165
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 39 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24218-243925
@@ -894,6 +932,7 @@ employer_postal_code           | 46032
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 40 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25112-887939
@@ -917,6 +956,7 @@ employer_postal_code           | 48322
 begin_date                     | 4/29/2025
 end_date                       | 4/28/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 41 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23122-984350
@@ -940,6 +980,7 @@ employer_postal_code           | 46241
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 42 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24108-898943
@@ -963,6 +1004,7 @@ employer_postal_code           | 77450
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 19-1041.00
 h_1b_dependent                 | Yes
 -[ RECORD 43 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25169-108674
@@ -986,6 +1028,7 @@ employer_postal_code           | 46234
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 44 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24222-256611
@@ -1009,11 +1052,12 @@ employer_postal_code           | 46032
 begin_date                     | 8/9/2024
 end_date                       | 8/8/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 45 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24151-053904
 job_title                      | Data Engineer
-employer_name                  | Mirage Software Inc dba  Bourntec Solutions
+employer_name                  | Mirage Software Inc dba Bourntec Solutions
 secondary_entity_business_name | Indiana Department of Health
 employer_poc_email             | hr@bourntec.com
 employer_poc_phone             | 18478930520
@@ -1032,6 +1076,7 @@ employer_postal_code           | 60173
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1243.00
 h_1b_dependent                 | Yes
 -[ RECORD 46 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24136-997567
@@ -1055,6 +1100,7 @@ employer_postal_code           | 33844
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 47 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22210-385870
@@ -1078,6 +1124,7 @@ employer_postal_code           | 46240
 begin_date                     | 8/5/2022
 end_date                       | 8/4/2025
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 48 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23201-202942
@@ -1101,10 +1148,11 @@ employer_postal_code           | 46204
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 49 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22271-500175
-job_title                      | Database Programmer 
+job_title                      | Database Programmer
 employer_name                  | Catalina Business Solutions Inc
 secondary_entity_business_name | Indiana Department of Homeland Security
 employer_poc_email             | vijayreddy@cbs-corp.com
@@ -1124,6 +1172,7 @@ employer_postal_code           | 46240
 begin_date                     | 10/5/2022
 end_date                       | 10/4/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 50 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25121-928628
@@ -1147,6 +1196,7 @@ employer_postal_code           | 46241
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 51 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24316-467052
@@ -1170,6 +1220,7 @@ employer_postal_code           | 75061
 begin_date                     | 3/28/2025
 end_date                       | 3/27/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 52 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24164-100879
@@ -1193,6 +1244,7 @@ employer_postal_code           | 75240
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 17-2051.00
 h_1b_dependent                 | No
 -[ RECORD 53 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22147-221046
@@ -1216,6 +1268,7 @@ employer_postal_code           | 46216
 begin_date                     | 8/16/2022
 end_date                       | 8/15/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 54 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25126-945177
@@ -1239,31 +1292,9 @@ employer_postal_code           | 46074
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051
 h_1b_dependent                 | No
 -[ RECORD 55 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24143-024375
-job_title                      | Senior Resident Engineer
-employer_name                  | WSP USA Inc
-secondary_entity_business_name | Indiana Department of Transportation (INDOT)
-employer_poc_email             | Julia.Savaneli@wsp.com
-employer_poc_phone             | 17704961893
-employer_poc_first_name        | Julia
-employer_poc_last_name         | Savaneli
-worksite_address1              | 6410 Castle Way W Dr.
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | FISHER & PHILLIPS LLP
-employer_address1              | One Penn Plaza, 4th Floor
-employer_address2              | 250 West 34th Street
-employer_city                  | New York
-employer_state                 | NY
-employer_postal_code           | 10119
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 56 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24138-007508
 job_title                      | Senior Resident Engineer
 employer_name                  | WSP USA Inc
@@ -1285,6 +1316,31 @@ employer_postal_code           | 10119
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 17-2051.00
+h_1b_dependent                 | No
+-[ RECORD 56 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24143-024375
+job_title                      | Senior Resident Engineer
+employer_name                  | WSP USA Inc
+secondary_entity_business_name | Indiana Department of Transportation (INDOT)
+employer_poc_email             | Julia.Savaneli@wsp.com
+employer_poc_phone             | 17704961893
+employer_poc_first_name        | Julia
+employer_poc_last_name         | Savaneli
+worksite_address1              | 6410 Castle Way W Dr.
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | FISHER & PHILLIPS LLP
+employer_address1              | One Penn Plaza, 4th Floor
+employer_address2              | 250 West 34th Street
+employer_city                  | New York
+employer_state                 | NY
+employer_postal_code           | 10119
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 11-9021.00
 h_1b_dependent                 | No
 -[ RECORD 57 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23272-397104
@@ -1308,6 +1364,7 @@ employer_postal_code           | 08817
 begin_date                     | 12/19/2023
 end_date                       | 12/17/2026
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 58 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23076-858080
@@ -1331,6 +1388,7 @@ employer_postal_code           | 46204
 begin_date                     | 9/1/2023
 end_date                       | 8/31/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 59 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23076-858125
@@ -1354,6 +1412,7 @@ employer_postal_code           | 46204
 begin_date                     | 9/1/2023
 end_date                       | 8/31/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 60 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23076-858081
@@ -1377,6 +1436,7 @@ employer_postal_code           | 46204
 begin_date                     | 3/20/2023
 end_date                       | 3/19/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 61 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23312-486056
@@ -1400,6 +1460,7 @@ employer_postal_code           | 78664
 begin_date                     | 11/13/2023
 end_date                       | 11/12/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 62 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24247-309432
@@ -1423,6 +1484,7 @@ employer_postal_code           | 43035
 begin_date                     | 9/3/2024
 end_date                       | 9/2/2027
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
 -[ RECORD 63 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-21069-137067
@@ -1446,6 +1508,7 @@ employer_postal_code           | 12205
 begin_date                     | 9/1/2021
 end_date                       | 8/31/2024
 total_worker_positions         | 1
+soc_code                       | 15-1199.00
 h_1b_dependent                 | Yes
 -[ RECORD 64 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23233-281713
@@ -1469,31 +1532,9 @@ employer_postal_code           | 46204
 begin_date                     | 2/1/2024
 end_date                       | 1/31/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 65 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-22041-890936
-job_title                      | Business Analyst
-employer_name                  | EALEARN INC
-secondary_entity_business_name | Indiana State Department of Health
-employer_poc_email             | HR@EALEARN.COM
-employer_poc_phone             | 17327498181
-employer_poc_first_name        | PRASHANT
-employer_poc_last_name         | SAHOO
-worksite_address1              | 2 North Meridian Street
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 100 METROPLEX DRIVE
-employer_address2              | SUITE 103
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 2/9/2022
-end_date                       | 2/8/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 66 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22041-890937
 job_title                      | Business Analyst
 employer_name                  | EALEARN INC
@@ -1515,6 +1556,31 @@ employer_postal_code           | 08817
 begin_date                     | 2/9/2022
 end_date                       | 2/8/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.08
+h_1b_dependent                 | Yes
+-[ RECORD 66 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-22041-890936
+job_title                      | Business Analyst
+employer_name                  | EALEARN INC
+secondary_entity_business_name | Indiana State Department of Health
+employer_poc_email             | HR@EALEARN.COM
+employer_poc_phone             | 17327498181
+employer_poc_first_name        | PRASHANT
+employer_poc_last_name         | SAHOO
+worksite_address1              | 2 North Meridian Street
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 100 METROPLEX DRIVE
+employer_address2              | SUITE 103
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 2/9/2022
+end_date                       | 2/8/2025
+total_worker_positions         | 1
+soc_code                       | 15-1199.08
 h_1b_dependent                 | Yes
 -[ RECORD 67 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22082-004871
@@ -1538,10 +1604,11 @@ employer_postal_code           | 08817
 begin_date                     | 3/23/2022
 end_date                       | 3/22/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.08
 h_1b_dependent                 | Yes
 -[ RECORD 68 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23284-424712
-job_title                      | Programmer Analyst 
+job_title                      | Programmer Analyst
 employer_name                  | SAHASRA TECHNOLOGIES CORPORATION
 secondary_entity_business_name | Indiana State Department of Revenue
 employer_poc_email             | IMMIGRATION@STLOGICS.COM
@@ -1561,6 +1628,7 @@ employer_postal_code           | 46032
 begin_date                     | 11/12/2023
 end_date                       | 11/11/2026
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | No
 -[ RECORD 69 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-21362-789947
@@ -1584,6 +1652,7 @@ employer_postal_code           | 33844
 begin_date                     | 2/13/2022
 end_date                       | 2/12/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132
 h_1b_dependent                 | Yes
 -[ RECORD 70 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22153-235685
@@ -1607,6 +1676,7 @@ employer_postal_code           | 08528
 begin_date                     | 8/2/2022
 end_date                       | 8/1/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.02
 h_1b_dependent                 | Yes
 -[ RECORD 71 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25051-710735
@@ -1630,6 +1700,7 @@ employer_postal_code           | 08528
 begin_date                     | 8/2/2025
 end_date                       | 8/1/2028
 total_worker_positions         | 1
+soc_code                       | 15-1253
 h_1b_dependent                 | Yes
 -[ RECORD 72 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22280-517757
@@ -1653,31 +1724,9 @@ employer_postal_code           | 08830
 begin_date                     | 10/17/2022
 end_date                       | 10/16/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 73 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-21308-688333
-job_title                      | DEVOPS ENGINEER
-employer_name                  | COGNIER INC
-secondary_entity_business_name | STATE OF INDIANA
-employer_poc_email             | immigration@cognierinc.com
-employer_poc_phone             | 14044763713
-employer_poc_first_name        | GINIKA JESSE CHI
-employer_poc_last_name         | EZUKANMA
-worksite_address1              | 500 N MERIDIAN ST
-worksite_address2              | 7TH FLOOR
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 4550 ATWATER CT
-employer_address2              | SUITE 201
-employer_city                  | BUFORD
-employer_state                 | GA
-employer_postal_code           | 30518
-begin_date                     | 11/5/2021
-end_date                       | 11/4/2024
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 74 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-21299-667370
 job_title                      | DEVOPS ENGINEER
 employer_name                  | COGNIER INC
@@ -1699,31 +1748,33 @@ employer_postal_code           | 30518
 begin_date                     | 10/27/2021
 end_date                       | 10/26/2024
 total_worker_positions         | 1
+soc_code                       | 15-1133.00
 h_1b_dependent                 | Yes
--[ RECORD 75 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24176-143877
-job_title                      | Software Developer
-employer_name                  | Cyber Infotech LLC
+-[ RECORD 74 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-21308-688333
+job_title                      | DEVOPS ENGINEER
+employer_name                  | COGNIER INC
 secondary_entity_business_name | STATE OF INDIANA
-employer_poc_email             | vishnu.@cyberinfotek.com
-employer_poc_phone             | 17342626138
-employer_poc_first_name        | Vishnu
-employer_poc_last_name         | Polagani
-worksite_address1              | 10 N SENATE AVE
-worksite_address2              | 
+employer_poc_email             | immigration@cognierinc.com
+employer_poc_phone             | 14044763713
+employer_poc_first_name        | GINIKA JESSE CHI
+employer_poc_last_name         | EZUKANMA
+worksite_address1              | 500 N MERIDIAN ST
+worksite_address2              | 7TH FLOOR
 worksite_city                  | INDIANAPOLIS
 worksite_county                | MARION
-lawfirm_name_business_name     | BBI LAW GROUP, P.C.
-employer_address1              | 370 Mill Street
-employer_address2              | 
-employer_city                  | Hagerstown
-employer_state                 | MD
-employer_postal_code           | 21740
-begin_date                     | 6/24/2024
-end_date                       | 6/23/2027
+lawfirm_name_business_name     | 
+employer_address1              | 4550 ATWATER CT
+employer_address2              | SUITE 201
+employer_city                  | BUFORD
+employer_state                 | GA
+employer_postal_code           | 30518
+begin_date                     | 11/5/2021
+end_date                       | 11/4/2024
 total_worker_positions         | 1
+soc_code                       | 15-1133.00
 h_1b_dependent                 | Yes
--[ RECORD 76 ]-----------------+--------------------------------------------------------------------
+-[ RECORD 75 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24176-143910
 job_title                      | DevOps Engineer
 employer_name                  | Cyber Infotech LLC
@@ -1745,6 +1796,31 @@ employer_postal_code           | 21740
 begin_date                     | 6/24/2024
 end_date                       | 6/23/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 76 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24176-143877
+job_title                      | Software Developer
+employer_name                  | Cyber Infotech LLC
+secondary_entity_business_name | STATE OF INDIANA
+employer_poc_email             | vishnu.@cyberinfotek.com
+employer_poc_phone             | 17342626138
+employer_poc_first_name        | Vishnu
+employer_poc_last_name         | Polagani
+worksite_address1              | 10 N SENATE AVE
+worksite_address2              | 
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | BBI LAW GROUP, P.C.
+employer_address1              | 370 Mill Street
+employer_address2              | 
+employer_city                  | Hagerstown
+employer_state                 | MD
+employer_postal_code           | 21740
+begin_date                     | 6/24/2024
+end_date                       | 6/23/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 77 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24157-072866
@@ -1768,29 +1844,31 @@ employer_postal_code           | 27513
 begin_date                     | 10/29/2024
 end_date                       | 10/28/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 78 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-23211-224861
-job_title                      | SOFTWARE DEVELOPER
+case_number                    | I-200-22147-221805
+job_title                      | Software Developer
 employer_name                  | MERIDIANSOFT INC
 secondary_entity_business_name | STATE OF INDIANA
-employer_poc_email             | HR@MERIDIANSOFT.COM
+employer_poc_email             | KRISHNA@MERIDIANSOFT.COM
 employer_poc_phone             | 16143403360
 employer_poc_first_name        | KRISHNA
 employer_poc_last_name         | CHINTALAPATI
-worksite_address1              | 10 N Senate Ave
+worksite_address1              | 10 N SENATE AVE
 worksite_address2              | 
-worksite_city                  | Indianapolis
+worksite_city                  | INDIANAPOLIS
 worksite_county                | MARION
 lawfirm_name_business_name     | 
-employer_address1              | 615 CARLE AVE
+employer_address1              | 615 CARLE AVENUE
 employer_address2              | 
 employer_city                  | LEWIS CENTER
 employer_state                 | OH
 employer_postal_code           | 43035
-begin_date                     | 1/26/2024
-end_date                       | 1/25/2027
+begin_date                     | 6/20/2022
+end_date                       | 6/19/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 79 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22304-560042
@@ -1814,8 +1892,33 @@ employer_postal_code           | 43035
 begin_date                     | 12/21/2022
 end_date                       | 12/20/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 80 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-23211-224861
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | MERIDIANSOFT INC
+secondary_entity_business_name | STATE OF INDIANA
+employer_poc_email             | HR@MERIDIANSOFT.COM
+employer_poc_phone             | 16143403360
+employer_poc_first_name        | KRISHNA
+employer_poc_last_name         | CHINTALAPATI
+worksite_address1              | 10 N Senate Ave
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 615 CARLE AVE
+employer_address2              | 
+employer_city                  | LEWIS CENTER
+employer_state                 | OH
+employer_postal_code           | 43035
+begin_date                     | 1/26/2024
+end_date                       | 1/25/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 81 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22153-236857
 job_title                      | DevOps Engineer
 employer_name                  | MERIDIANSOFT INC
@@ -1837,29 +1940,7 @@ employer_postal_code           | 43035
 begin_date                     | 6/20/2022
 end_date                       | 6/19/2025
 total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 81 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-22147-221805
-job_title                      | Software Developer
-employer_name                  | MERIDIANSOFT INC
-secondary_entity_business_name | STATE OF INDIANA
-employer_poc_email             | KRISHNA@MERIDIANSOFT.COM
-employer_poc_phone             | 16143403360
-employer_poc_first_name        | KRISHNA
-employer_poc_last_name         | CHINTALAPATI
-worksite_address1              | 10 N SENATE AVE
-worksite_address2              | 
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 615 CARLE AVENUE
-employer_address2              | 
-employer_city                  | LEWIS CENTER
-employer_state                 | OH
-employer_postal_code           | 43035
-begin_date                     | 6/20/2022
-end_date                       | 6/19/2025
-total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 82 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22074-979766
@@ -1883,6 +1964,7 @@ employer_postal_code           | 46216
 begin_date                     | 3/22/2022
 end_date                       | 3/21/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 83 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22145-209374
@@ -1906,6 +1988,7 @@ employer_postal_code           | 48335
 begin_date                     | 9/22/2022
 end_date                       | 9/21/2025
 total_worker_positions         | 1
+soc_code                       | 15-1141.00
 h_1b_dependent                 | Yes
 -[ RECORD 84 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25129-959384
@@ -1929,6 +2012,7 @@ employer_postal_code           | 48335
 begin_date                     | 9/22/2025
 end_date                       | 9/21/2028
 total_worker_positions         | 1
+soc_code                       | 15-1242
 h_1b_dependent                 | Yes
 -[ RECORD 85 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25105-865004
@@ -1952,6 +2036,7 @@ employer_postal_code           | 48335
 begin_date                     | 9/22/2025
 end_date                       | 9/21/2028
 total_worker_positions         | 1
+soc_code                       | 15-1242
 h_1b_dependent                 | Yes
 -[ RECORD 86 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25128-956292
@@ -1975,6 +2060,7 @@ employer_postal_code           | 08536
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 87 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23144-048475
@@ -1998,6 +2084,7 @@ employer_postal_code           | 43035
 begin_date                     | 9/9/2023
 end_date                       | 9/8/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 88 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23233-282719
@@ -2021,6 +2108,7 @@ employer_postal_code           | 08536
 begin_date                     | 8/21/2023
 end_date                       | 8/20/2026
 total_worker_positions         | 1
+soc_code                       | 15-1254.00
 h_1b_dependent                 | Yes
 -[ RECORD 89 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-21313-694915
@@ -2044,6 +2132,7 @@ employer_postal_code           | 75082
 begin_date                     | 11/16/2021
 end_date                       | 11/15/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 90 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22244-450915
@@ -2067,6 +2156,7 @@ employer_postal_code           | 32779
 begin_date                     | 9/12/2022
 end_date                       | 9/11/2025
 total_worker_positions         | 1
+soc_code                       | 15-1242.00
 h_1b_dependent                 | No
 -[ RECORD 91 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-22207-376835
@@ -2090,6 +2180,7 @@ employer_postal_code           | 92691
 begin_date                     | 9/2/2022
 end_date                       | 9/1/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 92 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24150-049090
@@ -2113,6 +2204,7 @@ employer_postal_code           | 75240
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 93 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24131-979861
@@ -2136,6 +2228,7 @@ employer_postal_code           | 75240
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 94 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23341-551423
@@ -2159,6 +2252,7 @@ employer_postal_code           | 08852
 begin_date                     | 1/2/2024
 end_date                       | 1/1/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 95 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24029-673137
@@ -2182,6 +2276,7 @@ employer_postal_code           | 27560
 begin_date                     | 2/1/2024
 end_date                       | 1/31/2027
 total_worker_positions         | 1
+soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
 -[ RECORD 96 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24116-927842
@@ -2205,6 +2300,7 @@ employer_postal_code           | 75070
 begin_date                     | 5/6/2024
 end_date                       | 5/5/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 97 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24109-901989
@@ -2228,6 +2324,7 @@ employer_postal_code           | 75035
 begin_date                     | 4/29/2024
 end_date                       | 4/28/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 98 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24065-772063
@@ -2251,6 +2348,7 @@ employer_postal_code           | 46204
 begin_date                     | 3/7/2024
 end_date                       | 3/6/2027
 total_worker_positions         | 1
+soc_code                       | 15-1253
 h_1b_dependent                 | Yes
 -[ RECORD 99 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-23234-286922
@@ -2274,6 +2372,7 @@ employer_postal_code           | 08536
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1254.00
 h_1b_dependent                 | Yes
 -[ RECORD 100 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22181-323772
@@ -2297,6 +2396,7 @@ employer_postal_code           | 92691
 begin_date                     | 9/1/2022
 end_date                       | 8/31/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 101 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23067-833025
@@ -2320,6 +2420,7 @@ employer_postal_code           | 06023
 begin_date                     | 8/19/2023
 end_date                       | 8/18/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 102 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-21350-771219
@@ -2343,6 +2444,7 @@ employer_postal_code           | 22030
 begin_date                     | 12/23/2021
 end_date                       | 12/22/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 103 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25134-976860
@@ -2366,6 +2468,7 @@ employer_postal_code           | 14606
 begin_date                     | 5/14/2025
 end_date                       | 5/13/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 104 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22217-398582
@@ -2389,6 +2492,7 @@ employer_postal_code           | 01608
 begin_date                     | 8/5/2022
 end_date                       | 8/4/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 105 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24143-027450
@@ -2412,31 +2516,9 @@ employer_postal_code           | 08536
 begin_date                     | 5/28/2024
 end_date                       | 5/27/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 106 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-24166-111875
-job_title                      | Software/Data Engineer
-employer_name                  | CapSquare Systems Inc
-secondary_entity_business_name | State of Indiana
-employer_poc_email             | anila@capsquaresys.com
-employer_poc_phone             | 12485776050
-employer_poc_first_name        | Anila
-employer_poc_last_name         | Throvagunta
-worksite_address1              | 100 N Senate Ave.
-worksite_address2              | 5th Floor
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
-employer_address1              | 1000 John R. Road
-employer_address2              | Suite 200
-employer_city                  | Troy
-employer_state                 | MI
-employer_postal_code           | 48083
-begin_date                     | 8/31/2024
-end_date                       | 8/30/2027
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 107 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24152-056183
 job_title                      | Software Engineer
 employer_name                  | CapSquare Systems Inc
@@ -2458,6 +2540,31 @@ employer_postal_code           | 48083
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 107 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-24166-111875
+job_title                      | Software/Data Engineer
+employer_name                  | CapSquare Systems Inc
+secondary_entity_business_name | State of Indiana
+employer_poc_email             | anila@capsquaresys.com
+employer_poc_phone             | 12485776050
+employer_poc_first_name        | Anila
+employer_poc_last_name         | Throvagunta
+worksite_address1              | 100 N Senate Ave.
+worksite_address2              | 5th Floor
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
+employer_address1              | 1000 John R. Road
+employer_address2              | Suite 200
+employer_city                  | Troy
+employer_state                 | MI
+employer_postal_code           | 48083
+begin_date                     | 8/31/2024
+end_date                       | 8/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 108 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24312-459539
@@ -2481,6 +2588,7 @@ employer_postal_code           | 46240
 begin_date                     | 11/14/2024
 end_date                       | 11/13/2027
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 109 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25084-802761
@@ -2504,31 +2612,9 @@ employer_postal_code           | 21740
 begin_date                     | 3/25/2025
 end_date                       | 3/24/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 110 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22018-836031
-job_title                      | Sr Java Developer
-employer_name                  | DEW SOFTWARE INC
-secondary_entity_business_name | State of Indiana
-employer_poc_email             | SURESH@DEWSOFTWARE.COM
-employer_poc_phone             | 15106761536
-employer_poc_first_name        | SURESH
-employer_poc_last_name         | DEOPURA
-worksite_address1              | 10 North Senate Avenue
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
-employer_address1              | 983 CORPORATE WAY
-employer_address2              | 
-employer_city                  | FREMONT
-employer_state                 | CA
-employer_postal_code           | 94539
-begin_date                     | 1/18/2022
-end_date                       | 1/17/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 111 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22027-858028
 job_title                      | Sr Java Developer
 employer_name                  | DEW SOFTWARE INC
@@ -2550,6 +2636,31 @@ employer_postal_code           | 94539
 begin_date                     | 5/3/2022
 end_date                       | 5/2/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 111 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-22018-836031
+job_title                      | Sr Java Developer
+employer_name                  | DEW SOFTWARE INC
+secondary_entity_business_name | State of Indiana
+employer_poc_email             | SURESH@DEWSOFTWARE.COM
+employer_poc_phone             | 15106761536
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | DEOPURA
+worksite_address1              | 10 North Senate Avenue
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
+employer_address1              | 983 CORPORATE WAY
+employer_address2              | 
+employer_city                  | FREMONT
+employer_state                 | CA
+employer_postal_code           | 94539
+begin_date                     | 1/18/2022
+end_date                       | 1/17/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 112 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23306-472955
@@ -2573,6 +2684,7 @@ employer_postal_code           | 43017
 begin_date                     | 11/16/2023
 end_date                       | 5/7/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 113 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24262-345321
@@ -2596,6 +2708,7 @@ employer_postal_code           | 60067
 begin_date                     | 9/18/2024
 end_date                       | 9/17/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 114 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23013-702909
@@ -2619,31 +2732,9 @@ employer_postal_code           | 43017
 begin_date                     | 6/29/2023
 end_date                       | 6/28/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 115 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22172-300013
-job_title                      | Technical Project Manager
-employer_name                  | Elixir Lab USA Inc
-secondary_entity_business_name | State of Indiana
-employer_poc_email             | anna.harper@cardinality.ai
-employer_poc_phone             | 15139071068
-employer_poc_first_name        | Anna
-employer_poc_last_name         | Harper
-worksite_address1              | 302 W Washington ST RM E 306
-worksite_address2              | MS 47
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 12713 Greenbriar Road,
-employer_address2              | 
-employer_city                  | Potomac
-employer_state                 | MD
-employer_postal_code           | 20854
-begin_date                     | 10/1/2022
-end_date                       | 9/30/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 116 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22172-300061
 job_title                      | Application Developer
 employer_name                  | Elixir Lab USA Inc
@@ -2665,6 +2756,31 @@ employer_postal_code           | 20854
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 2
+soc_code                       | 15-1132.00
+h_1b_dependent                 | No
+-[ RECORD 116 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-22172-300013
+job_title                      | Technical Project Manager
+employer_name                  | Elixir Lab USA Inc
+secondary_entity_business_name | State of Indiana
+employer_poc_email             | anna.harper@cardinality.ai
+employer_poc_phone             | 15139071068
+employer_poc_first_name        | Anna
+employer_poc_last_name         | Harper
+worksite_address1              | 302 W Washington ST RM E 306
+worksite_address2              | MS 47
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 12713 Greenbriar Road,
+employer_address2              | 
+employer_city                  | Potomac
+employer_state                 | MD
+employer_postal_code           | 20854
+begin_date                     | 10/1/2022
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+soc_code                       | 15-1199.09
 h_1b_dependent                 | No
 -[ RECORD 117 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23130-008442
@@ -2688,6 +2804,7 @@ employer_postal_code           | 48084
 begin_date                     | 9/30/2023
 end_date                       | 9/29/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 118 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23146-056738
@@ -2711,6 +2828,7 @@ employer_postal_code           | 48084
 begin_date                     | 9/30/2023
 end_date                       | 9/29/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 119 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23362-595307
@@ -2734,6 +2852,7 @@ employer_postal_code           | 08854
 begin_date                     | 1/2/2024
 end_date                       | 1/1/2027
 total_worker_positions         | 1
+soc_code                       | 15-2041.00
 h_1b_dependent                 | No
 -[ RECORD 120 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24354-557185
@@ -2757,6 +2876,7 @@ employer_postal_code           | 75062
 begin_date                     | 12/26/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 121 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22294-543708
@@ -2780,6 +2900,7 @@ employer_postal_code           | 75024
 begin_date                     | 10/31/2022
 end_date                       | 10/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-2051.01
 h_1b_dependent                 | No
 -[ RECORD 122 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23027-731970
@@ -2803,31 +2924,9 @@ employer_postal_code           | 75024
 begin_date                     | 7/23/2023
 end_date                       | 7/22/2026
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 123 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22160-262747
-job_title                      | Project Manager
-employer_name                  | NTT DATA Inc
-secondary_entity_business_name | State of Indiana
-employer_poc_email             | Rachna.Jalota@nttdata.com
-employer_poc_phone             | 18007453263
-employer_poc_first_name        | Rachna
-employer_poc_last_name         | Jalota
-worksite_address1              | 400 West Washington St.
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | BERRY APPLEMAN & LEIDEN LLP
-employer_address1              | 7950 Legacy Drive
-employer_address2              | Floor 11
-employer_city                  | Plano
-employer_state                 | TX
-employer_postal_code           | 75024
-begin_date                     | 6/20/2022
-end_date                       | 6/19/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 124 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22209-382355
 job_title                      | Business Intelligence Specialist
 employer_name                  | NTT DATA Inc
@@ -2849,6 +2948,31 @@ employer_postal_code           | 75024
 begin_date                     | 8/10/2022
 end_date                       | 8/9/2025
 total_worker_positions         | 1
+soc_code                       | 15-2051.00
+h_1b_dependent                 | No
+-[ RECORD 124 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-22160-262747
+job_title                      | Project Manager
+employer_name                  | NTT DATA Inc
+secondary_entity_business_name | State of Indiana
+employer_poc_email             | Rachna.Jalota@nttdata.com
+employer_poc_phone             | 18007453263
+employer_poc_first_name        | Rachna
+employer_poc_last_name         | Jalota
+worksite_address1              | 400 West Washington St.
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | BERRY APPLEMAN & LEIDEN LLP
+employer_address1              | 7950 Legacy Drive
+employer_address2              | Floor 11
+employer_city                  | Plano
+employer_state                 | TX
+employer_postal_code           | 75024
+begin_date                     | 6/20/2022
+end_date                       | 6/19/2025
+total_worker_positions         | 1
+soc_code                       | 15-1199.09
 h_1b_dependent                 | No
 -[ RECORD 125 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22173-303921
@@ -2872,10 +2996,11 @@ employer_postal_code           | 75024
 begin_date                     | 7/1/2022
 end_date                       | 6/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.09
 h_1b_dependent                 | No
 -[ RECORD 126 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22034-876070
-job_title                      | Business Intelligence Specialist 
+job_title                      | Business Intelligence Specialist
 employer_name                  | NTT DATA Services LLC
 secondary_entity_business_name | State of Indiana
 employer_poc_email             | Rachna.Jalota@nttdata.com
@@ -2895,31 +3020,9 @@ employer_postal_code           | 75024
 begin_date                     | 2/11/2022
 end_date                       | 2/10/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.08
 h_1b_dependent                 | No
 -[ RECORD 127 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22119-119255
-job_title                      | Software Engineer
-employer_name                  | Orbit Systems Inc
-secondary_entity_business_name | State of Indiana
-employer_poc_email             | shagun@orbitsystemsinc.com
-employer_poc_phone             | 16145048011
-employer_poc_first_name        | Shagun
-employer_poc_last_name         | Kaushik
-worksite_address1              | 7811 Milhouse Rd
-worksite_address2              | Suite W
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 200 East Campus View Blvd.,
-employer_address2              | Suite 200
-employer_city                  | Columbus
-employer_state                 | OH
-employer_postal_code           | 43235
-begin_date                     | 9/9/2022
-end_date                       | 9/8/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 128 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25076-780332
 job_title                      | Software Engineer
 employer_name                  | Orbit Systems Inc
@@ -2941,31 +3044,33 @@ employer_postal_code           | 43235
 begin_date                     | 9/9/2025
 end_date                       | 9/8/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 129 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-21354-776317
-job_title                      | Microsoft Dynamics CRM Developer
-employer_name                  | PLM Systems LLC
+-[ RECORD 128 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-22119-119255
+job_title                      | Software Engineer
+employer_name                  | Orbit Systems Inc
 secondary_entity_business_name | State of Indiana
-employer_poc_email             | HR@PLMSystems.US
-employer_poc_phone             | 16096085098
-employer_poc_first_name        | Vinay
-employer_poc_last_name         | Shankam
-worksite_address1              | 402 W Washington St
-worksite_address2              | 
+employer_poc_email             | shagun@orbitsystemsinc.com
+employer_poc_phone             | 16145048011
+employer_poc_first_name        | Shagun
+employer_poc_last_name         | Kaushik
+worksite_address1              | 7811 Milhouse Rd
+worksite_address2              | Suite W
 worksite_city                  | Indianapolis
 worksite_county                | MARION
-lawfirm_name_business_name     | Law Offices of Gilbert C Ferrer
-employer_address1              | 1 WOODS EDGE
-employer_address2              | 
-employer_city                  | ROBBINSVILLE
-employer_state                 | NJ
-employer_postal_code           | 08691-3098
-begin_date                     | 1/15/2022
-end_date                       | 1/14/2025
+lawfirm_name_business_name     | 
+employer_address1              | 200 East Campus View Blvd.,
+employer_address2              | Suite 200
+employer_city                  | Columbus
+employer_state                 | OH
+employer_postal_code           | 43235
+begin_date                     | 9/9/2022
+end_date                       | 9/8/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
--[ RECORD 130 ]----------------+--------------------------------------------------------------------
+-[ RECORD 129 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22012-825256
 job_title                      | Microsoft Dynamics CRM Developer
 employer_name                  | PLM Systems LLC
@@ -2987,18 +3092,43 @@ employer_postal_code           | 08691-3098
 begin_date                     | 1/15/2022
 end_date                       | 1/14/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | No
+-[ RECORD 130 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-21354-776317
+job_title                      | Microsoft Dynamics CRM Developer
+employer_name                  | PLM Systems LLC
+secondary_entity_business_name | State of Indiana
+employer_poc_email             | HR@PLMSystems.US
+employer_poc_phone             | 16096085098
+employer_poc_first_name        | Vinay
+employer_poc_last_name         | Shankam
+worksite_address1              | 402 W Washington St
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Law Offices of Gilbert C Ferrer
+employer_address1              | 1 WOODS EDGE
+employer_address2              | 
+employer_city                  | ROBBINSVILLE
+employer_state                 | NJ
+employer_postal_code           | 08691-3098
+begin_date                     | 1/15/2022
+end_date                       | 1/14/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 131 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22311-572060
-job_title                      | Senior IT- Disaster Recovery Analyst
+case_number                    | I-200-24058-751483
+job_title                      | Applications Systems Analyst/Programmer/Senior
 employer_name                  | PYRAMID TECHNOLOGY SOLUTIONS INC
 secondary_entity_business_name | State of Indiana
 employer_poc_email             | HRS@PYRAMIDINC.COM
 employer_poc_phone             | 13172809900
-employer_poc_first_name        | Aishwarya
-employer_poc_last_name         | Seshadri
-worksite_address1              | 100 N Senate Ave
-worksite_address2              | Room N551
+employer_poc_first_name        | Swati
+employer_poc_last_name         | Kaushik
+worksite_address1              | 7811 Millhouse Rd
+worksite_address2              | Suite  W
 worksite_city                  | Indianapolis
 worksite_county                | MARION
 lawfirm_name_business_name     | 
@@ -3007,9 +3137,10 @@ employer_address2              | SUITE A
 employer_city                  | INDIANAPOLIS
 employer_state                 | IN
 employer_postal_code           | 46216
-begin_date                     | 11/16/2022
-end_date                       | 11/15/2025
+begin_date                     | 7/7/2024
+end_date                       | 7/6/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 132 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22311-572294
@@ -3033,18 +3164,19 @@ employer_postal_code           | 46216
 begin_date                     | 11/16/2022
 end_date                       | 11/15/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 133 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-24058-751483
-job_title                      | Applications Systems Analyst/Programmer/Senior
+case_number                    | I-200-22311-572060
+job_title                      | Senior IT- Disaster Recovery Analyst
 employer_name                  | PYRAMID TECHNOLOGY SOLUTIONS INC
 secondary_entity_business_name | State of Indiana
 employer_poc_email             | HRS@PYRAMIDINC.COM
 employer_poc_phone             | 13172809900
-employer_poc_first_name        | Swati
-employer_poc_last_name         | Kaushik
-worksite_address1              | 7811 Millhouse Rd
-worksite_address2              | Suite  W
+employer_poc_first_name        | Aishwarya
+employer_poc_last_name         | Seshadri
+worksite_address1              | 100 N Senate Ave
+worksite_address2              | Room N551
 worksite_city                  | Indianapolis
 worksite_county                | MARION
 lawfirm_name_business_name     | 
@@ -3053,34 +3185,12 @@ employer_address2              | SUITE A
 employer_city                  | INDIANAPOLIS
 employer_state                 | IN
 employer_postal_code           | 46216
-begin_date                     | 7/7/2024
-end_date                       | 7/6/2027
+begin_date                     | 11/16/2022
+end_date                       | 11/15/2025
 total_worker_positions         | 1
+soc_code                       | 15-1212.00
 h_1b_dependent                 | Yes
 -[ RECORD 134 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-24009-629004
-job_title                      | Information Security Analyst
-employer_name                  | SOYO SOFT INC
-secondary_entity_business_name | State of Indiana
-employer_poc_email             | hema@soyosoft.com
-employer_poc_phone             | 15166445400
-employer_poc_first_name        | Hemalatha
-employer_poc_last_name         | DOMMARAJU
-worksite_address1              | 2 N. Meridian St.
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Ishar Law Firm, PC
-employer_address1              | 240 W. OLD Country ROAD
-employer_address2              | Suite 2
-employer_city                  | Hicksville
-employer_state                 | NY
-employer_postal_code           | 11801
-begin_date                     | 1/9/2024
-end_date                       | 9/30/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 135 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24012-635818
 job_title                      | Information Security Analyst
 employer_name                  | SOYO SOFT INC
@@ -3102,17 +3212,18 @@ employer_postal_code           | 11801
 begin_date                     | 1/11/2024
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1212.00
 h_1b_dependent                 | No
--[ RECORD 136 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-24183-164987
+-[ RECORD 135 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23355-583379
 job_title                      | Information Security Analyst
 employer_name                  | SOYO SOFT INC
 secondary_entity_business_name | State of Indiana
-employer_poc_email             | HEMA@SOYOSOFT.COM
+employer_poc_email             | hema@soyosoft.com
 employer_poc_phone             | 15166445400
 employer_poc_first_name        | Hemalatha
 employer_poc_last_name         | DOMMARAJU
-worksite_address1              | 2 N. Meridian St
+worksite_address1              | 2 N. Meridian St.
 worksite_address2              | 
 worksite_city                  | Indianapolis
 worksite_county                | MARION
@@ -3122,9 +3233,34 @@ employer_address2              | Suite 2
 employer_city                  | Hicksville
 employer_state                 | NY
 employer_postal_code           | 11801
-begin_date                     | 7/1/2024
+begin_date                     | 1/2/2024
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1212.00
+h_1b_dependent                 | No
+-[ RECORD 136 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-24009-629004
+job_title                      | Information Security Analyst
+employer_name                  | SOYO SOFT INC
+secondary_entity_business_name | State of Indiana
+employer_poc_email             | hema@soyosoft.com
+employer_poc_phone             | 15166445400
+employer_poc_first_name        | Hemalatha
+employer_poc_last_name         | DOMMARAJU
+worksite_address1              | 2 N. Meridian St.
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Ishar Law Firm, PC
+employer_address1              | 240 W. OLD Country ROAD
+employer_address2              | Suite 2
+employer_city                  | Hicksville
+employer_state                 | NY
+employer_postal_code           | 11801
+begin_date                     | 1/9/2024
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+soc_code                       | 15-1212.00
 h_1b_dependent                 | No
 -[ RECORD 137 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23355-583374
@@ -3148,17 +3284,18 @@ employer_postal_code           | 11801
 begin_date                     | 1/2/2024
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1212.00
 h_1b_dependent                 | No
 -[ RECORD 138 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23355-583379
+case_number                    | I-200-24183-164987
 job_title                      | Information Security Analyst
 employer_name                  | SOYO SOFT INC
 secondary_entity_business_name | State of Indiana
-employer_poc_email             | hema@soyosoft.com
+employer_poc_email             | HEMA@SOYOSOFT.COM
 employer_poc_phone             | 15166445400
 employer_poc_first_name        | Hemalatha
 employer_poc_last_name         | DOMMARAJU
-worksite_address1              | 2 N. Meridian St.
+worksite_address1              | 2 N. Meridian St
 worksite_address2              | 
 worksite_city                  | Indianapolis
 worksite_county                | MARION
@@ -3168,9 +3305,10 @@ employer_address2              | Suite 2
 employer_city                  | Hicksville
 employer_state                 | NY
 employer_postal_code           | 11801
-begin_date                     | 1/2/2024
+begin_date                     | 7/1/2024
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1212.00
 h_1b_dependent                 | No
 -[ RECORD 139 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23080-864260
@@ -3194,31 +3332,9 @@ employer_postal_code           | 75038
 begin_date                     | 9/4/2023
 end_date                       | 9/3/2026
 total_worker_positions         | 1
+soc_code                       | 15-1243.00
 h_1b_dependent                 | Yes
 -[ RECORD 140 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22264-484960
-job_title                      | Biztalk Developer
-employer_name                  | Strategic Resources International Inc
-secondary_entity_business_name | State of Indiana
-employer_poc_email             | bharath@sriusa.com
-employer_poc_phone             | 17328874646
-employer_poc_first_name        | Bharath
-employer_poc_last_name         | Sreerangam
-worksite_address1              | 402 East Washington St
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 777 Washington Road
-employer_address2              | 2
-employer_city                  | Parlin
-employer_state                 | NJ
-employer_postal_code           | 08859
-begin_date                     | 10/2/2022
-end_date                       | 10/1/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 141 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22264-485084
 job_title                      | Biztalk Developer
 employer_name                  | Strategic Resources International Inc
@@ -3240,8 +3356,57 @@ employer_postal_code           | 08859
 begin_date                     | 10/2/2022
 end_date                       | 10/1/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 141 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-22264-484960
+job_title                      | Biztalk Developer
+employer_name                  | Strategic Resources International Inc
+secondary_entity_business_name | State of Indiana
+employer_poc_email             | bharath@sriusa.com
+employer_poc_phone             | 17328874646
+employer_poc_first_name        | Bharath
+employer_poc_last_name         | Sreerangam
+worksite_address1              | 402 East Washington St
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 777 Washington Road
+employer_address2              | 2
+employer_city                  | Parlin
+employer_state                 | NJ
+employer_postal_code           | 08859
+begin_date                     | 10/2/2022
+end_date                       | 10/1/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 142 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-22222-407277
+job_title                      | Software Developer
+employer_name                  | Strategic Resources International Inc
+secondary_entity_business_name | State of Indiana
+employer_poc_email             | bharath@sriusa.com
+employer_poc_phone             | 17328874646
+employer_poc_first_name        | Bharath
+employer_poc_last_name         | Sreerangam
+worksite_address1              | 100 N Senate Ave
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 777 Washington Road
+employer_address2              | 2
+employer_city                  | Parlin
+employer_state                 | NJ
+employer_postal_code           | 08859
+begin_date                     | 10/2/2022
+end_date                       | 10/1/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 143 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22264-485200
 job_title                      | Biztalk Developer
 employer_name                  | Strategic Resources International Inc
@@ -3263,29 +3428,7 @@ employer_postal_code           | 08859
 begin_date                     | 10/2/2022
 end_date                       | 10/1/2025
 total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 143 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22222-407277
-job_title                      | Software Developer 
-employer_name                  | Strategic Resources International Inc
-secondary_entity_business_name | State of Indiana
-employer_poc_email             | bharath@sriusa.com
-employer_poc_phone             | 17328874646
-employer_poc_first_name        | Bharath
-employer_poc_last_name         | Sreerangam
-worksite_address1              | 100 N Senate Ave
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 777 Washington Road
-employer_address2              | 2
-employer_city                  | Parlin
-employer_state                 | NJ
-employer_postal_code           | 08859
-begin_date                     | 10/2/2022
-end_date                       | 10/1/2025
-total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 144 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23087-881592
@@ -3309,6 +3452,7 @@ employer_postal_code           | 30097
 begin_date                     | 4/4/2023
 end_date                       | 4/3/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 145 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24045-718608
@@ -3332,6 +3476,7 @@ employer_postal_code           | 60506
 begin_date                     | 3/4/2024
 end_date                       | 3/3/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 146 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22280-516992
@@ -3355,6 +3500,7 @@ employer_postal_code           | 46204
 begin_date                     | 10/14/2022
 end_date                       | 10/13/2025
 total_worker_positions         | 1
+soc_code                       | 15-1242
 h_1b_dependent                 | Yes
 -[ RECORD 147 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22215-394668
@@ -3378,6 +3524,7 @@ employer_postal_code           | 46204
 begin_date                     | 9/14/2022
 end_date                       | 9/13/2025
 total_worker_positions         | 1
+soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 148 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23088-887317
@@ -3401,6 +3548,7 @@ employer_postal_code           | 75070
 begin_date                     | 4/3/2023
 end_date                       | 4/2/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 149 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24101-874641
@@ -3424,6 +3572,7 @@ employer_postal_code           | 30097
 begin_date                     | 4/22/2024
 end_date                       | 4/21/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 150 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25045-695315
@@ -3447,6 +3596,7 @@ employer_postal_code           | 08820
 begin_date                     | 2/24/2025
 end_date                       | 2/23/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051.01
 h_1b_dependent                 | No
 -[ RECORD 151 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24136-997678
@@ -3470,6 +3620,7 @@ employer_postal_code           | 46032
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-2051.00
 h_1b_dependent                 | Yes
 -[ RECORD 152 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24135-993570
@@ -3493,6 +3644,7 @@ employer_postal_code           | 46032
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-2051.00
 h_1b_dependent                 | No
 -[ RECORD 153 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22031-865797
@@ -3516,6 +3668,7 @@ employer_postal_code           | 46032
 begin_date                     | 6/24/2022
 end_date                       | 6/23/2025
 total_worker_positions         | 1
+soc_code                       | 15-1131.00
 h_1b_dependent                 | Yes
 -[ RECORD 154 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24165-106384
@@ -3539,10 +3692,11 @@ employer_postal_code           | 46032
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-2051.00
 h_1b_dependent                 | No
 -[ RECORD 155 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23285-427849
-job_title                      | Peoplesoft Developer 
+job_title                      | Peoplesoft Developer
 employer_name                  | SAHASRA TECHNOLOGIES CORPORATION
 secondary_entity_business_name | State of Indiana (Indiana Office of Technology)
 employer_poc_email             | IMMIGRATION@STLOGICS.COM
@@ -3562,6 +3716,7 @@ employer_postal_code           | 46032
 begin_date                     | 4/1/2024
 end_date                       | 3/31/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 156 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-20260-827124
@@ -3585,6 +3740,7 @@ employer_postal_code           | 60563
 begin_date                     | 10/1/2020
 end_date                       | 9/30/2023
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 157 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22321-593011
@@ -3608,6 +3764,7 @@ employer_postal_code           | 62704
 begin_date                     | 12/5/2022
 end_date                       | 12/4/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 158 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25169-107403
@@ -3631,6 +3788,7 @@ employer_postal_code           | 46204
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051
 h_1b_dependent                 | Yes
 -[ RECORD 159 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25111-885915
@@ -3654,6 +3812,7 @@ employer_postal_code           | 30009
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051.01
 h_1b_dependent                 | No
 -[ RECORD 160 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24011-633106
@@ -3677,31 +3836,9 @@ employer_postal_code           | 30009
 begin_date                     | 1/11/2024
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-2051.01
 h_1b_dependent                 | No
 -[ RECORD 161 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22174-308793
-job_title                      | Applications Systems Analyst/ Programmer/ Specialist
-employer_name                  | PYRAMID TECHNOLOGY SOLUTIONS INC
-secondary_entity_business_name | State of Indiana - Department of Revenue
-employer_poc_email             | HRS@PYRAMIDINC.COM
-employer_poc_phone             | 13172809900
-employer_poc_first_name        | ASHOK
-employer_poc_last_name         | RAMANJANAPPA
-worksite_address1              | 7811 MILLHOUSE ROAD
-worksite_address2              | SUITE W
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 9535 E 59TH STREET
-employer_address2              | SUITE A
-employer_city                  | INDIANAPOLIS
-employer_state                 | IN
-employer_postal_code           | 46216
-begin_date                     | 6/27/2022
-end_date                       | 6/26/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 162 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22164-272166
 job_title                      | Applications Systems Analyst/ Programmer/ Specialist
 employer_name                  | PYRAMID TECHNOLOGY SOLUTIONS INC
@@ -3723,8 +3860,9 @@ employer_postal_code           | 46216
 begin_date                     | 6/20/2022
 end_date                       | 6/19/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 163 ]----------------+--------------------------------------------------------------------
+-[ RECORD 162 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22168-294050
 job_title                      | Applications Systems Analyst/ Programmer/ Specialist
 employer_name                  | PYRAMID TECHNOLOGY SOLUTIONS INC
@@ -3746,8 +3884,9 @@ employer_postal_code           | 46216
 begin_date                     | 6/20/2022
 end_date                       | 6/19/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 164 ]----------------+--------------------------------------------------------------------
+-[ RECORD 163 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22292-539101
 job_title                      | Senior Quality Assurance Analyst
 employer_name                  | PYRAMID TECHNOLOGY SOLUTIONS INC
@@ -3769,6 +3908,31 @@ employer_postal_code           | 46216
 begin_date                     | 3/6/2023
 end_date                       | 3/5/2026
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 164 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-22174-308793
+job_title                      | Applications Systems Analyst/ Programmer/ Specialist
+employer_name                  | PYRAMID TECHNOLOGY SOLUTIONS INC
+secondary_entity_business_name | State of Indiana - Department of Revenue
+employer_poc_email             | HRS@PYRAMIDINC.COM
+employer_poc_phone             | 13172809900
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | RAMANJANAPPA
+worksite_address1              | 7811 MILLHOUSE ROAD
+worksite_address2              | SUITE W
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 9535 E 59TH STREET
+employer_address2              | SUITE A
+employer_city                  | INDIANAPOLIS
+employer_state                 | IN
+employer_postal_code           | 46216
+begin_date                     | 6/27/2022
+end_date                       | 6/26/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 165 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22013-828473
@@ -3792,6 +3956,7 @@ employer_postal_code           | 27615
 begin_date                     | 4/1/2022
 end_date                       | 3/31/2025
 total_worker_positions         | 1
+soc_code                       | 15-1142
 h_1b_dependent                 | Yes
 -[ RECORD 166 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24129-970411
@@ -3815,6 +3980,7 @@ employer_postal_code           | 60564
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 167 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24018-650028
@@ -3838,6 +4004,7 @@ employer_postal_code           | 20147
 begin_date                     | 1/18/2024
 end_date                       | 1/17/2027
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
 -[ RECORD 168 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25107-875050
@@ -3861,6 +4028,7 @@ employer_postal_code           | 08512
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 169 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22082-004626
@@ -3884,6 +4052,7 @@ employer_postal_code           | 75063
 begin_date                     | 3/29/2022
 end_date                       | 3/28/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 170 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22094-033231
@@ -3907,6 +4076,7 @@ employer_postal_code           | 61701
 begin_date                     | 5/18/2022
 end_date                       | 5/17/2025
 total_worker_positions         | 1
+soc_code                       | 15-1142.00
 h_1b_dependent                 | No
 -[ RECORD 171 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23023-719719
@@ -3930,6 +4100,7 @@ employer_postal_code           | 11556
 begin_date                     | 7/23/2023
 end_date                       | 7/22/2026
 total_worker_positions         | 1
+soc_code                       | 15-1299.01
 h_1b_dependent                 | Yes
 -[ RECORD 172 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22188-338521
@@ -3953,6 +4124,7 @@ employer_postal_code           | 46260
 begin_date                     | 1/1/2023
 end_date                       | 12/31/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 173 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22188-338095
@@ -3976,6 +4148,7 @@ employer_postal_code           | 46260
 begin_date                     | 1/1/2023
 end_date                       | 12/31/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 174 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23137-029890
@@ -3999,10 +4172,11 @@ employer_postal_code           | 18104
 begin_date                     | 5/27/2023
 end_date                       | 5/26/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 175 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23058-805726
-job_title                      | Business And Integration Architecture Manager 
+job_title                      | Business And Integration Architecture Manager
 employer_name                  | Accenture LLP
 secondary_entity_business_name | State of Indiana office
 employer_poc_email             | AccentureSiteVisits@accenture.com
@@ -4022,6 +4196,7 @@ employer_postal_code           | 60661
 begin_date                     | 3/8/2023
 end_date                       | 3/7/2026
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 176 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25048-698526
@@ -4045,6 +4220,7 @@ employer_postal_code           | 01608
 begin_date                     | 8/5/2025
 end_date                       | 8/4/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 177 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22126-146546
@@ -4068,6 +4244,7 @@ employer_postal_code           | 08816
 begin_date                     | 5/6/2022
 end_date                       | 5/5/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 178 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24075-804553
@@ -4091,6 +4268,7 @@ employer_postal_code           | 08817
 begin_date                     | 9/12/2024
 end_date                       | 9/11/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 179 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22075-982985
@@ -4114,10 +4292,11 @@ employer_postal_code           | 60601
 begin_date                     | 3/21/2022
 end_date                       | 3/20/2025
 total_worker_positions         | 1
+soc_code                       | 11-3021.00
 h_1b_dependent                 | No
 -[ RECORD 180 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22143-200075
-job_title                      | Senior Full Stack Developer 
+case_number                    | I-200-22143-200033
+job_title                      | Solution Architect
 employer_name                  | Elixir Lab USA Inc
 secondary_entity_business_name | State of Indiana, Department of Child Services (DCS)
 employer_poc_email             | anna.harper@cardinality.ai
@@ -4137,6 +4316,7 @@ employer_postal_code           | 20854
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 181 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22143-199981
@@ -4160,10 +4340,11 @@ employer_postal_code           | 20854
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 182 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22143-200033
-job_title                      | Solution Architect
+case_number                    | I-200-22143-200075
+job_title                      | Senior Full Stack Developer
 employer_name                  | Elixir Lab USA Inc
 secondary_entity_business_name | State of Indiana, Department of Child Services (DCS)
 employer_poc_email             | anna.harper@cardinality.ai
@@ -4183,6 +4364,7 @@ employer_postal_code           | 20854
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 183 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24135-992132
@@ -4206,6 +4388,7 @@ employer_postal_code           | 48083
 begin_date                     | 8/31/2024
 end_date                       | 8/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 184 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24038-699823
@@ -4229,6 +4412,7 @@ employer_postal_code           | 77479
 begin_date                     | 7/8/2024
 end_date                       | 7/7/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 185 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23129-005302
@@ -4252,6 +4436,7 @@ employer_postal_code           | 27560
 begin_date                     | 8/22/2023
 end_date                       | 8/21/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 186 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24149-042924
@@ -4275,9 +4460,10 @@ employer_postal_code           | 07045
 begin_date                     | 9/25/2024
 end_date                       | 9/24/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 187 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-21221-509526
+case_number                    | I-200-21326-718726
 job_title                      | Psychiatrist
 employer_name                  | DEPARTMENT OF VETERANS AFFAIRS
 secondary_entity_business_name | 
@@ -4285,7 +4471,7 @@ employer_poc_email             | JOSEPH.SEROVY@VA.GOV
 employer_poc_phone             | 12604265431
 employer_poc_first_name        | JOSEPH
 employer_poc_last_name         | SEROVY
-worksite_address1              | 1700 East 38th Street
+worksite_address1              | 1700 East 38th St
 worksite_address2              | 
 worksite_city                  | Marion
 worksite_county                | GRANT
@@ -4295,9 +4481,10 @@ employer_address2              |
 employer_city                  | Marion
 employer_state                 | IN
 employer_postal_code           | 46953
-begin_date                     | 1/16/2022
-end_date                       | 1/15/2025
+begin_date                     | 2/13/2022
+end_date                       | 2/12/2025
 total_worker_positions         | 1
+soc_code                       | 29-1066.00
 h_1b_dependent                 | No
 -[ RECORD 188 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-21326-718717
@@ -4321,9 +4508,10 @@ employer_postal_code           | 46953
 begin_date                     | 2/13/2022
 end_date                       | 2/12/2025
 total_worker_positions         | 1
+soc_code                       | 29-1066.00
 h_1b_dependent                 | No
 -[ RECORD 189 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-21326-718726
+case_number                    | I-200-21221-509526
 job_title                      | Psychiatrist
 employer_name                  | DEPARTMENT OF VETERANS AFFAIRS
 secondary_entity_business_name | 
@@ -4331,7 +4519,7 @@ employer_poc_email             | JOSEPH.SEROVY@VA.GOV
 employer_poc_phone             | 12604265431
 employer_poc_first_name        | JOSEPH
 employer_poc_last_name         | SEROVY
-worksite_address1              | 1700 East 38th St
+worksite_address1              | 1700 East 38th Street
 worksite_address2              | 
 worksite_city                  | Marion
 worksite_county                | GRANT
@@ -4341,9 +4529,10 @@ employer_address2              |
 employer_city                  | Marion
 employer_state                 | IN
 employer_postal_code           | 46953
-begin_date                     | 2/13/2022
-end_date                       | 2/12/2025
+begin_date                     | 1/16/2022
+end_date                       | 1/15/2025
 total_worker_positions         | 1
+soc_code                       | 29-1066.00
 h_1b_dependent                 | No
 -[ RECORD 190 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-22159-257687
@@ -4367,6 +4556,7 @@ employer_postal_code           | 46204
 begin_date                     | 9/1/2022
 end_date                       | 8/31/2025
 total_worker_positions         | 1
+soc_code                       | 13-2031.00
 h_1b_dependent                 | No
 -[ RECORD 191 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25163-084076
@@ -4390,31 +4580,9 @@ employer_postal_code           | 46204
 begin_date                     | 9/1/2025
 end_date                       | 8/31/2028
 total_worker_positions         | 1
+soc_code                       | 13-2031
 h_1b_dependent                 | No
 -[ RECORD 192 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22224-413898
-job_title                      | Assistant Professor of Construction Management
-employer_name                  | Indiana State University
-secondary_entity_business_name | 
-employer_poc_email             | Bridget.Butwin@indstate.edu
-employer_poc_phone             | 18122374141
-employer_poc_first_name        | Bridget
-employer_poc_last_name         | Butwin
-worksite_address1              | Indiana State University
-worksite_address2              | 200 North 7th Street
-worksite_city                  | Terre Haute
-worksite_county                | VIGO
-lawfirm_name_business_name     | Lewis Kappes PC
-employer_address1              | 200 North 7th Street
-employer_address2              | 
-employer_city                  | Terre Haute
-employer_state                 | IN
-employer_postal_code           | 47809
-begin_date                     | 1/1/2023
-end_date                       | 12/31/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 193 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24261-343780
 job_title                      | Assistant Professor of Civil Engineering
 employer_name                  | Indiana State University
@@ -4436,10 +4604,11 @@ employer_postal_code           | 47809
 begin_date                     | 1/2/2025
 end_date                       | 1/1/2028
 total_worker_positions         | 1
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 194 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-24200-205094
-job_title                      | Assistant Professor of Safety Management
+-[ RECORD 193 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23083-875718
+job_title                      | Assistant Professor of Computer Science
 employer_name                  | Indiana State University
 secondary_entity_business_name | 
 employer_poc_email             | Susan.Powers@indstate.edu
@@ -4456,13 +4625,62 @@ employer_address2              |
 employer_city                  | Terre Haute
 employer_state                 | IN
 employer_postal_code           | 47809
-begin_date                     | 1/1/2025
-end_date                       | 12/31/2027
+begin_date                     | 6/29/2023
+end_date                       | 6/28/2026
 total_worker_positions         | 1
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 194 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23082-871746
+job_title                      | Assistant Professor of Computer Science
+employer_name                  | Indiana State University
+secondary_entity_business_name | 
+employer_poc_email             | Susan.Powers@indstate.edu
+employer_poc_phone             | 18122378775
+employer_poc_first_name        | Susan
+employer_poc_last_name         | Powers
+worksite_address1              | Indiana State University
+worksite_address2              | 200 North 7th Street
+worksite_city                  | Terre Haute
+worksite_county                | VIGO
+lawfirm_name_business_name     | Lewis Kappes PC
+employer_address1              | 200 North 7th Street
+employer_address2              | 
+employer_city                  | Terre Haute
+employer_state                 | IN
+employer_postal_code           | 47809
+begin_date                     | 8/1/2023
+end_date                       | 7/31/2026
+total_worker_positions         | 1
+soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 -[ RECORD 195 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-24053-737972
-job_title                      | Assistant Professor of Bioinformatics
+case_number                    | I-200-25139-993738
+job_title                      | Assistant Professor of Earth and Environmental Systems
+employer_name                  | Indiana State University
+secondary_entity_business_name | 
+employer_poc_email             | Susan.Powers@indstate.edu
+employer_poc_phone             | 18122378775
+employer_poc_first_name        | Susan
+employer_poc_last_name         | Powers
+worksite_address1              | Indiana State University
+worksite_address2              | 200 North 7th Street
+worksite_city                  | Terre Haute
+worksite_county                | VIGO
+lawfirm_name_business_name     | Lewis Kappes PC
+employer_address1              | 200 North 7th Street
+employer_address2              | 
+employer_city                  | Terre Haute
+employer_state                 | IN
+employer_postal_code           | 47809
+begin_date                     | 5/28/2025
+end_date                       | 5/27/2028
+total_worker_positions         | 1
+soc_code                       | 25-1051
+h_1b_dependent                 | No
+-[ RECORD 196 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-24193-188947
+job_title                      | Assistant Professor of Mechanical Engineering Technology
 employer_name                  | Indiana State University
 secondary_entity_business_name | 
 employer_poc_email             | Susan.Powers@indstate.edu
@@ -4482,29 +4700,7 @@ employer_postal_code           | 47809
 begin_date                     | 8/1/2024
 end_date                       | 7/31/2027
 total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 196 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23305-471285
-job_title                      | Associate Professor of Business Operations Management
-employer_name                  | Indiana State University
-secondary_entity_business_name | 
-employer_poc_email             | Susan.Powers@indstate.edu
-employer_poc_phone             | 18122378775
-employer_poc_first_name        | Susan
-employer_poc_last_name         | Powers
-worksite_address1              | Indiana State University
-worksite_address2              | 200 North 7th Street
-worksite_city                  | Terre Haute
-worksite_county                | VIGO
-lawfirm_name_business_name     | Lewis Kappes PC
-employer_address1              | 200 North 7th Street
-employer_address2              | 
-employer_city                  | Terre Haute
-employer_state                 | IN
-employer_postal_code           | 47809
-begin_date                     | 5/1/2024
-end_date                       | 4/30/2027
-total_worker_positions         | 1
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 197 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25100-851047
@@ -4528,10 +4724,11 @@ employer_postal_code           | 47809
 begin_date                     | 4/28/2025
 end_date                       | 4/27/2028
 total_worker_positions         | 1
+soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 198 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-25174-120324
-job_title                      | Associate Professor of Construction Management
+case_number                    | I-200-24056-746427
+job_title                      | Assistant Professor of Bioinformatics
 employer_name                  | Indiana State University
 secondary_entity_business_name | 
 employer_poc_email             | Susan.Powers@indstate.edu
@@ -4548,13 +4745,14 @@ employer_address2              |
 employer_city                  | Terre Haute
 employer_state                 | IN
 employer_postal_code           | 47809
-begin_date                     | 7/14/2025
-end_date                       | 7/13/2028
+begin_date                     | 6/24/2024
+end_date                       | 6/23/2027
 total_worker_positions         | 1
+soc_code                       | 25-1042.00
 h_1b_dependent                 | No
 -[ RECORD 199 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23082-871746
-job_title                      | Assistant Professor of Computer Science
+case_number                    | I-200-24053-737972
+job_title                      | Assistant Professor of Bioinformatics
 employer_name                  | Indiana State University
 secondary_entity_business_name | 
 employer_poc_email             | Susan.Powers@indstate.edu
@@ -4571,9 +4769,10 @@ employer_address2              |
 employer_city                  | Terre Haute
 employer_state                 | IN
 employer_postal_code           | 47809
-begin_date                     | 8/1/2023
-end_date                       | 7/31/2026
+begin_date                     | 8/1/2024
+end_date                       | 7/31/2027
 total_worker_positions         | 1
+soc_code                       | 25-1022.00
 h_1b_dependent                 | No
 -[ RECORD 200 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-24193-188948
@@ -4597,16 +4796,17 @@ employer_postal_code           | 47809
 begin_date                     | 8/1/2024
 end_date                       | 7/31/2027
 total_worker_positions         | 1
+soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 -[ RECORD 201 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-24193-188947
-job_title                      | Assistant Professor of Mechanical Engineering Technology
+case_number                    | I-200-22224-413898
+job_title                      | Assistant Professor of Construction Management
 employer_name                  | Indiana State University
 secondary_entity_business_name | 
-employer_poc_email             | Susan.Powers@indstate.edu
-employer_poc_phone             | 18122378775
-employer_poc_first_name        | Susan
-employer_poc_last_name         | Powers
+employer_poc_email             | Bridget.Butwin@indstate.edu
+employer_poc_phone             | 18122374141
+employer_poc_first_name        | Bridget
+employer_poc_last_name         | Butwin
 worksite_address1              | Indiana State University
 worksite_address2              | 200 North 7th Street
 worksite_city                  | Terre Haute
@@ -4617,13 +4817,14 @@ employer_address2              |
 employer_city                  | Terre Haute
 employer_state                 | IN
 employer_postal_code           | 47809
-begin_date                     | 8/1/2024
-end_date                       | 7/31/2027
+begin_date                     | 1/1/2023
+end_date                       | 12/31/2025
 total_worker_positions         | 1
+soc_code                       | 25-1031.00
 h_1b_dependent                 | No
 -[ RECORD 202 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-24056-746427
-job_title                      | Assistant Professor of Bioinformatics
+case_number                    | I-200-25174-120324
+job_title                      | Associate Professor of Construction Management
 employer_name                  | Indiana State University
 secondary_entity_business_name | 
 employer_poc_email             | Susan.Powers@indstate.edu
@@ -4640,13 +4841,14 @@ employer_address2              |
 employer_city                  | Terre Haute
 employer_state                 | IN
 employer_postal_code           | 47809
-begin_date                     | 6/24/2024
-end_date                       | 6/23/2027
+begin_date                     | 7/14/2025
+end_date                       | 7/13/2028
 total_worker_positions         | 1
+soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 203 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-25139-993738
-job_title                      | Assistant Professor of Earth and Environmental Systems
+case_number                    | I-200-23305-471285
+job_title                      | Associate Professor of Business Operations Management
 employer_name                  | Indiana State University
 secondary_entity_business_name | 
 employer_poc_email             | Susan.Powers@indstate.edu
@@ -4663,9 +4865,10 @@ employer_address2              |
 employer_city                  | Terre Haute
 employer_state                 | IN
 employer_postal_code           | 47809
-begin_date                     | 5/28/2025
-end_date                       | 5/27/2028
+begin_date                     | 5/1/2024
+end_date                       | 4/30/2027
 total_worker_positions         | 1
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 204 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25139-992966
@@ -4689,10 +4892,11 @@ employer_postal_code           | 47809
 begin_date                     | 5/28/2025
 end_date                       | 5/27/2028
 total_worker_positions         | 1
+soc_code                       | 25-1053
 h_1b_dependent                 | No
 -[ RECORD 205 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23083-875718
-job_title                      | Assistant Professor of Computer Science
+case_number                    | I-200-24200-205094
+job_title                      | Assistant Professor of Safety Management
 employer_name                  | Indiana State University
 secondary_entity_business_name | 
 employer_poc_email             | Susan.Powers@indstate.edu
@@ -4709,9 +4913,10 @@ employer_address2              |
 employer_city                  | Terre Haute
 employer_state                 | IN
 employer_postal_code           | 47809
-begin_date                     | 6/29/2023
-end_date                       | 6/28/2026
+begin_date                     | 1/1/2025
+end_date                       | 12/31/2027
 total_worker_positions         | 1
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 206 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23225-260446
@@ -4735,17 +4940,18 @@ employer_postal_code           | 46204
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 11-3021.00
 h_1b_dependent                 | No
 -[ RECORD 207 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23075-854201
-job_title                      | Data Engineer
+case_number                    | I-200-22221-405998
+job_title                      | Senior Database Administrator
 employer_name                  | State of Indiana-Management Performance Hub
 secondary_entity_business_name | 
-employer_poc_email             | jmartin@mph.IN.gov
-employer_poc_phone             | 13172344418
-employer_poc_first_name        | Joshua
-employer_poc_last_name         | Martin
-worksite_address1              | 100 N. Senate Ave.
+employer_poc_email             | TCotterill@mph.in.gov
+employer_poc_phone             | 13179995671
+employer_poc_first_name        | Ted
+employer_poc_last_name         | Cotterill
+worksite_address1              | 100 N. Senate Ave.,
 worksite_address2              | Ste. N855
 worksite_city                  | Indianapolis
 worksite_county                | MARION
@@ -4755,9 +4961,10 @@ employer_address2              | Suite N855
 employer_city                  | Indianapolis
 employer_state                 | IN
 employer_postal_code           | 46204
-begin_date                     | 8/3/2023
-end_date                       | 8/2/2026
+begin_date                     | 8/22/2022
+end_date                       | 8/21/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 208 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-20262-833971
@@ -4781,17 +4988,18 @@ employer_postal_code           | 46204
 begin_date                     | 10/1/2020
 end_date                       | 9/30/2023
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 209 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22221-405998
-job_title                      | Senior Database Administrator
+case_number                    | I-200-23075-854201
+job_title                      | Data Engineer
 employer_name                  | State of Indiana-Management Performance Hub
 secondary_entity_business_name | 
-employer_poc_email             | TCotterill@mph.in.gov
-employer_poc_phone             | 13179995671
-employer_poc_first_name        | Ted
-employer_poc_last_name         | Cotterill
-worksite_address1              | 100 N. Senate Ave.,
+employer_poc_email             | jmartin@mph.IN.gov
+employer_poc_phone             | 13172344418
+employer_poc_first_name        | Joshua
+employer_poc_last_name         | Martin
+worksite_address1              | 100 N. Senate Ave.
 worksite_address2              | Ste. N855
 worksite_city                  | Indianapolis
 worksite_county                | MARION
@@ -4801,9 +5009,10 @@ employer_address2              | Suite N855
 employer_city                  | Indianapolis
 employer_state                 | IN
 employer_postal_code           | 46204
-begin_date                     | 8/22/2022
-end_date                       | 8/21/2025
+begin_date                     | 8/3/2023
+end_date                       | 8/2/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 210 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25139-991600
@@ -4827,5 +5036,6 @@ employer_postal_code           | 46204
 begin_date                     | 8/22/2025
 end_date                       | 8/21/2028
 total_worker_positions         | 1
+soc_code                       | 15-1211
 h_1b_dependent                 | No
 

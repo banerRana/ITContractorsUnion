@@ -20,6 +20,7 @@ employer_postal_code           | 48335
 begin_date                     | 7/1/2023
 end_date                       | 6/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 2 ]------------------+------------------------------------------------------------------------
 case_number                    | I-200-23287-432159
@@ -43,6 +44,7 @@ employer_postal_code           | 08859
 begin_date                     | 10/14/2023
 end_date                       | 10/13/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+------------------------------------------------------------------------
 case_number                    | I-200-22266-492150
@@ -66,6 +68,7 @@ employer_postal_code           | 20151
 begin_date                     | 9/30/2022
 end_date                       | 9/29/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 4 ]------------------+------------------------------------------------------------------------
 case_number                    | I-200-22076-987686
@@ -89,6 +92,7 @@ employer_postal_code           | 75006
 begin_date                     | 3/24/2022
 end_date                       | 3/23/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+------------------------------------------------------------------------
 case_number                    | I-200-24102-877964
@@ -112,31 +116,9 @@ employer_postal_code           | 08854
 begin_date                     | 6/29/2024
 end_date                       | 6/28/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+------------------------------------------------------------------------
-case_number                    | I-200-24151-051824
-job_title                      | Technical Analyst
-employer_name                  | COOLSOFT LLC
-secondary_entity_business_name | Commonwealth of KY - Department of Medicaid Services
-employer_poc_email             | roger@coolsofttech.com
-employer_poc_phone             | 15023279805
-employer_poc_first_name        | Roger
-employer_poc_last_name         | Natarajan
-worksite_address1              | 275 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | 
-employer_address1              | 3240 OFFICE POINTE PLACE
-employer_address2              | SUITE 200
-employer_city                  | LOUISVILLE
-employer_state                 | KY
-employer_postal_code           | 40220
-begin_date                     | 6/10/2024
-end_date                       | 6/9/2027
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+------------------------------------------------------------------------
 case_number                    | I-200-24324-485358
 job_title                      | IT Project Manager
 employer_name                  | COOLSOFT LLC
@@ -158,31 +140,33 @@ employer_postal_code           | 40220
 begin_date                     | 12/2/2024
 end_date                       | 6/9/2027
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+------------------------------------------------------------------------
-case_number                    | I-200-22258-473926
-job_title                      | Senior .Net Developer
-employer_name                  | Strategic IT Experts Inc
-secondary_entity_business_name | Commonwealth of Kentucky (Department of Revenue)
-employer_poc_email             | swetha@strategicitexperts.com
-employer_poc_phone             | 16367289790
-employer_poc_first_name        | Swetha
-employer_poc_last_name         | Chilumula
-worksite_address1              | 501 High St
+-[ RECORD 7 ]------------------+------------------------------------------------------------------------
+case_number                    | I-200-24151-051824
+job_title                      | Technical Analyst
+employer_name                  | COOLSOFT LLC
+secondary_entity_business_name | Commonwealth of KY - Department of Medicaid Services
+employer_poc_email             | roger@coolsofttech.com
+employer_poc_phone             | 15023279805
+employer_poc_first_name        | Roger
+employer_poc_last_name         | Natarajan
+worksite_address1              | 275 East Main Street
 worksite_address2              | 
 worksite_city                  | Frankfort
 worksite_county                | FRANKLIN
 lawfirm_name_business_name     | 
-employer_address1              | 13975 Manchester Road
-employer_address2              | Suite 20
-employer_city                  | Ballwin
-employer_state                 | MO
-employer_postal_code           | 63011
-begin_date                     | 9/15/2022
-end_date                       | 9/14/2025
+employer_address1              | 3240 OFFICE POINTE PLACE
+employer_address2              | SUITE 200
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40220
+begin_date                     | 6/10/2024
+end_date                       | 6/9/2027
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+------------------------------------------------------------------------
+-[ RECORD 8 ]------------------+------------------------------------------------------------------------
 case_number                    | I-200-24288-404435
 job_title                      | Senior .Net Developer
 employer_name                  | Strategic IT Experts Inc
@@ -204,6 +188,31 @@ employer_postal_code           | 33613
 begin_date                     | 10/22/2024
 end_date                       | 10/21/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 9 ]------------------+------------------------------------------------------------------------
+case_number                    | I-200-22258-473926
+job_title                      | Senior .Net Developer
+employer_name                  | Strategic IT Experts Inc
+secondary_entity_business_name | Commonwealth of Kentucky (Department of Revenue)
+employer_poc_email             | swetha@strategicitexperts.com
+employer_poc_phone             | 16367289790
+employer_poc_first_name        | Swetha
+employer_poc_last_name         | Chilumula
+worksite_address1              | 501 High St
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | 
+employer_address1              | 13975 Manchester Road
+employer_address2              | Suite 20
+employer_city                  | Ballwin
+employer_state                 | MO
+employer_postal_code           | 63011
+begin_date                     | 9/15/2022
+end_date                       | 9/14/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22320-591617
@@ -227,6 +236,7 @@ employer_postal_code           | 05403
 begin_date                     | 12/1/2022
 end_date                       | 6/30/2024
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 11 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-20167-653531
@@ -250,10 +260,11 @@ employer_postal_code           | 40220
 begin_date                     | 10/10/2020
 end_date                       | 10/10/2023
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 12 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-24088-838230
-job_title                      | Programmer/Analyst 
+job_title                      | Programmer/Analyst
 employer_name                  | Marlabs LLC
 secondary_entity_business_name | Department of Mental Health Missouri
 employer_poc_email             | sanjay@marlabs.com
@@ -273,10 +284,11 @@ employer_postal_code           | 08854
 begin_date                     | 8/28/2024
 end_date                       | 8/27/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 13 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22172-300894
-job_title                      | Senior Java Developer 
+job_title                      | Senior Java Developer
 employer_name                  | Vibrant Tech LLC
 secondary_entity_business_name | Department of Revenue
 employer_poc_email             | hr@vibranttechllc.com
@@ -296,6 +308,7 @@ employer_postal_code           | 40601
 begin_date                     | 7/1/2022
 end_date                       | 9/30/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 14 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-24219-247752
@@ -319,6 +332,7 @@ employer_postal_code           | 07311
 begin_date                     | 8/19/2024
 end_date                       | 8/18/2027
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 15 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23152-071100
@@ -342,6 +356,7 @@ employer_postal_code           | 60004
 begin_date                     | 6/12/2023
 end_date                       | 6/11/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 16 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23171-127564
@@ -365,10 +380,11 @@ employer_postal_code           | 48168
 begin_date                     | 7/1/2023
 end_date                       | 6/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 17 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22336-618432
-job_title                      | SR. PROGRAMMER ANALYST 
+job_title                      | SR. PROGRAMMER ANALYST
 employer_name                  | MPOWER LOGIC INC
 secondary_entity_business_name | KENTUCKY DEPARTMENT OF JUVENILE JUSTICE - COMMONWEALTH OF KENTUCKY
 employer_poc_email             | HR@MPOWERLOGIC.COM
@@ -388,6 +404,7 @@ employer_postal_code           | 08854
 begin_date                     | 2/7/2023
 end_date                       | 2/6/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 18 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-24138-010135
@@ -411,6 +428,7 @@ employer_postal_code           | 08902
 begin_date                     | 5/24/2024
 end_date                       | 5/23/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 19 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-24138-010209
@@ -434,6 +452,7 @@ employer_postal_code           | 08902
 begin_date                     | 5/24/2024
 end_date                       | 5/23/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 20 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22061-942378
@@ -457,54 +476,9 @@ employer_postal_code           | 77036
 begin_date                     | 4/22/2022
 end_date                       | 4/21/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 21 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-21351-774456
-job_title                      | SharePoint Developer
-employer_name                  | Aeternus Solutions Inc
-secondary_entity_business_name | Kentucky Department of Education
-employer_poc_email             | hr@aeternussolutions.com
-employer_poc_phone             | 212804545383
-employer_poc_first_name        | SAMUEL
-employer_poc_last_name         | DODDA
-worksite_address1              | 300 Sower Boulevard
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Ishar Law Firm, PC
-employer_address1              | 3 Littleton ROAD
-employer_address2              | Unit 3
-employer_city                  | Westford
-employer_state                 | MA
-employer_postal_code           | 01886
-begin_date                     | 1/27/2022
-end_date                       | 1/26/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-21351-773913
-job_title                      | SharePoint Developer
-employer_name                  | Aeternus Solutions Inc
-secondary_entity_business_name | Kentucky Department of Education
-employer_poc_email             | hr@aeternussolutions.com
-employer_poc_phone             | 212804545383
-employer_poc_first_name        | SAMUEL
-employer_poc_last_name         | DODDA
-worksite_address1              | 300 Sower Boulevard
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Ishar Law Firm, PC
-employer_address1              | 3 Littleton ROAD
-employer_address2              | Unit 3
-employer_city                  | Westford
-employer_state                 | MA
-employer_postal_code           | 01886
-begin_date                     | 1/27/2022
-end_date                       | 1/26/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 23 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-24255-331163
 job_title                      | SharePoint Developer
 employer_name                  | Aeternus Solutions Inc
@@ -526,10 +500,59 @@ employer_postal_code           | 01886
 begin_date                     | 1/27/2025
 end_date                       | 1/26/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 22 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-21351-774456
+job_title                      | SharePoint Developer
+employer_name                  | Aeternus Solutions Inc
+secondary_entity_business_name | Kentucky Department of Education
+employer_poc_email             | hr@aeternussolutions.com
+employer_poc_phone             | 212804545383
+employer_poc_first_name        | SAMUEL
+employer_poc_last_name         | DODDA
+worksite_address1              | 300 Sower Boulevard
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Ishar Law Firm, PC
+employer_address1              | 3 Littleton ROAD
+employer_address2              | Unit 3
+employer_city                  | Westford
+employer_state                 | MA
+employer_postal_code           | 01886
+begin_date                     | 1/27/2022
+end_date                       | 1/26/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | No
+-[ RECORD 23 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-21351-773913
+job_title                      | SharePoint Developer
+employer_name                  | Aeternus Solutions Inc
+secondary_entity_business_name | Kentucky Department of Education
+employer_poc_email             | hr@aeternussolutions.com
+employer_poc_phone             | 212804545383
+employer_poc_first_name        | SAMUEL
+employer_poc_last_name         | DODDA
+worksite_address1              | 300 Sower Boulevard
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Ishar Law Firm, PC
+employer_address1              | 3 Littleton ROAD
+employer_address2              | Unit 3
+employer_city                  | Westford
+employer_state                 | MA
+employer_postal_code           | 01886
+begin_date                     | 1/27/2022
+end_date                       | 1/26/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 24 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23103-931474
-job_title                      | Software Engineer 
+job_title                      | Software Engineer
 employer_name                  | Chelsoft Solutions Co.
 secondary_entity_business_name | Kentucky Department of Revenue
 employer_poc_email             | kiran@chelsoftusa.com
@@ -549,6 +572,7 @@ employer_postal_code           | 66062
 begin_date                     | 4/20/2023
 end_date                       | 4/19/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 25 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22122-126797
@@ -572,6 +596,7 @@ employer_postal_code           | 48393
 begin_date                     | 5/9/2022
 end_date                       | 5/8/2025
 total_worker_positions         | 1
+soc_code                       | 15-2031.00
 h_1b_dependent                 | Yes
 -[ RECORD 26 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-24337-509090
@@ -595,6 +620,7 @@ employer_postal_code           | 48393
 begin_date                     | 12/16/2024
 end_date                       | 12/15/2027
 total_worker_positions         | 1
+soc_code                       | 15-2031
 h_1b_dependent                 | Yes
 -[ RECORD 27 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22154-242911
@@ -618,6 +644,7 @@ employer_postal_code           | 60018
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 28 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23018-709799
@@ -641,6 +668,7 @@ employer_postal_code           | 20147
 begin_date                     | 2/1/2023
 end_date                       | 1/31/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 29 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22126-144803
@@ -664,6 +692,7 @@ employer_postal_code           | 40601
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1121.00
 h_1b_dependent                 | No
 -[ RECORD 30 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-21355-779939
@@ -687,6 +716,7 @@ employer_postal_code           | 38125
 begin_date                     | 1/10/2022
 end_date                       | 1/9/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 31 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-21306-681026
@@ -710,6 +740,7 @@ employer_postal_code           | 08854
 begin_date                     | 11/2/2021
 end_date                       | 11/1/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 32 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-25111-887176
@@ -733,6 +764,7 @@ employer_postal_code           | 40506
 begin_date                     | 9/1/2025
 end_date                       | 8/31/2028
 total_worker_positions         | 1
+soc_code                       | 29-1217
 h_1b_dependent                 | No
 -[ RECORD 33 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22132-167044
@@ -756,31 +788,9 @@ employer_postal_code           | 40601
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 34 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-22222-407091
-job_title                      | Dot Net Developer
-employer_name                  | Avco Consulting Inc
-secondary_entity_business_name | The Commonwealth of Kentucky, Department of Juvenile Justice
-employer_poc_email             | sudhir@avcoconsulting.com
-employer_poc_phone             | 15082924795
-employer_poc_first_name        | Sudhir Reddy
-employer_poc_last_name         | Prodduturi
-worksite_address1              | 1025 Capital Center Dr
-worksite_address2              | 3rd Floor
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | International Legal and Business Services Group LLP
-employer_address1              | 38 Front St
-employer_address2              | Fl 4
-employer_city                  | Worcester
-employer_state                 | MA
-employer_postal_code           | 01608
-begin_date                     | 8/10/2022
-end_date                       | 8/9/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 35 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-25041-678588
 job_title                      | Dot Net Developer
 employer_name                  | Avco Consulting Inc
@@ -802,6 +812,31 @@ employer_postal_code           | 01608
 begin_date                     | 8/10/2025
 end_date                       | 8/9/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 35 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-22222-407091
+job_title                      | Dot Net Developer
+employer_name                  | Avco Consulting Inc
+secondary_entity_business_name | The Commonwealth of Kentucky, Department of Juvenile Justice
+employer_poc_email             | sudhir@avcoconsulting.com
+employer_poc_phone             | 15082924795
+employer_poc_first_name        | Sudhir Reddy
+employer_poc_last_name         | Prodduturi
+worksite_address1              | 1025 Capital Center Dr
+worksite_address2              | 3rd Floor
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | International Legal and Business Services Group LLP
+employer_address1              | 38 Front St
+employer_address2              | Fl 4
+employer_city                  | Worcester
+employer_state                 | MA
+employer_postal_code           | 01608
+begin_date                     | 8/10/2022
+end_date                       | 8/9/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 36 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23144-051348
@@ -825,6 +860,7 @@ employer_postal_code           | 48075
 begin_date                     | 7/1/2023
 end_date                       | 6/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1299.08
 h_1b_dependent                 | No
 -[ RECORD 37 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22130-153649
@@ -848,6 +884,7 @@ employer_postal_code           | 46240
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 19-1041.00
 h_1b_dependent                 | No
 -[ RECORD 38 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23165-109134
@@ -871,16 +908,17 @@ employer_postal_code           | 40206
 begin_date                     | 7/24/2023
 end_date                       | 7/23/2026
 total_worker_positions         | 1
+soc_code                       | 29-1212.00
 h_1b_dependent                 | No
 -[ RECORD 39 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-25062-738347
-job_title                      | Assistant Professor Livestock Nutrition
+case_number                    | I-200-24256-332913
+job_title                      | State Specialist Horticulture and Local Foods
 employer_name                  | Kentucky State University
 secondary_entity_business_name | 
-employer_poc_email             | president@kysu.edu
-employer_poc_phone             | 15025975509
-employer_poc_first_name        | Koffi
-employer_poc_last_name         | Akakpo
+employer_poc_email             | vicki.dunaway@kysu.com
+employer_poc_phone             | 15025977000
+employer_poc_first_name        | Vicki
+employer_poc_last_name         | Dunaway
 worksite_address1              | 400 East Main Street
 worksite_address2              | 
 worksite_city                  | Frankfort
@@ -891,11 +929,36 @@ employer_address2              |
 employer_city                  | Frankfort
 employer_state                 | KY
 employer_postal_code           | 40601
-begin_date                     | 4/7/2025
-end_date                       | 4/6/2028
+begin_date                     | 1/13/2025
+end_date                       | 1/12/2028
 total_worker_positions         | 1
+soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 40 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-24143-026678
+job_title                      | Research and Extension Associate Organic Agriculture
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | vicki.dunaway@kysu.com
+employer_poc_phone             | 15025977000
+employer_poc_first_name        | Vicki
+employer_poc_last_name         | Dunaway
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 8/30/2024
+end_date                       | 8/29/2027
+total_worker_positions         | 1
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 41 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-24275-376925
 job_title                      | Assistant Professor of Physics
 employer_name                  | Kentucky State University
@@ -917,29 +980,7 @@ employer_postal_code           | 40601
 begin_date                     | 12/14/2024
 end_date                       | 12/13/2027
 total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 41 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-25029-649406
-job_title                      | Assistant Professor Livestock Nutrition
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | vicki.dunaway@kysu.com
-employer_poc_phone             | 15025977000
-employer_poc_first_name        | Vicki
-employer_poc_last_name         | Dunaway
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 2/24/2025
-end_date                       | 2/23/2028
-total_worker_positions         | 1
+soc_code                       | 25-1054
 h_1b_dependent                 | No
 -[ RECORD 42 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-25050-705182
@@ -963,6 +1004,7 @@ employer_postal_code           | 40601
 begin_date                     | 3/17/2025
 end_date                       | 3/16/2028
 total_worker_positions         | 1
+soc_code                       | 25-1041
 h_1b_dependent                 | No
 -[ RECORD 43 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-25050-705196
@@ -986,16 +1028,17 @@ employer_postal_code           | 40601
 begin_date                     | 5/5/2025
 end_date                       | 5/4/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051
 h_1b_dependent                 | No
 -[ RECORD 44 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-21333-729722
+case_number                    | I-200-25062-738347
 job_title                      | Assistant Professor Livestock Nutrition
 employer_name                  | Kentucky State University
 secondary_entity_business_name | 
-employer_poc_email             | candace.raglin@kysu.edu
-employer_poc_phone             | 15025976502
-employer_poc_first_name        | Candace
-employer_poc_last_name         | Raglin
+employer_poc_email             | president@kysu.edu
+employer_poc_phone             | 15025975509
+employer_poc_first_name        | Koffi
+employer_poc_last_name         | Akakpo
 worksite_address1              | 400 East Main Street
 worksite_address2              | 
 worksite_city                  | Frankfort
@@ -1006,103 +1049,12 @@ employer_address2              |
 employer_city                  | Frankfort
 employer_state                 | KY
 employer_postal_code           | 40601
-begin_date                     | 5/2/2022
-end_date                       | 5/1/2025
+begin_date                     | 4/7/2025
+end_date                       | 4/6/2028
 total_worker_positions         | 1
+soc_code                       | 25-1041
 h_1b_dependent                 | No
 -[ RECORD 45 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-25173-118598
-job_title                      | Institutional Research Coordinator
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | president@kysu.edu
-employer_poc_phone             | 15025975509
-employer_poc_first_name        | Koffi
-employer_poc_last_name         | Akakpo
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 8/7/2025
-end_date                       | 8/6/2028
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 46 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-24143-026678
-job_title                      | Research and Extension Associate Organic Agriculture
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | vicki.dunaway@kysu.com
-employer_poc_phone             | 15025977000
-employer_poc_first_name        | Vicki
-employer_poc_last_name         | Dunaway
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 8/30/2024
-end_date                       | 8/29/2027
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 47 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-20128-551724
-job_title                      | Research Associate 
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | Douglas.Allen@kysu.edu
-employer_poc_phone             | 15025975075
-employer_poc_first_name        | Douglas
-employer_poc_last_name         | Allen
-worksite_address1              | Aquaculture Multipurpose Bldg
-worksite_address2              | Lab 106 Athletic Drive, Kentucky State University
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 11/1/2020
-end_date                       | 10/31/2023
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 48 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-25141-004267
-job_title                      | Institutional Research Coordinator
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | president@kysu.edu
-employer_poc_phone             | 15025975509
-employer_poc_first_name        | Koffi
-employer_poc_last_name         | Akakpo
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 6/16/2025
-end_date                       | 6/14/2028
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 49 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22181-326786
 job_title                      | Assistant Professor of Agricultural Business & Marketing
 employer_name                  | Kentucky State University
@@ -1124,6 +1076,103 @@ employer_postal_code           | 40601
 begin_date                     | 9/1/2022
 end_date                       | 8/31/2025
 total_worker_positions         | 1
+soc_code                       | 25-1063.00
+h_1b_dependent                 | No
+-[ RECORD 46 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-21333-729722
+job_title                      | Assistant Professor Livestock Nutrition
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | candace.raglin@kysu.edu
+employer_poc_phone             | 15025976502
+employer_poc_first_name        | Candace
+employer_poc_last_name         | Raglin
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 5/2/2022
+end_date                       | 5/1/2025
+total_worker_positions         | 1
+soc_code                       | 19-1011.00
+h_1b_dependent                 | No
+-[ RECORD 47 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-25141-004267
+job_title                      | Institutional Research Coordinator
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | president@kysu.edu
+employer_poc_phone             | 15025975509
+employer_poc_first_name        | Koffi
+employer_poc_last_name         | Akakpo
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 6/16/2025
+end_date                       | 6/14/2028
+total_worker_positions         | 1
+soc_code                       | 15-2051
+h_1b_dependent                 | No
+-[ RECORD 48 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-20128-551724
+job_title                      | Research Associate
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | Douglas.Allen@kysu.edu
+employer_poc_phone             | 15025975075
+employer_poc_first_name        | Douglas
+employer_poc_last_name         | Allen
+worksite_address1              | Aquaculture Multipurpose Bldg
+worksite_address2              | Lab 106 Athletic Drive, Kentucky State University
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 11/1/2020
+end_date                       | 10/31/2023
+total_worker_positions         | 1
+soc_code                       | 19-1012.00
+h_1b_dependent                 | No
+-[ RECORD 49 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-25029-649406
+job_title                      | Assistant Professor Livestock Nutrition
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | vicki.dunaway@kysu.com
+employer_poc_phone             | 15025977000
+employer_poc_first_name        | Vicki
+employer_poc_last_name         | Dunaway
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 2/24/2025
+end_date                       | 2/23/2028
+total_worker_positions         | 1
+soc_code                       | 25-1041
 h_1b_dependent                 | No
 -[ RECORD 50 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-24255-330386
@@ -1147,31 +1196,9 @@ employer_postal_code           | 40601
 begin_date                     | 1/13/2025
 end_date                       | 1/12/2028
 total_worker_positions         | 1
+soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 51 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-24256-332913
-job_title                      | State Specialist Horticulture and Local Foods
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | vicki.dunaway@kysu.com
-employer_poc_phone             | 15025977000
-employer_poc_first_name        | Vicki
-employer_poc_last_name         | Dunaway
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 1/13/2025
-end_date                       | 1/12/2028
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 52 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-21295-662722
 job_title                      | Assistant Professor
 employer_name                  | Kentucky State University
@@ -1193,6 +1220,31 @@ employer_postal_code           | 40601
 begin_date                     | 12/14/2021
 end_date                       | 12/13/2024
 total_worker_positions         | 1
+soc_code                       | 25-1054.00
+h_1b_dependent                 | No
+-[ RECORD 52 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-25173-118598
+job_title                      | Institutional Research Coordinator
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | president@kysu.edu
+employer_poc_phone             | 15025975509
+employer_poc_first_name        | Koffi
+employer_poc_last_name         | Akakpo
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 8/7/2025
+end_date                       | 8/6/2028
+total_worker_positions         | 1
+soc_code                       | 15-2051
 h_1b_dependent                 | No
 -[ RECORD 53 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23095-905981
@@ -1216,5 +1268,6 @@ employer_postal_code           | 40601
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 

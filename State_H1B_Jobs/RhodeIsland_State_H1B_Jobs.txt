@@ -20,6 +20,7 @@ employer_postal_code           | 02324
 begin_date                     | 1/1/2023
 end_date                       | 12/31/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 2 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-22171-297658
@@ -43,31 +44,9 @@ employer_postal_code           | 30024
 begin_date                     | 6/20/2022
 end_date                       | 6/19/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-24047-725259
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | MAHAUGHA LLC
-secondary_entity_business_name | Rhode Island Department of Administration
-employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
-employer_poc_phone             | 16092354355
-employer_poc_first_name        | ARCHANA
-employer_poc_last_name         | CHOPADA
-worksite_address1              | 1 CAPITOL HILL
-worksite_address2              | 
-worksite_city                  | PROVIDENCE
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 2650 ROUTE 130
-employer_address2              | SUITE K
-employer_city                  | CRANBURY
-employer_state                 | NJ
-employer_postal_code           | 08512
-begin_date                     | 2/26/2024
-end_date                       | 2/25/2027
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 4 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-24047-726360
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | MAHAUGHA LLC
@@ -89,6 +68,31 @@ employer_postal_code           | 08512
 begin_date                     | 2/26/2024
 end_date                       | 2/25/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 4 ]------------------+-------------------------------------------------------------
+case_number                    | I-200-24047-725259
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | MAHAUGHA LLC
+secondary_entity_business_name | Rhode Island Department of Administration
+employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
+employer_poc_phone             | 16092354355
+employer_poc_first_name        | ARCHANA
+employer_poc_last_name         | CHOPADA
+worksite_address1              | 1 CAPITOL HILL
+worksite_address2              | 
+worksite_city                  | PROVIDENCE
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2650 ROUTE 130
+employer_address2              | SUITE K
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 2/26/2024
+end_date                       | 2/25/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-22040-890287
@@ -112,6 +116,7 @@ employer_postal_code           | 92618
 begin_date                     | 2/28/2022
 end_date                       | 2/27/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-24340-521896
@@ -135,6 +140,7 @@ employer_postal_code           | 01752
 begin_date                     | 3/1/2025
 end_date                       | 2/28/2028
 total_worker_positions         | 1
+soc_code                       | 15-1253
 h_1b_dependent                 | No
 -[ RECORD 7 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-24153-060066
@@ -158,6 +164,7 @@ employer_postal_code           | 08837
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-22332-607445
@@ -181,6 +188,7 @@ employer_postal_code           | 78730-1165
 begin_date                     | 11/28/2022
 end_date                       | 11/27/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-24100-869276
@@ -204,6 +212,7 @@ employer_postal_code           | 78730-1165
 begin_date                     | 9/2/2024
 end_date                       | 9/1/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-21285-640563
@@ -227,6 +236,7 @@ employer_postal_code           | 08810
 begin_date                     | 10/25/2021
 end_date                       | 10/24/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 11 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24052-735581
@@ -250,6 +260,7 @@ employer_postal_code           | 65109
 begin_date                     | 4/4/2024
 end_date                       | 4/3/2027
 total_worker_positions         | 1
+soc_code                       | 11-3021.00
 h_1b_dependent                 | Yes
 -[ RECORD 12 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-22040-889814
@@ -273,6 +284,7 @@ employer_postal_code           | 65109
 begin_date                     | 2/9/2022
 end_date                       | 2/8/2025
 total_worker_positions         | 1
+soc_code                       | 11-3021.00
 h_1b_dependent                 | Yes
 -[ RECORD 13 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23153-075137
@@ -296,31 +308,9 @@ employer_postal_code           | 40222
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
 -[ RECORD 14 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25115-903958
-job_title                      | Packaged App Development Manager
-employer_name                  | Accenture LLP
-secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
-employer_poc_phone             | 13104265295
-employer_poc_first_name        | LEONARD
-employer_poc_last_name         | OXFORD
-worksite_address1              | 1 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 500 West Madison Street
-employer_address2              | 
-employer_city                  | Chicago
-employer_state                 | IL
-employer_postal_code           | 60661
-begin_date                     | 5/1/2025
-end_date                       | 4/30/2028
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 15 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24267-355774
 job_title                      | Packaged App Development Manager
 employer_name                  | Accenture LLP
@@ -342,6 +332,31 @@ employer_postal_code           | 60661
 begin_date                     | 9/29/2024
 end_date                       | 9/28/2027
 total_worker_positions         | 1
+soc_code                       | 15-1211
+h_1b_dependent                 | No
+-[ RECORD 15 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-25115-903958
+job_title                      | Packaged App Development Manager
+employer_name                  | Accenture LLP
+secondary_entity_business_name | State of Rhode Island
+employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
+employer_poc_phone             | 13104265295
+employer_poc_first_name        | LEONARD
+employer_poc_last_name         | OXFORD
+worksite_address1              | 1 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 500 West Madison Street
+employer_address2              | 
+employer_city                  | Chicago
+employer_state                 | IL
+employer_postal_code           | 60661
+begin_date                     | 5/1/2025
+end_date                       | 4/30/2028
+total_worker_positions         | 1
+soc_code                       | 15-1211
 h_1b_dependent                 | No
 -[ RECORD 16 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-25100-853368
@@ -365,6 +380,7 @@ employer_postal_code           | 01752
 begin_date                     | 4/21/2025
 end_date                       | 4/20/2028
 total_worker_positions         | 1
+soc_code                       | 15-1212
 h_1b_dependent                 | Yes
 -[ RECORD 17 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24015-640556
@@ -388,6 +404,7 @@ employer_postal_code           | 28262
 begin_date                     | 1/15/2024
 end_date                       | 1/14/2027
 total_worker_positions         | 1
+soc_code                       | 13-1111.00
 h_1b_dependent                 | No
 -[ RECORD 18 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-22094-034719
@@ -411,6 +428,7 @@ employer_postal_code           | 02886
 begin_date                     | 4/4/2022
 end_date                       | 4/3/2025
 total_worker_positions         | 1
+soc_code                       | 15-1133.00
 h_1b_dependent                 | No
 -[ RECORD 19 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23069-839381
@@ -434,6 +452,7 @@ employer_postal_code           | 12065
 begin_date                     | 3/20/2023
 end_date                       | 3/19/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 20 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-25108-878832
@@ -457,6 +476,7 @@ employer_postal_code           | 27502
 begin_date                     | 4/21/2025
 end_date                       | 4/20/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 21 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24131-980723
@@ -480,6 +500,7 @@ employer_postal_code           | 02904
 begin_date                     | 7/1/2024
 end_date                       | 6/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 22 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-22111-094171
@@ -503,6 +524,7 @@ employer_postal_code           | 06074
 begin_date                     | 7/30/2022
 end_date                       | 3/20/2023
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 23 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24129-971204
@@ -526,6 +548,7 @@ employer_postal_code           | 48864
 begin_date                     | 5/23/2024
 end_date                       | 5/22/2027
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 24 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23340-547793
@@ -549,6 +572,7 @@ employer_postal_code           | 40220
 begin_date                     | 12/18/2023
 end_date                       | 12/17/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 25 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24092-845372
@@ -572,6 +596,7 @@ employer_postal_code           | 20147
 begin_date                     | 9/2/2024
 end_date                       | 9/1/2027
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 26 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23109-948002
@@ -595,6 +620,7 @@ employer_postal_code           | 08854
 begin_date                     | 5/1/2023
 end_date                       | 4/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 27 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23107-939579
@@ -618,54 +644,9 @@ employer_postal_code           | 08854
 begin_date                     | 5/1/2023
 end_date                       | 4/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 28 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-22355-653217
-job_title                      | Front End Developer
-employer_name                  | SolutionSoft Inc
-secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
-employer_poc_email             | samatha.s@solutionsoftinc.com
-employer_poc_phone             | 15187220001
-employer_poc_first_name        | Samatheshini
-employer_poc_last_name         | Pendyala
-worksite_address1              | 600 New London Ave
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 120 W Golf Road
-employer_address2              | Suite 100 B
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60195
-begin_date                     | 1/9/2023
-end_date                       | 1/8/2026
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 29 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23327-521664
-job_title                      | Front End Developer
-employer_name                  | SolutionSoft Inc
-secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
-employer_poc_email             | samatha.s@solutionsoftinc.com
-employer_poc_phone             | 15187220001
-employer_poc_first_name        | Samatheshini
-employer_poc_last_name         | Pendyala
-worksite_address1              | 600 New London Ave
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 120 W Golf Road
-employer_address2              | Suite 100 B
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60195
-begin_date                     | 12/1/2023
-end_date                       | 11/30/2026
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 30 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24143-027502
 job_title                      | Front End Developer
 employer_name                  | SolutionSoft Inc
@@ -687,6 +668,55 @@ employer_postal_code           | 60195
 begin_date                     | 6/3/2024
 end_date                       | 6/2/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 29 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-22355-653217
+job_title                      | Front End Developer
+employer_name                  | SolutionSoft Inc
+secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
+employer_poc_email             | samatha.s@solutionsoftinc.com
+employer_poc_phone             | 15187220001
+employer_poc_first_name        | Samatheshini
+employer_poc_last_name         | Pendyala
+worksite_address1              | 600 New London Ave
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | CRANSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 120 W Golf Road
+employer_address2              | Suite 100 B
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60195
+begin_date                     | 1/9/2023
+end_date                       | 1/8/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 30 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23327-521664
+job_title                      | Front End Developer
+employer_name                  | SolutionSoft Inc
+secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
+employer_poc_email             | samatha.s@solutionsoftinc.com
+employer_poc_phone             | 15187220001
+employer_poc_first_name        | Samatheshini
+employer_poc_last_name         | Pendyala
+worksite_address1              | 600 New London Ave
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | CRANSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 120 W Golf Road
+employer_address2              | Suite 100 B
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60195
+begin_date                     | 12/1/2023
+end_date                       | 11/30/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 31 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23272-400497
@@ -710,6 +740,7 @@ employer_postal_code           | 72201
 begin_date                     | 10/2/2023
 end_date                       | 10/1/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 32 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24255-331716
@@ -733,6 +764,7 @@ employer_postal_code           | 19047
 begin_date                     | 9/18/2024
 end_date                       | 9/17/2027
 total_worker_positions         | 1
+soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 33 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23010-691021
@@ -756,6 +788,7 @@ employer_postal_code           | 78613
 begin_date                     | 1/18/2023
 end_date                       | 1/17/2026
 total_worker_positions         | 1
+soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 34 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23097-915392
@@ -779,6 +812,7 @@ employer_postal_code           | 02324
 begin_date                     | 7/1/2023
 end_date                       | 6/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 35 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23163-102105
@@ -802,6 +836,7 @@ employer_postal_code           | 28262-1336
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | No
 -[ RECORD 36 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-21312-692325
@@ -825,6 +860,7 @@ employer_postal_code           | 02920
 begin_date                     | 11/19/2021
 end_date                       | 11/18/2024
 total_worker_positions         | 2
+soc_code                       | 29-1066.00
 h_1b_dependent                 | No
 -[ RECORD 37 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24310-454425
@@ -848,31 +884,9 @@ employer_postal_code           | 02908
 begin_date                     | 1/1/2025
 end_date                       | 12/31/2027
 total_worker_positions         | 1
+soc_code                       | 19-1041
 h_1b_dependent                 | No
 -[ RECORD 38 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25105-867606
-job_title                      | Health Economics Specialist
-employer_name                  | State of Rhode Island
-secondary_entity_business_name | 
-employer_poc_email             | Neil.Hytinen@health.ri.gov
-employer_poc_phone             | 14012221625
-employer_poc_first_name        | Neil
-employer_poc_last_name         | Hytinen
-worksite_address1              | 3 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | Coogan Smith, LLP
-employer_address1              | 3 Capitol Hill
-employer_address2              | 
-employer_city                  | Providence
-employer_state                 | RI
-employer_postal_code           | 02908
-begin_date                     | 6/1/2025
-end_date                       | 5/31/2028
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24361-571552
 job_title                      | Senior Public Health Epidemiologist
 employer_name                  | State of Rhode Island
@@ -894,5 +908,30 @@ employer_postal_code           | 02908
 begin_date                     | 1/18/2025
 end_date                       | 1/17/2028
 total_worker_positions         | 1
+soc_code                       | 19-1041
+h_1b_dependent                 | No
+-[ RECORD 39 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-25105-867606
+job_title                      | Health Economics Specialist
+employer_name                  | State of Rhode Island
+secondary_entity_business_name | 
+employer_poc_email             | Neil.Hytinen@health.ri.gov
+employer_poc_phone             | 14012221625
+employer_poc_first_name        | Neil
+employer_poc_last_name         | Hytinen
+worksite_address1              | 3 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | Coogan Smith, LLP
+employer_address1              | 3 Capitol Hill
+employer_address2              | 
+employer_city                  | Providence
+employer_state                 | RI
+employer_postal_code           | 02908
+begin_date                     | 6/1/2025
+end_date                       | 5/31/2028
+total_worker_positions         | 1
+soc_code                       | 19-3011
 h_1b_dependent                 | No
 

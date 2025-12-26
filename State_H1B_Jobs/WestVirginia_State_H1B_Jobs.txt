@@ -20,31 +20,9 @@ employer_postal_code           | 85297
 begin_date                     | 3/18/2022
 end_date                       | 3/17/2025
 total_worker_positions         | 1
+soc_code                       | 15-1142.00
 h_1b_dependent                 | No
 -[ RECORD 2 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23128-003081
-job_title                      | Systems Engineer Senior
-employer_name                  | Spartan Solutions Inc
-secondary_entity_business_name | Department of Veteran Affairs
-employer_poc_email             | tracypeters@spartansolutions.net
-employer_poc_phone             | 19012135255
-employer_poc_first_name        | Tracy
-employer_poc_last_name         | Thompson
-worksite_address1              | 221 Butler Avenue, Building 511
-worksite_address2              | 
-worksite_city                  | Martinsburg
-worksite_county                | BERKELEY
-lawfirm_name_business_name     | The Law Office of Luke Bowman
-employer_address1              | 338 New Byhalia Road, Suite 1
-employer_address2              | 
-employer_city                  | Collierville
-employer_state                 | TN
-employer_postal_code           | 38017
-begin_date                     | 5/18/2023
-end_date                       | 5/17/2026
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 3 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23136-026840
 job_title                      | Systems Engineer Senior
 employer_name                  | Spartan Solutions Inc
@@ -66,6 +44,31 @@ employer_postal_code           | 38017
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 3 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-23128-003081
+job_title                      | Systems Engineer Senior
+employer_name                  | Spartan Solutions Inc
+secondary_entity_business_name | Department of Veteran Affairs
+employer_poc_email             | tracypeters@spartansolutions.net
+employer_poc_phone             | 19012135255
+employer_poc_first_name        | Tracy
+employer_poc_last_name         | Thompson
+worksite_address1              | 221 Butler Avenue, Building 511
+worksite_address2              | 
+worksite_city                  | Martinsburg
+worksite_county                | BERKELEY
+lawfirm_name_business_name     | The Law Office of Luke Bowman
+employer_address1              | 338 New Byhalia Road, Suite 1
+employer_address2              | 
+employer_city                  | Collierville
+employer_state                 | TN
+employer_postal_code           | 38017
+begin_date                     | 5/18/2023
+end_date                       | 5/17/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 4 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25154-047436
@@ -89,6 +92,7 @@ employer_postal_code           | 75234
 begin_date                     | 7/17/2025
 end_date                       | 7/16/2028
 total_worker_positions         | 1
+soc_code                       | 15-1244
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24144-031989
@@ -112,6 +116,7 @@ employer_postal_code           | 38017
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24115-922684
@@ -135,6 +140,7 @@ employer_postal_code           | 20165
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 7 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23157-082631
@@ -158,6 +164,7 @@ employer_postal_code           | 06880
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 8 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24358-566669
@@ -181,6 +188,7 @@ employer_postal_code           | 20165
 begin_date                     | 5/24/2025
 end_date                       | 5/23/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23192-179115
@@ -204,54 +212,9 @@ employer_postal_code           | 08830
 begin_date                     | 1/1/2024
 end_date                       | 12/31/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23086-880234
-job_title                      | Polymer/Organic Chemist
-employer_name                  | Leidos Inc
-secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
-employer_poc_email             | Jodi.L.Wright@leidos.com
-employer_poc_phone             | 13106259863
-employer_poc_first_name        | Jodi
-employer_poc_last_name         | Wright
-worksite_address1              | 3610 Collins Ferry Rd.
-worksite_address2              | 
-worksite_city                  | Morgantown
-worksite_county                | MONONGALIA
-lawfirm_name_business_name     | Morgan, Lewis & Bockius LLP
-employer_address1              | 1750 Presidents Street
-employer_address2              | 
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 5/1/2023
-end_date                       | 4/30/2026
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23192-181575
-job_title                      | Catalyst Synthesis Research Scientist
-employer_name                  | Leidos Inc
-secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
-employer_poc_email             | cameron.t.villa@leidos.com
-employer_poc_phone             | 17036644811
-employer_poc_first_name        | Cameron
-employer_poc_last_name         | Villa
-worksite_address1              | 3610 Collins Ferry Rd.
-worksite_address2              | 
-worksite_city                  | Morgantown
-worksite_county                | MONONGALIA
-lawfirm_name_business_name     | Morgan, Lewis & Bockius LLP
-employer_address1              | 1750 Presidents Street
-employer_address2              | 
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 8/28/2023
-end_date                       | 8/27/2026
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24173-137821
 job_title                      | Computational Development and Applications Engineer
 employer_name                  | Leidos Inc
@@ -273,6 +236,55 @@ employer_postal_code           | 20190
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 17-2141.00
+h_1b_dependent                 | No
+-[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-23086-880234
+job_title                      | Polymer/Organic Chemist
+employer_name                  | Leidos Inc
+secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
+employer_poc_email             | Jodi.L.Wright@leidos.com
+employer_poc_phone             | 13106259863
+employer_poc_first_name        | Jodi
+employer_poc_last_name         | Wright
+worksite_address1              | 3610 Collins Ferry Rd.
+worksite_address2              | 
+worksite_city                  | Morgantown
+worksite_county                | MONONGALIA
+lawfirm_name_business_name     | Morgan, Lewis & Bockius LLP
+employer_address1              | 1750 Presidents Street
+employer_address2              | 
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20190
+begin_date                     | 5/1/2023
+end_date                       | 4/30/2026
+total_worker_positions         | 1
+soc_code                       | 19-2031.00
+h_1b_dependent                 | No
+-[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-23192-181575
+job_title                      | Catalyst Synthesis Research Scientist
+employer_name                  | Leidos Inc
+secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
+employer_poc_email             | cameron.t.villa@leidos.com
+employer_poc_phone             | 17036644811
+employer_poc_first_name        | Cameron
+employer_poc_last_name         | Villa
+worksite_address1              | 3610 Collins Ferry Rd.
+worksite_address2              | 
+worksite_city                  | Morgantown
+worksite_county                | MONONGALIA
+lawfirm_name_business_name     | Morgan, Lewis & Bockius LLP
+employer_address1              | 1750 Presidents Street
+employer_address2              | 
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20190
+begin_date                     | 8/28/2023
+end_date                       | 8/27/2026
+total_worker_positions         | 1
+soc_code                       | 19-2032.00
 h_1b_dependent                 | No
 -[ RECORD 13 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25157-063601
@@ -296,6 +308,7 @@ employer_postal_code           | 25112
 begin_date                     | 7/1/2025
 end_date                       | 6/30/2028
 total_worker_positions         | 1
+soc_code                       | 19-4021
 h_1b_dependent                 | No
 -[ RECORD 14 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-22143-200996
@@ -319,6 +332,7 @@ employer_postal_code           | 20165
 begin_date                     | 5/24/2022
 end_date                       | 5/23/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 15 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-22116-105908
@@ -342,54 +356,9 @@ employer_postal_code           | 60173
 begin_date                     | 6/12/2022
 end_date                       | 6/11/2025
 total_worker_positions         | 1
+soc_code                       | 15-1133.00
 h_1b_dependent                 | Yes
 -[ RECORD 16 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21351-773589
-job_title                      | COMPUTER SYSTEMS ENGINEER
-employer_name                  | COMPUNNEL SOFTWARE GROUP INC
-secondary_entity_business_name | West Virginia Department of Health and Humas Resources
-employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
-employer_poc_phone             | 16096069010
-employer_poc_first_name        | RAKESH
-employer_poc_last_name         | SHAH
-worksite_address1              | One Davis Square Charleston
-worksite_address2              | 
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | 
-employer_address1              | 103 MORGAN LANE
-employer_address2              | SUITE 102
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 12/22/2021
-end_date                       | 12/21/2024
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21347-761831
-job_title                      | DATA ENGINEER/SYSTEMS ENGINEER
-employer_name                  | COMPUNNEL SOFTWARE GROUP INC
-secondary_entity_business_name | West Virginia Department of Health and Humas Resources
-employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
-employer_poc_phone             | 16096069010
-employer_poc_first_name        | RAKESH
-employer_poc_last_name         | SHAH
-worksite_address1              | One Davis Square Charleston
-worksite_address2              | 
-worksite_city                  | West Virginia
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | 
-employer_address1              | 103 MORGAN LANE
-employer_address2              | SUITE 102
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 12/22/2021
-end_date                       | 9/1/2022
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 18 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-21348-762922
 job_title                      | DATA ENGINEER/SYSTEMS ENGINEER
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -411,6 +380,55 @@ employer_postal_code           | 08536
 begin_date                     | 12/22/2021
 end_date                       | 9/1/2022
 total_worker_positions         | 1
+soc_code                       | 15-1199.02
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-21351-773589
+job_title                      | COMPUTER SYSTEMS ENGINEER
+employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+secondary_entity_business_name | West Virginia Department of Health and Humas Resources
+employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
+employer_poc_phone             | 16096069010
+employer_poc_first_name        | RAKESH
+employer_poc_last_name         | SHAH
+worksite_address1              | One Davis Square Charleston
+worksite_address2              | 
+worksite_city                  | Charleston
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | 
+employer_address1              | 103 MORGAN LANE
+employer_address2              | SUITE 102
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 12/22/2021
+end_date                       | 12/21/2024
+total_worker_positions         | 1
+soc_code                       | 15-1199.02
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-21347-761831
+job_title                      | DATA ENGINEER/SYSTEMS ENGINEER
+employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+secondary_entity_business_name | West Virginia Department of Health and Humas Resources
+employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
+employer_poc_phone             | 16096069010
+employer_poc_first_name        | RAKESH
+employer_poc_last_name         | SHAH
+worksite_address1              | One Davis Square Charleston
+worksite_address2              | 
+worksite_city                  | West Virginia
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | 
+employer_address1              | 103 MORGAN LANE
+employer_address2              | SUITE 102
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 12/22/2021
+end_date                       | 9/1/2022
+total_worker_positions         | 1
+soc_code                       | 15-1199.02
 h_1b_dependent                 | Yes
 -[ RECORD 19 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24023-659493
@@ -434,6 +452,7 @@ employer_postal_code           | 60173
 begin_date                     | 5/9/2024
 end_date                       | 5/8/2027
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 20 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24054-742181
@@ -457,6 +476,7 @@ employer_postal_code           | 60173
 begin_date                     | 5/9/2024
 end_date                       | 5/8/2027
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 21 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25149-032431
@@ -480,6 +500,7 @@ employer_postal_code           | 84057
 begin_date                     | 6/2/2025
 end_date                       | 6/1/2028
 total_worker_positions         | 1
+soc_code                       | 15-1242
 h_1b_dependent                 | Yes
 -[ RECORD 22 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-21326-719533
@@ -503,6 +524,7 @@ employer_postal_code           | 20165
 begin_date                     | 11/23/2021
 end_date                       | 11/22/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 23 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-21327-721891
@@ -526,6 +548,7 @@ employer_postal_code           | 20165
 begin_date                     | 11/23/2021
 end_date                       | 11/22/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 24 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-21323-717252
@@ -549,6 +572,7 @@ employer_postal_code           | 20165
 begin_date                     | 11/22/2021
 end_date                       | 11/21/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 25 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-22055-928454
@@ -572,10 +596,11 @@ employer_postal_code           | 25701
 begin_date                     | 8/2/2022
 end_date                       | 8/1/2025
 total_worker_positions         | 1
+soc_code                       | 19-1041.00
 h_1b_dependent                 | No
 -[ RECORD 26 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23011-695160
-job_title                      | Intensivist  
+job_title                      | Intensivist
 employer_name                  | Louis A. Johnson VAMC, Department of Veterans Affairs
 secondary_entity_business_name | 
 employer_poc_email             | lucas.bittenbender@va.gov
@@ -595,6 +620,7 @@ employer_postal_code           | 26301
 begin_date                     | 2/1/2023
 end_date                       | 1/31/2026
 total_worker_positions         | 1
+soc_code                       | 29-1216.00
 h_1b_dependent                 | No
 -[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25143-012140
@@ -618,6 +644,7 @@ employer_postal_code           | 25305
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2041
 h_1b_dependent                 | No
 -[ RECORD 28 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25076-780438
@@ -641,6 +668,7 @@ employer_postal_code           | 25302
 begin_date                     | 9/5/2025
 end_date                       | 9/4/2028
 total_worker_positions         | 1
+soc_code                       | 29-1229
 h_1b_dependent                 | No
 -[ RECORD 29 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-22076-986492
@@ -664,29 +692,31 @@ employer_postal_code           | 25112
 begin_date                     | 4/25/2022
 end_date                       | 4/24/2025
 total_worker_positions         | 1
+soc_code                       | 13-2011.01
 h_1b_dependent                 | No
 -[ RECORD 30 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24072-791021
-job_title                      | ACCOUNTANT
+case_number                    | I-200-22063-951813
+job_title                      | PROFESSOR OF SOCIOLOGY
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 secondary_entity_business_name | 
-employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
-employer_poc_phone             | 13047665224
-employer_poc_first_name        | KRYSTAL
-employer_poc_last_name         | SMITH
-worksite_address1              | 5000 FAIRLAWN AVENUE
-worksite_address2              | 
+employer_poc_email             | NECOLE.WASHINGTON@WVSTATEU.EDU
+employer_poc_phone             | 13047663152
+employer_poc_first_name        | NECOLE
+employer_poc_last_name         | WASHINGTON
+worksite_address1              | 5000 FAIRLAWN AVE
+worksite_address2              | 124 HILL HALL
 worksite_city                  | INSTITUTE
 worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN PC
-employer_address1              | 5000 FAIRLAWN AVE
+lawfirm_name_business_name     | BRAVLIN P.C.
+employer_address1              | 5000 FAIRLAWN AVENUE
 employer_address2              | 
 employer_city                  | INSTITUTE
 employer_state                 | WV
 employer_postal_code           | 25112
-begin_date                     | 5/21/2024
-end_date                       | 5/20/2027
+begin_date                     | 5/13/2022
+end_date                       | 5/12/2025
 total_worker_positions         | 1
+soc_code                       | 25-1067.00
 h_1b_dependent                 | No
 -[ RECORD 31 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-22160-263829
@@ -710,10 +740,11 @@ employer_postal_code           | 25112
 begin_date                     | 8/1/2022
 end_date                       | 7/31/2025
 total_worker_positions         | 1
+soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 -[ RECORD 32 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24205-215340
-job_title                      | ASSISTANT PROFESSOR OF COMPUTER SCIENCE
+case_number                    | I-200-24285-402415
+job_title                      | ASSISTANT PROFESSOR OF BIOLOGY
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
@@ -730,19 +761,20 @@ employer_address2              |
 employer_city                  | INSTITUTE
 employer_state                 | WV
 employer_postal_code           | 25112
-begin_date                     | 8/13/2024
-end_date                       | 8/12/2027
+begin_date                     | 1/13/2025
+end_date                       | 1/12/2028
 total_worker_positions         | 1
+soc_code                       | 25-1042
 h_1b_dependent                 | No
 -[ RECORD 33 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22063-951813
+case_number                    | I-200-22074-978930
 job_title                      | PROFESSOR OF SOCIOLOGY
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 secondary_entity_business_name | 
-employer_poc_email             | NECOLE.WASHINGTON@WVSTATEU.EDU
-employer_poc_phone             | 13047663152
-employer_poc_first_name        | NECOLE
-employer_poc_last_name         | WASHINGTON
+employer_poc_email             | CHRISTINA.DALTON@WVSTATEU.EDU
+employer_poc_phone             | 13047663061
+employer_poc_first_name        | CHRISTINA
+employer_poc_last_name         | DALTON
 worksite_address1              | 5000 FAIRLAWN AVE
 worksite_address2              | 124 HILL HALL
 worksite_city                  | INSTITUTE
@@ -756,6 +788,7 @@ employer_postal_code           | 25112
 begin_date                     | 5/13/2022
 end_date                       | 5/12/2025
 total_worker_positions         | 1
+soc_code                       | 25-1067.00
 h_1b_dependent                 | No
 -[ RECORD 34 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23261-355813
@@ -779,10 +812,11 @@ employer_postal_code           | 25112
 begin_date                     | 9/26/2023
 end_date                       | 9/25/2026
 total_worker_positions         | 1
+soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 -[ RECORD 35 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24285-402415
-job_title                      | ASSISTANT PROFESSOR OF BIOLOGY
+case_number                    | I-200-24205-215340
+job_title                      | ASSISTANT PROFESSOR OF COMPUTER SCIENCE
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
@@ -799,103 +833,36 @@ employer_address2              |
 employer_city                  | INSTITUTE
 employer_state                 | WV
 employer_postal_code           | 25112
-begin_date                     | 1/13/2025
-end_date                       | 1/12/2028
+begin_date                     | 8/13/2024
+end_date                       | 8/12/2027
 total_worker_positions         | 1
+soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 -[ RECORD 36 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22074-978930
-job_title                      | PROFESSOR OF SOCIOLOGY
+case_number                    | I-200-24072-791021
+job_title                      | ACCOUNTANT
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 secondary_entity_business_name | 
-employer_poc_email             | CHRISTINA.DALTON@WVSTATEU.EDU
-employer_poc_phone             | 13047663061
-employer_poc_first_name        | CHRISTINA
-employer_poc_last_name         | DALTON
-worksite_address1              | 5000 FAIRLAWN AVE
-worksite_address2              | 124 HILL HALL
+employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
+employer_poc_phone             | 13047665224
+employer_poc_first_name        | KRYSTAL
+employer_poc_last_name         | SMITH
+worksite_address1              | 5000 FAIRLAWN AVENUE
+worksite_address2              | 
 worksite_city                  | INSTITUTE
 worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 5000 FAIRLAWN AVENUE
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 5000 FAIRLAWN AVE
 employer_address2              | 
 employer_city                  | INSTITUTE
 employer_state                 | WV
 employer_postal_code           | 25112
-begin_date                     | 5/13/2022
-end_date                       | 5/12/2025
+begin_date                     | 5/21/2024
+end_date                       | 5/20/2027
 total_worker_positions         | 1
+soc_code                       | 13-2011.00
 h_1b_dependent                 | No
 -[ RECORD 37 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22235-433340
-job_title                      | EXECUTIVE DIRECTOR OF INSTITUTIONAL RESEARCH
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | 
-employer_poc_email             | SSEITZ@WVSTATEU.EDU
-employer_poc_phone             | 13042044323
-employer_poc_first_name        | STEPHEN
-employer_poc_last_name         | SEITZ
-worksite_address1              | ROUTE 25 AND BARRON DR
-worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 4015 FAIRLAWN AVENUE
-employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 9/1/2022
-end_date                       | 8/31/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22025-852409
-job_title                      | RESEARCH ASSISTANT
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | 
-employer_poc_email             | SSEITZ@WVSTATEU.EDU
-employer_poc_phone             | 13042044323
-employer_poc_first_name        | STEPHEN
-employer_poc_last_name         | SEITZ
-worksite_address1              | 4015 FAIRLAWN AVE
-worksite_address2              | 129 HAMBLIN HALL
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 4015 FAIRLAWN AVENUE
-employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 6/30/2022
-end_date                       | 6/29/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22235-433425
-job_title                      | EXECUTIVE DIRECTOR OF INSTITUTIONAL RESEARCH
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | 
-employer_poc_email             | SSEITZ@WVSTATEU.EDU
-employer_poc_phone             | 13042044323
-employer_poc_first_name        | STEPHEN
-employer_poc_last_name         | SEITZ
-worksite_address1              | ROUTE 25 AND BARRON DR
-worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 4015 FAIRLAWN AVENUE
-employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 9/1/2022
-end_date                       | 8/31/2025
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 40 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23226-261878
 job_title                      | EXTENSION SPECIALIST & ASSISTANT RESEARCH PROFESSOR
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
@@ -917,8 +884,9 @@ employer_postal_code           | 25112
 begin_date                     | 9/1/2023
 end_date                       | 8/31/2026
 total_worker_positions         | 1
+soc_code                       | 11-9033.00
 h_1b_dependent                 | No
--[ RECORD 41 ]-----------------+----------------------------------------------------------------------------------
+-[ RECORD 38 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-21340-744865
 job_title                      | ASSISTANT RESEARCH PROFESSOR
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
@@ -940,8 +908,9 @@ employer_postal_code           | 25112
 begin_date                     | 3/14/2022
 end_date                       | 3/13/2025
 total_worker_positions         | 1
+soc_code                       | 17-2081.00
 h_1b_dependent                 | No
--[ RECORD 42 ]-----------------+----------------------------------------------------------------------------------
+-[ RECORD 39 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-21271-610382
 job_title                      | EXTENSION SPEC. & ASST. RESEARCH PROF. FOR HUMAN NUTRITION
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
@@ -963,31 +932,81 @@ employer_postal_code           | 25112
 begin_date                     | 1/14/2022
 end_date                       | 1/13/2025
 total_worker_positions         | 1
+soc_code                       | 11-9033.00
 h_1b_dependent                 | No
--[ RECORD 43 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23238-298483
-job_title                      | Director of Cybersecurity
-employer_name                  | West Virginia State University
+-[ RECORD 40 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-22235-433340
+job_title                      | EXECUTIVE DIRECTOR OF INSTITUTIONAL RESEARCH
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
 secondary_entity_business_name | 
-employer_poc_email             | krystal.smith@wvstateu.edu
-employer_poc_phone             | 13047665224
-employer_poc_first_name        | Krystal
-employer_poc_last_name         | Smith
-worksite_address1              | 5000 Fairlawn Avenue
+employer_poc_email             | SSEITZ@WVSTATEU.EDU
+employer_poc_phone             | 13042044323
+employer_poc_first_name        | STEPHEN
+employer_poc_last_name         | SEITZ
+worksite_address1              | ROUTE 25 AND BARRON DR
 worksite_address2              | 
-worksite_city                  | Institute
+worksite_city                  | INSTITUTE
 worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN PC
-employer_address1              | 5000 Fairlawn Avenue
-employer_address2              | 
-employer_city                  | Institute
+lawfirm_name_business_name     | BRAVLIN P.C.
+employer_address1              | 4015 FAIRLAWN AVENUE
+employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
+employer_city                  | INSTITUTE
 employer_state                 | WV
 employer_postal_code           | 25112
-begin_date                     | 9/6/2023
-end_date                       | 9/5/2026
+begin_date                     | 9/1/2022
+end_date                       | 8/31/2025
 total_worker_positions         | 1
+soc_code                       | 11-9033.00
 h_1b_dependent                 | No
--[ RECORD 44 ]-----------------+----------------------------------------------------------------------------------
+-[ RECORD 41 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-22235-433425
+job_title                      | EXECUTIVE DIRECTOR OF INSTITUTIONAL RESEARCH
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
+secondary_entity_business_name | 
+employer_poc_email             | SSEITZ@WVSTATEU.EDU
+employer_poc_phone             | 13042044323
+employer_poc_first_name        | STEPHEN
+employer_poc_last_name         | SEITZ
+worksite_address1              | ROUTE 25 AND BARRON DR
+worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN P.C.
+employer_address1              | 4015 FAIRLAWN AVENUE
+employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 9/1/2022
+end_date                       | 8/31/2025
+total_worker_positions         | 1
+soc_code                       | 11-9033.00
+h_1b_dependent                 | No
+-[ RECORD 42 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-22025-852409
+job_title                      | RESEARCH ASSISTANT
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
+secondary_entity_business_name | 
+employer_poc_email             | SSEITZ@WVSTATEU.EDU
+employer_poc_phone             | 13042044323
+employer_poc_first_name        | STEPHEN
+employer_poc_last_name         | SEITZ
+worksite_address1              | 4015 FAIRLAWN AVE
+worksite_address2              | 129 HAMBLIN HALL
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN P.C.
+employer_address1              | 4015 FAIRLAWN AVENUE
+employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 6/30/2022
+end_date                       | 6/29/2025
+total_worker_positions         | 1
+soc_code                       | 19-4021.00
+h_1b_dependent                 | No
+-[ RECORD 43 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23220-248126
 job_title                      | ACCOUNTANT SENIOR
 employer_name                  | West Virginia State University
@@ -1009,6 +1028,31 @@ employer_postal_code           | 25112
 begin_date                     | 8/28/2023
 end_date                       | 8/27/2026
 total_worker_positions         | 1
+soc_code                       | 13-2011.00
+h_1b_dependent                 | No
+-[ RECORD 44 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-23238-298483
+job_title                      | Director of Cybersecurity
+employer_name                  | West Virginia State University
+secondary_entity_business_name | 
+employer_poc_email             | krystal.smith@wvstateu.edu
+employer_poc_phone             | 13047665224
+employer_poc_first_name        | Krystal
+employer_poc_last_name         | Smith
+worksite_address1              | 5000 Fairlawn Avenue
+worksite_address2              | 
+worksite_city                  | Institute
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 5000 Fairlawn Avenue
+employer_address2              | 
+employer_city                  | Institute
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 9/6/2023
+end_date                       | 9/5/2026
+total_worker_positions         | 1
+soc_code                       | 11-9033.00
 h_1b_dependent                 | No
 -[ RECORD 45 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25127-949462
@@ -1032,5 +1076,6 @@ employer_postal_code           | 25112
 begin_date                     | 5/19/2025
 end_date                       | 5/18/2028
 total_worker_positions         | 1
+soc_code                       | 13-1199
 h_1b_dependent                 | No
 

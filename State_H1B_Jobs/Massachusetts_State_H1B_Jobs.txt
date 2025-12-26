@@ -20,6 +20,7 @@ employer_postal_code           | 77002
 begin_date                     | 7/8/2022
 end_date                       | 7/7/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 2 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22287-529995
@@ -43,6 +44,7 @@ employer_postal_code           | 30097
 begin_date                     | 10/21/2022
 end_date                       | 10/20/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22278-512945
@@ -66,6 +68,7 @@ employer_postal_code           | 30097
 begin_date                     | 10/5/2022
 end_date                       | 10/4/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 4 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22111-095384
@@ -89,6 +92,7 @@ employer_postal_code           | 75039
 begin_date                     | 9/10/2022
 end_date                       | 9/9/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23353-576355
@@ -112,6 +116,7 @@ employer_postal_code           | 20151
 begin_date                     | 12/19/2023
 end_date                       | 12/18/2026
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24270-365826
@@ -135,6 +140,7 @@ employer_postal_code           | 20147
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 7 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24172-131516
@@ -158,10 +164,11 @@ employer_postal_code           | 75039
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23355-585608
-job_title                      |  Database Administrator
+job_title                      | Database Administrator
 employer_name                  | Sunmerge Systems Inc
 secondary_entity_business_name | Commonwealth of MA-Executive health and human services (Department of Transitional Assistance)
 employer_poc_email             | HR@SUNMERGESYSTEMS.COM
@@ -181,6 +188,7 @@ employer_postal_code           | 08854
 begin_date                     | 12/21/2023
 end_date                       | 11/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25148-026173
@@ -204,6 +212,7 @@ employer_postal_code           | 01532
 begin_date                     | 6/1/2025
 end_date                       | 5/31/2028
 total_worker_positions         | 1
+soc_code                       | 15-1251
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22108-077278
@@ -227,6 +236,7 @@ employer_postal_code           | 01608
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24201-210109
@@ -250,6 +260,7 @@ employer_postal_code           | 19801
 begin_date                     | 12/16/2024
 end_date                       | 12/15/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21352-774792
@@ -273,6 +284,7 @@ employer_postal_code           | 19703
 begin_date                     | 12/17/2021
 end_date                       | 12/16/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 13 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22075-985145
@@ -296,6 +308,7 @@ employer_postal_code           | 44141
 begin_date                     | 8/19/2022
 end_date                       | 8/18/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.08
 h_1b_dependent                 | Yes
 -[ RECORD 14 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23026-729176
@@ -319,6 +332,7 @@ employer_postal_code           | 48104
 begin_date                     | 7/1/2023
 end_date                       | 6/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 15 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-20127-547539
@@ -342,6 +356,7 @@ employer_postal_code           | 08830
 begin_date                     | 10/10/2020
 end_date                       | 10/9/2023
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 16 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24079-811454
@@ -365,6 +380,7 @@ employer_postal_code           | 01752
 begin_date                     | 4/1/2024
 end_date                       | 3/31/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 17 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23145-053493
@@ -388,6 +404,7 @@ employer_postal_code           | 75038
 begin_date                     | 9/13/2023
 end_date                       | 9/12/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 18 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23220-247420
@@ -411,6 +428,7 @@ employer_postal_code           | 20878
 begin_date                     | 9/1/2023
 end_date                       | 8/31/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 19 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22255-465992
@@ -434,6 +452,7 @@ employer_postal_code           | 48084
 begin_date                     | 9/19/2022
 end_date                       | 9/18/2025
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 20 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22196-354008
@@ -457,6 +476,7 @@ employer_postal_code           | 08817
 begin_date                     | 7/21/2022
 end_date                       | 7/20/2025
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 21 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23018-709597
@@ -480,6 +500,7 @@ employer_postal_code           | 63005
 begin_date                     | 1/25/2023
 end_date                       | 1/24/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 22 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21280-630551
@@ -503,6 +524,7 @@ employer_postal_code           | 48334
 begin_date                     | 3/17/2022
 end_date                       | 3/16/2025
 total_worker_positions         | 1
+soc_code                       | 15-1121.00
 h_1b_dependent                 | Yes
 -[ RECORD 23 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25042-683392
@@ -526,6 +548,7 @@ employer_postal_code           | 48334
 begin_date                     | 2/24/2025
 end_date                       | 2/23/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 24 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23326-521223
@@ -549,6 +572,7 @@ employer_postal_code           | 77002
 begin_date                     | 4/27/2024
 end_date                       | 4/26/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 25 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21319-706720
@@ -572,31 +596,9 @@ employer_postal_code           | 19047
 begin_date                     | 5/1/2022
 end_date                       | 4/30/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 26 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23286-429905
-job_title                      | Software Developer
-employer_name                  | WIZCOM CORPORATION
-secondary_entity_business_name | EOHHS MA (Department of Public Health)
-employer_poc_email             | sundar@wizcom.com
-employer_poc_phone             | 16099369400
-employer_poc_first_name        | Sundar
-employer_poc_last_name         | SUNDARAM
-worksite_address1              | 250 Washington Street
-worksite_address2              | N/A
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES, LLP
-employer_address1              | 742 Alexander Road
-employer_address2              | Ste 301
-employer_city                  | Princeton
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 1/21/2024
-end_date                       | 1/20/2027
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25003-590887
 job_title                      | Computer Programmer
 employer_name                  | WIZCOM CORPORATION
@@ -618,31 +620,33 @@ employer_postal_code           | 08540
 begin_date                     | 1/9/2025
 end_date                       | 1/8/2028
 total_worker_positions         | 1
+soc_code                       | 15-1251
+h_1b_dependent                 | Yes
+-[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23286-429905
+job_title                      | Software Developer
+employer_name                  | WIZCOM CORPORATION
+secondary_entity_business_name | EOHHS MA (Department of Public Health)
+employer_poc_email             | sundar@wizcom.com
+employer_poc_phone             | 16099369400
+employer_poc_first_name        | Sundar
+employer_poc_last_name         | SUNDARAM
+worksite_address1              | 250 Washington Street
+worksite_address2              | N/A
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES, LLP
+employer_address1              | 742 Alexander Road
+employer_address2              | Ste 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 1/21/2024
+end_date                       | 1/20/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 28 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24253-324557
-job_title                      | Technical Architect
-employer_name                  | Kyyba Tech Inc
-secondary_entity_business_name | EOHHSDTA (Department of Transitional Assistance)
-employer_poc_email             | kavi@creatus.com
-employer_poc_phone             | 12488139665
-employer_poc_first_name        | Kavidha
-employer_poc_last_name         | Selvaraj
-worksite_address1              | 600 Washington Street
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | NORFOLK
-lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
-employer_address1              | 28230 Orchard Lake Road
-employer_address2              | Suite 130
-employer_city                  | Farmington Hills
-employer_state                 | MI
-employer_postal_code           | 48334
-begin_date                     | 9/16/2024
-end_date                       | 9/15/2027
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22046-904625
 job_title                      | Technical Architect
 employer_name                  | Kyyba Tech Inc
@@ -664,6 +668,31 @@ employer_postal_code           | 48334
 begin_date                     | 2/23/2022
 end_date                       | 2/22/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24253-324557
+job_title                      | Technical Architect
+employer_name                  | Kyyba Tech Inc
+secondary_entity_business_name | EOHHSDTA (Department of Transitional Assistance)
+employer_poc_email             | kavi@creatus.com
+employer_poc_phone             | 12488139665
+employer_poc_first_name        | Kavidha
+employer_poc_last_name         | Selvaraj
+worksite_address1              | 600 Washington Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | NORFOLK
+lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
+employer_address1              | 28230 Orchard Lake Road
+employer_address2              | Suite 130
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 9/16/2024
+end_date                       | 9/15/2027
+total_worker_positions         | 1
+soc_code                       | 15-1299.08
 h_1b_dependent                 | No
 -[ RECORD 30 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21288-648716
@@ -687,31 +716,9 @@ employer_postal_code           | 22027
 begin_date                     | 10/22/2021
 end_date                       | 10/21/2024
 total_worker_positions         | 1
+soc_code                       | 15-1199.02
 h_1b_dependent                 | Yes
 -[ RECORD 31 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22199-359834
-job_title                      | Software Applications Developer
-employer_name                  | Webject Systems Inc
-secondary_entity_business_name | MA Department of Public Health
-employer_poc_email             | madhu@webject.com
-employer_poc_phone             | 15082796562
-employer_poc_first_name        | Madhu
-employer_poc_last_name         | Rao
-worksite_address1              | 250 Washington St
-worksite_address2              | 5th Floor
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 25 Central Square
-employer_address2              | Suite 2
-employer_city                  | Bridgewater
-employer_state                 | MA
-employer_postal_code           | 02324
-begin_date                     | 11/16/2022
-end_date                       | 11/15/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 32 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22189-340805
 job_title                      | Software Applications Developer
 employer_name                  | Webject Systems Inc
@@ -733,6 +740,31 @@ employer_postal_code           | 02324
 begin_date                     | 11/16/2022
 end_date                       | 11/15/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 32 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22199-359834
+job_title                      | Software Applications Developer
+employer_name                  | Webject Systems Inc
+secondary_entity_business_name | MA Department of Public Health
+employer_poc_email             | madhu@webject.com
+employer_poc_phone             | 15082796562
+employer_poc_first_name        | Madhu
+employer_poc_last_name         | Rao
+worksite_address1              | 250 Washington St
+worksite_address2              | 5th Floor
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 25 Central Square
+employer_address2              | Suite 2
+employer_city                  | Bridgewater
+employer_state                 | MA
+employer_postal_code           | 02324
+begin_date                     | 11/16/2022
+end_date                       | 11/15/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 33 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24073-796057
@@ -756,6 +788,7 @@ employer_postal_code           | 75070
 begin_date                     | 4/29/2024
 end_date                       | 4/28/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 34 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23101-923432
@@ -779,6 +812,7 @@ employer_postal_code           | 60532
 begin_date                     | 4/12/2023
 end_date                       | 4/11/2026
 total_worker_positions         | 5
+soc_code                       | 15-2031.00
 h_1b_dependent                 | Yes
 -[ RECORD 35 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23032-743876
@@ -802,6 +836,7 @@ employer_postal_code           | 08540
 begin_date                     | 2/9/2023
 end_date                       | 2/8/2026
 total_worker_positions         | 1
+soc_code                       | 15-1241.00
 h_1b_dependent                 | No
 -[ RECORD 36 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25108-881452
@@ -825,31 +860,9 @@ employer_postal_code           | 95112
 begin_date                     | 4/24/2025
 end_date                       | 4/23/2028
 total_worker_positions         | 1
+soc_code                       | 13-1111
 h_1b_dependent                 | Yes
 -[ RECORD 37 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22320-591137
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | DOTCOM TEAM LLC
-secondary_entity_business_name | MASSACHUSETTS STATE RETIREMENT BOARD (TELECOMMUTING)
-employer_poc_email             | TSHERING@DOTCOM-TEAM.COM
-employer_poc_phone             | 17818483867
-employer_poc_first_name        | TSHERING
-employer_poc_last_name         | SHAKYA
-worksite_address1              | 292 MARRETT ROAD
-worksite_address2              | 
-worksite_city                  | LEXINGTON
-worksite_county                | LEXINGTON
-lawfirm_name_business_name     | MADAN & SAIGAL LLC
-employer_address1              | 325 WOOD ROAD, SUITE 103
-employer_address2              | 
-employer_city                  | BRAINTREE
-employer_state                 | MA
-employer_postal_code           | 02184
-begin_date                     | 12/12/2022
-end_date                       | 12/11/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 38 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22321-593010
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | DOTCOM TEAM LLC
@@ -871,6 +884,31 @@ employer_postal_code           | 02184
 begin_date                     | 12/12/2022
 end_date                       | 12/11/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 38 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22320-591137
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | DOTCOM TEAM LLC
+secondary_entity_business_name | MASSACHUSETTS STATE RETIREMENT BOARD (TELECOMMUTING)
+employer_poc_email             | TSHERING@DOTCOM-TEAM.COM
+employer_poc_phone             | 17818483867
+employer_poc_first_name        | TSHERING
+employer_poc_last_name         | SHAKYA
+worksite_address1              | 292 MARRETT ROAD
+worksite_address2              | 
+worksite_city                  | LEXINGTON
+worksite_county                | LEXINGTON
+lawfirm_name_business_name     | MADAN & SAIGAL LLC
+employer_address1              | 325 WOOD ROAD, SUITE 103
+employer_address2              | 
+employer_city                  | BRAINTREE
+employer_state                 | MA
+employer_postal_code           | 02184
+begin_date                     | 12/12/2022
+end_date                       | 12/11/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 39 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22028-861593
@@ -894,6 +932,7 @@ employer_postal_code           | 30328
 begin_date                     | 6/11/2022
 end_date                       | 6/10/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 40 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22105-073791
@@ -917,6 +956,7 @@ employer_postal_code           | 08817
 begin_date                     | 9/5/2022
 end_date                       | 9/4/2025
 total_worker_positions         | 1
+soc_code                       | 15-1142.00
 h_1b_dependent                 | Yes
 -[ RECORD 41 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24264-352211
@@ -940,6 +980,7 @@ employer_postal_code           | 22030
 begin_date                     | 1/26/2025
 end_date                       | 1/25/2028
 total_worker_positions         | 1
+soc_code                       | 15-1243.00
 h_1b_dependent                 | No
 -[ RECORD 42 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21274-618352
@@ -963,6 +1004,7 @@ employer_postal_code           | 22030
 begin_date                     | 1/26/2022
 end_date                       | 1/25/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.00
 h_1b_dependent                 | No
 -[ RECORD 43 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21350-768611
@@ -986,6 +1028,7 @@ employer_postal_code           | 22030
 begin_date                     | 12/21/2021
 end_date                       | 12/20/2024
 total_worker_positions         | 1
+soc_code                       | 15-1121.00
 h_1b_dependent                 | No
 -[ RECORD 44 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22180-322541
@@ -1009,6 +1052,7 @@ employer_postal_code           | 08817
 begin_date                     | 9/1/2022
 end_date                       | 8/31/2025
 total_worker_positions         | 1
+soc_code                       | 15-1142.00
 h_1b_dependent                 | Yes
 -[ RECORD 45 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24296-422787
@@ -1032,6 +1076,7 @@ employer_postal_code           | 48084
 begin_date                     | 4/8/2025
 end_date                       | 4/7/2028
 total_worker_positions         | 1
+soc_code                       | 15-1253
 h_1b_dependent                 | Yes
 -[ RECORD 46 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23107-937544
@@ -1055,6 +1100,7 @@ employer_postal_code           | 15241
 begin_date                     | 6/15/2023
 end_date                       | 6/14/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 47 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21327-722409
@@ -1078,6 +1124,7 @@ employer_postal_code           | 63017
 begin_date                     | 11/29/2021
 end_date                       | 11/28/2024
 total_worker_positions         | 1
+soc_code                       | 15-1142.00
 h_1b_dependent                 | Yes
 -[ RECORD 48 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22213-387914
@@ -1101,6 +1148,7 @@ employer_postal_code           | 08817
 begin_date                     | 1/1/2023
 end_date                       | 12/31/2025
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 49 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-19298-110151
@@ -1124,31 +1172,9 @@ employer_postal_code           | 28262
 begin_date                     | 11/1/2019
 end_date                       | 10/31/2022
 total_worker_positions         | 1
+soc_code                       | 15-1141.00
 h_1b_dependent                 | Yes
 -[ RECORD 50 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24052-736079
-job_title                      |  Sr. Software Developer
-employer_name                  | TECHNOSOFT GROUP INC
-secondary_entity_business_name | Massachusetts Department of Transportation
-employer_poc_email             | immigration@technosoftgroup.com
-employer_poc_phone             | 14692625658
-employer_poc_first_name        | Swarupa
-employer_poc_last_name         | Rallapalli
-worksite_address1              | 10 Park Plaza  4160
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | THE LAW FIRM OF SIM, PARVATHANENI AND BROWN PLLC
-employer_address1              | 2300 VALLEY VIEW LANE
-employer_address2              | SUITE 380
-employer_city                  | IRVING
-employer_state                 | TX
-employer_postal_code           | 75062
-begin_date                     | 2/26/2024
-end_date                       | 2/25/2027
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 51 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23052-789722
 job_title                      | Sr. Software Developer
 employer_name                  | TECHNOSOFT GROUP INC
@@ -1170,6 +1196,31 @@ employer_postal_code           | 75062
 begin_date                     | 2/27/2023
 end_date                       | 2/26/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 51 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24052-736079
+job_title                      | Sr. Software Developer
+employer_name                  | TECHNOSOFT GROUP INC
+secondary_entity_business_name | Massachusetts Department of Transportation
+employer_poc_email             | immigration@technosoftgroup.com
+employer_poc_phone             | 14692625658
+employer_poc_first_name        | Swarupa
+employer_poc_last_name         | Rallapalli
+worksite_address1              | 10 Park Plaza  4160
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | THE LAW FIRM OF SIM, PARVATHANENI AND BROWN PLLC
+employer_address1              | 2300 VALLEY VIEW LANE
+employer_address2              | SUITE 380
+employer_city                  | IRVING
+employer_state                 | TX
+employer_postal_code           | 75062
+begin_date                     | 2/26/2024
+end_date                       | 2/25/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 52 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25115-905576
@@ -1193,10 +1244,11 @@ employer_postal_code           | 76177
 begin_date                     | 9/5/2025
 end_date                       | 9/4/2028
 total_worker_positions         | 1
+soc_code                       | 15-1244
 h_1b_dependent                 | Yes
 -[ RECORD 53 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-20092-451609
-job_title                      | Software Engineer 
+job_title                      | Software Engineer
 employer_name                  | COOLSOFT LLC
 secondary_entity_business_name | Massachusetts Department of Transportation (MassDOT)
 employer_poc_email             | roger@coolsofttech.com
@@ -1216,6 +1268,7 @@ employer_postal_code           | 40220
 begin_date                     | 9/29/2020
 end_date                       | 9/29/2023
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 54 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24026-671565
@@ -1239,6 +1292,7 @@ employer_postal_code           | 20171
 begin_date                     | 5/20/2024
 end_date                       | 5/19/2027
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | No
 -[ RECORD 55 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25100-851599
@@ -1262,6 +1316,7 @@ employer_postal_code           | 60143
 begin_date                     | 9/9/2025
 end_date                       | 9/8/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 56 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25155-050179
@@ -1285,6 +1340,7 @@ employer_postal_code           | 02026
 begin_date                     | 10/17/2025
 end_date                       | 10/16/2028
 total_worker_positions         | 1
+soc_code                       | 21-1014
 h_1b_dependent                 | No
 -[ RECORD 57 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22362-662248
@@ -1308,6 +1364,7 @@ employer_postal_code           | 08854
 begin_date                     | 12/28/2022
 end_date                       | 12/27/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 58 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21299-667046
@@ -1331,6 +1388,7 @@ employer_postal_code           | 30024
 begin_date                     | 10/25/2021
 end_date                       | 10/24/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 59 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21290-649351
@@ -1354,6 +1412,7 @@ employer_postal_code           | 30024
 begin_date                     | 10/17/2021
 end_date                       | 10/16/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 60 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23223-259813
@@ -1377,6 +1436,7 @@ employer_postal_code           | 75028
 begin_date                     | 8/28/2023
 end_date                       | 8/27/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 61 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24047-726716
@@ -1400,6 +1460,7 @@ employer_postal_code           | 08619
 begin_date                     | 2/26/2024
 end_date                       | 2/25/2027
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 62 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23013-700115
@@ -1423,6 +1484,7 @@ employer_postal_code           | 01545
 begin_date                     | 1/30/2023
 end_date                       | 1/29/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 63 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23257-345583
@@ -1446,6 +1508,7 @@ employer_postal_code           | 01545
 begin_date                     | 2/8/2024
 end_date                       | 2/7/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 64 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24122-945698
@@ -1469,31 +1532,9 @@ employer_postal_code           | 01801
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 65 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22230-422983
-job_title                      | Database Admistrator
-employer_name                  | MAHAUGHA LLC
-secondary_entity_business_name | State of MA Secretary of Common Wealth Department
-employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
-employer_poc_phone             | 16092354355
-employer_poc_first_name        | VINOD
-employer_poc_last_name         | MANDALA
-worksite_address1              | 1 Ashburton Pl
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 2650 ROUTE 130
-employer_address2              | SUITE K
-employer_city                  | CRANBURY
-employer_state                 | NJ
-employer_postal_code           | 08512
-begin_date                     | 8/17/2022
-end_date                       | 8/16/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 66 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22230-423000
 job_title                      | Database Admistrator
 employer_name                  | MAHAUGHA LLC
@@ -1515,31 +1556,33 @@ employer_postal_code           | 08512
 begin_date                     | 8/17/2022
 end_date                       | 8/16/2025
 total_worker_positions         | 1
+soc_code                       | 15-1299.00
+h_1b_dependent                 | Yes
+-[ RECORD 66 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22230-422983
+job_title                      | Database Admistrator
+employer_name                  | MAHAUGHA LLC
+secondary_entity_business_name | State of MA Secretary of Common Wealth Department
+employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
+employer_poc_phone             | 16092354355
+employer_poc_first_name        | VINOD
+employer_poc_last_name         | MANDALA
+worksite_address1              | 1 Ashburton Pl
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2650 ROUTE 130
+employer_address2              | SUITE K
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 8/17/2022
+end_date                       | 8/16/2025
+total_worker_positions         | 1
+soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 67 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25074-779192
-job_title                      | Business Analyst
-employer_name                  | California SoftTech Inc
-secondary_entity_business_name | State of MA- Education Department
-employer_poc_email             | hr@calisofttech.com
-employer_poc_phone             | 14085208758
-employer_poc_first_name        | Ashok
-employer_poc_last_name         | Kondapalli
-worksite_address1              | 135 Santilli Highway
-worksite_address2              | 
-worksite_city                  | Everett
-worksite_county                | EVERETT CITY
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 5600 W Maple Road
-employer_address2              | STE C307
-employer_city                  | West Bloomfield Township
-employer_state                 | MI
-employer_postal_code           | 48322
-begin_date                     | 3/21/2025
-end_date                       | 3/20/2028
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 68 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25071-768311
 job_title                      | Business Analyst
 employer_name                  | California SoftTech Inc
@@ -1561,7 +1604,32 @@ employer_postal_code           | 48322
 begin_date                     | 3/19/2025
 end_date                       | 3/18/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | No
+-[ RECORD 68 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25074-779192
+job_title                      | Business Analyst
+employer_name                  | California SoftTech Inc
+secondary_entity_business_name | State of MA- Education Department
+employer_poc_email             | hr@calisofttech.com
+employer_poc_phone             | 14085208758
+employer_poc_first_name        | Ashok
+employer_poc_last_name         | Kondapalli
+worksite_address1              | 135 Santilli Highway
+worksite_address2              | 
+worksite_city                  | Everett
+worksite_county                | EVERETT CITY
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 5600 W Maple Road
+employer_address2              | STE C307
+employer_city                  | West Bloomfield Township
+employer_state                 | MI
+employer_postal_code           | 48322
+begin_date                     | 3/21/2025
+end_date                       | 3/20/2028
+total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
 -[ RECORD 69 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24165-108750
 job_title                      | Talend ETL Developer
@@ -1584,6 +1652,7 @@ employer_postal_code           | 28262
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 70 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23054-799696
@@ -1607,10 +1676,11 @@ employer_postal_code           | 08536
 begin_date                     | 2/24/2023
 end_date                       | 2/23/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 71 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23055-802110
-job_title                      |  Software Developer
+job_title                      | Software Developer
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 secondary_entity_business_name | State of Massachusetts
 employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
@@ -1630,6 +1700,7 @@ employer_postal_code           | 08536
 begin_date                     | 2/24/2023
 end_date                       | 2/23/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 72 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-20141-588331
@@ -1653,6 +1724,7 @@ employer_postal_code           | 40220
 begin_date                     | 6/30/2020
 end_date                       | 6/30/2023
 total_worker_positions         | 1
+soc_code                       | 15-1199.00
 h_1b_dependent                 | Yes
 -[ RECORD 73 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23200-199362
@@ -1676,6 +1748,7 @@ employer_postal_code           | 30005
 begin_date                     | 7/27/2023
 end_date                       | 7/26/2026
 total_worker_positions         | 1
+soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 74 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24026-670761
@@ -1699,6 +1772,7 @@ employer_postal_code           | 66213
 begin_date                     | 1/29/2024
 end_date                       | 1/28/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 75 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23010-691802
@@ -1722,6 +1796,7 @@ employer_postal_code           | 20151
 begin_date                     | 1/10/2023
 end_date                       | 1/9/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 76 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25010-610353
@@ -1745,6 +1820,7 @@ employer_postal_code           | 48176
 begin_date                     | 1/13/2025
 end_date                       | 1/12/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 77 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-20134-566890
@@ -1768,6 +1844,7 @@ employer_postal_code           | 48334
 begin_date                     | 11/8/2020
 end_date                       | 11/7/2023
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 78 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25016-623422
@@ -1791,6 +1868,7 @@ employer_postal_code           | 48104
 begin_date                     | 1/21/2025
 end_date                       | 1/20/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 79 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23096-910125
@@ -1814,6 +1892,7 @@ employer_postal_code           | 77478
 begin_date                     | 7/1/2023
 end_date                       | 6/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 80 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21355-779993
@@ -1837,6 +1916,7 @@ employer_postal_code           | 77478
 begin_date                     | 1/3/2022
 end_date                       | 1/2/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 81 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23133-019591
@@ -1860,6 +1940,7 @@ employer_postal_code           | 19355
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1299.05
 h_1b_dependent                 | Yes
 -[ RECORD 82 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25174-118976
@@ -1883,6 +1964,7 @@ employer_postal_code           | 06103
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 83 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25172-118535
@@ -1906,6 +1988,7 @@ employer_postal_code           | 06103
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 84 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25129-960400
@@ -1929,6 +2012,7 @@ employer_postal_code           | 48075
 begin_date                     | 5/19/2025
 end_date                       | 5/18/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 85 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23128-001786
@@ -1952,6 +2036,7 @@ employer_postal_code           | 48176
 begin_date                     | 6/5/2023
 end_date                       | 6/4/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 86 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25037-671439
@@ -1975,6 +2060,7 @@ employer_postal_code           | 66213
 begin_date                     | 3/1/2025
 end_date                       | 2/28/2028
 total_worker_positions         | 1
+soc_code                       | 15-1251
 h_1b_dependent                 | Yes
 -[ RECORD 87 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23166-115834
@@ -1998,6 +2084,7 @@ employer_postal_code           | 30097
 begin_date                     | 6/15/2023
 end_date                       | 6/14/2026
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 88 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24169-119735
@@ -2021,6 +2108,7 @@ employer_postal_code           | 60564
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 89 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23064-823459
@@ -2044,6 +2132,7 @@ employer_postal_code           | 08830
 begin_date                     | 9/1/2023
 end_date                       | 8/31/2026
 total_worker_positions         | 1
+soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
 -[ RECORD 90 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23188-172441
@@ -2067,6 +2156,7 @@ employer_postal_code           | 01545
 begin_date                     | 12/24/2023
 end_date                       | 12/23/2026
 total_worker_positions         | 1
+soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
 -[ RECORD 91 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22144-207305
@@ -2090,6 +2180,7 @@ employer_postal_code           | 22043
 begin_date                     | 10/1/2022
 end_date                       | 9/30/2025
 total_worker_positions         | 1
+soc_code                       | 13-1111.00
 h_1b_dependent                 | No
 -[ RECORD 92 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24116-923897
@@ -2113,6 +2204,7 @@ employer_postal_code           | 08852
 begin_date                     | 4/29/2024
 end_date                       | 4/28/2027
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 93 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23047-779940
@@ -2136,6 +2228,7 @@ employer_postal_code           | 02145
 begin_date                     | 7/1/2023
 end_date                       | 6/30/2025
 total_worker_positions         | 1
+soc_code                       | 29-1229.00
 h_1b_dependent                 | No
 -[ RECORD 94 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22056-932442
@@ -2159,31 +2252,9 @@ employer_postal_code           | 48334
 begin_date                     | 8/20/2022
 end_date                       | 8/19/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.01
 h_1b_dependent                 | Yes
 -[ RECORD 95 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24200-206224
-job_title                      | SOFTWARE TESTER
-employer_name                  | IT RESILIENCE INC
-secondary_entity_business_name | THE COMMONWEALTH OF MASSACHUSETTS EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE DEPARTMENT OF REVENUE
-employer_poc_email             | SHIVALI@ITRESILIENCETECH.COM
-employer_poc_phone             | 16822306648
-employer_poc_first_name        | SHIVALI
-employer_poc_last_name         | NUKALA
-worksite_address1              | 200 ARLINGTON STREET
-worksite_address2              | 
-worksite_city                  | CHELSEA
-worksite_county                | CHELSEA CITY
-lawfirm_name_business_name     | 
-employer_address1              | 6675 MEDITERRANEAN DRIVE
-employer_address2              | SUITE 504
-employer_city                  | MCKINNEY
-employer_state                 | TX
-employer_postal_code           | 75072
-begin_date                     | 8/1/2024
-end_date                       | 7/31/2027
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 96 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24219-248466
 job_title                      | SOFTWARE TESTER
 employer_name                  | IT RESILIENCE INC
@@ -2205,6 +2276,31 @@ employer_postal_code           | 75072
 begin_date                     | 8/13/2024
 end_date                       | 8/12/2027
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
+h_1b_dependent                 | No
+-[ RECORD 96 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24200-206224
+job_title                      | SOFTWARE TESTER
+employer_name                  | IT RESILIENCE INC
+secondary_entity_business_name | THE COMMONWEALTH OF MASSACHUSETTS EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE DEPARTMENT OF REVENUE
+employer_poc_email             | SHIVALI@ITRESILIENCETECH.COM
+employer_poc_phone             | 16822306648
+employer_poc_first_name        | SHIVALI
+employer_poc_last_name         | NUKALA
+worksite_address1              | 200 ARLINGTON STREET
+worksite_address2              | 
+worksite_city                  | CHELSEA
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 6675 MEDITERRANEAN DRIVE
+employer_address2              | SUITE 504
+employer_city                  | MCKINNEY
+employer_state                 | TX
+employer_postal_code           | 75072
+begin_date                     | 8/1/2024
+end_date                       | 7/31/2027
+total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | No
 -[ RECORD 97 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24022-655040
@@ -2228,6 +2324,7 @@ employer_postal_code           | 08817
 begin_date                     | 1/22/2024
 end_date                       | 1/21/2027
 total_worker_positions         | 1
+soc_code                       | 15-1299.00
 h_1b_dependent                 | Yes
 -[ RECORD 98 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24022-655038
@@ -2251,6 +2348,7 @@ employer_postal_code           | 08817
 begin_date                     | 1/22/2024
 end_date                       | 1/21/2027
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 99 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23145-054674
@@ -2274,6 +2372,7 @@ employer_postal_code           | 08873
 begin_date                     | 11/10/2023
 end_date                       | 11/9/2026
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | No
 -[ RECORD 100 ]----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23025-727974
@@ -2297,6 +2396,7 @@ employer_postal_code           | 08873
 begin_date                     | 1/25/2023
 end_date                       | 1/24/2026
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | No
 -[ RECORD 101 ]----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-20356-972152
@@ -2320,10 +2420,11 @@ employer_postal_code           | 77002
 begin_date                     | 2/19/2021
 end_date                       | 2/18/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 102 ]----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22166-283441
-job_title                      | Principal Technical Professional – Test Engineering 
+job_title                      | Principal Technical Professional – Test Engineering
 employer_name                  | KBR Wyle Services LLC
 secondary_entity_business_name | U.S. Department of Transportation
 employer_poc_email             | Iris.Landry@kbr.com
@@ -2343,6 +2444,7 @@ employer_postal_code           | 77002
 begin_date                     | 7/30/2022
 end_date                       | 7/29/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.01
 h_1b_dependent                 | No
 -[ RECORD 103 ]----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22130-155445
@@ -2366,10 +2468,11 @@ employer_postal_code           | 77002
 begin_date                     | 6/28/2022
 end_date                       | 6/27/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 104 ]----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23107-937085
-job_title                      | Software Developer - KBGFJG190550-2
+case_number                    | I-200-22126-144833
+job_title                      | Sr. Technical Professional-  KBGFJG191306-1
 employer_name                  | KBR Wyle Services LLC
 secondary_entity_business_name | US Department of Transportation
 employer_poc_email             | Iris.Landry@kbr.com
@@ -2386,9 +2489,10 @@ employer_address2              |
 employer_city                  | Houston
 employer_state                 | TX
 employer_postal_code           | 77002
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
+begin_date                     | 5/16/2022
+end_date                       | 5/15/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 105 ]----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23094-901089
@@ -2412,10 +2516,11 @@ employer_postal_code           | 77002
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 106 ]----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22126-144833
-job_title                      | Sr. Technical Professional-  KBGFJG191306-1
+case_number                    | I-200-23107-937085
+job_title                      | Software Developer - KBGFJG190550-2
 employer_name                  | KBR Wyle Services LLC
 secondary_entity_business_name | US Department of Transportation
 employer_poc_email             | Iris.Landry@kbr.com
@@ -2432,9 +2537,10 @@ employer_address2              |
 employer_city                  | Houston
 employer_state                 | TX
 employer_postal_code           | 77002
-begin_date                     | 5/16/2022
-end_date                       | 5/15/2025
+begin_date                     | 10/1/2023
+end_date                       | 9/30/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 107 ]----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23123-990568
@@ -2458,5 +2564,6 @@ employer_postal_code           | 01749
 begin_date                     | 6/1/2023
 end_date                       | 5/31/2026
 total_worker_positions         | 1
+soc_code                       | 25-2021.00
 h_1b_dependent                 | No
 

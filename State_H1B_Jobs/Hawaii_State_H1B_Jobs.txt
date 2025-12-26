@@ -20,6 +20,7 @@ employer_postal_code           | 02110
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 29-1127
 h_1b_dependent                 | No
 -[ RECORD 2 ]------------------+----------------------------------------------------------------------
 case_number                    | I-200-23011-696408
@@ -43,6 +44,7 @@ employer_postal_code           | 08540
 begin_date                     | 7/13/2023
 end_date                       | 7/12/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+----------------------------------------------------------------------
 case_number                    | I-200-21312-692650
@@ -66,6 +68,7 @@ employer_postal_code           | 08536
 begin_date                     | 11/9/2021
 end_date                       | 11/8/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 4 ]------------------+----------------------------------------------------------------------
 case_number                    | I-200-22181-324473
@@ -89,6 +92,7 @@ employer_postal_code           | 75035
 begin_date                     | 7/4/2022
 end_date                       | 7/3/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+----------------------------------------------------------------------
 case_number                    | I-200-25070-765654
@@ -112,6 +116,7 @@ employer_postal_code           | 75070
 begin_date                     | 7/4/2025
 end_date                       | 1/15/2028
 total_worker_positions         | 1
+soc_code                       | 15-1211
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+----------------------------------------------------------------------
 case_number                    | I-200-22104-071679
@@ -135,10 +140,11 @@ employer_postal_code           | 75023
 begin_date                     | 4/19/2022
 end_date                       | 4/18/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 7 ]------------------+----------------------------------------------------------------------
 case_number                    | I-200-23199-197856
-job_title                      | Business IT Consultant 
+job_title                      | Business IT Consultant
 employer_name                  | Adroix Corp
 secondary_entity_business_name | State of Hawaii Department of Human Services Social Services Division
 employer_poc_email             | legal@codeforce.com
@@ -158,6 +164,7 @@ employer_postal_code           | 30005
 begin_date                     | 7/25/2023
 end_date                       | 7/24/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+----------------------------------------------------------------------
 case_number                    | I-200-24331-502640
@@ -181,31 +188,9 @@ employer_postal_code           | 08536
 begin_date                     | 12/3/2024
 end_date                       | 12/2/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+----------------------------------------------------------------------
-case_number                    | I-200-21267-604105
-job_title                      | Applications Consultant 3
-employer_name                  | CAPGEMINI AMERICA INC
-secondary_entity_business_name | The Judiciary State of Hawaii
-employer_poc_email             | LCATEAM.IG@CAPGEMINI.COM
-employer_poc_phone             | 13123958209
-employer_poc_first_name        | JEAN
-employer_poc_last_name         | TAYLOR
-worksite_address1              | 1111 ALAKEA ST
-worksite_address2              | 
-worksite_city                  | HONOLULU
-worksite_county                | HONOLULU
-lawfirm_name_business_name     | 
-employer_address1              | 333 WEST WACKER DRIVE
-employer_address2              | SUITE 300
-employer_city                  | CHICAGO
-employer_state                 | IL
-employer_postal_code           | 60606
-begin_date                     | 10/1/2021
-end_date                       | 9/30/2024
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+----------------------------------------------------------------------
 case_number                    | I-200-23030-735078
 job_title                      | Business Systems Analyst 2
 employer_name                  | CAPGEMINI AMERICA INC
@@ -227,5 +212,30 @@ employer_postal_code           | 60606
 begin_date                     | 2/3/2023
 end_date                       | 2/2/2026
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 10 ]-----------------+----------------------------------------------------------------------
+case_number                    | I-200-21267-604105
+job_title                      | Applications Consultant 3
+employer_name                  | CAPGEMINI AMERICA INC
+secondary_entity_business_name | The Judiciary State of Hawaii
+employer_poc_email             | LCATEAM.IG@CAPGEMINI.COM
+employer_poc_phone             | 13123958209
+employer_poc_first_name        | JEAN
+employer_poc_last_name         | TAYLOR
+worksite_address1              | 1111 ALAKEA ST
+worksite_address2              | 
+worksite_city                  | HONOLULU
+worksite_county                | HONOLULU
+lawfirm_name_business_name     | 
+employer_address1              | 333 WEST WACKER DRIVE
+employer_address2              | SUITE 300
+employer_city                  | CHICAGO
+employer_state                 | IL
+employer_postal_code           | 60606
+begin_date                     | 10/1/2021
+end_date                       | 9/30/2024
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 

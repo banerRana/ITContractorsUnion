@@ -20,10 +20,11 @@ employer_postal_code           | 87110
 begin_date                     | 9/28/2020
 end_date                       | 9/27/2023
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 2 ]------------------+-----------------------------------------------------
 case_number                    | I-200-23132-016753
-job_title                      | Software Developer, Systems Software 
+job_title                      | Software Developer, Systems Software
 employer_name                  | TECH MAHINDRA (AMERICAS) INC
 secondary_entity_business_name | Department of Liquor and Lottery State of Vermont
 employer_poc_email             | LCAMOVEMENT@TECHMAHINDRA.COM
@@ -43,6 +44,7 @@ employer_postal_code           | 07921
 begin_date                     | 5/12/2023
 end_date                       | 5/11/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+-----------------------------------------------------
 case_number                    | I-200-24127-960859
@@ -66,10 +68,11 @@ employer_postal_code           | 07921
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
 -[ RECORD 4 ]------------------+-----------------------------------------------------
 case_number                    | I-200-24050-729893
-job_title                      | ORACLE DEVELOPER 
+job_title                      | ORACLE DEVELOPER
 employer_name                  | INVICTUS INFOTECH LLC
 secondary_entity_business_name | VIRGINIA DEPARTMENT OF HEALTH
 employer_poc_email             | RAO@INVICTUSINFOTECH.COM
@@ -89,6 +92,7 @@ employer_postal_code           | 08830
 begin_date                     | 7/1/2024
 end_date                       | 6/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+-----------------------------------------------------
 case_number                    | I-200-22115-104284
@@ -112,6 +116,7 @@ employer_postal_code           | 48304
 begin_date                     | 5/2/2022
 end_date                       | 5/1/2025
 total_worker_positions         | 1
+soc_code                       | 15-1199.09
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+-----------------------------------------------------
 case_number                    | I-200-21196-464765
@@ -135,6 +140,7 @@ employer_postal_code           | 05609
 begin_date                     | 9/7/2021
 end_date                       | 9/6/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 7 ]------------------+-----------------------------------------------------
 case_number                    | I-200-24101-875332
@@ -158,6 +164,7 @@ employer_postal_code           | 05601
 begin_date                     | 5/24/2024
 end_date                       | 5/23/2027
 total_worker_positions         | 1
+soc_code                       | 15-1244.00
 h_1b_dependent                 | No
 -[ RECORD 8 ]------------------+-----------------------------------------------------
 case_number                    | I-200-24036-692831
@@ -181,6 +188,7 @@ employer_postal_code           | 05601
 begin_date                     | 4/23/2024
 end_date                       | 4/22/2027
 total_worker_positions         | 1
+soc_code                       | 15-2041.00
 h_1b_dependent                 | No
 -[ RECORD 9 ]------------------+-----------------------------------------------------
 case_number                    | I-200-24092-845833
@@ -204,6 +212,7 @@ employer_postal_code           | 05404
 begin_date                     | 5/24/2024
 end_date                       | 5/23/2027
 total_worker_positions         | 1
+soc_code                       | 15-1244.00
 h_1b_dependent                 | No
 -[ RECORD 10 ]-----------------+-----------------------------------------------------
 case_number                    | I-200-23223-259716
@@ -227,6 +236,7 @@ employer_postal_code           | 05735
 begin_date                     | 8/25/2023
 end_date                       | 8/24/2026
 total_worker_positions         | 1
+soc_code                       | 25-1072.00
 h_1b_dependent                 | No
 -[ RECORD 11 ]-----------------+-----------------------------------------------------
 case_number                    | I-200-24163-094063
@@ -250,5 +260,6 @@ employer_postal_code           | 05735
 begin_date                     | 7/8/2024
 end_date                       | 7/7/2027
 total_worker_positions         | 1
+soc_code                       | 25-1123.00
 h_1b_dependent                 | No
 

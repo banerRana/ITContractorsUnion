@@ -20,6 +20,7 @@ employer_postal_code           | 03060
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-1242
 h_1b_dependent                 | No
 -[ RECORD 2 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24162-090016
@@ -43,6 +44,7 @@ employer_postal_code           | 08540
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23041-767101
@@ -66,6 +68,7 @@ employer_postal_code           | 75080
 begin_date                     | 2/17/2023
 end_date                       | 2/16/2026
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 4 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22026-855135
@@ -89,6 +92,7 @@ employer_postal_code           | 07054
 begin_date                     | 1/26/2022
 end_date                       | 1/25/2024
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22242-446083
@@ -112,6 +116,7 @@ employer_postal_code           | 75038
 begin_date                     | 9/7/2022
 end_date                       | 9/6/2025
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25106-870192
@@ -135,6 +140,7 @@ employer_postal_code           | 08540
 begin_date                     | 4/23/2025
 end_date                       | 4/22/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23108-943708
@@ -158,6 +164,7 @@ employer_postal_code           | 08540
 begin_date                     | 4/25/2023
 end_date                       | 4/24/2026
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | No
 -[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24354-559643
@@ -181,6 +188,7 @@ employer_postal_code           | 08540
 begin_date                     | 12/26/2024
 end_date                       | 12/25/2027
 total_worker_positions         | 1
+soc_code                       | 15-1211
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22034-876548
@@ -204,31 +212,9 @@ employer_postal_code           | 08540
 begin_date                     | 2/25/2022
 end_date                       | 2/24/2025
 total_worker_positions         | 1
+soc_code                       | 15-1121.00
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22053-919157
-job_title                      | Java Full Stack Developer
-employer_name                  | Conflux Systems Inc
-secondary_entity_business_name | New Hampshire Department of Information Technology
-employer_poc_email             | immigration@confluxsystems.com
-employer_poc_phone             | 19727829648
-employer_poc_first_name        | Raghavendra
-employer_poc_last_name         | Konduru
-worksite_address1              | 33 Hazen Dr
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | International Legal And Business Services Group LLP
-employer_address1              | 11539 Park Woods Circle
-employer_address2              | Suite 302
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 2/22/2022
-end_date                       | 2/21/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22060-939267
 job_title                      | Java Full Stack Developer
 employer_name                  | Conflux Systems Inc
@@ -250,31 +236,9 @@ employer_postal_code           | 30005
 begin_date                     | 3/1/2022
 end_date                       | 2/28/2025
 total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22061-943312
-job_title                      | Java Full stack Developer
-employer_name                  | Conflux Systems Inc
-secondary_entity_business_name | New Hampshire Department of Information Technology
-employer_poc_email             | immigration@confluxsystems.com
-employer_poc_phone             | 16783199818
-employer_poc_first_name        | Raghavendra
-employer_poc_last_name         | Konduru
-worksite_address1              | 33 Hazen Dr
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | 
-employer_address1              | 11539 Park Woods Circle
-employer_address2              | Suite 302
-employer_city                  | Atlanta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 3/3/2022
-end_date                       | 3/2/2025
-total_worker_positions         | 1
-h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24263-350960
 job_title                      | Java Full Stack Developer
 employer_name                  | Conflux Systems Inc
@@ -296,8 +260,9 @@ employer_postal_code           | 30005
 begin_date                     | 9/27/2024
 end_date                       | 9/26/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24263-350750
 job_title                      | Java Full Stack Developer
 employer_name                  | Conflux Systems Inc
@@ -319,6 +284,55 @@ employer_postal_code           | 30005
 begin_date                     | 9/27/2024
 end_date                       | 9/26/2027
 total_worker_positions         | 1
+soc_code                       | 15-1251.00
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22061-943312
+job_title                      | Java Full stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 16783199818
+employer_poc_first_name        | Raghavendra
+employer_poc_last_name         | Konduru
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Atlanta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 3/3/2022
+end_date                       | 3/2/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22053-919157
+job_title                      | Java Full Stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 19727829648
+employer_poc_first_name        | Raghavendra
+employer_poc_last_name         | Konduru
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | International Legal And Business Services Group LLP
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 2/22/2022
+end_date                       | 2/21/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 15 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25028-649092
@@ -342,6 +356,7 @@ employer_postal_code           | 07921
 begin_date                     | 2/4/2025
 end_date                       | 2/3/2028
 total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 16 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25154-044593
@@ -365,6 +380,7 @@ employer_postal_code           | 07921
 begin_date                     | 6/18/2025
 end_date                       | 6/17/2028
 total_worker_positions         | 1
+soc_code                       | 15-1251
 h_1b_dependent                 | Yes
 -[ RECORD 17 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22132-167093
@@ -388,6 +404,7 @@ employer_postal_code           | 08854
 begin_date                     | 5/23/2022
 end_date                       | 5/22/2025
 total_worker_positions         | 1
+soc_code                       | 15-1133.00
 h_1b_dependent                 | Yes
 -[ RECORD 18 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22064-953853
@@ -411,6 +428,7 @@ employer_postal_code           | 48334
 begin_date                     | 3/4/2022
 end_date                       | 9/30/2024
 total_worker_positions         | 1
+soc_code                       | 15-1142.00
 h_1b_dependent                 | Yes
 -[ RECORD 19 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24079-813815
@@ -434,6 +452,7 @@ employer_postal_code           | 08536
 begin_date                     | 3/25/2024
 end_date                       | 3/24/2027
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 20 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23066-830487
@@ -457,6 +476,7 @@ employer_postal_code           | 38138
 begin_date                     | 3/13/2023
 end_date                       | 3/12/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22171-297781
@@ -480,6 +500,7 @@ employer_postal_code           | 15317
 begin_date                     | 10/30/2022
 end_date                       | 10/29/2025
 total_worker_positions         | 1
+soc_code                       | 15-1121.00
 h_1b_dependent                 | Yes
 -[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22133-170753
@@ -503,6 +524,7 @@ employer_postal_code           | 15317
 begin_date                     | 5/13/2022
 end_date                       | 5/12/2025
 total_worker_positions         | 1
+soc_code                       | 15-1121.00
 h_1b_dependent                 | Yes
 -[ RECORD 23 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24285-401585
@@ -526,6 +548,7 @@ employer_postal_code           | 08540
 begin_date                     | 2/25/2025
 end_date                       | 2/24/2028
 total_worker_positions         | 1
+soc_code                       | 15-1211
 h_1b_dependent                 | Yes
 -[ RECORD 24 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22361-661861
@@ -549,6 +572,7 @@ employer_postal_code           | 08540
 begin_date                     | 5/25/2023
 end_date                       | 5/24/2026
 total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 25 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23255-338797
@@ -572,6 +596,7 @@ employer_postal_code           | 48084
 begin_date                     | 9/19/2023
 end_date                       | 9/18/2026
 total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 26 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24193-190544
@@ -595,6 +620,7 @@ employer_postal_code           | 48334
 begin_date                     | 8/5/2024
 end_date                       | 8/4/2027
 total_worker_positions         | 1
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 27 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-20119-524883
@@ -618,6 +644,7 @@ employer_postal_code           | 03301
 begin_date                     | 5/4/2020
 end_date                       | 5/3/2023
 total_worker_positions         | 1
+soc_code                       | 11-9111.00
 h_1b_dependent                 | No
 -[ RECORD 28 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25160-070679
@@ -641,31 +668,9 @@ employer_postal_code           | 03301
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-1299.01
 h_1b_dependent                 | No
 -[ RECORD 29 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25140-997307
-job_title                      | COMP & INFORMATION ANALYST 4
-employer_name                  | State of New Hampshire, Department of Administrative Services,
-secondary_entity_business_name | 
-employer_poc_email             | james.a.shepard@das.nh.gov
-employer_poc_phone             | 16032713088
-employer_poc_first_name        | James
-employer_poc_last_name         | Shepard
-worksite_address1              | 105 Pleasant St.
-worksite_address2              | 3rd Floor, Office 302C
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | Fisher & Phillips LLP
-employer_address1              | 105 Pleasant St.
-employer_address2              | 3rd Floor, Office 302C
-employer_city                  | Concord
-employer_state                 | NH
-employer_postal_code           | 03301
-begin_date                     | 10/1/2025
-end_date                       | 9/30/2028
-total_worker_positions         | 1
-h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25147-020586
 job_title                      | COMP & INFORMATION ANALYST 4
 employer_name                  | State of New Hampshire, Department of Administrative Services,
@@ -687,6 +692,31 @@ employer_postal_code           | 03301
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-1299.01
+h_1b_dependent                 | No
+-[ RECORD 30 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25140-997307
+job_title                      | COMP & INFORMATION ANALYST 4
+employer_name                  | State of New Hampshire, Department of Administrative Services,
+secondary_entity_business_name | 
+employer_poc_email             | james.a.shepard@das.nh.gov
+employer_poc_phone             | 16032713088
+employer_poc_first_name        | James
+employer_poc_last_name         | Shepard
+worksite_address1              | 105 Pleasant St.
+worksite_address2              | 3rd Floor, Office 302C
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 105 Pleasant St.
+employer_address2              | 3rd Floor, Office 302C
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+soc_code                       | 15-1299.01
 h_1b_dependent                 | No
 -[ RECORD 31 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25147-020471
@@ -710,6 +740,7 @@ employer_postal_code           | 03301
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-1299.01
 h_1b_dependent                 | No
 -[ RECORD 32 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25147-020692
@@ -733,6 +764,7 @@ employer_postal_code           | 03305
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 17-1021
 h_1b_dependent                 | No
 -[ RECORD 33 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25119-915879
@@ -756,5 +788,6 @@ employer_postal_code           | 03301
 begin_date                     | 10/1/2025
 end_date                       | 9/30/2028
 total_worker_positions         | 1
+soc_code                       | 15-2031
 h_1b_dependent                 | No
 
