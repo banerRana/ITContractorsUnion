@@ -32,7 +32,7 @@ TOTAL_WORKER_POSITIONS,
 SOC_CODE,
 H_1B_DEPENDENT
 
-from LCA_Disclosure_Data_2022To2025Q3
+from LCA_Disclosure_Data_2022To2025Q4
 
 where
 (

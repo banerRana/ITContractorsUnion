@@ -31,11 +31,11 @@ do
 	sanitize_data
 
 	echo Loading Data From $f
-	mariadb test -e "load data local infile '"load.csv"' into table LCA_Disclosure_Data_2022To2025Q3 fields TERMINATED BY ',' ENCLOSED BY '\"' IGNORE 1 LINES;"
+	mariadb test -e "load data local infile '"load.csv"' into table LCA_Disclosure_Data_2022To2025Q4 fields TERMINATED BY ',' ENCLOSED BY '\"' IGNORE 1 LINES;"
 done
 
-mariadb test -e "alter table LCA_Disclosure_Data_2022To2025Q3 add column EMPLOYER_FEIN text AFTER EMPLOYER_PHONE_EXT;"
-mariadb test -e "update LCA_Disclosure_Data_2022To2025Q3 set EMPLOYER_FEIN = 'N/A';"
+mariadb test -e "alter table LCA_Disclosure_Data_2022To2025Q4 add column EMPLOYER_FEIN text AFTER EMPLOYER_PHONE_EXT;"
+mariadb test -e "update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_FEIN = 'N/A';"
 
 for f in ../Data/LCA_Disclosure_Data_FY202{4,5}*
 do
@@ -44,18 +44,18 @@ do
 	sanitize_data
 
 	echo Loading Data From $f
-	mariadb test -e "load data local infile '"load.csv"' into table LCA_Disclosure_Data_2022To2025Q3 fields TERMINATED BY ',' ENCLOSED BY '\"' IGNORE 1 LINES;"
+	mariadb test -e "load data local infile '"load.csv"' into table LCA_Disclosure_Data_2022To2025Q4 fields TERMINATED BY ',' ENCLOSED BY '\"' IGNORE 1 LINES;"
 done
 
-echo Sanitizing Data In LCA_Disclosure_Data_2022To2025Q3 Table
+echo Sanitizing Data In LCA_Disclosure_Data_2022To2025Q4 Table
 mariadb test < Sanitize_Data.sql
 
-echo Normalizing Data In LCA_Disclosure_Data_2022To2025Q3 Table
+echo Normalizing Data In LCA_Disclosure_Data_2022To2025Q4 Table
 mariadb test < Normalize_Data.sql
 
 echo "Removing Bad Records And Saving To Bad_Records.txt"
-mariadb test -e "select * from LCA_Disclosure_Data_2022To2025Q3 where EMPLOYER_NAME = '' \G;" > Bad_Records.txt
-mariadb test -e "DELETE FROM LCA_Disclosure_Data_2022To2025Q3 WHERE EMPLOYER_NAME = '';"
+mariadb test -e "select * from LCA_Disclosure_Data_2022To2025Q4 where EMPLOYER_NAME = '' \G;" > Bad_Records.txt
+mariadb test -e "DELETE FROM LCA_Disclosure_Data_2022To2025Q4 WHERE EMPLOYER_NAME = '';"
 
 rm load.csv
 rm -f sed??????
