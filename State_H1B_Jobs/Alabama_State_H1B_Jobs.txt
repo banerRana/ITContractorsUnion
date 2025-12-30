@@ -47,6 +47,30 @@ total_worker_positions         | 1
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-203-25044-692131
+job_title                      | SR. APPLICATION DEVELOPER
+employer_name                  | HCL GLOBAL SYSTEMS INC
+secondary_entity_business_name | ALABAMA DEPARTMENT OF PUBLIC HEALTH
+employer_poc_email             | GADDE@HCLGLOBAL.COM
+employer_poc_phone             | 12484730720
+employer_poc_first_name        | DURGA PRASAD
+employer_poc_last_name         | GADDE
+worksite_address1              | 201 MONROE STREET
+worksite_address2              | SUITE 1500
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 24543 INDOPLEX CIRCLE
+employer_address2              | SUITE 220
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 8/15/2025
+end_date                       | 8/14/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | N/A
+-[ RECORD 4 ]------------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-203-22224-414135
 job_title                      | SR. APPLICATION DEVELOPER
 employer_name                  | HCL GLOBAL SYSTEMS INC
@@ -70,7 +94,7 @@ end_date                       | 11/2/2024
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | N/A
--[ RECORD 4 ]------------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 5 ]------------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-203-25037-673085
 job_title                      | SR. APPLICATION DEVELOPER
 employer_name                  | HCL GLOBAL SYSTEMS INC
@@ -91,30 +115,6 @@ employer_state                 | MI
 employer_postal_code           | 48335
 begin_date                     | 8/8/2025
 end_date                       | 8/7/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | N/A
--[ RECORD 5 ]------------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-203-25044-692131
-job_title                      | SR. APPLICATION DEVELOPER
-employer_name                  | HCL GLOBAL SYSTEMS INC
-secondary_entity_business_name | ALABAMA DEPARTMENT OF PUBLIC HEALTH
-employer_poc_email             | GADDE@HCLGLOBAL.COM
-employer_poc_phone             | 12484730720
-employer_poc_first_name        | DURGA PRASAD
-employer_poc_last_name         | GADDE
-worksite_address1              | 201 MONROE STREET
-worksite_address2              | SUITE 1500
-worksite_city                  | MONTGOMERY
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 24543 INDOPLEX CIRCLE
-employer_address2              | SUITE 220
-employer_city                  | FARMINGTON HILLS
-employer_state                 | MI
-employer_postal_code           | 48335
-begin_date                     | 8/15/2025
-end_date                       | 8/14/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | N/A
@@ -719,30 +719,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 31 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24053-741493
-job_title                      | Software Developer
-employer_name                  | Kiranam Technologies Inc
-secondary_entity_business_name | Alabama Department of Public Health
-employer_poc_email             | ImmigrationOps@kiranam.com
-employer_poc_phone             | 19726249864
-employer_poc_first_name        | Sravya
-employer_poc_last_name         | Sriyapureddy
-worksite_address1              | 204 Legends Court
-worksite_address2              | 
-worksite_city                  | Prattville
-worksite_county                | AUTAUGA
-lawfirm_name_business_name     | 
-employer_address1              | 196 Southwestern Blvd
-employer_address2              | 
-employer_city                  | Coppell
-employer_state                 | TX
-employer_postal_code           | 75019
-begin_date                     | 3/18/2024
-end_date                       | 3/18/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 32 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24275-378652
 job_title                      | Software Developer
 employer_name                  | Kiranam Technologies Inc
@@ -765,6 +741,30 @@ begin_date                     | 11/4/2024
 end_date                       | 11/4/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 32 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24053-741493
+job_title                      | Software Developer
+employer_name                  | Kiranam Technologies Inc
+secondary_entity_business_name | Alabama Department of Public Health
+employer_poc_email             | ImmigrationOps@kiranam.com
+employer_poc_phone             | 19726249864
+employer_poc_first_name        | Sravya
+employer_poc_last_name         | Sriyapureddy
+worksite_address1              | 204 Legends Court
+worksite_address2              | 
+worksite_city                  | Prattville
+worksite_county                | AUTAUGA
+lawfirm_name_business_name     | 
+employer_address1              | 196 Southwestern Blvd
+employer_address2              | 
+employer_city                  | Coppell
+employer_state                 | TX
+employer_postal_code           | 75019
+begin_date                     | 3/18/2024
+end_date                       | 3/18/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 33 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25134-976523
@@ -1127,7 +1127,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 48 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22333-610886
+case_number                    | I-200-22328-605903
 job_title                      | Senior Business Analyst
 employer_name                  | Amensys Inc
 secondary_entity_business_name | Alabama Medicaid Agency (State of Alabama)
@@ -1136,7 +1136,7 @@ employer_poc_phone             | 19728019970
 employer_poc_first_name        | Anuradha
 employer_poc_last_name         | Puligundla
 worksite_address1              | 501 Dexter Ave
-worksite_address2              | Suite 8050
+worksite_address2              | Room  5058
 worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
 lawfirm_name_business_name     | Chugh, LLP
@@ -1151,7 +1151,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 49 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22328-605903
+case_number                    | I-200-22333-610886
 job_title                      | Senior Business Analyst
 employer_name                  | Amensys Inc
 secondary_entity_business_name | Alabama Medicaid Agency (State of Alabama)
@@ -1160,7 +1160,7 @@ employer_poc_phone             | 19728019970
 employer_poc_first_name        | Anuradha
 employer_poc_last_name         | Puligundla
 worksite_address1              | 501 Dexter Ave
-worksite_address2              | Room  5058
+worksite_address2              | Suite 8050
 worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
 lawfirm_name_business_name     | Chugh, LLP
@@ -1223,30 +1223,6 @@ total_worker_positions         | 1
 soc_code                       | 15-2051.01
 h_1b_dependent                 | No
 -[ RECORD 52 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23236-291166
-job_title                      | Software Developer
-employer_name                  | LORSHI SYSTEMS LLC
-secondary_entity_business_name | Department of Human Resources- State of Alabama
-employer_poc_email             | tanuja@lorshi.com
-employer_poc_phone             | 19139573039
-employer_poc_first_name        | Tanuja
-employer_poc_last_name         | BANDI
-worksite_address1              | 64 N Union St
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | BAY LAW FIRM, PLLC
-employer_address1              | 24600 Millstream Dr
-employer_address2              | SUITE 455
-employer_city                  | Aldie
-employer_state                 | VA
-employer_postal_code           | 20105
-begin_date                     | 8/30/2023
-end_date                       | 8/29/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 53 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23249-325791
 job_title                      | Software Developer
 employer_name                  | LORSHI SYSTEMS LLC
@@ -1267,6 +1243,30 @@ employer_state                 | VA
 employer_postal_code           | 20105
 begin_date                     | 2/15/2024
 end_date                       | 2/14/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 53 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23236-291166
+job_title                      | Software Developer
+employer_name                  | LORSHI SYSTEMS LLC
+secondary_entity_business_name | Department of Human Resources- State of Alabama
+employer_poc_email             | tanuja@lorshi.com
+employer_poc_phone             | 19139573039
+employer_poc_first_name        | Tanuja
+employer_poc_last_name         | BANDI
+worksite_address1              | 64 N Union St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | BAY LAW FIRM, PLLC
+employer_address1              | 24600 Millstream Dr
+employer_address2              | SUITE 455
+employer_city                  | Aldie
+employer_state                 | VA
+employer_postal_code           | 20105
+begin_date                     | 8/30/2023
+end_date                       | 8/29/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -1511,30 +1511,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 64 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23241-304918
-job_title                      | SERVICENOW DEVELOPER
-employer_name                  | Saion Solutions Inc
-secondary_entity_business_name | STATE OF ALABAMA MEDICAID
-employer_poc_email             | hr@saionsolutions.com
-employer_poc_phone             | 19728024161
-employer_poc_first_name        | Vardhani
-employer_poc_last_name         | Byagari
-worksite_address1              | 501 DEXTER AVENUE
-worksite_address2              | 
-worksite_city                  | MONTGOMERY
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 3740 N Josey Lane Ste 225
-employer_address2              | 
-employer_city                  | Carrollton
-employer_state                 | TX
-employer_postal_code           | 75007
-begin_date                     | 9/1/2023
-end_date                       | 8/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 65 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23087-882748
 job_title                      | SERVICENOW DEVELOPER
 employer_name                  | Saion Solutions Inc
@@ -1555,6 +1531,30 @@ employer_state                 | TX
 employer_postal_code           | 75007
 begin_date                     | 4/3/2023
 end_date                       | 3/31/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 65 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23241-304918
+job_title                      | SERVICENOW DEVELOPER
+employer_name                  | Saion Solutions Inc
+secondary_entity_business_name | STATE OF ALABAMA MEDICAID
+employer_poc_email             | hr@saionsolutions.com
+employer_poc_phone             | 19728024161
+employer_poc_first_name        | Vardhani
+employer_poc_last_name         | Byagari
+worksite_address1              | 501 DEXTER AVENUE
+worksite_address2              | 
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 3740 N Josey Lane Ste 225
+employer_address2              | 
+employer_city                  | Carrollton
+employer_state                 | TX
+employer_postal_code           | 75007
+begin_date                     | 9/1/2023
+end_date                       | 8/30/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
@@ -1871,30 +1871,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 79 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23295-448618
-job_title                      | Business Analyst
-employer_name                  | Regal IT Services Inc
-secondary_entity_business_name | State of ALABAMA
-employer_poc_email             | hr@regalitservices.com
-employer_poc_phone             | 18322661599
-employer_poc_first_name        | Maliza
-employer_poc_last_name         | Flores
-worksite_address1              | 501 Dexter Ave
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 633 E Fernhurst Dr
-employer_address2              | Ste 904
-employer_city                  | Katy
-employer_state                 | TX
-employer_postal_code           | 77450
-begin_date                     | 10/23/2023
-end_date                       | 10/22/2026
-total_worker_positions         | 1
-soc_code                       | 15-2051.01
-h_1b_dependent                 | Yes
--[ RECORD 80 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23295-448621
 job_title                      | Business Analyst
 employer_name                  | Regal IT Services Inc
@@ -1918,31 +1894,31 @@ end_date                       | 10/22/2026
 total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 81 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23146-057548
-job_title                      | Software Developer
-employer_name                  | Antra Inc
-secondary_entity_business_name | State of Alabama
-employer_poc_email             | renee.gustafson@antra.com
-employer_poc_phone             | 17038441401
-employer_poc_first_name        | Renee
-employer_poc_last_name         | Gustafson
-worksite_address1              | 2715 Gunter Park Drive West
+-[ RECORD 80 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23295-448618
+job_title                      | Business Analyst
+employer_name                  | Regal IT Services Inc
+secondary_entity_business_name | State of ALABAMA
+employer_poc_email             | hr@regalitservices.com
+employer_poc_phone             | 18322661599
+employer_poc_first_name        | Maliza
+employer_poc_last_name         | Flores
+worksite_address1              | 501 Dexter Ave
 worksite_address2              | 
 worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
 lawfirm_name_business_name     | 
-employer_address1              | 21000 Atlantic Boulevard
-employer_address2              | Suite 300
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20166
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
+employer_address1              | 633 E Fernhurst Dr
+employer_address2              | Ste 904
+employer_city                  | Katy
+employer_state                 | TX
+employer_postal_code           | 77450
+begin_date                     | 10/23/2023
+end_date                       | 10/22/2026
 total_worker_positions         | 1
-soc_code                       | 15-1252.00
+soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 82 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 81 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23146-057015
 job_title                      | Application Developer
 employer_name                  | Antra Inc
@@ -1957,6 +1933,30 @@ worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
 lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
 employer_address1              | 21000 Atlantic Blvd
+employer_address2              | Suite 300
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20166
+begin_date                     | 10/1/2023
+end_date                       | 9/30/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 82 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23146-057548
+job_title                      | Software Developer
+employer_name                  | Antra Inc
+secondary_entity_business_name | State of Alabama
+employer_poc_email             | renee.gustafson@antra.com
+employer_poc_phone             | 17038441401
+employer_poc_first_name        | Renee
+employer_poc_last_name         | Gustafson
+worksite_address1              | 2715 Gunter Park Drive West
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 21000 Atlantic Boulevard
 employer_address2              | Suite 300
 employer_city                  | Sterling
 employer_state                 | VA
@@ -2183,54 +2183,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 92 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24129-970530
-job_title                      | Business Analyst
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-secondary_entity_business_name | State of Alabama
-employer_poc_email             | olivia.chien@sstech.us
-employer_poc_phone             | 17038707407
-employer_poc_first_name        | Tzu-Hui
-employer_poc_last_name         | Chien
-worksite_address1              | 201 Monroe Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 2551 DULLES VIEW DRIVE
-employer_address2              | SUITE 350
-employer_city                  | HERNDON
-employer_state                 | VA
-employer_postal_code           | 20171
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-2031.00
-h_1b_dependent                 | Yes
--[ RECORD 93 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24114-916782
-job_title                      | Sr. Software Developer
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-secondary_entity_business_name | State of Alabama
-employer_poc_email             | olivia.chien@sstech.us
-employer_poc_phone             | 17038707407
-employer_poc_first_name        | Tzu-Hui
-employer_poc_last_name         | Chien
-worksite_address1              | 50 North Ripley Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 2551 DULLES VIEW DRIVE
-employer_address2              | SUITE 350
-employer_city                  | HERNDON
-employer_state                 | VA
-employer_postal_code           | 20171
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 94 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21271-610331
 job_title                      | Software Developer
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
@@ -2254,7 +2206,31 @@ end_date                       | 3/17/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 95 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 93 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24129-970530
+job_title                      | Business Analyst
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
+secondary_entity_business_name | State of Alabama
+employer_poc_email             | olivia.chien@sstech.us
+employer_poc_phone             | 17038707407
+employer_poc_first_name        | Tzu-Hui
+employer_poc_last_name         | Chien
+worksite_address1              | 201 Monroe Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 2551 DULLES VIEW DRIVE
+employer_address2              | SUITE 350
+employer_city                  | HERNDON
+employer_state                 | VA
+employer_postal_code           | 20171
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-2031.00
+h_1b_dependent                 | Yes
+-[ RECORD 94 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24026-671447
 job_title                      | Software Developer
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
@@ -2275,6 +2251,30 @@ employer_state                 | VA
 employer_postal_code           | 20171
 begin_date                     | 2/5/2024
 end_date                       | 2/4/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 95 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24114-916782
+job_title                      | Sr. Software Developer
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
+secondary_entity_business_name | State of Alabama
+employer_poc_email             | olivia.chien@sstech.us
+employer_poc_phone             | 17038707407
+employer_poc_first_name        | Tzu-Hui
+employer_poc_last_name         | Chien
+worksite_address1              | 50 North Ripley Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 2551 DULLES VIEW DRIVE
+employer_address2              | SUITE 350
+employer_city                  | HERNDON
+employer_state                 | VA
+employer_postal_code           | 20171
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -2351,30 +2351,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
 -[ RECORD 99 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24010-630926
-job_title                      | Software Quality Assurance Analyst
-employer_name                  | COMPUNNEL SOFTWARE GROUP INC
-secondary_entity_business_name | State of Alabama (Alabama Medicaid Agency)
-employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
-employer_poc_phone             | 16096069010
-employer_poc_first_name        | STEVE
-employer_poc_last_name         | MONTELEONE
-worksite_address1              | 501 Dexter Ave
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 103 MORGAN LANE
-employer_address2              | SUITE 102
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 1/17/2024
-end_date                       | 1/16/2027
-total_worker_positions         | 1
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 100 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25087-809893
 job_title                      | Software Quality Assurance Analyst
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -2398,9 +2374,33 @@ end_date                       | 5/31/2028
 total_worker_positions         | 1
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
+-[ RECORD 100 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24010-630926
+job_title                      | Software Quality Assurance Analyst
+employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+secondary_entity_business_name | State of Alabama (Alabama Medicaid Agency)
+employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
+employer_poc_phone             | 16096069010
+employer_poc_first_name        | STEVE
+employer_poc_last_name         | MONTELEONE
+worksite_address1              | 501 Dexter Ave
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 103 MORGAN LANE
+employer_address2              | SUITE 102
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 1/17/2024
+end_date                       | 1/16/2027
+total_worker_positions         | 1
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
 -[ RECORD 101 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23109-946195
-job_title                      | Applications Development Analyst
+case_number                    | I-200-23109-948247
+job_title                      | Software Developer
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 secondary_entity_business_name | State of Alabama (Department of Labor)
 employer_poc_email             | madhavi.samudrala@sstech.us
@@ -2423,8 +2423,8 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 102 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23109-948247
-job_title                      | Software Developer
+case_number                    | I-200-23109-946195
+job_title                      | Applications Development Analyst
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 secondary_entity_business_name | State of Alabama (Department of Labor)
 employer_poc_email             | madhavi.samudrala@sstech.us
@@ -2903,30 +2903,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 122 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22307-567957
-job_title                      | SAP Business Objects Developer
-employer_name                  | Graviton Solutions Inc
-secondary_entity_business_name | State of Alabama, Department of finance, State Business Systems Division
-employer_poc_email             | lakshmi.sunkara@gravitonsolutions.com
-employer_poc_phone             | 19729839016
-employer_poc_first_name        | Lakshmi
-employer_poc_last_name         | Sunkara
-worksite_address1              | 100 North Union Street
-worksite_address2              | Suite 500
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | THE LAW FIRM OF SIM, PARVATHANENI AND BROWN PLLC
-employer_address1              | 2410 Luna Road
-employer_address2              | Suit 232
-employer_city                  | Carrollton
-employer_state                 | TX
-employer_postal_code           | 75006
-begin_date                     | 11/9/2022
-end_date                       | 11/8/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 123 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22255-467176
 job_title                      | SAP Business objects Developer
 employer_name                  | Graviton Solutions Inc
@@ -2947,6 +2923,30 @@ employer_state                 | TX
 employer_postal_code           | 75006
 begin_date                     | 9/17/2022
 end_date                       | 9/16/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 123 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22307-567957
+job_title                      | SAP Business Objects Developer
+employer_name                  | Graviton Solutions Inc
+secondary_entity_business_name | State of Alabama, Department of finance, State Business Systems Division
+employer_poc_email             | lakshmi.sunkara@gravitonsolutions.com
+employer_poc_phone             | 19729839016
+employer_poc_first_name        | Lakshmi
+employer_poc_last_name         | Sunkara
+worksite_address1              | 100 North Union Street
+worksite_address2              | Suite 500
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | THE LAW FIRM OF SIM, PARVATHANENI AND BROWN PLLC
+employer_address1              | 2410 Luna Road
+employer_address2              | Suit 232
+employer_city                  | Carrollton
+employer_state                 | TX
+employer_postal_code           | 75006
+begin_date                     | 11/9/2022
+end_date                       | 11/8/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -3071,12 +3071,12 @@ total_worker_positions         | 1
 soc_code                       | 21-1015.00
 h_1b_dependent                 | No
 -[ RECORD 129 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22251-461387
-job_title                      | Assistant Professor
+case_number                    | I-200-23073-846339
+job_title                      | Assistant Athletic Trainer
 employer_name                  | Alabama State University
 secondary_entity_business_name | 
 employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13312294667
+employer_poc_phone             | 13342294667
 employer_poc_first_name        | Renae
 employer_poc_last_name         | Daniel
 worksite_address1              | 915 South Jackson Street
@@ -3084,15 +3084,15 @@ worksite_address2              |
 worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
 lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
+employer_address1              | 915 South Jackson Streety
 employer_address2              | 
 employer_city                  | Montgomery
 employer_state                 | AL
 employer_postal_code           | 36101
-begin_date                     | 1/1/2023
-end_date                       | 12/31/2025
+begin_date                     | 6/1/2023
+end_date                       | 5/31/2026
 total_worker_positions         | 1
-soc_code                       | 25-1063.00
+soc_code                       | 29-9091.00
 h_1b_dependent                 | No
 -[ RECORD 130 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24136-998375
@@ -3119,126 +3119,6 @@ total_worker_positions         | 1
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 131 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22251-461233
-job_title                      | Assistant Professor
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 South Jackson Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 9/27/2022
-end_date                       | 9/26/2025
-total_worker_positions         | 1
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 132 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25148-024501
-job_title                      | Assistant Professor
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13312294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 South Jackson Street
-worksite_address2              | PO Box 271
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 8/1/2025
-end_date                       | 7/31/2028
-total_worker_positions         | 1
-soc_code                       | 25-1063
-h_1b_dependent                 | No
--[ RECORD 133 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25149-029408
-job_title                      | Assistant Professor of Computer Science
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Quinton
-employer_poc_last_name         | Ross, Jr.
-worksite_address1              | 915 South Jackson Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | PO Box 271
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36104
-begin_date                     | 8/1/2025
-end_date                       | 7/31/2028
-total_worker_positions         | 2
-soc_code                       | 25-1021
-h_1b_dependent                 | No
--[ RECORD 134 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22153-235397
-job_title                      | Assistant Professor of Biology
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 S Jackson Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 S Jackson Street
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 8/1/2022
-end_date                       | 7/31/2025
-total_worker_positions         | 1
-soc_code                       | 25-1042.00
-h_1b_dependent                 | No
--[ RECORD 135 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23152-068585
-job_title                      | Assistant Professor
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13312294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 South Jackson Street
-worksite_address2              | P O Box 271
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 8/1/2023
-end_date                       | 7/31/2026
-total_worker_positions         | 2
-soc_code                       | 25-1063.00
-h_1b_dependent                 | No
--[ RECORD 136 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22215-393554
 job_title                      | Postdoctoral Research Associate
 employer_name                  | Alabama State University
@@ -3262,152 +3142,8 @@ end_date                       | 8/31/2025
 total_worker_positions         | 1
 soc_code                       | 19-4021.00
 h_1b_dependent                 | No
--[ RECORD 137 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22153-235326
-job_title                      | Assistant Professor of Biology
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 S Jackson Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | P O Box 271
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 8/1/2022
-end_date                       | 7/31/2024
-total_worker_positions         | 1
-soc_code                       | 25-1042.00
-h_1b_dependent                 | No
--[ RECORD 138 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25125-936854
-job_title                      | Assistant Professor of Microbiology
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Quinton
-employer_poc_last_name         | Ross, Jr
-worksite_address1              | 915  South Jackson Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | PO Box 271
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36104
-begin_date                     | 9/1/2025
-end_date                       | 8/31/2028
-total_worker_positions         | 1
-soc_code                       | 25-1042
-h_1b_dependent                 | No
--[ RECORD 139 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22048-910025
-job_title                      | Network Engineer
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 S Jackson Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 4/1/2022
-end_date                       | 3/31/2025
-total_worker_positions         | 1
-soc_code                       | 15-1199.02
-h_1b_dependent                 | No
--[ RECORD 140 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25055-718864
-job_title                      | Assistant Professor of Biomedical Engineering
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 South Jackson
-worksite_address2              | P. O. Box 271
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 8/1/2025
-end_date                       | 7/31/2028
-total_worker_positions         | 1
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 141 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24221-253984
-job_title                      | Assistant Professor of Computer Information Systems
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 South Jackson Street
-worksite_address2              | P. O. Box 271
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | P. O. Box 271
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36104
-begin_date                     | 12/14/2024
-end_date                       | 12/13/2027
-total_worker_positions         | 1
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 142 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23319-503030
-job_title                      | Biomedical Engineering Research Associate
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 South Jackson Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 1/1/2024
-end_date                       | 12/31/2026
-total_worker_positions         | 1
-soc_code                       | 17-2031.00
-h_1b_dependent                 | No
--[ RECORD 143 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24180-158496
+-[ RECORD 132 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22251-461233
 job_title                      | Assistant Professor
 employer_name                  | Alabama State University
 secondary_entity_business_name | 
@@ -3425,42 +3161,18 @@ employer_address2              |
 employer_city                  | Montgomery
 employer_state                 | AL
 employer_postal_code           | 36101
-begin_date                     | 8/1/2024
-end_date                       | 7/31/2027
+begin_date                     | 9/27/2022
+end_date                       | 9/26/2025
 total_worker_positions         | 1
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
--[ RECORD 144 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23073-846339
-job_title                      | Assistant Athletic Trainer
+-[ RECORD 133 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22251-461387
+job_title                      | Assistant Professor
 employer_name                  | Alabama State University
 secondary_entity_business_name | 
 employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 South Jackson Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Streety
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 6/1/2023
-end_date                       | 5/31/2026
-total_worker_positions         | 1
-soc_code                       | 29-9091.00
-h_1b_dependent                 | No
--[ RECORD 145 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22168-292018
-job_title                      | Assistant Professor of Biomedical Engineering
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
+employer_poc_phone             | 13312294667
 employer_poc_first_name        | Renae
 employer_poc_last_name         | Daniel
 worksite_address1              | 915 South Jackson Street
@@ -3473,36 +3185,12 @@ employer_address2              |
 employer_city                  | Montgomery
 employer_state                 | AL
 employer_postal_code           | 36101
-begin_date                     | 8/1/2022
-end_date                       | 7/30/2025
-total_worker_positions         | 1
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 146 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22202-367709
-job_title                      | Assistant Professorr of Economics
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-worksite_address1              | 915 S Jackson Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 S Jackson Street
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
 begin_date                     | 1/1/2023
 end_date                       | 12/31/2025
 total_worker_positions         | 1
 soc_code                       | 25-1063.00
 h_1b_dependent                 | No
--[ RECORD 147 ]----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 134 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21306-682581
 job_title                      | Assistant Professor
 employer_name                  | Alabama State University
@@ -3526,13 +3214,133 @@ end_date                       | 9/27/2022
 total_worker_positions         | 1
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
--[ RECORD 148 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23122-985310
-job_title                      | Data Science Analyst
+-[ RECORD 135 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23319-503030
+job_title                      | Biomedical Engineering Research Associate
 employer_name                  | Alabama State University
 secondary_entity_business_name | 
 employer_poc_email             | rdaniel@alasu.edu
 employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 South Jackson Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | 
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 1/1/2024
+end_date                       | 12/31/2026
+total_worker_positions         | 1
+soc_code                       | 17-2031.00
+h_1b_dependent                 | No
+-[ RECORD 136 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22202-367709
+job_title                      | Assistant Professorr of Economics
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 S Jackson Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 S Jackson Street
+employer_address2              | 
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 1/1/2023
+end_date                       | 12/31/2025
+total_worker_positions         | 1
+soc_code                       | 25-1063.00
+h_1b_dependent                 | No
+-[ RECORD 137 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25149-029408
+job_title                      | Assistant Professor of Computer Science
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Quinton
+employer_poc_last_name         | Ross, Jr.
+worksite_address1              | 915 South Jackson Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | PO Box 271
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36104
+begin_date                     | 8/1/2025
+end_date                       | 7/31/2028
+total_worker_positions         | 2
+soc_code                       | 25-1021
+h_1b_dependent                 | No
+-[ RECORD 138 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24221-253984
+job_title                      | Assistant Professor of Computer Information Systems
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 South Jackson Street
+worksite_address2              | P. O. Box 271
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | P. O. Box 271
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36104
+begin_date                     | 12/14/2024
+end_date                       | 12/13/2027
+total_worker_positions         | 1
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 139 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25125-936854
+job_title                      | Assistant Professor of Microbiology
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Quinton
+employer_poc_last_name         | Ross, Jr
+worksite_address1              | 915  South Jackson Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | PO Box 271
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36104
+begin_date                     | 9/1/2025
+end_date                       | 8/31/2028
+total_worker_positions         | 1
+soc_code                       | 25-1042
+h_1b_dependent                 | No
+-[ RECORD 140 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25148-024501
+job_title                      | Assistant Professor
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13312294667
 employer_poc_first_name        | Renae
 employer_poc_last_name         | Daniel
 worksite_address1              | 915 South Jackson Street
@@ -3541,16 +3349,16 @@ worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
 lawfirm_name_business_name     | 
 employer_address1              | 915 South Jackson Street
-employer_address2              | PO Box 271
+employer_address2              | 
 employer_city                  | Montgomery
 employer_state                 | AL
 employer_postal_code           | 36101
-begin_date                     | 7/3/2023
-end_date                       | 7/2/2026
+begin_date                     | 8/1/2025
+end_date                       | 7/31/2028
 total_worker_positions         | 1
-soc_code                       | 15-2051.00
+soc_code                       | 25-1063
 h_1b_dependent                 | No
--[ RECORD 149 ]----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 141 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-21298-665138
 job_title                      | Assistant Professor of Management
 employer_name                  | Alabama State University
@@ -3573,6 +3381,198 @@ begin_date                     | 1/1/2022
 end_date                       | 12/31/2024
 total_worker_positions         | 1
 soc_code                       | 25-1011.00
+h_1b_dependent                 | No
+-[ RECORD 142 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23152-068585
+job_title                      | Assistant Professor
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13312294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 South Jackson Street
+worksite_address2              | P O Box 271
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | 
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 8/1/2023
+end_date                       | 7/31/2026
+total_worker_positions         | 2
+soc_code                       | 25-1063.00
+h_1b_dependent                 | No
+-[ RECORD 143 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22168-292018
+job_title                      | Assistant Professor of Biomedical Engineering
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 South Jackson Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | 
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 8/1/2022
+end_date                       | 7/30/2025
+total_worker_positions         | 1
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 144 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24180-158496
+job_title                      | Assistant Professor
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 South Jackson Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | 
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 8/1/2024
+end_date                       | 7/31/2027
+total_worker_positions         | 1
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 145 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22153-235397
+job_title                      | Assistant Professor of Biology
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 S Jackson Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 S Jackson Street
+employer_address2              | 
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 8/1/2022
+end_date                       | 7/31/2025
+total_worker_positions         | 1
+soc_code                       | 25-1042.00
+h_1b_dependent                 | No
+-[ RECORD 146 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22153-235326
+job_title                      | Assistant Professor of Biology
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 S Jackson Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | P O Box 271
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 8/1/2022
+end_date                       | 7/31/2024
+total_worker_positions         | 1
+soc_code                       | 25-1042.00
+h_1b_dependent                 | No
+-[ RECORD 147 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25055-718864
+job_title                      | Assistant Professor of Biomedical Engineering
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 South Jackson
+worksite_address2              | P. O. Box 271
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | 
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 8/1/2025
+end_date                       | 7/31/2028
+total_worker_positions         | 1
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 148 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22048-910025
+job_title                      | Network Engineer
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 S Jackson Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | 
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 4/1/2022
+end_date                       | 3/31/2025
+total_worker_positions         | 1
+soc_code                       | 15-1199.02
+h_1b_dependent                 | No
+-[ RECORD 149 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23122-985310
+job_title                      | Data Science Analyst
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+worksite_address1              | 915 South Jackson Street
+worksite_address2              | PO Box 271
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | PO Box 271
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 7/3/2023
+end_date                       | 7/2/2026
+total_worker_positions         | 1
+soc_code                       | 15-2051.00
 h_1b_dependent                 | No
 -[ RECORD 150 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23235-287949

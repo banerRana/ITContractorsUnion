@@ -47,7 +47,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-24047-726360
+case_number                    | I-200-24047-725259
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | MAHAUGHA LLC
 secondary_entity_business_name | Rhode Island Department of Administration
@@ -71,7 +71,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 4 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-24047-725259
+case_number                    | I-200-24047-726360
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | MAHAUGHA LLC
 secondary_entity_business_name | Rhode Island Department of Administration
@@ -599,30 +599,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 26 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23109-948002
-job_title                      | Senior Programmer
-employer_name                  | Hire IT people Inc
-secondary_entity_business_name | State of Rhode Island DOA (Department of Administration)
-employer_poc_email             | dan@hireitpeople.com
-employer_poc_phone             | 12025881841
-employer_poc_first_name        | Dan
-employer_poc_last_name         | Nandan
-worksite_address1              | 1 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 15 Corporate Pl S
-employer_address2              | STE 145
-employer_city                  | Piscataway
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 5/1/2023
-end_date                       | 4/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23107-939579
 job_title                      | Senior Programmer
 employer_name                  | Hire IT people Inc
@@ -646,7 +622,55 @@ end_date                       | 4/30/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
+-[ RECORD 27 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23109-948002
+job_title                      | Senior Programmer
+employer_name                  | Hire IT people Inc
+secondary_entity_business_name | State of Rhode Island DOA (Department of Administration)
+employer_poc_email             | dan@hireitpeople.com
+employer_poc_phone             | 12025881841
+employer_poc_first_name        | Dan
+employer_poc_last_name         | Nandan
+worksite_address1              | 1 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 15 Corporate Pl S
+employer_address2              | STE 145
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 5/1/2023
+end_date                       | 4/30/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 28 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23327-521664
+job_title                      | Front End Developer
+employer_name                  | SolutionSoft Inc
+secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
+employer_poc_email             | samatha.s@solutionsoftinc.com
+employer_poc_phone             | 15187220001
+employer_poc_first_name        | Samatheshini
+employer_poc_last_name         | Pendyala
+worksite_address1              | 600 New London Ave
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | CRANSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 120 W Golf Road
+employer_address2              | Suite 100 B
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60195
+begin_date                     | 12/1/2023
+end_date                       | 11/30/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 29 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24143-027502
 job_title                      | Front End Developer
 employer_name                  | SolutionSoft Inc
@@ -670,7 +694,7 @@ end_date                       | 6/2/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 29 ]-----------------+-------------------------------------------------------------
+-[ RECORD 30 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-22355-653217
 job_title                      | Front End Developer
 employer_name                  | SolutionSoft Inc
@@ -691,30 +715,6 @@ employer_state                 | IL
 employer_postal_code           | 60195
 begin_date                     | 1/9/2023
 end_date                       | 1/8/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 30 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23327-521664
-job_title                      | Front End Developer
-employer_name                  | SolutionSoft Inc
-secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
-employer_poc_email             | samatha.s@solutionsoftinc.com
-employer_poc_phone             | 15187220001
-employer_poc_first_name        | Samatheshini
-employer_poc_last_name         | Pendyala
-worksite_address1              | 600 New London Ave
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 120 W Golf Road
-employer_address2              | Suite 100 B
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60195
-begin_date                     | 12/1/2023
-end_date                       | 11/30/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -863,28 +863,28 @@ total_worker_positions         | 2
 soc_code                       | 29-1066.00
 h_1b_dependent                 | No
 -[ RECORD 37 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24310-454425
-job_title                      | Senior Public Health Epidemiologist
+case_number                    | I-200-25105-867606
+job_title                      | Health Economics Specialist
 employer_name                  | State of Rhode Island
 secondary_entity_business_name | 
-employer_poc_email             | Kristine.campagna@health.ri.gov
-employer_poc_phone             | 14012584435
-employer_poc_first_name        | Kristine
-employer_poc_last_name         | Campagna
+employer_poc_email             | Neil.Hytinen@health.ri.gov
+employer_poc_phone             | 14012221625
+employer_poc_first_name        | Neil
+employer_poc_last_name         | Hytinen
 worksite_address1              | 3 Capitol Hill
 worksite_address2              | 
 worksite_city                  | Providence
 worksite_county                | PROVIDENCE CITY
 lawfirm_name_business_name     | Coogan Smith, LLP
-employer_address1              | 3 CAPITOL HILL
+employer_address1              | 3 Capitol Hill
 employer_address2              | 
 employer_city                  | Providence
 employer_state                 | RI
 employer_postal_code           | 02908
-begin_date                     | 1/1/2025
-end_date                       | 12/31/2027
+begin_date                     | 6/1/2025
+end_date                       | 5/31/2028
 total_worker_positions         | 1
-soc_code                       | 19-1041
+soc_code                       | 19-3011
 h_1b_dependent                 | No
 -[ RECORD 38 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24361-571552
@@ -911,27 +911,27 @@ total_worker_positions         | 1
 soc_code                       | 19-1041
 h_1b_dependent                 | No
 -[ RECORD 39 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25105-867606
-job_title                      | Health Economics Specialist
+case_number                    | I-200-24310-454425
+job_title                      | Senior Public Health Epidemiologist
 employer_name                  | State of Rhode Island
 secondary_entity_business_name | 
-employer_poc_email             | Neil.Hytinen@health.ri.gov
-employer_poc_phone             | 14012221625
-employer_poc_first_name        | Neil
-employer_poc_last_name         | Hytinen
+employer_poc_email             | Kristine.campagna@health.ri.gov
+employer_poc_phone             | 14012584435
+employer_poc_first_name        | Kristine
+employer_poc_last_name         | Campagna
 worksite_address1              | 3 Capitol Hill
 worksite_address2              | 
 worksite_city                  | Providence
 worksite_county                | PROVIDENCE CITY
 lawfirm_name_business_name     | Coogan Smith, LLP
-employer_address1              | 3 Capitol Hill
+employer_address1              | 3 CAPITOL HILL
 employer_address2              | 
 employer_city                  | Providence
 employer_state                 | RI
 employer_postal_code           | 02908
-begin_date                     | 6/1/2025
-end_date                       | 5/31/2028
+begin_date                     | 1/1/2025
+end_date                       | 12/31/2027
 total_worker_positions         | 1
-soc_code                       | 19-3011
+soc_code                       | 19-1041
 h_1b_dependent                 | No
 

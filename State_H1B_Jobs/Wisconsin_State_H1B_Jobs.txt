@@ -287,30 +287,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22187-333772
-job_title                      | WebSphere Administrator
-employer_name                  | tekAssembly Corporation
-secondary_entity_business_name | DOA, State of Wisconsin
-employer_poc_email             | info@tekassembly.com
-employer_poc_phone             | 18473066699
-employer_poc_first_name        | MURALI
-employer_poc_last_name         | MERAGA
-worksite_address1              | 5830 Femrite Dr
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 3 W Hawthorn Pkwy
-employer_address2              | 220
-employer_city                  | Vernon Hills
-employer_state                 | IL
-employer_postal_code           | 60061
-begin_date                     | 7/7/2022
-end_date                       | 7/6/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23145-054443
 job_title                      | WebSphere Admin
 employer_name                  | tekAssembly Corporation
@@ -331,6 +307,30 @@ employer_state                 | IL
 employer_postal_code           | 60061
 begin_date                     | 10/1/2023
 end_date                       | 9/30/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22187-333772
+job_title                      | WebSphere Administrator
+employer_name                  | tekAssembly Corporation
+secondary_entity_business_name | DOA, State of Wisconsin
+employer_poc_email             | info@tekassembly.com
+employer_poc_phone             | 18473066699
+employer_poc_first_name        | MURALI
+employer_poc_last_name         | MERAGA
+worksite_address1              | 5830 Femrite Dr
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 3 W Hawthorn Pkwy
+employer_address2              | 220
+employer_city                  | Vernon Hills
+employer_state                 | IL
+employer_postal_code           | 60061
+begin_date                     | 7/7/2022
+end_date                       | 7/6/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -1007,30 +1007,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 43 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22249-455943
-job_title                      | .Net Web Developer II
-employer_name                  | Digital Cloud Associates LLC
-secondary_entity_business_name | Department of Workforce Development
-employer_poc_email             | accounts@digitalcloudassociates.com
-employer_poc_phone             | 12149199035
-employer_poc_first_name        | Kashif
-employer_poc_last_name         | Mohammed
-worksite_address1              | 201 E Washington Ave
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Law Office of Keshab Raj Seadie, P.C.
-employer_address1              | 400 East Royal Lane
-employer_address2              | Suite 290
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75039
-begin_date                     | 9/7/2022
-end_date                       | 9/6/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 44 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24099-865886
 job_title                      | .Net Web Developer II
 employer_name                  | Digital Cloud Associates LLC
@@ -1051,6 +1027,30 @@ employer_state                 | TX
 employer_postal_code           | 75038
 begin_date                     | 9/30/2024
 end_date                       | 9/29/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 44 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22249-455943
+job_title                      | .Net Web Developer II
+employer_name                  | Digital Cloud Associates LLC
+secondary_entity_business_name | Department of Workforce Development
+employer_poc_email             | accounts@digitalcloudassociates.com
+employer_poc_phone             | 12149199035
+employer_poc_first_name        | Kashif
+employer_poc_last_name         | Mohammed
+worksite_address1              | 201 E Washington Ave
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Law Office of Keshab Raj Seadie, P.C.
+employer_address1              | 400 East Royal Lane
+employer_address2              | Suite 290
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75039
+begin_date                     | 9/7/2022
+end_date                       | 9/6/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
@@ -1151,7 +1151,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 49 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24157-071814
+case_number                    | I-200-24168-117027
 job_title                      | .NET Web Developer III
 employer_name                  | Cloud Craft Tec Inc
 secondary_entity_business_name | Dept of Children and Families, State of Wisconsin
@@ -1175,7 +1175,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 50 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24168-117027
+case_number                    | I-200-24157-071814
 job_title                      | .NET Web Developer III
 employer_name                  | Cloud Craft Tec Inc
 secondary_entity_business_name | Dept of Children and Families, State of Wisconsin
@@ -1247,30 +1247,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 53 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24026-671097
-job_title                      | IT Project Manager
-employer_name                  | Encore Consulting Services Inc
-secondary_entity_business_name | Division of Enterprise Technology, Department of Justice, State of WI
-employer_poc_email             | hradmin@encore-c.com
-employer_poc_phone             | 18472220244
-employer_poc_first_name        | Mary
-employer_poc_last_name         | Menet
-worksite_address1              | 17 W Main St
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 1701, E Wood field Road
-employer_address2              | Suite 910
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60173
-begin_date                     | 6/13/2024
-end_date                       | 6/12/2027
-total_worker_positions         | 1
-soc_code                       | 15-1299.09
-h_1b_dependent                 | Yes
--[ RECORD 54 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24025-668276
 job_title                      | IT Project Manager
 employer_name                  | Encore Consulting Services Inc
@@ -1291,6 +1267,30 @@ employer_state                 | IL
 employer_postal_code           | 60173
 begin_date                     | 2/15/2024
 end_date                       | 2/14/2027
+total_worker_positions         | 1
+soc_code                       | 15-1299.09
+h_1b_dependent                 | Yes
+-[ RECORD 54 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24026-671097
+job_title                      | IT Project Manager
+employer_name                  | Encore Consulting Services Inc
+secondary_entity_business_name | Division of Enterprise Technology, Department of Justice, State of WI
+employer_poc_email             | hradmin@encore-c.com
+employer_poc_phone             | 18472220244
+employer_poc_first_name        | Mary
+employer_poc_last_name         | Menet
+worksite_address1              | 17 W Main St
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 1701, E Wood field Road
+employer_address2              | Suite 910
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60173
+begin_date                     | 6/13/2024
+end_date                       | 6/12/2027
 total_worker_positions         | 1
 soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
@@ -1319,102 +1319,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 56 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24336-508505
-job_title                      | Senior Manager JC45 - Computer Systems Engineers/Architects
-employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
-secondary_entity_business_name | Kohls Department Stores Inc
-employer_poc_email             | lca.immigration@cognizant.com
-employer_poc_phone             | 16176207316
-employer_poc_first_name        | Daniel
-employer_poc_last_name         | Shakespeare
-worksite_address1              | N56 W17000 Ridgewood Drive
-worksite_address2              | 
-worksite_city                  | Menomonee Falls
-worksite_county                | WAUKESHA
-lawfirm_name_business_name     | 
-employer_address1              | 211 QUALITY CIRCLE
-employer_address2              | 
-employer_city                  | COLLEGE STATION
-employer_state                 | TX
-employer_postal_code           | 77845
-begin_date                     | 12/10/2024
-end_date                       | 12/9/2027
-total_worker_positions         | 1
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 57 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22222-408945
-job_title                      | Senior Systems Analyst JC60
-employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
-secondary_entity_business_name | Kohls Department Stores Inc
-employer_poc_email             | lca.immigration@cognizant.com
-employer_poc_phone             | 16176207316
-employer_poc_first_name        | Daniel
-employer_poc_last_name         | Shakespeare
-worksite_address1              | W165N5830, Ridgewood Drive
-worksite_address2              | 
-worksite_city                  | Menomonee Falls
-worksite_county                | WAUKESHA
-lawfirm_name_business_name     | 
-employer_address1              | 211 QUALITY CIRCLE
-employer_address2              | 
-employer_city                  | COLLEGE STATION
-employer_state                 | TX
-employer_postal_code           | 77845
-begin_date                     | 10/20/2022
-end_date                       | 10/19/2025
-total_worker_positions         | 1
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 58 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24149-043886
-job_title                      | Manager JC50 - Computer Systems Engineers/Architects
-employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
-secondary_entity_business_name | Kohls Department Stores Inc
-employer_poc_email             | lca.immigration@cognizant.com
-employer_poc_phone             | 16176207316
-employer_poc_first_name        | Daniel
-employer_poc_last_name         | Shakespeare
-worksite_address1              | N56 W17000 Ridgewood Drive
-worksite_address2              | 
-worksite_city                  | MENOMONEE FALLS
-worksite_county                | WAUKESHA
-lawfirm_name_business_name     | 
-employer_address1              | 211 QUALITY CIRCLE
-employer_address2              | 
-employer_city                  | COLLEGE STATION
-employer_state                 | TX
-employer_postal_code           | 77845
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 59 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24276-381740
-job_title                      | Manager JC50 - Computer Systems Engineers/Architects
-employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
-secondary_entity_business_name | Kohls Department Stores Inc
-employer_poc_email             | lca.immigration@cognizant.com
-employer_poc_phone             | 16176207316
-employer_poc_first_name        | Daniel
-employer_poc_last_name         | Shakespeare
-worksite_address1              | N56 W17000 Ridgewood Drive
-worksite_address2              | 
-worksite_city                  | Menomonee Falls
-worksite_county                | WAUKESHA
-lawfirm_name_business_name     | 
-employer_address1              | 211 QUALITY CIRCLE
-employer_address2              | 
-employer_city                  | COLLEGE STATION
-employer_state                 | TX
-employer_postal_code           | 77845
-begin_date                     | 10/11/2024
-end_date                       | 10/10/2027
-total_worker_positions         | 1
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 60 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22261-478972
 job_title                      | Senior Systems Analyst JC60
 employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
@@ -1438,31 +1342,7 @@ end_date                       | 11/29/2025
 total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 61 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23258-349362
-job_title                      | Manager JC50 - Computer Systems Engineers/Architects
-employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
-secondary_entity_business_name | Kohls Department Stores Inc
-employer_poc_email             | lca.immigration@cognizant.com
-employer_poc_phone             | 16176207316
-employer_poc_first_name        | Daniel
-employer_poc_last_name         | Shakespeare
-worksite_address1              | W165N5830, Ridgewood Drive
-worksite_address2              | 
-worksite_city                  | Menomonee Falls
-worksite_county                | WAUKESHA
-lawfirm_name_business_name     | 
-employer_address1              | 211 QUALITY CIRCLE
-employer_address2              | 
-employer_city                  | COLLEGE STATION
-employer_state                 | TX
-employer_postal_code           | 77845
-begin_date                     | 9/23/2023
-end_date                       | 9/22/2026
-total_worker_positions         | 1
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 62 ]-----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 57 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24144-031926
 job_title                      | Manager JC50 - Computer Systems Engineers/Architects
 employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
@@ -1486,55 +1366,7 @@ end_date                       | 9/30/2027
 total_worker_positions         | 1
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
--[ RECORD 63 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23204-208620
-job_title                      | Manager JC50
-employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
-secondary_entity_business_name | Kohls Department Stores Inc
-employer_poc_email             | lca.immigration@cognizant.com
-employer_poc_phone             | 16176207316
-employer_poc_first_name        | Daniel
-employer_poc_last_name         | Shakespeare
-worksite_address1              | N56w17000, Ridgewood Drive
-worksite_address2              | 
-worksite_city                  | Menomonee Falls
-worksite_county                | WAUKESHA
-lawfirm_name_business_name     | 
-employer_address1              | 211 QUALITY CIRCLE
-employer_address2              | 
-employer_city                  | COLLEGE STATION
-employer_state                 | TX
-employer_postal_code           | 77845
-begin_date                     | 8/1/2023
-end_date                       | 7/31/2026
-total_worker_positions         | 1
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 64 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23222-255341
-job_title                      | Manager JC50
-employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
-secondary_entity_business_name | Kohls Department Stores Inc
-employer_poc_email             | lca.immigration@cognizant.com
-employer_poc_phone             | 16176207316
-employer_poc_first_name        | Daniel
-employer_poc_last_name         | Shakespeare
-worksite_address1              | W165N5830, Ridgewood Drive
-worksite_address2              | 
-worksite_city                  | Menomonee Falls
-worksite_county                | WAUKESHA
-lawfirm_name_business_name     | 
-employer_address1              | 211 QUALITY CIRCLE
-employer_address2              | 
-employer_city                  | COLLEGE STATION
-employer_state                 | TX
-employer_postal_code           | 77845
-begin_date                     | 8/19/2023
-end_date                       | 8/18/2026
-total_worker_positions         | 1
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 65 ]-----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 58 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22201-366226
 job_title                      | Senior Systems Analyst JC60
 employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
@@ -1558,7 +1390,151 @@ end_date                       | 7/28/2025
 total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 66 ]-----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 59 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23258-349362
+job_title                      | Manager JC50 - Computer Systems Engineers/Architects
+employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
+secondary_entity_business_name | Kohls Department Stores Inc
+employer_poc_email             | lca.immigration@cognizant.com
+employer_poc_phone             | 16176207316
+employer_poc_first_name        | Daniel
+employer_poc_last_name         | Shakespeare
+worksite_address1              | W165N5830, Ridgewood Drive
+worksite_address2              | 
+worksite_city                  | Menomonee Falls
+worksite_county                | WAUKESHA
+lawfirm_name_business_name     | 
+employer_address1              | 211 QUALITY CIRCLE
+employer_address2              | 
+employer_city                  | COLLEGE STATION
+employer_state                 | TX
+employer_postal_code           | 77845
+begin_date                     | 9/23/2023
+end_date                       | 9/22/2026
+total_worker_positions         | 1
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 60 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24149-043886
+job_title                      | Manager JC50 - Computer Systems Engineers/Architects
+employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
+secondary_entity_business_name | Kohls Department Stores Inc
+employer_poc_email             | lca.immigration@cognizant.com
+employer_poc_phone             | 16176207316
+employer_poc_first_name        | Daniel
+employer_poc_last_name         | Shakespeare
+worksite_address1              | N56 W17000 Ridgewood Drive
+worksite_address2              | 
+worksite_city                  | MENOMONEE FALLS
+worksite_county                | WAUKESHA
+lawfirm_name_business_name     | 
+employer_address1              | 211 QUALITY CIRCLE
+employer_address2              | 
+employer_city                  | COLLEGE STATION
+employer_state                 | TX
+employer_postal_code           | 77845
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 61 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24336-508505
+job_title                      | Senior Manager JC45 - Computer Systems Engineers/Architects
+employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
+secondary_entity_business_name | Kohls Department Stores Inc
+employer_poc_email             | lca.immigration@cognizant.com
+employer_poc_phone             | 16176207316
+employer_poc_first_name        | Daniel
+employer_poc_last_name         | Shakespeare
+worksite_address1              | N56 W17000 Ridgewood Drive
+worksite_address2              | 
+worksite_city                  | Menomonee Falls
+worksite_county                | WAUKESHA
+lawfirm_name_business_name     | 
+employer_address1              | 211 QUALITY CIRCLE
+employer_address2              | 
+employer_city                  | COLLEGE STATION
+employer_state                 | TX
+employer_postal_code           | 77845
+begin_date                     | 12/10/2024
+end_date                       | 12/9/2027
+total_worker_positions         | 1
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 62 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23222-255341
+job_title                      | Manager JC50
+employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
+secondary_entity_business_name | Kohls Department Stores Inc
+employer_poc_email             | lca.immigration@cognizant.com
+employer_poc_phone             | 16176207316
+employer_poc_first_name        | Daniel
+employer_poc_last_name         | Shakespeare
+worksite_address1              | W165N5830, Ridgewood Drive
+worksite_address2              | 
+worksite_city                  | Menomonee Falls
+worksite_county                | WAUKESHA
+lawfirm_name_business_name     | 
+employer_address1              | 211 QUALITY CIRCLE
+employer_address2              | 
+employer_city                  | COLLEGE STATION
+employer_state                 | TX
+employer_postal_code           | 77845
+begin_date                     | 8/19/2023
+end_date                       | 8/18/2026
+total_worker_positions         | 1
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 63 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24276-381740
+job_title                      | Manager JC50 - Computer Systems Engineers/Architects
+employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
+secondary_entity_business_name | Kohls Department Stores Inc
+employer_poc_email             | lca.immigration@cognizant.com
+employer_poc_phone             | 16176207316
+employer_poc_first_name        | Daniel
+employer_poc_last_name         | Shakespeare
+worksite_address1              | N56 W17000 Ridgewood Drive
+worksite_address2              | 
+worksite_city                  | Menomonee Falls
+worksite_county                | WAUKESHA
+lawfirm_name_business_name     | 
+employer_address1              | 211 QUALITY CIRCLE
+employer_address2              | 
+employer_city                  | COLLEGE STATION
+employer_state                 | TX
+employer_postal_code           | 77845
+begin_date                     | 10/11/2024
+end_date                       | 10/10/2027
+total_worker_positions         | 1
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 64 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23204-208620
+job_title                      | Manager JC50
+employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
+secondary_entity_business_name | Kohls Department Stores Inc
+employer_poc_email             | lca.immigration@cognizant.com
+employer_poc_phone             | 16176207316
+employer_poc_first_name        | Daniel
+employer_poc_last_name         | Shakespeare
+worksite_address1              | N56w17000, Ridgewood Drive
+worksite_address2              | 
+worksite_city                  | Menomonee Falls
+worksite_county                | WAUKESHA
+lawfirm_name_business_name     | 
+employer_address1              | 211 QUALITY CIRCLE
+employer_address2              | 
+employer_city                  | COLLEGE STATION
+employer_state                 | TX
+employer_postal_code           | 77845
+begin_date                     | 8/1/2023
+end_date                       | 7/31/2026
+total_worker_positions         | 1
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 65 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-21270-608895
 job_title                      | Senior Systems Analyst JC60
 employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
@@ -1581,6 +1557,30 @@ begin_date                     | 10/15/2021
 end_date                       | 10/14/2024
 total_worker_positions         | 1
 soc_code                       | 15-1121.00
+h_1b_dependent                 | Yes
+-[ RECORD 66 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22222-408945
+job_title                      | Senior Systems Analyst JC60
+employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
+secondary_entity_business_name | Kohls Department Stores Inc
+employer_poc_email             | lca.immigration@cognizant.com
+employer_poc_phone             | 16176207316
+employer_poc_first_name        | Daniel
+employer_poc_last_name         | Shakespeare
+worksite_address1              | W165N5830, Ridgewood Drive
+worksite_address2              | 
+worksite_city                  | Menomonee Falls
+worksite_county                | WAUKESHA
+lawfirm_name_business_name     | 
+employer_address1              | 211 QUALITY CIRCLE
+employer_address2              | 
+employer_city                  | COLLEGE STATION
+employer_state                 | TX
+employer_postal_code           | 77845
+begin_date                     | 10/20/2022
+end_date                       | 10/19/2025
+total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 67 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22243-448851
@@ -1607,30 +1607,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 68 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22312-575768
-job_title                      | Manager JC50
-employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
-secondary_entity_business_name | Kohls Department Stores Inc
-employer_poc_email             | lca.immigration@cognizant.com
-employer_poc_phone             | 16176207316
-employer_poc_first_name        | Daniel
-employer_poc_last_name         | Shakespeare
-worksite_address1              | W165 N5830 Ridgewood Dr
-worksite_address2              | 
-worksite_city                  | Menomonee Falls
-worksite_county                | WAUKESHA
-lawfirm_name_business_name     | 
-employer_address1              | 211 QUALITY CIRCLE
-employer_address2              | 
-employer_city                  | COLLEGE STATION
-employer_state                 | TX
-employer_postal_code           | 77845
-begin_date                     | 11/17/2022
-end_date                       | 11/16/2025
-total_worker_positions         | 1
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 69 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23107-939715
 job_title                      | Manager JC50
 employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
@@ -1651,6 +1627,30 @@ employer_state                 | TX
 employer_postal_code           | 77845
 begin_date                     | 4/26/2023
 end_date                       | 4/25/2026
+total_worker_positions         | 1
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 69 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22312-575768
+job_title                      | Manager JC50
+employer_name                  | COGNIZANT TECHNOLOGY SOLUTIONS US CORP
+secondary_entity_business_name | Kohls Department Stores Inc
+employer_poc_email             | lca.immigration@cognizant.com
+employer_poc_phone             | 16176207316
+employer_poc_first_name        | Daniel
+employer_poc_last_name         | Shakespeare
+worksite_address1              | W165 N5830 Ridgewood Dr
+worksite_address2              | 
+worksite_city                  | Menomonee Falls
+worksite_county                | WAUKESHA
+lawfirm_name_business_name     | 
+employer_address1              | 211 QUALITY CIRCLE
+employer_address2              | 
+employer_city                  | COLLEGE STATION
+employer_state                 | TX
+employer_postal_code           | 77845
+begin_date                     | 11/17/2022
+end_date                       | 11/16/2025
 total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
@@ -1703,31 +1703,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 72 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-21148-355403
-job_title                      | Senior Software Engineer
-employer_name                  | GlobalLogic Inc
-secondary_entity_business_name | Kohls Department Stores Inc
-employer_poc_email             | immigration@globallogic.com
-employer_poc_phone             | 14082738900
-employer_poc_first_name        | DHARMA
-employer_poc_last_name         | DEVARAPALLI
-worksite_address1              | N56 W17000 Ridgewood Drive
-worksite_address2              | 
-worksite_city                  | Menomonee Falls
-worksite_county                | WAUKESHA
-lawfirm_name_business_name     | 
-employer_address1              | 1741 Technology Dr
-employer_address2              | 4th Floor
-employer_city                  | San Jose
-employer_state                 | CA
-employer_postal_code           | 95110
-begin_date                     | 6/15/2021
-end_date                       | 6/14/2024
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | No
--[ RECORD 73 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22080-995565
+case_number                    | I-200-22096-043934
 job_title                      | Senior Software Engineer
 employer_name                  | GlobalLogic Inc
 secondary_entity_business_name | Kohls Department Stores Inc
@@ -1735,7 +1711,7 @@ employer_poc_email             | immigration@globallogic.com
 employer_poc_phone             | 14082738900
 employer_poc_first_name        | Dharma
 employer_poc_last_name         | Devarapalli
-worksite_address1              | W165N5830 Ridgewood Dr
+worksite_address1              | W165 N5830 Ridgewood Dr
 worksite_address2              | 
 worksite_city                  | Menomonee Falls
 worksite_county                | WAUKESHA
@@ -1750,7 +1726,7 @@ end_date                       | 9/5/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 74 ]-----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 73 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22061-944625
 job_title                      | Senior Software Engineer
 employer_name                  | GlobalLogic Inc
@@ -1774,31 +1750,31 @@ end_date                       | 3/20/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 75 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22111-095803
-job_title                      | Lead Software Engineer
+-[ RECORD 74 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-21148-355403
+job_title                      | Senior Software Engineer
 employer_name                  | GlobalLogic Inc
 secondary_entity_business_name | Kohls Department Stores Inc
 employer_poc_email             | immigration@globallogic.com
 employer_poc_phone             | 14082738900
-employer_poc_first_name        | Dharma
-employer_poc_last_name         | Devarapalli
-worksite_address1              | W165 N5830 Ridgewood Dr
+employer_poc_first_name        | DHARMA
+employer_poc_last_name         | DEVARAPALLI
+worksite_address1              | N56 W17000 Ridgewood Drive
 worksite_address2              | 
 worksite_city                  | Menomonee Falls
 worksite_county                | WAUKESHA
 lawfirm_name_business_name     | 
-employer_address1              | 1741 Technology Drive
+employer_address1              | 1741 Technology Dr
 employer_address2              | 4th Floor
 employer_city                  | San Jose
 employer_state                 | CA
 employer_postal_code           | 95110
-begin_date                     | 10/1/2022
-end_date                       | 9/30/2025
+begin_date                     | 6/15/2021
+end_date                       | 6/14/2024
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 76 ]-----------------+--------------------------------------------------------------------------------------------------
+h_1b_dependent                 | No
+-[ RECORD 75 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22062-946538
 job_title                      | Senior Software Engineer
 employer_name                  | GlobalLogic Inc
@@ -1822,7 +1798,7 @@ end_date                       | 3/20/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 77 ]-----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 76 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22060-940790
 job_title                      | Lead Software Engineer, Engineering
 employer_name                  | GlobalLogic Inc
@@ -1846,9 +1822,33 @@ end_date                       | 8/28/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 78 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22096-043934
+-[ RECORD 77 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22080-995565
 job_title                      | Senior Software Engineer
+employer_name                  | GlobalLogic Inc
+secondary_entity_business_name | Kohls Department Stores Inc
+employer_poc_email             | immigration@globallogic.com
+employer_poc_phone             | 14082738900
+employer_poc_first_name        | Dharma
+employer_poc_last_name         | Devarapalli
+worksite_address1              | W165N5830 Ridgewood Dr
+worksite_address2              | 
+worksite_city                  | Menomonee Falls
+worksite_county                | WAUKESHA
+lawfirm_name_business_name     | 
+employer_address1              | 1741 Technology Drive
+employer_address2              | 4th Floor
+employer_city                  | SAN JOSE
+employer_state                 | CA
+employer_postal_code           | 95110
+begin_date                     | 9/6/2022
+end_date                       | 9/5/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 78 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22111-095803
+job_title                      | Lead Software Engineer
 employer_name                  | GlobalLogic Inc
 secondary_entity_business_name | Kohls Department Stores Inc
 employer_poc_email             | immigration@globallogic.com
@@ -1862,11 +1862,11 @@ worksite_county                | WAUKESHA
 lawfirm_name_business_name     | 
 employer_address1              | 1741 Technology Drive
 employer_address2              | 4th Floor
-employer_city                  | SAN JOSE
+employer_city                  | San Jose
 employer_state                 | CA
 employer_postal_code           | 95110
-begin_date                     | 9/6/2022
-end_date                       | 9/5/2025
+begin_date                     | 10/1/2022
+end_date                       | 9/30/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
@@ -1919,7 +1919,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 81 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-25141-000354
+case_number                    | I-200-25156-055768
 job_title                      | Systems Analyst
 employer_name                  | Ventois Inc
 secondary_entity_business_name | Outgamie County - Health and Human Services Department
@@ -1927,7 +1927,7 @@ employer_poc_email             | skota@ventois.com
 employer_poc_phone             | 15089257979
 employer_poc_first_name        | Suman Reddy
 employer_poc_last_name         | Kota
-worksite_address1              | 320 S. Walnut St
+worksite_address1              | 320 S Walnut St
 worksite_address2              | 
 worksite_city                  | Appleton
 worksite_county                | OUTAGAMIE
@@ -1943,7 +1943,7 @@ total_worker_positions         | 1
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 82 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-25156-055768
+case_number                    | I-200-25141-000354
 job_title                      | Systems Analyst
 employer_name                  | Ventois Inc
 secondary_entity_business_name | Outgamie County - Health and Human Services Department
@@ -1951,7 +1951,7 @@ employer_poc_email             | skota@ventois.com
 employer_poc_phone             | 15089257979
 employer_poc_first_name        | Suman Reddy
 employer_poc_last_name         | Kota
-worksite_address1              | 320 S Walnut St
+worksite_address1              | 320 S. Walnut St
 worksite_address2              | 
 worksite_city                  | Appleton
 worksite_county                | OUTAGAMIE
@@ -1991,7 +1991,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 84 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24134-986604
+case_number                    | I-200-24124-954463
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | ACHOLYTE LLC
 secondary_entity_business_name | STATE OF WISCONSIN
@@ -2000,7 +2000,7 @@ employer_poc_phone             | 19198845977
 employer_poc_first_name        | RAJASEKHAR
 employer_poc_last_name         | MUNAGA
 worksite_address1              | TOMMY G THOMPSON CENTER
-worksite_address2              | 201 W WASHINGTON AVE
+worksite_address2              | 2O1 W WASHINGTON AVE
 worksite_city                  | MADISON
 worksite_county                | DANE
 lawfirm_name_business_name     | 
@@ -2015,7 +2015,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
 -[ RECORD 85 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24124-954463
+case_number                    | I-200-24134-986604
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | ACHOLYTE LLC
 secondary_entity_business_name | STATE OF WISCONSIN
@@ -2024,7 +2024,7 @@ employer_poc_phone             | 19198845977
 employer_poc_first_name        | RAJASEKHAR
 employer_poc_last_name         | MUNAGA
 worksite_address1              | TOMMY G THOMPSON CENTER
-worksite_address2              | 2O1 W WASHINGTON AVE
+worksite_address2              | 201 W WASHINGTON AVE
 worksite_city                  | MADISON
 worksite_county                | DANE
 lawfirm_name_business_name     | 
@@ -2111,30 +2111,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 89 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24347-539982
-job_title                      | ADVANCED BUSINESS ANALYST
-employer_name                  | KFORCE INC
-secondary_entity_business_name | STATE OF WISCONSIN
-employer_poc_email             | GDRIJVER@KFORCE.COM
-employer_poc_phone             | 18135525000
-employer_poc_first_name        | GORDON
-employer_poc_last_name         | DRIJVER
-worksite_address1              | 4822 MADISON YARDS WAY
-worksite_address2              | 
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | Masuda Funai Eifert & Mitchell, Ltd.
-employer_address1              | 1150 ASSEMBLY DRIVE
-employer_address2              | SUITE 500
-employer_city                  | TAMPA
-employer_state                 | FL
-employer_postal_code           | 33607
-begin_date                     | 12/13/2024
-end_date                       | 12/12/2027
-total_worker_positions         | 10
-soc_code                       | 15-2031
-h_1b_dependent                 | No
--[ RECORD 90 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23240-301454
 job_title                      | SENIOR SOFTWARE DEVELOPER
 employer_name                  | KFORCE INC
@@ -2158,32 +2134,32 @@ end_date                       | 8/28/2026
 total_worker_positions         | 10
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 91 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22264-486159
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | NATSOFT CORPORATION
+-[ RECORD 90 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24347-539982
+job_title                      | ADVANCED BUSINESS ANALYST
+employer_name                  | KFORCE INC
 secondary_entity_business_name | STATE OF WISCONSIN
-employer_poc_email             | TIMMY@NATSOFT.US
-employer_poc_phone             | 17327260593
-employer_poc_first_name        | TIRUMALA
-employer_poc_last_name         | CHEEDALA
+employer_poc_email             | GDRIJVER@KFORCE.COM
+employer_poc_phone             | 18135525000
+employer_poc_first_name        | GORDON
+employer_poc_last_name         | DRIJVER
 worksite_address1              | 4822 MADISON YARDS WAY
 worksite_address2              | 
 worksite_city                  | MADISON
 worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 27 WORLDS FAIR DR
-employer_address2              | 
-employer_city                  | SOMERSET
-employer_state                 | NJ
-employer_postal_code           | 08873
-begin_date                     | 3/22/2023
-end_date                       | 3/21/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 92 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-25063-742754
+lawfirm_name_business_name     | Masuda Funai Eifert & Mitchell, Ltd.
+employer_address1              | 1150 ASSEMBLY DRIVE
+employer_address2              | SUITE 500
+employer_city                  | TAMPA
+employer_state                 | FL
+employer_postal_code           | 33607
+begin_date                     | 12/13/2024
+end_date                       | 12/12/2027
+total_worker_positions         | 10
+soc_code                       | 15-2031
+h_1b_dependent                 | No
+-[ RECORD 91 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24162-092650
 job_title                      | NETWORK ENGINEER
 employer_name                  | NATSOFT CORPORATION
 secondary_entity_business_name | STATE OF WISCONSIN
@@ -2201,12 +2177,12 @@ employer_address2              |
 employer_city                  | SOMERSET
 employer_state                 | NJ
 employer_postal_code           | 08873
-begin_date                     | 3/11/2025
-end_date                       | 3/10/2028
+begin_date                     | 6/17/2024
+end_date                       | 6/16/2027
 total_worker_positions         | 1
-soc_code                       | 15-1244
+soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
--[ RECORD 93 ]-----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 92 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24115-922082
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | NATSOFT CORPORATION
@@ -2230,8 +2206,8 @@ end_date                       | 4/30/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 94 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24162-092650
+-[ RECORD 93 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-25063-742754
 job_title                      | NETWORK ENGINEER
 employer_name                  | NATSOFT CORPORATION
 secondary_entity_business_name | STATE OF WISCONSIN
@@ -2249,8 +2225,32 @@ employer_address2              |
 employer_city                  | SOMERSET
 employer_state                 | NJ
 employer_postal_code           | 08873
-begin_date                     | 6/17/2024
-end_date                       | 6/16/2027
+begin_date                     | 3/11/2025
+end_date                       | 3/10/2028
+total_worker_positions         | 1
+soc_code                       | 15-1244
+h_1b_dependent                 | Yes
+-[ RECORD 94 ]-----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24136-997576
+job_title                      | NETWORK ENGINEER
+employer_name                  | NATSOFT CORPORATION
+secondary_entity_business_name | STATE OF WISCONSIN
+employer_poc_email             | TIMMY@NATSOFT.US
+employer_poc_phone             | 17327260593
+employer_poc_first_name        | TIRUMALA
+employer_poc_last_name         | CHEEDALA
+worksite_address1              | 5830 FEMRITE DR
+worksite_address2              | 
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 27 WORLDS FAIR DR
+employer_address2              | 
+employer_city                  | SOMERSET
+employer_state                 | NJ
+employer_postal_code           | 08873
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
 total_worker_positions         | 1
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
@@ -2279,15 +2279,15 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 96 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24136-997576
-job_title                      | NETWORK ENGINEER
+case_number                    | I-200-22264-486159
+job_title                      | SOFTWARE ENGINEER
 employer_name                  | NATSOFT CORPORATION
 secondary_entity_business_name | STATE OF WISCONSIN
 employer_poc_email             | TIMMY@NATSOFT.US
 employer_poc_phone             | 17327260593
 employer_poc_first_name        | TIRUMALA
 employer_poc_last_name         | CHEEDALA
-worksite_address1              | 5830 FEMRITE DR
+worksite_address1              | 4822 MADISON YARDS WAY
 worksite_address2              | 
 worksite_city                  | MADISON
 worksite_county                | DANE
@@ -2297,10 +2297,10 @@ employer_address2              |
 employer_city                  | SOMERSET
 employer_state                 | NJ
 employer_postal_code           | 08873
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
+begin_date                     | 3/22/2023
+end_date                       | 3/21/2026
 total_worker_positions         | 1
-soc_code                       | 15-1244.00
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 97 ]-----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24092-845254
@@ -2351,7 +2351,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 99 ]-----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22266-491660
+case_number                    | I-200-22284-523292
 job_title                      | SOFTWARE QUALITY ASSURANCE ENGINEER AND TESTER
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 secondary_entity_business_name | STATE OF WISCONSIN (DOC)
@@ -2369,8 +2369,8 @@ employer_address2              | SUITE 102
 employer_city                  | PLAINSBORO
 employer_state                 | NJ
 employer_postal_code           | 08536
-begin_date                     | 9/23/2022
-end_date                       | 9/22/2025
+begin_date                     | 10/11/2022
+end_date                       | 10/10/2025
 total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
@@ -2399,7 +2399,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 101 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22284-523292
+case_number                    | I-200-22266-491660
 job_title                      | SOFTWARE QUALITY ASSURANCE ENGINEER AND TESTER
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 secondary_entity_business_name | STATE OF WISCONSIN (DOC)
@@ -2417,8 +2417,8 @@ employer_address2              | SUITE 102
 employer_city                  | PLAINSBORO
 employer_state                 | NJ
 employer_postal_code           | 08536
-begin_date                     | 10/11/2022
-end_date                       | 10/10/2025
+begin_date                     | 9/23/2022
+end_date                       | 9/22/2025
 total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
@@ -2687,30 +2687,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 113 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22208-379754
-job_title                      | ORACLE DBA - 4
-employer_name                  | USM Business Sytems Inc
-secondary_entity_business_name | STATE OF WISCONSIN – DEPARTMENT OF ADMINISTRATION
-employer_poc_email             | immigration@usmsystems.com
-employer_poc_phone             | 17032630855
-employer_poc_first_name        | Asha
-employer_poc_last_name         | Haridas
-worksite_address1              | 5830 FEMRITE DR
-worksite_address2              | 
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 44320 Premier Plaza
-employer_address2              | Suite 210
-employer_city                  | Ashburn
-employer_state                 | VA
-employer_postal_code           | 20147
-begin_date                     | 8/3/2022
-end_date                       | 8/2/2025
-total_worker_positions         | 1
-soc_code                       | 15-1242.00
-h_1b_dependent                 | Yes
--[ RECORD 114 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23272-398506
 job_title                      | ORACLE DBA - 4
 employer_name                  | USM Business Sytems Inc
@@ -2734,8 +2710,8 @@ end_date                       | 8/2/2025
 total_worker_positions         | 1
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 115 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23339-544082
+-[ RECORD 114 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22208-379754
 job_title                      | ORACLE DBA - 4
 employer_name                  | USM Business Sytems Inc
 secondary_entity_business_name | STATE OF WISCONSIN – DEPARTMENT OF ADMINISTRATION
@@ -2753,12 +2729,12 @@ employer_address2              | Suite 210
 employer_city                  | Ashburn
 employer_state                 | VA
 employer_postal_code           | 20147
-begin_date                     | 12/18/2023
+begin_date                     | 8/3/2022
 end_date                       | 8/2/2025
 total_worker_positions         | 1
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 116 ]----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 115 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22196-355994
 job_title                      | ORACLE DBA - 4
 employer_name                  | USM Business Sytems Inc
@@ -2779,6 +2755,30 @@ employer_state                 | VA
 employer_postal_code           | 20147
 begin_date                     | 7/22/2022
 end_date                       | 7/21/2025
+total_worker_positions         | 1
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 116 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23339-544082
+job_title                      | ORACLE DBA - 4
+employer_name                  | USM Business Sytems Inc
+secondary_entity_business_name | STATE OF WISCONSIN – DEPARTMENT OF ADMINISTRATION
+employer_poc_email             | immigration@usmsystems.com
+employer_poc_phone             | 17032630855
+employer_poc_first_name        | Asha
+employer_poc_last_name         | Haridas
+worksite_address1              | 5830 FEMRITE DR
+worksite_address2              | 
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 44320 Premier Plaza
+employer_address2              | Suite 210
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 12/18/2023
+end_date                       | 8/2/2025
 total_worker_positions         | 1
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
@@ -2975,7 +2975,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1212.00
 h_1b_dependent                 | Yes
 -[ RECORD 125 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22279-514052
+case_number                    | I-200-22278-512826
 job_title                      | IT PROJECT MANAGER
 employer_name                  | VENNSYS LLC
 secondary_entity_business_name | STATE OF WISCONSIN, DEPARTMENT OF JUSTICE
@@ -2999,7 +2999,7 @@ total_worker_positions         | 1
 soc_code                       | 11-3021.00
 h_1b_dependent                 | Yes
 -[ RECORD 126 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22278-512826
+case_number                    | I-200-22279-514052
 job_title                      | IT PROJECT MANAGER
 employer_name                  | VENNSYS LLC
 secondary_entity_business_name | STATE OF WISCONSIN, DEPARTMENT OF JUSTICE
@@ -3047,7 +3047,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 128 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23166-113623
+case_number                    | I-200-23186-166886
 job_title                      | CERTIFIED MICROSOFT .NET WEB DEVELOPER
 employer_name                  | VENNSYS LLC
 secondary_entity_business_name | STATE OF WISCONSIN, DEPARTMENT OF NATURAL RESOURCES (DNR)
@@ -3071,7 +3071,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 129 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23186-166886
+case_number                    | I-200-23166-113623
 job_title                      | CERTIFIED MICROSOFT .NET WEB DEVELOPER
 employer_name                  | VENNSYS LLC
 secondary_entity_business_name | STATE OF WISCONSIN, DEPARTMENT OF NATURAL RESOURCES (DNR)
@@ -3407,30 +3407,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 143 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-25087-811758
-job_title                      | Software Engineer
-employer_name                  | Raven Software Solutions Inc
-secondary_entity_business_name | State of WI/DOJ (Department of Justice)
-employer_poc_email             | hr@ravensoftwaresolutions.com
-employer_poc_phone             | 12142543373
-employer_poc_first_name        | Aliza
-employer_poc_last_name         | Singh
-worksite_address1              | 17 W Main St
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 1503 Lyndon B Johnson Fwy
-employer_address2              | STE 250
-employer_city                  | Farmers Branch
-employer_state                 | TX
-employer_postal_code           | 75234
-begin_date                     | 4/4/2025
-end_date                       | 4/3/2028
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 144 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-25080-793016
 job_title                      | Software Engineer
 employer_name                  | Raven Software Solutions Inc
@@ -3451,6 +3427,30 @@ employer_state                 | TX
 employer_postal_code           | 75234
 begin_date                     | 3/26/2025
 end_date                       | 3/25/2028
+total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 144 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-25087-811758
+job_title                      | Software Engineer
+employer_name                  | Raven Software Solutions Inc
+secondary_entity_business_name | State of WI/DOJ (Department of Justice)
+employer_poc_email             | hr@ravensoftwaresolutions.com
+employer_poc_phone             | 12142543373
+employer_poc_first_name        | Aliza
+employer_poc_last_name         | Singh
+worksite_address1              | 17 W Main St
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 1503 Lyndon B Johnson Fwy
+employer_address2              | STE 250
+employer_city                  | Farmers Branch
+employer_state                 | TX
+employer_postal_code           | 75234
+begin_date                     | 4/4/2025
+end_date                       | 4/3/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
@@ -3599,30 +3599,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 151 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24354-558499
-job_title                      | SharePoint Administrator
-employer_name                  | Beacon Hill Staffing Group LLC
-secondary_entity_business_name | State of Wisconsin
-employer_poc_email             | globaltalent@beaconhillstaffing.com
-employer_poc_phone             | 16178263974
-employer_poc_first_name        | Todal
-employer_poc_last_name         | Patel
-worksite_address1              | 4822 Madison Yards Way
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Trupti N Patel & Associates
-employer_address1              | 20 Ashburton Place
-employer_address2              | 5th Floor
-employer_city                  | Boston
-employer_state                 | MA
-employer_postal_code           | 02108
-begin_date                     | 6/13/2025
-end_date                       | 6/12/2028
-total_worker_positions         | 1
-soc_code                       | 15-1244
-h_1b_dependent                 | No
--[ RECORD 152 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22133-169687
 job_title                      | SharePoint Administrator
 employer_name                  | Beacon Hill Staffing Group LLC
@@ -3645,6 +3621,30 @@ begin_date                     | 6/13/2022
 end_date                       | 6/12/2025
 total_worker_positions         | 1
 soc_code                       | 15-1142.00
+h_1b_dependent                 | No
+-[ RECORD 152 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24354-558499
+job_title                      | SharePoint Administrator
+employer_name                  | Beacon Hill Staffing Group LLC
+secondary_entity_business_name | State of Wisconsin
+employer_poc_email             | globaltalent@beaconhillstaffing.com
+employer_poc_phone             | 16178263974
+employer_poc_first_name        | Todal
+employer_poc_last_name         | Patel
+worksite_address1              | 4822 Madison Yards Way
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Trupti N Patel & Associates
+employer_address1              | 20 Ashburton Place
+employer_address2              | 5th Floor
+employer_city                  | Boston
+employer_state                 | MA
+employer_postal_code           | 02108
+begin_date                     | 6/13/2025
+end_date                       | 6/12/2028
+total_worker_positions         | 1
+soc_code                       | 15-1244
 h_1b_dependent                 | No
 -[ RECORD 153 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23265-372863
@@ -3743,30 +3743,6 @@ total_worker_positions         | 1
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 157 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-20239-789387
-job_title                      | Peoplesoft Analyst III
-employer_name                  | ERP Analysts Inc
-secondary_entity_business_name | State of Wisconsin
-employer_poc_email             | erpaimmigration@erpagroup.com
-employer_poc_phone             | 16147189222
-employer_poc_first_name        | Manjusha
-employer_poc_last_name         | Akkapeddi
-worksite_address1              | 101 E Wilson St
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Sam Shihab & Associates LLC
-employer_address1              | 425 Metro Place North
-employer_address2              | Suite 510
-employer_city                  | Dublin
-employer_state                 | OH
-employer_postal_code           | 43017
-begin_date                     | 9/1/2020
-end_date                       | 8/31/2023
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 158 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-21158-376380
 job_title                      | Peoplesoft Analyst III
 employer_name                  | ERP Analysts Inc
@@ -3786,6 +3762,30 @@ employer_city                  | Dublin
 employer_state                 | OH
 employer_postal_code           | 43017
 begin_date                     | 6/15/2021
+end_date                       | 8/31/2023
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 158 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-20239-789387
+job_title                      | Peoplesoft Analyst III
+employer_name                  | ERP Analysts Inc
+secondary_entity_business_name | State of Wisconsin
+employer_poc_email             | erpaimmigration@erpagroup.com
+employer_poc_phone             | 16147189222
+employer_poc_first_name        | Manjusha
+employer_poc_last_name         | Akkapeddi
+worksite_address1              | 101 E Wilson St
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Sam Shihab & Associates LLC
+employer_address1              | 425 Metro Place North
+employer_address2              | Suite 510
+employer_city                  | Dublin
+employer_state                 | OH
+employer_postal_code           | 43017
+begin_date                     | 9/1/2020
 end_date                       | 8/31/2023
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
@@ -4127,174 +4127,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 173 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23229-273577
-job_title                      | Software Developer
-employer_name                  | Symphony Corporation
-secondary_entity_business_name | State of Wisconsin
-employer_poc_email             | usha.shankar@symphonycorp.com
-employer_poc_phone             | 16082063009
-employer_poc_first_name        | Usha
-employer_poc_last_name         | Narayanaswamy
-worksite_address1              | 201 West Washington Avenue
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Murthy Law Firm
-employer_address1              | 22 East Mifflin Street
-employer_address2              | Suite 400
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 9/1/2023
-end_date                       | 8/31/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 174 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23269-381233
-job_title                      | Data Warehouse Developer
-employer_name                  | Symphony Corporation
-secondary_entity_business_name | State of Wisconsin
-employer_poc_email             | usha.shankar@symphonycorp.com
-employer_poc_phone             | 16082063009
-employer_poc_first_name        | Usha
-employer_poc_last_name         | Narayanaswamy
-worksite_address1              | 201 West Washington Avenue
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Murthy Law Firm
-employer_address1              | 22 East Mifflin Street
-employer_address2              | Suite 400
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 3/25/2024
-end_date                       | 3/24/2027
-total_worker_positions         | 1
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 175 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-21267-604711
-job_title                      | Senior Programmer / Analyst
-employer_name                  | Symphony Corporation
-secondary_entity_business_name | State of Wisconsin
-employer_poc_email             | usha.shankar@symphonycorp.com
-employer_poc_phone             | 16086617608
-employer_poc_first_name        | Usha
-employer_poc_last_name         | Narayanaswamy
-worksite_address1              | 212 East Washington Avenue
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Murthy Law Firm
-employer_address1              | 22 East Mifflin Street
-employer_address2              | Suite 400
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 10/1/2021
-end_date                       | 9/30/2024
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 176 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22363-665443
-job_title                      | Programmer / Analyst
-employer_name                  | Symphony Corporation
-secondary_entity_business_name | State of Wisconsin
-employer_poc_email             | usha.shankar@symphonycorp.com
-employer_poc_phone             | 16082063009
-employer_poc_first_name        | Usha
-employer_poc_last_name         | Narayanaswamy
-worksite_address1              | 4822 Madison Yards Way
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Murthy Law Firm
-employer_address1              | 22 East Mifflin Street
-employer_address2              | Suite 400
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 6/29/2023
-end_date                       | 6/28/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 177 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23286-429911
-job_title                      | Datawarehouse Developer
-employer_name                  | Symphony Corporation
-secondary_entity_business_name | State of Wisconsin
-employer_poc_email             | usha.shankar@symphonycorp.com
-employer_poc_phone             | 16082063009
-employer_poc_first_name        | Usha
-employer_poc_last_name         | Narayanaswamy
-worksite_address1              | 201 East Washington Avenue
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Murthy Law Firm
-employer_address1              | 22 East Mifflin Street
-employer_address2              | Suite 400
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 4/10/2024
-end_date                       | 4/9/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 178 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23024-722825
-job_title                      | Programmer / Analyst
-employer_name                  | Symphony Corporation
-secondary_entity_business_name | State of Wisconsin
-employer_poc_email             | usha.shankar@symphonycorp.com
-employer_poc_phone             | 16082063009
-employer_poc_first_name        | Usha
-employer_poc_last_name         | Narayanaswamy
-worksite_address1              | 4822 Madison Yards Way
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Murthy Law Firm
-employer_address1              | 22 East Mifflin Street
-employer_address2              | Suite 400
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 6/29/2023
-end_date                       | 6/28/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 179 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23017-706530
-job_title                      | Software Developer
-employer_name                  | Symphony Corporation
-secondary_entity_business_name | State of Wisconsin
-employer_poc_email             | usha.shankar@symphonycorp.com
-employer_poc_phone             | 16082063009
-employer_poc_first_name        | Usha
-employer_poc_last_name         | Narayanaswamy
-worksite_address1              | 201 East Washington Avenue
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Murthy Law Firm
-employer_address1              | 22 East Mifflin Street
-employer_address2              | Suite 400
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 6/20/2023
-end_date                       | 6/19/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 180 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24267-357373
 job_title                      | CRM Dynamics Developer
 employer_name                  | Symphony Corporation
@@ -4318,7 +4150,31 @@ end_date                       | 2/13/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 181 ]----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 174 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23017-706530
+job_title                      | Software Developer
+employer_name                  | Symphony Corporation
+secondary_entity_business_name | State of Wisconsin
+employer_poc_email             | usha.shankar@symphonycorp.com
+employer_poc_phone             | 16082063009
+employer_poc_first_name        | Usha
+employer_poc_last_name         | Narayanaswamy
+worksite_address1              | 201 East Washington Avenue
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Murthy Law Firm
+employer_address1              | 22 East Mifflin Street
+employer_address2              | Suite 400
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53703
+begin_date                     | 6/20/2023
+end_date                       | 6/19/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 175 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-21322-713827
 job_title                      | Software Developer
 employer_name                  | Symphony Corporation
@@ -4342,7 +4198,127 @@ end_date                       | 11/28/2024
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 182 ]----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 176 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23024-722825
+job_title                      | Programmer / Analyst
+employer_name                  | Symphony Corporation
+secondary_entity_business_name | State of Wisconsin
+employer_poc_email             | usha.shankar@symphonycorp.com
+employer_poc_phone             | 16082063009
+employer_poc_first_name        | Usha
+employer_poc_last_name         | Narayanaswamy
+worksite_address1              | 4822 Madison Yards Way
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Murthy Law Firm
+employer_address1              | 22 East Mifflin Street
+employer_address2              | Suite 400
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53703
+begin_date                     | 6/29/2023
+end_date                       | 6/28/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 177 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22363-665443
+job_title                      | Programmer / Analyst
+employer_name                  | Symphony Corporation
+secondary_entity_business_name | State of Wisconsin
+employer_poc_email             | usha.shankar@symphonycorp.com
+employer_poc_phone             | 16082063009
+employer_poc_first_name        | Usha
+employer_poc_last_name         | Narayanaswamy
+worksite_address1              | 4822 Madison Yards Way
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Murthy Law Firm
+employer_address1              | 22 East Mifflin Street
+employer_address2              | Suite 400
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53703
+begin_date                     | 6/29/2023
+end_date                       | 6/28/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 178 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-21267-604711
+job_title                      | Senior Programmer / Analyst
+employer_name                  | Symphony Corporation
+secondary_entity_business_name | State of Wisconsin
+employer_poc_email             | usha.shankar@symphonycorp.com
+employer_poc_phone             | 16086617608
+employer_poc_first_name        | Usha
+employer_poc_last_name         | Narayanaswamy
+worksite_address1              | 212 East Washington Avenue
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Murthy Law Firm
+employer_address1              | 22 East Mifflin Street
+employer_address2              | Suite 400
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53703
+begin_date                     | 10/1/2021
+end_date                       | 9/30/2024
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 179 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23229-273577
+job_title                      | Software Developer
+employer_name                  | Symphony Corporation
+secondary_entity_business_name | State of Wisconsin
+employer_poc_email             | usha.shankar@symphonycorp.com
+employer_poc_phone             | 16082063009
+employer_poc_first_name        | Usha
+employer_poc_last_name         | Narayanaswamy
+worksite_address1              | 201 West Washington Avenue
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Murthy Law Firm
+employer_address1              | 22 East Mifflin Street
+employer_address2              | Suite 400
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53703
+begin_date                     | 9/1/2023
+end_date                       | 8/31/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 180 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23269-381233
+job_title                      | Data Warehouse Developer
+employer_name                  | Symphony Corporation
+secondary_entity_business_name | State of Wisconsin
+employer_poc_email             | usha.shankar@symphonycorp.com
+employer_poc_phone             | 16082063009
+employer_poc_first_name        | Usha
+employer_poc_last_name         | Narayanaswamy
+worksite_address1              | 201 West Washington Avenue
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Murthy Law Firm
+employer_address1              | 22 East Mifflin Street
+employer_address2              | Suite 400
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53703
+begin_date                     | 3/25/2024
+end_date                       | 3/24/2027
+total_worker_positions         | 1
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 181 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-21292-652855
 job_title                      | Software Developer
 employer_name                  | Symphony Corporation
@@ -4365,6 +4341,30 @@ begin_date                     | 10/25/2021
 end_date                       | 10/24/2024
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 182 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23286-429911
+job_title                      | Datawarehouse Developer
+employer_name                  | Symphony Corporation
+secondary_entity_business_name | State of Wisconsin
+employer_poc_email             | usha.shankar@symphonycorp.com
+employer_poc_phone             | 16082063009
+employer_poc_first_name        | Usha
+employer_poc_last_name         | Narayanaswamy
+worksite_address1              | 201 East Washington Avenue
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Murthy Law Firm
+employer_address1              | 22 East Mifflin Street
+employer_address2              | Suite 400
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53703
+begin_date                     | 4/10/2024
+end_date                       | 4/9/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 183 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24170-124594
@@ -4535,7 +4535,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 190 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24043-710847
+case_number                    | I-200-24031-680487
 job_title                      | Systems Analyst
 employer_name                  | Smart Information Management Systems Inc
 secondary_entity_business_name | State of Wisconsin (Department of Revenue)
@@ -4559,7 +4559,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 191 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24031-680487
+case_number                    | I-200-24043-710847
 job_title                      | Systems Analyst
 employer_name                  | Smart Information Management Systems Inc
 secondary_entity_business_name | State of Wisconsin (Department of Revenue)
@@ -4847,30 +4847,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 203 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23081-870324
-job_title                      | Network Engineer
-employer_name                  | Numbers Only Inc
-secondary_entity_business_name | State of Wisconsin - Department of Administration
-employer_poc_email             | SPOLAVARAPU@NUMBERSONLY.COM
-employer_poc_phone             | 18172516200
-employer_poc_first_name        | SHARMILA
-employer_poc_last_name         | POLAVARAPU
-worksite_address1              | 5830 Femrite Dr
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Shankar And Associates, PC
-employer_address1              | 1848 Norwood Plaza
-employer_address2              | Suite 112
-employer_city                  | Hurst
-employer_state                 | TX
-employer_postal_code           | 76054
-begin_date                     | 5/23/2023
-end_date                       | 5/22/2026
-total_worker_positions         | 1
-soc_code                       | 15-1241.00
-h_1b_dependent                 | Yes
--[ RECORD 204 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23047-780082
 job_title                      | Network Engineer
 employer_name                  | Numbers Only Inc
@@ -4891,6 +4867,30 @@ employer_state                 | TX
 employer_postal_code           | 76054
 begin_date                     | 5/26/2023
 end_date                       | 5/25/2026
+total_worker_positions         | 1
+soc_code                       | 15-1241.00
+h_1b_dependent                 | Yes
+-[ RECORD 204 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23081-870324
+job_title                      | Network Engineer
+employer_name                  | Numbers Only Inc
+secondary_entity_business_name | State of Wisconsin - Department of Administration
+employer_poc_email             | SPOLAVARAPU@NUMBERSONLY.COM
+employer_poc_phone             | 18172516200
+employer_poc_first_name        | SHARMILA
+employer_poc_last_name         | POLAVARAPU
+worksite_address1              | 5830 Femrite Dr
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Shankar And Associates, PC
+employer_address1              | 1848 Norwood Plaza
+employer_address2              | Suite 112
+employer_city                  | Hurst
+employer_state                 | TX
+employer_postal_code           | 76054
+begin_date                     | 5/23/2023
+end_date                       | 5/22/2026
 total_worker_positions         | 1
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
@@ -5591,30 +5591,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 234 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22140-196172
-job_title                      | GIS Engineer
-employer_name                  | Vuesol Technologies Inc
-secondary_entity_business_name | State of Wisconsin Department of Transportation
-employer_poc_email             | legal@vuesol.com
-employer_poc_phone             | 16788620550
-employer_poc_first_name        | Asma
-employer_poc_last_name         | Ratani
-worksite_address1              | 4822 Madison Yards Way
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Reddy & Neumann P.C.
-employer_address1              | 4625 Alexander Dr. Ste. 245
-employer_address2              | 
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30022
-begin_date                     | 10/1/2022
-end_date                       | 9/30/2025
-total_worker_positions         | 1
-soc_code                       | 15-1199.05
-h_1b_dependent                 | Yes
--[ RECORD 235 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22298-550203
 job_title                      | GIS Engineer
 employer_name                  | Vuesol Technologies Inc
@@ -5637,6 +5613,30 @@ begin_date                     | 11/1/2022
 end_date                       | 10/31/2025
 total_worker_positions         | 1
 soc_code                       | 15-1299.02
+h_1b_dependent                 | Yes
+-[ RECORD 235 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22140-196172
+job_title                      | GIS Engineer
+employer_name                  | Vuesol Technologies Inc
+secondary_entity_business_name | State of Wisconsin Department of Transportation
+employer_poc_email             | legal@vuesol.com
+employer_poc_phone             | 16788620550
+employer_poc_first_name        | Asma
+employer_poc_last_name         | Ratani
+worksite_address1              | 4822 Madison Yards Way
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Reddy & Neumann P.C.
+employer_address1              | 4625 Alexander Dr. Ste. 245
+employer_address2              | 
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30022
+begin_date                     | 10/1/2022
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+soc_code                       | 15-1199.05
 h_1b_dependent                 | Yes
 -[ RECORD 236 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24296-423877
@@ -5903,7 +5903,7 @@ total_worker_positions         | 1
 soc_code                       | 15-2031.00
 h_1b_dependent                 | Yes
 -[ RECORD 247 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22139-188477
+case_number                    | I-200-22139-188486
 job_title                      | Java Developer
 employer_name                  | Tek Excel Inc
 secondary_entity_business_name | State of Wisconsin – DOR
@@ -5927,6 +5927,30 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 248 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22139-188477
+job_title                      | Java Developer
+employer_name                  | Tek Excel Inc
+secondary_entity_business_name | State of Wisconsin – DOR
+employer_poc_email             | info@tekexcelinc.com
+employer_poc_phone             | 18479870170
+employer_poc_first_name        | Suresh K
+employer_poc_last_name         | Paimagham
+worksite_address1              | 2135 Rimrock Rd
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | International Legal and Business Services Group LLP
+employer_address1              | 450 Airport Road
+employer_address2              | Suite 109
+employer_city                  | Elgin
+employer_state                 | IL
+employer_postal_code           | 60123
+begin_date                     | 5/19/2022
+end_date                       | 5/18/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 249 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22140-193284
 job_title                      | Java Developer
 employer_name                  | Tek Excel Inc
@@ -5947,30 +5971,6 @@ employer_state                 | IL
 employer_postal_code           | 60123
 begin_date                     | 5/20/2022
 end_date                       | 5/19/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 249 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22139-188486
-job_title                      | Java Developer
-employer_name                  | Tek Excel Inc
-secondary_entity_business_name | State of Wisconsin – DOR
-employer_poc_email             | info@tekexcelinc.com
-employer_poc_phone             | 18479870170
-employer_poc_first_name        | Suresh K
-employer_poc_last_name         | Paimagham
-worksite_address1              | 2135 Rimrock Rd
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | International Legal and Business Services Group LLP
-employer_address1              | 450 Airport Road
-employer_address2              | Suite 109
-employer_city                  | Elgin
-employer_state                 | IL
-employer_postal_code           | 60123
-begin_date                     | 5/19/2022
-end_date                       | 5/18/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
@@ -6167,30 +6167,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1211
 h_1b_dependent                 | Yes
 -[ RECORD 258 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24219-248627
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | NATSOFT CORPORATION
-secondary_entity_business_name | State of Wisconsin, DEPARTMENT OF WORKFORCE DEVELOPMENT
-employer_poc_email             | TIMMY@NATSOFT.US
-employer_poc_phone             | 17327260593
-employer_poc_first_name        | TIRUMALA
-employer_poc_last_name         | CHEEDALA
-worksite_address1              | 201 E WASHINGTON AVE
-worksite_address2              | 
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 27 WORLDS FAIR DR
-employer_address2              | 
-employer_city                  | SOMERSET
-employer_state                 | NJ
-employer_postal_code           | 08873
-begin_date                     | 2/3/2025
-end_date                       | 2/2/2028
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 259 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22027-857018
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | NATSOFT CORPORATION
@@ -6214,7 +6190,7 @@ end_date                       | 2/2/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 260 ]----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 259 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22021-844560
 job_title                      | SYSTEMS ANALYST
 employer_name                  | NATSOFT CORPORATION
@@ -6237,6 +6213,30 @@ begin_date                     | 1/28/2022
 end_date                       | 1/27/2025
 total_worker_positions         | 1
 soc_code                       | 15-1121.00
+h_1b_dependent                 | Yes
+-[ RECORD 260 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24219-248627
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | NATSOFT CORPORATION
+secondary_entity_business_name | State of Wisconsin, DEPARTMENT OF WORKFORCE DEVELOPMENT
+employer_poc_email             | TIMMY@NATSOFT.US
+employer_poc_phone             | 17327260593
+employer_poc_first_name        | TIRUMALA
+employer_poc_last_name         | CHEEDALA
+worksite_address1              | 201 E WASHINGTON AVE
+worksite_address2              | 
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 27 WORLDS FAIR DR
+employer_address2              | 
+employer_city                  | SOMERSET
+employer_state                 | NJ
+employer_postal_code           | 08873
+begin_date                     | 2/3/2025
+end_date                       | 2/2/2028
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 261 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23212-227750
@@ -6311,30 +6311,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1122.00
 h_1b_dependent                 | Yes
 -[ RECORD 264 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22116-105260
-job_title                      | INFORMATION SECURITY ANALYST
-employer_name                  | ENCORE CONSULTING SERVICES INC
-secondary_entity_business_name | State of Wisconsin, Department of Corrections
-employer_poc_email             | HRADMIN@ENCORE-C.COM
-employer_poc_phone             | 18472220244
-employer_poc_first_name        | Chak
-employer_poc_last_name         | Akula
-worksite_address1              | 3099 E Washington Ave
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 1701 E WOODFIELD ROAD
-employer_address2              | SUITE-910
-employer_city                  | SCHAUMBURG
-employer_state                 | IL
-employer_postal_code           | 60173
-begin_date                     | 10/1/2022
-end_date                       | 9/30/2025
-total_worker_positions         | 1
-soc_code                       | 15-1122.00
-h_1b_dependent                 | Yes
--[ RECORD 265 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22110-087911
 job_title                      | INFORMATION SECURITY ANALYST
 employer_name                  | ENCORE CONSULTING SERVICES INC
@@ -6355,6 +6331,30 @@ employer_state                 | IL
 employer_postal_code           | 60173
 begin_date                     | 4/25/2022
 end_date                       | 4/24/2025
+total_worker_positions         | 1
+soc_code                       | 15-1122.00
+h_1b_dependent                 | Yes
+-[ RECORD 265 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22116-105260
+job_title                      | INFORMATION SECURITY ANALYST
+employer_name                  | ENCORE CONSULTING SERVICES INC
+secondary_entity_business_name | State of Wisconsin, Department of Corrections
+employer_poc_email             | HRADMIN@ENCORE-C.COM
+employer_poc_phone             | 18472220244
+employer_poc_first_name        | Chak
+employer_poc_last_name         | Akula
+worksite_address1              | 3099 E Washington Ave
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 1701 E WOODFIELD ROAD
+employer_address2              | SUITE-910
+employer_city                  | SCHAUMBURG
+employer_state                 | IL
+employer_postal_code           | 60173
+begin_date                     | 10/1/2022
+end_date                       | 9/30/2025
 total_worker_positions         | 1
 soc_code                       | 15-1122.00
 h_1b_dependent                 | Yes
@@ -6719,30 +6719,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 281 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24067-779040
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | COMPUNNEL SOFTWARE GROUP INC
-secondary_entity_business_name | State of Wisconsin- Department of Corrections
-employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
-employer_poc_phone             | 16096069010
-employer_poc_first_name        | STEVE
-employer_poc_last_name         | MONTELEONE
-worksite_address1              | 3099 E Washington Ave
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 103 MORGAN LANE
-employer_address2              | SUITE 102
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 9/1/2024
-end_date                       | 8/31/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 282 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24082-825160
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -6763,6 +6739,30 @@ employer_state                 | NJ
 employer_postal_code           | 08536
 begin_date                     | 3/22/2024
 end_date                       | 3/21/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 282 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24067-779040
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+secondary_entity_business_name | State of Wisconsin- Department of Corrections
+employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
+employer_poc_phone             | 16096069010
+employer_poc_first_name        | STEVE
+employer_poc_last_name         | MONTELEONE
+worksite_address1              | 3099 E Washington Ave
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 103 MORGAN LANE
+employer_address2              | SUITE 102
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 9/1/2024
+end_date                       | 8/31/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -6791,30 +6791,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 284 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22063-951312
-job_title                      | Data Warehouse Developer III
-employer_name                  | Info Services LLC
-secondary_entity_business_name | State of Wisconsin- Department of Corrections
-employer_poc_email             | madhav@infoservicesllc.com
-employer_poc_phone             | 17343776007
-employer_poc_first_name        | Madhava
-employer_poc_last_name         | Kota
-worksite_address1              | 3099 East Washington Avenue
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
-employer_address1              | 17177 North Laurel Park Drive
-employer_address2              | Suite 335
-employer_city                  | Livonia
-employer_state                 | MI
-employer_postal_code           | 48152
-begin_date                     | 8/29/2022
-end_date                       | 8/28/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 285 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22066-957347
 job_title                      | Data Warehouse Developer III
 employer_name                  | Info Services LLC
@@ -6835,6 +6811,30 @@ employer_state                 | MI
 employer_postal_code           | 48152
 begin_date                     | 3/14/2022
 end_date                       | 3/13/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 285 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22063-951312
+job_title                      | Data Warehouse Developer III
+employer_name                  | Info Services LLC
+secondary_entity_business_name | State of Wisconsin- Department of Corrections
+employer_poc_email             | madhav@infoservicesllc.com
+employer_poc_phone             | 17343776007
+employer_poc_first_name        | Madhava
+employer_poc_last_name         | Kota
+worksite_address1              | 3099 East Washington Avenue
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
+employer_address1              | 17177 North Laurel Park Drive
+employer_address2              | Suite 335
+employer_city                  | Livonia
+employer_state                 | MI
+employer_postal_code           | 48152
+begin_date                     | 8/29/2022
+end_date                       | 8/28/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
@@ -6911,7 +6911,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 289 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22019-840089
+case_number                    | I-200-25043-688200
 job_title                      | Data Warehouse Analyst III
 employer_name                  | SCHRILL TECHNOLOGIES INC
 secondary_entity_business_name | State of Wisconsin-DCF (Department of Children and Families)
@@ -6929,10 +6929,10 @@ employer_address2              | STE 430-S
 employer_city                  | HOUSTON
 employer_state                 | TX
 employer_postal_code           | 77036
-begin_date                     | 7/1/2022
-end_date                       | 6/30/2025
+begin_date                     | 7/1/2025
+end_date                       | 6/30/2028
 total_worker_positions         | 1
-soc_code                       | 15-1133.00
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 290 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-25043-688405
@@ -6959,7 +6959,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 291 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-25043-688200
+case_number                    | I-200-22019-840089
 job_title                      | Data Warehouse Analyst III
 employer_name                  | SCHRILL TECHNOLOGIES INC
 secondary_entity_business_name | State of Wisconsin-DCF (Department of Children and Families)
@@ -6977,10 +6977,10 @@ employer_address2              | STE 430-S
 employer_city                  | HOUSTON
 employer_state                 | TX
 employer_postal_code           | 77036
-begin_date                     | 7/1/2025
-end_date                       | 6/30/2028
+begin_date                     | 7/1/2022
+end_date                       | 6/30/2025
 total_worker_positions         | 1
-soc_code                       | 15-1252
+soc_code                       | 15-1133.00
 h_1b_dependent                 | Yes
 -[ RECORD 292 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-20150-611552
@@ -7199,30 +7199,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 301 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23171-127858
-job_title                      | Software Developer
-employer_name                  | Namitus Technologies Inc
-secondary_entity_business_name | WI DHS (Department of Health services)
-employer_poc_email             | Sateesh@namitus.com
-employer_poc_phone             | 12145133133
-employer_poc_first_name        | Sateesh
-employer_poc_last_name         | Nagilla
-worksite_address1              | 834 E Washington Ave
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 9300 John Hickman Pkwy
-employer_address2              | Suite 905
-employer_city                  | Frisco
-employer_state                 | TX
-employer_postal_code           | 75035
-begin_date                     | 6/26/2023
-end_date                       | 6/25/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 302 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23171-127948
 job_title                      | Computer System Analyst
 employer_name                  | Namitus Technologies Inc
@@ -7245,6 +7221,30 @@ begin_date                     | 6/26/2023
 end_date                       | 6/25/2026
 total_worker_positions         | 1
 soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 302 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23171-127858
+job_title                      | Software Developer
+employer_name                  | Namitus Technologies Inc
+secondary_entity_business_name | WI DHS (Department of Health services)
+employer_poc_email             | Sateesh@namitus.com
+employer_poc_phone             | 12145133133
+employer_poc_first_name        | Sateesh
+employer_poc_last_name         | Nagilla
+worksite_address1              | 834 E Washington Ave
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 9300 John Hickman Pkwy
+employer_address2              | Suite 905
+employer_city                  | Frisco
+employer_state                 | TX
+employer_postal_code           | 75035
+begin_date                     | 6/26/2023
+end_date                       | 6/25/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 303 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-21286-642116
@@ -7583,6 +7583,30 @@ total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 317 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23072-842015
+job_title                      | COBOL MAINFRAME PROGRAMMER
+employer_name                  | VENNSYS LLC
+secondary_entity_business_name | WISCONSIN DEPARTMENT OF CHILDREN AND FAMILIES
+employer_poc_email             | RAGHUPAL@VENNSYS.COM
+employer_poc_phone             | 16082419060
+employer_poc_first_name        | RAGHUNATH
+employer_poc_last_name         | VULPAL
+worksite_address1              | 201 E. WASHINGTON AVENUE
+worksite_address2              | 
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | MVP LAW GROUP, P.A.
+employer_address1              | 2307 PARMENTER STREET
+employer_address2              | SUITE B2
+employer_city                  | MIDDLETON
+employer_state                 | WI
+employer_postal_code           | 53562
+begin_date                     | 7/19/2023
+end_date                       | 7/18/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 318 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22075-983248
 job_title                      | BI DATA WAREHOUSE DEVELOPER
 employer_name                  | VENNSYS LLC
@@ -7606,7 +7630,7 @@ end_date                       | 3/31/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 318 ]----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 319 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24341-523963
 job_title                      | Business Intelligence Technical Lead
 employer_name                  | VENNSYS LLC
@@ -7629,30 +7653,6 @@ begin_date                     | 4/1/2025
 end_date                       | 3/31/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 319 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23072-842015
-job_title                      | COBOL MAINFRAME PROGRAMMER
-employer_name                  | VENNSYS LLC
-secondary_entity_business_name | WISCONSIN DEPARTMENT OF CHILDREN AND FAMILIES
-employer_poc_email             | RAGHUPAL@VENNSYS.COM
-employer_poc_phone             | 16082419060
-employer_poc_first_name        | RAGHUNATH
-employer_poc_last_name         | VULPAL
-worksite_address1              | 201 E. WASHINGTON AVENUE
-worksite_address2              | 
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | MVP LAW GROUP, P.A.
-employer_address1              | 2307 PARMENTER STREET
-employer_address2              | SUITE B2
-employer_city                  | MIDDLETON
-employer_state                 | WI
-employer_postal_code           | 53562
-begin_date                     | 7/19/2023
-end_date                       | 7/18/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 320 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24337-509652
@@ -7679,30 +7679,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 321 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22206-373842
-job_title                      | .NET WEB DEVELOPER
-employer_name                  | VENNSYS LLC
-secondary_entity_business_name | WISCONSIN DEPARTMENT OF CHILDREN AND FAMILIES (DCF)
-employer_poc_email             | RAGHUPAL@VENNSYS.COM
-employer_poc_phone             | 16082419060
-employer_poc_first_name        | RAGHUNATH
-employer_poc_last_name         | VULPAL
-worksite_address1              | 201 WEST WASHINGTON AVENUE
-worksite_address2              | 
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | MVP LAW GROUP, P.A.
-employer_address1              | 2307 PARMENTER STREET
-employer_address2              | SUITE B2
-employer_city                  | MIDDLETON
-employer_state                 | WI
-employer_postal_code           | 53562
-begin_date                     | 8/15/2022
-end_date                       | 2/13/2023
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 322 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22025-851202
 job_title                      | .NET WEB DEVELOPER
 employer_name                  | VENNSYS LLC
@@ -7725,6 +7701,30 @@ begin_date                     | 2/7/2022
 end_date                       | 2/6/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 322 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22206-373842
+job_title                      | .NET WEB DEVELOPER
+employer_name                  | VENNSYS LLC
+secondary_entity_business_name | WISCONSIN DEPARTMENT OF CHILDREN AND FAMILIES (DCF)
+employer_poc_email             | RAGHUPAL@VENNSYS.COM
+employer_poc_phone             | 16082419060
+employer_poc_first_name        | RAGHUNATH
+employer_poc_last_name         | VULPAL
+worksite_address1              | 201 WEST WASHINGTON AVENUE
+worksite_address2              | 
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | MVP LAW GROUP, P.A.
+employer_address1              | 2307 PARMENTER STREET
+employer_address2              | SUITE B2
+employer_city                  | MIDDLETON
+employer_state                 | WI
+employer_postal_code           | 53562
+begin_date                     | 8/15/2022
+end_date                       | 2/13/2023
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 323 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22307-566554
@@ -7895,7 +7895,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 330 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24339-517426
+case_number                    | I-200-24339-517329
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | INVICKTUS INC
 secondary_entity_business_name | WISCONSIN DEPARTMENT OF FINANCIAL INSTITUTIONS
@@ -7919,7 +7919,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 331 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24339-517329
+case_number                    | I-200-24339-517426
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | INVICKTUS INC
 secondary_entity_business_name | WISCONSIN DEPARTMENT OF FINANCIAL INSTITUTIONS
@@ -7967,6 +7967,30 @@ total_worker_positions         | 1
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 333 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24095-854973
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | DATAEDGE INC
+secondary_entity_business_name | WISCONSIN DEPARTMENT OF HEALTH SERVICES
+employer_poc_email             | HR@DATAEDGEUSA.COM
+employer_poc_phone             | 18478864848
+employer_poc_first_name        | VIJAY
+employer_poc_last_name         | MUSUNURU
+worksite_address1              | 1 W WILSON ST
+worksite_address2              | 
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 650 E DEVON AVE
+employer_address2              | SUITE 180
+employer_city                  | ITASCA
+employer_state                 | IL
+employer_postal_code           | 60143
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 334 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-21350-769393
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | DATAEDGE INC
@@ -7990,32 +8014,8 @@ end_date                       | 12/15/2024
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 334 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24108-895197
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | DATAEDGE INC
-secondary_entity_business_name | WISCONSIN DEPARTMENT OF HEALTH SERVICES
-employer_poc_email             | HR@DATAEDGEUSA.COM
-employer_poc_phone             | 18478864848
-employer_poc_first_name        | VIJAY
-employer_poc_last_name         | MUSUNURU
-worksite_address1              | 1 W WILSON ST
-worksite_address2              | 
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 650 E DEVON AVE
-employer_address2              | SUITE 180
-employer_city                  | ITASCA
-employer_state                 | IL
-employer_postal_code           | 60143
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
 -[ RECORD 335 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24095-854973
+case_number                    | I-200-24108-895197
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | DATAEDGE INC
 secondary_entity_business_name | WISCONSIN DEPARTMENT OF HEALTH SERVICES
@@ -8159,30 +8159,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 341 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22076-986631
-job_title                      | .NET WEB DEVELOPER
-employer_name                  | VENNSYS LLC
-secondary_entity_business_name | WISCONSIN DEPARTMENT OF NATURAL RESOURCES (DNR)
-employer_poc_email             | RAGHUPAL@VENNSYS.COM
-employer_poc_phone             | 16082419060
-employer_poc_first_name        | RAGHUNATH
-employer_poc_last_name         | VULPAL
-worksite_address1              | 101 EAST WILSON STREET
-worksite_address2              | 
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | MVP LAW GROUP, P.A.
-employer_address1              | 2307 PARMENTER STREET
-employer_address2              | SUITE B2
-employer_city                  | MIDDLETON
-employer_state                 | WI
-employer_postal_code           | 53562
-begin_date                     | 4/4/2022
-end_date                       | 4/3/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 342 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24306-447254
 job_title                      | .NET WEB DEVELOPER
 employer_name                  | VENNSYS LLC
@@ -8205,6 +8181,30 @@ begin_date                     | 4/4/2025
 end_date                       | 4/3/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 342 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22076-986631
+job_title                      | .NET WEB DEVELOPER
+employer_name                  | VENNSYS LLC
+secondary_entity_business_name | WISCONSIN DEPARTMENT OF NATURAL RESOURCES (DNR)
+employer_poc_email             | RAGHUPAL@VENNSYS.COM
+employer_poc_phone             | 16082419060
+employer_poc_first_name        | RAGHUNATH
+employer_poc_last_name         | VULPAL
+worksite_address1              | 101 EAST WILSON STREET
+worksite_address2              | 
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | MVP LAW GROUP, P.A.
+employer_address1              | 2307 PARMENTER STREET
+employer_address2              | SUITE B2
+employer_city                  | MIDDLETON
+employer_state                 | WI
+employer_postal_code           | 53562
+begin_date                     | 4/4/2022
+end_date                       | 4/3/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 343 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22242-446162
@@ -8279,7 +8279,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1199.08
 h_1b_dependent                 | Yes
 -[ RECORD 346 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23321-509452
+case_number                    | I-200-24289-407782
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | PREMIER IT SOLUTIONS LLC
 secondary_entity_business_name | WISCONSIN DEPARTMENT OF TRANSPORTATION
@@ -8288,7 +8288,7 @@ employer_poc_phone             | 19722314747
 employer_poc_first_name        | KRUTIKA
 employer_poc_last_name         | AMIN
 worksite_address1              | 4822 MADISON YARDS WAY
-worksite_address2              | FLOOR 9 SOUTH
+worksite_address2              | FLOOR 9
 worksite_city                  | MADISON
 worksite_county                | DANE
 lawfirm_name_business_name     | 
@@ -8297,10 +8297,10 @@ employer_address2              | SUITE 270
 employer_city                  | RICHARDSON
 employer_state                 | TX
 employer_postal_code           | 75081
-begin_date                     | 11/27/2023
-end_date                       | 11/26/2026
+begin_date                     | 11/4/2024
+end_date                       | 11/3/2027
 total_worker_positions         | 1
-soc_code                       | 15-1252.00
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 347 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23321-509331
@@ -8327,30 +8327,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 348 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24289-407782
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | PREMIER IT SOLUTIONS LLC
-secondary_entity_business_name | WISCONSIN DEPARTMENT OF TRANSPORTATION
-employer_poc_email             | HR@PREMIERITSOLUTIONS.COM
-employer_poc_phone             | 19722314747
-employer_poc_first_name        | KRUTIKA
-employer_poc_last_name         | AMIN
-worksite_address1              | 4822 MADISON YARDS WAY
-worksite_address2              | FLOOR 9
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 801 E CAMPBELL ROAD
-employer_address2              | SUITE 270
-employer_city                  | RICHARDSON
-employer_state                 | TX
-employer_postal_code           | 75081
-begin_date                     | 11/4/2024
-end_date                       | 11/3/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 349 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23320-506899
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | PREMIER IT SOLUTIONS LLC
@@ -8371,6 +8347,30 @@ employer_state                 | TX
 employer_postal_code           | 75081
 begin_date                     | 12/4/2023
 end_date                       | 12/3/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 349 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23321-509452
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | PREMIER IT SOLUTIONS LLC
+secondary_entity_business_name | WISCONSIN DEPARTMENT OF TRANSPORTATION
+employer_poc_email             | HR@PREMIERITSOLUTIONS.COM
+employer_poc_phone             | 19722314747
+employer_poc_first_name        | KRUTIKA
+employer_poc_last_name         | AMIN
+worksite_address1              | 4822 MADISON YARDS WAY
+worksite_address2              | FLOOR 9 SOUTH
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 801 E CAMPBELL ROAD
+employer_address2              | SUITE 270
+employer_city                  | RICHARDSON
+employer_state                 | TX
+employer_postal_code           | 75081
+begin_date                     | 11/27/2023
+end_date                       | 11/26/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -8999,30 +8999,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 376 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23017-708086
-job_title                      | Business Analyst
-employer_name                  | TRISHULLA LLC
-secondary_entity_business_name | Wisconsin Department of Health Services
-employer_poc_email             | nikhil@trishulla.com
-employer_poc_phone             | 16087218029
-employer_poc_first_name        | NIKHIL
-employer_poc_last_name         | ZAVERI
-worksite_address1              | 1 W. Wilson Street
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | GUTTIKONDA LAW FIRM PLLC
-employer_address1              | 6629 UNIVERSITY AVENUE
-employer_address2              | SUITE 210
-employer_city                  | MIDDLETON
-employer_state                 | WI
-employer_postal_code           | 53562
-begin_date                     | 2/6/2023
-end_date                       | 9/30/2025
-total_worker_positions         | 1
-soc_code                       | 15-1211.00
-h_1b_dependent                 | No
--[ RECORD 377 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24340-519968
 job_title                      | Business Analyst
 employer_name                  | TRISHULLA LLC
@@ -9045,6 +9021,30 @@ begin_date                     | 6/2/2025
 end_date                       | 6/1/2028
 total_worker_positions         | 1
 soc_code                       | 15-1211
+h_1b_dependent                 | No
+-[ RECORD 377 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23017-708086
+job_title                      | Business Analyst
+employer_name                  | TRISHULLA LLC
+secondary_entity_business_name | Wisconsin Department of Health Services
+employer_poc_email             | nikhil@trishulla.com
+employer_poc_phone             | 16087218029
+employer_poc_first_name        | NIKHIL
+employer_poc_last_name         | ZAVERI
+worksite_address1              | 1 W. Wilson Street
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | GUTTIKONDA LAW FIRM PLLC
+employer_address1              | 6629 UNIVERSITY AVENUE
+employer_address2              | SUITE 210
+employer_city                  | MIDDLETON
+employer_state                 | WI
+employer_postal_code           | 53562
+begin_date                     | 2/6/2023
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+soc_code                       | 15-1211.00
 h_1b_dependent                 | No
 -[ RECORD 378 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23087-884583
@@ -9167,54 +9167,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 383 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23033-745805
-job_title                      | DATABASE ADMINISTRATOR
-employer_name                  | PARAMOUNT SOFTWARE SOLUTIONS INC
-secondary_entity_business_name | Wisconsin Department of Public Instruction
-employer_poc_email             | sajja@paramountsoft.net
-employer_poc_phone             | 17708578348
-employer_poc_first_name        | PRAMOD
-employer_poc_last_name         | SAJJA
-worksite_address1              | 125 S. Webster Street
-worksite_address2              | 
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | THE IMMANUEL LAW FIRM LLC
-employer_address1              | 4030 Old Milton Parkway
-employer_address2              | 
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 2/27/2023
-end_date                       | 2/26/2026
-total_worker_positions         | 1
-soc_code                       | 15-1242.00
-h_1b_dependent                 | Yes
--[ RECORD 384 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23345-557511
-job_title                      | DATABASE ADMINISTRATOR
-employer_name                  | PARAMOUNT SOFTWARE SOLUTIONS INC
-secondary_entity_business_name | Wisconsin Department of Public Instruction
-employer_poc_email             | sajja@paramountsoft.net
-employer_poc_phone             | 17708578348
-employer_poc_first_name        | PRAMOD
-employer_poc_last_name         | SAJJA
-worksite_address1              | 125 S. Webster Street
-worksite_address2              | 
-worksite_city                  | MADISON
-worksite_county                | DANE
-lawfirm_name_business_name     | THE IMMANUEL LAW FIRM LLC
-employer_address1              | 4030 Old Milton Parkway
-employer_address2              | 
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 12/11/2023
-end_date                       | 2/26/2026
-total_worker_positions         | 1
-soc_code                       | 15-1242.00
-h_1b_dependent                 | Yes
--[ RECORD 385 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-23023-720327
 job_title                      | DARABASE ADMINISTRATOR
 employer_name                  | PARAMOUNT SOFTWARE SOLUTIONS INC
@@ -9238,7 +9190,31 @@ end_date                       | 2/26/2026
 total_worker_positions         | 1
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 386 ]----------------+--------------------------------------------------------------------------------------------------
+-[ RECORD 384 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23033-745805
+job_title                      | DATABASE ADMINISTRATOR
+employer_name                  | PARAMOUNT SOFTWARE SOLUTIONS INC
+secondary_entity_business_name | Wisconsin Department of Public Instruction
+employer_poc_email             | sajja@paramountsoft.net
+employer_poc_phone             | 17708578348
+employer_poc_first_name        | PRAMOD
+employer_poc_last_name         | SAJJA
+worksite_address1              | 125 S. Webster Street
+worksite_address2              | 
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | THE IMMANUEL LAW FIRM LLC
+employer_address1              | 4030 Old Milton Parkway
+employer_address2              | 
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 2/27/2023
+end_date                       | 2/26/2026
+total_worker_positions         | 1
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 385 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24201-208795
 job_title                      | DATABASE ADMINISTRATOR
 employer_name                  | PARAMOUNT SOFTWARE SOLUTIONS INC
@@ -9258,6 +9234,30 @@ employer_city                  | Alpharetta
 employer_state                 | GA
 employer_postal_code           | 30005
 begin_date                     | 7/19/2024
+end_date                       | 2/26/2026
+total_worker_positions         | 1
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 386 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23345-557511
+job_title                      | DATABASE ADMINISTRATOR
+employer_name                  | PARAMOUNT SOFTWARE SOLUTIONS INC
+secondary_entity_business_name | Wisconsin Department of Public Instruction
+employer_poc_email             | sajja@paramountsoft.net
+employer_poc_phone             | 17708578348
+employer_poc_first_name        | PRAMOD
+employer_poc_last_name         | SAJJA
+worksite_address1              | 125 S. Webster Street
+worksite_address2              | 
+worksite_city                  | MADISON
+worksite_county                | DANE
+lawfirm_name_business_name     | THE IMMANUEL LAW FIRM LLC
+employer_address1              | 4030 Old Milton Parkway
+employer_address2              | 
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 12/11/2023
 end_date                       | 2/26/2026
 total_worker_positions         | 1
 soc_code                       | 15-1242.00
@@ -9479,30 +9479,6 @@ total_worker_positions         | 1
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 396 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-21305-678870
-job_title                      | Data Warehouse Analyst III
-employer_name                  | DRUVI Infosys LLC
-secondary_entity_business_name | Wisconsin Department of Transportation
-employer_poc_email             | geetha.lokasani@druviinfosys.com
-employer_poc_phone             | 16086099706
-employer_poc_first_name        | Geetha
-employer_poc_last_name         | Lokasani
-worksite_address1              | 4822 Madison Yards Way
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Jenna F. Heckler, PC
-employer_address1              | 410 Peachtree Pkwy
-employer_address2              | Suite 4245
-employer_city                  | Cumming
-employer_state                 | GA
-employer_postal_code           | 30041
-begin_date                     | 2/23/2022
-end_date                       | 2/22/2025
-total_worker_positions         | 1
-soc_code                       | 15-1141.00
-h_1b_dependent                 | No
--[ RECORD 397 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-21307-684494
 job_title                      | Data Warehouse Analyst III
 employer_name                  | DRUVI Infosys LLC
@@ -9523,6 +9499,30 @@ employer_state                 | GA
 employer_postal_code           | 30041
 begin_date                     | 2/3/2022
 end_date                       | 2/2/2025
+total_worker_positions         | 1
+soc_code                       | 15-1141.00
+h_1b_dependent                 | No
+-[ RECORD 397 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-21305-678870
+job_title                      | Data Warehouse Analyst III
+employer_name                  | DRUVI Infosys LLC
+secondary_entity_business_name | Wisconsin Department of Transportation
+employer_poc_email             | geetha.lokasani@druviinfosys.com
+employer_poc_phone             | 16086099706
+employer_poc_first_name        | Geetha
+employer_poc_last_name         | Lokasani
+worksite_address1              | 4822 Madison Yards Way
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Jenna F. Heckler, PC
+employer_address1              | 410 Peachtree Pkwy
+employer_address2              | Suite 4245
+employer_city                  | Cumming
+employer_state                 | GA
+employer_postal_code           | 30041
+begin_date                     | 2/23/2022
+end_date                       | 2/22/2025
 total_worker_positions         | 1
 soc_code                       | 15-1141.00
 h_1b_dependent                 | No
@@ -9551,30 +9551,6 @@ total_worker_positions         | 1
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 399 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22208-379593
-job_title                      | Software Engineer
-employer_name                  | Flexera Global Inc
-secondary_entity_business_name | Wisconsin Department of Transportation
-employer_poc_email             | hr@flexeraglobal.com
-employer_poc_phone             | 12813060503
-employer_poc_first_name        | Uma
-employer_poc_last_name         | Nannapaneni
-worksite_address1              | 4822 Madison Yards Way
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Harrison-Donaldson, Attorney at Law
-employer_address1              | 136 Eldridge Road
-employer_address2              | Unit C
-employer_city                  | Sugar Land
-employer_state                 | TX
-employer_postal_code           | 77478
-begin_date                     | 9/4/2022
-end_date                       | 9/3/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 400 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-25170-113167
 job_title                      | Software Engineer
 employer_name                  | Flexera Global Inc
@@ -9598,8 +9574,32 @@ end_date                       | 9/3/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
+-[ RECORD 400 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-25078-786326
+job_title                      | Software Engineer
+employer_name                  | Flexera Global Inc
+secondary_entity_business_name | Wisconsin Department of Transportation
+employer_poc_email             | hr@flexeraglobal.com
+employer_poc_phone             | 12813060502
+employer_poc_first_name        | Satish
+employer_poc_last_name         | Nannapaneni
+worksite_address1              | 4822 Madison Yards Way
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | 
+employer_address1              | 136 Eldridge Road Suite C
+employer_address2              | 
+employer_city                  | Sugar Land
+employer_state                 | TX
+employer_postal_code           | 77478
+begin_date                     | 3/20/2025
+end_date                       | 3/19/2028
+total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
 -[ RECORD 401 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22192-343465
+case_number                    | I-200-22208-379593
 job_title                      | Software Engineer
 employer_name                  | Flexera Global Inc
 secondary_entity_business_name | Wisconsin Department of Transportation
@@ -9623,28 +9623,28 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 402 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-25078-786326
+case_number                    | I-200-22192-343465
 job_title                      | Software Engineer
 employer_name                  | Flexera Global Inc
 secondary_entity_business_name | Wisconsin Department of Transportation
 employer_poc_email             | hr@flexeraglobal.com
-employer_poc_phone             | 12813060502
-employer_poc_first_name        | Satish
+employer_poc_phone             | 12813060503
+employer_poc_first_name        | Uma
 employer_poc_last_name         | Nannapaneni
 worksite_address1              | 4822 Madison Yards Way
 worksite_address2              | 
 worksite_city                  | Madison
 worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 136 Eldridge Road Suite C
-employer_address2              | 
+lawfirm_name_business_name     | Harrison-Donaldson, Attorney at Law
+employer_address1              | 136 Eldridge Road
+employer_address2              | Unit C
 employer_city                  | Sugar Land
 employer_state                 | TX
 employer_postal_code           | 77478
-begin_date                     | 3/20/2025
-end_date                       | 3/19/2028
+begin_date                     | 9/4/2022
+end_date                       | 9/3/2025
 total_worker_positions         | 1
-soc_code                       | 15-1252
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 403 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22027-859276
@@ -9671,28 +9671,28 @@ total_worker_positions         | 1
 soc_code                       | 15-1199.00
 h_1b_dependent                 | Yes
 -[ RECORD 404 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22081-997191
-job_title                      | Software Engineer
+case_number                    | I-200-23258-350774
+job_title                      | Software Developer
 employer_name                  | Flexera Global Inc
 secondary_entity_business_name | Wisconsin Department of Transportation (WisDOT)
 employer_poc_email             | hr@flexeraglobal.com
 employer_poc_phone             | 12813060503
 employer_poc_first_name        | Uma
 employer_poc_last_name         | Nannapaneni
-worksite_address1              | Hill Farms State Office Building, 4822 Madison Yards Way,
+worksite_address1              | Hill Farms State Office Building, 4822 Madison Yards Way
 worksite_address2              | 
 worksite_city                  | Madison
 worksite_county                | DANE
-lawfirm_name_business_name     | 
-employer_address1              | 136 Eldridge Road Unit C
-employer_address2              | 
+lawfirm_name_business_name     | Harrison-Donaldson, Attorney at Law
+employer_address1              | 136 Eldridge Road
+employer_address2              | Unit C
 employer_city                  | Sugar Land
 employer_state                 | TX
 employer_postal_code           | 77478
-begin_date                     | 3/30/2022
-end_date                       | 3/29/2025
+begin_date                     | 2/14/2024
+end_date                       | 2/13/2027
 total_worker_positions         | 1
-soc_code                       | 15-1132.00
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 405 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22109-083300
@@ -9719,28 +9719,28 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 406 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23258-350774
-job_title                      | Software Developer
+case_number                    | I-200-22081-997191
+job_title                      | Software Engineer
 employer_name                  | Flexera Global Inc
 secondary_entity_business_name | Wisconsin Department of Transportation (WisDOT)
 employer_poc_email             | hr@flexeraglobal.com
 employer_poc_phone             | 12813060503
 employer_poc_first_name        | Uma
 employer_poc_last_name         | Nannapaneni
-worksite_address1              | Hill Farms State Office Building, 4822 Madison Yards Way
+worksite_address1              | Hill Farms State Office Building, 4822 Madison Yards Way,
 worksite_address2              | 
 worksite_city                  | Madison
 worksite_county                | DANE
-lawfirm_name_business_name     | Harrison-Donaldson, Attorney at Law
-employer_address1              | 136 Eldridge Road
-employer_address2              | Unit C
+lawfirm_name_business_name     | 
+employer_address1              | 136 Eldridge Road Unit C
+employer_address2              | 
 employer_city                  | Sugar Land
 employer_state                 | TX
 employer_postal_code           | 77478
-begin_date                     | 2/14/2024
-end_date                       | 2/13/2027
+begin_date                     | 3/30/2022
+end_date                       | 3/29/2025
 total_worker_positions         | 1
-soc_code                       | 15-1252.00
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 407 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-22287-530502
@@ -10103,8 +10103,8 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 422 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24136-999927
-job_title                      | Information Delivery Analyst
+case_number                    | I-200-24136-998798
+job_title                      | Quantitative Analyst
 employer_name                  | State of Wisconsin Investment Board
 secondary_entity_business_name | 
 employer_poc_email             | Eric.Barber@swib.state.wi.us
@@ -10124,29 +10124,29 @@ employer_postal_code           | 53705
 begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
-soc_code                       | 15-1299.08
+soc_code                       | 13-2099.01
 h_1b_dependent                 | No
 -[ RECORD 423 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24243-306954
-job_title                      | Data Engineer, Senior Advanced
+case_number                    | I-200-22349-641850
+job_title                      | Senior Business Systems Analyst
 employer_name                  | State of Wisconsin Investment Board
 secondary_entity_business_name | 
-employer_poc_email             | Madeline.Warkins@swib.state.wi.us
+employer_poc_email             | eric.barber@swib.state.wi.us
 employer_poc_phone             | 16082668923
 employer_poc_first_name        | Eric
 employer_poc_last_name         | Barber
-worksite_address1              | 4703 Madison Yards Way
-worksite_address2              | Suite 700
+worksite_address1              | 121 East Wilson St.
+worksite_address2              | 
 worksite_city                  | Madison
 worksite_county                | DANE
 lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 4703 Madison Yards Way
-employer_address2              | Suite 700
+employer_address1              | 121 East Wilson Street
+employer_address2              | 
 employer_city                  | Madison
 employer_state                 | WI
-employer_postal_code           | 53705
-begin_date                     | 9/23/2024
-end_date                       | 9/22/2027
+employer_postal_code           | 53703
+begin_date                     | 12/27/2022
+end_date                       | 12/26/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
@@ -10175,246 +10175,6 @@ total_worker_positions         | 1
 soc_code                       | 13-2099.01
 h_1b_dependent                 | No
 -[ RECORD 425 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-25156-058234
-job_title                      | Head Economist, Asset & Risk Allocation Chief Invest Officer
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | Madeline.Warkins@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 4703 Madison Yards Way
-worksite_address2              | Suite 700
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 4703 Madison Yards Way
-employer_address2              | Suite 700
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53705
-begin_date                     | 10/1/2025
-end_date                       | 9/30/2028
-total_worker_positions         | 1
-soc_code                       | 19-3011
-h_1b_dependent                 | No
--[ RECORD 426 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24072-790040
-job_title                      | Senior Analyst
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | Eric.Barber@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 4703 Madison Yards Way
-worksite_address2              | Suite 700
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 4703 Madison Yards Way
-employer_address2              | Suite 700
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53705
-begin_date                     | 4/12/2024
-end_date                       | 4/11/2027
-total_worker_positions         | 1
-soc_code                       | 13-2099.01
-h_1b_dependent                 | No
--[ RECORD 427 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24134-987909
-job_title                      | Business Systems Analyst
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | Eric.Barber@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 4703 Madison Yards Way
-worksite_address2              | Suite 700
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 4703 Madison Yards Way
-employer_address2              | Suite 700
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53705
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 428 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-23045-772867
-job_title                      | Data Engineer
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | eric.barber@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 121 East Wilson Street
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 121 East Wilson Street
-employer_address2              | 
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 3/13/2023
-end_date                       | 3/12/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 429 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22349-641850
-job_title                      | Senior Business Systems Analyst
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | eric.barber@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 121 East Wilson St.
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 121 East Wilson Street
-employer_address2              | 
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 12/27/2022
-end_date                       | 12/26/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 430 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24120-936529
-job_title                      | Investment Operations Analyst
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | Eric.Barber@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 4703 Madison Yards Way
-worksite_address2              | Suite 700
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 4703 Madison Yards Way
-employer_address2              | Suite 700
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53705
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 13-2051.00
-h_1b_dependent                 | No
--[ RECORD 431 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24136-998838
-job_title                      | Investment Operations Analyst
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | Eric.Barber@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 4703 Madison Yards Way
-worksite_address2              | Suite 700
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 4703 Madison Yards Way
-employer_address2              | Suite 700
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53705
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 13-2051.00
-h_1b_dependent                 | No
--[ RECORD 432 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-22146-216699
-job_title                      | Data Scientist
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | eric.barber@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 121 E. Wilson St.
-worksite_address2              | 
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 121 East Wilson Street
-employer_address2              | 
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53703
-begin_date                     | 10/1/2022
-end_date                       | 9/30/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | No
--[ RECORD 433 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24116-926508
-job_title                      | Quantitative Analyst
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | Eric.Barber@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 4703 Madison Yards Way
-worksite_address2              | 700
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 4703 Madison Yards Way
-employer_address2              | Suite 700
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53705
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 13-2099.01
-h_1b_dependent                 | No
--[ RECORD 434 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24121-939348
-job_title                      | Business Systems Analyst
-employer_name                  | State of Wisconsin Investment Board
-secondary_entity_business_name | 
-employer_poc_email             | Eric.Barber@swib.state.wi.us
-employer_poc_phone             | 16082668923
-employer_poc_first_name        | Eric
-employer_poc_last_name         | Barber
-worksite_address1              | 4703 Madison Yards Way
-worksite_address2              | Suite 700
-worksite_city                  | Madison
-worksite_county                | DANE
-lawfirm_name_business_name     | Quarles & Brady LLP
-employer_address1              | 4703 Madison Yards Way
-employer_address2              | Suite 700
-employer_city                  | Madison
-employer_state                 | WI
-employer_postal_code           | 53705
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 435 ]----------------+--------------------------------------------------------------------------------------------------
 case_number                    | I-200-24214-236791
 job_title                      | Senior Business Systems Analyst
 employer_name                  | State of Wisconsin Investment Board
@@ -10438,8 +10198,128 @@ end_date                       | 8/11/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 436 ]----------------+--------------------------------------------------------------------------------------------------
-case_number                    | I-200-24136-998798
+-[ RECORD 426 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-22146-216699
+job_title                      | Data Scientist
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | eric.barber@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 121 E. Wilson St.
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 121 East Wilson Street
+employer_address2              | 
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53703
+begin_date                     | 10/1/2022
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | No
+-[ RECORD 427 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24120-936529
+job_title                      | Investment Operations Analyst
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | Eric.Barber@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 4703 Madison Yards Way
+worksite_address2              | Suite 700
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 4703 Madison Yards Way
+employer_address2              | Suite 700
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53705
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 13-2051.00
+h_1b_dependent                 | No
+-[ RECORD 428 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24136-998838
+job_title                      | Investment Operations Analyst
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | Eric.Barber@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 4703 Madison Yards Way
+worksite_address2              | Suite 700
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 4703 Madison Yards Way
+employer_address2              | Suite 700
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53705
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 13-2051.00
+h_1b_dependent                 | No
+-[ RECORD 429 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-25156-058234
+job_title                      | Head Economist, Asset & Risk Allocation Chief Invest Officer
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | Madeline.Warkins@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 4703 Madison Yards Way
+worksite_address2              | Suite 700
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 4703 Madison Yards Way
+employer_address2              | Suite 700
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53705
+begin_date                     | 10/1/2025
+end_date                       | 9/30/2028
+total_worker_positions         | 1
+soc_code                       | 19-3011
+h_1b_dependent                 | No
+-[ RECORD 430 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24136-999927
+job_title                      | Information Delivery Analyst
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | Eric.Barber@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 4703 Madison Yards Way
+worksite_address2              | 700
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 4703 Madison Yards Way
+employer_address2              | Suite 700
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53705
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-1299.08
+h_1b_dependent                 | No
+-[ RECORD 431 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24116-926508
 job_title                      | Quantitative Analyst
 employer_name                  | State of Wisconsin Investment Board
 secondary_entity_business_name | 
@@ -10461,5 +10341,125 @@ begin_date                     | 10/1/2024
 end_date                       | 9/30/2027
 total_worker_positions         | 1
 soc_code                       | 13-2099.01
+h_1b_dependent                 | No
+-[ RECORD 432 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24072-790040
+job_title                      | Senior Analyst
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | Eric.Barber@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 4703 Madison Yards Way
+worksite_address2              | Suite 700
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 4703 Madison Yards Way
+employer_address2              | Suite 700
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53705
+begin_date                     | 4/12/2024
+end_date                       | 4/11/2027
+total_worker_positions         | 1
+soc_code                       | 13-2099.01
+h_1b_dependent                 | No
+-[ RECORD 433 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24134-987909
+job_title                      | Business Systems Analyst
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | Eric.Barber@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 4703 Madison Yards Way
+worksite_address2              | Suite 700
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 4703 Madison Yards Way
+employer_address2              | Suite 700
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53705
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 434 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-23045-772867
+job_title                      | Data Engineer
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | eric.barber@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 121 East Wilson Street
+worksite_address2              | 
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 121 East Wilson Street
+employer_address2              | 
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53703
+begin_date                     | 3/13/2023
+end_date                       | 3/12/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 435 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24121-939348
+job_title                      | Business Systems Analyst
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | Eric.Barber@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 4703 Madison Yards Way
+worksite_address2              | Suite 700
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 4703 Madison Yards Way
+employer_address2              | Suite 700
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53705
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 436 ]----------------+--------------------------------------------------------------------------------------------------
+case_number                    | I-200-24243-306954
+job_title                      | Data Engineer, Senior Advanced
+employer_name                  | State of Wisconsin Investment Board
+secondary_entity_business_name | 
+employer_poc_email             | Madeline.Warkins@swib.state.wi.us
+employer_poc_phone             | 16082668923
+employer_poc_first_name        | Eric
+employer_poc_last_name         | Barber
+worksite_address1              | 4703 Madison Yards Way
+worksite_address2              | Suite 700
+worksite_city                  | Madison
+worksite_county                | DANE
+lawfirm_name_business_name     | Quarles & Brady LLP
+employer_address1              | 4703 Madison Yards Way
+employer_address2              | Suite 700
+employer_city                  | Madison
+employer_state                 | WI
+employer_postal_code           | 53705
+begin_date                     | 9/23/2024
+end_date                       | 9/22/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 

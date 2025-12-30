@@ -23,7 +23,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 2 ]------------------+------------------------------------------------------------------------------
-case_number                    | I-200-25122-933191
+case_number                    | I-200-25122-932131
 job_title                      | Business Analyst
 employer_name                  | DIGIPULSE TECHNOLOGIES INC
 secondary_entity_business_name | Department of Health and Human Services - State of Nebraska
@@ -47,7 +47,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1211
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+------------------------------------------------------------------------------
-case_number                    | I-200-25122-932131
+case_number                    | I-200-25122-933191
 job_title                      | Business Analyst
 employer_name                  | DIGIPULSE TECHNOLOGIES INC
 secondary_entity_business_name | Department of Health and Human Services - State of Nebraska
@@ -167,7 +167,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1121.00
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+------------------------------------------------------------------------------
-case_number                    | I-200-24109-903024
+case_number                    | I-200-24109-903191
 job_title                      | Software Engineer
 employer_name                  | COOLSOFT LLC
 secondary_entity_business_name | Nebraska Department of Education
@@ -175,7 +175,7 @@ employer_poc_email             | bala@coolsofttech.com
 employer_poc_phone             | 15023279805
 employer_poc_first_name        | Bala
 employer_poc_last_name         | Chittem
-worksite_address1              | NE 500 S 84th Street
+worksite_address1              | 500 S 84th Street
 worksite_address2              | 2nd Floor
 worksite_city                  | Lincoln
 worksite_county                | LANCASTER
@@ -191,7 +191,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+------------------------------------------------------------------------------
-case_number                    | I-200-24109-903191
+case_number                    | I-200-24109-903024
 job_title                      | Software Engineer
 employer_name                  | COOLSOFT LLC
 secondary_entity_business_name | Nebraska Department of Education
@@ -199,7 +199,7 @@ employer_poc_email             | bala@coolsofttech.com
 employer_poc_phone             | 15023279805
 employer_poc_first_name        | Bala
 employer_poc_last_name         | Chittem
-worksite_address1              | 500 S 84th Street
+worksite_address1              | NE 500 S 84th Street
 worksite_address2              | 2nd Floor
 worksite_city                  | Lincoln
 worksite_county                | LANCASTER
@@ -287,7 +287,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 13 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24178-151111
+case_number                    | I-200-24180-158430
 job_title                      | Software Developer
 employer_name                  | INFO LABS INC
 secondary_entity_business_name | Nebraska Department of Health and Human Services
@@ -311,7 +311,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 14 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24180-158430
+case_number                    | I-200-24178-151111
 job_title                      | Software Developer
 employer_name                  | INFO LABS INC
 secondary_entity_business_name | Nebraska Department of Health and Human Services
@@ -479,30 +479,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 21 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22311-571677
-job_title                      | Systems Engineer
-employer_name                  | Avco Consulting Inc
-secondary_entity_business_name | Nebraska Department of Transportation
-employer_poc_email             | sudhir@avcoconsulting.com
-employer_poc_phone             | 15082924795
-employer_poc_first_name        | Sudhir Reddy
-employer_poc_last_name         | Prodduturi
-worksite_address1              | 1500 Highway 2
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | International Legal and Business Services Group LLP
-employer_address1              | 38 FRONT ST
-employer_address2              | FL 4
-employer_city                  | WORCESTER
-employer_state                 | MA
-employer_postal_code           | 01608
-begin_date                     | 11/21/2022
-end_date                       | 11/20/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25156-055174
 job_title                      | Systems Engineer/Application Developer
 employer_name                  | Avco Consulting Inc
@@ -525,6 +501,30 @@ begin_date                     | 11/21/2025
 end_date                       | 11/20/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-22311-571677
+job_title                      | Systems Engineer
+employer_name                  | Avco Consulting Inc
+secondary_entity_business_name | Nebraska Department of Transportation
+employer_poc_email             | sudhir@avcoconsulting.com
+employer_poc_phone             | 15082924795
+employer_poc_first_name        | Sudhir Reddy
+employer_poc_last_name         | Prodduturi
+worksite_address1              | 1500 Highway 2
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | International Legal and Business Services Group LLP
+employer_address1              | 38 FRONT ST
+employer_address2              | FL 4
+employer_city                  | WORCESTER
+employer_state                 | MA
+employer_postal_code           | 01608
+begin_date                     | 11/21/2022
+end_date                       | 11/20/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 23 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23059-811284
@@ -599,7 +599,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 26 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22040-890342
+case_number                    | I-200-22077-990977
 job_title                      | .Net Developer
 employer_name                  | SOHANIT INC
 secondary_entity_business_name | Nebraska Department of Transportation
@@ -608,7 +608,7 @@ employer_poc_phone             | 14026175717
 employer_poc_first_name        | MANOJA
 employer_poc_last_name         | SAVARAM
 worksite_address1              | 1500 Hwy 2
-worksite_address2              | NA
+worksite_address2              | 
 worksite_city                  | Lincoln
 worksite_county                | LANCASTER
 lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
@@ -617,11 +617,11 @@ employer_address2              | SUITE 233
 employer_city                  | OMAHA
 employer_state                 | NE
 employer_postal_code           | 68144
-begin_date                     | 2/16/2022
-end_date                       | 2/15/2025
+begin_date                     | 3/25/2022
+end_date                       | 3/24/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
+h_1b_dependent                 | No
 -[ RECORD 27 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23038-756687
 job_title                      | .Net Developer
@@ -671,30 +671,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 29 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22077-990977
-job_title                      | .Net Developer
-employer_name                  | SOHANIT INC
-secondary_entity_business_name | Nebraska Department of Transportation
-employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
-employer_poc_phone             | 14026175717
-employer_poc_first_name        | MANOJA
-employer_poc_last_name         | SAVARAM
-worksite_address1              | 1500 Hwy 2
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
-employer_address1              | 11414 W CENTER ROAD
-employer_address2              | SUITE 233
-employer_city                  | OMAHA
-employer_state                 | NE
-employer_postal_code           | 68144
-begin_date                     | 3/25/2022
-end_date                       | 3/24/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-22089-023100
 job_title                      | .Net Developer
 employer_name                  | SOHANIT INC
@@ -718,7 +694,7 @@ end_date                       | 4/5/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 30 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-22123-131852
 job_title                      | .Net Developer
 employer_name                  | SOHANIT INC
@@ -742,7 +718,7 @@ end_date                       | 5/9/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 31 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-22124-133844
 job_title                      | .Net Developer
 employer_name                  | SOHANIT INC
@@ -766,6 +742,30 @@ end_date                       | 5/9/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | No
+-[ RECORD 32 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-22040-890342
+job_title                      | .Net Developer
+employer_name                  | SOHANIT INC
+secondary_entity_business_name | Nebraska Department of Transportation
+employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
+employer_poc_phone             | 14026175717
+employer_poc_first_name        | MANOJA
+employer_poc_last_name         | SAVARAM
+worksite_address1              | 1500 Hwy 2
+worksite_address2              | NA
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
+employer_address1              | 11414 W CENTER ROAD
+employer_address2              | SUITE 233
+employer_city                  | OMAHA
+employer_state                 | NE
+employer_postal_code           | 68144
+begin_date                     | 2/16/2022
+end_date                       | 2/15/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
 -[ RECORD 33 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23258-350372
 job_title                      | Software Developer
@@ -815,14 +815,14 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 35 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-21343-756087
+case_number                    | I-200-21355-780159
 job_title                      | Software Developer
 employer_name                  | NIC INFO TEK INC
 secondary_entity_business_name | Office of the Chief Information Officer, State of Nebraska
-employer_poc_email             | bose@nicinfotek.com
+employer_poc_email             | sudhir@nicinfotek.com
 employer_poc_phone             | 18139853630
-employer_poc_first_name        | Chandrabose
-employer_poc_last_name         | Vajjasubash
+employer_poc_first_name        | Vemuri
+employer_poc_last_name         | Sudhir
 worksite_address1              | 501 South 14th Street
 worksite_address2              | 
 worksite_city                  | Lincoln
@@ -839,14 +839,14 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 36 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-21355-780159
+case_number                    | I-200-21343-756087
 job_title                      | Software Developer
 employer_name                  | NIC INFO TEK INC
 secondary_entity_business_name | Office of the Chief Information Officer, State of Nebraska
-employer_poc_email             | sudhir@nicinfotek.com
+employer_poc_email             | bose@nicinfotek.com
 employer_poc_phone             | 18139853630
-employer_poc_first_name        | Vemuri
-employer_poc_last_name         | Sudhir
+employer_poc_first_name        | Chandrabose
+employer_poc_last_name         | Vajjasubash
 worksite_address1              | 501 South 14th Street
 worksite_address2              | 
 worksite_city                  | Lincoln
@@ -935,7 +935,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1244.00
 h_1b_dependent                 | No
 -[ RECORD 40 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22172-301783
+case_number                    | I-200-22153-236872
 job_title                      | NETWORK ENGINEER
 employer_name                  | ONLY IT CONSULTING LLC
 secondary_entity_business_name | STATE OF NEBRASKA
@@ -959,7 +959,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1143.00
 h_1b_dependent                 | Yes
 -[ RECORD 41 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22153-236872
+case_number                    | I-200-22172-301783
 job_title                      | NETWORK ENGINEER
 employer_name                  | ONLY IT CONSULTING LLC
 secondary_entity_business_name | STATE OF NEBRASKA
@@ -1055,30 +1055,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 45 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23228-268509
-job_title                      | Software Engineer
-employer_name                  | COOLSOFT LLC
-secondary_entity_business_name | State of Nebraska
-employer_poc_email             | roger@coolsofttech.com
-employer_poc_phone             | 15024184234
-employer_poc_first_name        | Roger
-employer_poc_last_name         | Natarajan
-worksite_address1              | 301 Centennial Mall S
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | 
-employer_address1              | 3240 OFFICE POINTE PLACE
-employer_address2              | SUITE 200
-employer_city                  | LOUISVILLE
-employer_state                 | KY
-employer_postal_code           | 40220
-begin_date                     | 1/28/2024
-end_date                       | 1/27/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 46 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25126-943530
 job_title                      | Software Engineer
 employer_name                  | COOLSOFT LLC
@@ -1102,7 +1078,7 @@ end_date                       | 10/28/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 47 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 46 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-22131-160239
 job_title                      | Software Engineer
 employer_name                  | COOLSOFT LLC
@@ -1126,7 +1102,7 @@ end_date                       | 10/29/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
--[ RECORD 48 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 47 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24316-466745
 job_title                      | Lead Software Engineer
 employer_name                  | COOLSOFT LLC
@@ -1150,31 +1126,31 @@ end_date                       | 5/1/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 49 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24157-072049
-job_title                      | SharePoint Developer
-employer_name                  | ECONTENTI INC
+-[ RECORD 48 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23228-268509
+job_title                      | Software Engineer
+employer_name                  | COOLSOFT LLC
 secondary_entity_business_name | State of Nebraska
-employer_poc_email             | HR@ECONTENTI.COM
-employer_poc_phone             | 17329170799
-employer_poc_first_name        | SHIVA
-employer_poc_last_name         | CHIKINE
-worksite_address1              | 1445 K St
+employer_poc_email             | roger@coolsofttech.com
+employer_poc_phone             | 15024184234
+employer_poc_first_name        | Roger
+employer_poc_last_name         | Natarajan
+worksite_address1              | 301 Centennial Mall S
 worksite_address2              | 
 worksite_city                  | Lincoln
 worksite_county                | LANCASTER
 lawfirm_name_business_name     | 
-employer_address1              | 145 TALMADGE ROAD
-employer_address2              | SUITE 9
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 6/10/2024
-end_date                       | 6/9/2027
+employer_address1              | 3240 OFFICE POINTE PLACE
+employer_address2              | SUITE 200
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40220
+begin_date                     | 1/28/2024
+end_date                       | 1/27/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 50 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 49 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23299-458287
 job_title                      | SharePoint Developer
 employer_name                  | ECONTENTI INC
@@ -1195,6 +1171,30 @@ employer_state                 | NJ
 employer_postal_code           | 08817
 begin_date                     | 10/26/2023
 end_date                       | 10/25/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 50 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24157-072049
+job_title                      | SharePoint Developer
+employer_name                  | ECONTENTI INC
+secondary_entity_business_name | State of Nebraska
+employer_poc_email             | HR@ECONTENTI.COM
+employer_poc_phone             | 17329170799
+employer_poc_first_name        | SHIVA
+employer_poc_last_name         | CHIKINE
+worksite_address1              | 1445 K St
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | 
+employer_address1              | 145 TALMADGE ROAD
+employer_address2              | SUITE 9
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 6/10/2024
+end_date                       | 6/9/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -1271,30 +1271,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 54 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23051-787437
-job_title                      | Quality Assurance
-employer_name                  | Sarkit Inc
-secondary_entity_business_name | State of Nebraska
-employer_poc_email             | pkotta@sarkit.com
-employer_poc_phone             | 15157080921
-employer_poc_first_name        | Pavan
-employer_poc_last_name         | Kotta
-worksite_address1              | 1500 NE-2
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Chugh, LLP
-employer_address1              | 3913 South 184th Street
-employer_address2              | 
-employer_city                  | Omaha
-employer_state                 | NE
-employer_postal_code           | 68130
-begin_date                     | 2/27/2023
-end_date                       | 2/26/2026
-total_worker_positions         | 1
-soc_code                       | 15-1253.00
-h_1b_dependent                 | No
--[ RECORD 55 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23060-813391
 job_title                      | Quality Assurance
 employer_name                  | Sarkit Inc
@@ -1315,6 +1291,30 @@ employer_state                 | NE
 employer_postal_code           | 68137
 begin_date                     | 3/6/2023
 end_date                       | 3/5/2026
+total_worker_positions         | 1
+soc_code                       | 15-1253.00
+h_1b_dependent                 | No
+-[ RECORD 55 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23051-787437
+job_title                      | Quality Assurance
+employer_name                  | Sarkit Inc
+secondary_entity_business_name | State of Nebraska
+employer_poc_email             | pkotta@sarkit.com
+employer_poc_phone             | 15157080921
+employer_poc_first_name        | Pavan
+employer_poc_last_name         | Kotta
+worksite_address1              | 1500 NE-2
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Chugh, LLP
+employer_address1              | 3913 South 184th Street
+employer_address2              | 
+employer_city                  | Omaha
+employer_state                 | NE
+employer_postal_code           | 68130
+begin_date                     | 2/27/2023
+end_date                       | 2/26/2026
 total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | No
@@ -1703,30 +1703,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 72 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23255-339410
-job_title                      | .Net Developer
-employer_name                  | SOHANIT INC
-secondary_entity_business_name | State of Nebraska Department of Transportation
-employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
-employer_poc_phone             | 14026175717
-employer_poc_first_name        | MANOJA
-employer_poc_last_name         | SAVARAM
-worksite_address1              | 1500 Hwy 2
-worksite_address2              | NA
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
-employer_address1              | 425 E Crossville Road
-employer_address2              | Unit201
-employer_city                  | Roswell
-employer_state                 | GA
-employer_postal_code           | 30075
-begin_date                     | 9/19/2023
-end_date                       | 9/18/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 73 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23090-894300
 job_title                      | .Net Developer
 employer_name                  | SOHANIT INC
@@ -1750,35 +1726,11 @@ end_date                       | 4/6/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 74 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24310-455036
+-[ RECORD 73 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23255-339410
 job_title                      | .Net Developer
 employer_name                  | SOHANIT INC
-secondary_entity_business_name | State of Nebraska Department of Transportation (NEDOT)
-employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
-employer_poc_phone             | 14026175717
-employer_poc_first_name        | MANOJA
-employer_poc_last_name         | SAVARAM
-worksite_address1              | 1500 Hwy 2
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
-employer_address1              | 425 E Crossville Road
-employer_address2              | Unit201
-employer_city                  | Roswell
-employer_state                 | GA
-employer_postal_code           | 30075
-begin_date                     | 3/28/2025
-end_date                       | 3/27/2028
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 75 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23283-422797
-job_title                      | .Net Developer
-employer_name                  | SOHANIT INC
-secondary_entity_business_name | State of Nebraska Department of Transportation (NEDOT)
+secondary_entity_business_name | State of Nebraska Department of Transportation
 employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
 employer_poc_phone             | 14026175717
 employer_poc_first_name        | MANOJA
@@ -1793,13 +1745,13 @@ employer_address2              | Unit201
 employer_city                  | Roswell
 employer_state                 | GA
 employer_postal_code           | 30075
-begin_date                     | 10/17/2023
-end_date                       | 10/16/2026
+begin_date                     | 9/19/2023
+end_date                       | 9/18/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 76 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22162-270240
+-[ RECORD 74 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23257-346599
 job_title                      | .Net Developer
 employer_name                  | SOHANIT INC
 secondary_entity_business_name | State of Nebraska Department of Transportation (NEDOT)
@@ -1817,36 +1769,12 @@ employer_address2              | Unit201
 employer_city                  | Roswell
 employer_state                 | GA
 employer_postal_code           | 30075
-begin_date                     | 6/16/2022
-end_date                       | 6/15/2025
+begin_date                     | 9/21/2023
+end_date                       | 9/20/2026
 total_worker_positions         | 1
-soc_code                       | 15-1132.00
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 77 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23263-364597
-job_title                      | .Net Developer
-employer_name                  | SOHANIT INC
-secondary_entity_business_name | State of Nebraska Department of Transportation (NEDOT)
-employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
-employer_poc_phone             | 14026175717
-employer_poc_first_name        | MANOJA
-employer_poc_last_name         | SAVARAM
-worksite_address1              | 1500 Hwy 2
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
-employer_address1              | 425 E Crossville Road
-employer_address2              | Unit201
-employer_city                  | Roswell
-employer_state                 | GA
-employer_postal_code           | 30075
-begin_date                     | 9/27/2023
-end_date                       | 9/26/2026
-total_worker_positions         | 1
-soc_code                       | 15-1251.00
-h_1b_dependent                 | No
--[ RECORD 78 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 75 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-22199-358150
 job_title                      | .Net Developer
 employer_name                  | SOHANIT INC
@@ -1870,8 +1798,8 @@ end_date                       | 7/24/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 79 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23257-346599
+-[ RECORD 76 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23283-422797
 job_title                      | .Net Developer
 employer_name                  | SOHANIT INC
 secondary_entity_business_name | State of Nebraska Department of Transportation (NEDOT)
@@ -1889,10 +1817,82 @@ employer_address2              | Unit201
 employer_city                  | Roswell
 employer_state                 | GA
 employer_postal_code           | 30075
-begin_date                     | 9/21/2023
-end_date                       | 9/20/2026
+begin_date                     | 10/17/2023
+end_date                       | 10/16/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 77 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-22162-270240
+job_title                      | .Net Developer
+employer_name                  | SOHANIT INC
+secondary_entity_business_name | State of Nebraska Department of Transportation (NEDOT)
+employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
+employer_poc_phone             | 14026175717
+employer_poc_first_name        | MANOJA
+employer_poc_last_name         | SAVARAM
+worksite_address1              | 1500 Hwy 2
+worksite_address2              | NA
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
+employer_address1              | 425 E Crossville Road
+employer_address2              | Unit201
+employer_city                  | Roswell
+employer_state                 | GA
+employer_postal_code           | 30075
+begin_date                     | 6/16/2022
+end_date                       | 6/15/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | No
+-[ RECORD 78 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24310-455036
+job_title                      | .Net Developer
+employer_name                  | SOHANIT INC
+secondary_entity_business_name | State of Nebraska Department of Transportation (NEDOT)
+employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
+employer_poc_phone             | 14026175717
+employer_poc_first_name        | MANOJA
+employer_poc_last_name         | SAVARAM
+worksite_address1              | 1500 Hwy 2
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
+employer_address1              | 425 E Crossville Road
+employer_address2              | Unit201
+employer_city                  | Roswell
+employer_state                 | GA
+employer_postal_code           | 30075
+begin_date                     | 3/28/2025
+end_date                       | 3/27/2028
+total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 79 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23263-364597
+job_title                      | .Net Developer
+employer_name                  | SOHANIT INC
+secondary_entity_business_name | State of Nebraska Department of Transportation (NEDOT)
+employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
+employer_poc_phone             | 14026175717
+employer_poc_first_name        | MANOJA
+employer_poc_last_name         | SAVARAM
+worksite_address1              | 1500 Hwy 2
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
+employer_address1              | 425 E Crossville Road
+employer_address2              | Unit201
+employer_city                  | Roswell
+employer_state                 | GA
+employer_postal_code           | 30075
+begin_date                     | 9/27/2023
+end_date                       | 9/26/2026
+total_worker_positions         | 1
+soc_code                       | 15-1251.00
 h_1b_dependent                 | No
 -[ RECORD 80 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25101-857755
@@ -1919,30 +1919,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 81 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22104-072525
-job_title                      | UI Application Developer
-employer_name                  | SOHANIT INC
-secondary_entity_business_name | State of Nebraska the Department of Health and Human Services
-employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
-employer_poc_phone             | 14026175717
-employer_poc_first_name        | MANOJA
-employer_poc_last_name         | SAVARAM
-worksite_address1              | 301 Centennial Mall S
-worksite_address2              | NA
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
-employer_address1              | 425 E Crossville Road
-employer_address2              | Unit201
-employer_city                  | Roswell
-employer_state                 | GA
-employer_postal_code           | 30075
-begin_date                     | 4/21/2022
-end_date                       | 4/20/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | No
--[ RECORD 82 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-22195-353461
 job_title                      | UI Application Developer
 employer_name                  | SOHANIT INC
@@ -1965,6 +1941,30 @@ begin_date                     | 7/21/2022
 end_date                       | 7/20/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 82 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-22104-072525
+job_title                      | UI Application Developer
+employer_name                  | SOHANIT INC
+secondary_entity_business_name | State of Nebraska the Department of Health and Human Services
+employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
+employer_poc_phone             | 14026175717
+employer_poc_first_name        | MANOJA
+employer_poc_last_name         | SAVARAM
+worksite_address1              | 301 Centennial Mall S
+worksite_address2              | NA
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
+employer_address1              | 425 E Crossville Road
+employer_address2              | Unit201
+employer_city                  | Roswell
+employer_state                 | GA
+employer_postal_code           | 30075
+begin_date                     | 4/21/2022
+end_date                       | 4/20/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 83 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23177-142932
@@ -2015,7 +2015,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 85 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24155-061453
+case_number                    | I-200-24144-028424
 job_title                      | Software Developer
 employer_name                  | Capital Soft Tech INC
 secondary_entity_business_name | State of Nebraska – Office of the CIO
@@ -2087,7 +2087,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 88 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24144-028424
+case_number                    | I-200-24155-061453
 job_title                      | Software Developer
 employer_name                  | Capital Soft Tech INC
 secondary_entity_business_name | State of Nebraska – Office of the CIO
@@ -2111,30 +2111,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 89 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-21322-712914
-job_title                      | Senior .Net Developer
-employer_name                  | CORPORATE COMPUTER SOLUTIONS LLC
-secondary_entity_business_name | State of Nebraska, Department of Education
-employer_poc_email             | HR@CCSITUSA.COM
-employer_poc_phone             | 18133336499
-employer_poc_first_name        | DANIEL
-employer_poc_last_name         | TABBERT
-worksite_address1              | 500 S 84th St, 2nd floor
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | SHARMA LAW ASSOCIATES LLC
-employer_address1              | 2237 TWELVE OAKS WAY
-employer_address2              | UNIT 103
-employer_city                  | WESLEY CHAPEL
-employer_state                 | FL
-employer_postal_code           | 33544
-begin_date                     | 11/30/2021
-end_date                       | 11/29/2024
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 90 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24263-349463
 job_title                      | Senior .Net Developer
 employer_name                  | CORPORATE COMPUTER SOLUTIONS LLC
@@ -2157,6 +2133,30 @@ begin_date                     | 11/30/2024
 end_date                       | 11/29/2027
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 90 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-21322-712914
+job_title                      | Senior .Net Developer
+employer_name                  | CORPORATE COMPUTER SOLUTIONS LLC
+secondary_entity_business_name | State of Nebraska, Department of Education
+employer_poc_email             | HR@CCSITUSA.COM
+employer_poc_phone             | 18133336499
+employer_poc_first_name        | DANIEL
+employer_poc_last_name         | TABBERT
+worksite_address1              | 500 S 84th St, 2nd floor
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | SHARMA LAW ASSOCIATES LLC
+employer_address1              | 2237 TWELVE OAKS WAY
+employer_address2              | UNIT 103
+employer_city                  | WESLEY CHAPEL
+employer_state                 | FL
+employer_postal_code           | 33544
+begin_date                     | 11/30/2021
+end_date                       | 11/29/2024
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 91 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-21280-631044
@@ -2279,7 +2279,7 @@ total_worker_positions         | 1
 soc_code                       | 13-1199.00
 h_1b_dependent                 | Yes
 -[ RECORD 96 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24192-186922
+case_number                    | I-200-24172-133130
 job_title                      | IT Data/Database Analyst Sr.
 employer_name                  | Nebraska Department of Education
 secondary_entity_business_name | 
@@ -2300,7 +2300,7 @@ employer_postal_code           | 68510
 begin_date                     | 11/28/2024
 end_date                       | 11/27/2027
 total_worker_positions         | 1
-soc_code                       | 15-1243.00
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 97 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24173-138855
@@ -2327,7 +2327,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1243.00
 h_1b_dependent                 | No
 -[ RECORD 98 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24172-133130
+case_number                    | I-200-24192-186922
 job_title                      | IT Data/Database Analyst Sr.
 employer_name                  | Nebraska Department of Education
 secondary_entity_business_name | 
@@ -2348,177 +2348,9 @@ employer_postal_code           | 68510
 begin_date                     | 11/28/2024
 end_date                       | 11/27/2027
 total_worker_positions         | 1
-soc_code                       | 15-1252.00
+soc_code                       | 15-1243.00
 h_1b_dependent                 | No
 -[ RECORD 99 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23041-765316
-job_title                      | Data Architect/Business Intelligence Lead
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-worksite_address1              | 500 South 84th Street
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Nebraska Department of Education
-employer_address1              | 500 South 84th Street
-employer_address2              | 2nd Floor
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 6/12/2023
-end_date                       | 6/11/2026
-total_worker_positions         | 1
-soc_code                       | 15-1243.00
-h_1b_dependent                 | No
--[ RECORD 100 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22034-876038
-job_title                      | IT DATA/DATABASE ANALYST SR.
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_poc_email             | amy.spellman@nrbraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-worksite_address1              | 500 S. 84th St.
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Nebraska Department of Education
-employer_address1              | 500 S. 84th St., 2nd Floor
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 6/24/2022
-end_date                       | 11/27/2024
-total_worker_positions         | 1
-soc_code                       | 15-1141.00
-h_1b_dependent                 | No
--[ RECORD 101 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23080-866034
-job_title                      | IT Data/Database Analyst Lead
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-worksite_address1              | 500 S. 84th, Street
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Jackson Lewis PC
-employer_address1              | 500 S. 84th St
-employer_address2              | 2nd Floor
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 6/12/2023
-end_date                       | 6/11/2026
-total_worker_positions         | 1
-soc_code                       | 15-1243.00
-h_1b_dependent                 | No
--[ RECORD 102 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24166-111785
-job_title                      | World Language Specialist
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-worksite_address1              | 820 Foxcroft Ct
-worksite_address2              | Apt. 155
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Jackson Lewis PC
-employer_address1              | 500 S. 84th St
-employer_address2              | 2nd Floor
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 10/18/2024
-end_date                       | 10/17/2027
-total_worker_positions         | 1
-soc_code                       | 25-9031.00
-h_1b_dependent                 | No
--[ RECORD 103 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22073-975338
-job_title                      | IT DATA/DATABASE ANALYST SR.
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-worksite_address1              | 500 S. 84th St
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Nebraska Department of Education
-employer_address1              | 500 S. 84th St., 2nd Floor
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 6/24/2022
-end_date                       | 6/23/2025
-total_worker_positions         | 1
-soc_code                       | 15-1141.00
-h_1b_dependent                 | No
--[ RECORD 104 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-21306-682461
-job_title                      | Statistical Research Specialist
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-worksite_address1              | 500 S. 84th Street
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Jackson Lewis PC
-employer_address1              | 301 Centennial Mall South
-employer_address2              | PO Box 94987
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68509-4987
-begin_date                     | 11/8/2021
-end_date                       | 4/7/2024
-total_worker_positions         | 1
-soc_code                       | 15-2041.00
-h_1b_dependent                 | No
--[ RECORD 105 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22046-902443
-job_title                      | IT DATA/DATABASE ANALYST SR.
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-worksite_address1              | 500 S. 84th St
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Nebraska Department of Education
-employer_address1              | 500 S. 84th St., 2nd Floor
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 6/24/2022
-end_date                       | 11/27/2024
-total_worker_positions         | 1
-soc_code                       | 15-1141.00
-h_1b_dependent                 | No
--[ RECORD 106 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23087-883078
 job_title                      | IT Applications Developer Sr.
 employer_name                  | Nebraska Department of Education
@@ -2542,55 +2374,7 @@ end_date                       | 3/31/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 107 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23039-759097
-job_title                      | Data Architect/Business Intelligence Lead
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-worksite_address1              | 500 South 84th Street
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Nebraska Department of Education
-employer_address1              | 500 South 84th Street
-employer_address2              | 2nd Floor
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 6/12/2023
-end_date                       | 6/11/2026
-total_worker_positions         | 1
-soc_code                       | 15-1243.00
-h_1b_dependent                 | No
--[ RECORD 108 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-21281-633880
-job_title                      | Educational Specialist III
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-worksite_address1              | 500 S. 84th Street
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Jackson Lewis, P.C.
-employer_address1              | 500 S. 84th Street
-employer_address2              | 2nd Floor
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 10/18/2021
-end_date                       | 10/17/2024
-total_worker_positions         | 1
-soc_code                       | 25-9031.00
-h_1b_dependent                 | No
--[ RECORD 109 ]----------------+------------------------------------------------------------------------------
+-[ RECORD 100 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24045-717556
 job_title                      | Psychometrician Lead
 employer_name                  | Nebraska Department of Education
@@ -2614,7 +2398,127 @@ end_date                       | 4/6/2027
 total_worker_positions         | 1
 soc_code                       | 15-2041.00
 h_1b_dependent                 | No
--[ RECORD 110 ]----------------+------------------------------------------------------------------------------
+-[ RECORD 101 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23039-759097
+job_title                      | Data Architect/Business Intelligence Lead
+employer_name                  | Nebraska Department of Education
+secondary_entity_business_name | 
+employer_poc_email             | amy.spellman@nebraska.gov
+employer_poc_phone             | 14024715027
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Spellman
+worksite_address1              | 500 South 84th Street
+worksite_address2              | 2nd Floor
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Nebraska Department of Education
+employer_address1              | 500 South 84th Street
+employer_address2              | 2nd Floor
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68510
+begin_date                     | 6/12/2023
+end_date                       | 6/11/2026
+total_worker_positions         | 1
+soc_code                       | 15-1243.00
+h_1b_dependent                 | No
+-[ RECORD 102 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-21306-682461
+job_title                      | Statistical Research Specialist
+employer_name                  | Nebraska Department of Education
+secondary_entity_business_name | 
+employer_poc_email             | amy.spellman@nebraska.gov
+employer_poc_phone             | 14024715027
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Spellman
+worksite_address1              | 500 S. 84th Street
+worksite_address2              | 2nd Floor
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Jackson Lewis PC
+employer_address1              | 301 Centennial Mall South
+employer_address2              | PO Box 94987
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68509-4987
+begin_date                     | 11/8/2021
+end_date                       | 4/7/2024
+total_worker_positions         | 1
+soc_code                       | 15-2041.00
+h_1b_dependent                 | No
+-[ RECORD 103 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23080-866034
+job_title                      | IT Data/Database Analyst Lead
+employer_name                  | Nebraska Department of Education
+secondary_entity_business_name | 
+employer_poc_email             | amy.spellman@nebraska.gov
+employer_poc_phone             | 14024715027
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Spellman
+worksite_address1              | 500 S. 84th, Street
+worksite_address2              | 2nd Floor
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Jackson Lewis PC
+employer_address1              | 500 S. 84th St
+employer_address2              | 2nd Floor
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68510
+begin_date                     | 6/12/2023
+end_date                       | 6/11/2026
+total_worker_positions         | 1
+soc_code                       | 15-1243.00
+h_1b_dependent                 | No
+-[ RECORD 104 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-22046-902443
+job_title                      | IT DATA/DATABASE ANALYST SR.
+employer_name                  | Nebraska Department of Education
+secondary_entity_business_name | 
+employer_poc_email             | amy.spellman@nebraska.gov
+employer_poc_phone             | 14024715027
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Spellman
+worksite_address1              | 500 S. 84th St
+worksite_address2              | 2nd Floor
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Nebraska Department of Education
+employer_address1              | 500 S. 84th St., 2nd Floor
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68510
+begin_date                     | 6/24/2022
+end_date                       | 11/27/2024
+total_worker_positions         | 1
+soc_code                       | 15-1141.00
+h_1b_dependent                 | No
+-[ RECORD 105 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-21281-633880
+job_title                      | Educational Specialist III
+employer_name                  | Nebraska Department of Education
+secondary_entity_business_name | 
+employer_poc_email             | amy.spellman@nebraska.gov
+employer_poc_phone             | 14024715027
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Spellman
+worksite_address1              | 500 S. 84th Street
+worksite_address2              | 2nd Floor
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Jackson Lewis, P.C.
+employer_address1              | 500 S. 84th Street
+employer_address2              | 2nd Floor
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68510
+begin_date                     | 10/18/2021
+end_date                       | 10/17/2024
+total_worker_positions         | 1
+soc_code                       | 25-9031.00
+h_1b_dependent                 | No
+-[ RECORD 106 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-22041-892323
 job_title                      | IT DATA/DATABASE ANALYST SR.
 employer_name                  | Nebraska Department of Education
@@ -2638,199 +2542,103 @@ end_date                       | 11/27/2024
 total_worker_positions         | 1
 soc_code                       | 15-1141.00
 h_1b_dependent                 | No
+-[ RECORD 107 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-22034-876038
+job_title                      | IT DATA/DATABASE ANALYST SR.
+employer_name                  | Nebraska Department of Education
+secondary_entity_business_name | 
+employer_poc_email             | amy.spellman@nrbraska.gov
+employer_poc_phone             | 14024715027
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Spellman
+worksite_address1              | 500 S. 84th St.
+worksite_address2              | 2nd Floor
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Nebraska Department of Education
+employer_address1              | 500 S. 84th St., 2nd Floor
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68510
+begin_date                     | 6/24/2022
+end_date                       | 11/27/2024
+total_worker_positions         | 1
+soc_code                       | 15-1141.00
+h_1b_dependent                 | No
+-[ RECORD 108 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23041-765316
+job_title                      | Data Architect/Business Intelligence Lead
+employer_name                  | Nebraska Department of Education
+secondary_entity_business_name | 
+employer_poc_email             | amy.spellman@nebraska.gov
+employer_poc_phone             | 14024715027
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Spellman
+worksite_address1              | 500 South 84th Street
+worksite_address2              | 2nd Floor
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Nebraska Department of Education
+employer_address1              | 500 South 84th Street
+employer_address2              | 2nd Floor
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68510
+begin_date                     | 6/12/2023
+end_date                       | 6/11/2026
+total_worker_positions         | 1
+soc_code                       | 15-1243.00
+h_1b_dependent                 | No
+-[ RECORD 109 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24166-111785
+job_title                      | World Language Specialist
+employer_name                  | Nebraska Department of Education
+secondary_entity_business_name | 
+employer_poc_email             | amy.spellman@nebraska.gov
+employer_poc_phone             | 14024715027
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Spellman
+worksite_address1              | 820 Foxcroft Ct
+worksite_address2              | Apt. 155
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Jackson Lewis PC
+employer_address1              | 500 S. 84th St
+employer_address2              | 2nd Floor
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68510
+begin_date                     | 10/18/2024
+end_date                       | 10/17/2027
+total_worker_positions         | 1
+soc_code                       | 25-9031.00
+h_1b_dependent                 | No
+-[ RECORD 110 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-22073-975338
+job_title                      | IT DATA/DATABASE ANALYST SR.
+employer_name                  | Nebraska Department of Education
+secondary_entity_business_name | 
+employer_poc_email             | amy.spellman@nebraska.gov
+employer_poc_phone             | 14024715027
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Spellman
+worksite_address1              | 500 S. 84th St
+worksite_address2              | 2nd Floor
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Nebraska Department of Education
+employer_address1              | 500 S. 84th St., 2nd Floor
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68510
+begin_date                     | 6/24/2022
+end_date                       | 6/23/2025
+total_worker_positions         | 1
+soc_code                       | 15-1141.00
+h_1b_dependent                 | No
 -[ RECORD 111 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24236-290165
-job_title                      | Engineer
-employer_name                  | The State of Nebraska, Department of Transportation
-secondary_entity_business_name | 
-employer_poc_email             | Todd.Ludwig@nebraska.gov
-employer_poc_phone             | 14024801946
-employer_poc_first_name        | Todd
-employer_poc_last_name         | Ludwig
-worksite_address1              | 1500 Nebraska Parkway
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
-employer_address1              | 1500 Nebraska Parkway
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68502
-begin_date                     | 2/1/2025
-end_date                       | 1/31/2028
-total_worker_positions         | 1
-soc_code                       | 17-2051.00
-h_1b_dependent                 | No
--[ RECORD 112 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25049-704742
-job_title                      | Professional Engineer II
-employer_name                  | The State of Nebraska, Department of Transportation
-secondary_entity_business_name | 
-employer_poc_email             | Todd.Ludwig@nebraska.gov
-employer_poc_phone             | 14024801946
-employer_poc_first_name        | Todd
-employer_poc_last_name         | Ludwig
-worksite_address1              | 1400 Nebraska Parkway
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
-employer_address1              | 1500 Nebraska Parkway
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68502
-begin_date                     | 2/20/2025
-end_date                       | 2/19/2028
-total_worker_positions         | 1
-soc_code                       | 17-2051
-h_1b_dependent                 | No
--[ RECORD 113 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24023-661348
-job_title                      | Transportation Planner II
-employer_name                  | The State of Nebraska, Department of Transportation
-secondary_entity_business_name | 
-employer_poc_email             | Todd.Ludwig@nebraska.gov
-employer_poc_phone             | 14024801946
-employer_poc_first_name        | Todd
-employer_poc_last_name         | Ludwig
-worksite_address1              | 1400 Nebraska Parkway
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
-employer_address1              | 1500 Nebraska Parkway
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68502
-begin_date                     | 3/3/2024
-end_date                       | 3/2/2027
-total_worker_positions         | 1
-soc_code                       | 17-2051.00
-h_1b_dependent                 | No
--[ RECORD 114 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23188-175229
-job_title                      | Highway Designer III
-employer_name                  | The State of Nebraska, Department of Transportation
-secondary_entity_business_name | 
-employer_poc_email             | Rachelle.VanCleave@nebraska.gov
-employer_poc_phone             | 14024793588
-employer_poc_first_name        | Rachelle
-employer_poc_last_name         | Van Cleave
-worksite_address1              | 1500 Nebraska Parkway
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
-employer_address1              | 1500 Nebraska Parkway
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68509
-begin_date                     | 12/23/2023
-end_date                       | 12/22/2026
-total_worker_positions         | 1
-soc_code                       | 17-2051.00
-h_1b_dependent                 | No
--[ RECORD 115 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24309-450392
-job_title                      | Load Rating Engineer
-employer_name                  | The State of Nebraska, Department of Transportation
-secondary_entity_business_name | 
-employer_poc_email             | Todd.Ludwig@nebraska.gov
-employer_poc_phone             | 14024801946
-employer_poc_first_name        | Todd
-employer_poc_last_name         | Ludwig
-worksite_address1              | 1500 Nebraska Parkway
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
-employer_address1              | 1500 Nebraska Parkway
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68502
-begin_date                     | 11/8/2024
-end_date                       | 11/7/2027
-total_worker_positions         | 1
-soc_code                       | 17-2051
-h_1b_dependent                 | No
--[ RECORD 116 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22287-531302
-job_title                      | Engineer I
-employer_name                  | The State of Nebraska, Department of Transportation
-secondary_entity_business_name | 
-employer_poc_email             | rachelle.vancleave@nebraska.gov
-employer_poc_phone             | 14024793588
-employer_poc_first_name        | Rachelle
-employer_poc_last_name         | Van Cleave
-worksite_address1              | 1400 Hwy 2
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
-employer_address1              | 1400 Hwy 2
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68502
-begin_date                     | 10/17/2022
-end_date                       | 10/16/2025
-total_worker_positions         | 1
-soc_code                       | 17-2051.00
-h_1b_dependent                 | No
--[ RECORD 117 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-21320-708787
-job_title                      | Transportation Planner II
-employer_name                  | The State of Nebraska, Department of Transportation
-secondary_entity_business_name | 
-employer_poc_email             | rachelle.vancleave@nebraska.gov
-employer_poc_phone             | 14024793588
-employer_poc_first_name        | Rachelle
-employer_poc_last_name         | Van Cleave
-worksite_address1              | 1500 Hwy 2
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
-employer_address1              | 1500 Hwy 2
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68509
-begin_date                     | 11/23/2021
-end_date                       | 11/22/2024
-total_worker_positions         | 1
-soc_code                       | 19-3099.00
-h_1b_dependent                 | No
--[ RECORD 118 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25041-681166
-job_title                      | Engineer
-employer_name                  | The State of Nebraska, Department of Transportation
-secondary_entity_business_name | 
-employer_poc_email             | Todd.Ludwig@nebraska.gov
-employer_poc_phone             | 14024801946
-employer_poc_first_name        | Todd
-employer_poc_last_name         | Ludwig
-worksite_address1              | 1500 Nebraska Parkway
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
-employer_address1              | 1500 Nebraska Parkway
-employer_address2              | 
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68502
-begin_date                     | 2/21/2025
-end_date                       | 2/20/2028
-total_worker_positions         | 1
-soc_code                       | 17-2051
-h_1b_dependent                 | No
--[ RECORD 119 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24032-684279
 job_title                      | Transportation Planner II
 employer_name                  | The State of Nebraska, Department of Transportation
@@ -2854,15 +2662,15 @@ end_date                       | 3/2/2027
 total_worker_positions         | 1
 soc_code                       | 17-2051.00
 h_1b_dependent                 | No
--[ RECORD 120 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24353-553851
-job_title                      | Signing Engineer
+-[ RECORD 112 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-23188-175229
+job_title                      | Highway Designer III
 employer_name                  | The State of Nebraska, Department of Transportation
 secondary_entity_business_name | 
-employer_poc_email             | Todd.Ludwig@nebraska.gov
-employer_poc_phone             | 14024801946
-employer_poc_first_name        | Todd
-employer_poc_last_name         | Ludwig
+employer_poc_email             | Rachelle.VanCleave@nebraska.gov
+employer_poc_phone             | 14024793588
+employer_poc_first_name        | Rachelle
+employer_poc_last_name         | Van Cleave
 worksite_address1              | 1500 Nebraska Parkway
 worksite_address2              | 
 worksite_city                  | Lincoln
@@ -2872,13 +2680,13 @@ employer_address1              | 1500 Nebraska Parkway
 employer_address2              | 
 employer_city                  | Lincoln
 employer_state                 | NE
-employer_postal_code           | 68502
-begin_date                     | 12/24/2024
-end_date                       | 12/23/2027
+employer_postal_code           | 68509
+begin_date                     | 12/23/2023
+end_date                       | 12/22/2026
 total_worker_positions         | 1
-soc_code                       | 17-2051
+soc_code                       | 17-2051.00
 h_1b_dependent                 | No
--[ RECORD 121 ]----------------+------------------------------------------------------------------------------
+-[ RECORD 113 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-22292-538484
 job_title                      | Engineer
 employer_name                  | The State of Nebraska, Department of Transportation
@@ -2902,7 +2710,55 @@ end_date                       | 10/31/2025
 total_worker_positions         | 1
 soc_code                       | 17-2051.00
 h_1b_dependent                 | No
--[ RECORD 122 ]----------------+------------------------------------------------------------------------------
+-[ RECORD 114 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-22287-531302
+job_title                      | Engineer I
+employer_name                  | The State of Nebraska, Department of Transportation
+secondary_entity_business_name | 
+employer_poc_email             | rachelle.vancleave@nebraska.gov
+employer_poc_phone             | 14024793588
+employer_poc_first_name        | Rachelle
+employer_poc_last_name         | Van Cleave
+worksite_address1              | 1400 Hwy 2
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
+employer_address1              | 1400 Hwy 2
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68502
+begin_date                     | 10/17/2022
+end_date                       | 10/16/2025
+total_worker_positions         | 1
+soc_code                       | 17-2051.00
+h_1b_dependent                 | No
+-[ RECORD 115 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-25041-681166
+job_title                      | Engineer
+employer_name                  | The State of Nebraska, Department of Transportation
+secondary_entity_business_name | 
+employer_poc_email             | Todd.Ludwig@nebraska.gov
+employer_poc_phone             | 14024801946
+employer_poc_first_name        | Todd
+employer_poc_last_name         | Ludwig
+worksite_address1              | 1500 Nebraska Parkway
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
+employer_address1              | 1500 Nebraska Parkway
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68502
+begin_date                     | 2/21/2025
+end_date                       | 2/20/2028
+total_worker_positions         | 1
+soc_code                       | 17-2051
+h_1b_dependent                 | No
+-[ RECORD 116 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24214-237680
 job_title                      | Engineer
 employer_name                  | The State of Nebraska, Department of Transportation
@@ -2925,6 +2781,150 @@ begin_date                     | 8/5/2024
 end_date                       | 8/4/2027
 total_worker_positions         | 1
 soc_code                       | 17-2051.00
+h_1b_dependent                 | No
+-[ RECORD 117 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24023-661348
+job_title                      | Transportation Planner II
+employer_name                  | The State of Nebraska, Department of Transportation
+secondary_entity_business_name | 
+employer_poc_email             | Todd.Ludwig@nebraska.gov
+employer_poc_phone             | 14024801946
+employer_poc_first_name        | Todd
+employer_poc_last_name         | Ludwig
+worksite_address1              | 1400 Nebraska Parkway
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
+employer_address1              | 1500 Nebraska Parkway
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68502
+begin_date                     | 3/3/2024
+end_date                       | 3/2/2027
+total_worker_positions         | 1
+soc_code                       | 17-2051.00
+h_1b_dependent                 | No
+-[ RECORD 118 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24236-290165
+job_title                      | Engineer
+employer_name                  | The State of Nebraska, Department of Transportation
+secondary_entity_business_name | 
+employer_poc_email             | Todd.Ludwig@nebraska.gov
+employer_poc_phone             | 14024801946
+employer_poc_first_name        | Todd
+employer_poc_last_name         | Ludwig
+worksite_address1              | 1500 Nebraska Parkway
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
+employer_address1              | 1500 Nebraska Parkway
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68502
+begin_date                     | 2/1/2025
+end_date                       | 1/31/2028
+total_worker_positions         | 1
+soc_code                       | 17-2051.00
+h_1b_dependent                 | No
+-[ RECORD 119 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-25049-704742
+job_title                      | Professional Engineer II
+employer_name                  | The State of Nebraska, Department of Transportation
+secondary_entity_business_name | 
+employer_poc_email             | Todd.Ludwig@nebraska.gov
+employer_poc_phone             | 14024801946
+employer_poc_first_name        | Todd
+employer_poc_last_name         | Ludwig
+worksite_address1              | 1400 Nebraska Parkway
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
+employer_address1              | 1500 Nebraska Parkway
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68502
+begin_date                     | 2/20/2025
+end_date                       | 2/19/2028
+total_worker_positions         | 1
+soc_code                       | 17-2051
+h_1b_dependent                 | No
+-[ RECORD 120 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24309-450392
+job_title                      | Load Rating Engineer
+employer_name                  | The State of Nebraska, Department of Transportation
+secondary_entity_business_name | 
+employer_poc_email             | Todd.Ludwig@nebraska.gov
+employer_poc_phone             | 14024801946
+employer_poc_first_name        | Todd
+employer_poc_last_name         | Ludwig
+worksite_address1              | 1500 Nebraska Parkway
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
+employer_address1              | 1500 Nebraska Parkway
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68502
+begin_date                     | 11/8/2024
+end_date                       | 11/7/2027
+total_worker_positions         | 1
+soc_code                       | 17-2051
+h_1b_dependent                 | No
+-[ RECORD 121 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-21320-708787
+job_title                      | Transportation Planner II
+employer_name                  | The State of Nebraska, Department of Transportation
+secondary_entity_business_name | 
+employer_poc_email             | rachelle.vancleave@nebraska.gov
+employer_poc_phone             | 14024793588
+employer_poc_first_name        | Rachelle
+employer_poc_last_name         | Van Cleave
+worksite_address1              | 1500 Hwy 2
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
+employer_address1              | 1500 Hwy 2
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68509
+begin_date                     | 11/23/2021
+end_date                       | 11/22/2024
+total_worker_positions         | 1
+soc_code                       | 19-3099.00
+h_1b_dependent                 | No
+-[ RECORD 122 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24353-553851
+job_title                      | Signing Engineer
+employer_name                  | The State of Nebraska, Department of Transportation
+secondary_entity_business_name | 
+employer_poc_email             | Todd.Ludwig@nebraska.gov
+employer_poc_phone             | 14024801946
+employer_poc_first_name        | Todd
+employer_poc_last_name         | Ludwig
+worksite_address1              | 1500 Nebraska Parkway
+worksite_address2              | 
+worksite_city                  | Lincoln
+worksite_county                | LANCASTER
+lawfirm_name_business_name     | Brown Immigration Law P.C., L.L.O.
+employer_address1              | 1500 Nebraska Parkway
+employer_address2              | 
+employer_city                  | Lincoln
+employer_state                 | NE
+employer_postal_code           | 68502
+begin_date                     | 12/24/2024
+end_date                       | 12/23/2027
+total_worker_positions         | 1
+soc_code                       | 17-2051
 h_1b_dependent                 | No
 -[ RECORD 123 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25122-934103

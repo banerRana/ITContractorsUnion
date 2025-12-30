@@ -119,30 +119,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+------------------------------------------------------------------------
-case_number                    | I-200-24324-485358
-job_title                      | IT Project Manager
-employer_name                  | COOLSOFT LLC
-secondary_entity_business_name | Commonwealth of KY - Department of Medicaid Services
-employer_poc_email             | roger@coolsofttech.com
-employer_poc_phone             | 15023279805
-employer_poc_first_name        | Roger
-employer_poc_last_name         | Natarajan
-worksite_address1              | 275 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | 
-employer_address1              | 3240 OFFICE POINTE PLACE
-employer_address2              | SUITE 200
-employer_city                  | LOUISVILLE
-employer_state                 | KY
-employer_postal_code           | 40220
-begin_date                     | 12/2/2024
-end_date                       | 6/9/2027
-total_worker_positions         | 1
-soc_code                       | 15-1299.09
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+------------------------------------------------------------------------
 case_number                    | I-200-24151-051824
 job_title                      | Technical Analyst
 employer_name                  | COOLSOFT LLC
@@ -166,31 +142,31 @@ end_date                       | 6/9/2027
 total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+------------------------------------------------------------------------
-case_number                    | I-200-24288-404435
-job_title                      | Senior .Net Developer
-employer_name                  | Strategic IT Experts Inc
-secondary_entity_business_name | Commonwealth of Kentucky (Department of Revenue)
-employer_poc_email             | raja@strategicitexperts.com
-employer_poc_phone             | 16367289790
-employer_poc_first_name        | Raja Narsimha Reddy
-employer_poc_last_name         | Marri
-worksite_address1              | 501 High St
+-[ RECORD 7 ]------------------+------------------------------------------------------------------------
+case_number                    | I-200-24324-485358
+job_title                      | IT Project Manager
+employer_name                  | COOLSOFT LLC
+secondary_entity_business_name | Commonwealth of KY - Department of Medicaid Services
+employer_poc_email             | roger@coolsofttech.com
+employer_poc_phone             | 15023279805
+employer_poc_first_name        | Roger
+employer_poc_last_name         | Natarajan
+worksite_address1              | 275 East Main Street
 worksite_address2              | 
 worksite_city                  | Frankfort
 worksite_county                | FRANKLIN
 lawfirm_name_business_name     | 
-employer_address1              | 3500 E Fletcher Ave
-employer_address2              | Suite 129
-employer_city                  | Tampa
-employer_state                 | FL
-employer_postal_code           | 33613
-begin_date                     | 10/22/2024
-end_date                       | 10/21/2027
+employer_address1              | 3240 OFFICE POINTE PLACE
+employer_address2              | SUITE 200
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40220
+begin_date                     | 12/2/2024
+end_date                       | 6/9/2027
 total_worker_positions         | 1
-soc_code                       | 15-1252
+soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+------------------------------------------------------------------------
+-[ RECORD 8 ]------------------+------------------------------------------------------------------------
 case_number                    | I-200-22258-473926
 job_title                      | Senior .Net Developer
 employer_name                  | Strategic IT Experts Inc
@@ -213,6 +189,30 @@ begin_date                     | 9/15/2022
 end_date                       | 9/14/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 9 ]------------------+------------------------------------------------------------------------
+case_number                    | I-200-24288-404435
+job_title                      | Senior .Net Developer
+employer_name                  | Strategic IT Experts Inc
+secondary_entity_business_name | Commonwealth of Kentucky (Department of Revenue)
+employer_poc_email             | raja@strategicitexperts.com
+employer_poc_phone             | 16367289790
+employer_poc_first_name        | Raja Narsimha Reddy
+employer_poc_last_name         | Marri
+worksite_address1              | 501 High St
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | 
+employer_address1              | 3500 E Fletcher Ave
+employer_address2              | Suite 129
+employer_city                  | Tampa
+employer_state                 | FL
+employer_postal_code           | 33613
+begin_date                     | 10/22/2024
+end_date                       | 10/21/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22320-591617
@@ -479,7 +479,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 21 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-24255-331163
+case_number                    | I-200-21351-773913
 job_title                      | SharePoint Developer
 employer_name                  | Aeternus Solutions Inc
 secondary_entity_business_name | Kentucky Department of Education
@@ -497,10 +497,10 @@ employer_address2              | Unit 3
 employer_city                  | Westford
 employer_state                 | MA
 employer_postal_code           | 01886
-begin_date                     | 1/27/2025
-end_date                       | 1/26/2028
+begin_date                     | 1/27/2022
+end_date                       | 1/26/2025
 total_worker_positions         | 1
-soc_code                       | 15-1252.00
+soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 22 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-21351-774456
@@ -527,7 +527,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 23 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-21351-773913
+case_number                    | I-200-24255-331163
 job_title                      | SharePoint Developer
 employer_name                  | Aeternus Solutions Inc
 secondary_entity_business_name | Kentucky Department of Education
@@ -545,10 +545,10 @@ employer_address2              | Unit 3
 employer_city                  | Westford
 employer_state                 | MA
 employer_postal_code           | 01886
-begin_date                     | 1/27/2022
-end_date                       | 1/26/2025
+begin_date                     | 1/27/2025
+end_date                       | 1/26/2028
 total_worker_positions         | 1
-soc_code                       | 15-1132.00
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 24 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23103-931474
@@ -791,30 +791,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | No
 -[ RECORD 34 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-25041-678588
-job_title                      | Dot Net Developer
-employer_name                  | Avco Consulting Inc
-secondary_entity_business_name | The Commonwealth of Kentucky, Department of Juvenile Justice
-employer_poc_email             | SUDHIR@AVCOCONSULTING.COM
-employer_poc_phone             | 15082924795
-employer_poc_first_name        | Sudhir Reddy
-employer_poc_last_name         | Prodduturi
-worksite_address1              | 1025 Capital Center Dr
-worksite_address2              | 3rd Floor
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | International Legal and Business Services Group LLP
-employer_address1              | 38 Front St
-employer_address2              | FL 4
-employer_city                  | Worcester
-employer_state                 | MA
-employer_postal_code           | 01608
-begin_date                     | 8/10/2025
-end_date                       | 8/9/2028
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 35 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-22222-407091
 job_title                      | Dot Net Developer
 employer_name                  | Avco Consulting Inc
@@ -837,6 +813,30 @@ begin_date                     | 8/10/2022
 end_date                       | 8/9/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 35 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-25041-678588
+job_title                      | Dot Net Developer
+employer_name                  | Avco Consulting Inc
+secondary_entity_business_name | The Commonwealth of Kentucky, Department of Juvenile Justice
+employer_poc_email             | SUDHIR@AVCOCONSULTING.COM
+employer_poc_phone             | 15082924795
+employer_poc_first_name        | Sudhir Reddy
+employer_poc_last_name         | Prodduturi
+worksite_address1              | 1025 Capital Center Dr
+worksite_address2              | 3rd Floor
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | International Legal and Business Services Group LLP
+employer_address1              | 38 Front St
+employer_address2              | FL 4
+employer_city                  | Worcester
+employer_state                 | MA
+employer_postal_code           | 01608
+begin_date                     | 8/10/2025
+end_date                       | 8/9/2028
+total_worker_positions         | 1
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 36 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23144-051348
@@ -911,14 +911,14 @@ total_worker_positions         | 1
 soc_code                       | 29-1212.00
 h_1b_dependent                 | No
 -[ RECORD 39 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-24256-332913
-job_title                      | State Specialist Horticulture and Local Foods
+case_number                    | I-200-25173-118598
+job_title                      | Institutional Research Coordinator
 employer_name                  | Kentucky State University
 secondary_entity_business_name | 
-employer_poc_email             | vicki.dunaway@kysu.com
-employer_poc_phone             | 15025977000
-employer_poc_first_name        | Vicki
-employer_poc_last_name         | Dunaway
+employer_poc_email             | president@kysu.edu
+employer_poc_phone             | 15025975509
+employer_poc_first_name        | Koffi
+employer_poc_last_name         | Akakpo
 worksite_address1              | 400 East Main Street
 worksite_address2              | 
 worksite_city                  | Frankfort
@@ -929,36 +929,12 @@ employer_address2              |
 employer_city                  | Frankfort
 employer_state                 | KY
 employer_postal_code           | 40601
-begin_date                     | 1/13/2025
-end_date                       | 1/12/2028
+begin_date                     | 8/7/2025
+end_date                       | 8/6/2028
 total_worker_positions         | 1
-soc_code                       | 19-1013.00
+soc_code                       | 15-2051
 h_1b_dependent                 | No
 -[ RECORD 40 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-24143-026678
-job_title                      | Research and Extension Associate Organic Agriculture
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | vicki.dunaway@kysu.com
-employer_poc_phone             | 15025977000
-employer_poc_first_name        | Vicki
-employer_poc_last_name         | Dunaway
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 8/30/2024
-end_date                       | 8/29/2027
-total_worker_positions         | 1
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 41 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-24275-376925
 job_title                      | Assistant Professor of Physics
 employer_name                  | Kentucky State University
@@ -982,7 +958,7 @@ end_date                       | 12/13/2027
 total_worker_positions         | 1
 soc_code                       | 25-1054
 h_1b_dependent                 | No
--[ RECORD 42 ]-----------------+------------------------------------------------------------------------
+-[ RECORD 41 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-25050-705182
 job_title                      | Assistant Professor Livestock Nutrition
 employer_name                  | Kentucky State University
@@ -1006,7 +982,7 @@ end_date                       | 3/16/2028
 total_worker_positions         | 1
 soc_code                       | 25-1041
 h_1b_dependent                 | No
--[ RECORD 43 ]-----------------+------------------------------------------------------------------------
+-[ RECORD 42 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-25050-705196
 job_title                      | Institutional Research Coordinator
 employer_name                  | Kentucky State University
@@ -1030,103 +1006,7 @@ end_date                       | 5/4/2028
 total_worker_positions         | 1
 soc_code                       | 15-2051
 h_1b_dependent                 | No
--[ RECORD 44 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-25062-738347
-job_title                      | Assistant Professor Livestock Nutrition
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | president@kysu.edu
-employer_poc_phone             | 15025975509
-employer_poc_first_name        | Koffi
-employer_poc_last_name         | Akakpo
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 4/7/2025
-end_date                       | 4/6/2028
-total_worker_positions         | 1
-soc_code                       | 25-1041
-h_1b_dependent                 | No
--[ RECORD 45 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-22181-326786
-job_title                      | Assistant Professor of Agricultural Business & Marketing
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | candace.raglin@kysu.edu
-employer_poc_phone             | 15025976502
-employer_poc_first_name        | Candace
-employer_poc_last_name         | Raglin
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 9/1/2022
-end_date                       | 8/31/2025
-total_worker_positions         | 1
-soc_code                       | 25-1063.00
-h_1b_dependent                 | No
--[ RECORD 46 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-21333-729722
-job_title                      | Assistant Professor Livestock Nutrition
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | candace.raglin@kysu.edu
-employer_poc_phone             | 15025976502
-employer_poc_first_name        | Candace
-employer_poc_last_name         | Raglin
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 5/2/2022
-end_date                       | 5/1/2025
-total_worker_positions         | 1
-soc_code                       | 19-1011.00
-h_1b_dependent                 | No
--[ RECORD 47 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-25141-004267
-job_title                      | Institutional Research Coordinator
-employer_name                  | Kentucky State University
-secondary_entity_business_name | 
-employer_poc_email             | president@kysu.edu
-employer_poc_phone             | 15025975509
-employer_poc_first_name        | Koffi
-employer_poc_last_name         | Akakpo
-worksite_address1              | 400 East Main Street
-worksite_address2              | 
-worksite_city                  | Frankfort
-worksite_county                | FRANKLIN
-lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
-employer_address1              | 400 East Main Street
-employer_address2              | 
-employer_city                  | Frankfort
-employer_state                 | KY
-employer_postal_code           | 40601
-begin_date                     | 6/16/2025
-end_date                       | 6/14/2028
-total_worker_positions         | 1
-soc_code                       | 15-2051
-h_1b_dependent                 | No
--[ RECORD 48 ]-----------------+------------------------------------------------------------------------
+-[ RECORD 43 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-20128-551724
 job_title                      | Research Associate
 employer_name                  | Kentucky State University
@@ -1150,9 +1030,9 @@ end_date                       | 10/31/2023
 total_worker_positions         | 1
 soc_code                       | 19-1012.00
 h_1b_dependent                 | No
--[ RECORD 49 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-25029-649406
-job_title                      | Assistant Professor Livestock Nutrition
+-[ RECORD 44 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-24143-026678
+job_title                      | Research and Extension Associate Organic Agriculture
 employer_name                  | Kentucky State University
 secondary_entity_business_name | 
 employer_poc_email             | vicki.dunaway@kysu.com
@@ -1169,13 +1049,133 @@ employer_address2              |
 employer_city                  | Frankfort
 employer_state                 | KY
 employer_postal_code           | 40601
-begin_date                     | 2/24/2025
-end_date                       | 2/23/2028
+begin_date                     | 8/30/2024
+end_date                       | 8/29/2027
+total_worker_positions         | 1
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 45 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-24255-330386
+job_title                      | State Specialist Horticulture and Local Foods
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | vicki.dunaway@kysu.com
+employer_poc_phone             | 15025977000
+employer_poc_first_name        | Vicki
+employer_poc_last_name         | Dunaway
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 1/13/2025
+end_date                       | 1/12/2028
+total_worker_positions         | 1
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 46 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-22181-326786
+job_title                      | Assistant Professor of Agricultural Business & Marketing
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | candace.raglin@kysu.edu
+employer_poc_phone             | 15025976502
+employer_poc_first_name        | Candace
+employer_poc_last_name         | Raglin
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 9/1/2022
+end_date                       | 8/31/2025
+total_worker_positions         | 1
+soc_code                       | 25-1063.00
+h_1b_dependent                 | No
+-[ RECORD 47 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-25062-738347
+job_title                      | Assistant Professor Livestock Nutrition
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | president@kysu.edu
+employer_poc_phone             | 15025975509
+employer_poc_first_name        | Koffi
+employer_poc_last_name         | Akakpo
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 4/7/2025
+end_date                       | 4/6/2028
 total_worker_positions         | 1
 soc_code                       | 25-1041
 h_1b_dependent                 | No
+-[ RECORD 48 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-25141-004267
+job_title                      | Institutional Research Coordinator
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | president@kysu.edu
+employer_poc_phone             | 15025975509
+employer_poc_first_name        | Koffi
+employer_poc_last_name         | Akakpo
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 6/16/2025
+end_date                       | 6/14/2028
+total_worker_positions         | 1
+soc_code                       | 15-2051
+h_1b_dependent                 | No
+-[ RECORD 49 ]-----------------+------------------------------------------------------------------------
+case_number                    | I-200-21333-729722
+job_title                      | Assistant Professor Livestock Nutrition
+employer_name                  | Kentucky State University
+secondary_entity_business_name | 
+employer_poc_email             | candace.raglin@kysu.edu
+employer_poc_phone             | 15025976502
+employer_poc_first_name        | Candace
+employer_poc_last_name         | Raglin
+worksite_address1              | 400 East Main Street
+worksite_address2              | 
+worksite_city                  | Frankfort
+worksite_county                | FRANKLIN
+lawfirm_name_business_name     | Judith K Jones-Toleman Attorney At Law
+employer_address1              | 400 East Main Street
+employer_address2              | 
+employer_city                  | Frankfort
+employer_state                 | KY
+employer_postal_code           | 40601
+begin_date                     | 5/2/2022
+end_date                       | 5/1/2025
+total_worker_positions         | 1
+soc_code                       | 19-1011.00
+h_1b_dependent                 | No
 -[ RECORD 50 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-24255-330386
+case_number                    | I-200-24256-332913
 job_title                      | State Specialist Horticulture and Local Foods
 employer_name                  | Kentucky State University
 secondary_entity_business_name | 
@@ -1223,14 +1223,14 @@ total_worker_positions         | 1
 soc_code                       | 25-1054.00
 h_1b_dependent                 | No
 -[ RECORD 52 ]-----------------+------------------------------------------------------------------------
-case_number                    | I-200-25173-118598
-job_title                      | Institutional Research Coordinator
+case_number                    | I-200-25029-649406
+job_title                      | Assistant Professor Livestock Nutrition
 employer_name                  | Kentucky State University
 secondary_entity_business_name | 
-employer_poc_email             | president@kysu.edu
-employer_poc_phone             | 15025975509
-employer_poc_first_name        | Koffi
-employer_poc_last_name         | Akakpo
+employer_poc_email             | vicki.dunaway@kysu.com
+employer_poc_phone             | 15025977000
+employer_poc_first_name        | Vicki
+employer_poc_last_name         | Dunaway
 worksite_address1              | 400 East Main Street
 worksite_address2              | 
 worksite_city                  | Frankfort
@@ -1241,10 +1241,10 @@ employer_address2              |
 employer_city                  | Frankfort
 employer_state                 | KY
 employer_postal_code           | 40601
-begin_date                     | 8/7/2025
-end_date                       | 8/6/2028
+begin_date                     | 2/24/2025
+end_date                       | 2/23/2028
 total_worker_positions         | 1
-soc_code                       | 15-2051
+soc_code                       | 25-1041
 h_1b_dependent                 | No
 -[ RECORD 53 ]-----------------+------------------------------------------------------------------------
 case_number                    | I-200-23095-905981

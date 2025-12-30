@@ -239,7 +239,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23152-071322
+case_number                    | I-200-23152-071387
 job_title                      | Senior Software Engineer
 employer_name                  | PROGRAMSOFT LLC
 secondary_entity_business_name | SC Department Of Health and Human Services (SCDHHS)
@@ -263,7 +263,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23152-071387
+case_number                    | I-200-23152-071322
 job_title                      | Senior Software Engineer
 employer_name                  | PROGRAMSOFT LLC
 secondary_entity_business_name | SC Department Of Health and Human Services (SCDHHS)
@@ -311,30 +311,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 14 ]-----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23152-071404
-job_title                      | Senior Software Engineer
-employer_name                  | PROGRAMSOFT LLC
-secondary_entity_business_name | SC Department Of Social Services (SCDSS)
-employer_poc_email             | HR@PRGMSOFT.COM
-employer_poc_phone             | 18059903251
-employer_poc_first_name        | ASHOK
-employer_poc_last_name         | REDDY
-worksite_address1              | 1628 Browning Rd
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
-employer_address1              | 2000 N CENTRAL EXPY
-employer_address2              | SUITE 219
-employer_city                  | PLANO
-employer_state                 | TX
-employer_postal_code           | 75074
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 15 ]-----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-23152-071306
 job_title                      | Senior Software Engineer
 employer_name                  | PROGRAMSOFT LLC
@@ -358,8 +334,32 @@ end_date                       | 9/30/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 16 ]-----------------+----------------------------------------------------------------------------------------------
+-[ RECORD 15 ]-----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-23152-071354
+job_title                      | Senior Software Engineer
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | SC Department Of Social Services (SCDSS)
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+worksite_address1              | 1628 Browning Rd
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 10/1/2023
+end_date                       | 9/30/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 16 ]-----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-23152-071404
 job_title                      | Senior Software Engineer
 employer_name                  | PROGRAMSOFT LLC
 secondary_entity_business_name | SC Department Of Social Services (SCDSS)
@@ -815,30 +815,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
 -[ RECORD 35 ]-----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24361-571832
-job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
-employer_name                  | ARKSTEK INC
-secondary_entity_business_name | SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES (SCDHHS)
-employer_poc_email             | legal@arkstek.com
-employer_poc_phone             | 17202120828
-employer_poc_first_name        | SHILPA
-employer_poc_last_name         | AMMISETTY
-worksite_address1              | 1628 BROWNING RD
-worksite_address2              | 225
-worksite_city                  | COLUMBIA
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | 
-employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
-employer_address2              | SUITE 377
-employer_city                  | AURORA
-employer_state                 | CO
-employer_postal_code           | 80014
-begin_date                     | 6/25/2025
-end_date                       | 6/24/2028
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 36 ]-----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-24355-564169
 job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
 employer_name                  | ARKSTEK INC
@@ -859,6 +835,30 @@ employer_state                 | CO
 employer_postal_code           | 80014
 begin_date                     | 1/1/2025
 end_date                       | 12/31/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 36 ]-----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24361-571832
+job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
+employer_name                  | ARKSTEK INC
+secondary_entity_business_name | SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES (SCDHHS)
+employer_poc_email             | legal@arkstek.com
+employer_poc_phone             | 17202120828
+employer_poc_first_name        | SHILPA
+employer_poc_last_name         | AMMISETTY
+worksite_address1              | 1628 BROWNING RD
+worksite_address2              | 225
+worksite_city                  | COLUMBIA
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
+employer_address2              | SUITE 377
+employer_city                  | AURORA
+employer_state                 | CO
+employer_postal_code           | 80014
+begin_date                     | 6/25/2025
+end_date                       | 6/24/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
@@ -1535,30 +1535,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 65 ]-----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-22189-340618
-job_title                      | Software Engineer
-employer_name                  | SKYWALK GLOBAL LLC
-secondary_entity_business_name | South Carolina Department of Health and Human Services
-employer_poc_email             | HENRY.WOOD@SKYWALKGLOBAL.NET
-employer_poc_phone             | 15159749712
-employer_poc_first_name        | HENRY
-employer_poc_last_name         | WOOD
-worksite_address1              | 1801 Main St
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | LAW OFFICE OF KESHAB RAJ SEADIE, P.C.
-employer_address1              | 100 EAST EUCLID AVE
-employer_address2              | SUITE 161
-employer_city                  | DES MOINES
-employer_state                 | IA
-employer_postal_code           | 50313
-begin_date                     | 7/11/2022
-end_date                       | 7/10/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 66 ]-----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-22189-341191
 job_title                      | Software Engineer
 employer_name                  | SKYWALK GLOBAL LLC
@@ -1579,6 +1555,30 @@ employer_state                 | IA
 employer_postal_code           | 50313
 begin_date                     | 9/10/2022
 end_date                       | 9/9/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 66 ]-----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-22189-340618
+job_title                      | Software Engineer
+employer_name                  | SKYWALK GLOBAL LLC
+secondary_entity_business_name | South Carolina Department of Health and Human Services
+employer_poc_email             | HENRY.WOOD@SKYWALKGLOBAL.NET
+employer_poc_phone             | 15159749712
+employer_poc_first_name        | HENRY
+employer_poc_last_name         | WOOD
+worksite_address1              | 1801 Main St
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | LAW OFFICE OF KESHAB RAJ SEADIE, P.C.
+employer_address1              | 100 EAST EUCLID AVE
+employer_address2              | SUITE 161
+employer_city                  | DES MOINES
+employer_state                 | IA
+employer_postal_code           | 50313
+begin_date                     | 7/11/2022
+end_date                       | 7/10/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
@@ -1703,30 +1703,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
 -[ RECORD 72 ]-----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-22258-476017
-job_title                      | Software Engineer
-employer_name                  | SKYWALK GLOBAL LLC
-secondary_entity_business_name | South Carolina Department of Health and Human Services (SCDHHS)
-employer_poc_email             | HENRY.WOOD@SKYWALKGLOBAL.NET
-employer_poc_phone             | 15159749712
-employer_poc_first_name        | HENRY
-employer_poc_last_name         | WOOD
-worksite_address1              | 1801 Main St
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | LAW OFFICE OF KESHAB RAJ SEADIE, P.C.
-employer_address1              | 100 EAST EUCLID AVE
-employer_address2              | SUITE 161
-employer_city                  | DES MOINES
-employer_state                 | IA
-employer_postal_code           | 50313
-begin_date                     | 9/16/2022
-end_date                       | 9/15/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 73 ]-----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-22259-476926
 job_title                      | Software Engineer
 employer_name                  | SKYWALK GLOBAL LLC
@@ -1747,6 +1723,30 @@ employer_state                 | IA
 employer_postal_code           | 50313
 begin_date                     | 1/9/2023
 end_date                       | 1/8/2026
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 73 ]-----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-22258-476017
+job_title                      | Software Engineer
+employer_name                  | SKYWALK GLOBAL LLC
+secondary_entity_business_name | South Carolina Department of Health and Human Services (SCDHHS)
+employer_poc_email             | HENRY.WOOD@SKYWALKGLOBAL.NET
+employer_poc_phone             | 15159749712
+employer_poc_first_name        | HENRY
+employer_poc_last_name         | WOOD
+worksite_address1              | 1801 Main St
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | LAW OFFICE OF KESHAB RAJ SEADIE, P.C.
+employer_address1              | 100 EAST EUCLID AVE
+employer_address2              | SUITE 161
+employer_city                  | DES MOINES
+employer_state                 | IA
+employer_postal_code           | 50313
+begin_date                     | 9/16/2022
+end_date                       | 9/15/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -1799,30 +1799,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 76 ]-----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24099-866015
-job_title                      | Network Engineer Consultant
-employer_name                  | Arkstek Inc
-secondary_entity_business_name | South Carolina Department of Revenue
-employer_poc_email             | legal@arkstek.com
-employer_poc_phone             | 17202120828
-employer_poc_first_name        | Shilpa
-employer_poc_last_name         | Ammisetty
-worksite_address1              | 300A Outlet Pointe Blvd.
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | LEXINGTON
-lawfirm_name_business_name     | Global Immigration Partners Inc
-employer_address1              | 2600 S. Parker Road, Building 7
-employer_address2              | Suite 377
-employer_city                  | Aurora
-employer_state                 | CO
-employer_postal_code           | 80014
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 77 ]-----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-20150-613547
 job_title                      | Senior Database Administrator
 employer_name                  | Arkstek Inc
@@ -1845,6 +1821,30 @@ begin_date                     | 6/20/2020
 end_date                       | 6/19/2023
 total_worker_positions         | 1
 soc_code                       | 15-1141.00
+h_1b_dependent                 | Yes
+-[ RECORD 77 ]-----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24099-866015
+job_title                      | Network Engineer Consultant
+employer_name                  | Arkstek Inc
+secondary_entity_business_name | South Carolina Department of Revenue
+employer_poc_email             | legal@arkstek.com
+employer_poc_phone             | 17202120828
+employer_poc_first_name        | Shilpa
+employer_poc_last_name         | Ammisetty
+worksite_address1              | 300A Outlet Pointe Blvd.
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | LEXINGTON
+lawfirm_name_business_name     | Global Immigration Partners Inc
+employer_address1              | 2600 S. Parker Road, Building 7
+employer_address2              | Suite 377
+employer_city                  | Aurora
+employer_state                 | CO
+employer_postal_code           | 80014
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 78 ]-----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-23024-721901
@@ -1991,7 +1991,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 84 ]-----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24123-949025
+case_number                    | I-200-24123-949141
 job_title                      | System Software Programmer – Project Lead
 employer_name                  | Iconsoft Inc
 secondary_entity_business_name | South Carolina Department of Social Services
@@ -2015,7 +2015,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 85 ]-----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24123-949141
+case_number                    | I-200-24123-949025
 job_title                      | System Software Programmer – Project Lead
 employer_name                  | Iconsoft Inc
 secondary_entity_business_name | South Carolina Department of Social Services
@@ -2423,16 +2423,16 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 102 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23015-703941
+case_number                    | I-200-23015-703932
 job_title                      | System Software Programmer (Java Developer)
 employer_name                  | ANJS Technologies LLC
 secondary_entity_business_name | State Of South Carolina Department of Health and Human Services (SCDHHS)
-employer_poc_email             | immigration@anjstech.com
+employer_poc_email             | mmigration@anjstech.com
 employer_poc_phone             | 17326030069
 employer_poc_first_name        | Suri
 employer_poc_last_name         | Tadi
-worksite_address1              | (SCDHHS)  1628 Browning Rd
-worksite_address2              | 2nd Floor
+worksite_address1              | (SCDHHS) 1628 Browning Rd,2nd Floor
+worksite_address2              | 
 worksite_city                  | Columbia
 worksite_county                | RICHLAND
 lawfirm_name_business_name     | 
@@ -2447,16 +2447,16 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 103 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23015-703932
+case_number                    | I-200-23015-703941
 job_title                      | System Software Programmer (Java Developer)
 employer_name                  | ANJS Technologies LLC
 secondary_entity_business_name | State Of South Carolina Department of Health and Human Services (SCDHHS)
-employer_poc_email             | mmigration@anjstech.com
+employer_poc_email             | immigration@anjstech.com
 employer_poc_phone             | 17326030069
 employer_poc_first_name        | Suri
 employer_poc_last_name         | Tadi
-worksite_address1              | (SCDHHS) 1628 Browning Rd,2nd Floor
-worksite_address2              | 
+worksite_address1              | (SCDHHS)  1628 Browning Rd
+worksite_address2              | 2nd Floor
 worksite_city                  | Columbia
 worksite_county                | RICHLAND
 lawfirm_name_business_name     | 
@@ -2639,30 +2639,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 111 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-22077-991131
-job_title                      | IT Network Engineer
-employer_name                  | Ana-Data Consulting Inc
-secondary_entity_business_name | State of South Carolina
-employer_poc_email             | mchheda@ana-data.com
-employer_poc_phone             | 12013243910
-employer_poc_first_name        | Mitesh
-employer_poc_last_name         | Chheda
-worksite_address1              | 293 Greystone Blvd.
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Galab Dhungana Esquire PC
-employer_address1              | 515 Jefferson St
-employer_address2              | Suite 101
-employer_city                  | Hoboken
-employer_state                 | NJ
-employer_postal_code           | 07030
-begin_date                     | 8/1/2022
-end_date                       | 7/31/2025
-total_worker_positions         | 1
-soc_code                       | 15-1143.00
-h_1b_dependent                 | Yes
--[ RECORD 112 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-22034-876284
 job_title                      | Software Developer & Network Engineer
 employer_name                  | Ana-Data Consulting Inc
@@ -2685,6 +2661,30 @@ begin_date                     | 8/1/2022
 end_date                       | 7/31/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 112 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-22077-991131
+job_title                      | IT Network Engineer
+employer_name                  | Ana-Data Consulting Inc
+secondary_entity_business_name | State of South Carolina
+employer_poc_email             | mchheda@ana-data.com
+employer_poc_phone             | 12013243910
+employer_poc_first_name        | Mitesh
+employer_poc_last_name         | Chheda
+worksite_address1              | 293 Greystone Blvd.
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Galab Dhungana Esquire PC
+employer_address1              | 515 Jefferson St
+employer_address2              | Suite 101
+employer_city                  | Hoboken
+employer_state                 | NJ
+employer_postal_code           | 07030
+begin_date                     | 8/1/2022
+end_date                       | 7/31/2025
+total_worker_positions         | 1
+soc_code                       | 15-1143.00
 h_1b_dependent                 | Yes
 -[ RECORD 113 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-24218-245089
@@ -2855,54 +2855,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1121.00
 h_1b_dependent                 | Yes
 -[ RECORD 120 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23262-359238
-job_title                      | Software Engineer
-employer_name                  | RICEFW Technologies Inc
-secondary_entity_business_name | State of South Carolina
-employer_poc_email             | immigration@ricefwtech.com
-employer_poc_phone             | 15862325001
-employer_poc_first_name        | Mary
-employer_poc_last_name         | Yeddula
-worksite_address1              | 1801 Main St,
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | 
-employer_address1              | 4295 Okemos Road,
-employer_address2              | Ste 102
-employer_city                  | Okemos
-employer_state                 | MI
-employer_postal_code           | 48864
-begin_date                     | 2/20/2024
-end_date                       | 2/19/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 121 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23318-500268
-job_title                      | QA Lead
-employer_name                  | RICEFW Technologies Inc
-secondary_entity_business_name | State of South Carolina
-employer_poc_email             | immigration@ricefwtech.com
-employer_poc_phone             | 15862325001
-employer_poc_first_name        | Mary
-employer_poc_last_name         | Yeddula
-worksite_address1              | 1801 Main St
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | 
-employer_address1              | 4295 OKEMOS ROAD
-employer_address2              | STE 102
-employer_city                  | OKEMOS
-employer_state                 | MI
-employer_postal_code           | 48864
-begin_date                     | 3/22/2024
-end_date                       | 3/21/2027
-total_worker_positions         | 1
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 122 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-24081-819681
 job_title                      | Business Analyst
 employer_name                  | RICEFW Technologies Inc
@@ -2926,7 +2878,7 @@ end_date                       | 8/1/2027
 total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 123 ]----------------+----------------------------------------------------------------------------------------------
+-[ RECORD 121 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-22319-588530
 job_title                      | Software Quality Assurance Tester
 employer_name                  | RICEFW Technologies Inc
@@ -2950,7 +2902,7 @@ end_date                       | 12/4/2025
 total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 124 ]----------------+----------------------------------------------------------------------------------------------
+-[ RECORD 122 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-24081-819732
 job_title                      | Business Analyst
 employer_name                  | RICEFW Technologies Inc
@@ -2974,7 +2926,7 @@ end_date                       | 3/31/2027
 total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 125 ]----------------+----------------------------------------------------------------------------------------------
+-[ RECORD 123 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-22333-608965
 job_title                      | Software Quality Assurance Analyst
 employer_name                  | RICEFW Technologies Inc
@@ -2995,6 +2947,54 @@ employer_state                 | MI
 employer_postal_code           | 48864
 begin_date                     | 12/12/2022
 end_date                       | 12/11/2025
+total_worker_positions         | 1
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 124 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-23262-359238
+job_title                      | Software Engineer
+employer_name                  | RICEFW Technologies Inc
+secondary_entity_business_name | State of South Carolina
+employer_poc_email             | immigration@ricefwtech.com
+employer_poc_phone             | 15862325001
+employer_poc_first_name        | Mary
+employer_poc_last_name         | Yeddula
+worksite_address1              | 1801 Main St,
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 4295 Okemos Road,
+employer_address2              | Ste 102
+employer_city                  | Okemos
+employer_state                 | MI
+employer_postal_code           | 48864
+begin_date                     | 2/20/2024
+end_date                       | 2/19/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 125 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-23143-045528
+job_title                      | Quality Assurance Analyst
+employer_name                  | RICEFW Technologies Inc
+secondary_entity_business_name | State of South Carolina
+employer_poc_email             | immigration@ricefwtech.com
+employer_poc_phone             | 15862325001
+employer_poc_first_name        | Mary
+employer_poc_last_name         | Yeddula
+worksite_address1              | 1801 MAIN ST
+worksite_address2              | PO BOX 8206
+worksite_city                  | COLUMBIA
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 4295 Okemos Road
+employer_address2              | Suite 102
+employer_city                  | Okemos
+employer_state                 | MI
+employer_postal_code           | 48864
+begin_date                     | 6/5/2023
+end_date                       | 6/4/2026
 total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
@@ -3023,26 +3023,26 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 127 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-22332-607610
-job_title                      | Software Quality Assurance Analyst
+case_number                    | I-200-23318-500268
+job_title                      | QA Lead
 employer_name                  | RICEFW Technologies Inc
 secondary_entity_business_name | State of South Carolina
 employer_poc_email             | immigration@ricefwtech.com
 employer_poc_phone             | 15862325001
 employer_poc_first_name        | Mary
 employer_poc_last_name         | Yeddula
-worksite_address1              | 1801 MAIN ST
-worksite_address2              | PO BOX 8206
+worksite_address1              | 1801 Main St
+worksite_address2              | 
 worksite_city                  | Columbia
 worksite_county                | RICHLAND
 lawfirm_name_business_name     | 
-employer_address1              | 4295 Okemos Road
-employer_address2              | Suite 102
-employer_city                  | Okemos
+employer_address1              | 4295 OKEMOS ROAD
+employer_address2              | STE 102
+employer_city                  | OKEMOS
 employer_state                 | MI
 employer_postal_code           | 48864
-begin_date                     | 12/19/2022
-end_date                       | 12/18/2025
+begin_date                     | 3/22/2024
+end_date                       | 3/21/2027
 total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
@@ -3095,8 +3095,8 @@ total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 130 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23143-045528
-job_title                      | Quality Assurance Analyst
+case_number                    | I-200-22332-607610
+job_title                      | Software Quality Assurance Analyst
 employer_name                  | RICEFW Technologies Inc
 secondary_entity_business_name | State of South Carolina
 employer_poc_email             | immigration@ricefwtech.com
@@ -3105,7 +3105,7 @@ employer_poc_first_name        | Mary
 employer_poc_last_name         | Yeddula
 worksite_address1              | 1801 MAIN ST
 worksite_address2              | PO BOX 8206
-worksite_city                  | COLUMBIA
+worksite_city                  | Columbia
 worksite_county                | RICHLAND
 lawfirm_name_business_name     | 
 employer_address1              | 4295 Okemos Road
@@ -3113,12 +3113,36 @@ employer_address2              | Suite 102
 employer_city                  | Okemos
 employer_state                 | MI
 employer_postal_code           | 48864
-begin_date                     | 6/5/2023
-end_date                       | 6/4/2026
+begin_date                     | 12/19/2022
+end_date                       | 12/18/2025
 total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 131 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-22276-506418
+job_title                      | Senior .Net Developer
+employer_name                  | Refulgent Technologies Inc
+secondary_entity_business_name | State of South Carolina
+employer_poc_email             | Surendra.Vemugunta@refulgent-tech.com
+employer_poc_phone             | 17044054238
+employer_poc_first_name        | Surendra
+employer_poc_last_name         | VEMUGUNTA
+worksite_address1              | 1628 Browning Road
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Kan Law, PC
+employer_address1              | 112 S. Tryon St.
+employer_address2              | Suite 1270
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28284
+begin_date                     | 10/11/2022
+end_date                       | 10/10/2025
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 132 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-25072-774601
 job_title                      | .Net Developer
 employer_name                  | Refulgent Technologies Inc
@@ -3142,7 +3166,7 @@ end_date                       | 3/31/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 132 ]----------------+----------------------------------------------------------------------------------------------
+-[ RECORD 133 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-25122-931882
 job_title                      | Senior .Net Developer
 employer_name                  | Refulgent Technologies Inc
@@ -3165,30 +3189,6 @@ begin_date                     | 10/11/2025
 end_date                       | 10/10/2028
 total_worker_positions         | 1
 soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 133 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-22276-506418
-job_title                      | Senior .Net Developer
-employer_name                  | Refulgent Technologies Inc
-secondary_entity_business_name | State of South Carolina
-employer_poc_email             | Surendra.Vemugunta@refulgent-tech.com
-employer_poc_phone             | 17044054238
-employer_poc_first_name        | Surendra
-employer_poc_last_name         | VEMUGUNTA
-worksite_address1              | 1628 Browning Road
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Kan Law, PC
-employer_address1              | 112 S. Tryon St.
-employer_address2              | Suite 1270
-employer_city                  | Charlotte
-employer_state                 | NC
-employer_postal_code           | 28284
-begin_date                     | 10/11/2022
-end_date                       | 10/10/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 134 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-24184-166516
@@ -3335,30 +3335,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 140 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23229-273493
-job_title                      | Software Engineer
-employer_name                  | COOLSOFT LLC
-secondary_entity_business_name | State of South Carolina - Department of Social Services (SCDSS)
-employer_poc_email             | roger@coolsofttech.com
-employer_poc_phone             | 15023279805
-employer_poc_first_name        | Roger
-employer_poc_last_name         | Natarajan
-worksite_address1              | 1628 Browning Road
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | 
-employer_address1              | 3240 OFFICE POINTE PLACE
-employer_address2              | SUITE 200
-employer_city                  | LOUISVILLE
-employer_state                 | KY
-employer_postal_code           | 40220
-begin_date                     | 8/28/2023
-end_date                       | 8/27/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 141 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-23214-232956
 job_title                      | Software Engineer - Lead
 employer_name                  | COOLSOFT LLC
@@ -3379,6 +3355,30 @@ employer_state                 | KY
 employer_postal_code           | 40220
 begin_date                     | 1/29/2024
 end_date                       | 1/28/2027
+total_worker_positions         | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 141 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-23229-273493
+job_title                      | Software Engineer
+employer_name                  | COOLSOFT LLC
+secondary_entity_business_name | State of South Carolina - Department of Social Services (SCDSS)
+employer_poc_email             | roger@coolsofttech.com
+employer_poc_phone             | 15023279805
+employer_poc_first_name        | Roger
+employer_poc_last_name         | Natarajan
+worksite_address1              | 1628 Browning Road
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 3240 OFFICE POINTE PLACE
+employer_address2              | SUITE 200
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40220
+begin_date                     | 8/28/2023
+end_date                       | 8/27/2026
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
@@ -3431,7 +3431,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 144 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24034-691102
+case_number                    | I-200-24037-695979
 job_title                      | Network Consultant
 employer_name                  | GOCOOL INC
 secondary_entity_business_name | State of South Carolina Department of Revenue
@@ -3455,30 +3455,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
 -[ RECORD 145 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-23295-448678
-job_title                      | Network Consultant
-employer_name                  | GOCOOL INC
-secondary_entity_business_name | State of South Carolina Department of Revenue
-employer_poc_email             | ADMIN@GOCOOLINC.COM
-employer_poc_phone             | 14253411214
-employer_poc_first_name        | Ranga
-employer_poc_last_name         | Bondada
-worksite_address1              | 300 A Outlet Pointe Blvd
-worksite_address2              | N/A
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | 
-employer_address1              | 12303 Meridian St E
-employer_address2              | Suite 203
-employer_city                  | Puyallup
-employer_state                 | WA
-employer_postal_code           | 98374
-begin_date                     | 10/22/2023
-end_date                       | 10/21/2026
-total_worker_positions         | 1
-soc_code                       | 15-1241.00
-h_1b_dependent                 | No
--[ RECORD 146 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-23293-445496
 job_title                      | Network Consultant
 employer_name                  | GOCOOL INC
@@ -3502,8 +3478,8 @@ end_date                       | 10/19/2026
 total_worker_positions         | 1
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
--[ RECORD 147 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24037-695979
+-[ RECORD 146 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24034-691102
 job_title                      | Network Consultant
 employer_name                  | GOCOOL INC
 secondary_entity_business_name | State of South Carolina Department of Revenue
@@ -3523,6 +3499,30 @@ employer_state                 | WA
 employer_postal_code           | 98374
 begin_date                     | 4/20/2024
 end_date                       | 4/19/2027
+total_worker_positions         | 1
+soc_code                       | 15-1241.00
+h_1b_dependent                 | No
+-[ RECORD 147 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-23295-448678
+job_title                      | Network Consultant
+employer_name                  | GOCOOL INC
+secondary_entity_business_name | State of South Carolina Department of Revenue
+employer_poc_email             | ADMIN@GOCOOLINC.COM
+employer_poc_phone             | 14253411214
+employer_poc_first_name        | Ranga
+employer_poc_last_name         | Bondada
+worksite_address1              | 300 A Outlet Pointe Blvd
+worksite_address2              | N/A
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 12303 Meridian St E
+employer_address2              | Suite 203
+employer_city                  | Puyallup
+employer_state                 | WA
+employer_postal_code           | 98374
+begin_date                     | 10/22/2023
+end_date                       | 10/21/2026
 total_worker_positions         | 1
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
@@ -3887,126 +3887,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1242.00
 h_1b_dependent                 | No
 -[ RECORD 163 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24081-819262
-job_title                      | Nurse Practitioner I
-employer_name                  | South Carolina Department of Mental Health
-secondary_entity_business_name | 
-employer_poc_email             | kathy.hugg@scdmh.org
-employer_poc_phone             | 18038984802
-employer_poc_first_name        | Kathy
-employer_poc_last_name         | Hugg
-worksite_address1              | 2715 Colonial Drive
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Haynsworth Sinkler Boyd P.A.
-employer_address1              | 2414 Bull Street
-employer_address2              | 
-employer_city                  | Columbia
-employer_state                 | SC
-employer_postal_code           | 29201
-begin_date                     | 6/17/2024
-end_date                       | 6/16/2027
-total_worker_positions         | 1
-soc_code                       | 29-1171.00
-h_1b_dependent                 | No
--[ RECORD 164 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24045-717242
-job_title                      | Psychologist I
-employer_name                  | South Carolina Department of Mental Health
-secondary_entity_business_name | 
-employer_poc_email             | logan.royals@scdmh.org
-employer_poc_phone             | 18038988558
-employer_poc_first_name        | Logan
-employer_poc_last_name         | Royals
-worksite_address1              | G.W. Bryan Psychiatric Hospital
-worksite_address2              | 220 Faison Drive
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Haynsworth Sinkler Boyd PA
-employer_address1              | 2414 Bull Street
-employer_address2              | 
-employer_city                  | Columbia
-employer_state                 | SC
-employer_postal_code           | 29201
-begin_date                     | 6/14/2024
-end_date                       | 4/30/2026
-total_worker_positions         | 1
-soc_code                       | 19-3033.00
-h_1b_dependent                 | No
--[ RECORD 165 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-22139-190697
-job_title                      | Psychiatrist
-employer_name                  | South Carolina Department of Mental Health
-secondary_entity_business_name | 
-employer_poc_email             | logan.royals@scdmh.org
-employer_poc_phone             | 18038984800
-employer_poc_first_name        | Logan
-employer_poc_last_name         | Royals
-worksite_address1              | 2715 Colonial Drive
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Haynsworth Sinkler Boyd PA
-employer_address1              | 2414 Bull Street
-employer_address2              | 
-employer_city                  | Columbia
-employer_state                 | SC
-employer_postal_code           | 29201
-begin_date                     | 11/1/2022
-end_date                       | 10/31/2025
-total_worker_positions         | 1
-soc_code                       | 29-1066.00
-h_1b_dependent                 | No
--[ RECORD 166 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-22143-199835
-job_title                      | Psychiatrist
-employer_name                  | South Carolina Department of Mental Health
-secondary_entity_business_name | 
-employer_poc_email             | logan.royals@scdmh.org
-employer_poc_phone             | 18038984800
-employer_poc_first_name        | Logan
-employer_poc_last_name         | Royals
-worksite_address1              | 2715 Colonial Drive
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Haynsworth Sinkler Boyd PA
-employer_address1              | 2414 Bull Street
-employer_address2              | 
-employer_city                  | Columbia
-employer_state                 | SC
-employer_postal_code           | 29201
-begin_date                     | 11/1/2022
-end_date                       | 10/31/2025
-total_worker_positions         | 1
-soc_code                       | 29-1066.00
-h_1b_dependent                 | No
--[ RECORD 167 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-22138-185640
-job_title                      | Psychiatrist
-employer_name                  | South Carolina Department of Mental Health
-secondary_entity_business_name | 
-employer_poc_email             | logan.royals@scdmh.org
-employer_poc_phone             | 18038984800
-employer_poc_first_name        | Logan
-employer_poc_last_name         | Royals
-worksite_address1              | 2715 Colonial Drive
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Haynsworth Sinkler Boyd PA
-employer_address1              | 2414 Bull Street
-employer_address2              | 
-employer_city                  | Columbia
-employer_state                 | SC
-employer_postal_code           | 29201
-begin_date                     | 11/1/2022
-end_date                       | 10/31/2025
-total_worker_positions         | 2
-soc_code                       | 29-1066.00
-h_1b_dependent                 | No
--[ RECORD 168 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-23233-282120
 job_title                      | Counselor III
 employer_name                  | South Carolina Department of Mental Health
@@ -4030,199 +3910,127 @@ end_date                       | 8/31/2026
 total_worker_positions         | 1
 soc_code                       | 21-1014.00
 h_1b_dependent                 | No
+-[ RECORD 164 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-22139-190697
+job_title                      | Psychiatrist
+employer_name                  | South Carolina Department of Mental Health
+secondary_entity_business_name | 
+employer_poc_email             | logan.royals@scdmh.org
+employer_poc_phone             | 18038984800
+employer_poc_first_name        | Logan
+employer_poc_last_name         | Royals
+worksite_address1              | 2715 Colonial Drive
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Haynsworth Sinkler Boyd PA
+employer_address1              | 2414 Bull Street
+employer_address2              | 
+employer_city                  | Columbia
+employer_state                 | SC
+employer_postal_code           | 29201
+begin_date                     | 11/1/2022
+end_date                       | 10/31/2025
+total_worker_positions         | 1
+soc_code                       | 29-1066.00
+h_1b_dependent                 | No
+-[ RECORD 165 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24081-819262
+job_title                      | Nurse Practitioner I
+employer_name                  | South Carolina Department of Mental Health
+secondary_entity_business_name | 
+employer_poc_email             | kathy.hugg@scdmh.org
+employer_poc_phone             | 18038984802
+employer_poc_first_name        | Kathy
+employer_poc_last_name         | Hugg
+worksite_address1              | 2715 Colonial Drive
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Haynsworth Sinkler Boyd P.A.
+employer_address1              | 2414 Bull Street
+employer_address2              | 
+employer_city                  | Columbia
+employer_state                 | SC
+employer_postal_code           | 29201
+begin_date                     | 6/17/2024
+end_date                       | 6/16/2027
+total_worker_positions         | 1
+soc_code                       | 29-1171.00
+h_1b_dependent                 | No
+-[ RECORD 166 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24045-717242
+job_title                      | Psychologist I
+employer_name                  | South Carolina Department of Mental Health
+secondary_entity_business_name | 
+employer_poc_email             | logan.royals@scdmh.org
+employer_poc_phone             | 18038988558
+employer_poc_first_name        | Logan
+employer_poc_last_name         | Royals
+worksite_address1              | G.W. Bryan Psychiatric Hospital
+worksite_address2              | 220 Faison Drive
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Haynsworth Sinkler Boyd PA
+employer_address1              | 2414 Bull Street
+employer_address2              | 
+employer_city                  | Columbia
+employer_state                 | SC
+employer_postal_code           | 29201
+begin_date                     | 6/14/2024
+end_date                       | 4/30/2026
+total_worker_positions         | 1
+soc_code                       | 19-3033.00
+h_1b_dependent                 | No
+-[ RECORD 167 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-22143-199835
+job_title                      | Psychiatrist
+employer_name                  | South Carolina Department of Mental Health
+secondary_entity_business_name | 
+employer_poc_email             | logan.royals@scdmh.org
+employer_poc_phone             | 18038984800
+employer_poc_first_name        | Logan
+employer_poc_last_name         | Royals
+worksite_address1              | 2715 Colonial Drive
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Haynsworth Sinkler Boyd PA
+employer_address1              | 2414 Bull Street
+employer_address2              | 
+employer_city                  | Columbia
+employer_state                 | SC
+employer_postal_code           | 29201
+begin_date                     | 11/1/2022
+end_date                       | 10/31/2025
+total_worker_positions         | 1
+soc_code                       | 29-1066.00
+h_1b_dependent                 | No
+-[ RECORD 168 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-22138-185640
+job_title                      | Psychiatrist
+employer_name                  | South Carolina Department of Mental Health
+secondary_entity_business_name | 
+employer_poc_email             | logan.royals@scdmh.org
+employer_poc_phone             | 18038984800
+employer_poc_first_name        | Logan
+employer_poc_last_name         | Royals
+worksite_address1              | 2715 Colonial Drive
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Haynsworth Sinkler Boyd PA
+employer_address1              | 2414 Bull Street
+employer_address2              | 
+employer_city                  | Columbia
+employer_state                 | SC
+employer_postal_code           | 29201
+begin_date                     | 11/1/2022
+end_date                       | 10/31/2025
+total_worker_positions         | 2
+soc_code                       | 29-1066.00
+h_1b_dependent                 | No
 -[ RECORD 169 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24128-967938
-job_title                      | Postdoctoral Scientist
-employer_name                  | South Carolina State University
-secondary_entity_business_name | 
-employer_poc_email             | ryork1@scsu.edu
-employer_poc_phone             | 18035367000
-employer_poc_first_name        | Ronald
-employer_poc_last_name         | York
-worksite_address1              | 300 College Street NE
-worksite_address2              | 
-worksite_city                  | Orangeburg
-worksite_county                | ORANGEBURG
-lawfirm_name_business_name     | Ogletree Deakins Law Firm
-employer_address1              | 300 College Street NE
-employer_address2              | 
-employer_city                  | Orangeburg
-employer_state                 | SC
-employer_postal_code           | 29117
-begin_date                     | 5/13/2024
-end_date                       | 5/12/2027
-total_worker_positions         | 1
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 170 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24026-669564
-job_title                      | Sensor Research Assistant
-employer_name                  | South Carolina State University
-secondary_entity_business_name | 
-employer_poc_email             | ryork1@scsu.edu
-employer_poc_phone             | 18035367000
-employer_poc_first_name        | Ronald
-employer_poc_last_name         | York
-worksite_address1              | 300 College Street
-worksite_address2              | 
-worksite_city                  | Orangeburg
-worksite_county                | ORANGEBURG
-lawfirm_name_business_name     | Ogletree, Deakins, Nash, Smoak & Stewart, P.C.
-employer_address1              | 300 College Street
-employer_address2              | 
-employer_city                  | Orangeburg
-employer_state                 | SC
-employer_postal_code           | 29117
-begin_date                     | 2/12/2024
-end_date                       | 2/11/2027
-total_worker_positions         | 1
-soc_code                       | 17-2063
-h_1b_dependent                 | No
--[ RECORD 171 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-21337-741985
-job_title                      | Assistant Professor of Computer Science
-employer_name                  | South Carolina State University
-secondary_entity_business_name | 
-employer_poc_email             | CRogers@scsu.edu
-employer_poc_phone             | 18035333928
-employer_poc_first_name        | Chrystel
-employer_poc_last_name         | Rogers
-worksite_address1              | 300 College St. NE
-worksite_address2              | 
-worksite_city                  | Orangeburg
-worksite_county                | ORANGEBURG
-lawfirm_name_business_name     | Ogletree, Deakins, Nash, Smoak & Stewart P.C.
-employer_address1              | 300 College St. NE
-employer_address2              | 
-employer_city                  | Orangeburg
-employer_state                 | SC
-employer_postal_code           | 29115
-begin_date                     | 4/16/2022
-end_date                       | 4/15/2025
-total_worker_positions         | 1
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 172 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24030-678133
-job_title                      | Sensor Research Assistant
-employer_name                  | South Carolina State University
-secondary_entity_business_name | 
-employer_poc_email             | ryork1@scsu.edu
-employer_poc_phone             | 18035367000
-employer_poc_first_name        | Ronald
-employer_poc_last_name         | York
-worksite_address1              | 300 College Street
-worksite_address2              | 
-worksite_city                  | Orangeburg
-worksite_county                | ORANGEBURG
-lawfirm_name_business_name     | Ogletree, Deakins, Nash, Smoak & Stewart, P.C.
-employer_address1              | 300 College Street
-employer_address2              | 
-employer_city                  | Orangeburg
-employer_state                 | SC
-employer_postal_code           | 29117
-begin_date                     | 2/12/2024
-end_date                       | 2/11/2027
-total_worker_positions         | 1
-soc_code                       | 17-2063
-h_1b_dependent                 | No
--[ RECORD 173 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24141-013082
-job_title                      | Postdoctoral Scientist
-employer_name                  | South Carolina State University
-secondary_entity_business_name | 
-employer_poc_email             | Ryork1@scsu.edu
-employer_poc_phone             | 18035367000
-employer_poc_first_name        | Ronald
-employer_poc_last_name         | York
-worksite_address1              | 300 College Street NE
-worksite_address2              | 
-worksite_city                  | Orangeburg
-worksite_county                | ORANGEBURG
-lawfirm_name_business_name     | Ogletree Deakins Law Firm
-employer_address1              | 300 College Street NE
-employer_address2              | 
-employer_city                  | Orangeburg
-employer_state                 | SC
-employer_postal_code           | 29117
-begin_date                     | 5/20/2024
-end_date                       | 5/19/2027
-total_worker_positions         | 1
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 174 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24130-978313
-job_title                      | Postdoctoral Scientist
-employer_name                  | South Carolina State University
-secondary_entity_business_name | 
-employer_poc_email             | ryork1@scsu.edu
-employer_poc_phone             | 18035367000
-employer_poc_first_name        | Ronald
-employer_poc_last_name         | York
-worksite_address1              | 300 College Street NE
-worksite_address2              | 
-worksite_city                  | Orangeburg
-worksite_county                | ORANGEBURG
-lawfirm_name_business_name     | Ogletree Deakins Law Firm
-employer_address1              | 300 College Street NE
-employer_address2              | 
-employer_city                  | Orangeburg
-employer_state                 | SC
-employer_postal_code           | 29117
-begin_date                     | 5/15/2024
-end_date                       | 5/14/2027
-total_worker_positions         | 1
-soc_code                       | 19-1031.00
-h_1b_dependent                 | No
--[ RECORD 175 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24018-648419
-job_title                      | Research Scientist and Extension Specialist
-employer_name                  | South Carolina State University
-secondary_entity_business_name | 
-employer_poc_email             | CRogers@scsu.edu
-employer_poc_phone             | 18039286740
-employer_poc_first_name        | Chrystel
-employer_poc_last_name         | Rogers
-worksite_address1              | 300 College Street NE
-worksite_address2              | 
-worksite_city                  | Orangeburg
-worksite_county                | ORANGEBURG
-lawfirm_name_business_name     | Ogletree Deakins Law Firm
-employer_address1              | 300 College Street NE
-employer_address2              | 
-employer_city                  | Orangeburg
-employer_state                 | SC
-employer_postal_code           | 29117
-begin_date                     | 1/29/2024
-end_date                       | 1/28/2027
-total_worker_positions         | 1
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 176 ]----------------+----------------------------------------------------------------------------------------------
-case_number                    | I-200-24341-523646
-job_title                      | Associate Professor of Computer Science
-employer_name                  | South Carolina State University
-secondary_entity_business_name | 
-employer_poc_email             | fevans6@scsu.edu
-employer_poc_phone             | 18035367180
-employer_poc_first_name        | Frederick
-employer_poc_last_name         | Evans
-worksite_address1              | 300 College Street NE
-worksite_address2              | 
-worksite_city                  | Orangeburg
-worksite_county                | ORANGEBURG
-lawfirm_name_business_name     | Ogletree, Deakins, Nash, Smoak & Stewart, P.C.
-employer_address1              | 300 College Street NE
-employer_address2              | 
-employer_city                  | Orangeburg
-employer_state                 | SC
-employer_postal_code           | 29117
-begin_date                     | 4/16/2025
-end_date                       | 4/15/2028
-total_worker_positions         | 1
-soc_code                       | 25-1021
-h_1b_dependent                 | No
--[ RECORD 177 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-24128-967951
 job_title                      | Program Coordinator, Climate-Smart Project
 employer_name                  | South Carolina State University
@@ -4246,7 +4054,31 @@ end_date                       | 5/14/2027
 total_worker_positions         | 1
 soc_code                       | 19-2041.03
 h_1b_dependent                 | No
--[ RECORD 178 ]----------------+----------------------------------------------------------------------------------------------
+-[ RECORD 170 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24128-967938
+job_title                      | Postdoctoral Scientist
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_poc_email             | ryork1@scsu.edu
+employer_poc_phone             | 18035367000
+employer_poc_first_name        | Ronald
+employer_poc_last_name         | York
+worksite_address1              | 300 College Street NE
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree Deakins Law Firm
+employer_address1              | 300 College Street NE
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 5/13/2024
+end_date                       | 5/12/2027
+total_worker_positions         | 1
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 171 ]----------------+----------------------------------------------------------------------------------------------
 case_number                    | I-200-21341-749303
 job_title                      | Assistant Professor of Computer Science
 employer_name                  | South Carolina State University
@@ -4269,5 +4101,173 @@ begin_date                     | 4/16/2022
 end_date                       | 4/15/2025
 total_worker_positions         | 1
 soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 172 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24341-523646
+job_title                      | Associate Professor of Computer Science
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_poc_email             | fevans6@scsu.edu
+employer_poc_phone             | 18035367180
+employer_poc_first_name        | Frederick
+employer_poc_last_name         | Evans
+worksite_address1              | 300 College Street NE
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree, Deakins, Nash, Smoak & Stewart, P.C.
+employer_address1              | 300 College Street NE
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 4/16/2025
+end_date                       | 4/15/2028
+total_worker_positions         | 1
+soc_code                       | 25-1021
+h_1b_dependent                 | No
+-[ RECORD 173 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24130-978313
+job_title                      | Postdoctoral Scientist
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_poc_email             | ryork1@scsu.edu
+employer_poc_phone             | 18035367000
+employer_poc_first_name        | Ronald
+employer_poc_last_name         | York
+worksite_address1              | 300 College Street NE
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree Deakins Law Firm
+employer_address1              | 300 College Street NE
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 5/15/2024
+end_date                       | 5/14/2027
+total_worker_positions         | 1
+soc_code                       | 19-1031.00
+h_1b_dependent                 | No
+-[ RECORD 174 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24030-678133
+job_title                      | Sensor Research Assistant
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_poc_email             | ryork1@scsu.edu
+employer_poc_phone             | 18035367000
+employer_poc_first_name        | Ronald
+employer_poc_last_name         | York
+worksite_address1              | 300 College Street
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree, Deakins, Nash, Smoak & Stewart, P.C.
+employer_address1              | 300 College Street
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 2/12/2024
+end_date                       | 2/11/2027
+total_worker_positions         | 1
+soc_code                       | 17-2063
+h_1b_dependent                 | No
+-[ RECORD 175 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24141-013082
+job_title                      | Postdoctoral Scientist
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_poc_email             | Ryork1@scsu.edu
+employer_poc_phone             | 18035367000
+employer_poc_first_name        | Ronald
+employer_poc_last_name         | York
+worksite_address1              | 300 College Street NE
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree Deakins Law Firm
+employer_address1              | 300 College Street NE
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 5/20/2024
+end_date                       | 5/19/2027
+total_worker_positions         | 1
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 176 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24026-669564
+job_title                      | Sensor Research Assistant
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_poc_email             | ryork1@scsu.edu
+employer_poc_phone             | 18035367000
+employer_poc_first_name        | Ronald
+employer_poc_last_name         | York
+worksite_address1              | 300 College Street
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree, Deakins, Nash, Smoak & Stewart, P.C.
+employer_address1              | 300 College Street
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 2/12/2024
+end_date                       | 2/11/2027
+total_worker_positions         | 1
+soc_code                       | 17-2063
+h_1b_dependent                 | No
+-[ RECORD 177 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-21337-741985
+job_title                      | Assistant Professor of Computer Science
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_poc_email             | CRogers@scsu.edu
+employer_poc_phone             | 18035333928
+employer_poc_first_name        | Chrystel
+employer_poc_last_name         | Rogers
+worksite_address1              | 300 College St. NE
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree, Deakins, Nash, Smoak & Stewart P.C.
+employer_address1              | 300 College St. NE
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29115
+begin_date                     | 4/16/2022
+end_date                       | 4/15/2025
+total_worker_positions         | 1
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 178 ]----------------+----------------------------------------------------------------------------------------------
+case_number                    | I-200-24018-648419
+job_title                      | Research Scientist and Extension Specialist
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_poc_email             | CRogers@scsu.edu
+employer_poc_phone             | 18039286740
+employer_poc_first_name        | Chrystel
+employer_poc_last_name         | Rogers
+worksite_address1              | 300 College Street NE
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree Deakins Law Firm
+employer_address1              | 300 College Street NE
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 1/29/2024
+end_date                       | 1/28/2027
+total_worker_positions         | 1
+soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 

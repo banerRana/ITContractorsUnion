@@ -263,30 +263,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
 -[ RECORD 12 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22336-618348
-job_title                      | NETWORK ENGINEER
-employer_name                  | TECHNODEED LLC
-secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION (NDOT)
-employer_poc_email             | IMMIGRATION@TECHNODEED.COM
-employer_poc_phone             | 19193363030
-employer_poc_first_name        | VENKAT PAVAN GANESH
-employer_poc_last_name         | PINAPATI
-worksite_address1              | 1164 WESTERN AVE
-worksite_address2              | 
-worksite_city                  | LAS VEGAS
-worksite_county                | CLARK
-lawfirm_name_business_name     | 
-employer_address1              | 10404 CHAPEL HILL ROAD
-employer_address2              | SUITE 106
-employer_city                  | MORRISVILLE
-employer_state                 | NC
-employer_postal_code           | 27560
-begin_date                     | 12/12/2022
-end_date                       | 12/11/2025
-total_worker_positions         | 1
-soc_code                       | 15-1241.00
-h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24074-798494
 job_title                      | NETWORK ENGINEER
 employer_name                  | TECHNODEED LLC
@@ -307,6 +283,30 @@ employer_state                 | NC
 employer_postal_code           | 27560
 begin_date                     | 3/25/2024
 end_date                       | 3/24/2027
+total_worker_positions         | 1
+soc_code                       | 15-1241.00
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22336-618348
+job_title                      | NETWORK ENGINEER
+employer_name                  | TECHNODEED LLC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION (NDOT)
+employer_poc_email             | IMMIGRATION@TECHNODEED.COM
+employer_poc_phone             | 19193363030
+employer_poc_first_name        | VENKAT PAVAN GANESH
+employer_poc_last_name         | PINAPATI
+worksite_address1              | 1164 WESTERN AVE
+worksite_address2              | 
+worksite_city                  | LAS VEGAS
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 10404 CHAPEL HILL ROAD
+employer_address2              | SUITE 106
+employer_city                  | MORRISVILLE
+employer_state                 | NC
+employer_postal_code           | 27560
+begin_date                     | 12/12/2022
+end_date                       | 12/11/2025
 total_worker_positions         | 1
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
@@ -359,30 +359,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
 -[ RECORD 16 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23220-246671
-job_title                      | Systems Administrator
-employer_name                  | IT IDEOLOGY LLC
-secondary_entity_business_name | Nevada Department of Transportation
-employer_poc_email             | HR@ITIDEOLOGY.COM
-employer_poc_phone             | 12014167913
-employer_poc_first_name        | ANN
-employer_poc_last_name         | ZULLO
-worksite_address1              | 1164 Western Ave.
-worksite_address2              | 
-worksite_city                  | Las Vegas
-worksite_county                | CLARK
-lawfirm_name_business_name     | Feldman & Bossert LLC
-employer_address1              | 109 SOUTH MAIN STREET
-employer_address2              | SUITE 16
-employer_city                  | CRANBURY
-employer_state                 | NJ
-employer_postal_code           | 08512
-begin_date                     | 8/8/2023
-end_date                       | 8/7/2026
-total_worker_positions         | 1
-soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22252-462885
 job_title                      | Systems Administrator
 employer_name                  | IT IDEOLOGY LLC
@@ -403,6 +379,30 @@ employer_state                 | NJ
 employer_postal_code           | 08512
 begin_date                     | 9/8/2022
 end_date                       | 9/7/2025
+total_worker_positions         | 1
+soc_code                       | 15-1244.00
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23220-246671
+job_title                      | Systems Administrator
+employer_name                  | IT IDEOLOGY LLC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_poc_email             | HR@ITIDEOLOGY.COM
+employer_poc_phone             | 12014167913
+employer_poc_first_name        | ANN
+employer_poc_last_name         | ZULLO
+worksite_address1              | 1164 Western Ave.
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | Feldman & Bossert LLC
+employer_address1              | 109 SOUTH MAIN STREET
+employer_address2              | SUITE 16
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 8/8/2023
+end_date                       | 8/7/2026
 total_worker_positions         | 1
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
@@ -791,13 +791,13 @@ total_worker_positions         | 1
 soc_code                       | 15-1244
 h_1b_dependent                 | Yes
 -[ RECORD 34 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-21312-692731
+case_number                    | I-200-21299-667935
 job_title                      | Network Engineer
 employer_name                  | COMTEK GLOBAL INC
 secondary_entity_business_name | State of Nevada - Department of transportation
 employer_poc_email             | IMMIGRATION@CENTILLIONZ.COM
-employer_poc_phone             | 19082058990
-employer_poc_first_name        | KANCHANA
+employer_poc_phone             | 17324475253
+employer_poc_first_name        | RANGA
 employer_poc_last_name         | ARAVAPALLI
 worksite_address1              | 123 East Washington Ave
 worksite_address2              | 
@@ -815,13 +815,13 @@ total_worker_positions         | 1
 soc_code                       | 15-1143.00
 h_1b_dependent                 | Yes
 -[ RECORD 35 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-21299-667935
+case_number                    | I-200-21312-692731
 job_title                      | Network Engineer
 employer_name                  | COMTEK GLOBAL INC
 secondary_entity_business_name | State of Nevada - Department of transportation
 employer_poc_email             | IMMIGRATION@CENTILLIONZ.COM
-employer_poc_phone             | 17324475253
-employer_poc_first_name        | RANGA
+employer_poc_phone             | 19082058990
+employer_poc_first_name        | KANCHANA
 employer_poc_last_name         | ARAVAPALLI
 worksite_address1              | 123 East Washington Ave
 worksite_address2              | 

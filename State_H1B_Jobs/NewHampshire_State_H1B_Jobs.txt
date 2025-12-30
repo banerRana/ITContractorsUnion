@@ -119,30 +119,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25106-870192
-job_title                      | Software Developer
-employer_name                  | Coforge DPA NA Inc
-secondary_entity_business_name | New Hampshire Department of Information Technology
-employer_poc_email             | Vishakha.Gandhi@coforge.com
-employer_poc_phone             | 17326684134
-employer_poc_first_name        | Vishakha
-employer_poc_last_name         | Gandhi
-worksite_address1              | 33 Hazen Dr
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | Greenberg Traurig, LLP
-employer_address1              | 502 Carnegie Center Drive
-employer_address2              | Suite 301
-employer_city                  | Princeton
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 4/23/2025
-end_date                       | 4/22/2028
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23108-943708
 job_title                      | Systems Analyst
 employer_name                  | Coforge DPA NA Inc
@@ -166,6 +142,30 @@ end_date                       | 4/24/2026
 total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | No
+-[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25106-870192
+job_title                      | Software Developer
+employer_name                  | Coforge DPA NA Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | Vishakha.Gandhi@coforge.com
+employer_poc_phone             | 17326684134
+employer_poc_first_name        | Vishakha
+employer_poc_last_name         | Gandhi
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig, LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 4/23/2025
+end_date                       | 4/22/2028
+total_worker_positions         | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24354-559643
 job_title                      | Systems Analyst
@@ -215,28 +215,28 @@ total_worker_positions         | 1
 soc_code                       | 15-1121.00
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22060-939267
+case_number                    | I-200-24263-350750
 job_title                      | Java Full Stack Developer
 employer_name                  | Conflux Systems Inc
 secondary_entity_business_name | New Hampshire Department of Information Technology
 employer_poc_email             | immigration@confluxsystems.com
-employer_poc_phone             | 19727829648
-employer_poc_first_name        | Raghavendra
-employer_poc_last_name         | Konduru
+employer_poc_phone             | 16783199818
+employer_poc_first_name        | Umamahesh
+employer_poc_last_name         | Karanam
 worksite_address1              | 33 Hazen Dr
 worksite_address2              | 
 worksite_city                  | Concord
 worksite_county                | MERRIMACK
-lawfirm_name_business_name     | International Legal And Business Services Group LLP
+lawfirm_name_business_name     | 
 employer_address1              | 11539 Park Woods Circle
 employer_address2              | Suite 302
 employer_city                  | Alpharetta
 employer_state                 | GA
 employer_postal_code           | 30005
-begin_date                     | 3/1/2022
-end_date                       | 2/28/2025
+begin_date                     | 9/27/2024
+end_date                       | 9/26/2027
 total_worker_positions         | 1
-soc_code                       | 15-1132.00
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24263-350960
@@ -263,54 +263,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24263-350750
-job_title                      | Java Full Stack Developer
-employer_name                  | Conflux Systems Inc
-secondary_entity_business_name | New Hampshire Department of Information Technology
-employer_poc_email             | immigration@confluxsystems.com
-employer_poc_phone             | 16783199818
-employer_poc_first_name        | Umamahesh
-employer_poc_last_name         | Karanam
-worksite_address1              | 33 Hazen Dr
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | 
-employer_address1              | 11539 Park Woods Circle
-employer_address2              | Suite 302
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 9/27/2024
-end_date                       | 9/26/2027
-total_worker_positions         | 1
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22061-943312
-job_title                      | Java Full stack Developer
-employer_name                  | Conflux Systems Inc
-secondary_entity_business_name | New Hampshire Department of Information Technology
-employer_poc_email             | immigration@confluxsystems.com
-employer_poc_phone             | 16783199818
-employer_poc_first_name        | Raghavendra
-employer_poc_last_name         | Konduru
-worksite_address1              | 33 Hazen Dr
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | 
-employer_address1              | 11539 Park Woods Circle
-employer_address2              | Suite 302
-employer_city                  | Atlanta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 3/3/2022
-end_date                       | 3/2/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22053-919157
 job_title                      | Java Full Stack Developer
 employer_name                  | Conflux Systems Inc
@@ -331,6 +283,54 @@ employer_state                 | GA
 employer_postal_code           | 30005
 begin_date                     | 2/22/2022
 end_date                       | 2/21/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22060-939267
+job_title                      | Java Full Stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 19727829648
+employer_poc_first_name        | Raghavendra
+employer_poc_last_name         | Konduru
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | International Legal And Business Services Group LLP
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 3/1/2022
+end_date                       | 2/28/2025
+total_worker_positions         | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22061-943312
+job_title                      | Java Full stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 16783199818
+employer_poc_first_name        | Raghavendra
+employer_poc_last_name         | Konduru
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Atlanta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 3/3/2022
+end_date                       | 3/2/2025
 total_worker_positions         | 1
 soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
@@ -479,30 +479,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22171-297781
-job_title                      | Programmer Analyst
-employer_name                  | Ness USA Inc
-secondary_entity_business_name | State of New Hampshire
-employer_poc_email             | Thomas.McLaughlin@ness.com
-employer_poc_phone             | 17242457100
-employer_poc_first_name        | Thomas
-employer_poc_last_name         | McLaughlin
-worksite_address1              | 64 South street,
-worksite_address2              | 
-worksite_city                  | Concord,
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | 
-employer_address1              | 1000 Town Center Way
-employer_address2              | Suite 210
-employer_city                  | Canonsburg
-employer_state                 | PA
-employer_postal_code           | 15317
-begin_date                     | 10/30/2022
-end_date                       | 10/29/2025
-total_worker_positions         | 1
-soc_code                       | 15-1121.00
-h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-22133-170753
 job_title                      | Programmer Analyst
 employer_name                  | Ness USA Inc
@@ -523,6 +499,30 @@ employer_state                 | PA
 employer_postal_code           | 15317
 begin_date                     | 5/13/2022
 end_date                       | 5/12/2025
+total_worker_positions         | 1
+soc_code                       | 15-1121.00
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-22171-297781
+job_title                      | Programmer Analyst
+employer_name                  | Ness USA Inc
+secondary_entity_business_name | State of New Hampshire
+employer_poc_email             | Thomas.McLaughlin@ness.com
+employer_poc_phone             | 17242457100
+employer_poc_first_name        | Thomas
+employer_poc_last_name         | McLaughlin
+worksite_address1              | 64 South street,
+worksite_address2              | 
+worksite_city                  | Concord,
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 1000 Town Center Way
+employer_address2              | Suite 210
+employer_city                  | Canonsburg
+employer_state                 | PA
+employer_postal_code           | 15317
+begin_date                     | 10/30/2022
+end_date                       | 10/29/2025
 total_worker_positions         | 1
 soc_code                       | 15-1121.00
 h_1b_dependent                 | Yes
@@ -695,7 +695,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1299.01
 h_1b_dependent                 | No
 -[ RECORD 30 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25140-997307
+case_number                    | I-200-25147-020471
 job_title                      | COMP & INFORMATION ANALYST 4
 employer_name                  | State of New Hampshire, Department of Administrative Services,
 secondary_entity_business_name | 
@@ -704,7 +704,7 @@ employer_poc_phone             | 16032713088
 employer_poc_first_name        | James
 employer_poc_last_name         | Shepard
 worksite_address1              | 105 Pleasant St.
-worksite_address2              | 3rd Floor, Office 302C
+worksite_address2              | 3rd Floor
 worksite_city                  | Concord
 worksite_county                | MERRIMACK
 lawfirm_name_business_name     | Fisher & Phillips LLP
@@ -719,7 +719,7 @@ total_worker_positions         | 1
 soc_code                       | 15-1299.01
 h_1b_dependent                 | No
 -[ RECORD 31 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25147-020471
+case_number                    | I-200-25140-997307
 job_title                      | COMP & INFORMATION ANALYST 4
 employer_name                  | State of New Hampshire, Department of Administrative Services,
 secondary_entity_business_name | 
@@ -728,7 +728,7 @@ employer_poc_phone             | 16032713088
 employer_poc_first_name        | James
 employer_poc_last_name         | Shepard
 worksite_address1              | 105 Pleasant St.
-worksite_address2              | 3rd Floor
+worksite_address2              | 3rd Floor, Office 302C
 worksite_city                  | Concord
 worksite_county                | MERRIMACK
 lawfirm_name_business_name     | Fisher & Phillips LLP

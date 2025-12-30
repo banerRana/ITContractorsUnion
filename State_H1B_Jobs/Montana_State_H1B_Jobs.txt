@@ -119,30 +119,6 @@ total_worker_positions         | 1
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22094-035545
-job_title                      | SOFTWARE DEVELOPER/GUIDEWIRE DEVELOPER
-employer_name                  | SIRITEK INC
-secondary_entity_business_name | MONTANA STATE FUND
-employer_poc_email             | IMMIGRATIONS@SIRITEK.COM
-employer_poc_phone             | 18479563381
-employer_poc_first_name        | PRATHIBHA
-employer_poc_last_name         | CHALLURI
-worksite_address1              | 855 FRONT ST
-worksite_address2              | 
-worksite_city                  | HELENA
-worksite_county                | LEWIS AND CLARK
-lawfirm_name_business_name     | 
-employer_address1              | 1600 GOLF ROAD
-employer_address2              | SUITE 1200
-employer_city                  | ROLLING MEADOWS
-employer_state                 | IL
-employer_postal_code           | 60008
-begin_date                     | 6/1/2022
-end_date                       | 5/31/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-22287-531686
 job_title                      | SOFTWARE DEVELOPER/SOFTWARE SOLUTION ARCHITECT
 employer_name                  | SIRITEK INC
@@ -165,6 +141,30 @@ begin_date                     | 10/31/2022
 end_date                       | 10/30/2025
 total_worker_positions         | 1
 soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22294-545409
+job_title                      | GUIDEWIRE BUSINESS ANALYST
+employer_name                  | SIRITEK INC
+secondary_entity_business_name | MONTANA STATE FUND
+employer_poc_email             | IMMIGRATIONS@SIRITEK.COM
+employer_poc_phone             | 18479563381
+employer_poc_first_name        | PRATHIBHA
+employer_poc_last_name         | CHALLURI
+worksite_address1              | 855 FRONT ST
+worksite_address2              | 
+worksite_city                  | HELENA
+worksite_county                | LEWIS AND CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 1600 GOLF ROAD
+employer_address2              | SUITE 1200
+employer_city                  | ROLLING MEADOWS
+employer_state                 | IL
+employer_postal_code           | 60008
+begin_date                     | 4/20/2023
+end_date                       | 4/19/2026
+total_worker_positions         | 1
+soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-23068-836887
@@ -191,8 +191,8 @@ total_worker_positions         | 1
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22294-545409
-job_title                      | GUIDEWIRE BUSINESS ANALYST
+case_number                    | I-200-22094-035545
+job_title                      | SOFTWARE DEVELOPER/GUIDEWIRE DEVELOPER
 employer_name                  | SIRITEK INC
 secondary_entity_business_name | MONTANA STATE FUND
 employer_poc_email             | IMMIGRATIONS@SIRITEK.COM
@@ -209,10 +209,10 @@ employer_address2              | SUITE 1200
 employer_city                  | ROLLING MEADOWS
 employer_state                 | IL
 employer_postal_code           | 60008
-begin_date                     | 4/20/2023
-end_date                       | 4/19/2026
+begin_date                     | 6/1/2022
+end_date                       | 5/31/2025
 total_worker_positions         | 1
-soc_code                       | 15-2051.01
+soc_code                       | 15-1132.00
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-21272-614049
@@ -407,328 +407,16 @@ total_worker_positions         | 1
 soc_code                       | 15-1211.00
 h_1b_dependent                 | No
 -[ RECORD 18 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22136-177136
-job_title                      | Assistant Professor of Finance
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 350 Jabs Hall
-worksite_address2              | PO Box 173040
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/1/2022
-end_date                       | 7/30/2025
-total_worker_positions         | 1
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 19 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24247-309737
-job_title                      | Graduate Research Assistant
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 214 Roberts Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 19-1022.00
-h_1b_dependent                 | No
--[ RECORD 20 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22179-318815
-job_title                      | Assistant Womens Basketball Coach
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 1 Bobcat Circle
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 7/1/2022
-end_date                       | 6/30/2025
-total_worker_positions         | 1
-soc_code                       | 27-2022.00
-h_1b_dependent                 | No
--[ RECORD 21 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25043-687428
-job_title                      | Assistant Professor of Finance
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 432 Jabs Hall
-worksite_address2              | PO Box 173040
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 7/31/2025
-end_date                       | 7/30/2028
-total_worker_positions         | 1
-soc_code                       | 25-1011
-h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-21336-739777
-job_title                      | Assistant Professor 12110.38
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | sydney.wagner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Sydney
-employer_poc_last_name         | Wagner
-worksite_address1              | Department of Chemistry and Biochemistry, 317 CBB
-worksite_address2              | Montana State University
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 12/13/2021
-end_date                       | 5/1/2022
-total_worker_positions         | 1
-soc_code                       | 25-1052.00
-h_1b_dependent                 | No
--[ RECORD 23 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23199-198267
-job_title                      | Assistant Professor of Civil Engineering
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 205 Cobleigh Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 24 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23117-971676
-job_title                      | Professor of Pyschology
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 303 Traphagen Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 25-1066.00
-h_1b_dependent                 | No
--[ RECORD 25 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22291-535941
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | Montana State University, Wilson Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 3/23/2023
-end_date                       | 3/22/2026
-total_worker_positions         | 1
-soc_code                       | 25-1022.00
-h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22180-322474
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 220 Roberts Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/18/2022
-end_date                       | 8/17/2025
-total_worker_positions         | 1
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 27 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22173-305652
-job_title                      | Foundry Liaison & Scientist; NonTenure Track Faculty
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 263 Barnard Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/16/2022
-end_date                       | 8/15/2025
-total_worker_positions         | 1
-soc_code                       | 19-2032.00
-h_1b_dependent                 | No
--[ RECORD 28 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-21314-697275
-job_title                      | Postdoctoral Researcher 12110.146
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | sydney.wagner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Sydney
-employer_poc_last_name         | Wagner
-worksite_address1              | Montana State University
-worksite_address2              | Leon Johnson Hall
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/1/2022
-end_date                       | 12/31/2024
-total_worker_positions         | 1
-soc_code                       | 19-2031.00
-h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22168-293050
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 220 Roberts Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/16/2022
-end_date                       | 8/15/2025
-total_worker_positions         | 1
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25111-883991
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | lola.norbury@montana.edu
-employer_poc_phone             | 14069940211
-employer_poc_first_name        | Lola
-employer_poc_last_name         | Norbury
-worksite_address1              | 119 Plant BioScience Building
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 7/1/2025
-end_date                       | 6/30/2028
-total_worker_positions         | 1
-soc_code                       | 19-1013
-h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24032-682943
-job_title                      | Extension Associate Specialist and Arthropod Diagnostician
+case_number                    | I-200-23352-573954
+job_title                      | Postdoctoral Research Associate
 employer_name                  | Montana State University
 secondary_entity_business_name | 
 employer_poc_email             | Leane.Bucceri@montana.edu
 employer_poc_phone             | 14069940211
 employer_poc_first_name        | Leane
 employer_poc_last_name         | Bucceri
-worksite_address1              | 119 Plant BioScience Bldg, P.O. Box 173150
-worksite_address2              | 
+worksite_address1              | 103 Chemistry and Biochemistry Building
+worksite_address2              | PO Box 173400, Room 247
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
 lawfirm_name_business_name     | Berry Appleman & Leiden LLP
@@ -737,252 +425,12 @@ employer_address2              | PO Box 172520
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 2/19/2024
-end_date                       | 2/18/2027
+begin_date                     | 3/8/2024
+end_date                       | 3/7/2027
 total_worker_positions         | 1
-soc_code                       | 19-1013.00
+soc_code                       | 19-1021.00
 h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-21345-759127
-job_title                      | Web Software Developer (12110.152)
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 920 Technology Blvd, Ste A
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/10/2022
-end_date                       | 1/9/2025
-total_worker_positions         | 1
-soc_code                       | 15-1199.02
-h_1b_dependent                 | No
--[ RECORD 33 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24338-513239
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 426 Traphagen Hall
-worksite_address2              | PO Box 173440
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 2/28/2025
-end_date                       | 2/27/2028
-total_worker_positions         | 1
-soc_code                       | 25-1199
-h_1b_dependent                 | No
--[ RECORD 34 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22188-337178
-job_title                      | Womens Basketball Coach
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 1 Bobcat Circle
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 7/7/2022
-end_date                       | 6/30/2025
-total_worker_positions         | 1
-soc_code                       | 27-2022.00
-h_1b_dependent                 | No
--[ RECORD 35 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24283-395808
-job_title                      | Research Engineer/Scientist
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 218 Chemistry and Biochemistry Building
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 11/25/2024
-end_date                       | 11/24/2027
-total_worker_positions         | 1
-soc_code                       | 19-1022
-h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23144-049768
-job_title                      | Assistant Professor of Computer Science
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 357 Barnard Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23195-190777
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | Jabs Hall 328,
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 25-1063.00
-h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25023-637166
-job_title                      | Associate Specialist and Director
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 119 Plant BioScience Building
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 4/6/2025
-end_date                       | 4/5/2028
-total_worker_positions         | 1
-soc_code                       | 19-1013
-h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24173-138968
-job_title                      | Research Professional/Manager of Cryo-Electron Microscopy
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 103 Chemistry & Biochemistry Bldg
-worksite_address2              | PO BOX 173400
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/19/2024
-end_date                       | 8/18/2027
-total_worker_positions         | 1
-soc_code                       | 19-1029.02
-h_1b_dependent                 | No
--[ RECORD 40 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-21279-629165
-job_title                      | Postdoctoral Research Assistant 12110.140
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | sydney.wagner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Sydney
-employer_poc_last_name         | Wagner
-worksite_address1              | Montana State University
-worksite_address2              | 306 Cobleigh Hall
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/1/2022
-end_date                       | 12/31/2024
-total_worker_positions         | 1
-soc_code                       | 19-2031.00
-h_1b_dependent                 | No
--[ RECORD 41 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25120-921041
-job_title                      | Postdoctoral Researcher
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | renee.lineback@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Renee
-employer_poc_last_name         | Lineback
-worksite_address1              | 109 Lewis Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 6/23/2025
-end_date                       | 6/22/2028
-total_worker_positions         | 1
-soc_code                       | 19-1021
-h_1b_dependent                 | No
--[ RECORD 42 ]-----------------+---------------------------------------------------------------------------------------
+-[ RECORD 19 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-24038-701363
 job_title                      | Assistant Professor of Architecture
 employer_name                  | Montana State University
@@ -1006,31 +454,295 @@ end_date                       | 7/31/2027
 total_worker_positions         | 1
 soc_code                       | 25-1031.00
 h_1b_dependent                 | No
--[ RECORD 43 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22242-446327
-job_title                      | Assistant Research Professor
+-[ RECORD 20 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24173-138968
+job_title                      | Research Professional/Manager of Cryo-Electron Microscopy
 employer_name                  | Montana State University
 secondary_entity_business_name | 
 employer_poc_email             | dtickner@montana.edu
 employer_poc_phone             | 14069947926
 employer_poc_first_name        | Darcy
 employer_poc_last_name         | Tickner
-worksite_address1              | Barnard Hall 366
+worksite_address1              | 103 Chemistry & Biochemistry Bldg
+worksite_address2              | PO BOX 173400
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/19/2024
+end_date                       | 8/18/2027
+total_worker_positions         | 1
+soc_code                       | 19-1029.02
+h_1b_dependent                 | No
+-[ RECORD 21 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24192-186133
+job_title                      | Instructor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Jake Jabs College of Business & Entrepreneurship
 worksite_address2              | 
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
 lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 9/5/2022
-end_date                       | 9/4/2025
+begin_date                     | 8/10/2024
+end_date                       | 8/9/2027
 total_worker_positions         | 1
-soc_code                       | 19-2041.00
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 44 ]-----------------+---------------------------------------------------------------------------------------
+-[ RECORD 22 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24213-236104
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 324 Leon Johnson Hall
+worksite_address2              | Montana State University
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/15/2025
+end_date                       | 1/14/2028
+total_worker_positions         | 1
+soc_code                       | 25-1041.00
+h_1b_dependent                 | No
+-[ RECORD 23 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24247-309737
+job_title                      | Graduate Research Assistant
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 214 Roberts Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 10/1/2024
+end_date                       | 9/30/2027
+total_worker_positions         | 1
+soc_code                       | 19-1022.00
+h_1b_dependent                 | No
+-[ RECORD 24 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24264-354733
+job_title                      | Web Software Developer
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 920 Technology Blvd., PO 172220
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/10/2025
+end_date                       | 1/9/2028
+total_worker_positions         | 1
+soc_code                       | 15-1299.01
+h_1b_dependent                 | No
+-[ RECORD 25 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25023-637166
+job_title                      | Associate Specialist and Director
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 119 Plant BioScience Building
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 4/6/2025
+end_date                       | 4/5/2028
+total_worker_positions         | 1
+soc_code                       | 19-1013
+h_1b_dependent                 | No
+-[ RECORD 26 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25023-637704
+job_title                      | Assistant Professor of Precision Agriculture
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 334 Leon Johnson Hall, MSU-LRES
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 3/1/2025
+end_date                       | 2/29/2028
+total_worker_positions         | 1
+soc_code                       | 25-1041
+h_1b_dependent                 | No
+-[ RECORD 27 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25036-667606
+job_title                      | Postdoctoral Associate/Research Associate
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 119 Plant Bioscience Building
+worksite_address2              | PO Box 173150
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 3/8/2025
+end_date                       | 3/7/2028
+total_worker_positions         | 1
+soc_code                       | 19-1013
+h_1b_dependent                 | No
+-[ RECORD 28 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25043-687428
+job_title                      | Assistant Professor of Finance
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 432 Jabs Hall
+worksite_address2              | PO Box 173040
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 7/31/2025
+end_date                       | 7/30/2028
+total_worker_positions         | 1
+soc_code                       | 25-1011
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-21306-683337
+job_title                      | Sleep Technologist 12110.148
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | sydney.wagner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Sydney
+employer_poc_last_name         | Wagner
+worksite_address1              | Montana State University
+worksite_address2              | 2327 University Way, Suite 205
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/3/2022
+end_date                       | 12/3/2024
+total_worker_positions         | 1
+soc_code                       | 29-2011.00
+h_1b_dependent                 | No
+-[ RECORD 30 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-21314-697275
+job_title                      | Postdoctoral Researcher 12110.146
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | sydney.wagner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Sydney
+employer_poc_last_name         | Wagner
+worksite_address1              | Montana State University
+worksite_address2              | Leon Johnson Hall
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/1/2022
+end_date                       | 12/31/2024
+total_worker_positions         | 1
+soc_code                       | 19-2031.00
+h_1b_dependent                 | No
+-[ RECORD 31 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-21336-739146
+job_title                      | Post Doctoral Reseacher 12110.150
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Montana State University
+worksite_address2              | 301D Lewis Hall
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/1/2022
+end_date                       | 12/31/2024
+total_worker_positions         | 1
+soc_code                       | 19-1023.00
+h_1b_dependent                 | No
+-[ RECORD 32 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-21362-789888
 job_title                      | Web Software Developer (12110.152)
 employer_name                  | Montana State University
@@ -1054,31 +766,103 @@ end_date                       | 1/9/2025
 total_worker_positions         | 1
 soc_code                       | 15-1199.02
 h_1b_dependent                 | No
--[ RECORD 45 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24250-321524
-job_title                      | Auditor II, Graduate Student Success
+-[ RECORD 33 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22035-880223
+job_title                      | Instructor 12110.147
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | sydney.wagner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Sydney
+employer_poc_last_name         | Wagner
+worksite_address1              | Montana State University
+worksite_address2              | 237 Norm Asbjornson Hall
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 2/14/2022
+end_date                       | 2/13/2025
+total_worker_positions         | 1
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 34 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22173-305652
+job_title                      | Foundry Liaison & Scientist; NonTenure Track Faculty
 employer_name                  | Montana State University
 secondary_entity_business_name | 
 employer_poc_email             | dtickner@montana.edu
 employer_poc_phone             | 14069947926
 employer_poc_first_name        | Darcy
 employer_poc_last_name         | Tickner
-worksite_address1              | 104 Montana Hall
+worksite_address1              | 263 Barnard Hall
 worksite_address2              | 
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
 lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 1/1/2025
-end_date                       | 12/31/2027
+begin_date                     | 8/16/2022
+end_date                       | 8/15/2025
 total_worker_positions         | 1
-soc_code                       | 21-1012.00
+soc_code                       | 19-2032.00
 h_1b_dependent                 | No
--[ RECORD 46 ]-----------------+---------------------------------------------------------------------------------------
+-[ RECORD 35 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22180-322461
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 220 Roberts Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/16/2022
+end_date                       | 8/15/2025
+total_worker_positions         | 1
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 36 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22180-322474
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 220 Roberts Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/18/2022
+end_date                       | 8/17/2025
+total_worker_positions         | 1
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 37 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-22238-439864
 job_title                      | Assistant Professor in Electrical and Computer Engineering
 employer_name                  | Montana State University
@@ -1102,80 +886,8 @@ end_date                       | 9/11/2025
 total_worker_positions         | 1
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 47 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23053-795175
-job_title                      | Assistant Professor of Remote Sensing
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 327 Leon Johnson Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 25-1064.00
-h_1b_dependent                 | No
--[ RECORD 48 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24162-092380
-job_title                      | Assistant Professor Civil Engineering
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 205 Cobleigh Hall
-worksite_address2              | PO Box 173900
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/15/2024
-end_date                       | 8/14/2027
-total_worker_positions         | 1
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 49 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24313-464295
-job_title                      | Postdoctoral Researcher
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 109 Lewis Hall, Dept. of Microbiology and Cell Biology
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/1/2025
-end_date                       | 12/31/2027
-total_worker_positions         | 1
-soc_code                       | 19-2031
-h_1b_dependent                 | No
--[ RECORD 50 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23090-893271
+-[ RECORD 38 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22242-446327
 job_title                      | Assistant Research Professor
 employer_name                  | Montana State University
 secondary_entity_business_name | 
@@ -1183,7 +895,7 @@ employer_poc_email             | dtickner@montana.edu
 employer_poc_phone             | 14069947926
 employer_poc_first_name        | Darcy
 employer_poc_last_name         | Tickner
-worksite_address1              | Cobleigh 310
+worksite_address1              | Barnard Hall 366
 worksite_address2              | 
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
@@ -1193,132 +905,12 @@ employer_address2              | 4th Floor
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 8/1/2023
-end_date                       | 7/31/2026
+begin_date                     | 9/5/2022
+end_date                       | 9/4/2025
 total_worker_positions         | 1
-soc_code                       | 19-1021.00
+soc_code                       | 19-2041.00
 h_1b_dependent                 | No
--[ RECORD 51 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24362-574766
-job_title                      | Research Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 109 Lewis Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 2/2/2025
-end_date                       | 2/1/2028
-total_worker_positions         | 1
-soc_code                       | 19-1011
-h_1b_dependent                 | No
--[ RECORD 52 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23102-927146
-job_title                      | Data Systems Manager I
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 910 Technology Blvd, 2nd
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 6/1/2023
-end_date                       | 5/31/2026
-total_worker_positions         | 1
-soc_code                       | 15-2051.00
-h_1b_dependent                 | No
--[ RECORD 53 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22301-556617
-job_title                      | Data/Research Analyst
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 314 Montana Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/18/2023
-end_date                       | 1/17/2026
-total_worker_positions         | 1
-soc_code                       | 15-2051.00
-h_1b_dependent                 | No
--[ RECORD 54 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25150-035779
-job_title                      | Assistant Professor Ruminant Nutrition/Microbiology
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | renee.lineback@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Renee
-employer_poc_last_name         | Lineback
-worksite_address1              | 103 Animal Biosciences Building
-worksite_address2              | P.O. Box 172900
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/15/2025
-end_date                       | 8/14/2028
-total_worker_positions         | 1
-soc_code                       | 25-1041
-h_1b_dependent                 | No
--[ RECORD 55 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23090-893258
-job_title                      | Assistant Professor, Human Development and Family Science
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 250 Reid Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 25-1192.00
-h_1b_dependent                 | No
--[ RECORD 56 ]-----------------+---------------------------------------------------------------------------------------
+-[ RECORD 39 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-23053-794048
 job_title                      | Assistant Professor of Accounting
 employer_name                  | Montana State University
@@ -1342,103 +934,7 @@ end_date                       | 8/16/2026
 total_worker_positions         | 1
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 57 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23213-231040
-job_title                      | Assistant Professor of Mathematics
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069940211
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 2-233 Wilson Hall
-worksite_address2              | PO Box 172400
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 25-1022.00
-h_1b_dependent                 | No
--[ RECORD 58 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22077-992589
-job_title                      | Foundry Network Coordinator
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 264 Barnard Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/1/2022
-end_date                       | 7/31/2025
-total_worker_positions         | 1
-soc_code                       | 19-2032.00
-h_1b_dependent                 | No
--[ RECORD 59 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23117-973113
-job_title                      | Assistant Professor of Statistics
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | Wilson Hall 2-225
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/16/2023
-end_date                       | 8/15/2026
-total_worker_positions         | 1
-soc_code                       | 25-1022.00
-h_1b_dependent                 | No
--[ RECORD 60 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25154-047020
-job_title                      | Post-Doctoral Researcher
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | renee.lineback@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Renee
-employer_poc_last_name         | Lineback
-worksite_address1              | Gianforte School of Computing- Barnard Hall
-worksite_address2              | PO Box 173880, Floor 357
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/20/2025
-end_date                       | 8/19/2028
-total_worker_positions         | 1
-soc_code                       | 15-2041
-h_1b_dependent                 | No
--[ RECORD 61 ]-----------------+---------------------------------------------------------------------------------------
+-[ RECORD 40 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-23095-907154
 job_title                      | Assistant Professor of Sociology
 employer_name                  | Montana State University
@@ -1462,7 +958,103 @@ end_date                       | 8/16/2026
 total_worker_positions         | 1
 soc_code                       | 25-1067.00
 h_1b_dependent                 | No
--[ RECORD 62 ]-----------------+---------------------------------------------------------------------------------------
+-[ RECORD 41 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23102-927146
+job_title                      | Data Systems Manager I
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 910 Technology Blvd, 2nd
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 6/1/2023
+end_date                       | 5/31/2026
+total_worker_positions         | 1
+soc_code                       | 15-2051.00
+h_1b_dependent                 | No
+-[ RECORD 42 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23108-944186
+job_title                      | Assistant Professor of Chemistry
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Chemistry and Biochemsistry Building
+worksite_address2              | Montana State University
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/16/2023
+end_date                       | 8/15/2026
+total_worker_positions         | 1
+soc_code                       | 25-1052.00
+h_1b_dependent                 | No
+-[ RECORD 43 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23109-949086
+job_title                      | Assistant Professor of Graphic Design
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 213 Haynes Hall - Montana State University
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/1/2023
+end_date                       | 7/31/2026
+total_worker_positions         | 1
+soc_code                       | 25-1121.00
+h_1b_dependent                 | No
+-[ RECORD 44 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23237-296665
+job_title                      | Assistant Professor of Mathematics
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069940211
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 2-233 Wilson Hall
+worksite_address2              | PO Box 172400,
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 2/21/2024
+end_date                       | 2/20/2027
+total_worker_positions         | 1
+soc_code                       | 25-1022.00
+h_1b_dependent                 | No
+-[ RECORD 45 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-24108-896847
 job_title                      | Research Scientist
 employer_name                  | Montana State University
@@ -1485,6 +1077,414 @@ begin_date                     | 4/29/2024
 end_date                       | 4/28/2027
 total_worker_positions         | 1
 soc_code                       | 19-2012.00
+h_1b_dependent                 | No
+-[ RECORD 46 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24162-093143
+job_title                      | Instuctor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Jake Jabs College of Business & Entrepreneurship
+worksite_address2              | PO Box 173040
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/1/2024
+end_date                       | 7/31/2027
+total_worker_positions         | 1
+soc_code                       | 25-1199.00
+h_1b_dependent                 | No
+-[ RECORD 47 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24162-093146
+job_title                      | Data Scientist
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 314 Montana Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/1/2024
+end_date                       | 7/31/2027
+total_worker_positions         | 1
+soc_code                       | 15-2051.00
+h_1b_dependent                 | No
+-[ RECORD 48 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24164-104414
+job_title                      | Instructor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 314 Montana Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 7/1/2024
+end_date                       | 6/30/2027
+total_worker_positions         | 1
+soc_code                       | 25-1011.00
+h_1b_dependent                 | No
+-[ RECORD 49 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24164-104416
+job_title                      | Senior Data Scientist
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 314 Montana Hall
+worksite_address2              | PO Box 172435
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 7/1/2024
+end_date                       | 6/30/2027
+total_worker_positions         | 1
+soc_code                       | 15-2051.00
+h_1b_dependent                 | No
+-[ RECORD 50 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24283-395808
+job_title                      | Research Engineer/Scientist
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 218 Chemistry and Biochemistry Building
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 11/25/2024
+end_date                       | 11/24/2027
+total_worker_positions         | 1
+soc_code                       | 19-1022
+h_1b_dependent                 | No
+-[ RECORD 51 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24313-464295
+job_title                      | Postdoctoral Researcher
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 109 Lewis Hall, Dept. of Microbiology and Cell Biology
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/1/2025
+end_date                       | 12/31/2027
+total_worker_positions         | 1
+soc_code                       | 19-2031
+h_1b_dependent                 | No
+-[ RECORD 52 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24338-513239
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 426 Traphagen Hall
+worksite_address2              | PO Box 173440
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 2/28/2025
+end_date                       | 2/27/2028
+total_worker_positions         | 1
+soc_code                       | 25-1199
+h_1b_dependent                 | No
+-[ RECORD 53 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24348-541702
+job_title                      | Assistant Professor of Entomology
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Linfield Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/1/2025
+end_date                       | 12/31/2027
+total_worker_positions         | 1
+soc_code                       | 19-1013
+h_1b_dependent                 | No
+-[ RECORD 54 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24348-541768
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 47 Renne Library
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/14/2025
+end_date                       | 1/13/2028
+total_worker_positions         | 1
+soc_code                       | 19-1029
+h_1b_dependent                 | No
+-[ RECORD 55 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24362-574766
+job_title                      | Research Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 109 Lewis Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 2/2/2025
+end_date                       | 2/1/2028
+total_worker_positions         | 1
+soc_code                       | 19-1011
+h_1b_dependent                 | No
+-[ RECORD 56 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25030-654217
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Cobleigh 617
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 3/1/2025
+end_date                       | 2/29/2028
+total_worker_positions         | 1
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 57 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25035-664179
+job_title                      | Assistant Professor of Finance
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 350 Jabs Hall
+worksite_address2              | PO Box 173040
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 7/31/2025
+end_date                       | 7/30/2028
+total_worker_positions         | 1
+soc_code                       | 25-1011
+h_1b_dependent                 | No
+-[ RECORD 58 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25119-916668
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 220 Roberts Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/16/2025
+end_date                       | 8/15/2028
+total_worker_positions         | 1
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 59 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25120-921041
+job_title                      | Postdoctoral Researcher
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | renee.lineback@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Renee
+employer_poc_last_name         | Lineback
+worksite_address1              | 109 Lewis Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 6/23/2025
+end_date                       | 6/22/2028
+total_worker_positions         | 1
+soc_code                       | 19-1021
+h_1b_dependent                 | No
+-[ RECORD 60 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25150-035330
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | lola.norbury@montana.edu
+employer_poc_phone             | 14069943651
+employer_poc_first_name        | Lola
+employer_poc_last_name         | Norbury
+worksite_address1              | 220 Roberts Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 6/16/2025
+end_date                       | 6/15/2028
+total_worker_positions         | 1
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 61 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25150-035779
+job_title                      | Assistant Professor Ruminant Nutrition/Microbiology
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | renee.lineback@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Renee
+employer_poc_last_name         | Lineback
+worksite_address1              | 103 Animal Biosciences Building
+worksite_address2              | P.O. Box 172900
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/15/2025
+end_date                       | 8/14/2028
+total_worker_positions         | 1
+soc_code                       | 25-1041
+h_1b_dependent                 | No
+-[ RECORD 62 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25154-047020
+job_title                      | Post-Doctoral Researcher
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | renee.lineback@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Renee
+employer_poc_last_name         | Lineback
+worksite_address1              | Gianforte School of Computing- Barnard Hall
+worksite_address2              | PO Box 173880, Floor 357
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/20/2025
+end_date                       | 8/19/2028
+total_worker_positions         | 1
+soc_code                       | 15-2041
 h_1b_dependent                 | No
 -[ RECORD 63 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-25154-048797
@@ -1511,15 +1511,63 @@ total_worker_positions         | 1
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 64 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22262-480131
-job_title                      | Womens Tennis Coach
+case_number                    | I-200-21314-698188
+job_title                      | Assistant Professor 12110.149
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | sydney.wagner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Sydney
+employer_poc_last_name         | Wagner
+worksite_address1              | Montana State University
+worksite_address2              | PSPP Department, 119 Plant Biosciences Building
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/15/2022
+end_date                       | 1/14/2025
+total_worker_positions         | 1
+soc_code                       | 25-1041.00
+h_1b_dependent                 | No
+-[ RECORD 65 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-21336-739777
+job_title                      | Assistant Professor 12110.38
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | sydney.wagner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Sydney
+employer_poc_last_name         | Wagner
+worksite_address1              | Department of Chemistry and Biochemistry, 317 CBB
+worksite_address2              | Montana State University
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 12/13/2021
+end_date                       | 5/1/2022
+total_worker_positions         | 1
+soc_code                       | 25-1052.00
+h_1b_dependent                 | No
+-[ RECORD 66 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22059-937855
+job_title                      | Assistant Professor of Graphic Design
 employer_name                  | Montana State University
 secondary_entity_business_name | 
 employer_poc_email             | dtickner@montana.edu
 employer_poc_phone             | 14069947926
 employer_poc_first_name        | Darcy
 employer_poc_last_name         | Tickner
-worksite_address1              | 1 Bobcat Circle
+worksite_address1              | 213 Haynes Hall
 worksite_address2              | 
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
@@ -1529,12 +1577,36 @@ employer_address2              | 4th Floor
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 10/1/2022
-end_date                       | 9/30/2025
+begin_date                     | 6/7/2022
+end_date                       | 6/6/2025
 total_worker_positions         | 1
-soc_code                       | 27-2022.00
+soc_code                       | 25-1121.00
 h_1b_dependent                 | No
--[ RECORD 65 ]-----------------+---------------------------------------------------------------------------------------
+-[ RECORD 67 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22077-992589
+job_title                      | Foundry Network Coordinator
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 264 Barnard Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/1/2022
+end_date                       | 7/31/2025
+total_worker_positions         | 1
+soc_code                       | 19-2032.00
+h_1b_dependent                 | No
+-[ RECORD 68 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-22089-021776
 job_title                      | Postdoctoral Researcher
 employer_name                  | Montana State University
@@ -1558,272 +1630,8 @@ end_date                       | 6/13/2025
 total_worker_positions         | 1
 soc_code                       | 19-2012.00
 h_1b_dependent                 | No
--[ RECORD 66 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23108-944186
-job_title                      | Assistant Professor of Chemistry
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | Chemistry and Biochemsistry Building
-worksite_address2              | Montana State University
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/16/2023
-end_date                       | 8/15/2026
-total_worker_positions         | 1
-soc_code                       | 25-1052.00
-h_1b_dependent                 | No
--[ RECORD 67 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22101-056313
-job_title                      | Assistant Research Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 202 Linfield Hall,
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 4/25/2022
-end_date                       | 4/24/2025
-total_worker_positions         | 1
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 68 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22035-880223
-job_title                      | Instructor 12110.147
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | sydney.wagner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Sydney
-employer_poc_last_name         | Wagner
-worksite_address1              | Montana State University
-worksite_address2              | 237 Norm Asbjornson Hall
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 2/14/2022
-end_date                       | 2/13/2025
-total_worker_positions         | 1
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
 -[ RECORD 69 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24291-414405
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 330 Leon Johnson Hall
-worksite_address2              | PO Box 173120
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/10/2025
-end_date                       | 1/9/2028
-total_worker_positions         | 1
-soc_code                       | 19-1013
-h_1b_dependent                 | No
--[ RECORD 70 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23191-176698
-job_title                      | Assistant Research Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 415 Cooley Lab, Department of Microbiology and Cell Biology
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 12/21/2023
-end_date                       | 12/20/2026
-total_worker_positions         | 1
-soc_code                       | 19-1022.00
-h_1b_dependent                 | No
--[ RECORD 71 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24348-541768
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 47 Renne Library
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/14/2025
-end_date                       | 1/13/2028
-total_worker_positions         | 1
-soc_code                       | 19-1029
-h_1b_dependent                 | No
--[ RECORD 72 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-21264-596285
-job_title                      | Postdoctoral Research Assistant 12110.140
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | sydney.wagner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Sydney
-employer_poc_last_name         | Wagner
-worksite_address1              | Montana State University
-worksite_address2              | 306 Cobleigh Hall
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/1/2022
-end_date                       | 12/31/2024
-total_worker_positions         | 1
-soc_code                       | 19-2031.00
-h_1b_dependent                 | No
--[ RECORD 73 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23237-296665
-job_title                      | Assistant Professor of Mathematics
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069940211
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 2-233 Wilson Hall
-worksite_address2              | PO Box 172400,
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 2/21/2024
-end_date                       | 2/20/2027
-total_worker_positions         | 1
-soc_code                       | 25-1022.00
-h_1b_dependent                 | No
--[ RECORD 74 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-21336-739146
-job_title                      | Post Doctoral Reseacher 12110.150
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | Montana State University
-worksite_address2              | 301D Lewis Hall
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/1/2022
-end_date                       | 12/31/2024
-total_worker_positions         | 1
-soc_code                       | 19-1023.00
-h_1b_dependent                 | No
--[ RECORD 75 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24192-186133
-job_title                      | Instructor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | Jake Jabs College of Business & Entrepreneurship
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/10/2024
-end_date                       | 8/9/2027
-total_worker_positions         | 1
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 76 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25119-916668
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 220 Roberts Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/16/2025
-end_date                       | 8/15/2028
-total_worker_positions         | 1
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 77 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25035-664179
+case_number                    | I-200-22136-177136
 job_title                      | Assistant Professor of Finance
 employer_name                  | Montana State University
 secondary_entity_business_name | 
@@ -1836,39 +1644,231 @@ worksite_address2              | PO Box 173040
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
 lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 7/31/2025
-end_date                       | 7/30/2028
+begin_date                     | 8/1/2022
+end_date                       | 7/30/2025
 total_worker_positions         | 1
-soc_code                       | 25-1011
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 78 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-21314-698188
-job_title                      | Assistant Professor 12110.149
+-[ RECORD 70 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22140-195351
+job_title                      | Digital Technologies Instructor and Developer
 employer_name                  | Montana State University
 secondary_entity_business_name | 
-employer_poc_email             | sydney.wagner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Sydney
-employer_poc_last_name         | Wagner
-worksite_address1              | Montana State University
-worksite_address2              | PSPP Department, 119 Plant Biosciences Building
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Renne Library, Room 118
+worksite_address2              | Montana State University
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
 lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 7/1/2022
+end_date                       | 6/30/2025
+total_worker_positions         | 1
+soc_code                       | 25-1082.00
+h_1b_dependent                 | No
+-[ RECORD 71 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22291-535941
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Montana State University, Wilson Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 3/23/2023
+end_date                       | 3/22/2026
+total_worker_positions         | 1
+soc_code                       | 25-1022.00
+h_1b_dependent                 | No
+-[ RECORD 72 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22301-556617
+job_title                      | Data/Research Analyst
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 314 Montana Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/18/2023
+end_date                       | 1/17/2026
+total_worker_positions         | 1
+soc_code                       | 15-2051.00
+h_1b_dependent                 | No
+-[ RECORD 73 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23019-713170
+job_title                      | Faculty
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 214 Roberts
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/24/2023
+end_date                       | 1/23/2026
+total_worker_positions         | 1
+soc_code                       | 25-1052.00
+h_1b_dependent                 | No
+-[ RECORD 74 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23090-893258
+job_title                      | Assistant Professor, Human Development and Family Science
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 250 Reid Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/17/2023
+end_date                       | 8/16/2026
+total_worker_positions         | 1
+soc_code                       | 25-1192.00
+h_1b_dependent                 | No
+-[ RECORD 75 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23090-893271
+job_title                      | Assistant Research Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Cobleigh 310
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/1/2023
+end_date                       | 7/31/2026
+total_worker_positions         | 1
+soc_code                       | 19-1021.00
+h_1b_dependent                 | No
+-[ RECORD 76 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23117-973107
+job_title                      | Assistant Professor of Agricultural Economics
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 306 Linfield Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/17/2023
+end_date                       | 8/16/2026
+total_worker_positions         | 1
+soc_code                       | 25-1041.00
+h_1b_dependent                 | No
+-[ RECORD 77 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23117-973113
+job_title                      | Assistant Professor of Statistics
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Wilson Hall 2-225
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/16/2023
+end_date                       | 8/15/2026
+total_worker_positions         | 1
+soc_code                       | 25-1022.00
+h_1b_dependent                 | No
+-[ RECORD 78 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23166-114570
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 302 Jake Jabs, P.O. Box 173040
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
 employer_address2              | 
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 1/15/2022
-end_date                       | 1/14/2025
+begin_date                     | 8/17/2023
+end_date                       | 8/16/2026
 total_worker_positions         | 1
-soc_code                       | 25-1041.00
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 79 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-23297-452254
@@ -1895,102 +1895,6 @@ total_worker_positions         | 1
 soc_code                       | 25-1041.00
 h_1b_dependent                 | No
 -[ RECORD 80 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22180-322461
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 220 Roberts Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/16/2022
-end_date                       | 8/15/2025
-total_worker_positions         | 1
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 81 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25023-637704
-job_title                      | Assistant Professor of Precision Agriculture
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 334 Leon Johnson Hall, MSU-LRES
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 3/1/2025
-end_date                       | 2/29/2028
-total_worker_positions         | 1
-soc_code                       | 25-1041
-h_1b_dependent                 | No
--[ RECORD 82 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23166-114570
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 302 Jake Jabs, P.O. Box 173040
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 83 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-21273-617275
-job_title                      | Graduate Research Assistant 12110.144
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | sydney.wagner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Sydney
-employer_poc_last_name         | Wagner
-worksite_address1              | Montana State University
-worksite_address2              | 305 Cobleigh Hall
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 10/1/2021
-end_date                       | 9/30/2024
-total_worker_positions         | 1
-soc_code                       | 19-1022.00
-h_1b_dependent                 | No
--[ RECORD 84 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-23100-919411
 job_title                      | Assistant Professor of Political Science
 employer_name                  | Montana State University
@@ -2014,31 +1918,7 @@ end_date                       | 8/16/2026
 total_worker_positions         | 1
 soc_code                       | 25-1065.00
 h_1b_dependent                 | No
--[ RECORD 85 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25086-807566
-job_title                      | Foundry Network Coordinator
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | lola.norbury@montana.edu
-employer_poc_phone             | 1597172520
-employer_poc_first_name        | Lola
-employer_poc_last_name         | Norbury
-worksite_address1              | Montana State University Barnard Hall, Room 264
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/1/2025
-end_date                       | 7/31/2028
-total_worker_positions         | 1
-soc_code                       | 19-2032
-h_1b_dependent                 | No
--[ RECORD 86 ]-----------------+---------------------------------------------------------------------------------------
+-[ RECORD 81 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-23117-971089
 job_title                      | Assistant Teaching Professor – Computer Science
 employer_name                  | Montana State University
@@ -2062,16 +1942,208 @@ end_date                       | 8/16/2026
 total_worker_positions         | 1
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
--[ RECORD 87 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24348-541702
-job_title                      | Assistant Professor of Entomology
+-[ RECORD 82 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23117-971676
+job_title                      | Professor of Pyschology
 employer_name                  | Montana State University
 secondary_entity_business_name | 
 employer_poc_email             | dtickner@montana.edu
 employer_poc_phone             | 14069947926
 employer_poc_first_name        | Darcy
 employer_poc_last_name         | Tickner
-worksite_address1              | Linfield Hall
+worksite_address1              | 303 Traphagen Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/17/2023
+end_date                       | 8/16/2026
+total_worker_positions         | 1
+soc_code                       | 25-1066.00
+h_1b_dependent                 | No
+-[ RECORD 83 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23144-049768
+job_title                      | Assistant Professor of Computer Science
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 357 Barnard Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/17/2023
+end_date                       | 8/16/2026
+total_worker_positions         | 1
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 84 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23191-176698
+job_title                      | Assistant Research Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 415 Cooley Lab, Department of Microbiology and Cell Biology
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 12/21/2023
+end_date                       | 12/20/2026
+total_worker_positions         | 1
+soc_code                       | 19-1022.00
+h_1b_dependent                 | No
+-[ RECORD 85 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23195-190777
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | Jabs Hall 328,
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/17/2023
+end_date                       | 8/16/2026
+total_worker_positions         | 1
+soc_code                       | 25-1063.00
+h_1b_dependent                 | No
+-[ RECORD 86 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23199-198267
+job_title                      | Assistant Professor of Civil Engineering
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 205 Cobleigh Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/17/2023
+end_date                       | 8/16/2026
+total_worker_positions         | 1
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 87 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23213-231040
+job_title                      | Assistant Professor of Mathematics
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069940211
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 2-233 Wilson Hall
+worksite_address2              | PO Box 172400
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/17/2023
+end_date                       | 8/16/2026
+total_worker_positions         | 1
+soc_code                       | 25-1022.00
+h_1b_dependent                 | No
+-[ RECORD 88 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24032-682943
+job_title                      | Extension Associate Specialist and Arthropod Diagnostician
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | Leane.Bucceri@montana.edu
+employer_poc_phone             | 14069940211
+employer_poc_first_name        | Leane
+employer_poc_last_name         | Bucceri
+worksite_address1              | 119 Plant BioScience Bldg, P.O. Box 173150
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 2/19/2024
+end_date                       | 2/18/2027
+total_worker_positions         | 1
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 89 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24162-092380
+job_title                      | Assistant Professor Civil Engineering
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 205 Cobleigh Hall
+worksite_address2              | PO Box 173900
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/15/2024
+end_date                       | 8/14/2027
+total_worker_positions         | 1
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 90 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24250-321524
+job_title                      | Auditor II, Graduate Student Success
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 104 Montana Hall
 worksite_address2              | 
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
@@ -2084,91 +2156,19 @@ employer_postal_code           | 59717
 begin_date                     | 1/1/2025
 end_date                       | 12/31/2027
 total_worker_positions         | 1
-soc_code                       | 19-1013
-h_1b_dependent                 | No
--[ RECORD 88 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24164-104416
-job_title                      | Senior Data Scientist
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 314 Montana Hall
-worksite_address2              | PO Box 172435
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 7/1/2024
-end_date                       | 6/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-2051.00
-h_1b_dependent                 | No
--[ RECORD 89 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25036-667606
-job_title                      | Postdoctoral Associate/Research Associate
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 119 Plant Bioscience Building
-worksite_address2              | PO Box 173150
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 3/8/2025
-end_date                       | 3/7/2028
-total_worker_positions         | 1
-soc_code                       | 19-1013
-h_1b_dependent                 | No
--[ RECORD 90 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24162-093143
-job_title                      | Instuctor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | Jake Jabs College of Business & Entrepreneurship
-worksite_address2              | PO Box 173040
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/1/2024
-end_date                       | 7/31/2027
-total_worker_positions         | 1
-soc_code                       | 25-1199.00
+soc_code                       | 21-1012.00
 h_1b_dependent                 | No
 -[ RECORD 91 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23352-573954
-job_title                      | Postdoctoral Research Associate
+case_number                    | I-200-24291-414405
+job_title                      | Assistant Professor
 employer_name                  | Montana State University
 secondary_entity_business_name | 
-employer_poc_email             | Leane.Bucceri@montana.edu
-employer_poc_phone             | 14069940211
-employer_poc_first_name        | Leane
-employer_poc_last_name         | Bucceri
-worksite_address1              | 103 Chemistry and Biochemistry Building
-worksite_address2              | PO Box 173400, Room 247
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 330 Leon Johnson Hall
+worksite_address2              | PO Box 173120
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
 lawfirm_name_business_name     | Berry Appleman & Leiden LLP
@@ -2177,12 +2177,156 @@ employer_address2              | PO Box 172520
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 3/8/2024
-end_date                       | 3/7/2027
+begin_date                     | 1/10/2025
+end_date                       | 1/9/2028
 total_worker_positions         | 1
-soc_code                       | 19-1021.00
+soc_code                       | 19-1013
 h_1b_dependent                 | No
 -[ RECORD 92 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25086-807566
+job_title                      | Foundry Network Coordinator
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | lola.norbury@montana.edu
+employer_poc_phone             | 1597172520
+employer_poc_first_name        | Lola
+employer_poc_last_name         | Norbury
+worksite_address1              | Montana State University Barnard Hall, Room 264
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/1/2025
+end_date                       | 7/31/2028
+total_worker_positions         | 1
+soc_code                       | 19-2032
+h_1b_dependent                 | No
+-[ RECORD 93 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-25111-883991
+job_title                      | Assistant Professor
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | lola.norbury@montana.edu
+employer_poc_phone             | 14069940211
+employer_poc_first_name        | Lola
+employer_poc_last_name         | Norbury
+worksite_address1              | 119 Plant BioScience Building
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 7/1/2025
+end_date                       | 6/30/2028
+total_worker_positions         | 1
+soc_code                       | 19-1013
+h_1b_dependent                 | No
+-[ RECORD 94 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-21264-596285
+job_title                      | Postdoctoral Research Assistant 12110.140
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | sydney.wagner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Sydney
+employer_poc_last_name         | Wagner
+worksite_address1              | Montana State University
+worksite_address2              | 306 Cobleigh Hall
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/1/2022
+end_date                       | 12/31/2024
+total_worker_positions         | 1
+soc_code                       | 19-2031.00
+h_1b_dependent                 | No
+-[ RECORD 95 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-21273-617275
+job_title                      | Graduate Research Assistant 12110.144
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | sydney.wagner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Sydney
+employer_poc_last_name         | Wagner
+worksite_address1              | Montana State University
+worksite_address2              | 305 Cobleigh Hall
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 10/1/2021
+end_date                       | 9/30/2024
+total_worker_positions         | 1
+soc_code                       | 19-1022.00
+h_1b_dependent                 | No
+-[ RECORD 96 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-21279-629165
+job_title                      | Postdoctoral Research Assistant 12110.140
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | sydney.wagner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Sydney
+employer_poc_last_name         | Wagner
+worksite_address1              | Montana State University
+worksite_address2              | 306 Cobleigh Hall
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/1/2022
+end_date                       | 12/31/2024
+total_worker_positions         | 1
+soc_code                       | 19-2031.00
+h_1b_dependent                 | No
+-[ RECORD 97 ]-----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-21345-759127
+job_title                      | Web Software Developer (12110.152)
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14695052476
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 920 Technology Blvd, Ste A
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 183 Strand Union Building
+employer_address2              | 
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 1/10/2022
+end_date                       | 1/9/2025
+total_worker_positions         | 1
+soc_code                       | 15-1199.02
+h_1b_dependent                 | No
+-[ RECORD 98 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-22063-951716
 job_title                      | Assistant Professor of Motor Control
 employer_name                  | Montana State University
@@ -2206,79 +2350,7 @@ end_date                       | 8/15/2025
 total_worker_positions         | 1
 soc_code                       | 25-1071.00
 h_1b_dependent                 | No
--[ RECORD 93 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23045-773649
-job_title                      | Assistant Professor of Physics
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 264 Barnard Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/8/2023
-end_date                       | 8/7/2026
-total_worker_positions         | 1
-soc_code                       | 25-1054.00
-h_1b_dependent                 | No
--[ RECORD 94 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23019-713170
-job_title                      | Faculty
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 214 Roberts
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/24/2023
-end_date                       | 1/23/2026
-total_worker_positions         | 1
-soc_code                       | 25-1052.00
-h_1b_dependent                 | No
--[ RECORD 95 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25030-654217
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | Cobleigh 617
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 3/1/2025
-end_date                       | 2/29/2028
-total_worker_positions         | 1
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 96 ]-----------------+---------------------------------------------------------------------------------------
+-[ RECORD 99 ]-----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-22073-975935
 job_title                      | Assistant Professor, Computer Science
 employer_name                  | Montana State University
@@ -2302,56 +2374,32 @@ end_date                       | 8/15/2025
 total_worker_positions         | 1
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
--[ RECORD 97 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22059-937855
-job_title                      | Assistant Professor of Graphic Design
+-[ RECORD 100 ]----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22101-056313
+job_title                      | Assistant Research Professor
 employer_name                  | Montana State University
 secondary_entity_business_name | 
 employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
+employer_poc_phone             | 14695052476
 employer_poc_first_name        | Darcy
 employer_poc_last_name         | Tickner
-worksite_address1              | 213 Haynes Hall
+worksite_address1              | 202 Linfield Hall,
 worksite_address2              | 
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
 lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | OIP, 410 Culbertson Hall
-employer_address2              | 4th Floor
+employer_address1              | 47 Renne
+employer_address2              | 
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 6/7/2022
-end_date                       | 6/6/2025
+begin_date                     | 4/25/2022
+end_date                       | 4/24/2025
 total_worker_positions         | 1
-soc_code                       | 25-1121.00
+soc_code                       | 19-1013.00
 h_1b_dependent                 | No
--[ RECORD 98 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24264-354733
-job_title                      | Web Software Developer
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 920 Technology Blvd., PO 172220
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/10/2025
-end_date                       | 1/9/2028
-total_worker_positions         | 1
-soc_code                       | 15-1299.01
-h_1b_dependent                 | No
--[ RECORD 99 ]-----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24213-236104
+-[ RECORD 101 ]----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22168-293050
 job_title                      | Assistant Professor
 employer_name                  | Montana State University
 secondary_entity_business_name | 
@@ -2359,31 +2407,7 @@ employer_poc_email             | dtickner@montana.edu
 employer_poc_phone             | 14069947926
 employer_poc_first_name        | Darcy
 employer_poc_last_name         | Tickner
-worksite_address1              | 324 Leon Johnson Hall
-worksite_address2              | Montana State University
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/15/2025
-end_date                       | 1/14/2028
-total_worker_positions         | 1
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 100 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23109-949086
-job_title                      | Assistant Professor of Graphic Design
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 213 Haynes Hall - Montana State University
+worksite_address1              | 220 Roberts Hall
 worksite_address2              | 
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
@@ -2393,22 +2417,22 @@ employer_address2              | 4th Floor
 employer_city                  | Bozeman
 employer_state                 | MT
 employer_postal_code           | 59717
-begin_date                     | 8/1/2023
-end_date                       | 7/31/2026
+begin_date                     | 8/16/2022
+end_date                       | 8/15/2025
 total_worker_positions         | 1
-soc_code                       | 25-1121.00
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 101 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-22140-195351
-job_title                      | Digital Technologies Instructor and Developer
+-[ RECORD 102 ]----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22179-318815
+job_title                      | Assistant Womens Basketball Coach
 employer_name                  | Montana State University
 secondary_entity_business_name | 
 employer_poc_email             | dtickner@montana.edu
 employer_poc_phone             | 14069947926
 employer_poc_first_name        | Darcy
 employer_poc_last_name         | Tickner
-worksite_address1              | Renne Library, Room 118
-worksite_address2              | Montana State University
+worksite_address1              | 1 Bobcat Circle
+worksite_address2              | 
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
 lawfirm_name_business_name     | Berry Appleman & Leiden LLP
@@ -2420,66 +2444,90 @@ employer_postal_code           | 59717
 begin_date                     | 7/1/2022
 end_date                       | 6/30/2025
 total_worker_positions         | 1
-soc_code                       | 25-1082.00
-h_1b_dependent                 | No
--[ RECORD 102 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24162-093146
-job_title                      | Data Scientist
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 314 Montana Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 8/1/2024
-end_date                       | 7/31/2027
-total_worker_positions         | 1
-soc_code                       | 15-2051.00
+soc_code                       | 27-2022.00
 h_1b_dependent                 | No
 -[ RECORD 103 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-25150-035330
-job_title                      | Assistant Professor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | lola.norbury@montana.edu
-employer_poc_phone             | 14069943651
-employer_poc_first_name        | Lola
-employer_poc_last_name         | Norbury
-worksite_address1              | 220 Roberts Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 6/16/2025
-end_date                       | 6/15/2028
-total_worker_positions         | 1
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 104 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23117-973107
-job_title                      | Assistant Professor of Agricultural Economics
+case_number                    | I-200-22188-337178
+job_title                      | Womens Basketball Coach
 employer_name                  | Montana State University
 secondary_entity_business_name | 
 employer_poc_email             | dtickner@montana.edu
 employer_poc_phone             | 14069947926
 employer_poc_first_name        | Darcy
 employer_poc_last_name         | Tickner
-worksite_address1              | 306 Linfield Hall
+worksite_address1              | 1 Bobcat Circle
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 7/7/2022
+end_date                       | 6/30/2025
+total_worker_positions         | 1
+soc_code                       | 27-2022.00
+h_1b_dependent                 | No
+-[ RECORD 104 ]----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-22262-480131
+job_title                      | Womens Tennis Coach
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 1 Bobcat Circle
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 10/1/2022
+end_date                       | 9/30/2025
+total_worker_positions         | 1
+soc_code                       | 27-2022.00
+h_1b_dependent                 | No
+-[ RECORD 105 ]----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23045-773649
+job_title                      | Assistant Professor of Physics
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 264 Barnard Hall
+worksite_address2              | 
+worksite_city                  | Bozeman
+worksite_county                | GALLATIN
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | OIP, 410 Culbertson Hall
+employer_address2              | 4th Floor
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 8/8/2023
+end_date                       | 8/7/2026
+total_worker_positions         | 1
+soc_code                       | 25-1054.00
+h_1b_dependent                 | No
+-[ RECORD 106 ]----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23053-795175
+job_title                      | Assistant Professor of Remote Sensing
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069947926
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 327 Leon Johnson Hall
 worksite_address2              | 
 worksite_city                  | Bozeman
 worksite_county                | GALLATIN
@@ -2492,55 +2540,7 @@ employer_postal_code           | 59717
 begin_date                     | 8/17/2023
 end_date                       | 8/16/2026
 total_worker_positions         | 1
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 105 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-21306-683337
-job_title                      | Sleep Technologist 12110.148
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | sydney.wagner@montana.edu
-employer_poc_phone             | 14695052476
-employer_poc_first_name        | Sydney
-employer_poc_last_name         | Wagner
-worksite_address1              | Montana State University
-worksite_address2              | 2327 University Way, Suite 205
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 183 Strand Union Building
-employer_address2              | 
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 1/3/2022
-end_date                       | 12/3/2024
-total_worker_positions         | 1
-soc_code                       | 29-2011.00
-h_1b_dependent                 | No
--[ RECORD 106 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24164-104414
-job_title                      | Instructor
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069947926
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 314 Montana Hall
-worksite_address2              | 
-worksite_city                  | Bozeman
-worksite_county                | GALLATIN
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 7/1/2024
-end_date                       | 6/30/2027
-total_worker_positions         | 1
-soc_code                       | 25-1011.00
+soc_code                       | 25-1064.00
 h_1b_dependent                 | No
 -[ RECORD 107 ]----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-24228-269262
@@ -2615,30 +2615,6 @@ total_worker_positions         | 1
 soc_code                       | 25-1042.00
 h_1b_dependent                 | No
 -[ RECORD 110 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23223-257784
-job_title                      | Precision Agriculture Post-Doctoral Researcher
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14069940211
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 1501 N. Central Ave.
-worksite_address2              | 
-worksite_city                  | Sidney
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 9/1/2023
-end_date                       | 8/31/2026
-total_worker_positions         | 1
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 111 ]----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-24081-820745
 job_title                      | Research Associate
 employer_name                  | Montana State University
@@ -2659,6 +2635,30 @@ employer_state                 | MT
 employer_postal_code           | 59717
 begin_date                     | 4/1/2024
 end_date                       | 3/31/2027
+total_worker_positions         | 1
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 111 ]----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-23223-257784
+job_title                      | Precision Agriculture Post-Doctoral Researcher
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14069940211
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 1501 N. Central Ave.
+worksite_address2              | 
+worksite_city                  | Sidney
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 9/1/2023
+end_date                       | 8/31/2026
 total_worker_positions         | 1
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
@@ -2687,30 +2687,6 @@ total_worker_positions         | 1
 soc_code                       | 25-9021.00
 h_1b_dependent                 | No
 -[ RECORD 113 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24201-208974
-job_title                      | Yellowstone County Extension Agent.
-employer_name                  | Montana State University
-secondary_entity_business_name | 
-employer_poc_email             | dtickner@montana.edu
-employer_poc_phone             | 14062432865
-employer_poc_first_name        | Darcy
-employer_poc_last_name         | Tickner
-worksite_address1              | 301 N 27th St
-worksite_address2              | 
-worksite_city                  | Billings
-worksite_county                | YELLOWSTONE
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 47 Renne Library
-employer_address2              | PO Box 172520
-employer_city                  | Bozeman
-employer_state                 | MT
-employer_postal_code           | 59717
-begin_date                     | 7/30/2024
-end_date                       | 7/29/2027
-total_worker_positions         | 1
-soc_code                       | 25-9021.00
-h_1b_dependent                 | No
--[ RECORD 114 ]----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-24362-574781
 job_title                      | Research Associate I
 employer_name                  | Montana State University
@@ -2734,9 +2710,33 @@ end_date                       | 1/12/2028
 total_worker_positions         | 1
 soc_code                       | 19-1013
 h_1b_dependent                 | No
+-[ RECORD 114 ]----------------+---------------------------------------------------------------------------------------
+case_number                    | I-200-24201-208974
+job_title                      | Yellowstone County Extension Agent.
+employer_name                  | Montana State University
+secondary_entity_business_name | 
+employer_poc_email             | dtickner@montana.edu
+employer_poc_phone             | 14062432865
+employer_poc_first_name        | Darcy
+employer_poc_last_name         | Tickner
+worksite_address1              | 301 N 27th St
+worksite_address2              | 
+worksite_city                  | Billings
+worksite_county                | YELLOWSTONE
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 47 Renne Library
+employer_address2              | PO Box 172520
+employer_city                  | Bozeman
+employer_state                 | MT
+employer_postal_code           | 59717
+begin_date                     | 7/30/2024
+end_date                       | 7/29/2027
+total_worker_positions         | 1
+soc_code                       | 25-9021.00
+h_1b_dependent                 | No
 -[ RECORD 115 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23242-308268
-job_title                      | Assistant Professor, Environmental Studies
+case_number                    | I-200-23208-218798
+job_title                      | Assistant Professor, Dept. of Biological & Physical Sciences
 employer_name                  | Montana State University Billings
 secondary_entity_business_name | 
 employer_poc_email             | paula.highlander@msubillings.edu
@@ -2749,14 +2749,14 @@ worksite_city                  | Billings
 worksite_county                | YELLOWSTONE
 lawfirm_name_business_name     | Law Office of Paul Herzog, A.P.C.
 employer_address1              | 1500 University Drive
-employer_address2              | akanga
+employer_address2              | Herath
 employer_city                  | Billings
 employer_state                 | MT
 employer_postal_code           | 59101
-begin_date                     | 1/1/2024
-end_date                       | 12/31/2026
+begin_date                     | 12/21/2023
+end_date                       | 12/20/2026
 total_worker_positions         | 1
-soc_code                       | 25-1064.00
+soc_code                       | 25-1052.00
 h_1b_dependent                 | No
 -[ RECORD 116 ]----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-24348-542789
@@ -2783,8 +2783,8 @@ total_worker_positions         | 1
 soc_code                       | 19-1013
 h_1b_dependent                 | No
 -[ RECORD 117 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-24010-629136
-job_title                      | Business Operations Analyst
+case_number                    | I-200-23242-308268
+job_title                      | Assistant Professor, Environmental Studies
 employer_name                  | Montana State University Billings
 secondary_entity_business_name | 
 employer_poc_email             | paula.highlander@msubillings.edu
@@ -2797,14 +2797,14 @@ worksite_city                  | Billings
 worksite_county                | YELLOWSTONE
 lawfirm_name_business_name     | Law Office of Paul Herzog, A.P.C.
 employer_address1              | 1500 University Drive
-employer_address2              | chandu
+employer_address2              | akanga
 employer_city                  | Billings
 employer_state                 | MT
 employer_postal_code           | 59101
-begin_date                     | 1/29/2024
-end_date                       | 1/28/2027
+begin_date                     | 1/1/2024
+end_date                       | 12/31/2026
 total_worker_positions         | 1
-soc_code                       | 15-1211.00
+soc_code                       | 25-1064.00
 h_1b_dependent                 | No
 -[ RECORD 118 ]----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-24068-783561
@@ -2831,8 +2831,8 @@ total_worker_positions         | 1
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 119 ]----------------+---------------------------------------------------------------------------------------
-case_number                    | I-200-23208-218798
-job_title                      | Assistant Professor, Dept. of Biological & Physical Sciences
+case_number                    | I-200-24010-629136
+job_title                      | Business Operations Analyst
 employer_name                  | Montana State University Billings
 secondary_entity_business_name | 
 employer_poc_email             | paula.highlander@msubillings.edu
@@ -2845,14 +2845,14 @@ worksite_city                  | Billings
 worksite_county                | YELLOWSTONE
 lawfirm_name_business_name     | Law Office of Paul Herzog, A.P.C.
 employer_address1              | 1500 University Drive
-employer_address2              | Herath
+employer_address2              | chandu
 employer_city                  | Billings
 employer_state                 | MT
 employer_postal_code           | 59101
-begin_date                     | 12/21/2023
-end_date                       | 12/20/2026
+begin_date                     | 1/29/2024
+end_date                       | 1/28/2027
 total_worker_positions         | 1
-soc_code                       | 25-1052.00
+soc_code                       | 15-1211.00
 h_1b_dependent                 | No
 -[ RECORD 120 ]----------------+---------------------------------------------------------------------------------------
 case_number                    | I-200-23347-562700
