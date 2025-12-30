@@ -1,0 +1,343 @@
+count|employer_name|employer_address1|employer_address2|employer_city
+6|CRADLEPOINT INC|1100 W. Idaho Street|Floor 8|BOISE
+6|CRADLEPOINT INC|1100 W. Idaho Street|Ste 800|BOISE
+6|ERICSSON ENTERPRISE WIRELESS SOLUTIONS INC|1100 W. Idaho Street|Suite 800|Boise
+6|ERICSSON ENTERPRISE SOLUTIONS INC|1100 W. Idaho Street|Suite 800|Boise
+6|CRADLEPOINT INC|1100 W. Idaho Street|Suite 800|BOISE
+6|CRADLEPOINT INC|1100 W. Idaho Street|Suite 800|Boise
+4|Saint Alphonsus Health Systems Inc|1055 N. Curtis Road||Boise
+4|Saint Alphonsus Regional Medical Center Inc|1055 N. Curtis Road||Boise
+4|Saint Alphonsus Health System Inc|1055 N. Curtis Road||Boise
+4|St. Alphonsus Health System Inc|1055 N. Curtis Road||Boise
+4|Prefab Logistics LLC (DBA Prefab Logic)|16376 Star Road|Ste 200|Nampa
+4|Autovol Inc|16376 Star Road|Suite 100|Nampa
+4|Prefab Logistics LLC|16376 Star Road|Suite 200|Nampa
+4|Autovol Inc|16376 Star Road||Nampa
+4|Idaho State University|921 S 8th Ave|Pocatello|Pocatello
+4|Idaho State University|921 S 8th Ave|Stop 8038|Pocatello
+4|Idaho State University|921 S 8th Ave||Pocagtello
+4|Idaho State University|921 S 8th Ave||Pocatello
+3|CRADLEPOINT INC|1100 W Idaho Street|Floor 8|BOISE
+3|CRADLEPOINT INC|1100 W Idaho Street|Ste 800|BOISE
+3|CRADLEPOINT INC|1100 W Idaho Street|Suite 800|BOISE
+3|Micron Idaho Semiconductor Manufacturing (Triton) LLC|8000 S Federal Way||Boise
+3|Micron Technology Inc|8000 S Federal Way||Boise
+3|Micron New York Semiconductor Manufacturing LLC|8000 S Federal Way||Boise
+3|Micron Semiconductor Products Inc|8000 S. Federal Way||Boise
+3|Micron Idaho Semiconductor Manufacturing (Triton) LLC|8000 S. Federal Way||Boise
+3|Micron Technology Inc|8000 S. Federal Way||Boise
+3|University of Idaho|875 Perimeter Drive|MS 1250|Moscow
+3|University of Idaho|875 Perimeter Drive|Suite MS 1250|Moscow
+3|University of Idaho|875 Perimeter Drive||Moscow
+2|J.R. Simplot Company|1099 W. Front Street|N/A|Boise
+2|J.R. Simplot Company|1099 W. Front Street||Boise
+2|Aero Specialties Inc|11175 West Emerald Street||Boise
+2|AERO Specialties Inc|11175 West Emerald Street||Boise
+2|Click Sales Inc|1444 S. Entertainment Avenue|STE 410|Boise
+2|Click Sales Inc|1444 S. Entertainment Avenue|Suite 410|Boise
+2|BOISE STATE UNIVERSITY|1910 UNIVERSITY DRIVE|MS1145|BOISE
+2|BOISE STATE UNIVERSITY|1910 UNIVERSITY DRIVE||BOISE
+2|Benewah Community Hospital|229 South 7th Street||St. Maries
+2|Benewah Community Hospital|229 South 7th Street||Saint Maries
+2|Cherry Glass & Aluminum|2695 N 25th E||Idaho Falls
+2|CGA LLC|2695 N 25th E||Idaho Falls
+2|Farm Bureau Insurance Company of Idaho|275 Tierra Vista Dr.||Pocatello
+2|Farm Bureau Mutual Insurance Company of Idaho|275 Tierra Vista Dr.||Pocatello
+2|J-U-B Engineers Inc|2760 W Excursion Ln.|Ste 400|Meridian
+2|J-U-B Engineers Inc|2760 W Excursion Ln.|Suite 400|Meridian
+2|Blue Cross of Idaho|3000 E. Pine Avenue||Meridian
+2|Blue Cross of Idaho Health Services Inc|3000 E. Pine Avenue||Meridian
+2|VTCU Corp.|3770 Pole Line Road|Bldg 37|Pocatello
+2|VTCU Corp.|3770 Pole Line Road|Building 37|Pocatello
+2|Virginia Transformer Corp|3770 Pole line Road|Bldg 37|Pocatello
+2|VTCU Corporation|3770 Pole line Road|Bldg 37|Pocatello
+2|Counties of Jefferson and Madison School District 251|3850 East 300 North||Rigby
+2|Jefferson Joint School District 251|3850 East 300 North||Rigby
+2|Hecla Limited|6500 N Mineral Drive|Suite 200|Coeur dAlene
+2|Hecla Limited|6500 N Mineral Drive|Suite 200|Coeur DAlene
+2|Hecla Mining Company|6500 North Mineral Drive|Suite 200|Coeur d Alene
+2|Hecla Limited|6500 North Mineral Drive||Coeur dAlene
+2|25-2 Solutions LLC|815 S 1st Ave Suite A|Suite A|Pocatello
+2|25 2 Solutions LLC|815 S 1st Ave Suite A|Suite A|Pocatello
+2|STRATA Inc|8653 W. Hackamore Drive||Boise
+2|Strata Inc|8653 W. Hackamore Drive||Boise
+2|HR Green Inc|8710 Earhart Lane SW||Cedar Rapids
+2|HR GREEN INC|8710 Earhart Lane SW||Cedar Rapids
+2|Idaho State University|921 South 8th Ave|Idaho State University|Pocatello
+2|Idaho State University|921 South 8th Ave||Pocatello
+1|Sun Valley Company|1 Sun Valley Road||Sun Valley
+1|Cooper Development & MFG LLC|10 Bear Town||Horseshoe Bend
+1|Idaho Implement LLC|10 Sagle Road||Sagle
+1|Cycle Path LLC|10100 W. Overland Road||Boise
+1|WCSC Inc|1020 N. Hickory Ave|Suite 110|Meridian
+1|Saint Alphonsus Health System Inc|1055  N Curtis Road||Boise
+1|Saint Alphonsus Health System Inc|1055 N Curtis Road||Boise
+1|Health Services LLC|10557 W Carlton Bay Drive|Suite 201|Garden City
+1|Health Services LLC|1059 E Iron Eagle Drive|Ste 175|Boise
+1|Goode Auto Group Inc|1096 E. Main Street||Burley
+1|J.R. SIMPLOT COMPANY|1099 W Front Street|N/A|Boise
+1|Decked LLC|110 Lindsay Circle||Ketchum
+1|Rm Acquisition LLC|1100 West Idaho|Suite 310|Boise
+1|BirthBase LLC|1109 W Main St.|Suite 403|Boise
+1|Palouse Specialty Physicians, P.S.|111 N Washington Street|Suite 8|Moscow
+1|CRADLEPOINT INC|1111 W JEFFERSON STREET|SUITE 400|BOISE
+1|Cradlepoint Inc|1111 W Jefferson Street|Suite 400|Boise
+1|Cradlepoint Inc|1111 W. Jefferson Street|Suite 400|Boise
+1|Boise Cascade Company|1111 West Jefferson Street|Suite 300|Boise
+1|WCSC Inc|1120 S. Rackham Way|Suite 300|Meridian
+1|LF3|1121 E. Mullan Avenue|2nd Floor|Coeur d Alene
+1|Coeur dAlene Tribe|115 B Street|P.O. Box 408|Plummer
+1|Connections Credit Union|1150 North 8th Avenue||Pocatello
+1|Walter Knox Memorial Hospital|1202 E. Locust||Emmett
+1|ZRJ INC|12072 W McMillan Road||Boise
+1|Axiom PLLC|121 N 9th St|Suite 401|Boise
+1|Blackhawk RePower LLC|12465 W. Irving Street||Boise
+1|Glancey Rockwell & Associates|1257 W River St|Ste 110|Boise
+1|Glancey Rockwell & Associates|1257 W River St. Suite 110||Boise
+1|The Academy Inc|1295 Alpine Avenue||Chubbuck
+1|Idaho Department of Correction|1299 N. Orchard St. Suite 110||Boise
+1|PERCUSSIONAIRE CORPORATION|130 McGhee Road|Suite 109|Sandpoint
+1|MARSHALL INDUSTRIES INC|1303 North 39th Street|Suite 101|Nampa
+1|Jervois Mining USA, Limited|1309 S. Challis St.||Salmon
+1|Jervois Mining USA|1309 S. Challis Street||Salmon
+1|NorthPoint Group LLC|1317 W JEFFERSON ST||BOISE
+1|NorthPoint Group, LLP|1317 W. Jefferson Street||Boise
+1|Container and Packaging Supply Inc|1345 East State Street||Eagle
+1|Plan North PLLC|1401 S Robert Street|Suite 101|Boise
+1|Plan North PLLC|1401 S. Robert St, Ste 101||Boise
+1|Idaho Veterinary Hospital|1420 North Midland Boulevard||Nampa
+1|The Internet Truckstop LLC|1444 S Entertainment Avenue|Suite 110|Boise
+1|Click Sales Inc|1444 S. Entertainment Ave|Suite 410|Boise
+1|Coyote O&P Inc|1491 S. Tyrell Lane|Suite 100|Boise
+1|Bonner County|1500 Highway 2  337||Sandpoint
+1|Driscoll TopHay LLC|1511 Fortress St||Pocatello
+1|Driscoll TopyHay LLC|1511 Fortress Street||Pocatello
+1|Coforge BPM Inc|1550 S. Tech Lane|Suite 210|Meridian
+1|SEBS CORPORATION INC|1555 N 1200 E||Terreton
+1|DB Mobile|1555 Shoreline Dr.|Suite 150|Boise
+1|Alzar School Inc|1600 Airport Way||Cascade
+1|Gentle Dental Care, PLLC|1601 12th Avenue Road|Suite 103|Nampa
+1|Rimon, P.C.|1655 W Fairview Ave|Suite 102|Boise
+1|Stukent Inc|1690 International Way||Idaho Falls
+1|Stukent Inc|1755 International Way||Idaho Falls
+1|Verilytics Inc|18 Creek Hollow Dr||Garden Valley
+1|Heritage Community Charter School|1803 E Ustick Road||Caldwell
+1|Selkirk Sport LLC|181 W Aqua Avenue|Suite 1|Coeur dAlene
+1|Selkirk Sport LLC|181 W. Aqua Avenue|Suite 1|Coeur dAlene
+1|KORE Power Inc|1875 N. Lakewood Dr.|Suite 303|Coeur dAlene
+1|KORE Power Inc|1875 North Lakewood Drive|Suite 300|Coeur dAlene
+1|St. Lukes Health System, Ltd.|190 E. Bannock Street||Boise
+1|St. Lukes Health System, Ltd.|190 East Bannock||Boise
+1|Southeastern Idaho Public Health|1901 Alvin Ricken Drive||Pocatello
+1|Boise State University|1910 University Dr||Boise
+1|Boise State University|1910 University Drive||Boise
+1|Boise State University|1910 University Drive, MS 1145||Boise
+1|Timberline Helicopters Inc|1926 Industrial Drive||Sandpoint
+1|RedBuilt LLC|200 E Mallard Drive||Boise
+1|Kochava Inc|201 Church Street||Sandpoint
+1|Hummel Architects, PLLC|205 N 10th St|Ste 300|Boise
+1|BLKMARKET LLC|206 W Iowa St||Boise
+1|Sephlin LLC|208 West 1st North||Rexburg
+1|The College of Idaho|2112 Cleveland Blvd||Caldwell
+1|The College of Idaho|2112 Cleveland Blvd.||Caldwell
+1|Highland Hay International|2114 N Old Butte Hwy||Hamer
+1|Kaizen Food Tek LLC|212 NW 10th St.||Meridian
+1|Clark Seed LLC|2124 E Industrial Blvd||Idaho Falls
+1|Animal Farm Family LLC|2145 E. Pine Ave||Meridian
+1|Leisure Time Inc|2200 N Woodruff Ave||Idaho Falls
+1|The Internet Truckstop LLC|222 N Plymouth Ave||New Plymouth
+1|BLKMARKET LLC|2227 S Broadway Ave|200|Boise
+1|Accendero Software Inc|2235 E 25th St.|Suite 190|Idaho Falls
+1|Idaho Milk Products Inc|2249 S Tiger Drive||Jerome
+1|Idaho Milk Products Inc|2249 South Tiger Drive||Jerome
+1|Idaho State Department of Agriculture|2270 Old Penitentiary Road||Boise
+1|Accendero Software Inc|2275 W. Broadway|Suite D|Idaho Falls
+1|Alturas Preparatory Academy|2280 E 17th Street||Idaho Falls
+1|LA Semiconductor LLC|2300 W Buckskin Road||Pocatello
+1|Economic Modeling LLC|232 N Almon St||Moscow
+1|Economic Modeling LLC|232 N Almon St.||Moscow
+1|Mountain View Hospital|2325 Coronado Street||Idaho Falls
+1|Idaho Falls Community Hospital|2327 Coronado Street||Idaho Falls
+1|wwwfiftyflowerscom INC|2404 W Bank Dr.|Ste 300|Boise
+1|Front Line EMS LLC|2426 American Legion Blvd||Mountain Home
+1|Albertsons LLC|250 E Parkcenter Blvd||Boise
+1|Albertsons LLC|250 E Parkcenter Blvd.||Boise
+1|Albertsons LLC|250 E. Parkcenter Blvd.||Boise
+1|Albertsons LLC|250 Parkcenter Blvd.||Boise
+1|Joe Frick Law PLLC|250 S 5th St. Ste  302||Boise
+1|Butte County School District 111|250 S Water Street||Arco
+1|Joe Frick Law PLLC|250 S. 5th St., Suite 302||Boise
+1|Joe Frick Law PLLC|250 S. 5th., Suite 302||Boise
+1|Sirma Group Inc|250 W Bobwhite Ct|STE 120|Boise
+1|RAGHORN LIQUIDATION LLC|2500 W. Orchard Ave||Nampa
+1|BATTELLE ENERGY ALLIANCE LLC|2525 N FREMONT AVENUE|P.O. BOX 1625|IDAHO FALLS
+1|BATTELLE ENERGY ALLIANCE LLC|2525 N. FREMONT AVENUE|P.O. BOX 1625|IDAHO FALLS
+1|Idaho Asphalt Supply Inc|2535 N. 15th E.||Idaho Falls
+1|KOOTENAI MOUNTAIN LABORATORY|261 GREAT NORTHERN ROAD||BONNERS FERRY
+1|Health and Commerce Inc|2624 N Ballantyne Lane||Eagle
+1|J-U-B Engineers Inc|2760  W. Excursion Ln.|STE 400|Meridian
+1|J-U-B Engineers|2760 W Excursion Lane Suite 400||Meridian
+1|Zennify Inc|2775 W Navigator Dr.|Suite 100|Meridian
+1|Premier Performance LLC|278 E Dividend Drive||Rexburg
+1|ID Dental Associates, PC|2818 S 25th E||Idaho Falls
+1|Scentsy Inc|2901 East Pine Avenue||Meridian
+1|Desert Rose Capital Management|2929 W Navigator Dr|Ste 300|Meridian
+1|White Pine Charter School|2959 John Adams Parkway||Ammon
+1|Woodgrain Inc|300 NW 16th St.||Fruitland
+1|Woodgrain Inc|300 NW 16th Street||Fruitland
+1|CONRELV SOLUTIONS INC|300 W MAIN STREET|SUITE 111|BOISE
+1|BLUE CROSS OF IDAHO HEALTH SERVICES INC|3000 E PINE AVE||MERIDIAN
+1|Blue Cross of Idaho Health Services Inc|3000 E Pine Ave||Meridian
+1|Webb, Clovis & Associates, PLLC|302 E. Linden Avenue|Suite 101|Coeur d Alene
+1|Engineering Consultants Inc|303 S. Federal Way||Boise
+1|Paramount Enterprises LLC|3067 West Rimbaud Ave,||Coeur D Alene
+1|Twenty X Steel LLC|3120 Highway 52||Payette
+1|Association Management Inc|3140 W. Belltower Dr.||Meridian
+1|HOLLADAY ENGINEERING COMPANY|32 N MAIN ST|PO BOX 235|PAYETTE
+1|Gentle Dental Care, PLLC|3246 12th Ave rd.||Nampa
+1|CLEARWATER OPERATIONS LLC|325 WARNER DRIVE||LEWISTON
+1|Clearwater Operations LLC|325 Warner Drive||Lewiston
+1|Desert Rose Capital Management|3363  E. Presidential Drive|Suite 110|Meridian
+1|Desert Rose Capital Management|3363 E. Presidential Drive|Suite 110|Meridian
+1|Sekady Capital LLC|3405 E Overland Road|Suite 360|Meridian
+1|COZiBOX LLC|3441 Clearview Ln||Ammon
+1|Jacksons Food Stores Inc|3450 E. Commercial Court||Meridian
+1|Clark Seed LLC|3450 E. Leihm Ln||Ammon
+1|Home Care Pulse LLC|346 Grand Loop|Suite 200|Rexburg
+1|COZiBOX LLC|3510 Samuel St.||Ammon
+1|7k Metals LLC|3640 S Yellowstone Hwy||Idaho Falls
+1|MEGADO GOLD INC|3657 COCOLALLA LOOP ROAD||COCOLALLA
+1|Sierra Madre Supplies LLC|366 Dividend Dr||Rexburg
+1|The Framed Eye LLC|3739 W Pinehurst Dr||Boise
+1|Peaks To Plains Therapy Services, P.A.|3750 Founders Pointe Dr||Idaho Falls
+1|Teton Outfitters LLC|3753 County Line Road||Rigby
+1|VTCU Corp|3770 Pole Line Road, Bldg 37||Pocatello
+1|Virginia Transformer Corporation|3770 Poleline Road|Bldg 37|Pocatello
+1|ADA County Highway District|3775 Adams Street||Garden City
+1|Resola LLC|3814 Washington Pkwy||IdahoFalls
+1|APEX Drilling LLC|3855 Hiland Avenue||Burlely
+1|ROCKY MOUNTAIN DIABETES CENTER|3910 WASHINGTON PARKWAY||IDAHO FALLS
+1|POWER Engineers Inc|3940 Glenbrook Drive||Hailey
+1|POWER Engineers Inc|3940 Glenbrook Drive, PO Box 1066||Hailey
+1|EON Collective LLC|3991 S. Mill Site Avenue||Boise
+1|KINGSTON PETROLEUM LLC|400 COUER DALANE RIVER ROAD||KINGSTON
+1|Covr Financial Technologies Inc|401 W. Front Street|Suite 500|Boise
+1|Cole Architects, PLLC|404 S 8th  St|Ste 250|Boise
+1|Cole Architects, PLLC|404 S. 8th St.|Suite 250|Boise
+1|New Saint Andrews College|405 S Main St||Moscow
+1|New Saint Andrews College Inc|405 South Main st||Moscow
+1|Z DATA INC|408 W. IDAHO STREET||BOISE
+1|Z Data Inc|408 W. Idaho Street||Boise
+1|Z Data Inc|408 West Idaho Street||Boise
+1|Kvell Hailey LLC|409 N Main St||Hailey
+1|KPFF Inc|412 E Parkcenter Blvd|Suite 200|Boise
+1|St. Joseph Physician Services LLC|415 6th Street||Lewiston
+1|TERRABRAZIL HDD LLC|4188 N Pennfield PL||Boise City
+1|Rimon, P.C.|420 W Main St|Suite 101B|Boise
+1|FA Engineering, P.A.|427 Fredregill Road||Pocatello
+1|Wolfley Accounting LLC|427 Main St. Ste. B||Pocatello
+1|D-10 Contracting Inc|4305 N. Weston Avenue||Meridian
+1|Idaho Central Credit Union|4400 Central Way||Chubbuck
+1|Dick Campbell Company|450 W McGregor Dr||Boise
+1|Dick Campbell Company|450 W. McGregor Dr.||Boise
+1|Idaho Kidney Institute LLP|4511 Zebe Avenue||Chubbuck
+1|Melaleuca Inc|4609 West 65th South||Idaho Falls
+1|Teton School District 401|481 N Main St|PO Box 775|Driggs
+1|Rudd & Company PLLC|490 First American Circle||Rexburg
+1|Sagitta PC|491 N Main Street|Suite 200|Ketchum
+1|Dome Technology LLC|4946 N 29th E||Idaho Falls
+1|Lewis-Clark State College|500 8th Avenue||Lewiston
+1|Gypsy Life LLC|504 S. 1st Avenue||Pocatello
+1|TRAVIS PITCHER INC|518 S Americana Blvd||Boise
+1|Travis Pitcher Inc|518 S Americana Blvd.||Boise
+1|Travis Pitcher Inc|518 S. Americana Blvd.||Boise
+1|Matsuzawa Corporation|520 S. Meridian Road|Suite 90|Meridian
+1|Brigham Young University - Idaho|525 S Center Street||Rexburg
+1|Brigham Young University - Idaho|525 South Center Street||Rexburg
+1|AMERICAN GEOTECHNICS INC|5260 CHINDEN BLVD||BOISE
+1|Pocatello Health Services Inc|527 Memorial Drive||Pocatello
+1|Horizon Projects Idaho LLC|551 N Park St||Dietrich
+1|Advanced Health Services LLC|555 E Parkcenter Blvd||Boise
+1|CWE Acquisition LLC|5550 S Linder Road||Meridian
+1|Guerdon LLC|5556 S. Federal Way||Boise
+1|Serenity Human Service Coordination LLC|560 3rd Street||Idaho Falls
+1|Serenity Human Services Coordination LLC|560 South 3rd East||Idaho Falls
+1|Serenity Human Services Coordination LLC|560 South 3rd East Street||Idaho Falls
+1|Verilytics Inc|5755 Jean Road|Ste 202|Garden Valley
+1|IN TIME TEC LLC|580 E CORPORATE DRIVE||MERIDIAN
+1|IN TIME TEC LLC|580 E. CORPORATE DRIVE||MERIDIAN
+1|Lamb Weston Inc|599 Rivershore Lane||Eagle
+1|Lamb Weston Inc|599 S. Rivershore Lane||Eagle
+1|Lamb Weston Inc|599 South Rivershore Lane||Eagle
+1|Madison School District 321|60 W Main Street||Rexburg
+1|Rocky Mountain Engineering and Surveying LLC|600 East Oak Street||Pocatello
+1|Enfuse.io Inc|6000 E. Kuna Mora Road||Kuna
+1|Syringa Hospital District|607 West Main St.||Grangeville
+1|Nampa School District|619 South Canyon Street||Nampa
+1|Inergy Holdings LLC also known as Inergy LLC or Inergy Solar|620 Pheasant Ridge Dr||Chubbuck
+1|Northwest Nazarene University|623 South University Boulevard||Nampa
+1|Micron Technology Inc|6360 S. Federal Way||Boise
+1|Weiser Valley Hospital District|645 E. 5th Street||Weiser
+1|Fresh Air Manufacturing Company|649 N. Ralstin St||Meridian
+1|Full Circle Health|6550 W Emerald St|Suite 116|Boise
+1|Full Circle Health|6550 W. Emerald Street|Ste 116|Boise
+1|Juniper Hills Country Club|6600 Bannock Hwy||Pocatello
+1|CGA LLC|675 E Anderson Street||Idaho Falls
+1|City of Idaho Falls|680 Park Avenue||Idaho Falls
+1|Idaho Falls SD No. 91|690 John Adams Pkwy||Idaho Falls
+1|Thomas Holdings|700 East Franklin Road||Meridian
+1|Gritman Medical Center Inc|700 S. Main St.||Moscow
+1|Gritman Medical Center Inc|700 S. Main Street||Moscow
+1|Balsam Brands|718 W. Idaho St||Boise
+1|Dynamic Lumber Solutions LLC|7196 W. Tobi Court||Boise
+1|Revaba Idaho LLC|720 Lindsay Blvd||Idaho Falls
+1|Fearless Little LLC|7745 Outback Lane||Star
+1|LHP Pocatello LLC|777 Hospital Way||Pocatello
+1|Clearwater Analytics LLC|777 W Main St|Suite 900|Boise
+1|Clearwater Analytics LLC|777 W Main Street|Suite 900|Boise
+1|Dirne Health Centers Inc|7830 Meadowlark Way Suite A||Coeur dAlene
+1|Seeboluk Inc|784 Clearwater Loop|Suite B|Post Falls
+1|AUTHENTIC DATA SOLUTIONS LLC|784 S CLEARWATER LOOP|SUITE 4255|POST FALLS
+1|Seeboluk Inc|784 S Clearwater Loop STE B||Post Falls
+1|Salted Stone NA LLC|784 S. Clearwater Loop|Suite 4044|Post Falls
+1|AR INFOTEK SOLUTIONS LLC|784 SOUTH CLEARWATER LOOP|4251|POST FALLS
+1|Natural Intelligence Systems Inc|800 W. Main St.|Ste 1460|Boise
+1|Micron Idaho Semiconductor Manufacturing (Triton) LLC|8000 South Federal Way||Boise
+1|Raycap Inc|806 S Clearwater Loop||Post Falls
+1|Tamarack Grove Engineering, PLLC|812 S. La Cassia Dr.||Boise
+1|Tamarack Grove Engineering, PLLC|812 S. La Cassia Drive||Boise
+1|PlexTrac Inc|816 W Bannock St|Suite 400|Boise
+1|Idaho State University|821 S 8th Ave, stop 8038||Pocatello
+1|Linked Union Inc|839 E. Winding Creek Drive|Suite 202|Eagle
+1|GLOBAL TELEMATIC SOLUTIONS LLC|850 E FRANKLIN ROAD|SUITE 410|MERIDIAN
+1|Global Telematics Solutions LLC|850 E Franklin Road|Suite 410|Meridian
+1|Idaho Healthcare Institute|850 Energy Place||Idaho Falls
+1|Hawkins Companies LLC|855 W Broad Street|Suite 300|Boise
+1|University of Idaho|875 Perimeter Drive MS 1250||Moscow
+1|Idahoan Foods LLC|900 Pier View Drive||Idaho Falls
+1|Safelink Internet|906 Oneida Street|Suite 8|Rupert
+1|TOKYO ELECTRON AMERICA INC|9095 S. Federal Way|Suite 100|Boise
+1|La Ruche Health Inc|9169 West State Street, Unit 1032||Garden City
+1|Lovevery Inc|918 W Idaho Street|Suite 300|Boise
+1|Lovevery Inc|918 West Idaho Street|Suite 300|Boise
+1|Idaho State University|921 S 8th Ave, Stop 8038||Pocatello
+1|Idaho State University|921 S 8th Ave, Stop 8138||Pocatello
+1|Idaho State University|921 S 8th Ave, Stop 83209||Pocatello
+1|Idaho State University|921 S. 8th Ave||Pocatello
+1|Idaho State University|921 South 8th Ave, Stop 8038||Pocatello
+1|Idaho State University|921 South 8th Avenue MS 8315||Pocatello
+1|Idaho State University|921 South 8th Avenue, Stop 8315|Office of Equity and Inclusion|Pocatello
+1|The Franklin Group Inc|9222 W. Barnes Dr.||Boise
+1|The Franklin Group|9222 West Barnes Drive||Boise
+1|Nxedge MH LLC|924 W McGregor Ct||Boise
+1|Jasper Health Inc|950 W. Bannock Street|Suite 1100|Boise
+1|C-A-L Ranch Stores|976 S. Curlew||Ammon
+1|BMH Inc|98 Poplar St.||Blackfoot
+1|BMH Inc|98 Poplar Street||Blackfoot
+1|Clenera|999 W Main Street|Ste 800|Boise
+1|Z Data Inc|999 W. Main Street|Suite 100|Boise
+1|Native Earth LLC|P.O. Box 475|343 N Hwy 24|Rupert
+1|U.S. SILVER - IDAHO INC|PO BOX 440 1041 LAKE GULCH ROAD||WALLACE
+1|Williams Partners Architects, P.C.|PO Box 4373|120 Second Avenue, Suite 102|Ketchum
+1|DECKED LLC|PO Box 885||Ketchun
+(341 rows)

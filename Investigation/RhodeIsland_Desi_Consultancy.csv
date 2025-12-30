@@ -1,0 +1,425 @@
+count|employer_name|employer_address1|employer_address2|employer_city
+18|CVS Pharmacy Inc|1 CVS Drive|12|Woonsocket
+18|Aetna Resources LLC|1 CVS Drive|Mail Code HR695|Woonsocket
+18|Caremark LLC|1 CVS Drive|Mail Code HR695|Woonsocket
+18|CVS Rx Services Inc|1 CVS Drive||Woonsocket
+18|Oak Street Health MSO LLC|1 CVS Drive||Woonsocket
+18|Wellpartner LLC|1 CVS Drive||Woonsocket
+18|CVS Shared Services Resources LLC|1 CVS Drive||Woonsocket
+18|ProCare Pharmacy LLC|1 CVS Drive||Woonsocket
+18|Aetna Resources LLC|1 CVS Drive||Woonsocket
+18|Caremark LLC|1 CVS Drive||Woonsocket
+18|Aetna International LLC|1 CVS Drive||Woonsocket
+18|CVS Pharmacy Inc|1 CVS Drive||Woonsocket
+18|Signify Health LLC|1 CVS Drive||Woonsocket
+18|Signify Health Inc|1 CVS Drive||Woonsocket
+18|Grand St. Paul CVS LLC|1 CVS Drive||Woonsocket
+18|Aetna Medicaid Administrators LLC|1 CVS Drive||Woonsocket
+18|Coram LLC|1 CVS Drive||Woonsocket
+18|Aetna International Inc|1 CVS Drive||Woonsocket
+12|Dassault Systemes Simulia Corp|1301 Atwood Avenue|101W Suite|Johnston
+12|Medidata Solutions Inc|1301 Atwood Avenue|101W Suite|Johnston
+12|Medidata Solutions Inc|1301 Atwood Avenue|STE 101W|Johnston
+12|Medidata Solutions Inc|1301 Atwood Avenue|Suite 101W|Johnston
+12|Dassault Systemes Simulia Corp|1301 Atwood Avenue|Suite 101W|Johnston
+12|Dassault Systemes Simulia Corp.|1301 Atwood Avenue|Suite 101W|Johnston
+12|Dassault Systemes SolidWorks Corporation|1301 Atwood Avenue|Suite 101W|Johnston
+12|SIMULIA R&D User Experience Design Specialist|1301 Atwood Avenue|Suite 101W|Johnston
+12|Dassault Systemes AmericasCorp|1301 Atwood Avenue|Suite 101W|Johnston
+12|NBIC Service Company Inc|1301 Atwood Avenue|Suite 316E|Johnston
+12|Medidata Solutions Inc|1301 Atwood Avenue||Johnston
+12|Dassault Systemes Americas Corp.|1301 Atwood Avenue||Johnston
+12|CVS Pharmacy Inc|c/o CVS Health, 1 CVS Drive|Mail Code HR 695|Woonsocket
+12|Caremark LLC|c/o CVS Health, 1 CVS Drive|Mail Code HR695|Woonsocket
+12|CVS Pharmacy Inc|c/o CVS Health, 1 CVS Drive|Mail Code HR695|Woonsocket
+12|Aetna Medicaid Administrators LLC|c/o CVS Health, 1 CVS Drive|Mail Code HR695|Woonsocket
+12|CVS Rx Services Inc|c/o CVS Health, 1 CVS Drive|Mail Code HR695|Woonsocket
+12|CVS Rx Services|c/o CVS Health, 1 CVS Drive|Mail Code HR695|Woonsocket
+12|Aetna Resources LLC|c/o CVS Health, 1 CVS Drive|Mail Code HR695|Woonsocket
+12|ProCare Pharmacy LLC|c/o CVS Health, 1 CVS Drive|Mail Code HR695|Woonsocket
+12|CVS Rx Services Inc|c/o CVS Health, 1 CVS Drive||Woonsocket
+12|CVS Pharmacy Inc|c/o CVS Health, 1 CVS Drive||Woonsocket
+12|Caremark LLC|c/o CVS Health, 1 CVS Drive||Woonsocket
+12|Aetna Resources LLC|c/o CVS Health, 1 CVS Drive||Woonsocket
+7|Busitants Inc|10 Dorrance St|STE 700|Providence
+7|Busitants Incorporated|10 Dorrance St|STE 700|Providence
+7|Busitants Incorporated|10 Dorrance St|Ste 700|Providence
+7|Busitants Inc|10 Dorrance St|Suite 700|Providence
+7|Busitants Incorporated|10 Dorrance St|Suite 700|Providence
+7|BUSITANTS INC|10 Dorrance St|Suite 700|Providence
+7|Busitants Incorporated|10 Dorrance St||Providence
+7|Forensic Risk Alliance Inc|10 Dorrance Street|700 Suite|Providence
+7|Busitants Inc|10 Dorrance Street|Suite 700|Providence
+7|K2 Partnering Solutions Inc|10 Dorrance Street|Suite 700|Providence
+7|Forensic Risk Alliance Inc|10 Dorrance Street|Suite 700|Providence
+7|Ruota Consulting Inc|10 Dorrance Street|Suite 700|Providence
+7|Shiom tech Inc|10 Dorrance Street|Suite 700 , PMB 6752|Providence
+7|Shiom tech Inc|10 Dorrance Street|Suite 700 PMB 6752|Providence
+6|Optimal Energy LLC|225 Dyer Street|2nd Floor|Providence
+6|Utilidata Inc|225 Dyer Street|2nd Floor - CIC|Providence
+6|RxVantage Inc|225 Dyer Street|Floor 2|Providence
+6|HiveTec Corporation|225 Dyer Street||Providence
+6|Intus Care Inc|225 Dyer Street||Providence
+6|Lightspeed POS USA Inc|225 Dyer Street||Providence
+4|Dassault Systemes Simulia Corp|1301 Atwood Ave|Suite 101W|Johnston
+4|Medidata Solutions Inc|1301 Atwood Ave|Suite 101W|Johnston
+4|Dassault Systemes Americas Corp.|1301 Atwood Ave|Suite 101W|Johnston
+4|Dassault Systemes Simulia Corp|1301 Atwood Ave||Johnston
+4|AFFINITY PHYSICIANS LLC|171 Service Avenue|2nd Floor|Warwick
+4|Thundermist Health Center|171 Service Avenue|Building 1|Warwick
+4|Thundermist Health Center|171 Service Avenue|Building 2|Warwick
+4|AFFINITY PHYSICIANS LLC|171 Service Avenue||Warwick
+4|FM APPROVALS LLC|270 CENTRAL AVENUE||JOHNSTON
+4|FACTORY MUTUAL INSURANCECOMPANY|270 CENTRAL AVENUE||JOHNSTON
+4|FACTORY MUTUAL INSURANCE COMPANY|270 CENTRAL AVENUE||JOHNSTON
+4|AFFILIATED FM INSURANCE COMPANY|270 CENTRAL AVENUE||JOHNSTON
+4|AFFINITY PHYSICIANS LLC|4 Richmond Square|4th Floor|Providence
+4|SILVER FERN PRACTICE LLC|4 Richmond Square|Suite 200|Providence
+4|SILVER FERN PRACTICE LLC|4 Richmond Square|Suite 200 (Suite 400 as of 08/01/2025)|Providence
+4|Care New England Health System|4 Richmond Square||Providence
+4|Providence Equity Partners LLC|50 Kennedy Plaza|18th Floor|Providence
+4|Nautic Partners LLC|50 Kennedy Plaza|Flr. 17|Providence
+4|Nautic Partners LLC|50 Kennedy Plaza||Providence
+4|Providence Equity Partners LLC|50 Kennedy Plaza||Providence
+4|smartShift Technologies Inc|500 Exchange Street|Ste 10100|Providence
+4|Smarthshift Technologies Inc|500 Exchange Street|Suite 10100|Providence
+4|Smartshift Technologies Inc|500 Exchange Street||Providence
+4|Blue Cross & Blue Shield of Rhode Island|500 Exchange Street||Providence
+4|Flux Marine Ltd.|500 Wood Street|Building 215|Bristol
+4|Flux Marine Ltd|500 Wood Street|Unit 215|Bristol
+4|Flux Marine Ltd.|500 Wood Street|Unit 215|Bristol
+4|AddASpace LLC|500 Wood Street||Bristol
+4|Syscons Corporation|959 Mineral Spring Avenue|STE 4|North Providence
+4|Syscons Corporation|959 Mineral Spring Avenue|Ste 4|North Providence
+4|Syscons Corporation|959 Mineral Spring Avenue|Suite 4|North Providence
+4|AnalytiQs Inc|959 Mineral Spring Avenue|Suite 4|North Providence
+3|Signify Health Inc|1 CVS Dr||Woonsocket
+3|Aetna Medicaid Administrators LLC|1 CVS Dr||Woonsocket
+3|Aetna International Inc|1 CVS Dr||Woonsocket
+3|BetWorks LLC|100 Westminster Street||Providence
+3|Betworks (US) LLC|100 Westminster Street||Providence
+3|Betworks US LLC|100 Westminster Street||Providence
+3|LIFESPAN PHYSICIAN GROUP INC|167 POINT STREET|Suite 2B|Providence
+3|LIFESPAN PHYSICIAN GROUP INC|167 POINT STREET|Suite 2C|Providence
+3|LIFESPAN PHYSICIAN GROUP INC|167 POINT STREET||Providence
+3|Brown Dermatology|593 Eddy Street|APC 10|Providence
+3|Brown Neurology|593 Eddy Street|APC 5|Providence
+3|Rhode Island Hospital|593 Eddy Street|N/A|Providence
+3|NWN Carousel Industries of North America Inc|659 South County Trail||Exeter
+3|Carousel Industries of North America Inc|659 South County Trail||Exeter
+3|NWN Carousel Industries of North America INC|659 South County Trail||Exeter
+3|Brown University|69 Brown Street, Box 1906|Page-Robinson Hall, OISSS|Providence
+3|Brown University|69 Brown Street, Box 1906|Page-Robinson Hall, Suite 420|Providence
+3|Brown University|69 Brown Street, Box 1906|Page-Robinson Hall, Third Floor|Providence
+2|Social Enterprise Greenhouse|10 Davol Square|Suite 100|Providence
+2|Coastal Medical Physicians Inc|10 Davol Square|Suite 300|Providence
+2|IGT GLOBAL SOLUTIONS CORPORATION|10 MEMORIAL BOULEVAROAD||PROVIDENCE
+2|BRIGHTSTAR GLOBAL SOLUTIONS CORPORATION (F/K/A IGT GLOBAL SOLUTIONS CORPORATION)|10 MEMORIAL BOULEVAROAD||PROVIDENCE
+2|HASBRO MANAGERIAL SERVICES LLC|1027 NEWPORT AVENUE|N/A|PAWTUCKET
+2|HASBRO INC|1027 NEWPORT AVENUE||PAWTUCKET
+2|SEVEN SCHMUCKS INC|11 WINSOR ROAD||NORTH SCITUATE
+2|THE SEVEN SCHMUCKS|11 WINSOR ROAD||NORTH SCITUATE
+2|Brown Surgical Associates|110 Elm Street|2nd Floor|Providence
+2|Brown Medicine|110 Elm Street||Providence
+2|Taco Inc|1160 Cranston Street||Cranston
+2|Taco Group Holdings Inc|1160 Cranston Street||Cranston
+2|Ocean State Veterinary Specialists|1480 South County Trail||East Greenwich
+2|Ocean State Veterinary Specialists LTD|1480 South County Trail||East Greenwich
+2|Thielsch Engineering Inc|195 Frances Avenue||Cranston
+2|RISE Group Inc|195 Frances Avenue||Cranston
+2|ALCOR Scientific LLC|20 Thurber Boulevard||Smithfield
+2|ALCOR Scientific Inc|20 Thurber Boulevard||Smithfield
+2|Cadence Inc|2080 Plainfield Pike||Cranston
+2|Cadence Science Inc|2080 Plainfield Pike||Cranston
+2|TEN ONE TEA HOUSE LLC|216 Thayer St||Providence
+2|Ten One Tea House LLC|216 Thayer St||Providence
+2|Boskalis Offshore Management LLC|225 Chapman St|Suite 100|Providence
+2|Boskalis Offshore Contracting LLC|225 Chapman St|Suite 100|Providence
+2|Windmoeller & Hoelscher Corp.|23 New England Way (Windmoeller & Hoelscher Corp.)|23 New England Way|Lincoln
+2|Windmoeller & Hoelscher Corp.|23 New England Way (Windmoeller & Hoelscher Corp.)||Lincoln
+2|Interplex Group Services LLC|231 Ferris Avenue||East Providence
+2|Interplex Engineered Products Inc|231 Ferris Avenue||Rumford
+2|K2 Human Capital Solutions|235  Promenade Street|STE 298|Providence
+2|K2 Human Capital Solutions Inc|235  Promenade Street|STE 298|Providence
+2|Factory Mutual Insurance Company|270 Central Avenue||Johnston
+2|FM APPROVALS LLC|270 Central Avenue||Johnston
+2|Soul Care Innovations Inc|275 Promenade St.|Suite 126|Providence
+2|Lilac Biosciences Inc|275 Promenade St.||Providence
+2|A.T. Cross Company LLC|295 Promenade St||Providence
+2|Transom Cross US LLC|295 Promenade St||Providence
+2|Medicine and Long Term Care Associates LLC|333 Budlong Road||Cranston
+2|Medicine & Long Term Care Associates LLC|333 Budlong Road||Cranston
+2|Asthma and Allergy Physicians of Rhode Island Inc|407 Toll Gate Road|Suite 203|Warwick
+2|Asthma and Allergy Physicians of RI|407 Toll Gate Road|Suite 203|Warwick
+2|Amica Mutual Insurance Company|50 Amica Way|N/A|Lincoln
+2|Amica Mutual Insurance Company|50 Amica Way||Lincoln
+2|Cardiovascular Institute of New England|6 Blackstone Valley Place|Building 1, Suite 105|CRANSTON
+2|Lighthouse MTG LLC|6 Blackstone Valley Place|Suite 205|Lincoln
+2|The Economic Progress Institute|600 Mount Pleasant Avenue|Building 9|Providence
+2|Rhode Island College|600 Mount Pleasant Avenue||Providence
+2|Quick Fitting Holding Company LLC|655 Waterman Avenue|n/a|East Providence
+2|Quick Fitting Holding Company LLC|655 Waterman Avenue||East Providence
+2|Gilbane Building Company|7 Jackson Walkway||Providence
+2|Gilbane Federal|7 Jackson Walkway||Providence
+2|Personify Health|75 Fountain Street|Suite 310|Providence
+2|Virgin Pulse Inc|75 Fountain Street|Suite 310|Providence
+2|Ocean State Research Institute Inc|830 Chalkstone Ave|Building 35|Providence
+2|VA Providence Healthcare System|830 Chalkstone Ave||Providence
+2|The Atlantic House LLC|85 Ocean Road|N/A|Narragansett
+2|The Atlantic House LLC|85 Ocean Road||Narragansett
+2|Kahn, Litwin, Renza and Co, LTD|951 North Main Street||Providence
+2|Kahn, Litwin, Renza and Co, Ltd|951 North Main Street||Providence
+1|SEVEN HILLS RHODE ISLAND INC|1 Albion Road|Ste 201|Lincoln
+1|Coram LLC|1 CVS Dr.||Woonsocket
+1|COMPREHENSIVE COMMUNITY ACTION INC|1 Capital Way||CRANSTON
+1|Organic Dyes and Pigments LLC|1 Crownmark Drive||Lincoln
+1|Providence College|1 Cunningham Sqaure||Providence
+1|Providence College|1 Cunningham Square||Providence
+1|Swarovski North America LTD|1 Kenney Drive||Cranston
+1|DENISON PHARMACEUTICALS LLC|1 POWDER HILL ROAD||LINCOLN
+1|DarrowEverett LLP|1 Turks Head Place|Suite 1200|Providence
+1|GLOBAL BUSINESS LEADERSHIP|10 HEATH STREET||RIVERSIDE
+1|Aura Accessories LLC|10 Industrial Ln||Johnston
+1|Senesco Marine LLC|10 MacNaught Street||North Kingstown
+1|IGT GLOBAL SOLUTIONS CORPORATION|10 Memorial Boulevard||Providence
+1|PACE Organization of Rhode Island|10 Tripps Lane||East Providence
+1|AMICA MUTUAL INSURANCE COMPANY|100 AMICA WAY||LINCOLN
+1|Amica Mutual Insurance Company|100 Amica Way||Lincoln
+1|Hyperion Maritime Holdings LLC|100 Bellevue Ave||Newport
+1|East Bay Community Action Program|100 Bullocks Point Avenue||East Providence
+1|IMT Services LLC|100 Commerce Dr.||Warwick
+1|Diabetes & Endocrinology Associates Inc|100 Highland Avenue|Suite 203|Providence
+1|Aetna Bridge Company|100 Jefferson Boulevard|ste. 100|Warwick
+1|Salve Regina University|100 OCHRE POINT AVENUE||NEWPORT
+1|NORTH ATLANTIC DISTRIBUTION INC|100 TIDAL DRIVE||NORTH KINGSTON
+1|American Equipment & Fabricating Corp|100 Water Street||E. Providence
+1|Mouser Electronics Inc|1000 N. Main St.|Suite 101W|Mansfield
+1|USG Services Corporation|1005 Main St|1220|Pawtucket
+1|Pangea.app Inc|1005 Main Street||Pawtucket
+1|WOMEN and INFANTS HOSPITAL OF RHODE ISLAND|101 DUDLEY STREET||PROVIDENCE
+1|Emma Pendleton Bradley Hospital|1011 Veterans Memorial Parkway||East Providence
+1|Aspire Dermatology LLC|102 Valley Road||Middletown
+1|Hasbro Inc|1027 Newport Avenue||Pawtucket
+1|HYPERTENSION & NEPHROLOGY INC|1076 NORTH MAIN STREET||EAST PROVIDENCE
+1|Hypertension and Nephrology Inc|1076 North Main Street||Providence
+1|AlphaRobotics LLC|11 HOLLYWOOD AVENUE||NARRAGANSETT
+1|Adeeba Associates Inc|11 Hurst Lane||Tiverton
+1|THE SEVEN SCHMUCKS|11 WINSOE ROAD||NORTH SCITUATE
+1|VICTA Life LLC|110 Elmwood Ave||Providence
+1|TL Studio Inc|110 King Philip Road|2nd floor|East Providence
+1|AAA Northeast|110 Royal Little Drive||Providence
+1|NexGen Mechanical Inc|111 Plan Way||Warwick
+1|Neon Marketplace Operating I LLC|1140 Reservoir Avenue||Cranston
+1|PRIME HEALTHCARE SERVICES - LANDMARK LLC|115 CASS AVENUE||WOONSOCKET
+1|Prime Healthcare Services - Landmark LLC|115 Cass Ave||Woonsocket
+1|Prime Healthcare Services - Landmark LLC|115 Cass Avenue||Woonsocket
+1|Bryant University|1150 DOUGLAS PIKE||SMITHFIELD
+1|Bryant University|1150 Douglas Pike||Smithfield
+1|The Chanler Inc d/b/a The Chanler at Cliff Walk|117 Memorial Boulevard||Newport
+1|Emergent Risk International LLC|11F Bowler Lane||Newport
+1|Advanced Print Technologies LLC|12 Commercial Way||East Providence
+1|Animus Studios|120 Amaral Street|Unit 1|Riverside
+1|Claflin Service Company|1206 Jefferson Boulevard||Warwick
+1|Rhode Island Medical Imaging Inc|125 Metro Center Blvd.|Suite 2000|Warwick
+1|Rhode Island Medical Imaging Inc|125 Metro Center Boulevard|Suite 2000|Warwick
+1|Constant Technologies Inc|125 Steamboat Avenue||North Kingstown
+1|Designs International Inc|1263 Hartford Avenue||Johnston
+1|DASSAULT SYSTEMES SIMULIA CORP.|1301 ATWOOD AVENUE|SUITE 101W|JOHNSTON
+1|Shubhlakshmi Corp|132 Mendon Road|Suite 2|Cumberland
+1|FAMILY SERVICE OF RHODE ISLAND|134 THURBERS AVENUE|SUITE 102|PROVIDENCE
+1|Smartapp.com Inc|1350 Division Road|Suite 301|West Warwick
+1|Mehran Javid DMD - RI Dental, LTD.|1351 South County TRail|Suite 120|East Greenwhich
+1|Mehran Javid DMD - RI Dental, LTD.|1351 South County Trail|Suite 120|East Greenwhich
+1|Machupicchu Restaurant LLC|1366 Chalkstone Ave||Providence
+1|The Granny Squibb Company LLC|14 Boy Scout Drive||Westerly
+1|State of Rhode Island|14 Harrington Road||Cranston
+1|3SIX0 LLC|146 Westminster St||Providence
+1|OCEAN STATE VETERINARY SPECIALISTS LTD|1480 S COUNTY TRAIL||EAST GREENWICH
+1|Ocean State Veterinary Specialists|1480 S County Trail||East Greenwich
+1|United Natural Foods Inc|15 Park Row West|3rd Floor,|Providence
+1|Traverse Landscape Architects LLC|150 Chestnut Street|4th Floor|Providence
+1|Chatterton Insurance Inc|150 Main Street|2nd Floor North|Pawtucket
+1|Splitwise Inc|150 Union St. No. 606||Providence
+1|Splitwise Inc|150 Union St., No. 606||Providence
+1|IT1STOP INC|1515 Smith St., Unit N||North Providence
+1|Plan International USA Inc|155 Plan Way||Warwick
+1|AVTECH Software Inc|16 Cutler Street||Warren
+1|CONFORMLAB LLC|16 DOVE STREET||PROVIDENCE
+1|Union Studio Architecture & Community Design|160 Mathewson Street|Suite 201|Providence
+1|Caretracker Inc|1600 Division Road|Suite 2000|West Warwick
+1|The Miriam Hospital|164 Summit Ave|N/A|Providence
+1|The Miriam Hospital|164 Summit Avenue||Providence
+1|Glasgow Consulting Group LLC|165 Dean Knauss Dr||Narragansett
+1|Lifespan Corporation|167 Point Street||Providence
+1|02908 Holdco LLC|168 Eaton Street||Providence
+1|Marstone Inc|171 Chestnut Street|Suite 200|Providence
+1|Thundermist Health Center|171 SERVICE AVENUE|Building 2|Warwick
+1|J. ARTHUR & COMPANY LLC|174 Bellevue Avenue|Ste 309|Newport
+1|Ngapuhi Polo LLC|180 Narragansett Ave||Newport
+1|EpiVax Inc|188 Valley Street|Suite 424|Providence
+1|GVK IT Inc|191 Social St|Unit 745|Woonsocket
+1|Brown Urology|195 Collyer Street|Suite 201|Providence
+1|Rhode Island School of Design|2 College Street||Providence
+1|Rhode Island School of Design|20  Washington Place||Providence
+1|Barlow Designs Inc|20 Commercial Way||E Providence
+1|ALCOR Scientific LLC|20 Thurber Blvd||Smithfield
+1|ALCOR Scientific LLC|20 Thurber Blvd.||Smithfield
+1|Rhode Island School of Design|20 Washington Place||Providence
+1|REGENT Craft Inc|200 Callahan Road||North Kingstown
+1|Woonsocket Head Start Child Development Association Inc|204 Warwick St||Woonsocket
+1|Nexgen Mechanical Inc|205 Hallene Road|Unit 106|Warwick
+1|Achievement First Inc|206 Elwood Avenue||Providence
+1|Nuestro Mundo Public Charter School|21 Gordon Ave||Providence
+1|P.R.I.M.A. Inc|2178 Mendon Road|Suite 100|Cumberland
+1|GBC Association|220 Sand Hill Cove Road||Narragansett
+1|RNMKRS Inc|225 Dyer St.||Providence
+1|OTRANDO PORCARO & ASSOCIATES, LTD.|2258 Post Road||Warwick
+1|Windmoeller & Hoelscher Corporation|23 New England Way||Lincoln
+1|MIedu Group Inc|230 Nayatt Road||Barrington
+1|ENNOVI ADVANCED MOBILITY SOLUTIONS RHODE ISLAND INC|231 FERRIS AVENUE||RUMFORD
+1|J Life Mart LLC|231 Thayer Street||Providence
+1|DiLeonardo International Inc|2348 Post Road, Suite 501||Warwick
+1|Blue Moon Industries Inc|235 Promenade St.|Suite 400|Providence
+1|K2 Partnering Solutions (West) Inc|235 Promenade Street|Suite 298|Providence
+1|BEGO USA INC|24 ALBION ROAD|SUITE 103|LINCOLN
+1|SquadLocker Inc|240 Bald Hill Road||Warwick
+1|Embrace Home Loans Inc|25 Enterprise Center||Middletown
+1|Hands in Harmony Inc|25 W Independence Way|Suite B|Kingston
+1|HEXAGON METROLOGY INC|250 CIRCUIT DR||N KINGSTOWN
+1|Hexagon Manufacturing Intelligence Inc|250 Circuit Dr||North Kingstown
+1|Hexagon Manufacturing Intelligence Inc|250 Circuit Drive||North Kingstown
+1|Moses Brown School Inc|250 Lloyd Avenue||Providence
+1|igus Bearings Inc|257 Ferris Avenue||Rumford
+1|F.A.F. Inc|26 Lark Industrial Parkway||Greenville
+1|Plan International USA Inc|275 Promenade Street|Suite 225|Providence
+1|Marinosci Law Group, P.C.|275 W. Natick Road|STE 500|Warwick
+1|Thrive Behavioral Health Inc|2756 Post Road||Warwick
+1|MIedu Group Inc|2823 Pawtucket Ave||Riverside
+1|PLUM DENTAL RI LLC|29 UPDIKE AVENUE||NORTH KINGSTOWN
+1|State of Rhode Island|3 CAPITOL HILL||Providence
+1|State of Rhode Island|3 Capitol Hill||Providence
+1|Software Quality Associates LLC|3 Davol Square|Suite B-200|Providence
+1|Flux Marine Ltd|3 Division Street||East Greenwich
+1|Macari Properties Inc|30 Martin Street||Cumberland
+1|Weinberg & Co., LLP|300 Centerville Road|Suite 350|Warwick
+1|HCH Enterprises LLC|3016 Post Road||Warwick
+1|AIPSO|302 Central Avenue||Johnston
+1|Walco Electric Company|303 Allens Avenue||Providence
+1|BLOUNT FINE FOODS CORP.|308 Market Street||Warren
+1|Lindon Group Inc|310 Bourne Avenue|Building 67F|Rumford
+1|Rhode Island Mayoral Academy, Blackstone Valley Prep|310 Broad Street||Cumberland
+1|COMPREHENSIVE COMMUNITY ACTION INC|311 DORIC AVENUE||CRANSTON
+1|United Natural Foods Inc|313  Iron Horse Way||Providence
+1|United Natural Foods Inc|313 Iron Horse Way||Providence
+1|Brewster Thornton Group Architects, LLP|317 Iron Horse Way|Suite 202|Providence
+1|Nephrology Associates Inc|318 WATERMAN AVENUE||EAST PROVIDENCE
+1|Unetixs Vascular Inc|333 Strawberry Field Road|Suite 11|Warwick
+1|Hotel Asset Value Enhancement Inc|333 Westminster Street|Suite 3|Providence
+1|International Charter School|334 Pleasant Street||Pawtucket
+1|Spouting Rock Beach Association|34 Ocean Avenue||Newport
+1|Butler Hospital|345 BLACKSTONE BOULEVAROAD||Providence
+1|David Sisson Architecture PC|345 Taunton Avenue||East Providence
+1|ViroGen Corp|35 Chastellux Avenue|Suite C|Newport
+1|Brown University|350 Eddy Street|Box 1913|Providence
+1|JAMES J DUFFY INCORPORATED|350 Walcott Street||Pawtucket
+1|TPI Inc|373 Market Street||Warren
+1|THE PROVIDENCE COMMUNITY HEALTH CENTERS INC|375 ALLENS AVENUE||Providence
+1|CPA TAX AND FINANCIAL SERVICE INC|3945 POST ROAD||WARWICK
+1|Nordson EFD LLC|40 Catamore Blvd||E. Providence
+1|Veterans Assembled Electronics LLC|40 Fountain Street|8th Floor|Providence
+1|Community College of Rhode Island|400 East Avenue||Warwick
+1|Tedor Pharma Inc|400 Highland Corporate Drive||Cumberland
+1|Cardi Corporation|400 Lincoln Avenue||Warwick
+1|Mighty Well Inc|402 Pontiac Avenue||Cranston
+1|James L Gallagher Inc|408 W Main Road||Little Compton
+1|NARRAGANSETT BAY ANESTHESIA LLC|42 Oriental Street||Providence
+1|Clarke Industrial Engineering Inc|42 Whitecap Drive||North Kingstown
+1|SOUTH COUNTY PSYCHIATRY LLC|420 SCRABBLETOWN ROAD|SUITE A|NORTH KINGTOWN
+1|Delta Mechanical Contractors LLC|44 Wilclar Street||Warwick
+1|WESTFORD ASSOCIATES, LP|45 PARK PLACE||PAWTUCKET
+1|AFFINITY PHYSICIANS LLC|45 Willard Avenue||Providence
+1|Kent County Memorial Hospital|455 Toll Gate Road||Warwick
+1|The Paul Cuffee School|459 PROMENADE STREET||Providence
+1|Blount Boats Inc|461 Water Street||Warren
+1|SOUTH COUNTY PSYCHIATRY LLC|47 Danielson Pike||NORTH SCITUATE
+1|Gourd Revival LLC|47 Rathbone street||Providence
+1|Bay State Book Company LLC|473 Saint Paul St.||N Smithfield
+1|Pharmaron Manufacturing Services (US) LLC|498 Washington St.||Coventry
+1|Pharmaron Manufacturing Services (US) LLC|498 Washington Street||Coventry
+1|C.A. Pretzer Associates Inc|50 Freeway Drive||Cranston
+1|Starburst Labs Inc|50 Park Row W|Suite 907|Providence
+1|Teknor Apex Company|505 Central Avenue||Pawtucket
+1|Montessori Childrens House Inc|518 Lloyd Avenue||Providence
+1|N2 COMMUNICATIONS LLC|52 Modena Ave||Providence
+1|Srilu Information Systems Inc|54 Silo Drive||Cumberland
+1|Pine Grove Christian Academy|5415 Highway 557||Clover
+1|Research Engineering & Manufacturing Inc|55 Hammarlund Way||Middletown
+1|FAMILY SERVICE OF RHODE ISLAND|55 Hope Street||PROVIDENCE
+1|A.T. WALL COMPANY|55 SERVICE AVENUE||WARWICK
+1|Edesia Inc|550 Roman Vineyard Way||North Kingstown
+1|Boys & Girls Clubs of Providence|550 Wickenden Street||Providence
+1|Northeast Water Solutions Inc|567 South County Trail||Exeter
+1|HappyNest Inc|5700 Post Road||East Greenwich
+1|City of Central Falls|580 Broad St||Central Falls
+1|Radish Patch LLC|580 Thames Street||Newport
+1|WTL Health Clinic Inc|59 Prospect Street|Suite A|Pawtucket
+1|RHODE ISLAND HOSPITAL|593 EDDY STREET||PROVIDENCE
+1|cumberland animal hospital|6 Pound road||Cumberland
+1|Nabsys 2.0 LLC|60 Clifford Street||Providence
+1|AstroNova Inc|600 East Greenwich Avenue||West Warwick
+1|Rhode Island College|600 Mt. Pleasant Avenue||Providence
+1|BRUIN PLASTICS CO. INC|61 JOSLIN ROAD||GLENDALE
+1|East Bay Community Action Program|610 Wampanoag Trail||East Providence
+1|ASIA RESTAURANTS INC|622 GEORGE WASHINGTON HIGHWAY, LINCOLN MALL||LINCOLN
+1|Asia Restaurants Inc|622 George Washington Highway, Lincoln Mall||Lincoln
+1|Knowledge Support Systems Inc|640 George Washington Hwy|Building A, Suite 100|Lincoln
+1|Eurofins Environment Testing Northeast LLC|646 Camp Avenue||North Kingstown
+1|NWN Corporation|659 S. Country Trail||Exeter
+1|NWN CORPORATION|659 S. County Trail||Exeter
+1|Falvey Insurance Group, Ltd.|66 Whitecap Drive||North Kingstown
+1|Rhode Island Philharmonic Orchestra & Music School|667 Waterman Avenue||East Providence
+1|SEVEN HILLS RHODE ISLAND INC|68 CUMBERLAND STREET|SUITE 100|WOONSOCKET
+1|Brown University|69 Brown Street, Page-Robinson Hall|Suite 420|Providence
+1|Contempo Card Company Inc|69 Tingley Street||Providence
+1|Rhode Island Mayoral Academy, Blackstone Valley Prep|7 Fatima Drive||Cumberland
+1|Momentum Inc|715 Putnam Pike||Greenville
+1|The French-American School of Rhode Island|75 John Street||Providence
+1|Brown Surgical Associates|75 Newman Avenue||Rumford
+1|VIBCO Inc|75 Stilson Road||Wyoming
+1|University of Rhode Island Foundation and Alumni Engagement|79 Upper College Road||Kingston
+1|Johnson & Wales University|8 Abbott Park Place||Providence
+1|FUJIFILM Electronic Materials U.S.A. Inc|80 Circuit Drive||North Kingstown
+1|SEVEN HILLS RHODE ISLAND INC|80 FABIEN STREET||WOONSOCKET
+1|University of Rhode Island|80 Lower College Road||Kingston
+1|University of Rhode Island|80 Lower College Road, HR (URI)||Kingston
+1|Prospect CharterCARE Physicians LLC|825 Chalkstone Avenue||Providence
+1|Ocean State Research Institute Inc|830 Chalkstone Avenue|Building 35|Providence
+1|KOANN THERAPEUTIC SERVICES INC|845 NORTH MAIN ST||PROVIDENCE
+1|Peoples Credit Union|858 W Main Road||Middletown
+1|Building Enclosure Science LLC|859 North Main Street||Providence
+1|Loren Hope Designs LLC|86 William Street||Newport
+1|PPM North America Inc|87 Dewey Avenue||Warwick
+1|ADIL BUSINESS SYSTEMS INC|873 WARWICK AVENUE||WARWICK
+1|Reed Semiconductor|875 Centerville Road||Warwick
+1|Feast & Fettle Inc|881 Waterman Ave||EAST PROVIDENCE
+1|Expert Medical Navigation Inc d/b/a Santovia|9 West Ridge Road||Tiverton
+1|Infor (US) LLC|91 Point Judith Road|Suite 26 313|Narragansett
+1|Neighborhood Health Plan of Rhode Island|910  Douglas Pike||Smithfield
+1|Neighborhood Health Plan of Rhode Island|910 Douglas Pike||Smithfield
+1|IG Entertainment RI LLC|920 Bald Hill Road||Warwick
+1|Lockheed Architectural Solutions Inc|925 S. Main Street||Pascoag
+1|THE GREENE SCHOOL|94 JOHN POTTER ROAD||WEST GREENWICH
+1|Santiago Medical Group|967 Mineral Spring Ave||North Providence
+1|Santiago Medical Group|967 Mineral Spring Mineral Avenue||North Providence
+1|Mills & Born LLC|999 Chalkstone Avenue||Providence
+1|The Empowerment Factory|999 Main Street|707|Pawtucket
+1|Roger Williams University|ONE OLD FERRY ROAD||BRISTOL
+1|The Beacon Mutual Insurance Company|One Beacon Centre||Warwick
+1|Citizens Financial Group Inc|One Citizens Bank Way||Johnston
+1|Nixon Peabody LLP|One Citizens Plaza|Suite 500|Providence
+1|ACS Industries Inc|One New England Way||Lincoln
+1|K2 Partnering Solutions Inc|PO Box 9568||Providence
+1|Brown University|Page-Robinson Hall, Third Floor|69 Brown Street, Box 1906|Providence
+1|Rhode Island School of Design|Two College Street||Providence
+1|Aetna Resources LLC|c/o CVS Health 695 George Washington Avenue||Lincoln
+(423 rows)

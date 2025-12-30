@@ -1,0 +1,925 @@
+count|employer_name|employer_address1|employer_address2|employer_city
+10|Robotics Technologies LLC|322 N 3ROAD AVE|STE 117|DURANT
+10|CLOUD BIG DATA TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 111|DURANT
+10|VCLOUD TECHNOLOGY GROUP LLC|322 N 3ROAD AVE|SUITE 115|DURANT
+10|ROBOTICS TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 117|DURANT
+10|3D TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 119|DURANT
+10|AUTOMATION TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 121|DURANT
+10|MACHINE LEARNING TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 123|DURANT
+10|ARTIFICIAL INTELLIGENCE TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 125|DURANT
+10|DIGITAL TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 127|DURANT
+10|QUANTUM TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 129|DURANT
+6|Department of Veteran Affairs|921 NE 13th Street|Suite 2200|Oklahoma City
+6|Department of Veteran Affairs Medical Center|921 NE 13th Street||OKLAHOMA CITY
+6|US Department of Veteran Affairs|921 NE 13th Street||Oklahoma City
+6|Department of Veteran Affairs|921 NE 13th Street||Oklahoma City
+6|Department of Veterans Affairs Medical Center|921 NE 13th Street||Oklahoma City
+6|Department of Veterans Affairs|921 NE 13th Street||Oklahoma City
+5|Loves Travel Stops & Country Stores Inc|10601 N. Pennsylvania Avenue|N/A|Oklahoma City
+5|Trillium Transportation Fuels LLC|10601 N. Pennsylvania Avenue|N/A|Oklahoma City
+5|Trillium Transportation Fuels LLC|10601 N. Pennsylvania Avenue||Oklahoma City
+5|Loves Travel Stops & Country Stores Inc|10601 N. Pennsylvania Avenue||Oklahoma City
+5|Musket Corporation|10601 N. Pennsylvania Avenue||Oklahoma City
+5|Power Costs Inc|301 David L Boren Blvd|Ste 2000|Norman
+5|PCI Energy Solutions f.k.a. Power Costs Inc|301 David L Boren Blvd|Suite 2000|Norman
+5|Power Costs Inc|301 David L Boren Blvd|Suite 2000|Norman
+5|PCI Energy Solutions a.k.a. Power Costs Inc|301 David L Boren Blvd|Suite 2000|Norman
+5|PCI Energy Solutions|301 David L Boren Blvd|Suite 2000|Norman
+5|UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER|865 Research Parkway|Suite 270|Oklahoma City
+5|University of Oklahoma Health Sciences Center|865 Research Parkway|Suite 270|Oklahoma City
+5|University of Oklahoma Health Sciences Center|865 Research Parkway|Suite 275|Oklahoma City
+5|The University of Oklahoma Health Sciences Center|865 Research Parkway|Suite 275|Oklahoma City
+5|UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER|865 Research Parkway|Suite 275|Oklahoma City
+4|OU Medicine Inc|1200 Childrens Avenue|Suite 1100|Oklahoma City
+4|OU Health Partners Inc|1200 Childrens Avenue|Suite 1100|Oklahoma City
+4|OU Health Partners Inc|1200 Childrens Avenue|Suite 11200|Oklahoma City
+4|OU Medicine Inc|1200 Childrens Avenue|Suite 11200|Oklahoma City
+4|Stonebridge Acquisition Inc|4200 E. Skelly Drive|Suite 100|Tulsa
+4|AiRo Digital Labs LLC|4200 E. Skelly Drive|Suite 1000|Tulsa
+4|Stonebridge Acquisition Inc|4200 E. Skelly Drive|Suite 1000|Tulsa
+4|Stonebridge Acquisitions Inc|4200 E. Skelly Drive|Suite 1000|Tulsa
+4|Paycom Payroll Inc|7501 West Memorial Road||Oklahoma City
+4|Paycom Payroll LLC|7501 West Memorial Road||Oklahoma City
+4|Paycom Payroll  LLC|7501 West Memorial Road||Oklahoma City
+4|Paycom Payroll LLC|7501 West Memorial Road||Oklahoma
+4|Norman Regional Health System|901 N. Porter Avenue||NOrman
+4|Norman Regional Hospital Authority ( an Oklahoma Public Trust)|901 N. Porter Avenue||Norman
+4|Norman Regional Health System|901 N. Porter Avenue||Norman
+4|Norman Regional Hospital Authority (an Oklahoma Public Trust)|901 N. Porter Avenue||Norman
+3|Verinovum Inc|100 S. Cincinnati Avenue|5th Floor|Tulsa
+3|iRefer USA Inc|100 S. Cincinnati Avenue|Floor 5|Tulsa
+3|Opnbxai Inc|100 S. Cincinnati Avenue|Ste 508|Tulsa
+3|FX Replay Inc|101 Park Avenue|Suite 1300|Oklahoma City
+3|Skyler Info Systems Inc|101 Park Avenue|Suite 1300|Oklahoma City
+3|Skyler Info systems Inc|101 Park Avenue|Suite 1300|Oklahoma City
+3|capSpire Inc|11 E. 5th St.|Suite 500|Tulsa
+3|Gravitate Energy LLC|11 E. 5th St.|Suite 500|Tulsa
+3|capSpire LLC|11 E. 5th St.|Suite 500|Tulsa
+3|WTI Holdings LLC|110 S Hartford Avenue|2502|Tulsa
+3|WTI Holdings LLC (DBA Waterfield Innovations DBA Waterfield Technologies)|110 S Hartford Avenue|2502|Tulsa
+3|WTI Holdings LLC|110 S Hartford Avenue|Suite 2502|Tulsa
+3|Le Monde International School|1123 E Main St||Norman
+3|LE MONDE INTERNATIONAL SCHOOL PUBLIC CHARTER OF NORMAN OK|1123 E Main St||Norman
+3|Le Monde International School, Public Charter of Norman OK|1123 E Main St||Norman
+3|Helmerich & Payne Management LLC|1437 S. Boulder Avenue|Suite 1400|Tulsa
+3|Helmerich & Payne Inc|1437 S. Boulder Avenue|Suite 1400|Tulsa
+3|MPW Engineering LLC|1437 S. Boulder Avenue|Suite 400|Tulsa
+3|Matrix Applied Technologies Inc|15 E. 5th Street|Suite 1100|Tulsa
+3|MATRIX PDM ENGINEERING INC|15 E. 5th Street|Suite 1100|Tulsa
+3|Matrix PDM Engineering Inc|15 E. 5th Street|Suite 1100|Tulsa
+3|B and T GROUP|1717 SOUTH BOULDER AVENUE|SUITE 300|TULSA
+3|B&T GROUP|1717 SOUTH BOULDER AVENUE|SUITE 300|TULSA
+3|B AND T GROUP|1717 SOUTH BOULDER AVENUE|SUITE 300|TULSA
+3|APMEX Inc|226 Dean A. McGee Avenue||Oklahoma City
+3|APMEX LLC|226 Dean A. McGee Avenue||Oklahoma City
+3|American Precious Metals Exchange Inc|226 Dean A. McGee Avenue||Oklahoma City
+3|OpenFusion LLC|2800 W Gore Blvd|CETES Bldg 2nd Floor|Lawton
+3|Higher Education Institution|2800 W Gore Blvd||Lawton
+3|Cameron University|2800 W Gore Blvd||Lawton
+3|PEREGRINE STEEL LLC|2801 Roxburgh Ct.||Edmond
+3|Vincit Consulting Services Inc|2801 Roxburgh Ct.||Edmond
+3|PRGRIN LLC|2801 Roxburgh Ct.||Edmond
+3|BattleCreek Church|3025 North Aspen||Tulsa
+3|BattleCreek Church|3025 North Aspen||Broken Arrow
+3|The Church at Battlecreek|3025 North Aspen||BROKEN ARROW
+3|Oklahoma Gas & Electric Company|321 N. Harvey Avenue|MC 1007|Oklahoma City
+3|OGE Energy Corporation|321 N. Harvey Avenue|MC 1007|Oklahoma City
+3|Oklahoma Gas and Electric Company|321 N. Harvey Avenue||Oklahoma City
+3|OKLAHOMA PROTON CENTER LLC|5901 WEST MEMORIAL ROAD||OKLAHOMA CITY
+3|THE OKLAHOMA PROTON FOUNDATION|5901 WEST MEMORIAL ROAD||OKLAHOMA CITY
+3|THE OKLAHOMA PROTON CENTER LLC|5901 WEST MEMORIAL ROAD||OKLAHOMA CITY
+3|Climate Control Group Inc|7300 SW 44th Street||Oklahoma City
+3|ClimateMaster Inc|7300 SW 44th Street||Oklahoma City
+3|ClimaCool Corporation|7300 SW 44th Street||Oklahoma City
+3|Cherokee Nation Operational Solutions LLC|777 West Cherokee Street|N/A|Catoosa
+3|Cherokee Nation Assurance LLC|777 West Cherokee Street|N/A|Catoosa
+3|Cherokee Nation Assurance LLC|777 West Cherokee Street||Catoosa
+3|ARL Bio Pharma Inc|840 Research Parkway|Suite 100|Oklahoma City
+3|i2E Inc|840 Research Parkway|Suite 250|Oklahoma City
+3|ARL Bio Pharma Inc|840 Research Parkway|Suite 546|Oklahoma City
+3|Classically Formed Inc|9238 S Sheridan Road|206|Tulsa
+3|Classically Formed Inc|9238 S Sheridan Road|STE 206|Tulsa
+3|Classically Formed Inc|9238 S Sheridan Road||Tulsa
+3|BOKF, N.A.|One Williams Center|Floor 14|Tulsa
+3|Williams WPC-I LLC|One Williams Center|Suite 4700|Tulsa
+3|BOKF, NA|One Williams Center||Tulsa
+2|Johnson & Associates LLC|1 E Sheridan Ave|STE 200|Oklahoma City
+2|Johnson and Associates LLC|1 E Sheridan Ave|STE 200|Oklahoma City
+2|AR IT Software Solutions LLC|100 NE 5th Street|1st Floor|Oklahoma City
+2|Vantage Open MRI LLC|100 NE 5th Street||Oklahoma City
+2|USA Rare Earth Magnets LLC|100 West Airport Road||Stillwater
+2|USA RARE EARTH LLC|100 West Airport Road||Stillwater
+2|RICHARD C. LABARTHE, PC|1000 W. Wilshire Blvd.|Suite 355|Oklahoma City
+2|Labarthe Law LLC|1000 W. Wilshire Blvd.|Suite 355|Oklahoma City
+2|Muskogee VAMC|1011 Honor Heights Drive||Muskogee
+2|Eastern Oklahoma VA Health Care System|1011 Honor Heights Drive||Muskogee
+2|Gina Sofola & Associates Inc|105 N Hudson Avenue|Suite 202|Oklahoma City
+2|GINA SOFOLA & ASSOCIATES INC|105 N Hudson Avenue|Suite 202|Oklahoma City
+2|Infinite Composites Inc|10738 E 55th Place||Tulsa
+2|CleanNG LLC|10738 E 55th Place||Tulsa
+2|Expressways Rental Properties LLC|1111 N. Lee Avenue|Suite 215|Oklahoma City
+2|Metro Physicians LLC|1111 N. Lee Avenue|Suite 305|Oklahoma City
+2|Wheeler Bio Inc|120 Robert S. Kerr Avenue|Suite 701|Oklahoma City
+2|Wheeler Bio Inc|120 Robert S. Kerr Avenue||Oklahoma City
+2|Enviro Systems Inc|12037 North Highway 99||Seminole
+2|Safran Ventilation Systems Oklahoma Inc|12037 North Highway 99||Seminole
+2|SWEP North America Inc|12122 East 55th Street|STE A and B|Tulsa
+2|SWEP NORTH AMERICA INC|12122 East 55th Street|Suite A & B|Tulsa
+2|NTC TRUCKING LLC|1240 W HIGHWAY 277||Ninnekah
+2|NTC TRUCKING LLC|1240 W HIGHWAY 277||NINNEKAH
+2|Community Health Centers Inc|12716 NE 36th Street||Spencer
+2|Community Health Centers of Oklahoma|12716 NE 36th Street||Choctaw
+2|Fundamentals Therapy|1402 BROOKVIEW||ARDMORE
+2|Fundamentals Therapy Clinic LLC|1402 BROOKVIEW||ARDMORE
+2|SGA Design Group, P.C.|1437 S. Boulder|Suite 550|Tulsa
+2|Helmerich & Payne Management LLC|1437 S. Boulder||Tulsa
+2|Helmerich & Payne Management LLC|1437 South Boulder Avenue|222 N. Detroit Avenue|Tulsa
+2|Helmerich & Payne Management LLC|1437 South Boulder Avenue|Suite 1400|Tulsa
+2|Matrix Applied Technologies Inc|15 East 5th Street|Suite 1100|Tulsa
+2|ONE Gas Inc|15 East 5th Street||Tulsa
+2|W&W Steel Erectors LLC|1730 W. Reno||Oklahoma City
+2|W&W AFCO Steel LLC|1730 W. Reno||Oklahoma City
+2|Choctaw Nation of Oklahoma|1801 Chukka Hina Dr.||Durant
+2|Choctaw Nation Health Services Authority|1801 Chukka Hina Dr.||Durant
+2|St. John Physicians Inc|1923 S. Utica Avenue||Tulsa
+2|Ascension St. John Medical Center Inc|1923 S. Utica Avenue||Tulsa
+2|INCOG (Indian Nations Council of Governments)|2 W 2nd Street|Suite 800|Tulsa
+2|CommunityCare Managed Healthcare Plans of Oklahoma|2 W 2nd Street|Williams Center Tower II, Suite 100|Tulsa
+2|Talisman Consulting LLC|215 E 5th St|Ste G|Okmulgee
+2|Talisman LLC|215 E 5th St|Ste G|Okmulgee
+2|Loveworks Leadership Inc|2227 W. Lindsey St.|STE 1200|Norman
+2|Loveworks Leadership Inc|2227 W. Lindsey St.||Norman
+2|William Velie Attorneys at Law, PLLC|225 N. Peters Avenue|Suite 1|Norman
+2|William Velie Attorneys at Law, PLLC|225 N. Peters Avenue||Norman
+2|LynnCo Supply Chain Solutions Inc|2448 East 81st Street|Suite 2600|Tulsa
+2|LynnCo Supply Chain Solutions Inc|2448 East 81st Street|Suite 2800|Tulsa
+2|Oklahoma Christian University|2501 E Memorial Road||Edmond
+2|U DINING LLC|2501 E Memorial Road||Edmond
+2|Gabrovski Law Firm PLLC|2933 NW 156th Street||Edmond
+2|Gabrovski Law Firm|2933 NW 156th Street||Edmond
+2|INTEGRIS HEALTH INC|3001 Quail Springs Parkway|Floor 2|Oklahoma City
+2|INTEGRIS HEALTH INC|3001 Quail Springs Parkway||Oklahoma City
+2|POWER COSTS INC|301 DAVID L BOREN BLVD|STE 2000|NORMAN
+2|Power Costs Inc|301 DAVID L BOREN BLVD|STE 2000|Norman
+2|Independent School District 1 of Tulsa|3027 S. New Haven Avenue|3rd Floor|Tulsa
+2|Independent School District 1 of Tulsa|3027 S. New Haven Avenue||Tulsa
+2|Devon Energy Production Company, LP|333 W. Sheridan Avenue||Oklahoma City
+2|Devon Energy Corporation|333 W. Sheridan Avenue||Oklahoma City
+2|MetaproUSA LLC|333 West Main Street|267|Ardmore
+2|MetaproUSA LLC|333 West Main Street|Suite 267|Ardmore
+2|University of Oklahoma|339 W Boyd Street|WH Rm 223|Norman
+2|University of Oklahoma|339 W Boyd Street|WH Suite 223|Norman
+2|University of Oklahoma|339 West Boyd Street|WH Rm 223|Norman
+2|University of Oklahoma|339 West Boyd Street||Norman
+2|Fiber Mountain Technologies Inc|3401 Macdonnell Dr||Norman,
+2|Green Lambda Corporation|3401 Macdonnell Dr||Norman,
+2|Oklahoma Heart Hospital|4050 W Memorial Road||Oklahoma City
+2|Oklahoma Heart Hospital|4050 W Memorial Road||Oklahoma CIty
+2|JFA LLC|41501 Wolverine Road||Shawnee
+2|Jindal Films Americas LLC|41501 Wolverine Road||Shawnee
+2|KeyBridge Technologies LLC|4415 Highline Blvd||OKLAHOMA CITY
+2|KeyBridge Technologies Inc|4415 Highline Blvd||Oklahoma City
+2|RAE CORPORATION|4492 Hunt Street|N/A|PRYOR
+2|The RAE Corporation|4492 Hunt Street||Pryor
+2|LifeShare Transplant Donor Services of Oklahoma Inc|4705 NW Expressway||Oklahoma City
+2|LifeShare Network Inc|4705 NW Expressway||Oklahoma City
+2|Coop Ale Works LLC|4745 Council Heights||Oklahoma City
+2|COOP Ale Works LLC|4745 Council Heights||Oklahoma City
+2|Matrix Applied Technologies Inc|5100 E. Skelly Drive|Suite 100|Tulsa
+2|Matrix PDM Engineering Inc|5100 E. Skelly Drive|Suite 800|Tulsa
+2|West side alliance soccer club|5214 Greenan Drive||Sand Springs
+2|West Side Alliance Soccer|5214 Greenan Drive||Sand Springs
+2|HSPG & Associates OC|5400 N Grand Blvd|Suite 330|OKlahoma City
+2|HSPG & Associates OC|5400 N Grand Blvd|Suite 330|Oklahoma City
+2|Putnam City School|5401 NW 40th St||Oklahoma City
+2|Putnam City Schools|5401 NW 40th St||Oklahoma City
+2|Technotherm Corporation|5505 W. 66th Place||Tulsa
+2|Technotherm LLC|5505 W. 66th Place||Tulsa
+2|Northeastern State Unversity|600 N. Grand Avenue||Tahlequah
+2|Northeastern State University|600 N. Grand Avenue||Tahlequah
+2|Dean McGee Eye Institute|608 Stanton L. Young Blvd||Oklahoma City
+2|DEAN MCGEE EYE INSTITUTE|608 Stanton L. Young Blvd||Oklahoma City
+2|GDH Consulting Inc|6100 S. Yale Avenue|Suite 1000|Tulsa
+2|GDH Consulting Inc|6100 S. Yale Avenue|Suite 1815|Tulsa
+2|Reflections Systems Inc|619 W Main St||Oklahoma City
+2|Reflections systems INC|619 W Main St||Oklahoma City
+2|Improving Lives Counseling Services Inc|6216 S. Lewis Avenue|Ste 180|Tulsa
+2|Improving Lives Counseling Services Inc|6216 S. Lewis Avenue|Suite 180|Tulsa
+2|Osteopathic Physicians of Tulsa Inc|6465 S Yale Ave|Ste 401|Tulsa
+2|TNI/KSO, P.C.|6465 S Yale Ave|Ste 507|Tulsa
+2|Santa Fe South Schools|7000 Crossroads Blvd|Suite 4000|Oklahoma City
+2|Santa Fe South Schools Inc|7000 Crossroads Blvd|Suite 4000|Oklahoma City
+2|Paycom Payroll LLC|7501 W. Memorial Road||Oklahoma City
+2|Paycom Payroll LLC|7501 W. Memorial Road||Oklahoma
+2|SENTINEL POWER SERVICES LLC|7517 EAST PINE STREET||TULSA
+2|SENTINEL POWER SERVICES INC|7517 EAST PINE STREET||TULSA
+2|Hobby Lobby Stores Inc|7707 S.W. 44TH ST.||Oklahoma City
+2|Mardel Inc|7707 S.W. 44TH ST.||Oklahoma City
+2|Objectstream Inc|7725 W Reno Avenue|Suite 307|Oklahoma City
+2|ObjectStream Inc|7725 W Reno Avenue|Suite 307|Oklahoma City
+2|Dollar Saver Stores Inc|777 Legacy Trail||Ponca City
+2|TurnTable Energy Inc|777 Legacy Trail||Ponca City
+2|UNIVERSITY OF TULSA|800 SOUTH TUCKER DRIVE||TULSA
+2|THE UNIVERSITY OF TULSA|800 SOUTH TUCKER DRIVE||TULSA
+2|Lakewood Christian Church|840 South George Nigh Expressway||McAlester
+2|Lakewood Christian Church of McAlester, Oklahoma|840 South George Nigh Expressway||McAlester
+2|University of Oklahoma|905 Asp Ave|NEL Rm 205|Norman
+2|University of Oklahoma|905 Asp Ave|NEL Rm 208|Norman
+2|Oklahoma Wholesale Outlet Inc|912 SE 44th Street||Oklahoma City
+2|JBM ASSETS LLC|912 SE 44th Street||Oklahoma City
+2|Dove Schools Inc|9212 N. Kelley Avenue|Suite 100|Oklahoma
+2|Dove Schools Inc|9212 N. Kelley Avenue|Suite 100|Oklahoma City
+2|Mercer Valve Co. Inc|9609 NW 4th St|N/A|OKLAHOMA CITY
+2|Mercer Valve Company Inc|9609 NW 4th St|N/A|OKLAHOMA CITY
+2|CommunityCare Managed Healthcare Plans of Oklahoma Inc|Williams Center Tower II, Two West Second Street|Suite 100|Tulsa
+2|CommunityCare HMO Inc|Williams Center Tower II, Two West Second Street|Suite 100|Tulsa
+1|McAlester Regional Health Center|1  Clark Bass Blvd||McAlester
+1|Choctaw Nation of Oklahoma|1 Choctaw Way||Talihina
+1|McAlester Regional Health Center Authority|1 Clark Bass Blvd||McAlester
+1|McAlester Regional Health Center Authority|1 E Clark Bass Blvd.||McAlester
+1|McAlester Regional Health Center Authority|1 E Clark Bass Boulevard||McAlester
+1|McALESTER REGIONAL HEALTH CENTER|1 EAST CLARK BASS BOULEVAROAD||McALESTER
+1|Pre-Paid Legal Services Inc|1 Pre-Paid Way||Ada
+1|Sulzer Chemtech USA Inc|1 Sulzer Way||Tulsa
+1|WTI Holdings LLC|1 W 3rd Street|Suite 1115|Tulsa
+1|WTI Holdings LLC|1 West 3rd St N|STE 1115|Tulsa
+1|W Energy Software LLC|1 West 3rd Street|Suite 1115|Tulsa
+1|Southwestern Oklahoma State University|100 Campus Drive||Weatherford
+1|CLINTON HOSPITAL AUTHORITY|100 N 30TH ST||CLINTON
+1|KGENIUS INC|100 N QUAPAH AVENUE|SUITE H|OKLAHOMA CITY
+1|University of Central Oklahoma|100 N. University Drive||Edmond
+1|AR IT Software Solutions LLC|100 NE 5th Street, 1st Floor||Oklahoma City
+1|WriteSea Group INC|100 S Cincinnati Ave|Suite 533|Tulsa
+1|St. Thomas More University Parish|100 Stinson Street||Norman
+1|Langston University|100 Success Avenue||Langston
+1|SOUTHERN PLAINS MEDICAL CENTER OF GARVIN COUNTY LLC|100 Valley Drive||Pauls Valley
+1|ONEOK Services Company LLC|100 West Fifth Street||Tulsa
+1|ATC Drivetrain LLC|10001 NW 2nd Street||Oklahoma City
+1|Edmond Public Schools|1001  W Danforth||Edmond
+1|Oklahoma Blood Institute|1001 N Lincoln Blvd||Oklahoma City
+1|Oklahoma Blood Institute|1001 N Lincoln Blvd.||Oklahoma City
+1|Oklahoma Blood Institute|1001 N. Lincoln Blvd.||Oklahoma City
+1|Edmond Public Schools|1001 West Danforth||Edmond
+1|A & M Engineering and Environmental Services Inc|10010 E. 16th Street||Tulsa
+1|Harper County Community Hospital|1003 Hwy 64 North|P.O. Box 60|Buffalo
+1|MHM Support Services|1011  14th Ave NW||Ardmore
+1|Ragnar Research Partners LLC|1015 Waterwood Pkwy|Unit C|Edmond
+1|SageNet LLC|10205 E. 61st Street||Tulsa
+1|Crossings Community Clinic Inc|10255 N. Pennsylvania Avenue||Oklahoma City
+1|GINA SOFOLA & ASSOCIATES INC|1033 NE 4TH STREET|UNIT 104|OKLAHOMA CITY
+1|Monty L Cain, PC|10415 Greenbriar Place||Oklahoma City
+1|GINA SOFOLA & ASSOCIATES INC|105 Hudson Avenue|Suite 540|Oklahoma City
+1|Shoolin LLC|105 S. Bryant Ave|Ste 101|Edmond
+1|East Edmond Baptist Church Inc|1050 E 2nd Street|Suite 281|Edmond
+1|Fylo LLC|10500 E Covell Road||Arcadia
+1|Nortek Air Solutions LLC|106 N Industrial Blvd.||Okarche
+1|Oklahoma State University|106 Whitehurst||Stillwater
+1|Loves Travel Stops & Country Stores Inc|10601 N Pennsylvania Avenue||Oklahoma City
+1|MUSKET CORPORATION|10601 N. PENNSYLVANIA AVENUE||Oklahoma City
+1|Oklahoma State University|107 Wes Watkins Center||Stillwater
+1|Pioneer Telephone Cooperative Inc|108 E. Robberts Avenue||Kingfisher
+1|Atento Capital LLC|109 N Detroit Avenue||Tulsa
+1|Bixby County School District|109 N. Armstrong||Bixby
+1|Merrick & Company|110 S. Hartford Avenue|Suite 150|Tulsa
+1|East Central University|1100  E. 14th Street||Ada
+1|Ministries of Jesus Inc,|1100 East I-35 Frontage Road||Edmond
+1|St. Anthony Shawnee Hospital Inc|1102 W. MacArthur Street||Shawnee
+1|St. Anthony Shawnee Hospital Inc|1102 West MacArthur Street||Shawnee
+1|BridesView Inc|111 Harrison Avenue||Oklahoma City
+1|Advance Research Chemicals Inc (an Inhance Technologies company)|1110 W. Keystone Avenue||Catoosa
+1|Crescent Infectious Diseases, PLLC|1111 N Lee Ave|Suite 249|Oklahoma City
+1|National Center for Addiction Studies and Treatment Foundation|1111 W. 17th Street||Tulsa
+1|ROBERT ST PIERRE CPA PC|1113 NORTH SECOND ST.||STILWELL
+1|Gangajee LLC|1120 S. Mississippi Avenue||Atoka
+1|Newborn Specialists of Tulsa, P.C.|1120 S. Utica Avenue|Suite 2123|Tulsa
+1|University of Oklahoma Health Sciences Center|1122 NE 13 St.|Suite TB038|Oklahoma City
+1|University of Oklahoma Health Sciences Center|1122 NE 13th St|Suite TB038|Oklahoma City
+1|University of Oklahoma Health Sciences Center|1122 NE 13th St.|Suite TB038|Oklahoma City
+1|Le Monde International School, Public Charter of Norman|1123 East Main St||Norman
+1|Le Monde International School, Public Charter of Norman|1123 East Main Street||Norman
+1|Canadian Valley Electric Cooperative Inc|11277 Hwy 99 N||Seminole
+1|Mingo Aerospace|11310 E 81st St. N||Owasso
+1|Aviation Avionics and Instruments Inc|11310 E 81st Street North||Owasso
+1|DIGI SECURITY SYSTEMS LLC|11333 East 51st Place||Tulsa
+1|Oklahoma School of Science and Mathematics (OSSM)|1141 N Lincoln Blvd||Oklahoma City
+1|TULSA HOSPITALISTS INC|1145 S. UTICA AVENUE|SUITE 460|TULSA
+1|AHS Oklahoma Physician Group LLC d/b/a Utica Park Clinic|1145 S. Utica Avenue|Suite 110|Tulsa
+1|Thru Tubing Solutions Inc|11515 S. Portland Avenue||Oklahoma City
+1|Midwest Cooling Towers Inc|1156 E. Highway 19||Chickasha
+1|Focus Management Group LLC|118 N. 7th Ave||Durant
+1|John Zink Company LLC|11920 East Apache Street||Tulsa
+1|E-SAW WELDING & FABRICATION LLC|1200 E LOOMIS ROAD||WEATHERFORD
+1|Fairview Elementary School|1200 East Elm||Fairview
+1|Jackson County Memorial Hospital Authority|1200 East Pecan||Altus
+1|GC & S CO. Transpacific Inc|1200 S. Fretz  Ave||Edmond
+1|Oklahoma Montessori LLC|12008 N Virginia Avenue||Oklahoma City
+1|OKC Montessori LLC|12008 N. Virginia Avenue||Oklahoma City
+1|360 Engineering Group, PLLC|1201 E. 3rd Street||Tulsa
+1|360 ENGINEERING GROUP, PLLC|1201 EAST THIROAD STREET||TULSA
+1|Veridic Solutions LLC|1201 W Evergreen Street||Durant
+1|VERIDIC SOLUTIONS LLC|1201 W. EVERGREEN STREET||DURANT
+1|Veridic Solutions LLC|1201 W. Evergreen Street||Durant
+1|Pari 2403 LLC|12101 N MACARTHUR BLVD|STE A|OKLAHOMA CITY
+1|INDEPENDENT INTERNATIONAL BUSINESS CONSULTANTS LLC|1212 N YELLOWOOD AVENUE||BROKEN ARROW
+1|Independent International Business Consultants LLC (IIBC)|1212 N Yellowood Avenue||Broken Arrow
+1|SWEP North America Inc|12122  East 55th Street|STE A and B|Tulsa
+1|Tirech LLC|1215 NW|23rd St|Oklahoma City
+1|Tirech LLC|1215 NW ,23rd St||Oklahoma City
+1|Tirech LLC|1215 NW 23rd St||Oklahoma City
+1|Tiger Jungs World Class Taekwondo Inc|12200 N MACARTHUR BLVD|STE G|OKLAHOMA CITY
+1|JBM ASSETS LLC|12204 Bywater Road||Oklahoma City
+1|Eagle Summit Properties Inc|1225 E 33ROAD ST||Edmond
+1|Motive Inc|1226 NW 32nd St|Oklahoma City|Oklahoma
+1|Motive Inc|1226 NW 32nd St.||Oklahoma City
+1|Chinatown Supermarket LLC|1228 NW 27th Street||Oklahoma City
+1|Mustang Public Schools|12400 SW 15th St||Yukon
+1|Extract Production Services LLC|12502 E 55th St.||Tulsa
+1|Safety Radar Inc|1251 East 31st Court||Tulsa
+1|Launch Tulsa LLC|12601 S Memorial Drive||Bixby
+1|Launch Tulsa LLC|12601 South Memorial Drive||Bixby
+1|AHS Oklahoma Heart LLC|1265 S. Utica Ave|Suite 300|Tulsa
+1|AHS Oklahoma Heart LLC d/b/a Oklahoma Heart Institute|1265 South Utica Avenue||Tulsa
+1|Bespoken Embroidery & Customs LLC|12826 South Cedar Street||Jenks
+1|Traittek LLC|12950 Big Sky Dr||Edmond
+1|SLW Automotive Inc|1300  Buddy Spencer Ave||Sallisaw
+1|SLW Automotive Inc|1300 Buddy Spencer Ave||Sallisaw
+1|Millison Casting Technology LLC|1300 Buddy Spencer Avenue||Sallisaw
+1|SUMMER PALACE GARDEN SUPPLY LLC|1300 CORNELL PKWY|STE B|Oklahoma City
+1|Nortek Air Solutions LLC|1300 North Broadway Drive||Oklahoma City
+1|Fundamentals Therapy|1301 Kiowa St||ARDMORE
+1|Marshall Environmental Management Inc|1301 N Martin Luther King Avenue||Oklahoma City
+1|The Salvation Army|1306 E. Ave||Lawton
+1|Okie Fire Chicken LLC|1308 S. Choctaw||El Reno
+1|Okie Fire Chicken|1308 S. Choctaw Avenue||El Reno
+1|Tulsa Soccer Club|1325 E. 15th St.|Suite 202|Tulsa
+1|Tulsa Soccer Club|1325 E. 15th St., Suite 202|Suite 202|Tulsa
+1|Abundant Life Fellowship Church Inc|1330 N Cedar Avenue||Tahlequah
+1|Marquis Labs LLC|13301 N Meridian Ave|Ste 704A|Oklahoma City
+1|Webco Industries Inc|13301 W. Hwy 51||Sand Springs
+1|Business Imaging Systems Inc|13900 N. Harvey Ave||Edmond
+1|SendaRide Inc|13919-B N May Ave||Oklahoma City
+1|Elevated Marketing LLC|14 West Edwards Street|111|Edmond
+1|Durant HMA Physician Management LLC|1400 Bryan Drive||Durant
+1|Tahlequah Hospital Authority|1400 E. Downing Street|N/A|Tahlequah
+1|Tahlequah Hospital Authority|1400 East Downing Street||Tahlequah
+1|First United Bank and Trust|1400 West Main St.||Durant
+1|LBV Inc|14000 Quail Springs Pkwy|Suite 2200|Oklahoma City
+1|Choctaw County City of Hugo Hospital Authority|1405 E. Kirk St.||Hugo
+1|Duncan Regional Hospital Inc|1407 Whisenant Dr.||Duncan
+1|Duncan Regional Hospital Inc|1407 Whisenant Drive||Duncan
+1|Inpatient Care Physician Services LLC|1409 Territories Dr.||Edmond
+1|MITO Material Solutions Inc|1414 S Sangre Road|Suite 103|Stillwater
+1|ONPOINT ACCOUNTING|14201 N May Ave|Ste 201|OKLAHOMA CITY
+1|Avem Staffing Resources LLC|14201 Wireless Way|Suite 100-B|Oklahoma City
+1|Tulsa Honor Academy Inc|1421 S Sheridan Road||Tulsa
+1|Tulsa Honor Academy Inc|1421 S. Sheridan Road||Tulsa
+1|ClimateCraft Inc|1427 NW 3rd Street||Oklahoma City
+1|Sts. Peter & Paul Catholic Church & School|1428 N. 67th E. Avenue||Tulsa
+1|SGA Design Group P.C.|1437 S Boulder|Suite 550|Tulsa
+1|Helmerich & Payne Management LLC|1437 S. Boulder Ave||Tulsa
+1|SGA DESIGN GROUP P.C|1437 SOUTH BOULDER AVE W|SUITE 550, BOULDER TOWERS|TULSA
+1|INFINEDI LLC|1437 SOUTH BOULDER AVENUE|SUITE 1030|TULSA
+1|Helmerich & Payne Inc|1437 South Boulder  Avenue|Suite 1400|Tulsa
+1|Helmerich & Payne Inc|1437 South Boulder  Drive|Suite 1400|Tulsa
+1|AfroHealth Inc|14540 Natural Falls Way||Oklahoma City
+1|Santiago-Davis McDonalds LLC|14927 Bristol Park Blvd.||Edmond
+1|Matrix Applied Technologies Inc|15 E. 5th St|Suite 1100|Tulsa
+1|Holberton Tulsa LLC|15 N. Cheyenne Ave||Tulsa
+1|Global Holdings Tulsa LLC|15 W. 6th Street, Suite 1600||Tulsa
+1|Optimum Primary Care|1501 E 19th Street||Edmond
+1|Impac Exploration Services|1501 Lera Dr|Ste 3|Weatherford
+1|Impac Exploration Services|1501 Lera Dr.|Suite 3|Weatherford
+1|MedNoc LLC|1501 SW 59th Street||Oklahoma City
+1|Stigler Health & Wellness Center Inc|1505 E Main St.||Stigler
+1|Carl Albert State College|1507 S. McKenna Street||Poteau
+1|Oklahoma Islamic Academy|15200 Traditions blvd||Edmond
+1|Samurai Equipment LLC|15437 East Pine Street||Tulsa
+1|Levare U.S. Inc|1600 N Garnett Road||Tulsa
+1|Air Hygiene International Inc|1600 West Tacoma St||Broken Arrow
+1|Citizen Potawatomi Nation|1601 S. Gordon Cooper Drive||Shawnee
+1|Durant HMA Physician Management LLC|1610 West University Blvd.||Durant
+1|Foreman & Leathers, P.C.|1617 Greenbriar Pl., Ste. E||Oklahoma City
+1|Golden Signal LLC|16317 North Santa Fe Ave|Ste A|Edmond
+1|Freese Architecture Inc|1634 S. Boston Avenue||Tulsa
+1|Sherwood Construction Co. Inc|1640 S 101st East Avenue||Tulsa
+1|Rogers State University|1701 W. Will Rogers Blvd||Claremore
+1|Rogers State University|1701 W. Will Rogers Blvd.||Claremore
+1|LifeShare Transplant Donor Services of Oklahoma Inc|17033 Woodvine Dr.||Oklahoma City
+1|Genesis Eldercare Rehabilitation Services LLC|17110 E Omaha St||Broken Arrow
+1|Advanced Neuro Solutions LLC|1715 S Baltimore Avenue||Tulsa
+1|ADVANCED NEURO SOLUTIONS LLC|1715 S. Baltimore Avenue||TULSA
+1|Alliance Coal LLC|1717 South Boulder Avenue||Tulsa
+1|University of Science and Arts of Oklahoma|1727 West Alabama Ave||Chickasha
+1|W&W-AFCO Steel LLC|1730 W Reno Ave||Oklahoma City
+1|Levinson, Smith & Huffman, P.C.|1743 E. 71st Street||Tulsa
+1|Speech-Soft Solutions LLC|1755 W. 33rd Street|Suite 110|Edmond
+1|Heritage Hall|1800 NW 122nd Street||Oklahoma City
+1|BIG BLUE STAR LLC|1800 RENAISSANCE BOULEVAROAD|SUITE 200|EDMOND
+1|Durant HMA Physician Management LLC|1800 University Blvd||Durant
+1|Choctaw Nation of Oklahoma|1801 Chukka Hina||Durant
+1|Choctaw Nation of Oklahoma|1801 Chukka Hina Dr||Durant
+1|Choctaw Nation of Oklahoma|1801 Chukka Hina Drive||Durant
+1|Oklahoma State University - Institute of Technology|1801 East 4th St.||Okmulgee
+1|Choctaw Nation of Oklahoma|1802 Chukka Hina Dr||Durant
+1|Choctaw Nation of Oklahoma|1802 Chukka Hina Dr.||Durant
+1|Choctaw Nation of Oklahoma|1802 Chukka Hina Drive||Durant
+1|Choctaw Nation of Oklahoma|1803 Chukka Hina||Durant
+1|Choctaw Nation of Oklahoma|1803 Chukka Hina Drive||Durant
+1|Baha Al-Deen Abuesheh, M.D., P.C.|1803 N. Rockford Road||Ardmore
+1|The Orthopaedic Center, P.C.|1809 E. 13th Street|Suite 100|Tulsa
+1|The Voice of the Martyrs Inc|1815 SE Bison Road||Bartlesville
+1|Tobe Energy Corp|1820 SE 22nd Street||Oklahoma City
+1|White Hawk Engineering and Design LLC|1821 E. Imhoff Road||Norman
+1|White Hawk Engineering and Design LLC|1821 East Imhoff Road||Norman
+1|QUEST EPC LLC|1847 EAST 15TH STREET||TULSA
+1|Wilson Research Strategies|1900 E 15th Street|Suite 600A|Edmond
+1|Mnemonic Solutions LLC|19005 Butterfly Blvd.||Edmond
+1|Hillcrest Country Club|1901 Price Road||Bartlesville
+1|Cafe Antigua LLC|1903 N Classe Blvd||Oklahoma City
+1|Gada Investment LLC|1915 NW 23rd st||Oklahoma City
+1|Chickasaw Nation Department of Health|1921 Stonecipher Blvd||Ada
+1|St. John Physicians Inc|1923 South Utica Avenue||Tulsa
+1|St. John Physicians Inc|1924 South Utica Avenue|Davis Tower - 4th Floor|Tulsa
+1|The Charles Machine Works Inc|1959 W Fir St||Perry
+1|The Charles Machine Works Inc|1959 W Fir Street||Perry
+1|The Charles Machine Works Inc|1959 W. Fir Avenue||Perry
+1|Cherokee Nation Integrated Health LLC|2 W. 2nd Street|Suite 1500-37|Tulsa
+1|Gladiator Energy LLC|2 West 2nd Street|Suite 1205|Tulsa
+1|Continental Resources Inc|20 N. Broadway Avenue||Oklahoma City
+1|LAI & TURNER LAW FIRM PLLC|2000 N CLASSEN BLVD|STE 230|OKLAHOMA CITY
+1|LAI & TURNER LAW FIRM PLLC|2000 N. Classen Blvd|Suite 230|Oklahoma City
+1|Sequoyah Technologies LLC|201 E Hobson Avenue||Sapulpa
+1|Sequoyah Technologies|201 East Hobson Avenue||Sapulpa
+1|Green Country Motel Investments LLC|201 Elliott Lane||Catoosa
+1|Oklahoma State University|201 General Academic Building||Stillwater
+1|i2E Inc|201 Robert S Kerr Avenue|Suite 600|Oklahoma City
+1|GENERAL GENETICS LLC|2011 W DANFORTH ROAD 530||Edmond
+1|General Genetics LLC|2011 W. Danforth Road, Suite 530||Edmond
+1|BigLynx Inc|2018 156th Avenue Northeast|suite 100|Norman
+1|Coterra Energy Co|202 S. Cheyenne Ave|Suite 1000|Tulsa
+1|Levy Strange Beffort LLC|204 N Robinson|Ste 700|Oklahoma City
+1|Roger K. Laxton, CPA|204 West Main Street||Ada
+1|Maud Public Schools|206 W. Main Street||Maud
+1|Salazar Roofing and Construction Inc|209 E Main St||Yukon
+1|JACK E. WEAVER, M.D., P.C.|209 SOUTH 36TH STREET||MUSKOGEE
+1|Westwin Elements Inc|210 Park Avenue|Suite 2950|Oklahoma City
+1|Nuveen Cosmetic & Reconstructive Surgery PLLC|2100 NW 63rd Street||Oklahoma City
+1|Downing Wellhead Equipment LLC|2101  South East 18th Street||Oklahoma City
+1|Downing Wellhead Equipment LLC|2101 South East 18th Street||Oklahoma City
+1|WEIBEE STEEL|2103 E LADD ROAD||WASHINGTON
+1|Westwin Elements Inc|211 N Robinson Avenue|Suite N1100|Oklahoma City
+1|Westwin Elements Inc|211 N. Robinson Ave|Suite North 1100|Oklahoma City
+1|GASTECH ENGINEERING INC|2110 INDUSTRIAL ROAD||SAPULPA
+1|Maya 4818 LLC|2119 Riverwalk Dr||Moore
+1|Beaver County Hospital Authority|212 East 8th Street|P.O. Box 640|Beaver
+1|The City of Lawton, a municipal corporation|212 SW 9th St||Lawton
+1|City of Lawton|212 SW 9th Street||Lawton
+1|Genetech Animal Reproduction LLC|21205 Sooner Ave||Purcell
+1|Genetech Animal Reproduction LLC|21205 Sooner Avenue||Purcell
+1|PEPM Group, PLLC|2121 S. Columbia Avenue|Suite 600|Tulsa
+1|SCD Dental PC|2123 W Memorial Road||Oklahoma City
+1|TALISMAN LLC|215 E 5TH ST|SUITE C|OKMULGEE
+1|TALISMAN LLC|215 E 5th ST||OKMULGEE
+1|County of Texas Hooker School District 23 Veterans TR PR|220 N Swem Street||Hooker
+1|Empire Petroleum Corporation|2200 S. Utica Pl.|Suite 150|Tulsa
+1|OKLAHOMA WESLEYAN UNIVERSITY|2201 SILVER LAKE ROAD||BARTLESVILLE
+1|Oklahoma Wesleyan University|2201 Silver Lake Road||Bartlesville
+1|White Hawk Engineering and Design LLC|2204 South Eastern Avenue||Moore
+1|MEERA-NIAM LLC|2214 Shadowlake Drive||Oklahoma
+1|Zeeco Inc|22151 East 91st Street||Broken Arrow
+1|Helmerich & Payne Management LLC|222 N. Detroit Avenue||Tulsa
+1|Helmerich & Payne Management LLC|222 North Detroit Avenue||Tulsa
+1|HoganTaylor LLP|2222 S. Utica Place|Suite 200|Tulsa
+1|HoganTaylor LLP|2222 South Utica Pl|Suite 200|Tulsa
+1|Southern Plains Medical Center Inc|2222 W. Iowa Avenue||Chickasha
+1|H.C. Employees LLC|2240 N Broadway||Moore
+1|STRUCTURES AMERICA INNOVATIVE ENGINEERING, PLC|2240 NW 164th ST||EDMOND
+1|EPIC PHARMACY LLC|2249 NW 39TH STREET||OKLAHOMA CITY
+1|William Velie Attorneys at Law, PLLC|225 N Peters Ave|Suite 1|Norman
+1|Diagnostic Pathology Services Inc|225 N.E. 97th St|Suite 600|Oklahoma City
+1|J.Cole Shoes|225 South Knoblock Street||Stillwater
+1|Decision Tree Consulting LLC|2250 East 73rd Street|Suite 430|Tulsa
+1|HC Employees LLC|2252 N Broadway|NA|Moore
+1|APMEX Inc|226 Dean A McGee Avenue||Oklahoma City
+1|OKLAHOMA STATE AUDITOR & INSPECTOR|2300 N. Lincoln Blvd.|Room 123|OKLAHOMA CITY
+1|Artemis Power Tech Inc|2300 S. Council Road||Oklahoma City
+1|Ghuman Properties LLC|2310 Augusta Road||Ardmore
+1|Community Health Connections Inc|2321 East Third St||Tulsa
+1|Community Health Connection Inc|2321 East Third Street||Tulsa
+1|Childrens House of Norman Inc|2323 Classen Blvd||Norman
+1|Premium Aerospace Center Oklahoma LLC|233 Fire Lane||Foss
+1|Beals Cunningham Advertising Agency Inc|2333 E Britton Road||Oklahoma City
+1|PDR/ORCHESTRATE LLC|2401 N COMMERCE ST|STE E|ARDMORE
+1|Office of Management and Enterprise Services|2401 N. Lincoln Blvd.||Oklahoma City
+1|ASTEC Charter Schools|2401 NW 23rd|Suite 39A|Oklahoma City
+1|Log10 LLC|2402 Sykes Blvd||Ponca City
+1|Upright LLC|2408 SW 13th st||Oklahoma City
+1|Aviation Power Support, LP|2415 Arkansas St||Durant
+1|Aviation Power Support, LP|2415 W Arkansas St||Durant
+1|THN Insurance Solutions|2423 N Classen Blvd||Oklahoma City
+1|AAON Inc|2425 S Yukon Ave||Tulsa
+1|AAON INC|2425 SOUTH YUKON AVENUE||TULSA
+1|Gilead Counseling Center LLC|2448 E. 81st Street|Suite 2045|Tulsa
+1|DATA3 CORPORATION|2448 EAST 81ST STREET|SUITE 456|TULSA
+1|Minert & Associates, PLLC|2488 E. 81st Street|Suite 145|Tulsa
+1|Splash Pools & Spas|249 E. Gore BLVD||Lawton
+1|Oklahoma State University|250 Student Union||Stillwater
+1|Oklahoma City Public Schools, I-89|2500 N.E. 30th Street|Building 3|Oklahoma City
+1|Oklahoma Christian University|2501 E. Memorial Road||Edmond
+1|Oklahoma Childrens Theatre|2501 N Blackwelder||Oklahoma City
+1|Oklahoma City University|2501 N Blackwelder Ave||Oklahoma City
+1|Oklahoma City University|2501 N. Blackwelder||Oklahoma City
+1|Advanced Knowledge Tech LLC|2502 Crossroads Drive|Suite B|Ardmore
+1|Advanced Knowledge Tech LLC|2502 Crossroads drive|Suite B|Ardmore
+1|Devco Process Heaters LLC|2504 East 71st Street|Suite A|Tulsa
+1|Indian Electric Cooperative|2506 US-64||Cleveland
+1|Noble Research Institute LLC|2510 SAM NOBLE PARKWAY||ARDMORE
+1|Black Swan EmployerCo LLC|2513 South Kelly Avenue|Suite 200|Edmond
+1|COLLEGE BOUND ACADEMY|2525 SOUTH 101ST EAST AVENUE||TULSA
+1|College Bound Academy|2525 South 101st East Avenue||Tulsa
+1|Altano Oklahoma Interstate LLC|2536 S. Ladd Ave||Goldsby
+1|Wuu Jau Co Inc|2600 S KELLY AVENUE||Edmond
+1|OSO Perforating LLC|2601  North West Expressway|Suite 900E|Oklahoma City
+1|Downing Wellhead Equipment LLC|2601 NW Expressway|STE 900E|Oklahoma City
+1|Rance G. Stein, PLLC|2630 NW Expressway|Suite A|Oklahoma City
+1|Seminole State College|2701 Boren Blvd.||Seminole
+1|Immuno-Mycologics Inc|2701 Corporate Centre Drive||Norman
+1|COPE|2701 N. Oklahoma Avenue||Oklahoma City
+1|KB Dentistry PLLC|2712 SW 29TH ST||Oklahoma City
+1|KB Dentistry PLLC|2712 Sw 29 Th Street||Oklahoma City
+1|M3 Technology Solutions LLC|2771 Washington Dr||Norman
+1|OPENFUSION LLC|2800 W GORE BLVD|CETES BLDG 2ND FLOOR|LAWTON
+1|Cameron University|2800 W. Gore Blvd||Lawton
+1|Seaboard Foods LLC|2801 Hurliman Road||Guymon
+1|Mount St. Mary Catholic High School|2801 South Shartel||Oklahoma City
+1|Warwick Investment Group LLC|2802 West Country Club Drive||Oklahoma City
+1|Everest Pharmacy LLC|2809 NW 31st Street||Oklahoma City
+1|The Crosby Group|2810 Dawson Road||Tulsa
+1|Inventronics USA Inc|2825 S Tulsa Avenue||Oklahoma City
+1|Vincit Consulting Services Inc|2844 NW 63rd St.|STE A 1104|OKLAHOMA CITY
+1|Worldwide Printing and Distribution Inc|2900 E Apache St||Tulsa
+1|Oklahoma Spay Network Inc|2925 N. Roberta Road||Durant
+1|inTulsa Initiative LLC|3 N Cheyenne Ave||Tulsa
+1|MatBook Inc|300 36th Ave SW|Apt. 1221|Norman
+1|Council on American-Islamic Relations Oklahoma Inc|300 United Founders Blvd|Suite 226|Oklahoma City
+1|Mercy Health Oklahoma Communities Inc|300 Wanda Street||Marietta
+1|Variety Care Inc|3000 N. Grand Blvd.||Oklahoma City
+1|Braums Inc|3000 NE 63rd St||Oklahoma City
+1|Council on American-Islamic Relations Inc|3000 United Founders Blvd|Suite 226|Oklahoma City
+1|CPU Partnership|3000 United Founders Blvd Suite 136||Oklahoma City
+1|Oseberg Inc|3000 W Memorial Road|Suite 123-643|Oklahoma City
+1|Fusion Industries LLC|3001 E Memorial Road||Edmond
+1|Oklahomas Credit Union|3001 N Lincoln Blvd||Oklahoma City
+1|Power Costs Inc|301 David L Boren Blvd, Ste 2000||Norman
+1|Gitwit Creative LLC|301 E Archer Street||Tulsa
+1|B&H Construction LLC|301 James Dean Drive||Norman
+1|Gardner.Studio LLC|301 NW 13th Street|Ste 104|Oklahoma City
+1|SGII Inc|301 South Main Street||Sapulpa
+1|BH Group Holdings LLC|3010 NW 149th Street|Suite 100|Oklahoma City
+1|TEIM DESIGN PLLC|3020 NW 149th Street||Oklahoma City
+1|Decision Tree Consulting LLC|3023 East 74th Place||Tulsa
+1|Tulsa Public Schools|3027 S New Haven Ave||Tulsa
+1|2 Sticks Directional Drilling LLC|303 Elm Ave||Tryon
+1|Racquet and Health 91 LLC|3030 E 91st St||Tulsa
+1|The Matchmaking Company Inc|3040 N. Hemlock Cir||Broken Arrow
+1|UHS of Oklahoma Inc|305 South 5th St||Enid
+1|Office of Management and Enterprise Services|3115 N. Lincoln Blvd.||Oklahoma City
+1|Body Progression Inc|312N MAIN STREET BRISTOW OKLAHOMA||Bristow City
+1|Body Progression Inc|312N MAIN STREET BRISTOW Oklahoma||Bristow, Oklahoma
+1|Body Progression Inc|312N MAIN STREET BRISTOW, OKLAHOMA||Bristow
+1|Hilldale Public Schools|313 E. Peak Blvd.||Muskogee
+1|BOK Financial Corporation|320 S Boston|Flr. 14|Tulsa
+1|CARDIOVASCULAR HEALTH CLINIC PLLC|3200 Quail Springs Parkway|Suite 200|Oklahoma City
+1|CS Cardiology NewCO LLC|3200 Quail Springs Pkwy|Suite 200|Oklahoma City
+1|Paul Ziert & Associates Inc|3206 Bart Conner Dr||Norman
+1|Oklahoma Gas and Electric Company|321 N Harvey Avenue||Oklahoma City
+1|Oklahoma Gas and Electric Company|321 North Harvey Avenue||Oklahoma City
+1|NIRVANA VENTURES INC|3210 E. 11TH ST.||TULSA
+1|Flintco LLC|323 E Reconciliation Way||Tulsa
+1|Oklahoma Panhandle State University|323 W. Eagle Blvd.||Goodwell
+1|CROWE & DUNLEVY, PC|324 NORTH ROBINSON AVENUE|SUITE 100|Oklahoma City
+1|Ameriinfovets Inc|33 Woodcreek Lane||Pryor
+1|Avara Pharmaceutical Technologies Inc|3300 Marshall Avenue||Norman
+1|Central Rural Electric Cooperative|3305 S. Boomer Road||Stillwater
+1|Central Rural Electric Cooperative|3305 South Boomer Road||Stillwater
+1|Bioeutectics Corporation|3306 Charles Page Blvd||Tulsa
+1|Boyd Street Venture Studio LLC|331 W. Boyd Street||Norman
+1|Greater Oklahoma City Hispanic Chamber of Commerce|3321 S Western Avenue||Oklahoma City
+1|Cafe Kacao LLC|3325 N Classen Blvd||Oklahoma City
+1|MaxoTech Solutions LLC|333 W Main St.|Suite 345|Ardmore
+1|METAPRO USA LLC|333 WEST MAIN STREET|SUITE 267|ARDMORE
+1|ALLIANCE STEEL INC|3333 S. COUNCIL ROAD|N/A|OKLAHOMA CITY
+1|ALLIANCE STEEL INC|3333 SOUTH COUNCIL ROAD||OKLAHOMA CITY
+1|Alliance Steel Inc|3333 South Council Road||Oklahoma City
+1|Ground Zero Emergency Training Center Foundation|3334 W. Main|STE 445|Norman
+1|INTEGRIS HEALTH INC|3366 NW Expressway|Suite 800|Oklahoma City
+1|Comanche County Hospital Authority|3401 W. Gore Blvd.||Lawton
+1|Comanche County Hospital Authority|3401 W. Gore Boulevard||Lawton
+1|LBC LIMITED PARTNERSHIP|3434 W. RENO||OKLAHOMA CITY
+1|Mid-America Christian University|3500 SW 119th Street||Oklahoma City
+1|Infectious Disease Associates PLLC|3501 NW 50th Street||Oklahoma City
+1|Ascent Resources Management Services LLC|3501 NW 63rd St.||Oklahoma City
+1|LSB Industries Inc|3503 NW 63rd|Suite 500|Oklahoma City
+1|LSB Industries Inc|3503 NW 63rd Street|Suite 500|Oklahoma City
+1|Apex Title & Closing Services LLC|3510 S 79th E Avenue||Tulsa
+1|Lufthansa Technik North America Holding, Corp.|3515 N Sheridan Road||Tulsa
+1|Talk To Your Textbook AI Inc|3529 Crampton Gap Way||Norman
+1|Orthodontic Specialists of Oklahoma, PLLC|3560 RC Luttrell|Suite 200|Norman
+1|Orthodontic Specialists of Oklahoma, PLLC|3560 RC Luttrell Drive|Suite 200|Norman
+1|Tri Netra Enterprises LLC|35950 HWY 29||Pauls Valley
+1|Tri Netra Enterprises LLC|35950 Hwy 29||Pauls Valley
+1|Dunn Ranch LLC|35963 E PVT 1649 Dr||Wynnewood
+1|InTulsa Initiative LLC|36 E Cameron St.||Tulsa
+1|36 Degrees North Co.|36 E Cameron Street||Tulsa
+1|Boddle Learning Inc|36 East Cameron Street||Tulsa
+1|J HOWELL CONSTRUCTION INC|36 W. MEMORIAL ROAD|SUITE B2|OKLAHOMA CITY
+1|Think Venture Group LLC|3621 NW 50th Street|Suite B|Oklahoma City
+1|4J Foundation Inc|36503 Westech Road||Shawnee
+1|Shiv Krupa LLC|3680 E-I-240 Service Road||Oklahoma City
+1|Christian Montessori Academy Inc|3702 S. 90th E. Avenue||Tulsa
+1|Midwest Auto Parts Store LLC|3815 N Lewis Ave||Tulsa
+1|Midwest Auto Parts Store LLC|3815 N Lewis Avenue||Tulsa
+1|Olive Tree Real Estate Group LLC|3817 N McKinley Ave||Oklahoma City
+1|TIPTOP OIL & GAS US LLC|3817 NW EXPRESSWAY SUITE 950||OKLAHOMA CITY
+1|Oklahoma Attorneys Mutual Insurance Company|3900 S. Boulevard||Edmond
+1|Oklahoma Attorneys Mutual Insurance Company|3900 South Boulevard||Edmond
+1|Human Mode LLC|3917 NE 104th Street||Oklahoma City
+1|NONNIS FOODS LLC|3920 EAST PINE STREET||TULSA
+1|Georg Fischer Central Plastics LLC|39605 Independence Street||Shawnee
+1|Oklahoma City Equine Clinic, PC|400 NE 70th St||Oklahoma City
+1|World Water Works Inc|4000 SW 113th St||Oklahoma City
+1|The Hanor Company of Wisconsin LLC|4005 East Owen K Garriot||Enid
+1|The Hanor Company of Wisconsin LLC|4005 East Owen K Garriott||Enid
+1|AXH Air Coolers LLC|401 E Lowry Road||Claremore
+1|Oklahoma State University|401 General Academic Building||Stillwater
+1|CDR Global Inc|401 N Portland Ave||Oklahoma City
+1|VELIE LAW FIRM PLLC|401 WEST MAIN STREET|SUITE 300|NORMAN
+1|Excel Food Mart Inc|4015 N Pennsylvania Avenue|Suite C|Oklahoma City
+1|Anwar Petroleum Inc|4016 Calm Waters Way||Edmond
+1|Western Flyer Express LLC|4050 W I-40 Service Road||Oklahoma City
+1|Fairview Public Schools|408 East Broadway||Fairview
+1|Ameriinfovets Inc|409 NE 1st Street|Suite 4,|Pryor
+1|Automated Energy Inc|4100 Perimeter Center Drive|Suite 115|Oklahoma City
+1|CREOKS Mental Health Services Inc|4103 S. Yale Avenue|Suite B|Tulsa
+1|Gopuram Taste of India|412 South Meridian||Oklahoma City
+1|The Perinatal Center, PLLC|4140 West Memorial Road|Suite 321|Oklahoma City
+1|Pathology Laboratory Associates Inc|4142 S Mingo Road||Tulsa
+1|TAP Architecture LLC|415 N Broadway Avenue||Oklahoma City
+1|Tulsa Day Center Inc|415 West Archer||Tulsa
+1|Marco Industries Inc|4150 S. 100TH E. Avenue|Suite 301|Tulsa
+1|Houston Electric Inc|416 Main St.||Garber
+1|V & S Schuler Tubular Products LLC|420 Frankfort Avenue||Muskogee
+1|Latino Community Development Agency|420 SW 10th Street||Oklahoma City
+1|Oklahoma Philharmonic Society Inc|424 Colcord Avenue|Suite B|Oklahoma City
+1|Oklahoma Philharmonic Society INC|424 Colcord Drive|Suite B|Oklahoma City
+1|GSHELMS & ASSOCIATES LLC|424 S. Main Street||Jenks
+1|Community HigherEd Institute|4242 S. Sheridan Road||Tulsa
+1|Southeastern Oklahoma State University|425 W. University Blvd.||Durant
+1|Mercy Clinic Oklahoma Communities|430 N Monte Vista St||Ada
+1|Mercy Clinic Oklahoma Communities|430 N Monte Vista Street||Ada
+1|Mercy Hospital Ada Inc|430 North Monte Vista||Ada
+1|Mercy Clinic Oklahoma Communities|4300 W Memorial Road||Oklahoma City
+1|Mercy Clinic Oklahoma Communities Inc|4300 W. Memorial Road||Oklahoma City
+1|Platinum Hospitality LLC|4311 SW 15TH STREET||OKLAHOMA CITY
+1|Platinum Hospitality LLC|4311 SW 15th st||Oklahoma City
+1|Rise Concepts LLC|4312 N. Classen Blvd||Oklahoma City
+1|IT Hoppers Inc|4334 Northwest Expressway, Ste   235||Oklahoma City
+1|Global Holdings Tulsa LLC|4343 S 118th E Avenue, Suite 220||Tulsa
+1|Proform Group Inc|4400 Don Cayo Drive||Muskogee
+1|Red Rock Behavioral Health Services|4400 N Lincoln Blvd||Oklahoma City
+1|KeyBridge Technologies Inc|4415 Highline Blvd.||Oklahoma City
+1|Navico Inc|4500 S 129th E Avenue|Suite 200|Tulsa
+1|Ruhrpumpen Inc|4501 South 86th E. Avenue||Tulsa
+1|Rhurpumpen Inc|4501 South 86th East Avenue||Tulsa
+1|Gopuram Taste of India|4559 NW 23rd Street||Oklahoma City
+1|Life.Church Operations LLC|4600 E 2nd Street||Edmond
+1|LIFE.CHURCH OPERATIONS LLC|4600 E. 2ND STREET||EDMOND
+1|Life.Church Operations LLC|4600 East 2nd Street||Edmond
+1|Cannabis Testing LLC|4619 N Santa Fe Ave||Oklahoma City
+1|Genisys Controls LLC|4646 South Harvard Avenue||Tulsa
+1|Zeeco Inc|4700 S. Garnett Road||Tulsa
+1|Topmark Homes LLC|4700 Spring Manor Court||Edmond
+1|QUIKTRIP CORPORATION|4705 SOUTH 129TH EAST AVENUE||TULSA
+1|Ramsey Industries Inc|4707 North Mingo Road||Tulsa
+1|CFS Brands LLC|4711 E Hefner Road||Oklahoma City
+1|CFS Brands LLC|4711 E. Hefner Road||Oklahoma City
+1|Oklahoma Conference of Seventh-day Adventists|4735 NW 63rd St.||Oklahoma City
+1|Gardner Denver Petroleum Pumps LLC|4747 S. 83rd East Avenue||Tulsa
+1|SpringPoint Technologies LLC|4755 E. 91st Street|Suite 100|Tulsa
+1|POLARIS TECHNOLOGY INC|4800 S 24TH ST W||MUSKOGEE
+1|Polaris Technology Inc|4800 S 24th St W||Muskogee
+1|POLARIS TECHNOLOGY INC|4800 S 24th Street W||Muskogee
+1|Wilspec Technologies Inc|4801 S. Council Road||Oklahoma City
+1|Central Oklahoma American Indian Health Council Inc|4913 W. Reno||Oklahoma City
+1|Central Oklahoma American Indian Health Council Inc|4913 W. Reno Ave||Oklahoma City
+1|Central Oklahoma American Indian Health Council Inc|4913 W. Reno Avenue||Oklahoma City
+1|Central Oklahoma American Indian Health Council Inc|4913 West Reno Avenue||Oklahoma City
+1|CAPTION MANAGEMENT LLC|499 W Sheridan Ave|Suite 2250|Oklahoma City
+1|The State of Oklahoma|500 S. Denver, Suite 900||Tulsa
+1|Oklahoma Baptist University|500 West University||Shawnee
+1|International Environmental Corporation|5000 W I-40 Service Road||Oklahoma City
+1|Woolslayer Companies Inc|5002 Bird Creek Avenue||Catoosa
+1|ENDURO PIPELINE SERVICES INC|5002 SOUTH 45TH WEST AVENUE||Tulsa
+1|Enduro Pipeline Services Inc|5002 South 45th West Avenue||Tulsa
+1|NewView Oklahoma Inc|501 N. Douglas Avenue||Oklahoma City
+1|MidFirst Bank|501 NW Grand Blvd.||Oklahoma City
+1|Pushmataha County City of Antlers Hospital Authority|510 E Main St.|P.O. Box 518|Antlers
+1|Pushmataha County City of Antlers Hospital Authority|510 East Main St.|P.O. Box 518|Antlers
+1|Genesis Enterprises LLC|510 N Broadway||Davenport
+1|Tonkawa Foundry Inc|510 S 7th St||Tonkawa
+1|First Fidelity Bank|5100 North Classen Blvd|Suite 106|Oklahoma City
+1|NCWR LLC|512 N Broadway|Suite 300|Oklahoma City
+1|AXEL ROYAL LLC|516 S 25TH W AVENUE||TULSA
+1|Axel Royal LLC|516 S. 25th W.  Avenue||Tulsa
+1|Axel Royal LLC|516 S. 25th West Avenue||Tulsa
+1|Memorial Hospital of Texas County Authoirty|520 Medical Drive||Guymon
+1|Icare Pharmacy LLC|5201 S Western Ave, Suite 200||Oklahoma City
+1|Enovation Controls LLC|5211 S. 122nd East Avenue||Tulsa
+1|West Side Alliance Soccer|5214Greenan Drive||Sand Springs
+1|Isotek Laboratories LLC|5225 NW 5th Street||Oklahoma City
+1|Cimarron Presbytery, Presbyterian Church USA|524 South Duncan Street||Stillwater
+1|Kirkpatrick Forest Curtis, PC|525 Central Park Drive|Suite 202|Oklahoma City
+1|Enovation Controls LLC|5311 S. 122nd East Avenue||Tulsa
+1|TOKENEX|5314 SOUTH YALE AVENUE|SUITE 850|TULSA
+1|Hood and Associates CPAs, PC|5350 E 46th Street|Suite 130|Tulsa
+1|Born Inc|5400 S 49th W Avenue||Tulsa
+1|HILTI INC|5400 South 122nd East Avenue||Tulsa
+1|INDEPENDENT SCHOOL DISTRICT NO 1 OF OKLAHOMA COUNTY|5401 NW 40TH STREET||OKLAHOMA CITY
+1|Belzona Industrial Solutions LLC|5410 N Rockwell Avenue||Bethany
+1|Individual Assurance Company, Life, Health & Accident (IAC)|5500 N. Western Avenue|Suite 200|Oklahoma City
+1|Alexander D. Williams, DDS, PLLC|5510 E 41st Street||Tulsa
+1|C. H. Guernsey and Company|5555 N Grand Blvd Suite 100||Oklahoma City
+1|C.H. GUERNSEY & COMPANY|5555 N. GRAND BLVD.||OKLAHOMA CITY
+1|C. H. Guernsey & Company|5555 N. Grand Blvd.||Oklahoma City
+1|CIBER PATHWAY INC|5601 NW 72ND ST|SUITE 178G|WARR ACRES
+1|Dove Schools Inc|5601 Northwest Expressway||Warr Acres
+1|Manhattan Construction Company|5601 South 122nd  East Avenue||Tulsa
+1|Southwestern Surgical Affiliates LLC|5602 SW Lee Boulevard||Lawton
+1|Southwestern Medical Center LLC|5602 Southwest Lee Boulevard||Lawton
+1|MaxQ Research LLC|5607 E. 6th Avenue||Stillwater
+1|Born Inc|5699 S 59th W Ave|Bldg 100|Tulsa
+1|Born Inc|5699 S 59th W Ave, Bldg  100||Tulsa
+1|Born Inc|5699 S 59th W Avenue|Bldg 100|Tulsa
+1|Michael Brooks Jimenez, PC|5708 S Western Ave||Oklahoma City
+1|ENACOMM INC|5800 EAST SKELLY DRIVE|PENTHOUSE|TULSA
+1|Frankfurt-Short-Bruza Associates, P.C.|5801 Broadway Extension|Suite 500|Oklahoma City
+1|JOSHI TECHNOLOGIES INTERNATIONAL INC|5801 E. 41ST STREET|SUITE 603|TULSA
+1|Facet (Oklahoma) LLC|5935 S. 129th E. Avenue|Suite A|Tulsa
+1|Rise Concepts LLC|5951 E Sorghum Mill Road||Edmond
+1|Rise Concepts LLC|5951 E. Sorghum Mill Road||Edmond
+1|Rise Concepts LLC|5951 E. Sorgum Mill Road||Edmond
+1|Consumers Unified LLC|600 E 4th St||Tulsa
+1|Consumers Unified LLC|600 E 4th Street||Tulsa
+1|Esro Food Group LLC|600 E. Industrial Road||Madill
+1|Yukon Public Schools|600 Maple Street||Yukon
+1|TurnTable Energy Inc|608 E Walnut Ave||Ponca City
+1|Rader Building Company|609 S Kelly Ave|STE L2|Edmond
+1|Boreworxx LLC|610 Hwy 70||Kingston
+1|Chesapeake Operating LLC|6100 N Western Avenue||Oklahoma City
+1|J.D. Hair & Associates Inc|6100 S. Yale Ave|Suite 1610|Tulsa
+1|Sulzer Chemtech USA Inc|6100 South Yale Avenue|Suite 800|Tulsa
+1|SpringPoint Technologies LLC|611 E. 4th Street||Tulsa
+1|TDW (US) Inc|6120 S. Yale Avenue||Tulsa
+1|Oklahoma City Public Schools, I-89|615 N. Classen Blvd.||Oklahoma City
+1|CDR Global Inc|615 W Wilshire Blvd|Suite 1100|Oklahoma City
+1|Heartland Payment Systems LLC|616 N. Broadway Avenue||Oklahoma City
+1|SAINT FRANCIS HEALTH SYSTEM|6161 SOUTH YALE AVENUE||TULSA
+1|REFLECTIONS SYSTEMS INC|619 W MAIN ST||OKLAHOMA CITY
+1|Reflections Systems Inc|619 W. Main St.||Oklahoma City
+1|Edmond Tennis Services LLC|6300 Gold Cypress Dr.||Edmond
+1|Labarthe Law LLC|6303 N Portland Avenue, Suite 210||Oklahoma City
+1|Petroleum Equipment Institute (PEI)|6414 E. 69th Street||Tulsa
+1|ASC Inc|6420  S. 39th West Avenue||Tulsa
+1|ASC Inc|6420 S. 39th West Avenue||Tulsa
+1|TNI/KSO, P.C.|6465 S Yale Avenue|Ste 507|Tulsa
+1|Petroleum Equipment Institute (PEI)|6514 E 69th Street||Tulsa
+1|Flogistix LP|6529 N Classen Blvd.||Oklahoma City
+1|Ades Owen LLC|6580 NW 234th St||Edmond
+1|Oklahoma State Bureau of Investigation|6600 N Harvey Pl.||Oklahoma City
+1|Warren Clinic Inc|6600 S Yale Ave|Suite 1200|Tulsa
+1|SAINT FRANCIS HEALTH SYSTEM|6600 SOUTH YALE AVENUE|SUITE 1100|TULSA
+1|Arrival 3D Inc|6608 N. Western Avenue|Suite 3264|Oklahoma City
+1|Marolia LLC|6625 S Memorial Drive||Tulsa
+1|Sisemore & Associates Inc|6660 S. Sheridan Road|Suite 210|Tulsa
+1|SOUTHERN NAZARENE UNIVERSITY|6729 NW 39TH EXPRESSWAY||BETHANY
+1|Southern Nazarene University|6729 NW 39th Expressway||Bethany
+1|BETHANY FIRST CHURCH OF THE NAZARENE|6789 NW 39TH EXPWY||BETHANY
+1|DSN Acquireco LLC|6914 S. Yorktown Ave||Tulsa
+1|Santa Fe South Schools Inc|6921 Plaza Mayor Boulevard||Oklahoma City
+1|Flex-Chem Corporation|700 N Wilson Road||Weatherford
+1|Santa Fe South Schools Inc|7000 Crossroads Blvd.,|Suite 4000|Oklahoma City
+1|CB FIRM LLC|701 CEDAR LAKE BLVD|STE 208|OKLAHOMA CITY
+1|Langston University|701 Sammy Davis Jr Dr,||Langston,
+1|Langston University|701 Sammy Davis Jr. Drive||Langston
+1|Atlas Property Management LLC|701 W Queens St|Suite 400|Broken Arrow
+1|Barton and Monroe LLC|7010 N Classen Boulevard||Oklahoma City
+1|Tulsa Innovation Labs LLC|7030 S Yale Ave|Suite 600|Tulsa
+1|Tulsa Local Ventures LLC|7030 S. Yale Avenue|Suite 600|Tulsa
+1|Juris Nova LLC|7100 N Classen Blvd Suite 300|N/A|Oklahoma City
+1|Baytide Petroleum Inc|7105 E. Admiral Place||Tulsa
+1|Patton Enterprises Inc|7136 S. YALE AVE|STE 200|TULSA
+1|NSI Technologies LLC|7146 S. Braden Avenue|Suite 102|Tulsa
+1|Standards IT LLC|720 NE 63rd Street|Suite 101|Oklahoma City
+1|Southwestern Christian University|7210 NW 39th Expressway||Bethany
+1|GPR OPCO LLC|7210 S. Yale Avenue||Tulsa
+1|Elk Creek Farms Inc|723 Stadium Drive||Hobart
+1|Climatecraft Inc|7300 SW 44Th St||Oklahoma City
+1|ClimaCool Corp.|7300 SW 44th St||Oklahoma City
+1|Climatecraft Inc|7300 SW 44th St.||Oklahoma City
+1|Trinity Plaza Inc|7308 NW 109th Street||Oklahoma City
+1|Suvedi Construction Solutions LLC|741 MILAN CT.,||EDMOND
+1|BS&B PREMCO LLC|7418 E. 46th Place||Tulsa
+1|LUFTHANSA TECHNIK COMPONENT SERVICES LLC|7424 EAST 30TH STREET NORTH||TULSA
+1|Lufthansa Technik Component Services LLC|7424 East 30th Street North||Tulsa
+1|Real Value LLC|750 SW 24th St.|Suite 300|Moore
+1|Paycom Payroll LLC|7501 W Memorial Road||Oklahoma City
+1|Silver Lake Construction LLC|755 Research Parkway|Suite 530|Oklahoma City
+1|Progentec Diagnostics Inc|755 Research Parkway,|Suite 100|Oklahoma City
+1|Weama LLC|770 E. Britton Road|None|Oklahoma City
+1|VICTORY CHRISTIAN CENTER INC|7700 S LEWIS AVE||TULSA
+1|Cox Retirement Properties Inc|7707 S. Memorial Drive||Tulsa
+1|Hobby Lobby Stores Inc|7707 SW 44Th Street||Oklahoma City
+1|Global X Digital LLC|7725 W RENO AVENUE|SUITE 450|OKLAHOMA CITY
+1|Objectstream Inc|7725 W. Reno Avenue|Suite 307|Oklahoma City
+1|Objectstream Inc|7725 West Reno Avenue|Suite 307|Oklahoma City
+1|Mardel Inc|7727 S.W. 44TH ST.||Oklahoma City
+1|TBS Factoring Service LLC|7740 NW 85th Terrace||Oklahoma City
+1|Saints Medical Group LLC|777 NW 63rd Street||Oklahoma City
+1|Oral Roberts University|7777 S. Lewis Avenue||Tulsa
+1|Oklahoma City Community College|7777 South May Avenue||Oklahoma City
+1|AtlasPower Inc|7801 N. Robinson Avenue|Suite J2|Oklahoma City
+1|Golden Dragon Taekwondo LLC|7807 E 91ST ST|STE A|Tulsa
+1|Casino Cash Trac LLC|7835 E. 106th Street||Tulsa
+1|Cytovance Biologics Inc|800 Research Parkway|Suite 200|Oklahoma City
+1|Alva Hospital Authority|800 Share Drive||Alva
+1|CYNTERYGY AEC LLC|810 S CINCINNATI AVENUE|SUITE 200|TULSA
+1|WeOkie Federal Credit Union|8100 W Reno||Oklahoma City
+1|TK Drilling Corp|8131 E. 49th St.||Tulsa
+1|Integrity Pathways|814 W Okmulgee St||Muskogee
+1|RS LLC|8151 Highway 177||Red Rock
+1|RS LLC|8151 Hwy 177||Red Rock
+1|THG Energy Solutions LLC|816 E 6th Street|Suite 400|Tulsa
+1|Red Stone Resources LLC|817 Irish Lane||Edmond
+1|Coreslab Structures (OKLA) Inc|817 SE 55th Street||Oklahoma City
+1|World Compassion|8221 E 63rd Pl||Tulsa
+1|Airgo Systems LLC|8232 SW 23rd Pl||Oklahoma City
+1|Airgo Systems LLC|8232 SW 23rd Place||Oklahoma City
+1|Oklahoma Medical Research Foundation|825 N.E. 13th Street||Oklahoma City
+1|Oklahoma Medical Research Foundation|825 NE 13th Street||Oklahoma City
+1|Hyatt Shared Service Center LLC|830 City Ave||Moore
+1|Hyatt Shared Service Center LLC|830 City Avenue||Moore
+1|Taylor Valve Technology Inc|8300 SW 8th Street||Oklahoma City
+1|McElroy Manufacturing Inc|833 North Fulton Avenue|N/A|Tulsa
+1|ARL Bio Pharma Inc|840 Research Parkway  546||Oklahoma City
+1|WESTERN HEIGHTS PUBLIC SCHOOLS|8401 SW 44TH ST.||OKLAHOMA CITY
+1|ZFI Engineering Co.|8411 S Walker Ave||Oklahoma City
+1|WildCare Foundation|8505 Wildwood Lane||Noble
+1|Union Public Schools|8506 E 61st St||Tulsa
+1|A New Leaf Inc|8535 N. Memorial Drive||Owasso
+1|Dunn Ranch LLC|85963 E PVT 1649 DR||Wynnewood
+1|Land Traffic Control|8630 S. Peoria||Tulsa
+1|UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER|865 RESEARCH PARKWAY|SUITE 275|OKLAHOMA CITY
+1|PROVIDENCE SOCIETY INC|8731 S Delaware Place||Tulsa
+1|CCK Strategies, PLLC|8811 S. Yale Avenue|Suite 400|Tulsa
+1|Immanuel Properties LLC|8825 NW 119th Street||Oklahoma City
+1|Exiss Sooner Trailer Manufacturing LLC|900 E Trail Blvd||El Reno
+1|American Fidelity Assurance Company|9000 Cameron Parkway||Oklahoma City
+1|Norman Regional Hospital Authority (an Oklahoma Public Trust)|901 N Porter Ave||Norman
+1|Marshall County HMA LLC|901 South 5th Avenue||Madill
+1|Revenue Management Solutions LLC|9020 N. May Avenue||Oklahoma City
+1|Newman Memorial Hospital|905 South Main Street||Shattuck
+1|New Workforce Directions Inc|907 S Detroit Ave|Suite 210|Tulsa
+1|Ventaire LLC|909 North Wheeling Avenue||Tulsa
+1|VIKASA Capital LLC|9112 N Kelley Avenue|Suite B-3|Oklahoma City
+1|Best Realty LLC|9117 SW 28th Street||Oklahoma City
+1|Spherexx LLC|9142 S. Sheridan Road||Tulsa
+1|PROVIDENT ADVISORS LLC|9175 S Yale Ave STE 1010|One Warren Place|Tulsa
+1|Advanced Flow Solutions Inc|9201 North I-35 Service Road||Oklahoma City
+1|Oklahoma VA Medical Center|921 NE 13 St||Oklahoma City
+1|Department of Veteran Affairs|921 NE 13TH ST||Oklahoma City
+1|Department of Veteran Affairs Medical Center|921 NE 13TH STREET|N/A|Oklahoma City
+1|Classically Formed Inc|9238 S. Sheridan Road|Suite 206|Tulsa
+1|Harness Digital Solutions LLC|9251 N Penn Place||Oklahoma City
+1|TALISMAN LLC|9520 N. MAY AVE|SUITE 216|OKLAHOMA CITY
+1|Talisman Consulting LLC|9520 N. May Avenue STE  216|Commerce Center|Oklahoma City
+1|GREYSON CONSTRUCTION LLC|9521 Riverside PKWY|STE B PMB 146|TULSA
+1|Corys Audio Visual Services LLC|9525 W Reno Avenue||Oklahoma City
+1|THE PROFESSIONAL BASKETBALL CLUB LLC|9600 N. OKLAHOMA AVE||OKLAHOMA CITY
+1|Branum Law Firm, PLLC|9600 S May Ave||Oklahoma City
+1|Lazy E Ranch LLC|9601 Lazy E Dr||Guthrie
+1|Express Global Enterprises, LP|9701 Boardwalk Blvd.||Oklahoma City
+1|Concho Energy LLC|983 Eagle Pass||Freedom
+1|ATC Drivetrain LLC|9901 W Reno Avenue||Oklahoma City
+1|Oklahoma State University Alumni Association|ConocoPhillips OSU Alumni Center|201 S Hester St|Stillwater
+1|Life.Church Operations LLC|E 2nd Street||Edmond
+1|Choctaw Nation of Oklahoma|One Choctaw Way||Talihina
+1|PROVIDENT ADVISORS LLC|One Warren Building, 9175 S Yale Ave STE 1010|One Warren Place,|Tulsa
+1|Community Health Centers Inc|P.O. Box 30589||Oklahoma City
+1|The City of Norman|P.O. Box 370||Norman
+1|Eternal Word Ministries|PO Box 470308||Tulsa
+1|ICX Transportation Group Inc|PO Box 634||Stillwater
+1|WTI Holdings LLC|S Hartford Avenue|Suite 2502|Tulsa
+1|Silvern Swan Analytics LLC|S University pl|Apt 8|Stillwater
+1|EchoLinx LLC|WASHINTON ST APT 15L|4599 N|STILLWATER
+1|CommunityCare HMO Inc|William Center Tower II, 2 West 2nd Street|Suite 100|Tulsa
+(923 rows)
