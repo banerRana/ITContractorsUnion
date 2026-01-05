@@ -2,6 +2,7 @@
 
 # Way Faster To Use sed Than UPDATE In DB
 sanitize_data () {
+	sed -i -E 's_([0-9]{1,2})/([0-9]{1,2})/([0-9]{4})_\3-\1-\2_'g  load.csv
 	sed -i -e 's/\t//g' load.csv
 	sed -i -e 's/\r//g' load.csv
 	sed -i -e "s/'//g" load.csv
