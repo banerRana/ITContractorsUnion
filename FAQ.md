@@ -39,8 +39,8 @@ Unlike Bullshit Jobs On Bullshit Websites, These Listings Are Jobs That A Hiring
 A. Use This Data To Get A Good Job, And Keep It. After You Get Hired, Recommend Other Americans For Jobs That Open Up. Then All Of You Do Eveything You Can To Get Indian People Fired, And Sent Back To India.
 
 #### Q. Can I Donate?
-A. Go To Our eBay Site And Buy Our HowTo Guide For Using This Data.
-Its Only $9.99 [TODO]
+A. Instead, Become A Member Of The IT Contractors Union, A Nonprofit "Business League". Membership Is Only $20.00 Each Year.<br>
+https://buymeacoffee.com/itcontractorsunion
 
 
 
