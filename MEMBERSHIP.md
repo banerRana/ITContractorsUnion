@@ -12,7 +12,7 @@ To become a member, pay at least $1.00 here:
 
 The requested fee is $20.00 for this year.
 
-Becoming a Member will give the me your email address, so I can communicate with you.
+Becoming a Member will give the IT Contactors Union your email address, so it can communicate with you.
 
 The first Order of Business will be to build out a US Workers Database so that employers will always have a condensed source of available qualified workers, in order to remove their excuse about not being able to find them.
 
