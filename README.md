@@ -20,8 +20,8 @@ Notes:
 ### Stop Being Scammed With Ghost Jobs, And Phony Offers!
 ### Get Rid Of All The Third-Party And Fourth Party Deals!
 
-### Help Keep Me Going... Buy Me A Coffee!
-https://buymeacoffee.com/itcontractorsunion
+### Become A Member Today!
+
 
 
 <!--
