@@ -1,4 +1,4 @@
-# Welome To The IT Contractors Union GitHub Site 🇺🇸
+# Welcome To The IT Contractors Union GitHub Site 🇺🇸
 
 ## HOW TO GET DIRECT TO HIRING MANAGERS:
 
