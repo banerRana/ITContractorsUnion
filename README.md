@@ -20,7 +20,7 @@ Notes:
 ### Stop Being Scammed With Ghost Jobs, And Phony Offers!
 ### Get Rid Of All The Third-Party And Fourth Party Deals!
 
-### Become A Member Today!
+### Become A Member Of The IT Contractors Union Today!
 
 
 
