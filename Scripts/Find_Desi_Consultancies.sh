@@ -9,13 +9,14 @@ run_query () {
 
 q="
 select
-	count(EMPLOYER_NAME) OVER (partition by EMPLOYER_ADDRESS1) as count,
+	count(EMPLOYER_NAME) OVER (partition by upper(EMPLOYER_ADDRESS1)) as count,
 	EMPLOYER_NAME,
 	EMPLOYER_ADDRESS1,
 	EMPLOYER_ADDRESS2,
 	EMPLOYER_CITY
 	from LCA_Disclosure_Data_2022To2025Q4
 	where EMPLOYER_STATE = '$abbr'
+	and NAICS_CODE like '541%'
 	group by EMPLOYER_NAME, EMPLOYER_ADDRESS1, EMPLOYER_ADDRESS2, EMPLOYER_CITY
 	order by count desc, EMPLOYER_ADDRESS1, EMPLOYER_ADDRESS2 asc;
 "
