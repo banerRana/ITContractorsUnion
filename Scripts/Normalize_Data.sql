@@ -30,8 +30,8 @@ update LCA_Disclosure_Data_2022To2025Q4 set LAWFIRM_NAME_BUSINESS_NAME = replace
 update LCA_Disclosure_Data_2022To2025Q4 set LAWFIRM_NAME_BUSINESS_NAME = replace(LAWFIRM_NAME_BUSINESS_NAME, ', INC', ' INC');
 update LCA_Disclosure_Data_2022To2025Q4 set LAWFIRM_NAME_BUSINESS_NAME = replace(LAWFIRM_NAME_BUSINESS_NAME, ', LLC', ' LLC');
 update LCA_Disclosure_Data_2022To2025Q4 set LAWFIRM_NAME_BUSINESS_NAME = replace(LAWFIRM_NAME_BUSINESS_NAME, ',LLC', ' LLC');
-update LCA_Disclosure_Data_2022To2025Q4 set LAWFIRM_NAME_BUSINESS_NAME = replace(LAWFIRM_NAME_BUSINESS_NAME, 'Inc.', 'Inc');
-update LCA_Disclosure_Data_2022To2025Q4 set LAWFIRM_NAME_BUSINESS_NAME = replace(LAWFIRM_NAME_BUSINESS_NAME, 'INC.', 'INC');
+update LCA_Disclosure_Data_2022To2025Q4 set LAWFIRM_NAME_BUSINESS_NAME = replace(LAWFIRM_NAME_BUSINESS_NAME, ' Inc.', ' Inc');
+update LCA_Disclosure_Data_2022To2025Q4 set LAWFIRM_NAME_BUSINESS_NAME = replace(LAWFIRM_NAME_BUSINESS_NAME, ' INC.', ' INC');
 update LCA_Disclosure_Data_2022To2025Q4 set LAWFIRM_NAME_BUSINESS_NAME = replace(LAWFIRM_NAME_BUSINESS_NAME, ',INC', ' INC');
 
 update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS2 = replace(EMPLOYER_ADDRESS2, '  ', ' ');
@@ -39,12 +39,12 @@ update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS2 = replace(EMPLOYER
 update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS2 = replace(EMPLOYER_ADDRESS2, 'STE. ', 'SUITE ');
 update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS2 = replace(EMPLOYER_ADDRESS2, 'Ste. ', 'Suite ');
 
-update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, 'RD.', 'ROAD');
-update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, 'RD', 'ROAD');
-update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, 'Rd.', 'Road');
-update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, 'Rd', 'Road');
-update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, 'AVE.', 'AVENUE');
-update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, 'Ave.', 'Avenue');
+update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, ' RD.', ' ROAD');
+update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, ' RD', ' ROAD');
+update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, ' Rd.', ' Road');
+update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, ' Rd', ' Road');
+update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, ' AVE.', ' AVENUE');
+update LCA_Disclosure_Data_2022To2025Q4 set EMPLOYER_ADDRESS1 = replace(EMPLOYER_ADDRESS1, ' Ave.', ' Avenue');
 
 update LCA_Disclosure_Data_2022To2025Q4 set WORKSITE_ADDRESS1 = replace(WORKSITE_ADDRESS1, '\n', '');
 
