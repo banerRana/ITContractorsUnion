@@ -1,206 +1,55 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-10|TechMind Software Solutions|1 Tara Blvd|STE 200|Nashua
-10|TechMind Software Solutions LLC|1 Tara Blvd|STE 200|Nashua
-10|Dataserv Inc|1 Tara Blvd|Ste 102|Nashua
-10|Dataserv Inc|1 Tara Blvd|Suite 102|Nashua
-10|Cloud Bridge Solutions Inc|1 Tara Blvd|Suite 200|Nashua
-10|Cloud Bridge Solutions Inc|1 Tara Blvd|Suite 200|Suite 200
-10|DeeBeCon Inc|1 Tara Blvd|Suite LL7|Nashua
-10|eBytes Technology Inc|1 Tara Blvd|Suite LL7|Nashua
-10|I.T.Excel LLC|1 Tara Blvd||Nashua
-10|Dataserv Inc|1 Tara blvd|Suite 102|Nashua
-6|AMADEUS HOSPITALITY AMERICAS INC|75 NEW HAMPSHIRE AVENUE||PORTSMOUTH
-6|TravelClick Inc|75 NEW HAMPSHIRE AVENUE||PORTSMOUTH
-6|PixelMEDIA LLC|75 New Hampshire Avenue|Suite 100|Portsmouth
-6|Docmation LLC|75 New Hampshire Avenue|Suite 100|Portsmouth
-6|Amadeus Hospitality Inc|75 New Hampshire Avenue|Suite 300|Portsmouth
-6|TravelClick Inc|75 New Hampshire Avenue||Portsmouth
-5|HIGHDATA SOFTWARE CORPORATION|45 STILES ROAD|212|SALEM
-5|HIGHDATA SOFTWARE CORPORATION|45 STILES ROAD|STE 212|SALEM
-5|HIGHDATA SOTWARE CORPORATION|45 STILES ROAD|SUITE 212|SALEM
-5|HIGHDATA SOFTWARE CORPORATION|45 STILES ROAD|SUITE 212|SALEM
-5|HIGHDATA SOFTWARE CORPORATION|45 STILES ROAD|SUTE 212|SALEM
-4|BIG SKY GLOBAL LLC|20 COUNTRY CLUB DRIVE|32|MANCHESTER
-4|BIG SKY GLOBAL LLC|20 COUNTRY CLUB DRIVE|APT 32|Manchester
-4|BIG SKY GLOBAL LLC|20 COUNTRY CLUB DRIVE|APT 32|MANCHESTER
-4|BIG SKY GLOBAL LLC|20 COUNTRY CLUB DRIVE|APT. 32|MANCHESTER
-4|SCIENTIA SYSTEMS LLC|71 SPIT BROOK ROAD|SUITE 101|NASHUA
-4|Scientia Systems LLC|71 Spit Brook Road|STE 101|Nashua
-4|Scientia Systems LLC|71 Spit Brook Road|Ste 101|Nashua
-4|Scientia Systems LLC|71 Spit Brook Road|Suite 101|Nashua
-4|DEKA RESEARCH & DEVELOPMENT CORP|Technology Center, 340 Commercial St.||Manchester,
-4|DEKA RESEARCH & DEVELOPMENT CORP|Technology Center, 340 Commercial St.||Manchester
-4|DEKA RESEARCH & DEVELOPMENT CORPORATION|Technology Center, 340 Commercial St.||Manchester
-4|DEKA RESEARCH & DEVELOPMENT CORP.|Technology Center, 340 Commercial St.||Manchester
-3|CCSOLTECH LLC|12 SUNBLAZE DR||NASHUA
-3|CCSolTech LLC|12 Sunblaze Dr||Nashua
-3|CcSolTech LLC|12 Sunblaze Dr||Nashua
-3|TrndX Inc|300 Innovative Way|STE 2221|Nashua
-3|Akken Inc|300 Innovative Way|Suite 2221A|Nashua
-3|Parallel Wireless Inc|300 Innovative Way|Suite 2310|Nashua
-3|EMR IT Solutions LLC|402 Amherst Street|Suite 302|Nashua
-3|I.T. Excel LLC|402 Amherst Street|Suite 304|Nashua
-3|I.T.Excel LLC|402 Amherst Street|Suite 304|Nashua
-3|Episerver INC|542A Amherst Street||Nashua
-3|Optimizely North America Inc|542A Amherst Street||Nashua
-3|Optimizely Inc|542A Amherst Street||Nashua
-3|AKKEN INC|98 SPIT BROOK ROAD|SUITE 402|NASHUA
-3|Akken Inc|98 Spit Brook Road|SUITE 402|Nashua
-3|Akken Inc|98 Spit Brook Road|Suite 402|Nashua
-2|Fubeus Inc|1 Tara Boulevard|Suite 200|Nashua
-2|Savant HCM LLC|1 Tara Boulevard|Suite 404|Nashua
-2|Microdesk LLC|10 Tara Boulevard|Suite 420|Nashua
-2|Microdesk Inc|10 Tara Boulevard|Suite 420|Nashua
-2|The Maia Strategy Group LLC|1001 Elm St|Suite 205|Manchester
-2|Maia Strategy Group|1001 Elm St|Suite 205|Manchester
-2|9THNETWORKS INC|103 MAIN STREET||SOMERSWORTH
-2|9thNetworks Inc|103 Main Street||Somersworth
-2|metaitgroup llc|1037-1045 Elm Street|suit 204|manchester
-2|METAITGROUP LLC|1037-1045 elm street|ste 204|manchester
-2|Hurricane Hill Development Company PLLC|1042 Hurricane Hill Road|N/A|Mason
-2|Hurricane Hill Development Company PLLC|1042 Hurricane Hill Road||Mason
-2|Camp Systems International Inc|11 Continental Boulevard|Suite C|Merrimack
-2|CAMP Software Inc|11 Continental Boulevard|Suite C|Merrimack
-2|BOSTON ANALYTICAL INC|14 MANOR PARKWAY||SALEM
-2|Boston Analytical Inc|14 Manor Parkway||Salem
-2|9THNETWORKS INC|17 GRAND STREET|SUITE 302|SOMERSWORTH
-2|9thNetworks Inc|17 Grand Street|Suite 302|Somerworth
-2|Richard-Allan Scientific|20 Post Road||Portsmouth
-2|New Erie Scientific LLC|20 Post Road||Portsmouth
-2|MAE Consulting Group LLC|250 Commercial Street|Suite 3007|Manchester
-2|Thunderhead One Inc|250 Commercial Street|Suite 4017|Manchester
-2|DECISIONWAVE TECHNOLOGIES INC|264 SOUTH RIVER ROAD|SUITE 518|BEDFORD
-2|Decisionwave Technologies Inc|264 South River Road|Ste 518|Bedford
-2|DEKA Research & Development Corp.|340 Commercial Street||Manchester
-2|DEKA Research & Development Corp|340 Commercial Street||Manchester
-2|EMR IT Solutions LLC|400 Amherst Street|102|Nashua
-2|EMR IT SOLUTIONS LLC|400 Amherst Street|Suite 102|Nashua
-2|SMA Tech LLC|46 Technology Way|Ste 1E1A|Nashua
-2|SMA Tech LLC|46 Technology way|Ste 1E1A|Nashua
-2|Iron Mountain Information Management Services Inc|85 New Hampshire Avenue|Suite 150|Portsmouth
-2|Iron Mountain Information Management LLC|85 New Hampshire Avenue|Suite 150|Portsmouth
-2|Regrow Agriculture Inc|87 Packers Falls Road||Durham
-2|DNDC Applications Research and Training|87 Packers Falls Road||Durham
-1|SERVE PROFESSIONALS INC|1 HAROADY ROAD|1090|BEDFORD
-1|XMOS Inc|1 Merrill Industrial Drive|Suite 6|Hampton
-1|Squillion Systems LLC|1 New Hampshire Ave|Suite 125|Portsmouth
-1|Tradeport USA LLC|1 Progress Drive, Suite 7||Dover
-1|WESPOTHIRE LLC|1 TARA BOULEVAROAD, SUITE 200||NASHUA
-1|Cloud Bridge Solutions Inc|1 Tara Blvd Suite 200||Nashua
-1|WESPOTHIRE LLC|1 Tara Boulevard Suite 200||Nashua
-1|Athenium LLC|1 Washington St.|Suite 5145|Dover
-1|Athenium LLC|1 Washington Street|Suite 5145|Dover
-1|Simbex LLC|10  Water Street|Suite 410|Lebanon
-1|Chapman Software Group LLC|10 Chestnut St.|Ste 1301|Exeter
-1|BIO-key International Inc|10 Corporate Dr.|Suite 209|Bedford
-1|Lodestone Biomedical LLC|10 Water St|Ste 265|Lebanon
-1|Simbex LLC|10 Water Street|Suite 410|Lebanon
-1|Parallel Wireless Inc|100 Innovative Way|Suite 3410|Nashua
-1|Environ Energy LLC|1000 Elm St.|17th Floor|Manchester
-1|BridgePoint Consulting Inc|1000 Market Street|Bldg. 2 Ste 6|Portsmouth
-1|Bio-AI Health Inc|105 Maple Ave||Goffstown
-1|QLYTIX INC|105 STATE ROUTE 101A|UNIT 23|AMHERST
-1|Camp Systems International Inc|11 Continental Blvd.|Suite C|Merrimack
-1|Foodstate Inc|11 Delta Dr.||Londonderry
-1|Foodstate Inc|11 Delta Drive||Londonderry
-1|TomTom North America Inc|11 Lafayette Street||Lebanon
-1|Market Street Talent Inc|111 Maplewood Avenue|Suite E|Portsmouth
-1|MAE Consulting Group LLC|119 North Road||Deerfield
-1|Electronics For Imaging Inc|12 Innovation Way||Londonderry
-1|GREAT VOYAGE INC|12 SIMON STREET, SUITE 5||NASHUA
-1|Cocheco Veterinarian Hospital PLLC|1238 NH Route 11|PO Box 725|Farmington
-1|Kanap Systems LLC|130 Main Street|Suite 201A|Salem
-1|Fourhub Technologies Inc|15 Constitution Dr|Floor 1st|Bedford
-1|Apra Labs Inc|15 Constitution Drive|Suite 1A|Bedford
-1|Regrow Agriculture Inc|15 Newmarket Road||Durham
-1|Conformal Medical Inc|15 Trafalgar Square||Nashua
-1|Position Imaging Inc|155 Fleet Street||Portsmouth
-1|PeakPoint Technologies Inc|155 Main Dunstable Road|Suite 160|Nashua
-1|Terragia Biofuel Inc|16 Cavendish Court||Lebanon
-1|RyTek Medical Inc|16 Cavendish Ct.||Lebanon
-1|Biotage LLC|16 Northwestern Drive||Salem
-1|9THNETWORKS INC|17 GRAND ST|SUITE 302|SOMERSWORTH
-1|Donohue, OConnell & Riley PLLC|18 Hampton Road, Suite 3||Exeter
-1|Novocure Inc|180 Hanover Street||Portsmouth
-1|Ascend Partners Topco LP|19 Morgan Drive||Lebanon
-1|BIZANALYTICA LLC|1B Commons Drive|Suite 7|Londonderry
-1|Crawford Software Consulting Inc|1E Commons Drive|Unit 26, Box 12|Londonderry
-1|TechMind Software Solutions LLC|1Tara Blvd|STE 200|Nashua
-1|BizAnalytica LLC|1b Commons Dr., Ste 7||Londonderry
-1|Blue Mantis Inc|2 International Drive|Suite 260|Portsmouth
-1|Axzora Resourcing LLC|2 Jeannette Lane||Derry
-1|ShippingSpree LLC|20 Portsmouth Avenue|Suite 1 1066|Stratham
-1|TECHLOGIC SOLUTIONS LLC|20 TRAFALGAR SQUARE|SUITE 422|NASHUA
-1|Drut Technologies Inc|200 Innovation Way|Suite 1360|Nashua
-1|Drut Technologies Inc|200 Innovative Way|Suite 1360|Nashua
-1|TomTom North America Inc|21 Lafayette Street||Lebanon
-1|Red River Technology LLC|21 Water Street|Ste 500|Claremont
-1|MILL PLUS CO LLC|225 Oak Street|Suite 225|Manchester
-1|Charlestown Animal Hospital PLLC|23 Main Street|PO Box 330|Charlestown
-1|PeakPoint Technologies Inc|25 Schwinn Drive||Nashua
-1|Resonetics LLC|26 Whipple Street||Nashua
-1|VHG Labs Inc|276 Abby Road||Manchester
-1|Hummingbird Holding Company Inc|28 Hunters Run||Rye
-1|ARCove LLC|3 Congress Street|Suite 1|Portsmouth
-1|TrndX Inc|300 INNOVATIVE WAY STE 2221||NASHUA
-1|GreenTech Innovate LLC|310 Daniel Webster Hwy|W247|Nashua
-1|Bottomline Technologies (de) Inc|325 Corporate Drive||Portsmouth
-1|Cane Systems LLC|339 Shore Drive||Salem
-1|DEKA RESEARCH & DEVELOPMENT CORP.|340 Commercial St.||Manchester
-1|LandGate Corp|4 Gill Road||DERRY
-1|Wise Owl Technology LLC|4 Merrit Pkwy||Nashua
-1|EMRLD Health LLC|40 Pleasant Street||Portsmouth
-1|Advanced Regenerative Manufacturing Institute Inc|400 Commercial Street||Manchester
-1|P&R Dental Strategies LLC|410 Amherst Street|Ste 250|Nashua
-1|Worldcom Exchange Inc|43 Northwestern Dr.||Salem
-1|ZENITH SOFTWARE INC|43 SCOTT AVENUE||NASHUA
-1|Zenith Software Inc|43 Scott Ave||Nashua
-1|Particles for Humanity, PBC|44 Oak Ridge Road||West Lebanon
-1|HIGHDATA SOFTWARE CORPORATION|45STILES ROAD|SUITE 212|SALEM
-1|SymbioSys Solutions Inc|46 South Main Street|Unit 4|Concord
-1|ImageXpert Inc|460 Amherst Street|Suite 18|Nashua
-1|Roshi Tech Inc|5 Castleton Court||Merrimack
-1|Canary Systems Inc|5 Gould Road||New London
-1|ARISTON TEK INC|5 INDEPENDENCE WAY|STE 320|PRINCETON
-1|Sequel Med Tech LLC|50 Commercial Street|Floor 3|Manchester
-1|Unique System Skills LLC|505 West Hollis Street|Unit 105|Nashua
-1|Stonex SRL USA Branch|54 Regional Drive|Suite 1|Concord
-1|Bill Schick Design,  LLC|540 North Commercial Street||Manchester
-1|Unique System Skills LLC|547 Amherst Street|Unit 201|Nashua
-1|Resource Systems Group Inc|55 Rail Road Row||White River Junction
-1|Sanborn, Head & Associates Inc|6 Bedford Farms Drive|Suite 201|Bedford
-1|Benson Woodworking Company Inc|6 Blackjack Crossing||Walpole
-1|SkyTerra Technologies LLC|6 Trafalgar Square|Suite 100|Nashua
-1|Steiner and Company LLC|604 Daniel Webster Highway|Suite 202 B|Merrimack
-1|Steiner and Company LLC|604 Daniel Webster Hwy|Suite 202 B|Merrimack
-1|Steiner and Company LLC|605 Daniel Webster Highway|Suite 202B|Merrimack
-1|Sincera Technologies Inc|61 North Street||Manchester
-1|Vendor Credentialing Service LLC|61 Spit Brook Road||Nashua
-1|Sheldon Pennoyer Architects LLC|64 North Main St||Concord
-1|C Squared Systems LLC|65 Dartmouth Drive||Auburn
-1|Reddy Infosys Inc|66 HIGH STREET||SOMERSWORTH
-1|Reddy Infosys Inc|66 HIGHSTREET||SOMERSWORTH
-1|Trinnex Inc|670 N. Commercial Street, Suite 208||Manchester
-1|HIGHLAND FORWARDING INC|6A Kitty Hawk Landing|Suite 200|Londonderry
-1|Adimab Service Company LLC|7 Lucent Drive||Lebanon
-1|HIGHDATA SOFTWARE CORPORATION|7 STILES ROAD|SUITE 101|SALEM
-1|HIGHDATA SOFTWARE CORPORATION|7 STILES ROAD, SUITE 101||SALEM
-1|PC Connection Inc|730 Milford Road||Merrimack
-1|Amadeus Hospitality Americas Inc|75  New Hampshire Avenue||Portsmouth
-1|PixelMEDIA LLC|75 NH Avenue|Suite 100|Portsmouth
-1|Brayton Energy LLC|75B Lafayette Road||Hampton
-1|Globe Tech Inc|76 Northeastern Blvd||Nashua
-1|AgaMatrix Inc|7C Raymond Avenue||Salem
-1|IPURA CONSULTING GROUP LLC|8 MOHAWK STREET||HAMPTON
-1|Reddy Infosys Inc|82 HIGH STREET||SOMERSWORTH
-1|McLane Middleton, P.A.|900 Elm Street|10th Floor|Manchester
-1|ROSS ENGINEERING LLC|909 Islington Street|Suite 6|Portsmouth
-1|Radiation Safety & Control Services Inc|93 Ledge Road||Seabrook
-1|ioMosaic Corporation|93 Stiles Road||Salem
-1|MM INFO SOLUTIONS INC|ONE TARA BLVD|SUITE 200|NASHUA
-1|Wellesley Information Services LLC|P.O. Box 982||Hampstead
-1|KCS Architects LLC|PO Box 170|170 Main Street|Marlborough
-1|Drive Brand Studio|PO Box 2838||North Conway
-1|DEKA RESEARCH & DEVELOPMENT CORP.|Technology Center 340 Commercial St.||Manchester
-1|DEKA Research & Development Corp.|Technology Center 340 Commercial Street||Manchester
-(204 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+7|CLOUD BRIDGE SOLUTIONS INC|1 TARA BLVD|NASHUA|NH
+7|CLOUD BRIDGE SOLUTIONS INC|1 TARA BLVD|SUITE 200|NH
+7|DATASERV INC|1 TARA BLVD|NASHUA|NH
+7|DEEBECON INC|1 TARA BLVD|NASHUA|NH
+7|EBYTES TECHNOLOGY INC|1 TARA BLVD|NASHUA|NH
+7|I.T.EXCEL LLC|1 TARA BLVD|NASHUA|NH
+7|TECHMIND SOFTWARE SOLUTIONS LLC|1 TARA BLVD|NASHUA|NH
+3|EMR IT SOLUTIONS LLC|402 AMHERST STREET|NASHUA|NH
+3|I.T. EXCEL LLC|402 AMHERST STREET|NASHUA|NH
+3|I.T.EXCEL LLC|402 AMHERST STREET|NASHUA|NH
+2|9THNETWORKS INC|17 GRAND STREET|SOMERSWORTH|NH
+2|9THNETWORKS INC|17 GRAND STREET|SOMERWORTH|NH
+2|HIGHDATA SOFTWARE CORPORATION|45 STILES ROAD|SALEM|NH
+2|HIGHDATA SOTWARE CORPORATION|45 STILES ROAD|SALEM|NH
+1|9THNETWORKS INC|103 MAIN STREET|SOMERSWORTH|NH
+1|9THNETWORKS INC|17 GRAND ST|SOMERSWORTH|NH
+1|AKKEN INC|98 SPIT BROOK ROAD|NASHUA|NH
+1|AKKEN INC|300 INNOVATIVE WAY|NASHUA|NH
+1|ARISTON TEK INC|5 INDEPENDENCE WAY|PRINCETON|NH
+1|AXZORA RESOURCING LLC|2 JEANNETTE LANE|DERRY|NH
+1|BIG SKY GLOBAL LLC|20 COUNTRY CLUB DRIVE|MANCHESTER|NH
+1|BIZANALYTICA LLC|1B COMMONS DRIVE|LONDONDERRY|NH
+1|BRIDGEPOINT CONSULTING INC|1000 MARKET STREET|PORTSMOUTH|NH
+1|CAMP SYSTEMS INTERNATIONAL INC|11 CONTINENTAL BOULEVARD|MERRIMACK|NH
+1|CCSOLTECH LLC|12 SUNBLAZE DR|NASHUA|NH
+1|CLOUD BRIDGE SOLUTIONS INC|1 TARA BLVD SUITE 200|NASHUA|NH
+1|DECISIONWAVE TECHNOLOGIES INC|264 SOUTH RIVER ROAD|BEDFORD|NH
+1|EMR IT SOLUTIONS LLC|400 AMHERST STREET|NASHUA|NH
+1|FOURHUB TECHNOLOGIES INC|15 CONSTITUTION DR|BEDFORD|NH
+1|FUBEUS INC|1 TARA BOULEVARD|NASHUA|NH
+1|HIGHDATA SOFTWARE CORPORATION|7 STILES ROAD|SALEM|NH
+1|HIGHDATA SOFTWARE CORPORATION|7 STILES ROAD, SUITE 101|SALEM|NH
+1|HIGHDATA SOFTWARE CORPORATION|45STILES ROAD|SALEM|NH
+1|IPURA CONSULTING GROUP LLC|8 MOHAWK STREET|HAMPTON|NH
+1|KANAP SYSTEMS LLC|130 MAIN STREET|SALEM|NH
+1|MICRODESK INC|10 TARA BOULEVARD|NASHUA|NH
+1|MM INFO SOLUTIONS INC|ONE TARA BLVD|NASHUA|NH
+1|PEAKPOINT TECHNOLOGIES INC|155 MAIN DUNSTABLE ROAD|NASHUA|NH
+1|PEAKPOINT TECHNOLOGIES INC|25 SCHWINN DRIVE|NASHUA|NH
+1|REDDY INFOSYS INC|66 HIGH STREET|SOMERSWORTH|NH
+1|REDDY INFOSYS INC|82 HIGH STREET|SOMERSWORTH|NH
+1|REDDY INFOSYS INC|66 HIGHSTREET|SOMERSWORTH|NH
+1|ROSHI TECH INC|5 CASTLETON COURT|MERRIMACK|NH
+1|SCIENTIA SYSTEMS LLC|71 SPIT BROOK ROAD|NASHUA|NH
+1|SERVE PROFESSIONALS INC|1 HARDY ROAD|BEDFORD|NH
+1|SINCERA TECHNOLOGIES INC|61 NORTH STREET|MANCHESTER|NH
+1|SMA TECH LLC|46 TECHNOLOGY WAY|NASHUA|NH
+1|TECHLOGIC SOLUTIONS LLC|20 TRAFALGAR SQUARE|NASHUA|NH
+1|UNIQUE SYSTEM SKILLS LLC|547 AMHERST STREET|NASHUA|NH
+1|UNIQUE SYSTEM SKILLS LLC|505 WEST HOLLIS STREET|NASHUA|NH
+1|WESPOTHIRE LLC|1 TARA BOULEVARD, SUITE 200|NASHUA|NH
+1|ZENITH SOFTWARE INC|43 SCOTT AVENUE|NASHUA|NH
+1|ZENITH SOFTWARE INC|43 SCOTT AVE|NASHUA|NH
+(53 rows)

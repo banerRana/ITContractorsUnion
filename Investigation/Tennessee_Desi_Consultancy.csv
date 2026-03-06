@@ -1,538 +1,112 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-8|MEDHOST SERVICES INC|6550 CAROTHERS PARKWAY|STE 160|FRANKLIN
-8|MEDHOST SERVICES INC|6550 CAROTHERS PARKWAY|SUITE 160|FRANKLIN
-8|MEDHOST INC|6550 CAROTHERS PARKWAY|SUITE 160|FRANKLIN
-8|MEDHOST Inc|6550 CAROTHERS PARKWAY|SUITE 160|FRANKLIN
-8|MEDHOST Services Inc|6550 Carothers Parkway|160|Franklin
-8|MEDHOST Inc|6550 Carothers Parkway|STE 160|Franklin
-8|MEDHOST Services Inc|6550 Carothers Parkway|STE 160|Franklin
-8|MEDHOST Services Inc|6550 Carothers Parkway|Suite 160|Franklin
-7|Franklar Technologies LLC|40 Burton HILLS BLVD|Suite 200|NASHVILLE
-7|Ludi Inc|40 Burton Hills Blvd|Suite 100|Nashville
-7|FRANKLAR TECHNOLOGIES LLC|40 Burton Hills Blvd|Suite 200|Nashville
-7|I3 Verticals Management Service Inc|40 Burton Hills Blvd|Suite 200|Nashville
-7|i3 Verticals LLC|40 Burton Hills Blvd|Suite 415|Nashville
-7|i3 Verticals Management Services Inc|40 Burton Hills Blvd|Suite 415|Nashville
-7|i3 Verticals Management Services Inc|40 Burton Hills Blvd||Nashville
-7|NIKAYA LLC|6000 POPLAR AVENUE|SUITE 250|MEMPHIS
-7|Cook Systems International Inc|6000 Poplar Avenue|Suite 100|Memphis
-7|7TECHNIX LLC|6000 Poplar Avenue|Suite 250|Memphis
-7|7TechNIX LLC|6000 Poplar Avenue|Suite 250|Memphis
-7|ACCENTURE NATIONAL INC|6000 Poplar Avenue|Suite 250|Memphis
-7|ARKANA INFOTECH INC|6000 Poplar Avenue|Suite 250|Memphis
-7|Cook Systems International Inc|6000 Poplar Avenue|Triad 1, Suite 100|Memphis
-5|Cheetah Digital Inc|11  Lea Avenue||Nashville
-5|Sailthru Inc|11  Lea Avenue||Nashville
-5|Marigold USA Inc|11  Lea Avenue||Nashville
-5|CM Acquisitions Holdings Inc|11  Lea Avenue||Nashville
-5|Marigold Group Inc|11  Lea Avenue||Nashville
-5|TransCore, LP (A Subsidiary of Roper Technologies Inc)|150 4th Avenue North|Suite 1200|Nashville
-5|Transcore, LP.|150 4th Avenue North|Suite 1200|Nashville
-5|Transcore, LP (A Subsidiary of Roper Technologies Inc)|150 4th Avenue North|Suite 1200|Nashville
-5|TransCore, LP|150 4th Avenue North|Suite 1200|Nashville
-5|TransCore, LP|150 4th Avenue North||Nashville
-5|Gresham Smith|222 2nd Avenue South|STE 1400|Nashville
-5|Gresham Smith|222 2nd Avenue South|SUITE 1400|Nashville
-5|Gresham Smith|222 2nd Avenue South|Suite 1400|Nashville
-5|Gresham Smith|222 2nd Avenue South||Nashville
-5|Gresham, Smith|222 2nd Avenue South||Nashville
-5|SIMAXIVE TECHNOLOGIES INC|3725 CHAMPION HILLS DRIVE|SUITE 3400|MEMPHIS
-5|Ameya Infotech LLC|3725 Champion Hills Drive|Suite  1800|Memphis
-5|Ameya Infotech LLC|3725 Champion Hills Drive|Suite 1800|MEMPHIS
-5|Ameya Infotech LLC|3725 Champion Hills Drive|Suite 1800|Memphis
-5|Simaxive Technologies Inc|3725 Champion Hills Drive|Suite 3400|Memphis
-5|CLOUD DATA LLC|408 N CEDAR BLUFF ROAD|STE 253|KNOXVILLE
-5|Cloud DATA LLC|408 N Cedar Bluff Road|STE 253|Knoxville
-5|CLOUD DATA LLC|408 N Cedar Bluff Road|STE 253|Knoxville
-5|Cloud Data LLC|408 N Cedar Bluff Road|STE 253|Knoxville
-5|Cloud Data LLC|408 N Cedar Bluff Road|Ste 253|Knoxville
-4|Cheetah Digital Inc|11 Lea Avenue||Nashville
-4|Emma Inc|11 Lea Avenue||Nashville
-4|CM Acquisitions Holdings Inc|11 Lea Avenue||Nashville
-4|Marigold Group Inc|11 Lea Avenue||Nashville
-4|MILLENNIUM GLOBAL TECHNOLOGIES LLC|1661 INTERNATIONAL DR|SUITE 400|MEMPHIS
-4|MILLENNIUM GLOBAL TECHNOLOGIES LLC|1661 INTERNATIONAL DR||MEMPHIS
-4|Moore Infotech inc|1661 International Dr|Suite 400|MEMPHIS
-4|Moore Infotech Inc|1661 International Dr|Suite 400|Memphis
-4|NCONTRACTS LLC|214 OVERLOOK CIRCLE|STE 152|BRENTWOOD
-4|Ncontracts LLC|214 Overlook Circle|STE 270|Brentwood
-4|Ncontracts LLC|214 Overlook Circle|Suite 152|Brentwood
-4|Ncontracts LLC|214 Overlook Circle||Brentwood
-4|Stanley D. Lindsey & Associates LTD|750 Old Hickory Blvd|Bldg 1, Ste 175|Brentwood
-4|Stanley D. Lindsey & Associates, Ltd|750 Old Hickory Blvd|Bldg 1, Ste 175|Brentwood
-4|Stanley D. Lindsey & Associates, LTD|750 Old Hickory Blvd|Building 1, Suite 175|Brentwood
-4|Stanley D. LIndsey & Associates, LTD|750 Old Hickory Blvd|Building 1, Suite 175|Brentwood
-4|HARVEY NASH INC|810 CRESCENT CENTRE|Suite 120|Franklin
-4|LATITUDE 36 INC|810 CRESCENT CENTRE|Suite 120|Franklin
-4|Harvey Nash Inc|810 CRESCENT CENTRE|Suite 120|Franklin
-4|HARVEY NASH Inc|810 CRESCENT CENTRE|Suite 120|Franklin
-4|ZREYA TECH INC|8295 TOURNAMENT DRIVE|SUITE 150|MEMPHIS
-4|SAI TECHNOLOGIES LLC|8295 TOURNAMENT DRIVE|SUITE 150|MEMPHIS
-4|AST Global Inc|8295 Tournament Drive|Suite 150|Memphis
-4|Sai Technologies LLC|8295 Tournament Drive|Suite 150|Memphis
-3|UT-BATTELLE LLC (OAK RIDGE NATIONAL LABORATORY)|1 BETHEL VALLEY ROAD|N/A|OAK RIDGE
-3|UT-BATTELLE LLC (OAK RIDGE NATIONAL LABORATORY)|1 BETHEL VALLEY ROAD||OAK RIDGE
-3|UT-Battelle LLC (ORNL)|1 Bethel Valley Road||Oak Ridge
-3|Revance Therapeutics Inc|1222 Demonbreun Street|20th Floor|Nashville
-3|Revance Therapeutics Inc|1222 Demonbreun Street|Floor 20|Nashville
-3|Revance Therapeutics Inc|1222 Demonbreun Street|Suite 2000|Nashville
-3|CODESCIENCE INC|1401 Chestnut Street|Suite 100|Chattanooga
-3|CodeScience Inc|1401 Chestnut Street|Suite 100|Chattanooga
-3|CODESCIENCE INC|1401 Chestnut Street|Suite 100|CHATTANOOGA
-3|AMFAS International Inc|1661 International Drive|Suite 400|Memphis
-3|Icon Solutions Inc|1661 International Drive|Suite 400|Memphis
-3|Amfas International Inc|1661 International Drive|Suite 400|Memphis
-3|AUGUST BIOSERVICES LLC|1845 ELM HILL PIKE||NASHVILLE
-3|PMI BioPharma Solutions LLC|1845 Elm Hill Pike||Nashville
-3|August Bioservices LLC|1845 Elm Hill Pike||Nashville
-3|JEEVAN TECHNOLOGIES INC|233 WILSON PIKE CIR|STE 2A|BRENTWOOD
-3|JEEVAN TECHNOLOGIES INC|233 WILSON PIKE CIR|SUITE 2A|BRENTWOOD
-3|Jeevan Technologies Inc|233 Wilson Pike Cir|Suite 2A|Brentwood
-3|PILLSBURY WINTHROP SHAW PITTMAN LLP|333 COMMERCE STREET|13TH FLOOR|NASHVILLE
-3|PILLSBURY WINTHROP SHAW PITTMAN LLP|333 COMMERCE STREET|SUITE 1300|NASHVILLE
-3|PILLSBURY WINTHROP SHAW PITTMAN LLP|333 COMMERCE STREET|Suite 1300|NASHVILLE
-3|IB Technologies LLC|3401 Mallory Lane|Ste 100|Franklin
-3|DataPlusPlus LLC|3401 Mallory Lane|Suite 100|Franklin
-3|IB Technologies LLC|3401 Mallory Lane|Suite 100|Franklin
-3|Ariento Inc|377 Riverside Drive|Suite 106|Franklin
-3|Sanorbix LLC|377 Riverside Drive|Suite 200|Franklin
-3|i2i Systems Inc|377 Riverside Drive|Suite 300|Franklin
-3|SmileDirectClub Inc|414 Union Street||Nashville
-3|SmileDirectClub|414 Union Street||Nashville
-3|SmileDirectClub LLC|414 Union Street||Nashville
-3|Amentum Technology Inc|600 William Northern Boulevard|N/A|Tullahoma
-3|Amentum Technology Inc|600 William Northern Boulevard||Tullahoma
-3|Jacobs Technology Inc|600 William Northern Boulevard||Tullahoma
-3|NY SYSTEMS INC|651 E 4TH ST|STE 401|CHATTANOOGA
-3|NY SYSTEMS INC|651 E 4TH ST|SUITE 401|CHATTANOOGA
-3|NY SYSTEMS INC|651 E 4TH ST, STE 401||CHATTANOOGA
-3|NY SYSTEMS INC|651 E 4TH ST, STE 401||Chattanooga
-3|NY SYSTEMS INC|651 E 4th St|Ste 401|Chattanooga
-3|NY SYSTEMS INC|651 E 4th St, Ste 401||Chattanooga
-3|UNIQUE LEKEY RESOURCES INC|91 PEYTON PARKWAY|SUITE 102|COLLIERVILLE
-3|UNIQUE KEY RESOURCES INC|91 PEYTON PARKWAY|SUITE 102|COLLIERVILLE
-3|UNIQUE KEY RESOURCES INC|91 PEYTON PARKWAY|SUITE102|COLLIERVILLE
-2|Venn Technologies Inc|10063 Market Cross Ln||Collierville
-2|VENN TECHNOLOGIES INC|10063 Market Cross Ln||Collierville
-2|Patroness LLC|101 Creekside Crossing|Suite 1700 244|Brentwood
-2|Luci Mobility Inc|101 Creekside Crossing|Suite 1700, 244|Brentwood
-2|Centralized Management Services LLC|102 Woodmont Boulevard|Suite 350|Nashville
-2|Episode Solutions LLC|102 Woodmont Boulevard|Suite 350|Nashville
-2|WAP Sustainability Consulting LLC|103 Powell Ct.|Ste 200|Brentwood
-2|WAP Sustainability Consulting LLC|103 Powell Ct.|Suite 200|Brentwood
-2|Call Design NA Inc|1033 Demonbreun Street|300|Nashville
-2|Healthcare Management Partners LLC|1033 Demonbreun Street|Suite 300|Nashville
-2|KeyLogic Associates Inc|104 Union Valley Road|Suite 2|Oak Ridge
-2|KeyLogic Associates Inc|104 Union Valley Road||Oak Ridge
-2|Buckman Laboratories International INC|1256 N McLean Blvd||Memphis
-2|Buckman Laboratories International Inc|1256 N McLean Blvd||Memphis
-2|Syssero Inc|134 N Market St|4006|Chattanooga
-2|Syssero Inc|134 N Market St||Chattanooga
-2|Galaxy3 Corp|140 S Main Street|Suite 10|Collierville
-2|Galaxy3 Corp Inc|140 S Main Street|Suite 16|Collierville
-2|906 Studio, PLLC|143 Fifth Avenue South||Franklin
-2|906 Studio Architects LLC|143 Fifth Avenue South||Franklin
-2|The Unmarked Group LLC|150 Third Avenue South|Suite 1700|Nashville
-2|Bass, Berry & Sims PLC|150 Third Avenue South|Suite 2800|Nashville
-2|Tennessee Equine Hospital PLLC|1508 Thompsons Station Road West||Thompsons Station
-2|Tennessee Equine Hospital|1508 Thompsons Station Road West||Thompsons Station
-2|Baker, Donelson, Bearman, Caldwell & Berkowitz, PC|165 Madison Avenue|Suite 2000|Memphis
-2|Baker, Donelson, Bearman, Caldwell & Berkowitz, OC|165 Madison Avenue|Suite 2000|Memphis
-2|WAP SUSTAINABILITY LLC|1701 MARKET STREET||CHATTANOOGA
-2|WAP Sustainability Consulting LLC|1701 Market Street||Chattanooga
-2|THE MEDIA EFFECT LLC|1705 Carroll Lane||Chattanooga
-2|MEDIA EFFECT|1705 Carroll Lane||Chattanooga
-2|Syntage Tech LLC|1984 Providence Parkway|STE 203H|Mount Juliet
-2|Syntage Tech LLC|1984 Providence Parkway|Suite 203H|Mount Juliet
-2|Baker Donelson Bearman Caldwell & Berkowitz PC|2000 First Tennessee Building|165 Madison Ave|Memphis
-2|Baker Donelson Bearman Caldwell & Berkowitz PC|2000 First Tennessee Building|165 Madison Avenue|Memphis
-2|FreightWise LLC|214 Centerview Drive|Suite 100|Brentwood
-2|FreightWise LLC|214 Centerview Drive|Suite 350|Brentwood
-2|Hastings Architecture LLC|225 Polk Avenue|Suite 100|Nashville
-2|MCBI One LLC|225 Polk Avenue|Suite 220|Nashville
-2|LabConnect LLC|2304 Silverdale Dr.|Suite 100|Johnson City
-2|LabConnect Holdings Inc|2304 Silverdale Dr.|Suite 100|Johnson City
-2|Upstream Vision LLC|2715 Bransford Avenue||Nashville
-2|Neurotargeting LLC|2715 Bransford Avenue||Nashville
-2|Lose & Associates Inc|2809 Foster Avenue|N/A|Nashville
-2|Lose & Associates Inc|2809 Foster Avenue||Nashville
-2|AXIVISE INFORMATION TECHNOLOGIES INC|299 S WALNUT BEND ROAD|SUITE 202|CORDOVA
-2|Axivise Information Technologies Inc|299 S Walnut Bend Road|202|Cordova
-2|SpecialtyCare Inc|3 Maryland Farms|Suite 200|Brentwood
-2|SpecialtyCare Inc|3 Maryland Farms||Brentwood
-2|Qualifacts Systems Inc|315 Deaderick Street|Suite 2300|Nashville
-2|Qualifacts Systems LLC|315 Deaderick Street|Suite 2300|Nashville
-2|Specialist Resources Global Inc|318 SEABOAROAD LANE|SUITE 110|FRANKLIN
-2|SPECIALIST RESOURCES GLOBAL INC|318 SEABOAROAD LANE|Suite 110|Franklin
-2|FLEXTECH INC|318 Seaboard Lane|Suite 110|Franklin
-2|Specialist Resources Global Inc|318 Seaboard Lane|Suite 110|Franklin
-2|Lirio LLC|320 Corporate Drive||Knoxville
-2|Lirio Inc|320 Corporate Drive||Knoxville
-2|Ameya Infotech LLC|3238 PLAYERS CLUB CIR  75||MEMPHIS
-2|Ameya Infotech Inc|3238 PLAYERS CLUB CIR  75||MEMPHIS
-2|CLOUDYWING TECHNOLOGIES INC|340 New Byhalia Road|Suite 2A|Collierville
-2|Cloudywing Technologies Inc|340 New Byhalia Road|Suite 2A|Collierville
-2|CareOperative LLC|340 Seven Springs Way|Suite 600|Brentwood
-2|JMT Consultants US Inc|340 Seven Springs Way|Suite 760|Brentwood
-2|CRESTSOFT INC|348 New Byhalia Road|Ste 6|Collierville
-2|Codeworks IT LLC|348 New Byhalia Road|Suite 7|Collierville
-2|UpSquad|3618 Walker Avenue||Memphis
-2|Upsquad|3618 Walker Avenue||Memphis
-2|SIMAXIVE TECHNOLOGIES INC|364 NEW BYHALIA ROAD|SUITE 4|COLLIERVILLE
-2|S3 SOLUTIONS LLC|364 NEW BYHALIA ROAD|SUITE 4A|COLLIERVILLE
-2|BRICKS IT SOLUTIONS LLC|366 NEW BYHALIA ROAD|SUITE 7|COLLIERVILLE
-2|BRICKS IT SOLUTIONS INC|366 NEW BYHALIA ROAD|SUITE 7|COLLIERVILLE
-2|FRANKLAR TECHNOLOGIES LLC|40 BURTON HILLS BLVD.|SUITE 200|NASHVILLE
-2|FRANKLAR TECHNOLOGIES LLC|40 BURTON HILLS BLVD.|SUITE. 200|NASHVILLE
-2|CHS Shared Business Operations LLC|4000 Meridian Blvd.||Franklin
-2|CHS SBO LLC|4000 Meridian Blvd.||Franklin
-2|Medalogix LLC|401 Commerce Street|Suite 360|Nashville
-2|Medalogix LLC|401 Commerce Street|Suite 920|Nashville
-2|TROR LLC|401 Ronan Way||Spring Hill
-2|Tror LLC|401 Ronan Way||Spring Hill
-2|ProviderTrust Inc|406 11th Ave N|Ste 250|Nashville
-2|ProviderTrust Inc|406 11th Ave N|Suite 250|Nashville
-2|FortyAU|4101 Charlotte Ave|Building E, Suite 150|Nashville
-2|Forty AU LLC|4101 Charlotte Ave|Building E, Suite 150|Nashville
-2|NEOTEK SOLUTIONS LLC|4235 Hillsboro Pike|STE 300|Nashville
-2|Hunter Shore Group Inc|4235 Hillsboro Pike|Suite 300|Nashville
-2|Deep Insight Solutions Inc (dba Blattner Technologies)|424 Church Street|Suite 2000|Nashville
-2|Deep Insight Solutions Inc|424 Church Street|Suite 2000|Nashville
-2|Loyale Healthcare LLC|4640 Cummings Park Drive||Nashville
-2|RevSpring Inc|4640 Cummings Park Drive||Nashville
-2|GIA TECHNOLOGIES INC|501 Union St|Suite 539|Nashville
-2|Big B Corporation|501 Union St|Suite 545, PMB 40191|Nashville
-2|Holland & Knight LLP|511 Union Street|Suite 2700|Nashville
-2|Waller Lansden Dortch & Davis, LLP|511 Union Street|Suite 2700|Nashville
-2|Alishah Inc|5247 Hickory Hollow Pkwy||Antioch
-2|Alishah INC|5247 hickory hollow pkwy||antioch
-2|The Brand House Collective Inc|5310 Maryland Way||Brentwood
-2|Kirklands Inc|5310 Maryland Way||Brentwood
-2|Vaco LLC|5501 Virgina Way|Suite 120|Brentwood
-2|Highspring LLC|5501 Virgina Way|Suite 120|Brentwood
-2|Agranee Tech Inc|555 Marriott Drive|Suite 315|Nashville
-2|Syntage Tech LLC|555 Marriott Drive|Suite 315|Nashville
-2|Xcelinfosystems LLC|6000 Poplar Ave|STE 250|Memphis
-2|Xcelinfosystems LLC|6000 Poplar Ave|Suite 250|Memphis
-2|Barge Design Solutions Inc|615 3rd Avenue South|Suite 700|Nashville
-2|ResourceTek LLC|615 3rd Avenue South|Suite 700|Nashville
-2|Verana Health Inc|625 South Gay St.|Suite 310|Koxville
-2|Verana Health Inc|625 South Gay St.|Suite 310|Knoxville
-2|Verana Health Inc|625 South Gay Street|310|Knoxville
-2|Verana Health Inc|625 South Gay Street|Suite 310|Knoxville
-2|LAKTAN LLC|6304 Crowne Brook Cir||Franklin
-2|LAKTAN LLC|6304 Crowne brook Cir||Franklin
-2|ARROYO CONSULTING LLC|6339 Charlotte Pike|901|Nashville
-2|Stella IT Solutions LLC|6339 Charlotte Pike|901|Nashville
-2|Ritchie Smith Associates|65 Union Avenue|Ste 1140|Memphis
-2|Archer Malmo Inc|65 Union Avenue|Suite 500|Memphis
-2|CONCH TECHNOLOGIES INC|6750 POPLAR AVE|SUITE 711|MEMPHIS
-2|CONCH TECHNOLOGIES|6750 POPLAR AVE|SUITE 711|MEMPHIS
-2|GEODIS Logistics LLC|7101  Executive Center Drive|Suite 333|Brentwood
-2|GEODIS USA LLC|7101  Executive Center Drive|Suite 333|Brentwood
-2|GEODIS Logistics LLC|7101 Executive Center Drive|Suite 333|Brentwood
-2|GEODIS USA LLC|7101 Executive Center Drive|Suite 333|Brentwood
-2|CODESCIENCE INC|711 Signal Mtn. Road|Suite 364|CHATTANOOGA
-2|CodeScience Inc|711 Signal Mtn. Road|Suite 364|Chattanooga
-2|Inventory Locator Services|8001 Centerview Parkway||Cordova
-2|Inventory Locator Services Inc|8001 Centerview Parkway||Cordova
-2|Harvey Nash Inc|810 Crescent Centre Dr|Suite 120|Franklin
-2|Harvey Nash Inc|810 Crescent Centre Dr||Franklin
-2|CENTERLINE BUSINESS SERVICES LLC|813 RIDGE LAKE BLVD.||MEMPHIS
-2|Madden Moorhead & Stokes LLC|813 Ridge Lake Blvd.|Suite 200|Memphis
-2|SVS TECHNOLOGIES LIMITED|8700 TRAIL LAKE DRIVE WEST|SUITE 228|MEMPHIS
-2|SVS Technologies Limited|8700 Trail Lake Drive West|Suite 228|Memphis
-2|SVS Technologies Limited (DUNS 079287817)|8700 Trail Lake Drive West, Suite 228||Memphis
-2|SVS Technologies Limited|8700 Trail Lake Drive West, Suite 228||Memphis
-2|Emma Inc|9 Lea Avenue||Nashville
-2|Selligent Inc|9 Lea Avenue||Nashville
-1|Landair Logistics Inc|1 Landair Way||Greeneville
-1|Nissan North America Inc|1 Nissan Way||Franklin
-1|Nissan North America Inc|1 Nissn Way||Franklin
-1|HCA Human Resources LLC|1 Park Plaza||Nashville
-1|M Dorenkamp LLC|10 Burton Hills Blvd.|Floor 4|Nashville
-1|SIARP Technologies LLC|100  Powell Place|STE 1210|Nashville
-1|Datably Inc|100 Cherokee Blvd|Suite 305|Chattanooga
-1|OAK RIDGE ASSOCIATED UNIVERSITIES|100 ORAU WAY|P.O. BOX 117  MC 100|OAK RIDGE
-1|Hodges Foundation Inc|100 Oceanside Drive||Nashville
-1|Simplify ASC Inc|100 Westwood Place|Suite 120|Brentwood
-1|Hitachi Zosen Inova U.S.A. LLC|10025 Investment Drive|Suite 200|Knoxville
-1|Great Southern Advisory LLC|1015 Mansfield St||Nashville
-1|Great Southern Advisory LLC|1015 Mansfield Street||Nashville
-1|Deacon Health Inc|102 Woodmont Blvd|Suite 300|Nashville
-1|General Graphene Corporation|10239 Cogdill Road||Knoxville
-1|WAP Sustainability Consulting LLC|103 Powell Court|Suite 200|Brentwood
-1|WAP Sustainability Consulting LLC|103 Power Court|Suite 200|Brentwood
-1|SAN Publisher Intelligence, LLP|104 Continental Place|Suite 350|Brentwood
-1|InFocus Clinical Research|105 Continental Place|Suite 350|Brentwood
-1|Boston Government Services|105 Mitchell Road|Suite 101|Oak Ridge
-1|DSH & Associates|10519 Lexington Drive||Knoxville
-1|INDUKURI INFORMATION SERVICES INC|106 Trailing Blossom Lane||Goodlettsville
-1|Financial Cents|10646 Bald Cypress Lane||Knoxville
-1|Legacy Research LLC|1085 BACKSIDE BEAVEROADAM ROAD||CENTERVILLE 37033-3823
-1|Edward Buiel Consulting LLC|1086 Duncan Avenue||Chattanooga
-1|Hawkins Partners Inc|110 S 10th Street||Nashville
-1|HealthTrust Purchasing Group|1100 Dr MLK Blvd|Suite 1100|Nashville
-1|Sarah Cannon Research Institute (SCRI)|1100 Dr. Martin Luther King Jr. Blvd.|Suite 800|Nashville
-1|Rays Technical Solutions Inc|1100 Halle Park Circle Suite 102||Collierville
-1|Emerald Operating Partners LLC|1100 Market Street|Suite 204|Chattanooga
-1|Cornwall Alliance for the Stewardship of Creation|11081 Shady Lane,||Eads
-1|RevSpring Inc|1131 4th Avenue South|Suite 330|Nashville
-1|Sibirtech LLC|116 Agnes Road|Suite 200|Knoxville
-1|Intelli-Inform LLC|116 Agnes Road, Ste 200||Knoxville
-1|Petadigit LLC|11606 Chapman Highway|Suite 6B|Seymour
-1|ANJ America LLC|119 South Main Street||Memphis
-1|Franklin Madison Group LLC|120 Brentwood Commons Way|Suite 700|Brentwood
-1|Beacon Center of Tennessee|1200 Clinton Street|205|Nashville
-1|Henderson, Hutcherson & McCullough, PLLC|1200 Market St||Chattanooga
-1|Sanorbix LLC|1201 Liberty Pike|Suite 229 1096|Franklin
-1|Revance Therapeutics Inc|1222  Demonbreun St.|FLR 20|Nashville
-1|SociallyU LLC|1222 East Main Street|Suite 102|Chattanooga
-1|Drive Holdings LLC|1232 Topside Road||Louisville
-1|MTG Engineering Inc|12373 Nee Cee Drive||Soddy Daisy
-1|Engineering Support Team Inc|126 Third Avenue N||Franklin
-1|Techmaster Data Solutions LLC|1321 Murfreesboro Road|Suite 511|Nashville
-1|Energybox Inc|1323 6th Avenue N||Nashville
-1|InTime Solutions LLC|135 Signature Glen CIR E|102|Collierville
-1|Nashville Civic Design Center|138 Second Avenue North, Ste. 106||Nashville
-1|SIMAXIVE TECHNOLOGIES INC|1410 Rain Drop Dr||Collierville
-1|Mindful Tech Solutions Inc|1418 Caribou Lane||Knoxville
-1|Metropolis Employee Services LLC|144 2nd Avenue N|3rd Floor|Nashville
-1|Automate IT Inc|1501 County Hospital Road||Nashville
-1|TN Equine Hospital|1508 Thompsons Station Road W||Thompsons Statoin
-1|SmileDirectClub LLC|1530 Antioch Pike||Antioch
-1|Kilgore Flares Company LLC|155 Kilgore Drive||Toone
-1|Phosphorus Cybersecurity Inc|1600 West End Avenue|Suite 300|Nashville
-1|CTS Information Services LLC|1645  Westgate Circle||Brentwood
-1|Ayita Technologies LLC|1650 Murfreesboro Road|Suite 235|Franklin
-1|MOORE INFOTECH INC|1661 International Dr,Suite  400||MEMPHIS
-1|Gulf States Engineering of Tennessee Inc|176 Thompson Ln|Suite 200|Nashville
-1|NIRAV INC|1797 Chadwick CT||Hixson
-1|MINDMAP LLC|1800 MALLORY LANE|SUITE D|BRENTWOOD
-1|MindMap LLC|1800 Mallory Ln|Suite D|Brentwood
-1|Healthcare Systems & Technologies LLC|1801 West End Ave|Suite 300|Nashville
-1|Healthcare Systems & Technologies|1801 West End Blvd.|SUITE 300|Nashville
-1|BOS Framework Inc|1804 Williamson Ct.|Suite 207|Brentwood
-1|3Avenir LLC|1840 Pyramid Place|Suite 357|Memphis
-1|ANJ America LLC|19 South Main Street||Memphis
-1|Ludi Inc|20 Burton Hills Blvd|Ste 150|Nashville
-1|NEW ROADS LOGISTICS LLC|200 W MARTIN LUTHER KING BLVD|SUITE 1000|CHATTANOOGA
-1|BLOSSOM TECH INC|200 W. Martin Luther King Blvd.,|Suite 1000|Chattanooga
-1|BOS Framework Inc|2000 Mallory Lane|130 565|Franklin
-1|textLIVING LLC|2006 Lindell Ave||Nashville
-1|LBMC, PC|201 Franklin Road||Brentwood
-1|Dismukes LLC|2024A Lindell Avenue|Studio 1|NASHVILLE
-1|Ancore LLC|203 3ROAD AVENUE S|Suite 200|Franklin
-1|JBS Energy Solutions LLC|2034 Hamilton Pl Blvd|Suite 400|Chattanooga
-1|Shop-Ware Inc|2035 Lakeside Centre Way|Suite 100|Knoxville
-1|Wagon Wheel Title and Escrow LLC|204 S 11th St||Nashville
-1|PRODATA PLATFORM INC|2055 East Brooks Road|1014|Memphis
-1|Crown Laboratories Inc|207 Mockingbird Lane||Johnson City
-1|VBJ TECH LLC|207 N BOONE STREET|SUITE 1500|JOHNSON CITY
-1|VBJ TECH LLC|207 N. Boone Street|Suite 1500|Johnson City
-1|The Bulleit Group Inc|209 10th Ave S|Cummins Station, Suite 560|Nashville
-1|Rain Technologies Inc|209 10th Ave S, Suite 160||Nashville
-1|Unlock Health Inc|209 10th Avenue|Suite 530|Nashville
-1|GraphiteRx Inc|210 25th Avenue N|Suite 1210|Nashville
-1|10 Cube Inc|210 King Arthur Cir||Franklin
-1|TMPartners, PLLC|211 Franklin Road|Suite 200|Brentwood
-1|The Dalton Agency Inc|2115 Yeaman Place|Ste 210|Nashville
-1|1Link Technology LLC|2132 West Street||Germantown
-1|TRC Technologies Inc|217 Ward Circle||Brentwood
-1|Gresham Smith|222  2nd Avenue South|STE 1400|Nashville
-1|TechMah CMF LLC|2240 Sutherland Ave|Suite 2|Knoxville
-1|ATA Advisory LLC|227 Oil Well Road||Jackson
-1|Civil Site Design Group, PLLC|2305 Kline Avenue|Suite 300|Nashville
-1|Applied Gratitude Inc|231 Public Square|Suite 200|Franklin
-1|Online Development Inc|2332 New Sentinel Drive|Suite 120|Knoxville
-1|ONLINE DEVELOPMENT INC|2332 News Sentinel Drive|Suite 120|Knoxville
-1|TROR LLC|235 Noah Dr.|Suite 600|Franklin
-1|Energybox Inc|240 Great Circle Road  318||Nashville
-1|High Performance Automation & Controls LLC|242 W Main St PMB196||Hendersonville
-1|Clearwater Compliance|242 W. Main Street|PMB 316|Hendersonville
-1|Kanini Software Solutions Inc|25 Century Blvd|Suite 602|Nashville
-1|Kanini Software Solutions Inc|25 Century Blvd.|Suite 602|Nashville
-1|CEadvisory Inc|2510 8th Avenue South|2nd Floor|Nashville
-1|Universal Robotics Inc|2518 Smith Springs Road||Nashville
-1|EpiCentric Consulting LLC|2550 Meridian Blvd|Suite 200|Franklin
-1|ICV Solutions Inc|2555 Meridian Blvd.|Suite 150|Franklin
-1|Cozen Technology Solutions Inc|2615 Medical Center Parkway|Suite 1560|Murfreesboro
-1|WANG LAW GROUP PLLC|2720 NOLENSVILLE PIKE|STE 200A|NASHVILLE
-1|Independent Rapid Innovative Solutions LLC|2724 Cason Ln||Murfreesboro
-1|Waves Inc|2800 Merchant Drive||Knoxville
-1|Automation NTH|282 Mason Road||La Vergne
-1|Direct Investor Partners Company|2949 Nolensville Pike|Suite C|Nashville
-1|PIONEER TECHLABS LLC|295 Washington Ave|STE 101|Memphis
-1|I. C. Thomasson Associates Inc|2950 Kraft Drive||Nashville
-1|ASP Web Solutions LLC|2959 Elmore Park|Suite 1|Bartlett
-1|Smith Seckman Reid Inc|2995 Sidco Drive||Nashville
-1|SpecialtyCare Inc|3  Maryland Farms||Brentwood
-1|A2H Inc|3009 Davies Plantation||Lakeland
-1|A2H Inc|3009 Davies Plantation Road||Lakeland
-1|Athena Engineering and Environmental LLC|3012 Business Park Circle|Suite 100|Goodlettsville
-1|LightWave Solar LLC|3026 Owen Dr.|Suite 104|Nashville
-1|Idrible LLC|3033 Devinney Dr||Franklin
-1|Idrible LLC|3033 Devinney Dr.,||Franklin
-1|March, Adams and Associates|310 Dodds Avenue||Chattanooga
-1|Ncontracts LLC|314 Overlook Circle|Suite 270|Brentwood
-1|Relatient Inc|320 Liberty Pike|Suite 115|Franklin
-1|DataOrb Inc|320 SEVEN SPRINGS WAY|STE 250|BRENTWOOD
-1|ENCORE VET GROUP LLC|3201 BROAD STREET||CHATTANOOGA
-1|Infoteknova INC|3238 Players Club Circle|Suite 75|Memphis
-1|ARKANA INFOTECH INC|3242 Players Club Circle|Suite 1|Memphis
-1|Reliable Financial Solutions Inc|3249 W. Sarazens Circle|Suite 150|Memphis
-1|CII DIVERSITIES LLC|3265 West Sarazens Circle|Ste 202|Memphis
-1|Deep Insight Solutions Inc|330 Franklin Road|Suite 135A 632|Brentwood
-1|Smallbone & Associates, PLLC|330 Mallory Station Road|Ste C 7|Franklin
-1|Syntage Tech LLC|330 Union Pier DR||Mount Juliet
-1|Iron Galaxy Nashville LLC|333 Commerce St.|Suite A100|Nashville
-1|615 PEO LLC|3343 Perimeter Hill Drive|Suite 100|Nashville
-1|Spartan Solutions Inc|338 New Byhalia Road|Suite 1|Collierville
-1|Spartan Solutions Inc|338 New Byhalia Road, Suite 1||Collierville
-1|Cloudywing Technologies Inc|340 New Byhalia Road, Suite 2A||Collierville
-1|SESAC Rights Management Inc|35 Music Square East||Nashville
-1|Novonix Anode Materials LLC|353 Corporate Place||Chattanooga
-1|ZREYA TECH INC|358 New Byhalia Road|Suite 2C|Collierville
-1|FedEx Dataworks Inc|3630 Hacks Cross Road|Building C, 3rd Floor|Memphis
-1|FedEx Dataworks Inc|3670 Hacks Cross Road|Building G, 2nd Floor|Memphis
-1|FedEx Dataworks Inc|3680 Hacks Cross Road||Memphis
-1|Simaxive Technologies Inc|3725 Champion Hill|Suite 3400|Memphis
-1|Ameya Infotech LLC|3725 Champions Hills Dr|Suite 1800|MEMPHIS
-1|Simaxive Technologies Inc|3752 Champion Hills Drive|Suite 3400|Memphis
-1|Chief Engineering PLLC|3762 Getwell Cove||Memphis
-1|Tachi-S Engineering USA Inc|380 Aldi Blvd||Mount Juliet
-1|Advanced Machine Reliability Resources|3978 E McEwen Drive||Franklin
-1|Prospero Management Services LLC|40 S. Main Street|Suite 1300|Memphis
-1|Transport Management Services LLC|400 Birmingham Highway||Chattanooga
-1|CHS Shared Business Operations LLC|4000 Meridian Blvd||Franklin
-1|CJ Advertising LLC|401 Church St.|Suite 2400|Nashvile
-1|ProviderTrust Inc|406 11th Avenue North|Ste 250|Nashville
-1|CLOUD DATA LLC|408 N CEDAR  BLUFF  ROAD|STE 253|KNOXVILLE
-1|CRA Inc|408 Ramble Wood Cir||Nashville
-1|Cloud Data LLC|408N Cedar Bluff Road|STE 253|KNOXVILLE
-1|Forty AU LLC|4101 Charlotte Avenue|Building E, Suite 150|Nashville
-1|Intelity Inc|414 Union St|STE 1900|Nashville
-1|JIREH-NISSI ENTERPRISES LLC|4183 Franklin Road|Suite B1 112|Murfreesboro
-1|Shapiro & Company Architects PC|435 Madison Avenue, Suite 200||Memphis
-1|De Maximis Data Management Solutions Inc|450 Montbrook Lane||Knoxville
-1|POPULAR TECHNOLOGIES INC|4646 POPLAR AVENUE|SUITE 208|MEMPHIS
-1|Medelis Inc|4690 Columbia Pike|Suite A|Thompson Station
-1|Applied Health Analytics LLC|480 James Robertson Parkway|Suite 200|Nashville
-1|JIREH-NISSI ENTERPRISES LLC|4843 Trevino Court||Murfreesboro
-1|Prospero Management Services LLC|50 South B.B. King|Suite 100|Memphis
-1|DataInsight LLC|5002 Fullbright court||Franklin
-1|Kiser & Vogrin Design LLC|5005 Meridian Blvd|Suite 100|Franklin
-1|Metropolis Employee Services LLC|501 Commerce Street|Suite 1210|Nashville
-1|GraphiteRx Inc|501 Union Street|Suite 600F|Nashville
-1|Datacorns LLC|5016 Centennial Blvd. Suite 200||Nashville
-1|Datacorns LLC|5016 Centennial Blvd., Suite 200||Nashville
-1|Berry Farms Animal Hospital PLLC|5021 Hughes Xing||Franklin
-1|Aicomp Consulting Inc|5050 Poplar Avenue|Suite 715|Memphis
-1|Supply Chain Diversity Inc|5074 Rock Springs Road||Smyrna
-1|Joshua Tree Group LLC|510 Columbia Ave|Suite 252|Franklin
-1|Marshall Technologies Inc|5100 Poplar Ave|Suite 2738|Memphis
-1|Catalyst Design Group, PC|5100 Tennessee Avenue||Nashville
-1|Ancore LLC|5141 Virginia Way|Suite 250|Brentwood
-1|Aegis Sciences Corporation|515 Great Circle Road||Nashville
-1|RIDGEVIEW INVESTMENT LLC|516 Vivian Lee Ln||Knoxville
-1|INFOTECHORG LLC|517 Larkin Ct.||Mount Juliet
-1|SIMAXIVE TECHNOLOGIES INC|52 TIMBER CREEK DRIVE|SUITE 202|CORDOVA
-1|VELOCE IT GROUP LLC|52 TIMEBER CREEK|SUITE 202|CORDOVA
-1|Elkins Surveying LLC|520 W Lytle St|Ste B|Murfreesboro
-1|Elkins Surveying LLC|520 W. Lytle St.|Suite B|Murfreesboro
-1|Conversion Interactive Agency|5210 Maryland Way|Suite 301|Brentwood
-1|Quality Manufacturing Services Inc|5395 Murfreesboro Road||La Vergne
-1|PlayCore Wisconsin Inc|544 Chestnut Street||Chattanooga
-1|Premise Health|5500 Maryland Way|Suite 120|Brentwood
-1|CoreCivic of Tennessee LLC|5501 Virginia Way|Suite 110|Brentwood
-1|Appleman Test Company|555 MAIN STREET||Nashville
-1|Syntage Tech LLC|555 Marriott Dr|Suite 315|Nashville
-1|Patrick Accounting & Tax Services, PLLC|5570 Murray Avenue||Memphis
-1|ANJ America LLC|5575 Wagon Road Gap||Memphis
-1|Mountain Management Services Inc|5600 Brainerd Road|Ste 500|Chattanooga
-1|JS Software Services LLC|5865 Ridgeway Parkway Center|Suite 105|Memphis
-1|ACCENTURE NATIONAL INC|6000 Popular Avenue|Suite 250|Memphis
-1|EMC Structural Engineers PC|601 Grassmere Park Drive, Suite 1B||Nashville
-1|Higher Visibility LLC|6070 Poplar Ave, Suite 760||Memphis
-1|Rodefer Moss & Co., PLLC|608 Mabry Hood Road|Suite 300|Knoxville
-1|Khoury CPA PLLC|610 W COLLEGE ST|STE 136|MURFREESBORO
-1|Khoury CPA PLLC|610 W College St,|Ste 136|Murfreesboro
-1|MP&F LLC|611 Commerce St.|Ste 3000|Nashville
-1|THE LEWIS GROUP ARCHITECTS INC|611 KING STREET|SUITE 250|KNOXVILLE
-1|Just Like Falling Off A Bike LLC|613 Ewing Avenue|Suite 110|Nashville
-1|Chamber IT Inc|6148 Lee Hwy|Suite 200 I|Chattanooga
-1|Barge Design Solutions Inc|615 3rd Avenue|Suite 700|Nashville
-1|The Corporate Image, inc.|619 Volunteer Parkway||Bristol
-1|EnerNex LLC|620 Mabry Hood Road|Suite 102|Knoxville
-1|Charles Tombras Advertising Inc|620 S. Gay Street||Knoxville
-1|LARES IT SOLUTIONS INC|6200 HOSPITALITY DR|FLOOR 1/SUITE 144|FRANKLIN
-1|LARES IT SOLUTIONS INC|6200 HOSPITALITY DR FL 1 OFFICE 144||FRANKLIN
-1|Pickering Firm Inc|6363 Poplar Avenue, Suite 300||Memphis
-1|Animal Emergency & Specialty Center|6393 Lee Highway||Chattanooga
-1|Dynamic Solutions LLC|6421 Deane Hill Dr Ste 1||Knoxville
-1|Dan Brown & Associates LLC|6424 Baum Drive||Knoxville
-1|A2H Inc|65 Germantown Ct, Suite 300||Cordova
-1|NY Systems Inc|651 4th St|Suite 401|Chattanooga
-1|NY SYSTEMS INC|651 E 4TH ST,|SUITE 401|CHATTANOOGA
-1|Rajbuild Consultants LLC|651 E 4th Street|Suite 200|Chattanooga
-1|Vector Oncology LLC|6555 Quince Road|Suite 400|Memphis
-1|CONCH TECHNOLOGIES INC|6750 PPLAR AVE|SUITE 711|MEMPHIS
-1|BABY GRAND|676 MARSHALL AVENUE|SUITE 101|MEMPHIS
-1|Bottom Line Systems LLC|6840 Carothers Pkwy|Suite 400|Franklin
-1|Bottom Line Systems LLC|6840 Carotohers Pkwy|Suite 400|Franklin
-1|3sixD Inc|700 Craighead Street|Suite 106|Nashville
-1|uLab Systems Inc|7005 APPLING FARMS PKWY|SUITE 103|MEMPHIS
-1|uLab Systems Inc|7005 Appling Farms Parkway|Suite 103|Memphis
-1|Tivity Health Services LLC|701 Cool Springs||Franklin
-1|Digital Reasoning Systems Inc|701 Cool Springs Blvd.|Flr. 5|Franklin
-1|Storia Agency LLC|701 S 12th St|Unit B|Nashville
-1|MI Softech Inc|71 Peyton Parkway|Suite 103|Collierville
-1|GEODIS Logistics LLC|7101 Executive Center Dr.|SUITE 333|Brentwood
-1|SIARP Technologies LLC|7106 Crossroads Blvd|STE 206|Brentwood
-1|Crunk Engineering LLC|7112 Crossroads Blvd.|Suite 201|Brentwood
-1|ONLINE DEVELOPMENT INC|7209 Chapman Hwy|Suite E|Knoxville
-1|ICV Solutions Inc|722 Fessey Park Road||Nashville
-1|Ace IT World Inc|725 Cool Springs Blvd|Suite 600|Franklin
-1|Latitude LLC|725 Cool Springs Blvd.|Suite 600|Franklin
-1|eviCore healthcare MSI LLC|730 Cool Springs Boulevard|Suite 800|Franklin
-1|ATN Hoelzel LP|7801 Lee Highway||Chattanooga
-1|Wonolo Inc|800 6th Ave South|Suite 110|Nashville
-1|Van Elkins & Associates, CPAs|800 S. Gay Street, Suite 1919||Knoxville
-1|Franklin Madison Group LLC|801 Crescent Centre Drive|Suite 500|Franklin
-1|SAN Publisher Intelligence Inc|8011 Brooks Chapel Road|Unit 3348|Brentwood
-1|Hamilton Engineering & Surveying LLC|813 Ridge Lake Blvd||Memphis
-1|Orthopaedic Innovation Technology Center Inc|814 Luttrell Street||Knoxville
-1|Health Here Inc|818 18th Ave S|10th Floor|Nashville
-1|Clear Summit LLC|818 18th Avenue S|10th Floor|Nashville
-1|Nestify Internet Inc|818 18th Avenue S.|Fl. 10|Nashville
-1|Sirionlabs Inc|8310 Whetstone Ln||Ooltewah
-1|Miller & Martin PLLC|832 Georgia Avenue|Suite 1200|Chattanooga
-1|Chattanooga Design Studio|850 Market St||Chattanooga
-1|MYTHRI CONSULTING LLC|8668 JOHN HICKMAN PARKWAY|SUITE 402|FRISCO
-1|Lokion Interactive LLC|88 Union Avenue|Suite 900|Memphis
-1|Systems Spray Cooled LLC|885 Seven Oaks Blvd, Ste 910||Smyrna
-1|Culture Shift Team Inc|8858 Lebanon Road||Mt Juliet
-1|Elrod Engineering LLC|887 Seven Oaks Blvd.|Suite 1010|Smyrna
-1|IGT Technologies Inc|8880 Comstock Road||Knoxville
-1|iOntech Consulting LLC|8925 Tournament Drive|Suite 150|Memphis
-1|Sourcing IQ LLC|9005 Overlook Blvd||Brentwood
-1|EFC Systems Inc|9015 Overlook Blvd.||Brentwood
-1|WAP Sustainability Consulting LLC|902 Marengo Lane||Nashville
-1|WAP Sustainability Consulting LLC|902 Marengo Ln||Nashville
-1|EUREKA INFOTECH INC|9047 EXECUTIVE PARK DRIVE|SUITE 115|KNOXVILLE
-1|BYTE WAVE TECHNOLOGIES INC|9050 EXECUTIVE PARK DRIVE|SUITE B106|KNOXVILLE
-1|Nextech Solutions LLC|9054 Valley Crest Lane|Suite 201|Germantown
-1|Sanorbix LLC|9120 Headwaters Dr||Franklin
-1|GOLIATHDATA INC|917 E 16TH ST||CHATTANOOGA
-1|Fisher & Arnold Inc|9180 Crestwyn Hills Drive||Memphis
-1|RSV QOZB LTSS Inc|926 Main Street||Nashville
-1|Katherine Bidwell Haywood|94 Cumberland Street||Memphis
-1|FedEx Dataworks Inc|942 Shady Grove Road S||Memphis
-1|IGT Technologies Inc|9721 Sherrill Blvd||Knoxville
-1|BG Staffing LLC|Harpeth on the Green IV|100 Westwood Pl Suite 110|Brentwood
-1|HCA Human Resources LLC|One Park Plaza||Nashville
-1|OAK RIDGE ASSOCIATED UNIVERSITIES|P.O. BOX 117-MC-100||OAK RIDGE
-1|Dan Brown Associates, P.C|PO BOX 52626|N/A|Knoxville
-1|UNIQUE KEY RESOURCES INC|UNIQUE KEY RESOURCES INC|SUITE 102|COLLIERVILLE
-1|Miller & Martin PLLC|Volunteer BuIlding Suite 1200|832 Georgia Avenue|Chattanooga
-(536 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+4|7TECHNIX LLC|6000 POPLAR AVENUE|MEMPHIS|TN
+4|ARKANA INFOTECH INC|6000 POPLAR AVENUE|MEMPHIS|TN
+4|COOK SYSTEMS INTERNATIONAL INC|6000 POPLAR AVENUE|MEMPHIS|TN
+4|NIKAYA LLC|6000 POPLAR AVENUE|MEMPHIS|TN
+3|AST GLOBAL INC|8295 TOURNAMENT DRIVE|MEMPHIS|TN
+3|SAI TECHNOLOGIES LLC|8295 TOURNAMENT DRIVE|MEMPHIS|TN
+3|ZREYA TECH INC|8295 TOURNAMENT DRIVE|MEMPHIS|TN
+2|AGRANEE TECH INC|555 MARRIOTT DRIVE|NASHVILLE|TN
+2|AMENTUM TECHNOLOGY INC|600 WILLIAM NORTHERN BOULEVARD|TULLAHOMA|TN
+2|AMEYA INFOTECH INC|3238 PLAYERS CLUB CIR  75|MEMPHIS|TN
+2|AMEYA INFOTECH LLC|3238 PLAYERS CLUB CIR  75|MEMPHIS|TN
+2|CODEWORKS IT LLC|348 NEW BYHALIA ROAD|COLLIERVILLE|TN
+2|CONCH TECHNOLOGIES|6750 POPLAR AVE|MEMPHIS|TN
+2|CONCH TECHNOLOGIES INC|6750 POPLAR AVE|MEMPHIS|TN
+2|CRESTSOFT INC|348 NEW BYHALIA ROAD|COLLIERVILLE|TN
+2|DATAPLUSPLUS LLC|3401 MALLORY LANE|FRANKLIN|TN
+2|GALAXY3 CORP|140 S MAIN STREET|COLLIERVILLE|TN
+2|GALAXY3 CORP INC|140 S MAIN STREET|COLLIERVILLE|TN
+2|HARVEY NASH INC|810 CRESCENT CENTRE|FRANKLIN|TN
+2|IB TECHNOLOGIES LLC|3401 MALLORY LANE|FRANKLIN|TN
+2|JACOBS TECHNOLOGY INC|600 WILLIAM NORTHERN BOULEVARD|TULLAHOMA|TN
+2|LATITUDE 36 INC|810 CRESCENT CENTRE|FRANKLIN|TN
+2|MILLENNIUM GLOBAL TECHNOLOGIES LLC|1661 INTERNATIONAL DR|MEMPHIS|TN
+2|MOORE INFOTECH INC|1661 INTERNATIONAL DR|MEMPHIS|TN
+2|S3 SOLUTIONS LLC|364 NEW BYHALIA ROAD|COLLIERVILLE|TN
+2|SIMAXIVE TECHNOLOGIES INC|364 NEW BYHALIA ROAD|COLLIERVILLE|TN
+2|SVS TECHNOLOGIES LIMITED|8700 TRAIL LAKE DRIVE WEST, SUITE 228|MEMPHIS|TN
+2|SVS TECHNOLOGIES LIMITED (DUNS 079287817)|8700 TRAIL LAKE DRIVE WEST, SUITE 228|MEMPHIS|TN
+2|SYNTAGE TECH LLC|555 MARRIOTT DRIVE|NASHVILLE|TN
+2|UNIQUE KEY RESOURCES INC|91 PEYTON PARKWAY|COLLIERVILLE|TN
+2|UNIQUE LEKEY RESOURCES INC|91 PEYTON PARKWAY|COLLIERVILLE|TN
+1|10 CUBE INC|210 KING ARTHUR CIR|FRANKLIN|TN
+1|1LINK TECHNOLOGY LLC|2132 WEST STREET|GERMANTOWN|TN
+1|3SIXD INC|700 CRAIGHEAD STREET|NASHVILLE|TN
+1|ACE IT WORLD INC|725 COOL SPRINGS BLVD|FRANKLIN|TN
+1|AMEYA INFOTECH LLC|3725 CHAMPIONS HILLS DR|MEMPHIS|TN
+1|ANJ AMERICA LLC|119 SOUTH MAIN STREET|MEMPHIS|TN
+1|ANJ AMERICA LLC|19 SOUTH MAIN STREET|MEMPHIS|TN
+1|ARKANA INFOTECH INC|3242 PLAYERS CLUB CIRCLE|MEMPHIS|TN
+1|ARROYO CONSULTING LLC|6339 CHARLOTTE PIKE|NASHVILLE|TN
+1|ASP WEB SOLUTIONS LLC|2959 ELMORE PARK|BARTLETT|TN
+1|AUTOMATE IT INC|1501 COUNTY HOSPITAL ROAD|NASHVILLE|TN
+1|AXIVISE INFORMATION TECHNOLOGIES INC|299 S WALNUT BEND ROAD|CORDOVA|TN
+1|AYITA TECHNOLOGIES LLC|1650 MURFREESBORO ROAD|FRANKLIN|TN
+1|BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ PC|165 MADISON AVENUE|MEMPHIS|TN
+1|BG STAFFING LLC|HARPETH ON THE GREEN IV|BRENTWOOD|TN
+1|BOSTON GOVERNMENT SERVICES|105 MITCHELL ROAD|OAK RIDGE|TN
+1|BRICKS IT SOLUTIONS INC|366 NEW BYHALIA ROAD|COLLIERVILLE|TN
+1|BYTE WAVE TECHNOLOGIES INC|9050 EXECUTIVE PARK DRIVE|KNOXVILLE|TN
+1|CHAMBER IT INC|6148 LEE HWY|CHATTANOOGA|TN
+1|CLOUD DATA LLC|408 N CEDAR BLUFF ROAD|KNOXVILLE|TN
+1|CLOUD DATA LLC|408 N CEDAR  BLUFF  ROAD|KNOXVILLE|TN
+1|CLOUDYWING TECHNOLOGIES INC|340 NEW BYHALIA ROAD, SUITE 2A|COLLIERVILLE|TN
+1|CLOUDYWING TECHNOLOGIES INC|340 NEW BYHALIA ROAD|COLLIERVILLE|TN
+1|CONCH TECHNOLOGIES INC|6750 PPLAR AVE|MEMPHIS|TN
+1|COZEN TECHNOLOGY SOLUTIONS INC|2615 MEDICAL CENTER PARKWAY|MURFREESBORO|TN
+1|ENGINEERING SUPPORT TEAM INC|126 THIRD AVENUE N|FRANKLIN|TN
+1|EUREKA INFOTECH INC|9047 EXECUTIVE PARK DRIVE|KNOXVILLE|TN
+1|FRANKLAR TECHNOLOGIES LLC|40 BURTON HILLS BLVD|NASHVILLE|TN
+1|FRANKLAR TECHNOLOGIES LLC|40 BURTON HILLS BLVD.|NASHVILLE|TN
+1|GIA TECHNOLOGIES INC|501 UNION ST|NASHVILLE|TN
+1|HARVEY NASH INC|810 CRESCENT CENTRE DR|FRANKLIN|TN
+1|ICON SOLUTIONS INC|1661 INTERNATIONAL DRIVE|MEMPHIS|TN
+1|IDRIBLE LLC|3033 DEVINNEY DR|FRANKLIN|TN
+1|IDRIBLE LLC|3033 DEVINNEY DR.,|FRANKLIN|TN
+1|IGT TECHNOLOGIES INC|9721 SHERRILL BLVD|KNOXVILLE|TN
+1|IGT TECHNOLOGIES INC|8880 COMSTOCK ROAD|KNOXVILLE|TN
+1|INDUKURI INFORMATION SERVICES INC|106 TRAILING BLOSSOM LANE|GOODLETTSVILLE|TN
+1|INFOTECHORG LLC|517 LARKIN CT.|MOUNT JULIET|TN
+1|IONTECH CONSULTING LLC|8925 TOURNAMENT DRIVE|MEMPHIS|TN
+1|JEEVAN TECHNOLOGIES INC|233 WILSON PIKE CIR|BRENTWOOD|TN
+1|LARES IT SOLUTIONS INC|6200 HOSPITALITY DR|FRANKLIN|TN
+1|LARES IT SOLUTIONS INC|6200 HOSPITALITY DR FL 1 OFFICE 144|FRANKLIN|TN
+1|LATITUDE LLC|725 COOL SPRINGS BLVD.|FRANKLIN|TN
+1|MARSHALL TECHNOLOGIES INC|5100 POPLAR AVE|MEMPHIS|TN
+1|MI SOFTECH INC|71 PEYTON PARKWAY|COLLIERVILLE|TN
+1|MTG ENGINEERING INC|12373 NEE CEE DRIVE|SODDY DAISY|TN
+1|MYTHRI CONSULTING LLC|8668 JOHN HICKMAN PARKWAY|FRISCO|TN
+1|NEOTEK SOLUTIONS LLC|4235 HILLSBORO PIKE|NASHVILLE|TN
+1|NEXTECH SOLUTIONS LLC|9054 VALLEY CREST LANE|GERMANTOWN|TN
+1|NY SYSTEMS INC|651 E 4TH ST,|CHATTANOOGA|TN
+1|NY SYSTEMS INC|651 E 4TH ST, STE 401|CHATTANOOGA|TN
+1|NY SYSTEMS INC|651 E 4TH ST|CHATTANOOGA|TN
+1|NY SYSTEMS INC|651 4TH ST|CHATTANOOGA|TN
+1|PLAYCORE WISCONSIN INC|544 CHESTNUT STREET|CHATTANOOGA|TN
+1|PRODATA PLATFORM INC|2055 EAST BROOKS ROAD|MEMPHIS|TN
+1|RAYS TECHNICAL SOLUTIONS INC|1100 HALLE PARK CIRCLE SUITE 102|COLLIERVILLE|TN
+1|RODEFER MOSS & CO. PLLC|608 MABRY HOOD ROAD|KNOXVILLE|TN
+1|SIARP TECHNOLOGIES LLC|7106 CROSSROADS BLVD|BRENTWOOD|TN
+1|SIARP TECHNOLOGIES LLC|100  POWELL PLACE|NASHVILLE|TN
+1|SIMAXIVE TECHNOLOGIES INC|52 TIMBER CREEK DRIVE|CORDOVA|TN
+1|SIMAXIVE TECHNOLOGIES INC|3725 CHAMPION HILL|MEMPHIS|TN
+1|SIMAXIVE TECHNOLOGIES INC|3725 CHAMPION HILLS DRIVE|MEMPHIS|TN
+1|SIMAXIVE TECHNOLOGIES INC|3752 CHAMPION HILLS DRIVE|MEMPHIS|TN
+1|SIMAXIVE TECHNOLOGIES INC|1410 RAIN DROP DR|COLLIERVILLE|TN
+1|SPARTAN SOLUTIONS INC|338 NEW BYHALIA ROAD, SUITE 1|COLLIERVILLE|TN
+1|SPARTAN SOLUTIONS INC|338 NEW BYHALIA ROAD|COLLIERVILLE|TN
+1|SPECIALIST RESOURCES GLOBAL INC|318 SEABOARD LANE|FRANKLIN|TN
+1|SVS TECHNOLOGIES LIMITED|8700 TRAIL LAKE DRIVE WEST|MEMPHIS|TN
+1|SYNTAGE TECH LLC|1984 PROVIDENCE PARKWAY|MOUNT JULIET|TN
+1|SYNTAGE TECH LLC|555 MARRIOTT DR|NASHVILLE|TN
+1|SYNTAGE TECH LLC|330 UNION PIER DR|MOUNT JULIET|TN
+1|TECHMASTER DATA SOLUTIONS LLC|1321 MURFREESBORO ROAD|NASHVILLE|TN
+1|TROR LLC|401 RONAN WAY|SPRING HILL|TN
+1|UNIQUE KEY RESOURCES INC|UNIQUE KEY RESOURCES INC|COLLIERVILLE|TN
+1|VBJ TECH LLC|207 N. BOONE STREET|JOHNSON CITY|TN
+1|VELOCE IT GROUP LLC|52 TIMEBER CREEK|CORDOVA|TN
+1|VENN TECHNOLOGIES INC|10063 MARKET CROSS LN|COLLIERVILLE|TN
+1|XCELINFOSYSTEMS LLC|6000 POPLAR AVE|MEMPHIS|TN
+1|ZREYA TECH INC|358 NEW BYHALIA ROAD|COLLIERVILLE|TN
+(110 rows)

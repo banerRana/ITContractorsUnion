@@ -1,38 +1,11 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-3|SINFOTECH LLC|2872 UNIVERSITY AVE|APT A|MORGANTOWN
-3|SINFOTECH LLC|2872 UNIVERSITY AVE|APT F|MORGANTOWN
-3|Sinfotech LLC|2872 University Ave|Apt F|Morgantown
-2|Steptoe & Johnson PLLC|1000 SWISS PINE WAY|STE 200|MORGANTOWN
-2|Steptoe & Johnson PLLC|1000 Swiss Pine Way|Suite 200|Morgantown
-2|ATLAS PREDICTION CONTROL LLC|1740 UNION CARBIDE DRIVE||SOUTH CHARLESTON
-2|AVN Corporation|1740 Union Carbide Drive|Building 740|South Charleston
-2|KeyLogic Systems|3168 Collins Ferry Road||Morgantown
-2|KeyLogic LLC|3168 Collins Ferry Road||Morgantown
-2|Carte & Associates, PLLC|3437 Teays Valley Road||Hurricane
-2|CarteWarwick, PLLC|3437 Teays Valley Road||Hurricane
-2|WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION|4015 FAIRLAWN AVENUE|201 ACEOP ADMINISTRATIVE BUILDING|INSTITUTE
-2|WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION|4015 FAIRLAWN AVENUE|201 BYERS ADMIN BLDG|INSTITUTE
-2|West Virginia University Research Corporation|886 Chestnut Ridge Road|PO Box 6845|Morgantown
-2|West Virginia University Research Corporation|886 Chestnut Ridge Road||Morgantown
-1|M&S Consulting LLC|1 Riddle Court||Morgantown
-1|M&S CONCSULTING LLC|1 SUBURBAN CT.||MORGANTOWN
-1|M&S Consulting LLC|1 Suburban Court||Morgantown
-1|WINSOFT GLOBAL SYSTEMS INC|1000 Gattis School Road|Unit 250|Round Rock
-1|McMillion Research LLC|1012 Kanawha Blvd. East|Suite 301|Charleston
-1|Extreme Endeavors and Consulting LLC|1063 Hickory Corner Road||Philippi
-1|Mountain State Software Solutions|119 E Washington St||Charles Town
-1|Mountain State Software Solutions LLC (MS3)|119 E. Washington Street||Charles Town
-1|Mountain State Justice Inc|1217 Quarrier Street||Charleston
-1|ZDS LLC Dba ZDS Design/Consulting Services|135 Corporate Center Drive||Scott Depot
-1|MARSHALL UNIVERSITY RESEARCH CORPORATION|1676 THIROAD AVENUE||HUNTINGTON
-1|Bailey & Glasser, LLP|209 Capitol Street||Charleston
-1|Daniels Company (West Virginia) Inc|238 Markell Drive||Bluefield
-1|Quality Insights Inc|3001 Chesterfield Avenue||Charleston
-1|MAHANTECH CORPORATION|405 CAPITOL STREET|SUITE 101|CHARLESTON
-1|Direct Online Marketing LLC|4727 Jacob Street||Wheeling
-1|E.L Robinson Engineering Co|5088 W Washington Street||Charleston
-1|E.L. Robinson Engineering Co|5088 W. Washington Street||Charleston
-1|Sostos LLC|591 Herman Ave||Morgantown
-1|The Thrasher Group Inc|600 White Oaks Blvd.|PO Box 940|Bridgeport
-1|Analytica Legalis Inc|PO Box 826||Ona
-(36 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+2|KEYLOGIC LLC|3168 COLLINS FERRY ROAD|MORGANTOWN|WV
+2|KEYLOGIC SYSTEMS|3168 COLLINS FERRY ROAD|MORGANTOWN|WV
+1|ATLAS PREDICTION CONTROL LLC|1740 UNION CARBIDE DRIVE|SOUTH CHARLESTON|WV
+1|M&S CONSULTING LLC|1 SUBURBAN COURT|MORGANTOWN|WV
+1|MAHANTECH CORPORATION|405 CAPITOL STREET|CHARLESTON|WV
+1|SINFOTECH LLC|2872 UNIVERSITY AVE|MORGANTOWN|WV
+1|WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION|4015 FAIRLAWN AVENUE|INSTITUTE|WV
+1|WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION|886 CHESTNUT RIDGE ROAD|MORGANTOWN|WV
+1|WINSOFT GLOBAL SYSTEMS INC|1000 GATTIS SCHOOL ROAD|ROUND ROCK|WV
+(9 rows)

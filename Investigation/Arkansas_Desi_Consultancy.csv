@@ -1,189 +1,59 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-9|menschForce LLC|609 SW 8TH STREET|600|BENTONVILLE
-9|NXT IT LLC|609 SW 8TH STREET|SUITE 600|BENTONVILLE
-9|AMS IT SOLUTIONS LLC|609 SW 8TH STREET|SUITE 600|BENTONVILLE
-9|ANALYTICS QUOTIENT INC|609 SW 8TH STREET|SUITE 600|BENTONVILLE
-9|menschForce LLC|609 SW 8TH STREET|Suite 600|BENTONVILLE
-9|Segra Software Solutions Inc|609 SW 8th Street|6th Floor|Bentonville
-9|ATG Consulting Inc|609 SW 8th Street|6th Floor|Bentonville
-9|menschForce LLC|609 SW 8th Street|Suite 600|Bentonville
-9|menschForce LLC|609 SW 8th Street||Bentonville
-7|First Soft Systems LLC|1116 S WALTON BLVD|STE 163|BENTONVILLE
-7|QBrainX Inc|1116 S Walton Blvd|216|Bentonville
-7|American IT Systems LLC|1116 S Walton Blvd|STE 113|Bentonville
-7|Mavis Solutions LLC|1116 S Walton Blvd|Ste 118|Bentonville
-7|FIRST SOFT SYSTEMS LLC|1116 S Walton Blvd|Ste 163|Bentonville
-7|AMERICAN IT SYSTEMS LLC|1116 S Walton Blvd|Suite 113|Bentonville
-7|RIAI Solutions LLC|1116 S Walton Blvd|Suite 165|Bentonville
-6|QUALITY GLOBAL SERVICES INC|425 W CAPITOL AVE|SUITE 1252|LITTLE ROCK
-6|QUALITY GLOBAL SERVICE INC|425 W CAPITOL AVE|SUITE 1252|LITTLE ROCK
-6|Quality Global Services Inc|425 W Capitol Ave|Ste 1252|Little Rock
-6|K2 Consulting Services LLC|425 W Capitol Ave|Suite 1210|Little Rock
-6|VRPRO IT LLC|425 W Capitol Ave|Suite 1214|Little Rock
-6|EverySpend Inc|425 W Capitol Ave|Suite 3025|Little Rock
-4|TECSOURCE INTERNATIONAL LLC|11901 CRYSTAL HILL ROAD||MAUMELLE
-4|Tecsource International LLC|11901 CRYSTAL HILL ROAD||NORTH LITTLE ROCK
-4|Tecsource International LLC|11901 Crystal Hill Road||North Little Rock
-4|Tecsource International LLC|11901 Crystal Hill Road||Maumelle
-3|Novustech Inc|1039 W WALNUT ST|UNIT D|ROGERS
-3|Novustechinc|1039 W WALNUT ST|UNIT D|ROGERS
-3|Novustech Inc|1039 W Walnut St|Unit D|Rogers
-3|Acoustic, L.P.|1125 Oak Street|Suite 201|Conway
-3|Acoustic LP|1125 Oak Street|Suite 201|Conway
-3|Acoustic, LP|1125 Oak Street|Suite 201|Conway
-3|JT3 INFO SYSTEMS LLC|1202 NE MCCLAIN ROAD|BLDG 7|BENTONVILLE
-3|Teslac IT Solutions LLC|1202 NE McClain Road|Bldg. 7, Suite 128|Bentonville
-3|VIDHA IT SOLUTIONS LLC|1202 NE McClain Road|Suite 148|Bentonville
-3|Libertycom LLC|303 WEST CAPITOL AVE|Suite 330|Little Rock
-3|Libertycom LLC|303 West Capitol Ave|330|Little Rock
-3|Libertycom LLC|303 West Capitol Ave|Suite 330|Little Rock
-3|NATIONAL SOFT SYSTEMS INC|3101 SW I St|Suite 21|Bentonville
-3|Federal Soft Systems Inc|3101 SW I St|Suite 31|Bentonville
-3|UNIQUELOGICSOLUTIONS INC|3101 SW I St|Suite 33|Bentonville
-2|ENFRA TME LLC|1 Allied Dr|Bldg 2, Suite 2600|Little Rock
-2|Bernhard TME LLC|1 Allied Dr|Bldg 2, Suite 2600|Little Rock
-2|ABCO COMPUTERS INC|1008 NW J ST|STE E|BENTONVILLE
-2|ABCO COMPUTERS INC|1008 NW J St|SUITE E|Bentonville
-2|Novustech Inc|1039 W WALNUT ST, UNIT D||ROGERS
-2|Novustech Inc|1039 W Walnut St, Unit D||Rogers
-2|Pearlsoft Solutions Inc|11415 HURON LN|24866|Little Rock
-2|Pearlsoft Solutions Inc|11415 Huron LN|Ste 24866|Little Rock
-2|NATIONAL SOFT SYSTEMS INC|118 N 13th St|N/A|Rogers
-2|NATIONAL SOFT SYSTEMS INC|118 N 13th St|PO BOX 1167|Rogers
-2|Qualitative Financials LLC|1202 NE MC Clain ROAD Building 7|STE 125|Bentonville
-2|QUALITATIVE FINANCIALS LLC|1202 NE Mc Clain Road Building 7|STE 125|Bentonville
-2|PinPoint Testing LLC|13 Childrens Way|R2109|Little Rock
-2|Arkansas Childrens Research Institute|13 Childrens Way||Little Rock
-2|Stout Stuff LLC|1402 SW Susana St.|Suite 6|Bentonville
-2|Stout Stuff LLC|1402 SW Susana St.||Bentonville
-2|Select Jarvis LLC|202 North Walton Blvd|Suite 32|Bentonville
-2|UNIQUELOGICSOLUTIONS INC|202 North Walton Blvd|Suite 4|Bentonville
-2|University of Arkansas System, Division of Agriculture|2301 S. University Avenue||Little Rock
-2|University of Arkansas System Division of Agriculture|2301 S. University Avenue||Little Rock
-2|K TEK SOFT INC|2704 SE OTIS CORLEY DR|SUITE 4|BENTONVILLE
-2|K TEK SOFT INC|2704 SE Otis Corley Dr|Suite 4|Bentonville
-2|K Tek Soft Inc|2704 SE Otis Corley Drive|Suite 4|Bentonville
-2|K Tek Soft nc|2704 SE Otis Corley Drive|Suite 4|Bentonville
-2|PROTECH SOLUTIONS INC|303 WEST CAPITOL AVENUE|SUITE 330|Little Rock
-2|PROTECH SOLUTIONS INC|303 WEST CAPITOL AVENUE|SUITE 330|LITTLE ROCK
-2|Gainwell Technologies LLC|355 Ledgelawn Drive|suite 100|Conway
-2|Gainwell Technologies LLC|355 Ledgelawn Drive||Conway
-2|VALUEPRO INC|417 MAIN ST|SUITE 207|LITTLE ROCK
-2|ValuePro Inc|417 Main St|Suite 207|Little Rock
-2|K2 Consulting Services LLC|425 W Capitol Avenue|Suite 1210|Little Rock
-2|VRPRO IT LLC|425 W Capitol Avenue|Suite 1214|Little Rock
-2|Dream & Rise Associates LLC, Dba Emphasis Softtech|4505 SW BIRMINGHAM ST.||BENTONVILLE
-2|Dream & Rise Associates LLC|4505 SW BIRMINGHAM ST.||BENTONVILLE
-2|Montrose Environmental Group Inc|5120 Northshore Dr.||North Little Rock
-2|MONTROSE ENVIRONMENTAL GROUP INC|5120 Northshore Dr.||North Little Rock
-2|MONTROSE ENVIRONMENTAL GROUP INC|5120 Northshore Drive||North Little Rock
-2|Montrose Environmental Group Inc|5120 Northshore Drive||North Little Rock
-2|MTA ENGINEERS|8001 NATIONAL DRIVE||LITTLE ROCK
-2|MATERIALS TESTING OF ARKANSAS INC|8001 NATIONAL DRIVE||LITTLE ROCK
-2|HD Nursing LLC|888 Kato Drive||Benton
-2|HD Nursing|888 Kato Drive||Benton
-1|TransQual Corporation|1 Financial Centre Pkwy|Suite 245|Little Rock
-1|Roseland Broadcasting Inc|1 Shackleford Drive||LITTLE ROCK
-1|MOOKSTR HOLDINGS INC|1007 N 2nd St||Rogers
-1|Fidus Global LLC|101 W. Court St. Suite 4||Paragould
-1|Fidus Global LLC|101 W. Court Street|Suite 4|Paragould
-1|AARIV TECHNOLOGIES INC|10201 W MARKHAM ST|SUITE 330|LITTLE ROCK
-1|Ivorsource LLC|106 SE Executive Drive|STE 6|Bentonville
-1|AAIT Health LLC|108 N Shackleford||Little Rock
-1|AAIT Health LLC|108 N Shackleford Road||Little Rock
-1|Heartland Forward Inc|110 NW 2nd St||Bentonville
-1|USA Soft Systems LLC|1120 S Walton Suites|Suite 140|BENTONVILLE
-1|Cloud Centric Inc|1128 N Walton Blvd||Bentonville
-1|Pearlsoft Solutions Inc|11415 Huron LN,|Suite 24866|Little Rock
-1|Ecological Design Group LLC|120 South Izard Street||Little Rock
-1|CREVAVI INC|1202 NE McClain Road, Bldg 7|Suite 102|Bentonville
-1|CREVAVI INC|1202 NE McClain Road, Bldg. 7, Suite 102||Bentonville
-1|Engineering Services Inc|1207 S Old Missouri Road||Springdale
-1|Kahler Communications Inc|135 Mall|Suite A|Hot Springs
-1|PARSH SYSTEMS INC|136 HOLLAND LN||LITTLE ROCK
-1|Entegrity Energy Partners LLC|1403 E. 6th Street||Little Rock
-1|DataPath Inc|1601 Westpark Drive|Suite 9|Little Rock
-1|PerfectVision Manufacturing Inc|16101 LaGrande Dr||Little Rock
-1|HFA-AE, Ltd.|1705 S Walton Blvd|Suite 3|Bentonville
-1|PALADINO AND COMPANY, P.A.|17300 Chenal Pkwy||Little Rock
-1|K Tek Soft nc|1770 King Road||Centerton
-1|AMERICAN TRUCK & RAIL AUDITS INC|18 REMOUNT ROAD||NORTH LITTLE ROCK
-1|Invincible Tech Systems Inc|1803 SW Regional Airport BLVD|Suite 3|Bentonville
-1|Benchmark Group Inc|1805 N 2nd Street||Rogers
-1|Benchmark Group Inc|1805 N. 2nd Street||Rogers
-1|United Solutions LLC|1811 SW Hayfield Ave||Bentonville
-1|BIGMATE INC|194 TOWNE PARK ROAD|UNIT E|SPRINGDALE
-1|Fidus Global LLC|2020 W. 3rd St.||Little Rock
-1|Pearlsoft Solutions Inc|2024 Arkansas Valley Dr., Ste. 306||Little Rock
-1|Pearlsoft Solutions Inc|2024 Arkansas Valley Drive|Ste 306|Little Rock
-1|Winrock International Institute for Agricultural Development|204 E 4th Street||North Little Rock
-1|J&J Creations LLC|204 NW 7th St.||Bentonville
-1|Crist Engineers Inc|205 Executive Court||Little Rock
-1|Finger Prints Services Inc|20539 Sonora Acres Road||Springdale
-1|Emory Solutions LLC|21 Lewis Loop||Greenbrier
-1|Winrock International Institute for Agricultural Development|2101 Riverfront Drive||Little Rock
-1|Riceland Foods Inc|2120 Park Ave||Stuttgart
-1|Riceland Foods Inc|2120 Park Avenue||Stuttgart
-1|GBMc & Associates Inc|219 Brown Ln||Bryant
-1|ICONNECTIT INTERNATIONAL LLC|2200 SE J St|Ste 10|Bentonville
-1|Apptegy Inc|2201 Brookwood Dr.|Suite 115|Little Rock
-1|Apptegy Inc|2201 Brookwood Dr.,|Suite 115|Little Rock
-1|C & S Management LLC|2301 McLain St||Newport
-1|University of Arkansas System Division of Agriculture|2301 S University Ave||Little Rock
-1|University of Arkansas System, Division of Agriculture|2301 S. University Ave||Little Rock
-1|capSpire Inc|240 N Block Ave|Suite A|Fayetteville
-1|ATG Consulting Inc|240 S Main St||Bentonville
-1|Craft Standard Enterprises Inc|2497 N East Oaks Dr||Fayetteville
-1|S&H Systems Inc|2908 S Caraway Road|STE 100|Jonesboro
-1|FTN Associates, Ltd.|3 Innwood Circle|Suite 220|Little Rock
-1|Continental Utility Solutions Inc|300 South Church Street|Suite 200|Jonesboro
-1|Inteliblue LLC|300 Spring Bldg.|Suite 801|Little Rock
-1|IntelliTrans LLC|301 E. Dave Ward Drive|Bldg. CWY 02|Conway
-1|PROTECH SOLUTIONS INC|303  WEST CAPITOL AVENUE|SUITE 330|Little Rock
-1|TATUM SMITH WELCHER ENGINEERS INC|3100 SOUTH MARKET STREET|SUITE 202|ROGERS
-1|Winrock International Institute for Agricultural Development|325 W Capitol|Suite 350|Little Rock
-1|Confiz LLC|3326 160TH AVENUE SE|Suite 160|Bellevue
-1|Industrialized Construction Solutions Inc|3401 SW 2nd street|ste. 105|Bentonville
-1|AmerCable Inc|350 BAILEY ROAD||EL DORADO
-1|Gainwell Technologies LLC|355 Ledgelawn Dr.||Conway
-1|Allwyn Consulting Services LLC|3604 NW Frontage Road|Suite 6 PMB 12|Bentonville
-1|ArcBest Technologies Inc|3801 Old Greenwood Road||Fort Smith
-1|Thomas Engineering Company Inc|3810 Lookout Road||North Little Rock
-1|Kee Technologies Group Inc|4 McKissic Creek Road|Suite 906|Bentonville
-1|Ai Troopers LLC|400 W Capitol Ave Suite 1700||Little Rock
-1|mmhmm inc|406 Southeast 5th Street, Bentonville, AR 72712||Bentonville
-1|EverySpend Inc|417 Main Street||Little Rock
-1|Sequretek Inc|417 Main st.|Ste 5001|Little Rock
-1|Mavis Solutions LLC|4204 SW HollowBrook ST||Bentonville
-1|Garver LLC|4300 South J.B. Hunt Drive|Suite 240|Rogers
-1|Bell & Company, P.A.|4504 Burrow Drive||North Little Rock
-1|Dream & Rise Associates LLC|4505 SW BIRMINGHAM ST||BENTONVILLE
-1|Garver LLC|4701 Northshore Drive||North Little Rock
-1|Inuvo Inc|500 President Clinton Ave, Suite 300||Little Rock
-1|PALADINO AND COMPANY, P.A.|501 MILLWOOD CIRCLE|SUITE A|MAUMELLE
-1|Good One IT Solutions Inc|5121 SW Runway Dr|Suite 203|Bentonville
-1|Good One IT Solutions Inc|5121 SW Runway Dr.|Suite 203|Bentonville
-1|First Orion Corp|520 Main St||North Little Rock
-1|First Orion Corp.|520 Main Street||North Little Rock
-1|Hight Jackson Associates|5201 Village Pkwy|Suite 300|Rogers
-1|Hight Jackson Associates|5201 W Village Pkwy|Suite 300|Rogers
-1|VIC Technology Venture Development LLC|535 W. Research Center Blvd., Suite 135||Fayetteville
-1|EngageMED Inc|5410 Northshore Drive||North Little Rock
-1|Harbor Environmental Inc|5800 Evergreen Dr.||Little Rock
-1|Harbor Environmental Inc|5800 Evergreen Drive||Little Rock
-1|Scope Retail Systems Inc|600 SE Eaton St.||Bentonville
-1|Volkert Inc|608 N Willow Ave||Fayetteville
-1|Ryan Engineering Inc|608 S Hico St.||Siloam Springs
-1|Ryan Engineering INC|608 S. HICO STREET||SILOAM SPRINGS
-1|AVCO CONSULTING INC|615 JB HUNT CORPORATE DRIVE||LOWELL
-1|capSpire Inc|620 N College Avenue|Suite 204|Fayetteville
-1|Affirma LLC|641 W. Dickson Street||Fayetteville
-1|AARIV TECHNOLOGIES INC|650 S Shackleford Road|SUITE 227|LITTLE ROCK
-1|Rock CL LLC|700 Scott Street||Little Rock
-1|BUF Architecture Studio, PLLC|702 SE 5th St.|Suite 30|Bentonville
-1|United Solutions LLC|813 W Central Ave|Suite 3|Bentonville
-1|French Architects, PA|827-B Central Avenue||Hot Springs
-1|Daksh IT INC|900 SE 5th St|Suite 22|Bentonville
-1|Kitestring Consulting Inc|908 S. Walton Blvd|Suite 32|Bentonville
-1|Kitestring Consulting Inc|908 S. Walton Blvd.|Suite 32|Bentonville
-(187 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+4|K2 CONSULTING SERVICES LLC|425 W CAPITOL AVE|LITTLE ROCK|AR
+4|QUALITY GLOBAL SERVICE INC|425 W CAPITOL AVE|LITTLE ROCK|AR
+4|QUALITY GLOBAL SERVICES INC|425 W CAPITOL AVE|LITTLE ROCK|AR
+4|VRPRO IT LLC|425 W CAPITOL AVE|LITTLE ROCK|AR
+3|AMS IT SOLUTIONS LLC|609 SW 8TH STREET|BENTONVILLE|AR
+3|FEDERAL SOFT SYSTEMS INC|3101 SW I ST|BENTONVILLE|AR
+3|FIRST SOFT SYSTEMS LLC|1116 S WALTON BLVD|BENTONVILLE|AR
+3|MAVIS SOLUTIONS LLC|1116 S WALTON BLVD|BENTONVILLE|AR
+3|NATIONAL SOFT SYSTEMS INC|3101 SW I ST|BENTONVILLE|AR
+3|NXT IT LLC|609 SW 8TH STREET|BENTONVILLE|AR
+3|QBRAINX INC|1116 S WALTON BLVD|BENTONVILLE|AR
+3|SEGRA SOFTWARE SOLUTIONS INC|609 SW 8TH STREET|BENTONVILLE|AR
+3|UNIQUELOGICSOLUTIONS INC|3101 SW I ST|BENTONVILLE|AR
+2|DREAM & RISE ASSOCIATES LLC|4505 SW BIRMINGHAM ST.|BENTONVILLE|AR
+2|DREAM & RISE ASSOCIATES LLC DBA EMPHASIS SOFTTECH|4505 SW BIRMINGHAM ST.|BENTONVILLE|AR
+2|K TEK SOFT INC|2704 SE OTIS CORLEY DRIVE|BENTONVILLE|AR
+2|K TEK SOFT NC|2704 SE OTIS CORLEY DRIVE|BENTONVILLE|AR
+2|NOVUSTECH INC|1039 W WALNUT ST|ROGERS|AR
+2|NOVUSTECHINC|1039 W WALNUT ST|ROGERS|AR
+2|SELECT JARVIS LLC|202 NORTH WALTON BLVD|BENTONVILLE|AR
+2|TECSOURCE INTERNATIONAL LLC|11901 CRYSTAL HILL ROAD|MAUMELLE|AR
+2|TECSOURCE INTERNATIONAL LLC|11901 CRYSTAL HILL ROAD|NORTH LITTLE ROCK|AR
+2|UNIQUELOGICSOLUTIONS INC|202 NORTH WALTON BLVD|BENTONVILLE|AR
+1|AARIV TECHNOLOGIES INC|650 S SHACKLEFORD ROAD|LITTLE ROCK|AR
+1|AARIV TECHNOLOGIES INC|10201 W MARKHAM ST|LITTLE ROCK|AR
+1|ABCO COMPUTERS INC|1008 NW J ST|BENTONVILLE|AR
+1|AVCO CONSULTING INC|615 JB HUNT CORPORATE DRIVE|LOWELL|AR
+1|C & S MANAGEMENT LLC|2301 MCLAIN ST|NEWPORT|AR
+1|CLOUD CENTRIC INC|1128 N WALTON BLVD|BENTONVILLE|AR
+1|CONFIZ LLC|3326 160TH AVENUE SE|BELLEVUE|AR
+1|CREVAVI INC|1202 NE MCCLAIN ROAD, BLDG 7|BENTONVILLE|AR
+1|DAKSH IT INC|900 SE 5TH ST|BENTONVILLE|AR
+1|ICONNECTIT INTERNATIONAL LLC|2200 SE J ST|BENTONVILLE|AR
+1|INTELIBLUE LLC|300 SPRING BLDG.|LITTLE ROCK|AR
+1|INVINCIBLE TECH SYSTEMS INC|1803 SW REGIONAL AIRPORT BLVD|BENTONVILLE|AR
+1|IVORSOURCE LLC|106 SE EXECUTIVE DRIVE|BENTONVILLE|AR
+1|K TEK SOFT INC|2704 SE OTIS CORLEY DR|BENTONVILLE|AR
+1|K TEK SOFT NC|1770 KING ROAD|CENTERTON|AR
+1|KEE TECHNOLOGIES GROUP INC|4 MCKISSIC CREEK ROAD|BENTONVILLE|AR
+1|KITESTRING CONSULTING INC|908 S. WALTON BLVD.|BENTONVILLE|AR
+1|LIBERTYCOM LLC|303 WEST CAPITOL AVE|LITTLE ROCK|AR
+1|MAVIS SOLUTIONS LLC|4204 SW HOLLOWBROOK ST|BENTONVILLE|AR
+1|NATIONAL SOFT SYSTEMS INC|118 N 13TH ST|ROGERS|AR
+1|NOVUSTECH INC|1039 W WALNUT ST, UNIT D|ROGERS|AR
+1|PALADINO AND COMPANY P.A.|501 MILLWOOD CIRCLE|MAUMELLE|AR
+1|PALADINO AND COMPANY P.A.|17300 CHENAL PKWY|LITTLE ROCK|AR
+1|PARSH SYSTEMS INC|136 HOLLAND LN|LITTLE ROCK|AR
+1|PEARLSOFT SOLUTIONS INC|11415 HURON LN,|LITTLE ROCK|AR
+1|PEARLSOFT SOLUTIONS INC|2024 ARKANSAS VALLEY DRIVE|LITTLE ROCK|AR
+1|PEARLSOFT SOLUTIONS INC|2024 ARKANSAS VALLEY DR., STE. 306|LITTLE ROCK|AR
+1|PEARLSOFT SOLUTIONS INC|11415 HURON LN|LITTLE ROCK|AR
+1|QUALITATIVE FINANCIALS LLC|1202 NE MC CLAIN ROAD BUILDING 7|BENTONVILLE|AR
+1|UNITED SOLUTIONS LLC|813 W CENTRAL AVE|BENTONVILLE|AR
+1|UNITED SOLUTIONS LLC|1811 SW HAYFIELD AVE|BENTONVILLE|AR
+1|USA SOFT SYSTEMS LLC|1120 S WALTON SUITES|BENTONVILLE|AR
+1|VALUEPRO INC|417 MAIN ST|LITTLE ROCK|AR
+1|VIDHA IT SOLUTIONS LLC|1202 NE MCCLAIN ROAD|BENTONVILLE|AR
+(57 rows)

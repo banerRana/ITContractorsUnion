@@ -1,566 +1,107 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-6|NETMASONS INCORPORATED|4367 South 100 West||ANDERSON
-6|Netmasons Incorporated|4367 South 100 West||Anderson
-6|NETMASONS INCORPORATED|4367 South 100 West||Anderson
-6|INTOUCH DIING INC|4367 South 100 West||Anderson
-6|INTOUCH DINING INCORPORATED|4367 South 100 West||Anderson
-6|NETMASONS INCORPORATED|4367 south 100 west||ANDERSON
-6|LOCHMUELLER GROUP|6200 VOGEL ROAD|jlangley@lochgroup.com|Evansville
-6|LOCHMUELLER GROUP|6200 VOGEL ROAD||Evansville
-6|LOCHMUELLER GROUP INC|6200 VOGEL ROAD||Evansville
-6|Lochmueller Group Inc|6200 Vogel Road|jlangley@lochgroup.com|Evansville
-6|LOCHMUELLER GROUP|6200 Vogel Road||Evansville
-6|Lochmueller Group Inc|6200 Vogel Road||Evansville
-5|LER TechForce LLC|1888 Poshard Drive||Columbus
-5|LHP Data Analytic Solutions LLC|1888 Poshard Drive||Columbus
-5|LHP Inc|1888 Poshard Drive||Columbus
-5|LHP Data Analytic Solutions|1888 Poshard Drive||Columbus
-5|LHP Engineering Solutions LLC|1888 Poshard Drive||Columbus
-4|Lohmann Animal Health International Inc|2500 Innovation Way||Greenfield
-4|Elanco US Inc|2500 Innovation Way||Greenfield
-4|Elanco Animal Health Incorporated|2500 Innovation Way||Greenfield
-4|Elanco Animal Health Inc|2500 Innovation Way||Greenfield
-4|LHP Data Analytic Solutions|305 Franklin Street||Columbus
-4|LHP Data Analytic Solutions LLC|305 Franklin Street||Columbus
-4|LER TechForce LLC|305 Franklin Street||Columbus
-4|LHP Engineering Solutions LLC|305 Franklin Street||Columbus
-4|Brainlabs USA LLC|501 N Morton St|212|Bloomington
-4|Brainlabs USA LLC|501 N Morton St|Ste 212|Bloomington
-4|Brainlabs USA LLC|501 N Morton St|Suite 212|Bloomington
-4|Brainlabs Digital Inc|501 N Morton St|Suite 212|Bloomington
-4|JPS CONSULTING ENGINEERS LLC|9365 COUNSELORS ROW|SUITE 116|Indianapolis
-4|JPS Consulting Engineers LLC|9365 Counselors Row|Suite 116|INDIANAPOLIS
-4|JPS Consulting Engineers LLC|9365 Counselors Row|Suite 116|Indianapolis
-4|BSA LifeStructures Inc|9365 Counselors Row|Suite 300|Indianapolis
-3|IT Workforce Inc|127 E Michigan St|Suite 100|Indianapolis
-3|IT Workforce|127 E Michigan St|Suite 100|Indianapolis
-3|IT WORKFORCE INC|127 E Michigan St|Suite 100|Indianapolis
-3|SAAM Inc|55 Monument Circle|7th Floor|Indianapolis
-3|Avtech Solutions Inc|55 Monument Circle|Suite 825|Indianapolis
-3|PAXAFE Inc|55 Monument Circle|Suite 900A|Indianapolis
-3|OMF Services LLC|601 N.W. Second Street||Evansville
-3|OneMain General Services Corporation|601 N.W. Second Street||Evansville
-3|OneMain General Services Corporation|601 N.W. Second Street||Evensville
-3|MetaCX Inc|830 Massachusetts Avenue|Suite 1500|Indianapolis
-3|High Alpha Innovation Inc|830 Massachusetts Avenue|Suite 1500, Floor 4|Indianapolis
-3|Amplio Supply Chain Inc|830 Massachusetts Avenue||Indianapolis
-3|ITAS INC|8888 KEYSTONE CROSSING|SUITE 1300|INDIANAPOLIS
-3|Tangoe Inc|8888 Keystone Crossing|Suite 1300|Indianapolis
-3|Catalina Business Solutions Inc|8888 Keystone Crossing|Suite 1373|Indianapolis
-2|Cook Research Incorporated|1 Geddes Way||West Lafayette
-2|Cook Research Inc|1 Geddes Way||West Lafayette
-2|RATIO States LLC|101 South Pennsylvania Street||Indianapolis
-2|RATIO Architects LLC|101 South Pennsylvania Street||Indianapolis
-2|BRITE SYSTEMS INC|101 W. Ohio Street|Suite 1450|INDIANAPOLIS
-2|DB Engineering LLC|101 W. Ohio Street|Suite 1515|Indianapolis
-2|Brite Systems Inc|101 W. Ohio Street, Suite 2000|N/A|Indianapolis
-2|BRITE SYSTEMS INC|101 W. Ohio Street, Suite 2000|N/A|INDIANAPOLIS
-2|GRADEX INC|10220 N. ILLINOIS STREET||CARMEL
-2|Gradex Inc|10220 N. Illinois Street||Carmel
-2|FINDRHIRE CORP|10475 CROSSPOINT BLVD||INDIANAPOLIS
-2|Pet Wellness Centers P.C.|10475 Crosspoint Blvd|Suite 200|Indianapolis
-2|MIEBACH CONSULTING INC|11100 USA PARKWAY|SUITE 3500|FISHERS
-2|Miebach Consulting Inc|11100 USA Parkway|Suite 3500|Fishers
-2|SAHASRA TECHNOLOGIES CORPORATION|1119 KEYSTONE WAY|SUITE 301|CARMEL
-2|RAD CUBE LLC|1119 KEYSTONE WAY|SUITE 302|CARMEL
-2|Halstead Architects Inc|1139 Shelby St.|2|Indianapolis
-2|Halstead Thompson & Kennedy Inc|1139 Shelby St.|2|Indianapolis
-2|ENVISTA LLC|11555 NORTH MERIDIAN STREET|SUITE 300|CARMEL
-2|enVista LLC|11555 North Meridian Street|Suite 300|Carmel
-2|Flexware Innovation Inc|12 Municipal Drive|Suite 200|Fishers
-2|Flexware Innovation Inc|12 Municipal Drive||Fishers
-2|Indiana Biosciences Research Institute Inc|1210 Waterway Blvd.|Suite 2000|Indianapolis
-2|Central Indiana Corporate Partnership Inc|1210 Waterway Blvd.|Suite 5000|Indianapolis
-2|Conversight.ai|1220 Waterway Blvd.||Indianapolis
-2|ConverSight.ai|1220 Waterway Blvd.||Indianapolis
-2|TekDoyenGroup LLC|12622 Champions Blvd||Fishers
-2|TEKDOYENGROUP LLC|12622 Champions Blvd||Fishers
-2|Angies List Inc|130 East Washington Street|Suite 1100|Indianapolis
-2|Angies List Inc d/b/a Angi|130 East Washington Street|Suite 1100|Indianapolis
-2|Tek Business Solutions LLC|1318 Sycamore Hills Pkwy||Fort Wayne
-2|Tek Business Solutions LLC|1318 Sycamore hills PKWY||Fortwayne
-2|MIEBACH CONSULTING INC|151 NORTH DELAWARE STREET|SUITE 800|INDANAPOLIS
-2|Miebach Consulting Inc|151 North Delaware Street|Suite 800|Indianapolis
-2|Studio M Architecture & Planning LLC|2 West Main Street||Carmel
-2|STUDIO M ARCHITECTURE AND PLANNING|2 West Main Street||Carmel
-2|Jobvite Inc|20 N Meridian St|300|Indianapolis
-2|NXTThing RPO LLC|20 N Meridian St|Suite 300|Indianapolis
-2|Employ Inc|20 N Meridian St.|300|Indianapolis
-2|Jobvite Inc|20 N Meridian St.|300|Indianapolis
-2|Quadralite Systems Inc|2005 Valparaiso St|Suite 121|Valparaiso
-2|Taurus It Inc|2005 Valparaiso St|Suite 301C|Valparaiso
-2|New York InfoTech Inc|205 STEEPLES BLVD||INDIANAPOLIS
-2|New York InfoTech Inc|205 Steeples Blvd||Indianapolis
-2|GDN Infotech Inc|2346 S. Lynhurst Drive|STE F201C|Indianapolis
-2|GDN Infotech Inc|2346 S. Lynhurst Drive|Suite F201C|Indianapolis
-2|CRANDALL ENGINEERING INC|236 E MAIN STREET|N/A|GAS CITY
-2|Crandall Engineering Inc|236 E Main Street||Gas City
-2|THE ENGINEERING COLLABORATIVE LLC|2410 Executive Drive|Suite 100|Indianapolis
-2|The Engineering Collaborative LLC|2410 Executive Drive|Suite 100|Indianapolis
-2|Studio M Architecture & Planning LLC|275 Veterans Way|Suite 200|Carmel
-2|Studio M Architecture and Planning LLC|275 Veterans Way|Suite 200|Carmel
-2|Quasistatics Inc|3000 Kent Avenue|Suite 1544|West Lafayette
-2|Tecsoil USA Inc|3000 Kent Avenue|Suite 2130|West Lafayette
-2|VIGNESH TECHNOLOGICAL SOLUTIONS INC|320 N MERIDIAN STREET|SUITE 311|INDIANAPOLIS
-2|Vignesh Technological Solutions Inc|320 N Meridian Street|Suite 311|Indianapolis
-2|PREMIER BUSINESS SOLUTIONS LLC|3202 N KENMORE ST||SOUTH BEND
-2|Premier Business Solutions LLC|3202 N Kenmore St||South Bend
-2|PASSAGEWAYS INC|333 N. ALABAMA STREET|SUITE 300|INDIANAPOLIS
-2|TALENTMATRIX INC|333 N. ALABAMA STREET|SUITE 350|INDIANAPOLIS
-2|TC SERVICES INC|336 W US HIGHWAY 30|SUITE 201|VALPARAISO
-2|TC Services Inc aka US 1 Industries|336 W US Highway 30|Ste 201|Valparaiso
-2|Business Interactions LLC|3454 Douglas Road|Ste 300|South Bend
-2|Business Interactions LLC|3454 Douglas Road||South Bend
-2|Interactive Compliance|3905 Vincennes Road|Ste 503|Indianapolis
-2|Micronutrients USA LLC|3905 Vincennes Road|Suite 100|Indianapolis
-2|Excel IT Corp|438 South Emerson Avenue|Suite 146|Greenwood
-2|EXCEL IT CORP|438 South Emerson Avenue|Suite 146|Greenwood
-2|Givelify LLC|47 S Pennsylvania St|Ste 500|Indianapolis
-2|Sondhi Solutions LLC|47 S Pennsylvania St|Suite 400|Indianapolis
-2|TECH KART LLC|5076 HAMLIN CT||SOUTH BEND
-2|TECHKART TECHNOLOGIES LLC|5076 HAMLIN CT||SOUTH BEND
-2|Springbuk Inc|525 South Meridian Street|Suite 1E4|Indianapolis
-2|Level Up Development LLC|525 South Meridian Street|Suite GB2|Indianapolis
-2|AVTECH SOLUTIONS INC|5455 West 86th Street|Suite 120|INDIANAPOLIS
-2|Avtech Solutions Inc|5455 West 86th Street|Suite 120|Indianapolis
-2|Availent Systems|550 Congressional Blvd|Ste 115 48|Carmel
-2|Infominds LLC|550 Congressional Blvd|Suite 115|Carmel
-2|THICKSTAT INC|571 MONON BLVD|ROOM 131, SUITE 200|CARMEL
-2|QUICKLERT INC|571 MONON BLVD|STE 200|CARMEL
-2|OMF Services LLC|601  N.W. Second Street||Evansville
-2|OneMain General Services Corporation|601  N.W. Second Street||Evansville
-2|OMF Services LLC|601 NW Second Street||Evansville
-2|OneMain General Services Corporation|601 NW Second Street||Evansville
-2|DREAM STREET GRAPHICS INC|6011 E. HANNA AVENUE|SUITE I|INDIANAPOLIS
-2|Dream Street Graphics Inc|6011 E. Hanna Avenue|Suite I|Indianapolis
-2|Browning Day Inc|626 N Illinois Street||Indianapolis
-2|Browning Day Mullins Dierdorf, PC|626 N Illinois Street||Indianapolis
-2|Wynright Corporation|6300 Northwind Parkway||Hobart
-2|Daifuku Intralogistics America Corporation|6300 Northwind Parkway||Hobart
-2|IEA Constructors LLC|6325 Digital Way|Suite 460|Indianapolis
-2|IEA Management Services Inc|6325 Digital Way|Suite 460|Indianapolis
-2|PUSHTA LLC|6330 E 75th St.|150|Indianapolis
-2|PUSHTA LLC|6330 E 75th St.|Suite 150|Indianapolis
-2|Smart IT Staffing Inc|6500 Technology Center Drive|Suite 100|Indianapolis
-2|Smart IT Staffing Inc|6500 Technology Center Drive|Suite 300|Indianapolis
-2|Rally Expedited & International|70 East Main Street|Suite C|Greenwood
-2|Rally Expedited and International Inc|70 East Main Street||Greenwood
-2|The Consultants Consortium Inc|740 E 52nd St|Suite 7|Indianapolis
-2|The Consultants Consortium LLC|740 E 52nd St|Suite 7|Indianapolis
-2|Shambaugh & Son, L.P.|7614 Opportunity Drive||Fort Wayne
-2|Shambaugh & Son, LP|7614 Opportunity Drive||Fort Wayne
-2|KSM Consulting LLC|800 E. 96th Street|Suite 100|Indianapolis
-2|CBIZ M&S Consulting Services LLC|800 E. 96th Street|Suite 200|Indianapolis
-2|RACAR INTL D/E LLC|800 Main Street|Suite 200|Anderson
-2|RACAR DESIGN & ENGINEERING LLC|800 Main Street|Suite 200|Anderson
-2|DuCharme, McMillen & Associates Inc|828 S. Harrison Street|Suite 650|Fort Wayne
-2|DuCharme, McMillen & Associates Inc|828 S. Harrison Street||Fort Wayne
-2|Egis BLN USA Inc|8320 Craig Street||Indianapolis
-2|Beam, Longest and Neff LLC|8320 Craig Street||Indianapolis
-2|Eight Eleven Group LLC|8365 Keystone Crossing|Suite 104|Indianapolis
-2|A & F Engineering Co LLC|8365 Keystone Crossing|Suite 201|Indianapolis
-2|Butler, Fairman, & Seufert|8450 Westfield Blvd|Suite 300|Indianapolis
-2|Butler, Fairman, & Seufert|8450 Westfield Blvd||Indianapolis
-2|Hydrozn Inc|8526 Bay Colony Dr||Indianapolis
-2|Hydrozn LLC|8526 Bay Colony Dr||Indianapolis
-2|iSG2 Technologies Inc|8585 Broadway|Suite 770|Merrillville
-2|isg2 Technologies Inc|8585 Broadway|Suite 770|Merrillville
-2|American Structurepoint Inc|9025 River Road|Suite 200|Indianapolis
-2|American Structurepoint Inc|9025 River Road||Indianapolis
-2|SJCA INC|9102 NORTH MERIDIAN STREET|SUITE 200|INDIANAPOLIS
-2|SJCA Inc|9102 North Meridian Street|Suite 200|Indianapolis
-2|Taro Engineering LLC|9128 Technology Lane||Fishers
-2|Taro Communications LLC|9128 Technology Lane||Fishers
-2|Legence|9225 Priority Way West Dr.|130|Indianapolis
-2|Legence|9225 Priority Way West Dr.|Suite 130|Indianapolis
-2|PYRAMID TECHNOLOGY SOLUTIONS INC|9535 E 59TH STREET|SUITE A|INDIANAPOLIS
-2|Pyramid Technology Solutions Inc|9535 E 59TH STREET|SUITE A|Indianapolis
-1|R J PILE & COMPANY LLC|1 Indiana Square|Suite 1200|Indianapolis
-1|TURBOdesign Technology Inc|10 South Riverside Plaza|Suite 875|Chicago
-1|Emarsys North America Inc|10 W. Market Street|Suite 1350|Indianapolis
-1|HR Solutions Inc|100 N Saint Joseph Ave||Evansville
-1|Career West Consulting LLC|10008 Covington Road||Fort Wayne
-1|DEEPLUX TECHNOLOGY INC|101 N 4th Street|Suite 232|Lafayette
-1|RATIO States LLC|101 S. Pennsylvania St.||Indianapolis
-1|RATIO States LLC|101 S. Pennsylvania Street||Indianapolis
-1|Brite Systems Inc|101 W OHIO ST|SUITE 2000|INDIANAPOLIS
-1|Brite Systems Inc|101 W Ohio Street, Suite 2000||Indianapolis
-1|BiomEdit LLC|10100 Lantern Road|Suite 150|Fishers
-1|Critical Skills Inc|10201 N Illinois Street|Suite 650|Indianapolis
-1|The Consultants Consortium Inc|1022 East 52nd Street||Indianapolis
-1|Advanced Agrilytics LLC|1023 East Market Street||Indianapolis
-1|INDEXHIRE INC|1025 E 54TH ST||INDIANAPOLIS
-1|Infominds LLC|10255 Commerce  STE 152||Carmel
-1|Infominds LLC|10255 Commerce Drive|Ste 152|Carmel
-1|Infominds LLC|10255 Commerce Drive STE 152||Carmel
-1|Coreslab Structures (Indianapolis) Inc|1030 S Kitley Ave||Indianapolis
-1|Coreslab Structures (Indianapolis) Inc|1030 S Kitley Avenue||Indianapolis
-1|Quantigen LLC|10300 Kincaid Dr.|Suite 200|Fishers
-1|Tyson Law Firm, P.C.|107 N. State Road 135|Suite 206|Greenwood
-1|Steak n Shake Enterprises Inc|107 South Pennsylvania Street|Suite 400|Indianapolis
-1|Winona IT LLC|109 East Prairie Street||Warsaw
-1|Intelligent InfoTech LLC|10909 Alamosa Dr.|Suite 100|Fishers
-1|Barnes & Thornburg LLP|11 S. Meridian Street||Indianapolis
-1|Scaaf CPA Group LLC|110 N Union St||Westfield
-1|Mundell & Associates Inc|110 S. Downey Ave||Indianapolis
-1|NexGenCAM LLC|110 S. Fourth St.||Zionsville
-1|Mundell & Associates Inc|110 South Downey Avenue||Indianapolis
-1|Computer System Integration LLC|1101 E 16th Street|Suite 300|Indianapolis
-1|Regenstrief Institute Inc|1101 West 10th Street||Indianapolis
-1|INS Capital Group LLC|11073 Ptarmigan Ct||Noblesville
-1|Kainos WorkSmart Inc|111 Monument Cir|Suite 4300|Indianapolis
-1|Resultant LLC|111 Monument Circle|Suite 202|Indianapolis
-1|Yourco Inc|1111 E. 54th St.,  119||Indianapolis
-1|Stampfli Associates CPAs, P.C.|1115  N. Walnut Street|Suite C|Bloomington
-1|Paul Anthony|112 South Niles Avenue||South Bend
-1|Autoniq LLC|11299 N Illinois Street||Carmel
-1|Zotec Partners LLC|11460 North Meridian Street||Carmel
-1|IT Transformers Inc|11495 N Pennsylvania Street|Suite 140|Carmel
-1|Ontario Systems LLC|1150 W. Kilgore Avenue||Muncie
-1|DVG Team Inc|1155 Troutwine Road||Crown Point
-1|Crotty & Smyth|11550 N Meridian St, Ste 125||Carmel
-1|Crotty & Smyth|11550 N Meridian Street|Suite 125|Carmel
-1|Beacon Technologies Group Inc|11550 North Meridian Street, Suite 500||Carmel
-1|ClearObject Inc|11634 Maple Street|Suite 200|Fishers
-1|FORMSTACK LLC|11671  LANTERN ROAD|SUITE 300|FISHERS
-1|FORMSTACK LLC|11671 LANTERN ROAD|SUITE 300|FISHERS
-1|Press Ganey Associates LLC|1173 Ignition Drive||South Bend
-1|Verista Inc|11793 Technology Drive||Fishers
-1|Verista Inc|11793 Technology Lane||Fishers
-1|Network Packaging Group LLC|120 S. Lake Street|Suite 230|Warsaw
-1|Indiana Legal Services Inc|1200 Madison Avenue|Suite 300|Indianpolis
-1|Stratosphere Quality LLC|12024 Exit Five Parkway||Fishers
-1|Xylem Vue Inc|121 S. Niles Ave|Suite 22|South Bend
-1|Xylem Vue Inc|121 S. Niles Ave, Suite 22||South Bend
-1|Indiana Biosciences Research Institute Inc|1210 Waterway Blvd|Suite 200|Indianapolis
-1|Trident Systems LLC|12175 VISIONARY WAY, SUITE 1060||Fishers
-1|Guidon Design Inc|1221 N Pennsylvania Street||Indianapolis
-1|Guidon Design Inc|1221 N. Pennsylvania St.||Indianapolis
-1|Illuimate Health Inc|12300 N. Meredian||Carmel
-1|Illuminate Health Inc|12400 N. Meredian||Carmel
-1|Bill Austin & Associates Inc|1244 Washington St||Columbus
-1|Bill Austin & Associates Inc|1244 Washington St.||Columbus
-1|NSK Veterinary Services|12653 Amber Star Dr||Noblesville
-1|NSK Veterinary Services LLC|12653 Amber Star Drive||Noblesville
-1|Princeton TMX LLC|127 W Wayne St|Ste 200|Fort Wayne
-1|Blue & Co. LLC|12800 N Meridian|Suite 400|Carmel
-1|BLUE WAVE CAPITAL AND CONSULTING LLC|1281 WIN HENTSCHEL BLVD|SUITE 2181|WEST LAFAYETTE
-1|MorphImmune Inc|1281 Win Hentschel Blvd., Suite 1300||West Lafayette
-1|AsedaSciences Inc|1281 Win Hentschel Boulevard||West Lafayette
-1|US Agriculture LLC|12821 E. New Market Street|Suite 300|Carmel
-1|IT Transformers Inc|12821 East New Market Street|Suite 310|Carmel
-1|COGENT LLC|1302 NORTH MERIDIAN STREET|SUITE 320|INDIANAPOLIS
-1|Freedom Health Club Inc|1305 Wall Street||Jeffersonville
-1|Westwood Veterinary Clinic LLC|1306 W Main St||Greenfield
-1|CTL Engineering of Indiana Inc|1310 S. FRANKLIN ROAD||Indianapolis
-1|APEX Consulting & Surveying Inc|1313 Broadway||Fort Wayne
-1|FDR Scientific and Technical Consultant Inc|1321 W 83ROAD Avenue||Merrillville
-1|Emmis Dynamic Pricing LLC|133 W. Market St.|Suite 216|Indianapolis
-1|Emmis Dynamic Pricing LLC|133 West Market Street|216|Indianapolis
-1|Salud Revenue Partners LLC|1330 Win Hentschel Blvd|Suite 250|West Lafayette
-1|Indiana Biosciences Research Institute Inc|1345 W. 16th Street||Indianapolis
-1|Sondhi Solutions LLC|135 N Pennsylvania St|Suite 2300|Indianapolis
-1|Upper Hand Inc|135 N. Pennsylvania St.|Suite 200|Indianapolis
-1|MYHELO INC|13578 E 131ST STREET|SUITE 220|FISHERS
-1|Vetcheck - Carmel LLC|1374 S Rangeline Road||Carmel
-1|Forever Analytical Services Inc|1400 E Angela Blvd||South Bend
-1|SIMBA Chain Inc|1400 E. Angela Blvd|Suite 270|South Bend
-1|Fairfield Service Company of Indiana LLC|1401 Kentucky Street|Suite 39|Michigan City
-1|NSK Veterinary Services|14069 Mundy Dr||Fishers
-1|GLOBAL INFORMATION SYSTEMS INC|1410 S CLARK BLVD|STE 2100|CLARKSVILLE
-1|Global Information Systems Inc|1410 S. Clarks Blvd., Suite 1100||Clarksville
-1|JMRT SOLUTIONS LLC|1425 E 86TH ST|STE 200|INDIANAPOLIS
-1|JMRT SOLUTIONS LLC|1425 E 86TH STREET|STE 214|INDIANAPOLIS
-1|CuroGens Inc|14300 Clay Terrace Boulevard|Suite 260|Carmel
-1|Capital Engineering LLC|1433 E 83rd Avenue|Suite 100|Merrillville
-1|Saipro Systems LLC|14384 Chariots Whisper Drive||Carmel
-1|Pridesoft LLC|14438 Camden Ln||Carmel
-1|ESENSE INC|14799 DAVENTRY DRIVE||FISHERS
-1|DUNELAND GROUP INC|1498 POPE COURT||CHESTERTON
-1|Gresk & Singleton PC|150 East 10th Street||Indianapolis
-1|Latitude Service Company Inc|1500 N Oak Drive||Plymouth
-1|Miebach Consulting Inc|151 North Delaware St.|Suite 800|Indianapolis
-1|Novamatiq Inc|1515 Dividend Road||Fort Wayne
-1|Pinnacle Solutions Incorporated|152 E Washington Street||Indianapolis
-1|Rain Corporation|152 S 9th St||Noblesville
-1|DAKSWAN Automation Systems Inc|15266 Herriman Boulevard||Noblesville
-1|Rottmann Collier Architects Inc|155 E Market ST|Suite 200|Indianapolis
-1|R10 Networks Inc|15755 North Point Blvd, Suite 105||Noblesville
-1|JSYS Technologies LLC|160 W Carmel Dr|STE 260|Carmel
-1|Medical Informatics Engineering Inc|1690 Broadway, Ste 550||Fort Wayne
-1|Verdure Sciences Inc|17150 Metro Park Court||Noblesville
-1|BSA LifeStructures Inc|175 South Rangeline Road|Suite 200|Carmel
-1|AimHire IT LLC|18677 Wychwood Place||Noblesville
-1|UTS Engineering LLC|1887 US-50 E||Bedford
-1|LER TechForce LLC|1888  Poshard Drive||Columbus
-1|Gener8 LLC|1901 W. 16th Street||Indianapolis
-1|Samni Systems LLC|1910 Parkside Dr|Suite 500|Columbus
-1|Samni Systems LLC|1910 Parkside Drive|Suite 500|COLUMBUS
-1|Church Church Hittle & Antrim|2 N. 9th Street||Noblesville
-1|Studio M Architecture & Planning|2 West Main||Carmel
-1|STUDIO M ARCHITECTURE AND PLANNING|2 West Main Streeet||Carmel
-1|Jobvite Inc|20 N Meridian St .|300|Indianapolis
-1|Design Collaborative Inc|200 E. Main Street|Suite 600|Fort Wayne
-1|Canopus GBS Inc|200 S Washington St,|Suite 300|Crawfordsville
-1|Oremus Corporation NA|200 S Washington Street|Suite 300|Crawfordsville
-1|ARRK TECHNOLOGIES LLC|2005 VALPARAISO STREET|SUITE 301B|VALPARAISO
-1|Taurus It Inc|2005 Valparaiso St, Suite 301C||Valparaiso
-1|Frost Engineering & Consulting Company|201 Lincolnway West|Suite 200|Mishawaka
-1|Vespa Group LLC|201 N. Illinois St.|South Tower Suite 1600|Indianapolis
-1|McGuire Sponsel LLC|201 NORTH ILLINOIS STREET|SUITE 1000|INDIANAPOLIS
-1|Topcoder LLC|201 S Capitol Avenue||Indianapolis
-1|Wipro Appirio INC|201 SOUTH CAPITOL AVENUE STE 1000 FL 10||INDIANAPOLIS
-1|Techficient Holdings LLC|202 W. Berry St.|Suite 410A|Fort Wayne
-1|JourneyGuide Inc|202 West Berry Street|Suite 420|Fort Wayne
-1|Hertzler Systems Inc|203 S Main St.|Suite 7|Goshen
-1|Logical Concepts Inc|203 West Morris Street||Indianapolis
-1|Lucrative Innovations Inc|21 Virginia Ave|Suite 220|Indianapolis
-1|L. L. Low Associates Inc|210 N. Ironwood Dr.||South Bend
-1|OneCause Inc|211 W Main Street|Suite 400|Carmel
-1|M3SIM LLC|2116 Wake Robin Dr.||West Lafayette
-1|THK Law LLP|212 E. LaSalle Ave|Suite 100|South Bend
-1|THK Law, LLP|212 E. LaSalle Avenue|Suite 100|South Bend
-1|SAAM Inc|2139 Glebe Street|Suite 200|Indianapolis
-1|Network Packaging Group LLC|2180 North Point Drive||Warsaw
-1|ADJUTANT SOLUTIONS GROUP|219 E. ST JOSEPH STREET||INDIANAPOLIS
-1|Salud Revenue Partners LLC|2200 Elmwood Avenue|Suite C 2|Lafayette
-1|Allison Payment Systems LLC|2200 Production Dr||Indianapolis
-1|Barton-Coe-Vilamaa Architects & Engineers Inc|225 Airport North Office Park||Fort Wayne
-1|Daniels Associates Inc|225 South East Street|Suite 256|Indianapolis
-1|The Pathfinder Group, LTD|2307 Roosevelt Road||VALPARAISO
-1|Superior Engineering LLC|2345 167th Street||Hammond
-1|GDN Infotech Inc|2346 S Lynhurst Dr|Suite F201C|Indianapolis
-1|GDN Infotech Inc|2346 S Lynhurst Drive|Suite F201C|Indianapolis
-1|GDN Infotech Inc|2346 S. Lynhurst Dr.|Suite F201C|Indianapolis
-1|geoConvergence LLC|241 W Grimes Lane||Bloomington
-1|MVS Inc|2425 N Meridian Street|Suite 105|Indianapolis
-1|Unified Informatics LLC|2441 N. Delaware Street||Indianapolis
-1|NICO Corporation|250 E 96th Street||Indianapolis
-1|PACIV-USA LLC|2507 Bloyd Avenue||Indianapolis
-1|Synthesis Incorporated|251 N. Illinois Street|Suite 200|Indianapolis
-1|Global Financial Group LLC|25416 County Road 6|Suite 102|Elkhart
-1|Key Cube Consulting LLC|2601 Fortune Cir E||Indianapolis
-1|Key Cube Consulting LLC|2601 Fortune Cir E, Suite 201 C||Indianapolis
-1|ECS Solutions Inc|2616 Kotter Avenue||Evansville
-1|Midwest Technology Partnership LLC|2625 N Meridian St|Suite 157|Indianapolis
-1|GEOH Inc|2647 Waterfront Parkway Dr. East|Suite 350|Indianapolis
-1|Inotiv Inc|2701 Kent Avenue||West Lafayette
-1|Design-Aire Engineering Inc|2707 Rand Road||Indianapolis
-1|HICO SOLUTIONS|2839 N. KENWOOD AVE||INDIANAPOLIS
-1|Scalable Labs Inc|2900 N Shadeland Avenue|Suite B 1|Indianapolis
-1|Infotex Inc|299 Dayton Road||Dayton
-1|Continuity Pharma LLC|3000 Kent Ave|Suite 1950|West Lafayette
-1|Magneton Labs LLC|301 Belle ROAD,||Michigan City,
-1|Smartley Tech LLC|303 Congressional Blvd|Suite 6347|Carmel
-1|ICC NTA LLC|305 N Oakland Ave||Nappanee
-1|ICC NTA LLC|305 North Oakland Avenue||Nappanee
-1|Conversight.ai|3113 Red Fox Circle||Columbus
-1|DLW LLC|3217 N Shadeland Ave||Indianapolis
-1|Kem Krest LLC|3221 Magnum Dr||Elkhart
-1|Jones Petrie Rafinski Corporation|325 S Lafayette Blvd.||South Bend
-1|Tecsoil USA Inc|3323 Concord Road|Suite 2|Lafayette
-1|Passageways Inc|333 N Alabama St|Suite 300|Indianapolis
-1|Passageways Inc|333 N. Alabama St.|Suite 300|Indianapolis
-1|HBW Solutions Inc|3401 N. State Road 61|P.O. Box 201|Petersburg
-1|Genesis Business Solutions Inc|3485 Sedgemoor Circle||Carmel
-1|Toralgen Inc|3495 Kent Ave|Suite A100|West Lafayette
-1|BLUESKY TECHNOLOGY PARTNERS INC|350 WESTFIELD ROAD|SUITE 400|NOBLESVILLE
-1|Technical Services Group LLC|3615 Voorde Drive||South Bend
-1|KSN Technologies Inc|364 Indian Boundary Road|Suite A|Chesterton
-1|Maximus Industries Corporation|3701 David Howarth Dr|Suite E|Lafayette
-1|Agile Scientific Group|3815 River Crossing Parkway,||Indianapolis
-1|Surinak Engineering LLC|3819 N Delaware St||INDIANAPOLIS, IN
-1|Interactive Compliance LLC|3830 W 96th St||Indianapolis
-1|Altitude Cares Inc|3839 Pelham Road||Carmel
-1|Clarke Industrial Systems Inc|3911 Merchant Road||Fort Wayne
-1|Aptitude Solution Inc|3917 W Sawtelle Dr.||Bloomington
-1|Kinney Group Inc|4 Carter Green|Suite 250|Carmel
-1|Helium Vacuum Tech LLC|400 N River Road|Apartment 1736|West Lafayette
-1|Keramida Environmental Inc|401 N College Avenue||Indianapolis
-1|Press Ganey Associates LLC|404 Columbia Ct||South Bend
-1|Press Ganey Associates LLC|404 Columbia Ct.|Suite 1600|South Bend
-1|Terran Robotics Inc|408 West Howe St.||Bloomington
-1|Low Cost Spay Neuter Clinic Inc|409 N. Green Street||Brownsburg
-1|Datum Consulting Group LLC|410 N Shortridge Road||Indianapolis
-1|Novos Solutions LLC|410 West Oak Street|Suite 4B|Zionsville
-1|Arrays Global LLC|411 E Northfield Dr|PO BOX  1153|Brownsburg
-1|MultiTek Global LLC|427 Fairway Drive||Brazil
-1|VS Engineering Inc|4275 North High School Road||Indianapolis
-1|Innowats Technologies LLC|429 E Dupont Road|Suite 1292|Fort Wayne
-1|Peoplelink LLC|431 E. Colfax Avenue|Suite 200|South Bend
-1|QUANTEK TECHNOLOGIES LLC|435 BERCADO CIR|APT 35|MISHAWAKA
-1|Excel IT Corp|438 S Emerson Ave  Suite -146||Greenwood
-1|Excel IT Corp|438 S Emerson Ave Suite -146||Greenwood
-1|Excel IT Corp|438 S Emerson Avenue Suite -146 ,Greenwood IN-46143||Greenwood
-1|Excel IT Corp|438 S Emerson Avenue Suite- 146||Greenwood
-1|Excel IT Corp|438 S emerson Ave|146|Greenwood
-1|Excel IT Corp|438 South Emerson Avenue,  Suite 146||Greenwood
-1|Iotron Industries USA Inc|4394 East Park 30 Drive||Columbia City
-1|Analyswift LLC|444 Jennings St||West Lafayette
-1|Elanco US Inc|450 Elanco Circle||Indianapolis
-1|Aunalytics Inc|460 Stull Street|Suite 100|South Bend
-1|American Elegance Homes LLC|461 Kelly Street - 213||Rome City
-1|Uwba Design LLC|4614 Progress Dr||Columbus
-1|Shadow Graphix Inc|4703 W Vermont St||Indianapolis
-1|Kinney Group Inc|484 E. Carmel Dr.|Suite 402|Carmel
-1|Butler, Fairman & Seufert Inc|500 East 96th Street|Suite 500|Indianapolis
-1|Samni Systems LLC|500 FRANKLIN ST||COLUMBUS
-1|Cosgrove Partnership Inc|501  Pennsylvania Pkwy|Suite 160|Indianapolis
-1|BrightPoint North America, LP|501 Airtech Parkway||Plainfield
-1|Brainlabs USA LLC|501 N Morton St.|Suite 212|Bloomington
-1|Walueo LLC|510 Country Club Road,||Indianapolis,
-1|Walueo LLC|510 Country club rd||Indianapolis
-1|SIMBA Chain Inc|510 W Adams Street|Suite 45|Plymouth
-1|Alliance Environmental Group|5153 Commerce Square Drive|Suite E|Indianapolis
-1|Resero Analytics Inc|5209 Woodside Drive||Indianapolis
-1|Impersonate.ai LLC|525 S. Meridian St. GB2||Indianapolis
-1|Lawson-Fisher Associates P.C.|525 West Washington Street|Suite 200|South Bend
-1|Haas & Associates LLC|526 Franklin St||Michigan City
-1|VetCheckIndy LLC|5335 E Southport Road|Suite 400|Indianapolis
-1|Cosworth Electronics LLC|5355 W. 86th Street||Indianapolis
-1|Lee & Zalas, P.C.|54391 N. 30th St.||South Bend
-1|The Humane Society of Elkhart County Inc|54687 County Road 19||Bristol
-1|Engineered Innovation Group LLC|55 Monument Cir|Suite 1200B|Indianapolis
-1|National Energy Control Services Inc|550 W. 36th Street||Jasper
-1|HIRATA CORPORATION OF AMERICA|5625 DECATUR BLVD.||INDIANAPOLIS
-1|Groundbreaking Solutions Inc|5625 German Church Road||Indianapolis
-1|M.D. Architects, P.C.|5625 N. Post ROAD||Indianapolis
-1|MECA ENGINEERING CORPORATION OF AMERICA INC|5655 BROADWAY||Merrillville
-1|Value Plus Engineering Solutions LLC|5699 E 71st Street|STE 10A|Indianapolis
-1|Creative Solutions Consulting Inc|5719 Lawton Loop Drive East|Suite 112|Indianapolis
-1|Arrays Global LLC|5724 N Green St|STE 227|Brownsburg
-1|J.W. Sims & Associates Engineering Company|5755 W. 74th Street||Indianapolis
-1|Acerand Therapeutics USA Limited|580 E. Carmel Drive|Suite 350|Carmel
-1|Preh IMA Automation Evansville Inc|5825 Old Boonville Highway||Evansville
-1|PIA Automation US Inc|5825 Old Boonville Hwy||Evansville
-1|Triad Associates Inc|5835 Lawton Loop East Drive||Indianapolis
-1|MVS Inc|5860 Noble Dr||Indianapolis
-1|Rajmane CPA Corp.|5864 E. 82nd Street||Indianapolis
-1|Core BTS Inc|5875 Castle Creek Pkwy N Dr|Suite 320|Indianapolis
-1|The RND Group LLC|5975 Castle Creek Pkwy N Drive|Suite 250|Indianapolis
-1|The RND Group LLC|5975 Castle Creek Pkwy N. Drive, Suite 250||Indianapolis
-1|OneMain General Services Corporation|601 N.W Second Street||Evansville
-1|SnakeIT Technologies LLC|6023 Aspen Meadow Dr||Indianapolis
-1|Tangoe Inc|6100 West 96th Street|Suite 200|Indianapolis
-1|Patriot Engineering and Environmental Inc|6150 East 75th Street||Indianapolis
-1|Datalys Center for Sports Injury Research and Prevention Inc|6151 Central Ave||Indianapolis
-1|Entegra, LLP|6159 W. 80th St||Indianapolis
-1|Axis Architecture and Interiors LLC|618 E Market Street||Indianapolis
-1|Rundell Ernstberger Associates Inc|618 E. Market Street||Indianapolis
-1|Eight Eleven Group LLC|6215  N. College Avenue||Indianapolis
-1|Eight Eleven Group LLC|6215 N. College Avenue||Indianapolis
-1|Wessler Engineering Inc|6219 South East Street||Indianapolis
-1|KPAUL Properties LLC|6230 Corporate Drive||Indianapolis
-1|Box Out Designs LLC|625 E. Jefferson Blvd||South Bend
-1|Browning Day Inc|626 N. Illinois St.||Indianapolis
-1|PUSHTA LLC|6330 E 75th St|Suite 150|Indianapolis
-1|PUSHTA LLC|6330 E 75th Street|Suite 150|Indianapolis
-1|Synthesis Incorporated|635 E Market Street||Indianapolis
-1|enFocus Inc|635 South Lafayette Boulevard|Studebaker Building, 113|South Bend
-1|Paragraph Studio LLC|642 N. Madison St.||Bloomington
-1|Exclaimer LLC|642 North Madison Street||Bloomington
-1|Smart IT Staffing Inc|6500 Technology Center Drive,|Suite 100,|Indianapolis,
-1|Biosynthetic Technologies LLC|6510  Telecom Drive|Suite 425|Indianapolis
-1|Agri Stats Inc|6510 Mutual Drive||Fort Wayne
-1|CyberGuard Solutions LLC|6515 E 82nd St|SUITE 210|Indianapolis
-1|CSP Engineering LLC|6516 Ferguson St.||Indianapolis
-1|CyberGuard Solutions LLC|6525 E 82nd St|SUITE 210L, Building 10|Indianapolis
-1|CyberGuard Solutions LLC|6525E 82nd ST|Suite 210L, Building 10|Indianapolis
-1|QGistix LLC|6555 E 30th Street|Suite D|Indianapolis
-1|Victory Solution Partners LLC|6801 Lake Plaza Dr.|Suite C 304|Indianapolis
-1|Victory Solution Partners LLC|6801 Lake Plaza Drive|Suite C 304|Indianapolis
-1|Aquila Corporation Consulting|6888 E County Road 800 S||Cross Plains
-1|Aquila Corporation Consulting|6888 E County Road 800S||Cross Plains
-1|Sports Strategy Inc|692 Ellsworth Street||Indianapolis
-1|DICEN CONSULTING AND ASSOCIATES LLC|698 TOWER ROAD SUITE 100||Plainfield
-1|Dicen Consulting and Associates LLC|698 Tower Road|Suite 100|Plainfield
-1|GPS Dental Management LLC|7007 US Highway 31 S. East St.||Indianapolis
-1|GyanSys Inc|702 Adams Street||Carmel
-1|Rowland Design Inc|702 North Capitol Ave||Indianapolis
-1|Green Filing LLC|710 E Main Street|Suite 300|Richmond
-1|GGJ Group LLC dba Bakerfield Solutions|7138 Fox Hollow Ridge||Zionsville
-1|Resolution Group Inc|7155 Shadeland Station Way||Indianapolis
-1|BELL MARKETING SOLUTIONS LLC|732 EMMA DR||SEYMOUR
-1|Shrewsberry & Associates LLC|7321 Shadeland Station|Suite 160|Indianapolis
-1|Shrewsberry & Associates LLC|7321 Shadeland Station Way|Suite 160|Indianapolis
-1|The Consultants Consortium Inc|740 East 52nd St. Suite 7||Indianapolis
-1|Midwest Accounting LLC|7433 Indianapolis Blvd||Hammond
-1|POLARIS Laboratories LLC|7451 Winton Drive||Indianapolis
-1|Cook Medical Technologies LLC|750 Daniels Way||Bloomington
-1|Cook Medical Technologies LLC|750 N. Daniels Way||Bloomington
-1|Integrated Environmental Solutions Inc|7550 Melton Road||Gary
-1|Mayflower Accounting & Tax Services Corp.|7670 US 31 S||Indianapolis
-1|TopTech1 Inc|7848 Margaret Cir||Newburgh
-1|TopTech1 Inc|7848 Margaret Cir.||Newburgh
-1|Stoeppelwerth & Associates Inc|7965 E 106th St.||Fishers
-1|EIS Machine LLC|800 South Earl Avenue||Lafayette
-1|VALUE LABS IT INC|800 Sycamore|Suite 329|Evansville
-1|Lucrative Innovations Inc|8181 Jordan Lane||Indianapolis
-1|AreoCOre Technologies LLC|820 Hendricks Dr||Lebanon
-1|EnviroForensics LLC|825 N Capitol Ave||Indianapolis
-1|Alliance Group Technologies Company - Calumet Inc|8252 Virginia Street|Suite A|Merrillville
-1|Pillar Software Inc|830 Massachusetts Ave|Suite 1500, Floor 3|Indianapolis
-1|ProTrans International LLC|8311 N Perimeter Road||Indianapolis
-1|ProTrans International LLC|8311 N. Perimeter Road||Indianapolis
-1|E-gineering Inc|8415 Allison Pointe Blvd|Suite 200|Indianpolis
-1|Aspire CPAs PC|8425 Woodfield crossing Blvd|Suite 110|Indianapolis
-1|UNITED CONSULTING ENGINEERS INC|8440 ALLISON POINTE BOULEVAROAD|SUITE 200|INDIANAPOLIS
-1|JQOL Global LLC|8440 Allison Pointe Blvd|Ste 425|Indianapolis
-1|United Consulting Engineers Inc|8440 Allison Pointe Boulevard|Suite 200|Indianapolis
-1|Found Search Marketing LLC|8475 Nightfall LN Suite 200||Fishers
-1|Found Search Marketing LLC|8475 Nightfall Lane|Ste 200|Fishers
-1|Global Telematics Solutions LLC|850 E Franklin Road|Suite 410|Meridian
-1|R10 Networks Inc|8500 E. 116TH Street, Unit 841||Fishers
-1|Datum Consulting Group LLC|8520 Allison Point Blvd|Suite 220|Indianapolis
-1|Datum Consulting Group LLC|8520 Allison Pointe Blvd|Suite 220|Indianapolis
-1|Datum Consulting Group LLC|8520 Allison Pointe Blvd.|Suite 220|Indianapolis
-1|Datum Consulting Group LLC|8520 Allison Pointe Boulevard|Suite 220|Indianapolis
-1|HYDROZN LLC|8526 BAY COLONY DRIVE||INDIANAPOLIS
-1|ADVANCED ENGINEERING CONSULTANTS-ME LLC|8606 Allisonville Road|Suite 270|Indianapolis
-1|ClearObject Inc|8626 E 116th Street|Suite 300|Fishers
-1|Nemcomed FW LLC|8727 Clinton Park Dr.||Fort Wayne
-1|Nemcomed FW LLC|8727 Clinton Park Drive||Fort Wayne
-1|The Reingold Company Inc PC|8750 Broadway|Suite B|Merrillville
-1|RQAW Corporation|8770 North Street|Suite 110|Fishers
-1|Bioscope.ai Inc|880 West Monon Green Blvd.|Suite 101|Carmel
-1|FormAssembly Inc|885 S. College Mall Road,  399||Bloomington
-1|eimagine Technology Group Inc|8925 N Meridian Street|Suite 115|Indianapolis
-1|Humane Fort Wayne|901 Leesburg Road||Fort Wayne
-1|Kodiak Solutions LLC|9045 River Road|Suite 450|Indianapolis
-1|Levisonics Inc|9059 TECHNOLGY LANE||Fishers
-1|UHV Technologies Inc|909 N Coliseum Blvd||Fort Wayne
-1|Verista Inc|9100  Fall View Drive||Fishers
-1|Verista Inc|9100 Fall View Drive||Fishers
-1|SJCA INC|9102 N. MERIDIAN STREET|SUITE 200|INDIANAPOLIS
-1|We Care Immigration|921 E 86 street|suite 200|indianapolis
-1|We Care Immigration|921 East 86th Street||indianapolis
-1|CMTA Inc|9225 Priority Way West Drive|Suite 130|Indianapolis
-1|Green Filing LLC|930 E Main Street|Suite 200|Richmond
-1|METICULOUS Design Architecture LLC|932 E. Washington Street||Indianapolis
-1|Corteva Agriscience LLC|9330 Zionsville Road||Indianapolis
-1|MADISON PRECISION PRODUCT INC|94 East 400 North||Madison
-1|A.E. Boyce Company Inc|9401 S. Innovation Dr|Suite 400|Daleville
-1|A.E. Boyce Company Inc|9401 S. Innovation Drive|Suite 400|Daleville
-1|Consulting Management Inspection Design Inc|941 N Meridian St.|Suite C|Indianapolis
-1|Interactive Compliance|9425 N Meridian St|Ste 108|Indianapolis
-1|Fink, Roberts & Petrie Inc|9449 Priority Way West Drive|Suite 200|Indianapolis
-1|RCR Technology Corporation|9450 N. Meridian St.|Suite 300|Indianapolis
-1|RCR Technology Corporation|9450 North Meridian Street|Suite 300|Indianapolis
-1|Pyramid Technology Solutions Inc|9535 E. 59th Street|Suite A|Indianapolis
-1|Kenneth A Sebree & Associates|97 Dover Street|STE 400|Avon
-1|Kenneth A Sebree Associates Inc|97 Dover Street, STE 400||AVON
-1|CVP VETERINARY IN LLC|970 E. 181ST STREET||WESTFIELD
-1|K & S Engineers Inc|9715 Kennedy Avenue||Highland
-1|R10 Networks Inc|9761 Crosspoint Blvd, Suite  500||Indianapolis
-1|Ocean Blue Solutions Inc|9775 Fairway Dr.|Suite C|Powell
-1|BCforward Razor LLC|9777 College Ave||Indianapolis
-1|Bucher & Christian Consulting Inc|9777 N College Ae||Indianapolis
-1|Bucher and Christian Consulting Inc|9777 N College Ave||Indianapolis
-1|Bucher and Christian Consulting Inc|9777 N College Avenue||Indianapolis
-1|Culwell Legal LLC|9795 Crosspoint Blvd.|Suite 175|Indianapolis
-1|PTS Automation Inc|9851 Park Davis Dr.||Indianapolis
-1|Complete Structural Consulting Inc|9880 Westpoint Drive|Suite 100|Indianapolis
-1|Genezen MA Inc|9900 Westpoint Drive|Suite 128|Indianapolis
-1|Zotec Partners LLC|One Zotec Way||Carmel
-1|enFocus Inc|Studebaker 113 635 S Lafayette Blvd|Suite 105|South Bend
-(564 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+3|LER TECHFORCE LLC|1888 POSHARD DRIVE|COLUMBUS|IN
+3|LER TECHFORCE LLC|305 FRANKLIN STREET|COLUMBUS|IN
+3|LHP DATA ANALYTIC SOLUTIONS LLC|305 FRANKLIN STREET|COLUMBUS|IN
+3|LHP DATA ANALYTIC SOLUTIONS LLC|1888 POSHARD DRIVE|COLUMBUS|IN
+3|LHP ENGINEERING SOLUTIONS LLC|1888 POSHARD DRIVE|COLUMBUS|IN
+3|LHP ENGINEERING SOLUTIONS LLC|305 FRANKLIN STREET|COLUMBUS|IN
+2|IT WORKFORCE|127 E MICHIGAN ST|INDIANAPOLIS|IN
+2|IT WORKFORCE INC|127 E MICHIGAN ST|INDIANAPOLIS|IN
+2|QUADRALITE SYSTEMS INC|2005 VALPARAISO ST|VALPARAISO|IN
+2|RACAR DESIGN & ENGINEERING LLC|800 MAIN STREET|ANDERSON|IN
+2|RACAR INTL D/E LLC|800 MAIN STREET|ANDERSON|IN
+2|RAD CUBE LLC|1119 KEYSTONE WAY|CARMEL|IN
+2|SAHASRA TECHNOLOGIES CORPORATION|1119 KEYSTONE WAY|CARMEL|IN
+2|TAURUS IT INC|2005 VALPARAISO ST|VALPARAISO|IN
+2|TECH KART LLC|5076 HAMLIN CT|SOUTH BEND|IN
+2|TECHKART TECHNOLOGIES LLC|5076 HAMLIN CT|SOUTH BEND|IN
+1|AGILE SCIENTIFIC GROUP|3815 RIVER CROSSING PARKWAY,|INDIANAPOLIS|IN
+1|ALLIANCE GROUP TECHNOLOGIES COMPANY - CALUMET INC|8252 VIRGINIA STREET|MERRILLVILLE|IN
+1|APTITUDE SOLUTION INC|3917 W SAWTELLE DR.|BLOOMINGTON|IN
+1|ARRK TECHNOLOGIES LLC|2005 VALPARAISO STREET|VALPARAISO|IN
+1|AVTECH SOLUTIONS INC|55 MONUMENT CIRCLE|INDIANAPOLIS|IN
+1|AVTECH SOLUTIONS INC|5455 WEST 86TH STREET|INDIANAPOLIS|IN
+1|BCFORWARD RAZOR LLC|9777 COLLEGE AVE|INDIANAPOLIS|IN
+1|BRITE SYSTEMS INC|101 W OHIO STREET, SUITE 2000|INDIANAPOLIS|IN
+1|BRITE SYSTEMS INC|101 W. OHIO STREET|INDIANAPOLIS|IN
+1|BRITE SYSTEMS INC|101 W. OHIO STREET, SUITE 2000|INDIANAPOLIS|IN
+1|BUCHER AND CHRISTIAN CONSULTING INC|9777 N COLLEGE AVENUE|INDIANAPOLIS|IN
+1|CAREER WEST CONSULTING LLC|10008 COVINGTON ROAD|FORT WAYNE|IN
+1|CATALINA BUSINESS SOLUTIONS INC|8888 KEYSTONE CROSSING|INDIANAPOLIS|IN
+1|COGENT LLC|1302 NORTH MERIDIAN STREET|INDIANAPOLIS|IN
+1|CONVERSIGHT.AI|1220 WATERWAY BLVD.|INDIANAPOLIS|IN
+1|COSWORTH ELECTRONICS LLC|5355 W. 86TH STREET|INDIANAPOLIS|IN
+1|CREATIVE SOLUTIONS CONSULTING INC|5719 LAWTON LOOP DRIVE EAST|INDIANAPOLIS|IN
+1|CYBERGUARD SOLUTIONS LLC|6525E 82ND ST|INDIANAPOLIS|IN
+1|CYBERGUARD SOLUTIONS LLC|6525 E 82ND ST|INDIANAPOLIS|IN
+1|CYBERGUARD SOLUTIONS LLC|6515 E 82ND ST|INDIANAPOLIS|IN
+1|DATUM CONSULTING GROUP LLC|410 N SHORTRIDGE ROAD|INDIANAPOLIS|IN
+1|DATUM CONSULTING GROUP LLC|8520 ALLISON POINTE BLVD|INDIANAPOLIS|IN
+1|DATUM CONSULTING GROUP LLC|8520 ALLISON POINT BLVD|INDIANAPOLIS|IN
+1|EIGHT ELEVEN GROUP LLC|6215 N. COLLEGE AVENUE|INDIANAPOLIS|IN
+1|EIGHT ELEVEN GROUP LLC|6215  N. COLLEGE AVENUE|INDIANAPOLIS|IN
+1|EIGHT ELEVEN GROUP LLC|8365 KEYSTONE CROSSING|INDIANAPOLIS|IN
+1|ESENSE INC|14799 DAVENTRY DRIVE|FISHERS|IN
+1|EXCEL IT CORP|438 S EMERSON AVENUE SUITE -146 ,GREENWOOD IN-46143|GREENWOOD|IN
+1|EXCEL IT CORP|438 S EMERSON AVE SUITE -146|GREENWOOD|IN
+1|EXCEL IT CORP|438 S EMERSON AVENUE SUITE- 146|GREENWOOD|IN
+1|EXCEL IT CORP|438 S EMERSON AVE|GREENWOOD|IN
+1|EXCEL IT CORP|438 SOUTH EMERSON AVENUE|GREENWOOD|IN
+1|EXCEL IT CORP|438 SOUTH EMERSON AVENUE,  SUITE 146|GREENWOOD|IN
+1|FINDRHIRE CORP|10475 CROSSPOINT BLVD|INDIANAPOLIS|IN
+1|GDN INFOTECH INC|2346 S LYNHURST DR|INDIANAPOLIS|IN
+1|GDN INFOTECH INC|2346 S LYNHURST DRIVE|INDIANAPOLIS|IN
+1|GDN INFOTECH INC|2346 S. LYNHURST DR.|INDIANAPOLIS|IN
+1|GDN INFOTECH INC|2346 S. LYNHURST DRIVE|INDIANAPOLIS|IN
+1|GENESIS BUSINESS SOLUTIONS INC|3485 SEDGEMOOR CIRCLE|CARMEL|IN
+1|GYANSYS INC|702 ADAMS STREET|CARMEL|IN
+1|HR SOLUTIONS INC|100 N SAINT JOSEPH AVE|EVANSVILLE|IN
+1|HYDROZN LLC|8526 BAY COLONY DR|INDIANAPOLIS|IN
+1|INDEXHIRE INC|1025 E 54TH ST|INDIANAPOLIS|IN
+1|INDIANA LEGAL SERVICES INC|1200 MADISON AVENUE|INDIANPOLIS|IN
+1|INFOMINDS LLC|10255 COMMERCE DRIVE|CARMEL|IN
+1|IT TRANSFORMERS INC|12821 EAST NEW MARKET STREET|CARMEL|IN
+1|IT TRANSFORMERS INC|11495 N PENNSYLVANIA STREET|CARMEL|IN
+1|JSYS TECHNOLOGIES LLC|160 W CARMEL DR|CARMEL|IN
+1|KEY CUBE CONSULTING LLC|2601 FORTUNE CIR E|INDIANAPOLIS|IN
+1|KEY CUBE CONSULTING LLC|2601 FORTUNE CIR E, SUITE 201 C|INDIANAPOLIS|IN
+1|KSN TECHNOLOGIES INC|364 INDIAN BOUNDARY ROAD|CHESTERTON|IN
+1|LER TECHFORCE LLC|1888  POSHARD DRIVE|COLUMBUS|IN
+1|MIDWEST TECHNOLOGY PARTNERSHIP LLC|2625 N MERIDIAN ST|INDIANAPOLIS|IN
+1|MORPHIMMUNE INC|1281 WIN HENTSCHEL BLVD., SUITE 1300|WEST LAFAYETTE|IN
+1|NOVOS SOLUTIONS LLC|410 WEST OAK STREET|ZIONSVILLE|IN
+1|NSK VETERINARY SERVICES LLC|12653 AMBER STAR DRIVE|NOBLESVILLE|IN
+1|PACIV-USA LLC|2507 BLOYD AVENUE|INDIANAPOLIS|IN
+1|PEOPLELINK LLC|431 E. COLFAX AVENUE|SOUTH BEND|IN
+1|PREMIER BUSINESS SOLUTIONS LLC|3202 N KENMORE ST|SOUTH BEND|IN
+1|PRIDESOFT LLC|14438 CAMDEN LN|CARMEL|IN
+1|PYRAMID TECHNOLOGY SOLUTIONS INC|9535 E. 59TH STREET|INDIANAPOLIS|IN
+1|PYRAMID TECHNOLOGY SOLUTIONS INC|9535 E 59TH STREET|INDIANAPOLIS|IN
+1|QUANTEK TECHNOLOGIES LLC|435 BERCADO CIR|MISHAWAKA|IN
+1|R10 NETWORKS INC|9761 CROSSPOINT BLVD, SUITE  500|INDIANAPOLIS|IN
+1|R10 NETWORKS INC|15755 NORTH POINT BLVD, SUITE 105|NOBLESVILLE|IN
+1|RAIN CORPORATION|152 S 9TH ST|NOBLESVILLE|IN
+1|RCR TECHNOLOGY CORPORATION|9450 N. MERIDIAN ST.|INDIANAPOLIS|IN
+1|RCR TECHNOLOGY CORPORATION|9450 NORTH MERIDIAN STREET|INDIANAPOLIS|IN
+1|SAIPRO SYSTEMS LLC|14384 CHARIOTS WHISPER DRIVE|CARMEL|IN
+1|SMART IT STAFFING INC|6500 TECHNOLOGY CENTER DRIVE,|INDIANAPOLIS,|IN
+1|SONDHI SOLUTIONS LLC|47 S PENNSYLVANIA ST|INDIANAPOLIS|IN
+1|TALENTMATRIX INC|333 N. ALABAMA STREET|INDIANAPOLIS|IN
+1|TANGOE INC|6100 WEST 96TH STREET|INDIANAPOLIS|IN
+1|TAURUS IT INC|2005 VALPARAISO ST, SUITE 301C|VALPARAISO|IN
+1|TEK BUSINESS SOLUTIONS LLC|1318 SYCAMORE HILLS PKWY|FORT WAYNE|IN
+1|TEKDOYENGROUP LLC|12622 CHAMPIONS BLVD|FISHERS|IN
+1|THICKSTAT INC|571 MONON BLVD|CARMEL|IN
+1|TOPTECH1 INC|7848 MARGARET CIR|NEWBURGH|IN
+1|VALUE LABS IT INC|800 SYCAMORE|EVANSVILLE|IN
+1|VERISTA INC|11793 TECHNOLOGY DRIVE|FISHERS|IN
+1|VERISTA INC|9100 FALL VIEW DRIVE|FISHERS|IN
+1|VERISTA INC|9100  FALL VIEW DRIVE|FISHERS|IN
+1|VERISTA INC|11793 TECHNOLOGY LANE|FISHERS|IN
+1|VESPA GROUP LLC|201 N. ILLINOIS ST.|INDIANAPOLIS|IN
+1|VETCHECKINDY LLC|5335 E SOUTHPORT ROAD|INDIANAPOLIS|IN
+1|VIGNESH TECHNOLOGICAL SOLUTIONS INC|320 N MERIDIAN STREET|INDIANAPOLIS|IN
+1|WALUEO LLC|510 COUNTRY CLUB ROAD,|INDIANAPOLIS,|IN
+1|WIPRO APPIRIO INC|201 SOUTH CAPITOL AVENUE STE 1000 FL 10|INDIANAPOLIS|IN
+1|ZOTEC PARTNERS LLC|ONE ZOTEC WAY|CARMEL|IN
+(105 rows)

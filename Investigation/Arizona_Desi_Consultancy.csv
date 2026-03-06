@@ -1,1036 +1,196 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-11|Qbotica Inc|10000 N 31ST AVE|STE D 304A|PHOENIX
-11|QBOTICA INC|10000 N 31ST AVE|STE D 304A|PHOENIX
-11|VIRTUOUSPROS INC|10000 N 31ST AVE|SUITE D404D|PHOENIX
-11|VIRTUOUSPROS INC|10000 N 31ST AVE|SUITE D404D|PHOENIX,
-11|VIRTUOUSPROS INC|10000 N 31ST AVE|SUITE D406D|PHOENIX
-11|Qbotica Inc|10000 N 31st AVE|STE D 304A|Phoenix
-11|Qbotica Inc|10000 N 31st Ave|STE D 304 A|Phoenix
-11|VIRTUOUSPROS INC|10000 N 31st Ave|STE D404D|Phoenix
-11|Cloud Data LLC|10000 N 31st Ave|Suite D133|Phoenix
-11|Cloud Data LLC|10000 N 31st Ave|Suite D216|Phoenix
-11|Virtuouspros Inc|10000 N 31st Ave|Suite D406D|Phoenix
-11|appsFreedom Inc|3133 W Frye Road|Suite 101|Chandler
-11|AppsFreedom Inc|3133 W Frye Road|Suite 101|Chandler
-11|Global Patent Solutions LLC|3133 W Frye Road|Suite 101 1280|Chandler
-11|Mobivity Inc|3133 W Frye Road|Suite 215|Chandler
-11|CPA Global North America LLC|3133 W Frye Road|Suite 401|Chandler
-11|Clarivate Analytics (US) LLC|3133 W Frye Road|Suite 401|Chandler
-11|Decision Resources LLC|3133 W Frye Road|Suite 401|Chandler
-11|Decision Resources LLC|3133 W Frye Road||Chandler
-11|Clarivate Analytics (US) LLC|3133 W Frye Road||Chandler
-11|CPA Global (Landon IP) Inc|3133 W Frye Road||Chandler
-11|MicroPatent LLC|3133 W Frye Road||Chandler
-7|SIERRA BUSINESS SOLUTION LLC|6909 W RAY ROAD|SUITE 15 137|CHANDLER
-7|Virat Inc|6909 W Ray Road|148|Chandler
-7|Inherent Technologies LLC|6909 W Ray Road|Suite 115 129|Chandler
-7|BNB Tech Source Inc|6909 W Ray Road|Suite 15 143|Chandler
-7|Cloudglee LLC|6909 W Ray Road|Suite 21 27|Chandler
-7|Vijayanand Inc|6909 W Ray Road|Suite 21 5|Chandler
-7|InfoDrive Systems Inc|6909 W Ray Road|Suite 21 9|Chandler
-6|GIRIKON INC|15433 N TATUM BLVD|105|PHOENIX
-6|Girikon Inc|15433 N TATUM BLVD|STE 105|Phoenix
-6|GIRIKON INC|15433 N TATUM BLVD|STE 105|PHOENIX
-6|GIRIKON INC|15433 N TATUM BLVD|SUITE 105|PHOENIX
-6|Girikon Inc|15433 N Tatum Blvd|STE 105|Phoenix
-6|Girikon Inc|15433 N Tatum Blvd|Suite 105|Phoenix
-5|SAHI SOFTTECH INC|1490 S PRICE ROAD|SUITE 306|CHANDLER
-5|Savvients Inc|1490 S Price Road|Suite 202|Chandler
-5|Savvients Inc|1490 S Price Road|Suite 204|Chandler
-5|Total World Automation LLC|1490 S Price Road|Suite 207|Chandler
-5|Sahi Softtech Inc|1490 S Price Road|Suite 306|Chandler
-5|Narasimhan Consulting Services Inc|202 E. Earll Drive|STE 110|Phoenix
-5|NCS Engineers LLC|202 E. Earll Drive|SUITE 110|Phoenix
-5|Narasimhan Consulting Services Inc|202 E. Earll Drive|SUITE 110|Phoenix
-5|NJBSoft LLC|202 E. Earll Drive|Suite 110|Phoenix
-5|Narasimhan Consulting Services Inc|202 E. Earll Drive|Suite 110,|Phoenix
-4|Optima Consulting LLC|11811 N TATUM BLVD|3031|PHOENIX
-4|Blue Spire Inc|11811 N Tatum Blvd|Ste P 129|Phoenix
-4|Dytek Solutions LLC|11811 N Tatum Blvd|Suite 1001|Phoenix
-4|Transmission Analytics Consulting LLC|11811 N Tatum Blvd|Suite 3031|Phoenix
-4|TECHFLURRY SOLUTIONS LLC|12601 N CAVE CREEK ROAD|SUITE 103|PHOENIX
-4|VIRTUE MIND SOLUTIONS LLC|12601 N CAVE CREEK ROAD|SUITE 118|PHOENIX
-4|TechFlurry Solutions LLC|12601 N Cave Creek Road|Suite 103|Phoenix
-4|TECHFLURRY SOLUTIONS LLC|12601 N Cave Creek Road|Suite 103|Phoenix
-4|SYNAPSE LABS INC|1475 N SCOTTSDALE ROAD|STE 200|SCOTTSDALE
-4|Anavate Partners|1475 N Scottsdale Road|Ste 150|Scottsdale
-4|SYNAPSE LABS INC|1475 N Scottsdale Road|Suite 200|SCOTTSDALE
-4|Anavate Partners|1475 N Scottsdale Road||Scottsdale
-4|PROTON AL NAJM LLC|15650 N BLACK CANYON HWY|STE B135|PHOENIX
-4|TAK TECHNOLOGIES INC|15650 N BLACK CANYON HWY|SUITE B135|PHOENIX
-4|TAK TECHNOLOGIES INC|15650 N Black Canyon Hwy|STE B135|PHOENIX
-4|TAK TECHNOLOGIES INC|15650 N Black Canyon Hwy|STE – B135|PHOENIX
-4|Star Infotech LLC|1820 E Ray Road 1000|Chandler|Chandler
-4|Star infotech LLC|1820 E Ray Road 1000||Chandler
-4|Star InfoTech LLC|1820 E Ray Road 1000||Chandler
-4|Star Infotech LLC|1820 E Ray Road 1000||Chandler
-4|MINDQUEST TECHNOLOGY SOLUTIONS LLC|2501 WEST BEHREND DRIVE|SUITE C 31|PHOENIX
-4|Mindquest Technology Solutions LLC|2501 West Behrend Drive|Suite C 31|Phoenix
-4|MINDQUEST TECHNOLOGY SOLUTIONS LLC|2501 West Behrend Drive|Suite C 31|Phoenix
-4|MindQuest Technology Solutions LLC|2501 West Behrend Drive|Suite C31|Phoenix
-4|Dou Yee Enterprises U.S. Inc|2550 W. Union Hills Drive|Suite 350|Phoenix
-4|Dou Yee Enterprises US Inc|2550 W. Union Hills Drive|Suite 350|Phoenix
-4|Andavi Solutions Inc|2550 W. Union Hills Drive|Suite 350|Phoenix
-4|Skygys Inc|2550 W. Union Hills Drive|Suite 350 312|Phoenix
-4|Herman L Orcutt & Paul D Winslow Ptr|2929 N Central Avenue|11th FLoor|Phoenix
-4|Orcutt & Winslow LLLP|2929 N Central Avenue|11th Floor|Phoenix
-4|Herman L Orcutt & Paul D. Winslow Partners|2929 N Central Avenue|11th Floor|Phoenix
-4|Orcutt Winslow LLLP|2929 N Central Avenue|11th Floor|Phoenix
-4|Structural Engineers Company I|2963 W Elliot Road|Ste 3|Chandler
-4|Structural Engineers Company|2963 W Elliot Road|Ste 3|Chandler
-4|Structural Engineers Company I|2963 W Elliot Road|Suite 3|Chandler
-4|Structural Engineers Company I|2963 W Elliot Road||Chandler
-4|NAVI TECHNOLOGIES INC|3707 E SOUTHERN AVE|SUITE 2085|MESA
-4|Verde Tech Systems Inc|3707 E Southern Ave|1075|Mesa
-4|Navi Technologies Inc|3707 E Southern Ave|STE 2085|Mesa
-4|Verde Tech Systems Inc|3707 E Southern Ave|Suite 1075|Mesa
-4|Pacston Corporation|60 E Rio Salado Pkwy|900|Tempe
-4|Tekxel LLC|60 E Rio Salado Pkwy|900|Tempe
-4|Tekxel LLC|60 E Rio Salado Pkwy|Ste 900|Tempe
-4|RiseEdge LLC|60 E Rio Salado Pkwy|Suite 900|Tempe
-4|Pacston Corporation|60 E Rio Salado Pkwy  900|900|Tempe
-4|No.1 ENTERPRISE EOR SERVICES INC|60 E Rio Salado Pkwy  900||Tempe
-4|Pacston Corporation|60 E Rio Salado Pkwy  900||Tempe
-4|1 ENTERPRISE EOR SERVICES INC|60 E Rio Salado Pkwy  900||Tempe
-4|Mipac Inc|7225 N Oracle Road|Ste 202|Tucson
-4|Mipac Inc|7225 N Oracle Road|Suite 202|Tucson
-4|Mipac|7225 N Oracle Road||Tucson
-4|MIPAC INC|7225 N Oracle Road||Tucson
-4|ARTHA DATA SOLUTIONS LLC|9375 E SHEA BLVD|SUITE 255|SCOTTSDALE
-4|Cegis Cyber Inc|9375 E Shea Blvd|Suite 100|Scottsdale
-4|Vokertech Inc|9375 E Shea Blvd|Suite 100|Scottsdale
-4|VokerTech Inc|9375 E Shea Blvd|Suite 100|Scottsdale
-3|VM CONSOLIDATED Inc|1150 NORTH ALMA SCHOOL ROAD||MESA
-3|VM Consolidated Inc|1150 North Alma School Road|N/A|Mesa
-3|VM Consolidated Inc|1150 North Alma School Road||Mesa
-3|Infusion Software Inc dba Keap|1260 South Spectrum Boulevard||Chandler
-3|Infusion Software Inc DBA Keap|1260 South Spectrum Boulevard||Chandler
-3|Infusion Software Inc|1260 South Spectrum Boulevard||Chandler
-3|Printed Energy Pty Ltd.|1320 West Auto Drive||Tempe
-3|Printed Energy Inc|1320 West Auto Drive||Tempe
-3|Printed Energy Pty Ltd|1320 West Auto Drive||Tempe
-3|OneOrigin Inc|1375 N Scottsdale Road|Ste 180|Scottsdale
-3|Global Patent Solutions LLC|1375 N Scottsdale Road|Ste 330|Scottsdale
-3|OneOrigin Inc|1375 N Scottsdale Road|Ste 450|Scottsdale
-3|VENSOFT INC|13934 N. 59TH AVENUE|SUITE 140|GLENDALE
-3|VENSOFT INC|13934 N. 59TH AVENUE|SUITE 140|Glendale
-3|Vensoft Inc|13934 N. 59th Avenue|Suite 140|Glendale
-3|VIAVI SOLUTIONS INC|1445 South Spectrum Boulevard|Suite 102|Chandler
-3|VIAVI Solutions Inc|1445 South Spectrum Boulevard|Suite 102|Chandler
-3|Viavi Solutions Inc|1445 South Spectrum Boulevard|Suite 102|Chandler
-3|TechZoid Solutions LLC|14820 N Cave Creek Road|STE 10|Phoenix
-3|Volarax Solutions LLC|14820 N Cave Creek Road|Suite 1|Phoneix
-3|VOLARAX SOLUTIONS LLC|14820 N Cave Creek Road|Suite 1|Phoenix
-3|Tech Fabric LLC|1530 E Williams Field Road|Ste 201|Gilbert
-3|BlackRock IT Solutions LLC|1530 E Williams Field Road|Suite 201|Gilbert
-3|Tech Fabric LLC|1530 E Williams Field Road|Suite 201|Gilbert
-3|PROCON SOLUTIONS INC|15333 NORTH PIMA ROAD|SUITE 305|SCOTTSDALE
-3|Trusval Technology USA LLC|15333 North Pima Road|Suite 305|Scottsdale
-3|INDILSA LLC|15333 North Pima Road||Scottsdale
-3|RESIDEO LLC|16100 N. 71st STREET|SUITE 550|SCOTTSDALE
-3|ADEMCO INC|16100 N. 71st STREET|SUITE 550|SCOTTSDALE
-3|ADEMCO INC|16100 N. 71st Street|Suite 550|Scottsdale
-3|Malla Systems Inc|17100 N. 67TH AVENUE|Suite 303|Glendale
-3|Malla Systems Inc DBA Efulgent|17100 N. 67TH AVENUE|Suite 303|Glendale
-3|Malla Systems Inc|17100 N. 67th Avenue|Suite 303|Glendale
-3|APL Logistics Americas, Ltd.|17600  N. Perimeter Drive|STE 150|Scottsdale
-3|APL Logistics Americas, Ltd.|17600  N. Perimeter Drive|Ste 150|Scottsdale
-3|APL Logistics Americas, Ltd.|17600  N. Perimeter Drive|Suite 150|Scottsdale
-3|Radixlink Inc|1819 E Southern Avenue|Suite D21|Mesa
-3|Radixlink Inc|1819 E Southern Avenue|Suite Unit D21|Mesa
-3|Radixlink Inc|1819 E Southern Avenue|Unit D21|Mesa
-3|Clinical Outcomes Solutions LLC|1820 E. River Road|Ste 220|Tucson
-3|Critical Path Institute|1820 E. River Road|Suite 100|Tucson
-3|Clinical Outcomes Solutions LLC|1820 E. River Road|Suite 220|Tucson
-3|KCB Consultants Ltd.|2 North Central Avenue|18th Floor|Phoenix
-3|KCB Consultants Ltd|2 North Central Avenue|18th Floor|Phoenix
-3|Greater Phoenix Economic Council|2 North Central Avenue|Suite 2500|Phoenix
-3|Pajosys Technologies LLC|21620 N 19th Ave|STE A5|Phoenix
-3|OneStopD Solutions Inc|21620 N 19th Ave|STE A9|Phoenix
-3|ONESTOPD SOLUTIONS INC|21620 N 19th Ave|STE A9|Phoenix
-3|Health Services Advisory Group Inc|3133 E. Camelback Road|Suite 140|Phoenix
-3|Health Services Advisory Group Inc|3133 E. Camelback Road|Suite 300|Phoenix
-3|Health Services Advisory Group Inc|3133 E. Camelback Road||Phoenix
-3|Volteo Edge USA LLC|3133 West Frye Road|Suite 101|Chandler
-3|Mobivity Inc|3133 West Frye Road|Suite 215|Chandler
-3|Mobivity Inc|3133 West Frye Road|Suite 215|CHANDLER
-3|CliniSys Inc|3300 E. Sunrise Drive||Tucson
-3|Sunquest Information Systems Inc|3300 E. Sunrise Drive||Tucson
-3|Clinisys Inc|3300 E. Sunrise Drive||Tucson
-3|Geneses Tech Solutions LLC|401 W Baseline Road|STE 101|Tempe
-3|Geneses Tech Solutions LLC|401 W Baseline Road|Ste 101|Tempe
-3|Geneses Tech Solutions LLC|401 W Baseline Road|Suite 101|Tempe
-3|INNOSOFT CORPORATION|4040 E CAMELBACK ROAD|SUITE 102|PHOENIX
-3|INNOSOFT CORPORATION|4040 E Camelback Road|N/A|Phoenix
-3|Innosoft Corporation|4040 E Camelback Road|Suite 102|Phoenix
-3|Price Kong & Company, CPAs, P.A.|5300 N. Central Avenue|200|Phoenix
-3|Price Kong & Co., CPAs P.A.|5300 N. Central Avenue|200|Phoenix
-3|Price Kong & Company CPA, PA|5300 N. Central Avenue|200|Phoenix
-3|INTERNATIONAL SOLUTION SOURCES INC|5803 S SOSSAMAN ROAD|SUITE 104|MESA
-3|INTERNATIONAL SOLUTION SOURCESINC|5803 S SOSSAMAN ROAD|SUITE 104|MESA
-3|International Solution Sources Inc|5803 S Sossaman Road|Suite 104|MESA
-3|Ausenco Engineering USA South Inc|595 S Meyer Ave||Tuscon
-3|Ausenco Engineering USA South Inc|595 S Meyer Ave||Tucson
-3|Ausenco USA South Inc|595 S Meyer Ave||Tucson
-3|Shiom Technologies INC|64 E BROADWAY ROAD|SUITE 200|TEMPE
-3|SHIOM TECHNOLOGIES INC|64 E BROADWAY ROAD|Ste 200|Tempe
-3|Acholyte LLC|64 E Broadway Road|Ste 200|Tempe
-3|CDM Media USA INC|6991 E. Camelback Road|D 204|Scottsdale
-3|One Oak Flow LLC|6991 E. Camelback Road|Suite D 212|Scottsdale
-3|One Oak Advisory Group LLC|6991 E. Camelback Road|Suite D 212|Scottsdale
-3|Focused HR Solutions LLC|7047 E. Greenway Parkway|Suite 250|Scottsdale
-3|Viavi Soultions Inc|7047 E. Greenway Parkway|Suite 250|Scottsdale
-3|Viavi Solutions Inc|7047 E. Greenway Parkway|Suite 250|Scottsdale
-3|TEKDOORS INC|7730 E Greenway  201||Scottsdale
-3|Tekdoors Inc|7730 E Greenway  201||Scottsdale
-3|TEKDOORS INC|7730 E Greenway  201||SCOTTSDALE
-3|Technical & Business Consulting LLC|8328 E Hartford Drive|Suite 102|Scottsdale
-3|TB Consulting LLC|8328 E Hartford Drive|Suite 102|Scottsdale
-3|TBConsulting L.L.C.|8328 E Hartford Drive|Suite 102|Scottsdale
-3|CD Arevon USA Inc|8800 N Gainey Center Drive|Ste 250|Scottsdale
-3|Arevon Energy Inc|8800 N Gainey Center Drive|Ste 250|Scottsdale
-3|Arevon Energy Inc|8800 N Gainey Center Drive|Suite 250|Scottsdale
-3|Hipokratiz LLC|9040 S Rita Road|1270|Tucson
-3|Hipokratiz LLC|9040 S Rita Road|Suite 1270|Tucson
-3|Voiceriver Inc|9040 S Rita Road|Suite 2360|Tucson
-3|Association of Universities for Research in Astronomy|950 N Cherry Ave|N/A|Tucson
-3|Association of Universities for Research in Astronomy|950 N Cherry Ave||Tucson
-3|The Association of Universities for Research in Astronomy|950 N Cherry Ave||Tucson
-3|ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN ASTRONOMY|950 N. Cherry Avenue|N/A|Tucson
-3|The Association of Universities for Research in Astronomy|950 N. Cherry Avenue||Tucson
-3|Association of Universities for Research in Astronomy|950 N. Cherry Avenue||Tucson
-3|GALAXY I TECHNOLOGIES INC|9927 E BELL ROAD|SUITE 110|SCOTTSDALE
-3|Galaxy I Technologies Inc|9927 E Bell Road|Suite 110|Scottsdale
-3|Galaxy I Technologies Inc|9927 E Bell Road|Suite 110|SCOTTSDALE
-2|Pima Association of Governments|1 E. Broadway Blvd. Ste 401||TUCSON
-2|Pima Association of Governments|1 E. Broadway Blvd. Ste 401||Tucson
-2|Virtuous Software Inc|1 N. 1st Street|Suite 600|Phoenix
-2|Solid State Networks I LLC|1 N. 1st Street|Suite 654|Phoenix
-2|Merwel Inc|10031 E Dynamite Blvd|Suite 105|Scottsdale
-2|Merwel Inc|10031 E Dynamite Blvd|Suite 130|Scottsdale
-2|Mobivity Inc|101 N. Colorado Street|Suite 3116|Chandler
-2|Mobivity Holdings Corp|101 N. Colorado Street|Suite 3116|Chandler
-2|Architectural Resource Team Inc|1055 East Indian School Road|Apt 2059|Phoenix
-2|Architectural Resource Team Inc|1055 East Indian School Road||Phoenix
-2|Afflux Systems LLC|1090 S Gilbert ROAD|Suite 233|Gilbert
-2|Afflux Systems LLC|1090 S Gilbert Road|Suite 106 233|Gilbert
-2|Phoenix Staff  Inc|11011 S. 48th Street|Suite 103|Phoenix
-2|Phoenix Staff Inc|11011 S. 48th Street|Suite 103|Phoenix
-2|Digital Insights LLC|11036 N 23ROAD AVE|Suite 7|Phoenix
-2|Digital Insights LLC|11036 N 23ROAD AVE|suite 7|Phoenix
-2|Cruz & Associates|1212 E Osborn Road||Phoenix
-2|CRUZ & ASSOCIATES, P.C.|1212 E Osborn Road||Phoenix
-2|Net Orbit Inc|1232 E Broadway Road|STE 110|Tempe
-2|Net Orbit Inc|1232 E Broadway Road|Suite 110|Tempe
-2|VHL Technologies Inc|13615 N 35th Ave|Suite 3|Phoenix
-2|VHL Technologies Inc|13615 N 35th Ave|Suite 3|Phoneix
-2|ROVICARE INC|1400 E SOUTHERN AVENUE|310|TEMPE
-2|INTERBIZ CONSULTING LLC|1400 E SOUTHERN AVENUE|310|TEMPE
-2|COMPUTER GUIDANCE CORPORATION|14624 N SCOTTSDALE ROAD|SUITE 350|SCOTTSDALE
-2|Computer Guidance Corporation|14624 N Scottsdale Road|350|Scottsdale
-2|Anavate Partners|1475 N. Scottsdale Road|Suite 200|Scottsdale
-2|BHS Kinetic Inc|1475 N. Scottsdale Road||Scottsdale
-2|SAHI SOFTTECH INC|1490 SOUTH PRICE ROAD|SUITE 306|CHANDLER
-2|Sahi Softtech Inc|1490 South Price Road|Suite 306|Chandler
-2|Indilsa LLC|15333 North Prima Road||Scottsdale
-2|INDILSA LLC|15333 North Prima Road||Scottsdale
-2|Change Worldwide Inc|1616 E Indian School Road, Ste 160||Phoenix
-2|Ballers Enterprise Inc|1616 E Indian School Road, Ste 160||Phoenix
-2|VMC SOFT TECHNOLOGIES INC|16420 N 92ND STREET|SUITE E218|SCOTTSDALE
-2|VMC soft Technologies Inc|16420 N 92nd Street|Suite E218|Scottsdale
-2|AVIKSOFT LLC|1819 E Southern AVE|Suite D 20|Mesa
-2|AVIKSOFT LLC|1819 E Southern Ave|Suite D  20|Mesa
-2|Aviksoft LLC|1819 E. Southern Avenue|Ste D 20|Mesa
-2|Radixlink Inc|1819 E. Southern Avenue|Unit D 21|Mesa
-2|TechBizFactory Limited Liability Partnership|1820 E Ray Road|Suite A109|Chandler
-2|TechBizFactory Limited Liability Partnership|1820 E Ray Road|Suite A110C|Chandler
-2|Kaizen Institute Consulting Group (America) LLC|2 N. Central Avenue|Floor 18|Phoenix
-2|BOGHOS TECH LLC|2 N. Central Avenue|Suite 1800|Phoenix
-2|SWCA Inc|20 E. Thomas Road|STE 1700|Phoenix
-2|SWCA Inc|20 E. Thomas Road|Suite 1700|Phoenix
-2|TECHNIVAS LLC|2033 E WARNER ROAD|SUITE 102|TEMPE
-2|Gistic Research Inc|2033 E Warner Road|Suite 105|Tempe
-2|SMARTEQ SOLUTIONS LLC|20860 N TATUM BLVD|STE 300|PHOENIX
-2|Smarteq Solutions LLC|20860 N Tatum Blvd|Suite 300|PHOENIX
-2|Info Tech Inc|2111 E Baseline Road|Suite B3|Tempe
-2|JPC Techno Inc|2111 E Baseline Road|Suite C7|Tempe
-2|Fusion Energy Solutions|2111 S. Industrial Park Ave|Suites 106 108|Tempe
-2|Fusion Energy Solutions|2111 S. Industrial Park Ave||Tempe
-2|ASB INFOTECH LLC|21640 N 19TH AVENUE|SUITE C 10|PHOENIX
-2|ADROIT AFFINE LLC|21640 N 19TH AVENUE|SUITE C4|PHOENIX
-2|Avnet Inc|2211 S 47th Street|N/A|Phoenix
-2|Avnet Inc|2211 S 47th Street||Phoenix
-2|MornstAir Inc|2222 W Pinnacle Peak ROAD|Ste 190|Phoenix
-2|Maverick US|2222 W Pinnacle Peak Road|Ste 190|Phoenix
-2|TECHFLURRY SOLUTIONS LLC|2310 W Bell Road|Suite 7|Phoenix
-2|Techflurry Solutions LLC|2310 W Bell Road|Suite 7|Pheonix
-2|Solera Health Inc|2425 E Camelback Road|Suite 150|Phoenix
-2|Oplus Inc|2425 E Camelback Road|Unit 150|Phoenix
-2|TRISHIRE INC|2478 E Iris Drive||Chandler
-2|Trishire Inc|2478 E Iris Drive||Chandler
-2|MindQuest Technology Solutions LLC|2501 West Beherend Drive|Suite C 31|Phoenix
-2|Mindquest Technology Solutions LLC|2501 West Beherend Drive|Suite C 31|Phoenix
-2|Web Team Associates Inc|2727 N. Central Ave||Phoenix
-2|A & M Associates Inc|2727 N. Central Ave||Phoenix
-2|Valore Partners LLC|2801 E Camelback Road|Suite 200|Phoenix
-2|TECHMILEAGE SOFTWARE SOLUTIONS LLC|2801 E Camelback Road|Suite 200|Phoenix
-2|Orcutt Winslow LLLP|2929 N. Central Avenue|Flr. 11th|Phoenix
-2|Orcutt Winslow Partnership|2929 N. Central Avenue|Flr. 11th|Phoenix
-2|Arrington Watkins Architects LLC|3003 N Central Ave|Ste 2400|Phoenix
-2|Dyer Bregman Ferris Wong & Carter, PLLC|3003 N Central Ave|Suite 2600|Phoenix
-2|Privoro LLC|3100 W Ray Road|Suite 201|Chandler
-2|Shikha Technologies Inc|3100 W Ray Road|Suite 201|Chandler
-2|HAULBLAZE LOGISTICS LLC|3101 N CENTRAL AVE|SUITE 183|PHOENIX
-2|GPW And Associates Inc|3101 N Central Ave|Suite 400|Phoenix
-2|Aniles and Company LLC|3101 N. Central Ave|Suite 610|Phoenix
-2|Aniles and Company PLLC|3101 N. Central Ave|Suite 610|Phoenix
-2|Semple, Marchal & Cooper, LLP|3101 N. Central Avenue|Suite 1600|Phoenix
-2|Semple, Marchal & Cooper LLP|3101 N. Central Avenue|Suite 1600|Phoenix
-2|Arizona Legal Support Inc|3101 North Central Avenue|Suite 1500|Phoenix
-2|Phillips Law Group, Professional Corporation|3101 North Central Avenue|Suite 1500|Phoenix
-2|Law Office Of Daniel Huynh PLC|333 W Thomas Road|Ste 206|Phoenix
-2|Daniel Minh Huynh|333 W Thomas Road|Ste 206|Phoenix
-2|ZONGE INTERNATIONAL INC|3475 N. DODGE BLVD.||TUCSON
-2|Zonge International Inc|3475 N. Dodge Blvd.||Tucson
-2|RadiusAI Inc|350 S Mill Avenue|Ste B 201|Tempe
-2|RadiusAl Inc|350 S Mill Avenue|Ste B 201|Tempe
-2|Tristar Inc|3740 EAST LA SALLE STREET||Phoenix
-2|Tristar Inc|3740 EAST LA SALLE STREET||PHOENIX
-2|Cognite LLC|40 E Rio Salado Parkway|Ste 900|Tempe
-2|KUBRA Arizona Inc|40 E Rio Salado Parkway||Tempe
-2|Cash Flow Management LLC|410 E Rivulon Blvd|Suite 111|Gilbert
-2|Cash Flow Management LLC dba Kinective|410 E Rivulon Blvd|Suite 111|Gilbert
-2|Nikola Motor Company|4141 E Broadway Road||Phoenix
-2|Nikola Corporation|4141 E Broadway Road||Phoenix
-2|Net Orbit Inc|424 E Southern Avenue|STE 103|Tempe
-2|Net Orbit Inc|424 E Southern Avenue|Suite 103|Tempe
-2|Wherobots Inc|4250 N. Drinkwater Blvd|Ste 300|Scottsdale
-2|Wherobots Inc|4250 N. Drinkwater Blvd|Suite 300|Scottsdale
-2|Y. S. Mantri and Associates LLC|430 W. Warner Road|Suite A111|Tempe
-2|Y S Mantri & Associates LLC|430 W. Warner Road|Suite A111|Tempe
-2|ENLACE IT INC|4435 E. CHANDLER BLVD.|SUITE 200|PHOENIX
-2|ClaimsHero Holdings LLC|4435 E. Chandler Blvd.|Suite 200|Phoenix
-2|The Translational Genomics Research Institute|445 North 5th Street|Suite 600|Phoenix
-2|Translational Genomics Research Institute|445 North 5th Street||Phoenix
-2|Coe and Van Loo Consultants Inc|4550 N. 12th St.||Phoenix
-2|Coe & Van Loo Consultants Inc|4550 N. 12th St.||Phoenix
-2|Moore Law Firm|4578 E Camp Lowell Dr||Tucson
-2|Moore Law Firm PLLC|4578 E Camp Lowell Dr||Tucson
-2|Aerial Sphere LLC|5013 E. Washington St.|Suite 170|Phoenix
-2|Aerial Sphere LLC|5013 E. Washington St.|Suite 200|Phoenix
-2|Kudelski Security Holdings Inc|5090 N. 40th Street||Phoenix
-2|Kudelski Security Inc|5090 N. 40th Street||Phoenix
-2|COEUS|531 E Thomas Road|Suite 102|Phoenix
-2|Coeus Consulting LLC|531 E Thomas Road|Suite 102|Phoenix
-2|PROAXIS CONSULTING|5505 W Chandler Blvd|Suite 5|Chandler
-2|MAMIDIS INC|5505 W Chandler Blvd|Suite 5|Chandler
-2|Gen Digital Inc|60 E. Rio Salado Parkway, Suite 1000||Tempe
-2|NortonLifeLock Inc|60 E. Rio Salado Parkway, Suite 1000||Tempe
-2|Geneses Tech Solutions LLC|600 E Baseline Road|Ste A 2|Tempe
-2|Geneses Tech Solutions LLC|600 E Baseline Road|Suite A 2|Tempe
-2|Astra Canyon Group LLC|6021 E. Grant Road||Tucson
-2|Astra Inc|6021 E. Grant Road||Tucson
-2|Minar Yantrix INC|6100 W Gila Springs|Suite 21|Chandler
-2|Minar Yantrix Inc|6100 W Gila Springs|Suite 21|Chandler
-2|Minar Yantrix Inc|6100 W Gila Springs Pl|Suite 21|Chandler
-2|americas communications llc|6100 w gila springs pl|n/a|chandler
-2|STATISTICS & DATA CORPORATION|63 SOUTH ROCKFOROAD DRIVE|SUITE 240|TEMPE
-2|STATISTICS & DATA CORPORATION DBA SDC CLINICAL|63 SOUTH ROCKFOROAD DRIVE|SUITE 240|TEMPE
-2|ACHOLYTE LLC|64 EAST BROADWAY ROAD|SUITE 200|TEMPE
-2|Acholyte LLC|64 East Broadway Road|Suite 200|Tempe
-2|A7 IT SOLUTIONS LLC|6751 N. SUNSET BLVD.|320|GLENDALE
-2|A7 IT SOLUTIONS LLC|6751 N. SUNSET BLVD.|320, 3RD FLOOR|GLENDALE
-2|Inherent Technologies LLC|6909 W Ray Road, Suite 115-129||Chandler
-2|Inherent Technologies LLC|6909 W Ray Road, Suite 115-129||CHANDLER
-2|SIERRA BUSINESS SOLUTION LLC|6909 W. RAY ROAD|SUITE 15 137|CHANDLER
-2|Radixlink Inc|6909 W. Ray Road|111|Chandler
-2|Perez McGee International Architecture LLC|7014 E. Camelback Road|Ste 1452|Scottsdale
-2|Discover Momentum LLC|7014 E. Camelback Road|Suite 1452|Scottsdale
-2|Markitors LLC|7014 East Camelback Road|Suite B100A|Scottsdale
-2|Terkel Inc|7014 East Camelback Road|Suite B100A|Scottsdale
-2|SOAREN MANAGEMENT LLC|7020 E. ACOMA DRIVE||Scottsdale
-2|Soaren Management LLC|7020 E. ACOMA DRIVE||Scottsdale
-2|Viavi Solutions Inc|7074 E. Greenway Pkwy|Suite 250|Scottsdale
-2|Viavi Solutions Inc|7074 E. Greenway Pkwy||Scottsdale
-2|Spectrum Dynamic Research|7201 E HENKEL WAY|STE 115|SCOTTSDALE
-2|INanoBio Inc|7201 E Henkel Way|Suite 285|Scottsdale
-2|Structurology of Arizona Inc|734 W  POLK ST||PHOENIX
-2|Structurology Inc|734 W  POLK ST||PHOENIX
-2|PK ASSOCIATES LLC|7434 E McDonald Dr||Scottsdale
-2|PK Associates LLC|7434 E McDonald Dr||Scottsdale
-2|TEKDOORS INC|7730 E GREENWAY ROAD|Suite 201|Scottsdale
-2|RIIM LLC|7730 E Greenway Road|Suite 202|Scottsdale
-2|Deca Technologies USA Inc|7855 S River Parkway|Suite 205|Tempe
-2|Deca Technologies USA INC|7855 S River Parkway|Suite 205|Tempe
-2|The Maxis Group|8225 E. Del Camino Drive|Suite 100|Scottsdale
-2|The Maxis Group|8225 E. Del Camino Drive||Scottsdale
-2|IMS Infrastructure Management Services LLC|8380 S. Kyrene Road|Suite 101|Tempe
-2|IMS Infrastructure Management Services, LP|8380 S. Kyrene Road|Suite 101|Tempe
-2|ElectraTect Inc|850 N. 5th St.|Suite 406|Phoenix
-2|Exodigm Biosciences Inc|850 N. 5th St.|Suite 529|Phoenix
-2|OncoMyx Therapeutics Inc|850 N. 5th Street|STE 402|Phoenix
-2|OncoMyx Therapeutics Inc|850 N. 5th Street|SUITE 402|Phoenix
-2|SPS Architects, LLP|8681 East Via De Negocio||Scottsdale
-2|SPS Architects, LLP|8681 East Via de Negocio||Scottsdale
-2|CODEMOXIE SOLUTIONS LLC|8751 N 51st Ave|STE 118|Glendale
-2|CODEMOXIE SOLUTIONS LLC|8751 N 51st Ave|Suite 118|Glendale
-2|Encora Digital LLC|8800 E. Raintree Drive|Suite 200|Scottsdale
-2|Encora Digital Inc|8800 E. Raintree Drive|Suite 200|Scottsdale
-2|Midsys Inc|8900 E Pinnacle Peak Road|Suite 200|Scottsdale
-2|Midsys Inc|8900 E Pinnacle Peak Road|suite 200|Scottsdale
-2|Celtic Cross Holdings Inc|8961 E BELL ROAD|Suite 101|Scottsdale
-2|i3 Verticals Management Services Inc|8961 E Bell Road|Suite 101|Scottsdale
-2|The Behan Law Group, P.L.L.C.|945 N. Stone Avenue||Tucson
-2|The Behan Law Group, PLLC|945 N. Stone Avenue||Tucson
-2|Commerx US Inc|Century Link Tower|20 E. Thomas Road|Phoenix
-2|Commerx US Inc|Century Link Tower|20 E. Thomas Road, Suite 2271|Phoenix
-2|INNOSOFT CORPORATION|PO Box 4937||Scottsdale
-2|Innosoft Corporation|PO Box 4937||Scottsdale
-1|Pima Association of Governments|1 E. Broadway|Suite 401|Tucson
-1|Virtuous Software Inc|1 N 1st Street|Suite 600|Phoenix
-1|ICOMMAND LLC|1 NORTH FIRST STREET|LEVEL 6 SUITE 120|PHOENIX
-1|Aegis Technology Inc|1 West Deer Valley Road|Suite 300|Phoenix
-1|Nuanced Media LLC|100 N. Stone Avenue|Suite 305|Tucson
-1|Acxhange|10000 N 31st Avenue|Suite D131|Phoenix
-1|TECHNOCRAT INC|10000 N. 31ST AVE|SUITE D406F|PHOENIX
-1|NAAS Technologies LLC|10000 North 31st Avenue|Suite D406C2|Phoenix
-1|INAIRA HEALTHCARE TECHNOLOGIES INC|1001 N CENTRAL AVE|SUITE 660|PHOENIX
-1|SLK HOLDINGS LLC|10040 N. 25TH AVE, SUITE 111||PHOENIX
-1|R3 Medical LLC|10045 E Dynamite Boulevard|Suite 260|Scottsdale
-1|Bello Bio LLC|10045 East Dynamite Boulevard|Suite 260|Scottsdale
-1|AA Tax CPA LLC|1007 E Warner Road|Suite 109|Tempe
-1|CVO Holding Company LLC|101 E. Washington St|Suite 500|Phoenix
-1|Envirosure Solutions LLC|1018 E. Guadalupe Road||Tempe
-1|PracticeVantage Consulting Group LLC|10235 S 51 st Street|Suite 100|Phoenix
-1|PracticeVantage Consulting Group LLC|10235 S 51st Street|Suite 100|Phoenix
-1|Desert Express Logistics Inc|1027 North 70th Way||Scottsdale
-1|Topco Scientific USA Corp.|10429 S. 51st st. Suite 105||Phoenix
-1|Advinow INC|10446 N. 74th St.|Suite 120|Scottsdale
-1|Architectural Resource Team Inc|1055 E Indian School Road||Phoenix
-1|ARCHITECTURAL RESOURCE TEAM INC|1055 E. INDIAN SCHOOL ROAD||PHOENIX
-1|EdWise Group LLC|10552 E Thatcher Avenue||Mesa
-1|ARTHA DATA SOLUTIONS LLC|10565 N 114th St|SUITE 116|SCOTTSDALE
-1|CivTech Inc|10605 North Hayden Road|Suite 140|Scottsdale
-1|Global Import L.L.C|1063 E Pascal Street||Gilbert
-1|PartnerTap Inc|1068 East Rolls Road||San Tan Valley
-1|Vettanna LLC|107 N Cortez St|Suite 300|Prescott
-1|AFFLUX SYSTEMS LLC|1090 S GILBERT ROAD,|SUITE 233,|GILBERT
-1|Afflux Systems|1090 S Gilbert Road, Suite  233||Gilbert
-1|LAW OFFICE OF CATHERINE JIANG, PLLC|1095 W. RIO SALADO PARKWAY|SUITE 103|TEMPE
-1|PolyCharge America Inc|10960 N Stallard Pl||Tucson
-1|Sigma Technologies International LLC|10960 N. Stallard Place||Tucson
-1|ISE INC|11011 S 48th Street|Suite 220|Phoenix
-1|Digital Insights LLC|11036 N 23rd Ave|Suite 7|Phoenix
-1|SolarPTL LLC|1107 W Fairmont Dr.||Tempe
-1|SolarPTL LLC|1107 West Fairmont Drive||Tempe
-1|UOP RUSSELL LLC|111 S 34TH Street||Phoenix
-1|Solera Health Inc|111 West Monroe|Suite 300|Phoenix
-1|Quality Mechanical Repair LLC|1110 E Pennsylvania||Tucson
-1|Quality Mechanical Repair LLC|1110 E Pennsylvania Street|Suite 404|Tuscon
-1|Winslow & Partners LLC|112 North Central Avenue|Suite 300|Phoenix
-1|LETS AMERICA INC|112 S KYRENE ROAD SUITE 1||CHANDLER
-1|International Science and Technology Inc|112 S Kyrene Road|Suite 1|Chandler
-1|Wisdom Good Works Inc|1120 W University Ave Suite 200||Flagstaff
-1|Elite IT Consulting LLC|11225 N 28TH DR|STE A102|PHOENIX
-1|Info Triangle Technologies Inc|11225 N 28th Drive|STE D115E|Phoenix
-1|EPS Group Inc|1130 N Alma School Road|Suite 120|Mesa
-1|Privoro LLC|1131 W Warner Road|Suite 109|Tempe
-1|CW Veterinary Services|11310 W. Bell Road Suite 103||Surprise
-1|Schedule Viewer LLC|11320 E Autumn Sage Dr||Scottsdale
-1|Atmosphere Architects PLC|114 W Main St||Mesa
-1|Pearlsoft Solutions Inc|11415 Huron LN,  24866||Little Rock
-1|VM Consolidated Inc|1150 N Alma School Road||Mesa
-1|Healthy Green Life Corporation|1152 S Roughcut Dr||Casa Grande
-1|Polyrific LLC|1166 E. Warner Road||Gilbert
-1|SuiteImpact LLC|1166 East Warner Road|Suite 101|Gilbert
-1|Dytek Solutions LLC|11811 N Tatum Blvd.|Suite 1001|Phoenix
-1|REGION TECHNOLOGIES INC|11811 N. TATUM BLVD., STE. 3031||PHOENIX
-1|Blue Spire Inc|11811 N. Tatum Blvd|STE P 129|Phoenix
-1|Tektastic Technical Services LLC|11835 N 19th Ave, Unit 202||Phoenix
-1|LGE Design Group LLC|1200 N. 52nd Street||Phoenix
-1|Northern Arizona Healthcare|1200 N. Beaver St.||Flagstaff
-1|Northern Arizona Healthcare Corporation|1200 N. Beaver Street||Flagstaff
-1|Christensen Computer Company Inc|12005 N PANORAMA DR||Fountain Hills
-1|Christensen Computer Company Inc|12005 N Panorama Drive||Fountain Hills
-1|Voice Media Group LLC|1201 E. Jefferson Street||Phoenix
-1|VIDHA IT SOLUTIONS LLC|1202 NE McClain Road|Suite 148|Bentonville
-1|M.S. Addison and Associates LLC|1215 W 12th Place||Tempe
-1|Caruso Turley Scott Inc|1215 W Rio Salado Pkwy|Suite 200|Tempe
-1|Savvy Data Solutions Inc|1220 W Houston Ave  2||Gilbert
-1|DBM Vircon Services (USA) Inc|1230 West Washington Street|Suite 201|Tempe
-1|SuoLL LLC|1300 E. Missouri Ave|Ste 115|Phoenix
-1|Sous Inc|1301 N Scottsdale Road|Suite 4037|Scottsdale
-1|Reid and Reid, CPA, PC|1305 E. Hatcher||Phoenix
-1|Reid & Reid CPA PC|1305 E. Hatcher Road||Phoenix
-1|OPEN QUEUE LLC|1306 E Orleans Dr||Gilbert
-1|Printed Energy Inc|1320 W AUTO DR||TEMPE
-1|Translational Drug Development LLC|13208 E. Shea Blvd.|Suite 100|Scottsdale
-1|Ralph Tax & Accounting Services|1330 W Broadway Road|Apt B308|Tempe
-1|BR3C Investments Inc|13416 N 32nd St|Ste 100|Phoenix
-1|4 PEAKS BUSINESS SOLUTION LLC|1345 E CHANDLER BLVD. BLDG. 2|SUITE 107|PHOENIX
-1|4 PEAKS BUSINESS SOLUTION LLC|1345 E CHANDLER BLVD., BLDG 2|SUITE 107|PHOENIX
-1|APISERO INC|1351 N ALMA SCHOOL ROAD|150|CHANDLER
-1|VCORE TECHNOLOGY PARTNERS LLC|1355 N Scottsdale Road|Suite 140|Scottsdale
-1|VHL Technologies Inc|13615 N35th Ave|Ste 3|Phoenix
-1|VHL Technologies Inc|13615 N35th Ave,|Ste 3|Phoenix
-1|VHL Technologies Inc|13615 N35th Avenue|Suite 3|Phoenix
-1|CustomerInsights.AI Inc|1365 N. Scottsdale Road|Suite 100|Scottsdale
-1|OneOrigin Inc|1375 N. Scottsdale Road|Suite 450|Scottsdale
-1|ARB Gaming LLC|13802 N Scottsdale Road Suite 151-94||Scottsdale
-1|ActiveClass Inc|13835 N. Northsight Blvd.|Suite 100|Scottsdale
-1|Khan & Company AZ LLC|13880 N Northsight Blvd|Suite C 105|Scottsdale
-1|Khan, Slayter & Kistler CPA LLC|13880 N Northsight Blvd.|Suite C105|Scottsdale
-1|Vensoft Inc|13934 N. 59th Avenue, Suite 140||Glendale
-1|Lowell Observatory|1400 W Mars Hill Road||Flagstaff
-1|GPW And Associates Inc|14031 S 45th St||Phoenix
-1|Greenlight Traffic Engineering LLC|14050 N 83rd Ave|Suite 290|Peoria
-1|Greenlight Traffic Engineering LLC|14050 North 83rd Avenue|Suite 290|Peoria
-1|SFS IT SERVE LLC|14250 W Wigwam Blvd.||Litchfield Park
-1|SFS IT SERVE LLC|14250 W Wingman Blvd.||Litchfield Park
-1|ArcOne Associates|1427 N 3rd St|STE 100|Phoenix
-1|INDIDGE SYSTEMS LLC|1427 NORTH 3ROAD STREET|SUITE 220|PHOENIX
-1|APL Logistics Americas, Ltd.|14350  North 87th Street, Ste. 350||Scottsdale
-1|APL Logistics Americas, Ltd.|14350 North 87th Street|Suite 350|Scottsdale
-1|APL Logistics Americas, Ltd.|14350 North 87th Street, Ste 350||Scottsdale
-1|PARSUS SOLUTIONS LLC|14362 N Frank Lloyd Wright Blvd|SUITE 1380|SCOTTSDALE
-1|Hirey Inc|1438 W Broadway Road   101||Tempe
-1|Hirey Inc|1438 W Broadway Road  101||Tempe
-1|Viavi Solutions Inc|1445 S Spectrum Blvd|Suite 102|Chandler
-1|Viavi Solutions Inc|1445 South Spectrum Blvd|Suite 102|Chandler
-1|Viavi Solutions Inc|1445 South Spectrum Blvd.|Suite 102|Chandler
-1|Unicon Inc|1447 W. Elliot Road|101|Gilbert
-1|Unicon Inc|1447 West Elliot Road|Suite 101|Gilbert
-1|Zebra Projects Inc|14614 N Kierland Blvd.|Suite N300|Scottsdale
-1|Zebra Projects Inc|14614 N. Kierland Blvd|Suite N300|Scottsdale
-1|Massively Parallel Technologies Inc|1475 N SCOTTSDALE ROAD STE 200||Scottsdale
-1|PrismHR Inc|1475 S Price Road||Chandler
-1|CoachIT Solution|14819 N Cave Creek Road|unit 9|Phoenix
-1|V W Enterprises LLC|14858 N Frank Lloyd Wright Blvd|Suite 165b|Scottsdale
-1|ProVision, PLC|1501 W Fountainhead Pkwy, Suite 650||Tempe
-1|The Tinkering Society LLC|15029 N. Thompson Peak Parkway|Suite B 111 426|Scottsdale
-1|W.L. Gore & Associates Inc|1505 N Fourth Street Elden View||Flagstaff
-1|SUMMA FRANCHISE CONSULTING|15051 N. Kierland Boulevard|SUITE 300|SCOTTSDALE
-1|Blue Yonder Inc|15059 North Scottsdale Road|Suite 400|Scottsdale
-1|Pinnacle Facility Engineering LLC|1506 W Whispering Wind Dr|suite 100|Phoenix
-1|Exclusent Inc|15169 N. Scottsdale Road|Suite 205|Scottsdale
-1|ENLACE IT INC|15201 S. 47TH WAY||PHOENIX
-1|Arizona Humane Society|1521 West Dobbins Road||Phoenix
-1|Frontier Technology LLC|15210 S 50th Street|Suite 180|Phoenix
-1|Vijayanand Inc|1522 E Aris Dr||Gilbert
-1|Freeflow Inc|1525 S Higley Road|Suite 104|Gilbert
-1|Workado LLC|15333 N. Pima Scottsdale|Suite 260|Scottsdale
-1|Girikon Inc|15433 N Tatum Blvd.|Suite 105|Phoenix
-1|Isagenix International LLC|155 E. Rivulon Blvd.||Gilbert
-1|Errol L. Montgomery & Associates Inc|1550 E. Prince Road||Tucson
-1|ASI OPERATIONS LLC|1553 W. TODD DRIVE|SUITE 204|TEMPE
-1|TikSage Corporation|15657 N Hayden Road|1086|Scottsdale
-1|MyCarrier LLC|15950 N. 76th Street|Suite 200|Scottsdale
-1|Gigbridge Talent Solutions LLC|16100 E. Shooting Star Trail||Fountain Hills
-1|Multipurpose services LLC|1614 W Roosevelt ,Suite 108||Phoenix
-1|Crexendo Inc|1615 South 52nd Street||Tempe
-1|Savvy Data Solutions Inc|1616 E Main St  238||Mesa
-1|Savvy Data Solutions Inc|1616 E Main St,  214||Mesa
-1|Savvy Data Solutions Inc|1616 E Main Street|Suite 238|Mesa
-1|Savvy Data Solutions Inc|1616 E Main Street  238||Mesa
-1|OPEN QUEUE LLC|1616 E. MAIN STREET|SUITE 250|MESA
-1|Quantstamp Inc|16165 N. 83rd Avenue|200|Peoria
-1|Wilson Engineers LLC|1620 W. Fountainhead Parkway|Suite 501|Tempe
-1|Axway Inc|16220 N. Scottsdale Road|Suite 500|Scottsdale
-1|Imagen Dental Partners LLC|16220 North Scottsdale Road, Ste. 300||Scottsdale
-1|Centauri Health Solutions Inc|16260 N. 71st Street|Suite 325|Scottsdale
-1|George Cairo Engineering Inc|1630 South Stapley Drive|Suite 117|Mesa
-1|Sibi LLC|1630 W. Guadalupe||Gilbert
-1|Sibi LLC|1630 W. Guadalupe Road||Gilbert
-1|MAGNATE SOLUTIONS LLC|16351 W CHARLOTTE DR.||SURPRISE
-1|Propersys Corporation|1637 West Knudsen Drive|Suite 100|Phoenix
-1|Lizard Rock Designs LLC|1640 E. River Road|Suite 206|Tucson
-1|PEP Development Services LLC|16427 N Scottsdale Road|Suite 440|Scottsdale
-1|PEP Development Services LLC|16427 N. Scottsdale Road|Suite 440|Scottsdale
-1|Para Business Systems Consulting|16439 W. Buchanan Street||Goodyear
-1|VCA INC|1648 N. COUNTRY CLUB DRIVE||MESA
-1|NOVA WEB TECHNOLOGIES LLC|1650 S. EVERGREEN STREET||CHANDLER
-1|Smarteq Solutions LLC|16601 N 40th St|Suite 124|PHOENIX
-1|Nu Planet Pharmaceutical Radioisotopes Inc|16674 North 91st Street, Suite 103||Scottsdale
-1|SQA Labs Inc|16880 N. 73rd Avenue||Peoria
-1|DDEV SOLUTIONS LLC|1698 W Seagull CT||Chandler
-1|MD ACOUSTICS LLC|170 S William Dillard Drive|Suite 103|Gilbert
-1|Planetary Science Institute|1700 E. Fort Lowell Road, Suite 106||Tucson
-1|MICHAEL CORDOVA PC|1700 N 7th St|Suite 1500|Phoenix
-1|Ipro Tech LLC|1700 N. Desert Drive|Suite 101|Tempe
-1|Malla Systems Inc|17100 N. 67TH AVENUE, Suite 303||Glendale
-1|Compliance Testing LLC|1724 S. Nevada Way||Mesa
-1|LINK LAB LLC|1729 EAST OSBORN ROAD||PHOENIX
-1|Critical Path Institute|1730 E. River Road|Suite 200|Tucson
-1|JENNY X. CAI, CPA, PC|1731 W BASELINE ROAD STE 102||MESA
-1|ACUUM INC|1734 E BOSTON STREET|SUITE 103|GILBERT
-1|Unicon Inc|1760 East Pecos Road|432|Gilbert
-1|APL Logistics Americas, Ltd.|17600 N. Perimeter Dr.|Suite 150|Scottsdale
-1|APL Logistics Americas, Ltd.|17600 N. Perimeter Dr., Ste 150||Scottsdale
-1|APL Logistics Americas, Ltd.|17600 N. Perimeter Drive|Suite 150|Scottsdale
-1|TechnicaX LLC|1767, E Queen Creek Road|STE 4|Chandler
-1|Equity Methods LLC|17800 N. Perimeter Drive|Suite 200|Scottsdale
-1|Equity Methods LLC|17800 Perimeter Drive|Suite 200|Scottsdale
-1|Sandhill Holdings Inc|1800 W Broadway Road|Ste 5|Tempe
-1|Phantom Space Corporation|1816 S. Research Loop||Tucson
-1|Salvatierra Law Group|1817 N 3rd St||Phoenix
-1|Gallacher, Bosen & Goodman, PLLC|1830 S. Alma School Road Suite 116||Mesa
-1|FELTEN GROUP INC|18325 N ALLIED WAY|SUITE 200|PHOENIX
-1|Critical Path Institute|1840 E. River Road|Suite 100|Tucson
-1|Critical Path Institute|1840 East River Road|Suite 100|Tucson
-1|BestKey Solutions Inc|18444 N. 25th Avenue|Suite 420|Phoenix
-1|ClaimsHero Holdings LLC|1846 E INNOVATION PARK DR|Suite 100|Oro Valley
-1|Pebble Design LLC|1846 E. Innovation Park Dr.|STE 100|Oro Valley
-1|Ciara Technologies USA Inc|1868 E Broadway Road||Tempe
-1|Transact Campus Inc|18700 N. Hayden Road|Suite 230|Scottsdale
-1|Transact Campus Inc|18700 North Hayden Road|Suite 230|Scottsdale
-1|tekxel, llc|1874 East Dava Drive||Tempe
-1|Southlands Engineering LLC|1875 W. Gardner Lane||Tucson
-1|Icube Technology Inc|1910 South Stapley Drive|Suite 221|Mesa
-1|EDUPOINT EDUCATIONAL SYSTEMS LLC|1955 S. Val Vista Drive|Suite 200|Mesa
-1|BeachFleischman PLLC|1985 E River Road|Ste 201|Tucson
-1|Alcock and Associates PC|2 N CENTRAL AVE FLR 26||PHOENIX
-1|Alcock and Associates P.C.|2 N Central Ave 2600 26th floor||Phoenix
-1|SWCA Inc|20  E. Thomas Road|Suite 1700|Phoenix
-1|SWCA Environmental Consultants|20  S. Thomas Road|STE 1700|Phoenix
-1|Vix Technology USA Inc|200 E 5th Street|Suite 301|Tempe
-1|Dominion Environmental Consultants Inc|20045 N 19th Ave|Building 7|Phoenix
-1|Welmade Technology Corp|2005 W Deer Valley Road|STE 106  107|Phoenix
-1|Lewis Roca Rothgerber Christie LLP|201 E. Washington St.|Suite 1200|Phoenix
-1|AskReply Inc|201 E. Washington Street|5th Floor|Phoenix
-1|ADVANCED MECHANICAL TECHNOLOGIES|201 W GIBSON LANE||PHOENIX
-1|Devenney Group Ltd.,|201 W. Indian School Road||Phoenix
-1|Hamilton Architecture pllc.|2020 N. Central Avenue|Suite P150|Phoenix
-1|Pearlsoft Solutions Inc|2024 Arkansas Valley Drive|Ste 306|Little Rock
-1|Amkor Technology Inc|2045 E. Innovation Circle||Tempe
-1|Poliigon USA LLC|20474 W. Briarwood Dr.||Buckeye
-1|Wood, Patel & Associates Inc|2051 West Northern Avenue|Suite 100|Phoenix
-1|M3 Engineering & Technology Corporation|2051 West Sunset Road|Suite 101|Tucson
-1|United Structural Design LLC|2058 S. Dobson Road|Suite 10|Mesa
-1|United Structural Design LLC|2058 South Dobson Road|Suite 10|Mesa
-1|N.E.R.D. Power LLC|2065 W. Obispo Avenue|Ste 102|Gilbert
-1|Objectways Technologies LLC|20715 N Pima Road||Scottsdale
-1|Publisher First Inc|20715 N. Pima Road|Ste 108|Scottsdale
-1|EVO Transportation & Energy Services Inc|2075 W. Pinnacle Peak Road Suite 130||Phoenix
-1|Solutions 8 LLC|20860 N. Tatum Blvd.|Suite 300|Phoenix
-1|STARWEST ASSOCIATES LLC|21 E 6th Street|STE 702|Tempe
-1|nQ Zebraworks LLC|21001 N Tatum Blvd.|Suite 1630 956|Phoenix
-1|ReSuture Inc|21045 N. 9th Place|Suite 203|Phoenix
-1|A&B Labs Arizona Inc|2105 S. 48th Street|Suite 102|Tempe
-1|Info Tech Inc|2111 E Baseline Road,|Suite B3|Tempe
-1|Info Tech Inc|2111 E. Baseline Road|STE B3|Tempe
-1|Freshkube Inc|2128 S Paseo Loma||Mesa
-1|SAMS TECHNOLOGIES LLC|2131 E BROADWAY ROAD|SUITE 32|TEMPE
-1|HILGARTWILSON LLC|2141 E. Highland Avenue|Suite 250|Phoenix
-1|Lorven Techno Solutions LLC|2147 W Marconi Ave||Phoenix
-1|Pajosys Technologies LLC|21620 N. 19th Ave|Ste A5|Phoenix
-1|NAAS Technologies LLC|21630 N 19th Ave|Suite B3|Phoenix
-1|Greentek Solutions Inc|21630 N 19th Avenue|Suite B19|Phoenix
-1|Engineering Wireless Services LLC|2175 W. 14th Street||Tempe
-1|Metasofttech Solutions LLC|2195 W Chandler Blvd|Suite 160|Chandler
-1|METASOFTTECH SOLUTIONS LLC|2195 W. CHANDLER BLVD, STE. 100||CHANDLER
-1|METASOFTTECH SOLUTIONS LLC|2195 W. CHANDLER BLVD, STE. 160||CHANDLER
-1|Swift Logistics LLC|2200 S 75th Ave||Phoenix
-1|Hourglass Education Technology Solutions LLC|221 E. Indianola Avenue||Phoenix
-1|AVNET INC|2211 S. 47TH STREET||PHOENIX
-1|RadiusAI Inc|222 S Mill Ave|Ste 800|Tempe
-1|RadiusAI Inc|222 South Mill Ave|Ste 800|Tempe
-1|RadiusAI Inc|222 South Mill Avenue|Ste 800|Tempe
-1|Smarteq Solutions LLC|2220 W MISSION LN|APT 1016|PHOENIX
-1|Net Android Corp.|2221 W Pecos Road|Suite 4|Chandler
-1|Net Android Corp.|2221 W Pecos Road,|Suite 4|Chandler
-1|Gistic Research Inc|2222 N FRANNEA DR||TUCSON
-1|Analytic Era LLC|2222 S Dobson road|Suit 502|Mesa
-1|ANALYTIC ERA LLC|2222 S. DOBSON ROAD|SUITE 502|MESA
-1|Maverick US Inc|2222 West Pinnacle Peak Road|Suite 190|Phoenix
-1|eTechLogix Inc|2224 W Desert Cove Ave, Ste  205||Phoenix
-1|ROGERS CORPORATION|2225 W CHANDLER BLVD||CHANDLER
-1|Rogers Corporation|2225 W. Chandler Blvd.||Chandler
-1|SAMS Technologies LLC|2226 E Bowker St||Phoenix
-1|RKAA ARCHITECTS INC|2233 E THOMAS ROAD||PHOENIX
-1|MHUR LLC|2243 W. Faria Lane||Phoenix
-1|Cyber Reconnaissance Inc d/b/a cyr3con|225 W University Dr|Ste 201 4|Tempe
-1|Transact Campus Inc|22601 North 19th Avenue|Suite 130|Phoenix
-1|Khalsa McBrearty Accountancy LLP|2300 N CENTRAL AVE|STE 2400|Phoenix
-1|Analytic Era LLC|2301 S Stearman Drive|Suit 13|Chandler
-1|Zoftec LLC|2325 West Utopia Road||Phoenix
-1|Veregy LLC|23325 North 23rd Avenue|Suite 120|Phoenix
-1|DWL Architects-Planners Inc|2333 N. Central Avenue||Phoenix
-1|LSW Engineers Arizona Inc|2333 W Northern Avenue|Suite 9|Phoenix
-1|LSW Engineers Arizona Inc|2333 W Northern Avenue, Ste. 9||Phoenix
-1|LSW ENGINEERS ARIZONA INC|2333 W. Northern Avenue|SUITE 9|Phoenix
-1|HashGen Technologies Inc|2345 E Thomas Road|Suite 445|Phoenix
-1|Value Spectrum Technologies LLC|2350 E Germann Road|Suite 33|Chandler
-1|Elevate Services Inc|2375 E Camelback Road|Suite 690|Phoenix
-1|Revspring Inc|23751 N 23rd Ave|Suite 150|Phoenix
-1|Digital IQ Inc|2390 East Camelback Road|Suite 130|Phoenix
-1|Muaqua Engineering Inc|23910 N 19th Ave|Suite C 58|Phoenix
-1|Fennemore Craig, P. C.|2394 E Camelback Road|Suite 600|Phoenix
-1|Propersys Corporation|23975 N 19th Ave|Suite 100|Phoenix
-1|Sulzer EMS Inc|2412 W. Durango Street||Phoenix
-1|Solera Health Inc|2425 E. Camelback Road|Suite 150|Phoenix
-1|Better Direct LLC|2425 E. University Dr||Tempe
-1|Better Direct LLC|2425 E. University Drive||Tempe
-1|Solera Health Inc|2425 East Camelback Road|Suite 150|Phoenix
-1|RAYZHER TECHNOLOGY USA INC|2425 W Utopia Road||Phoenix
-1|Project Engineering Consultants, Ltd.|2432 W. Peoria Avenue Suite 1246||Phoenix
-1|Triumph Tech|24654 N Lake Pleasant Pkwy Ste 103-192||Peoria
-1|BW Events LLC|2473 S. Higley Road|Suite 104|Gilbert
-1|Nguyen Tarbet LLC|2474 E River Road||Tucson
-1|Call & Nicholas Inc|2475 N Coyote Dr||Tucson
-1|Call & Nicholas Inc|2475 N. Coyote Dr.||Tucson
-1|Footprint LLC|250 East Germann Road||Gilbert
-1|Bakkum Noelke Consulting Structural Engineers Inc|2525 E Arizona Biltmore Circle|Suite D240|Phoenix
-1|Woolston & Tarter, P.C.|2525 E. Arizona Biltmore Circle|Suite B 218|Phoenix
-1|Andavi Solutions Inc|2550 W Union Hills Drive|Suite 350 3569|Phoenix
-1|Andavi Solutions Inc|2550 W. Union Hills Dr.|Suite 350 3569|Phoenix
-1|Mosaic Building Group Inc|2555 E Camelback Road|Suite 300|Phoenix
-1|Mosaic Building Group Inc|2555 E Camelback Road Suite 300||Phoenix
-1|Block Science Inc|2607 W. Freemont Drive||Tempe
-1|Four80 Inc dba Volta US|2633 E. Indian School Road|Suite 210|Phoenix
-1|Stratuscoder Inc|266 N. Jesse St.||Chandler
-1|Advalue Photonics Inc|2700 E. Bilby Road|150|Tucson
-1|Info Tech Inc|2705 S Alma School Road,|Suite 2|Chandler
-1|HUMAC INC|2730 W. AGUA FRIA FREEWAY, STE. 204||PHOENIX
-1|Elevation Marketing LLC|275 E Rivulon Blvd|Suite 411|Gilbert
-1|NAAS Technologies LLC|27959 N 25th Dr|N/A|Phoenix
-1|MediCarbone Inc|2820 E Fort Lowell Road||Tucson
-1|ProCARE Portal LLC|2820 S. Alma School Road||Chandler
-1|Garner Solutions LLC|2826 E Voltaire Avenue||Phoenix
-1|Sion Power Corporation|2900 East Elvira Road||Tucson
-1|ATL Inc|2921 N 30th Ave||Phoenix
-1|Herman L Orcutt & Paul D Winslow PTR|2929  N Central Avenue|11th Floor|Phoenix
-1|AEC Holdco LLC|2929 N Central Ave|Flr. 11|Phoenix
-1|GLHN Architects and Engineers Inc|2939 E Broadway Blvd.||Tucson
-1|Publisher First Inc|2944 N. 44th Street|Suite 100|Phoenix
-1|Structural Engineers Company|2963 W Elliott Road|Ste 3|Chandler
-1|Mello & Ponaman Enterprises LLC|2999 North 44th Street|Suite 450|Phoenix
-1|Southwest Autism Research and Resource Center|300 North 18th Street||Phoenix
-1|AXOLOT SYSTEMS INC|300 S BEECH ST||PINE BLUFF
-1|The Green Room Holdings Inc|3002 North 3rd St||Phoenix
-1|Arrington Watkins Architects LLC|3003 N Central Avenue|Suite 2400|Phoenix
-1|Dig Studio Inc|3003 N. Central Avenue|Suite 800|Phoenix
-1|Dig Studio Inc|3003 N. Central Avenue, Suite 800||Phoenix
-1|APMI Inc|3003 North Central Avenue|Suite 1100|Phoenix
-1|Greenerflow LLC|3015 N Scottsdale ROAD|Unit 1224|Scottsdale
-1|Dibble & Associates Consulting Engineers Inc|3020 E Camelback Road|Suite 201|Phoenix
-1|Dibble & Associates Consulting Engineers Inc|3020 E. Camelback Road|Suite 201|Phoenix
-1|SLK HOLDINGS LLC|3030 N Central Ave|Suite 1405|PHOENIX
-1|Aniles and Company LLC|3033 N. Central Ave|Suite 615|Phoenix
-1|Alphacore Inc|304 S. Rockford Dr.||Tempe
-1|Alphacore Inc|304 South Rockford Dr.||Tempe
-1|Alphacore Inc|304 South Rockford Drive||Tempe
-1|MIAS TRANSFORMATIONS L.L.C.|3042 W Sands Dr||PHOENIX
-1|LIN CHAI RAWLINSON CPA, PC|3048 E Baseline Road Suite 123||Mesa
-1|Lin Chai Rawlinson CPA, PC|3048 E. Baseline Road|Suite 123|Mesa
-1|Edais Engineering Inc|3075 S Avenue 4E||Yuma
-1|Struck Love Bojanowski & Acedo, PLC|3100 West Ray Road|Suite 300|Chandler
-1|Philips Law Group|3101 North Central Ave|Suite 1500|Phoenix
-1|Praecipio Enterprises LLC|3105 E.  Fairmount Ave|22|Phoenix
-1|Crystal Sonic Inc|311  W Virginia Avenue||Phoenix
-1|Crystal Sonic Inc|311 W Virginia Avenue||Phoenix
-1|PerezMcGee International Architecture LLC|3115 North 71st Street||Scottsdale
-1|Vint and Associates Architects|312 E. 6th Street||Tucson
-1|INTERBIZ CONSULTING LLC|3120 W FRANKFURT DRIVE||CHANDLER
-1|Zenith Semiconductor Corporation|3133  W Frye Road|Suite 415|Chandler
-1|Zenith Semiconductor Corporation|3133  W. Frye Road, Ste. 415||Chandler
-1|Volteo LLC|3133 Frye Road|Suite 101|Chandler
-1|MicroPatent LLC|3133 W. Frye Road||Chandler
-1|Digitech Services Inc|31616 N 19th Ave,||Phoenix
-1|Del Sol Group|319 E. Palm Ln.||Phoenix
-1|Khalsa McBrearty Accountancy, LLP|3200 N Central Avenue|Suite 2400|Phoenix
-1|Sixty First Place Architects, Ltd.|3200 N Hayden Road|Ste 285|Scottsdale
-1|Sonora Environmental Research Institute Inc|3202 E. Grant Road||Tucson
-1|Fedelta Partners LLC|3219 E. Camelback Road|Suite 809|Phoenix
-1|Recognition Analytix Inc|3229 East Desert Lane||Phoenix
-1|Mosaic Building Group Inc|3230 E. Broadway Road|Suite B 115|Phoenix
-1|Virtix Health LLC|3240 E Union Hills Drive|Suite 165|Phoenix
-1|Skygys Inc|32614 N 19th Ln||Phoenix
-1|Reflect Advisors LLC|32722 N. 132nd Lane||Peoria
-1|Modular Mining Systems Inc|3289 East Hemisphere Loop||Tucson
-1|Clinsys Inc|3300 e sunrise drive||tucson
-1|VEREGY LLC|3312 East Broadway Road||Phoenix
-1|Skavatar Inc|333 N. Wilmot Road|Suite 340|Tucson
-1|PracticeVantage Consulting Group LLC|3377 S Price Road|STE 3084|Chandler
-1|Global Patent Solutions LLC|3377 S. Price Road||Chandler
-1|MRT Design LLC|340 E Palm Ln|Suite 304|Phoenix
-1|JagCo Global Inc|3401 E Harbour Drive||Phoenix
-1|STACH & LIU LLC|3409 N 7th Ave|STE 2048|Phoenix
-1|Apex Wireless Solutions LLC|3423 E Enrose St||Mesa
-1|Valley Tech Automation LLC|34393 N Damietta Trl.||San Tan Valley
-1|Ampcera Inc|3440 E Britannia Dr|Ste 190|Tucson
-1|Recurring Decimal Inc|34406 N 27TH DR, BLDG  4, ST  130||Phoenix
-1|Recurring Decimal LLC|34406 N 27th Drive|Suite 130|Phoenix
-1|Vidal Equine, PLLC|34705 N. 14th Street||Phoenix
-1|Zonge International Inc|3475 North Dodge Blvd.||Tucson
-1|Ridgetop Group Inc|3580 W. Ina Road|Suite 200|Tucson
-1|OKTA SOLUTIONS LLC|370 E TORREY PINES PL||CHANDLER
-1|Verde Tech Systems Inc|3703 E Southern Ave|Suite 1075|Mesa
-1|Alankar Co.|3707 E Southern Avenue|Floors 1 & 2|Mesa
-1|Koantek LLC|3707 East Southern Avenue||Mesa
-1|TechnoPrism LLC|3707 W Southern Ave|Floors 1 & 2|Mesa
-1|NucleusTeq Inc|3793 E Covey Lane||Phoenix
-1|NucleusTeq Inc|3793 E. Covey Lane||Phoenix
-1|Mindsigns Health„¢ Inc|3819 East La Salle St||Phoenix
-1|ProVision, PLC|382 E Palm Ln, Suite 100||Phoenix
-1|Savvy Data Solutions Inc|3820 E Main St|Suite 11|Mesa
-1|Meridian Engineering Company|3855 N Business Center Drive||Tucson
-1|Powers Reinforcing Fabricators LLC|3919 S 28th Street||Phoenix
-1|Business Warrior Corporation|3920 E Thomas Road|Ste 97310|Phoenix
-1|Rick Engineering Company|3945 East Fort Lowell Road|Suite 111|Tucson
-1|Biocybernaut Institute of Arizona LLC|395 Jordan Road||Sedona
-1|Foundation AI Inc|3950 E McLellan Road|Unit 13|Mesa
-1|City of Maricopa|39700 W Civic Center Plaza||Maricopa
-1|Valore Partners LLC|398 S Mill Ave|Suite 201|Tempe
-1|Western Semiconductor Inc|398 S. Mill Ave|Suite 300|Tempe
-1|Kubra Arizona Inc|40 E Rio Salado Pkwy|Suite 535|Tempe
-1|Cognite LLC|40 E Rio Salado Pkwy.|Suite 900|Tempe
-1|Kubra Arizona Inc|40 East Rio Salado Parkway|Suite 535|Tempe
-1|Cash Flow Management LLC|401 E Rivulon Blvd|Suite 111|Gilbert
-1|GENESES TECH SOLUTIONS LLC|401 W  BASELINE ROAD|SUITE 101|TEMPE
-1|Geneses Tech Solutions LLC|401 West Baseline Road|STE 101|Tempe
-1|Symboticware Corp.|4016 E. Gail Ct||Gilbert
-1|Todd and Associates Architecture and Planning Inc|4019 N 44th St||Phoenix
-1|Talent Mobility Inc|4035 S. Riverpoint Parkway||Phoenix
-1|Nuanced Media LLC|405 W. Franklin||Tucson
-1|FTR, Ltd|4050 E. Cotton Center Blvd|Blg 7, Ste 75|Phoenix
-1|STChealth|411 S. 1st Street||Phoenix
-1|Todica Financial Services LLC|4131 N 24th Street|Suite C205|Phoenix
-1|SPECIFIC CONDITIONS INC|41925 N BACK CREEK CT.||Anthem
-1|Eclectic Services LLC|420 North Scottsdale Road|Apt. 5046|Tempe
-1|Saguaro Bloom Diagnostics LLC|4224 N. Craftsman Court||Scottsdale
-1|ERICJON WORLD WIDE HOLDINGS INC|4250 N Drinkwater Blvd||Scottsdale
-1|T.O.R. ENGINEERING CORPORATION|4320 E Cotton Center Blvd|Suite 106|Phoenix
-1|Hoque & Associates Inc|4325 South 34th Street||Phoenix
-1|Airth Inc|433 East Yvon Drive||Tucson
-1|Prism Professional Service Group LLC|4340 W Chandler Blvd.|Suite 8|Chandler
-1|Ross Design Group LLC|4342 N Civic Center Plaza||Scottsdale
-1|CDM Media USA INC|4343 N Scottsdale Road|390|Scottsdale
-1|GeoInsight Global LLC|437 S. Ocean Dr.||Phoenix
-1|Energy Solutions and Supplies LLC|440 E Warner Road|Suite 4|Chandler
-1|Kozolchyk National Law Center|440 N Bonita Ave||Tucson
-1|AVISO Inc|4400 N Scottsdale Road Ste 9-926||Scottsdale
-1|Ethisphere LLC|4400 N. Scottsdale Road STE 9, PMB 9-70||Scottsdale
-1|Aviso Inc|4400 North Scottsdale Road|SUITE 9|Scottsdale
-1|Vertech Industrial Systems LLC|4409 East Baseline Road|Suite 127|Phoenix
-1|SYSAZZLE INC|4435 E. CHANDLER BOULEVAROAD|SUITE 200|PHOENIX
-1|The WLB Group Inc|4444 E Broadway Blvd||Tucson
-1|The WLB Group Inc|4444 E Broadway Blvd.||Tucson
-1|JS Waltz Construction LLC|449 S 48th Street|Suite 105|Tempe
-1|JS WALTZ CONSTRUCTION LLC|449 S. 48TH STREET|SUITE 105|TEMPE
-1|Moatable US Holdco Inc|45 W Buchanan St.||Phoenix
-1|FST Technical Services LLC|450 East Warner|Suite 1|Chandler
-1|FST Technical Services LLC|450 East Warner Road|Suite 1|Chandler
-1|Anju Software Inc|4500 S Lakeshore Dr|Suite 620|Tempe
-1|Anju Software Inc|4500 S. Lakeshore Drive|Suite 620|Tempe
-1|Anju Software Inc|4500 South Lakeshore Drive|Suite 620|Tempe
-1|DICK & FRITSCHE DESIGN GROUP|4545 E MCKINLEY STREET||PHOENIX
-1|Dick & Fritsche Design Group|4545 East McKinley Street||Phoenix
-1|NucleusTeq Inc|4550 E. Bell Road|Bldg. 3, Suite 222|Phoenix
-1|Arizona Arthritis & Rheumatology Associates, P.C.|4550 East Bell Road|Suite 170|Phoenix
-1|DHX Software LLC|4552 West Erie Street||Chandler
-1|AZTEC Engineering Group Inc|4561 East McDowell Road||Phoenix
-1|RMT System LLC|4597 S Marion Pl||Chandler
-1|CAROLLO ENGINEERS INC|4600 E WASHINGTON STREET|SUITE 500|PHOENIX
-1|Namecheap Inc|4600 East Washington Street|Suite 300|Phoenix
-1|Lightvox Studio|4602 E Thomas Road||Phoenix
-1|Lightvox Studio, PLLC|4602 E. Thomas Road|Suite 100|85018
-1|HQ Account LLC|4625 S. Wendler Dr.||Tempe
-1|Architekton Inc|464 S Farmer Avenue|Suite 101|Tempe
-1|Industrial Design LLC|4645 W Folley St.||Chandler
-1|J2 Engineering & Environmental Design LLC|4649 E. Cotton Gin Loop|Suite B2|Phoenix
-1|MOD AP LLC|4700 N 12th Street|Suite 203|PHOENIX
-1|Datalink Software Consultants Inc|4745 N. 7th St.  215||Phoenix
-1|CABAN LLC|475 S Stone Ave||Tucson
-1|CLL . Concept Lighting Lab LLC|484 South Convent Ave||Tucson
-1|CLL . Concept Lighting Lab LLC|484 South Convent Avenue||Tucson
-1|BlackRock IT Solutions LLC|4840 E Jasmine street|suite 105|Messa
-1|TYB LLC|4860 N. Camino Real||Tucson
-1|Bioscience Americas LLC|4900 N Scottsdale Road|Suite 3700|Scottsdale
-1|Prama Services LLC|4904 S Leisure Way||Gilbert
-1|Find Your Influence Inc|4980 S. Alma School Road,  2-462||Chandler
-1|VCA INC|4984 E. 22ND STREET||TUCSON
-1|Mugenspace LLC|5004 S. 71st Street||Mesa
-1|Ivanhoe Electric Inc|501 N Florence St STE 102||Casa Grande
-1|AZTEC Engineering Group Inc|501 N. 44th Street|Suite 300|Phoenix
-1|AeroSpec Inc|505 E Alamo Dr||Chandler
-1|AeroSpec Inc|505 W Alamo Dr||Chandler
-1|Huitt-Zollars Inc|5050 N. 40th Street|Suite 100|Phoenix
-1|Archicon Architecture & Interiors L.C.|5055 E. Washington St|Suite 200|Phoenix
-1|Nagra USA LLC|5090 N 40th Street|Suite 450|Phoenix
-1|Logan Simpson Design Inc|51 West 3rd Street|Suite 450|Tempe
-1|Wendell Burnette Architects Inc|5102 N. Central Ave 5||Phoenix
-1|Karpinski, Bernstein & Adler, PLC|5110 N. 40th St.|STE 107|Phoenix
-1|Derive LLC|515 E Grant St|Suite 150|Phoenix
-1|Arrington Watkins Architects LLC|5240 N 16th Street|Suite 101|Phoenix
-1|AIAEC LLC|5240 N. 16th Street|Suite 105|Phoenix
-1|Acxhange|5261 West Melinda Lane||Glendale
-1|Asavet Veterinary Charities|5408 S 12th Ave||Tucson
-1|INVERNESS IT SOLUTIONS|5430 N 90TH DR||GLENDALE
-1|KC Mechanical Engineering|5447 East Fifth Street,  112||Tucson
-1|HBL CPAs, P.C.|5470 East Broadway Blvd.||Tucson
-1|Canfield Engineering & Integration LLC|555 W. Chandler Blvd|Suite 206|Chandler
-1|GROHMANN USA INC|5550 WEST CHANDLER BOULEVAROAD|SUITE 1|CHANDLER
-1|SOUTHWEST CONSULTANTS LLC|5604 W MOLLY LANE||PHOENIX
-1|Academian Inc|5660 W Chandler Blvd, Ste 1||Chandler
-1|INTRAEDGE INC|5660 W. CHANDLER BLVD., STE. 1||CHANDLER
-1|WESTERN ELECTRICAL SERVICES|5680 S. 32ND ST.||PHOENIX
-1|Gaston Walsh Law Group LLC|5710 W Camelback Road||Glendale
-1|SYNAPSE LABS INC|5765 E SPRING ROAD||SCOTTSDALE
-1|Secure Medical Inc|5801 McClintock Dr.|Ste 109|Tempe
-1|ACE SOFTWARE LLC|5845 W. Charter Oak Road||Glendale
-1|SAECO (Smith & Annala Engineering Company)|5861 S Kyrene Road|Suite 5|Tempe
-1|PETLAND, PLLC|5940 W. Union Hills|Suite D 170|Glendale
-1|PETLAND, PLLC|5940 W. Union Hills Dr.|Suite D 170|Glendale
-1|Ausenco Engineering USA South Inc|595 S Meyer Avenue||Tucson
-1|Vertex Analytics Inc|5970 Fairview Road|Suite 220|Charlotte
-1|Dasheboard AI Inc|60 E Rio Salado Parkway|Suite 900|Tempe
-1|1 ENTERPRISE E O R SERVICES INC|60 E Rio Salado Pkwy  900,||Tempe
-1|Gen Digital Inc|60 E. Rio Salado Parkway|Suite 1000|Tempe
-1|Gen Digital Inc|60 E. Rio Salado Parkway, Suite 100||Tempe
-1|Optilab LLC|600 E Camelback Road||Phoenix
-1|Schwan Consulting LLC|6000 E. Thomas Road|Suite 1|Scottsdale
-1|Biomechanics Research & Consulting Inc|602 S. Perry Lane||Tempe
-1|Lavender Landscape Design Co. LLC|602 W 22nd St||Tempe
-1|Astra Canyon Group LLC|6021 E Grant Road||Tucson
-1|Radixlink Inc|6069 W Ray Road|Suite 111|Chandler
-1|LETS AMERICA INC|6100 W Gila Springs Pl Suite 21||CHANDLER
-1|Minar Yantrix Inc|6100 W. Gila Springs Pl. Suite 21||Chandler
-1|Americas Communications LLC|6100 W. Gila Springs Place|Suite 7|Chandler
-1|OCM Golf USA Inc|6157 E Indian School Road||Scottsdale
-1|CLAIRVOYANT AI INC|6185 W. DETROIT STREET||CHANDLER
-1|Find Your Influence Inc|6220 E Thomas Road Suite 100||Scottsdale
-1|Grenier Engineering Inc|6300 E. El Dorado Plaza|Suite A120|Tucson
-1|Grenier Engineering Inc|6300 E. El Dorado Plz.|Suite A120|Tucson
-1|Prism Technologies LLC|6304 S Shannon Dr||Tempe
-1|Prism Technologies LLC|6304 S. Shannon Dr||Tempe
-1|Blue Spire Inc|645 E Missouri Avenue|275|Phoenix
-1|Terrascape Consulting LLC|645 East Missouri Avenue|Suite 160|Phoenix
-1|Arensia Exploratory Medicine Inc|6707 N. 19th Avenue, Suite 201|Arensia Phoenix Research Clinic|Phoenix
-1|Organizational Developer LLC|6710 N. Scottsdale Road|Suite 150|Scottsdale
-1|Super Marketing LLC|6715 E. Rovey Avenue||Paradise Valley
-1|JDiaz Business LLC|6751 North Sunset Boulevard|Suite E 333|Glendale
-1|TechRM LLC|6892 W Laredo Street||Chandler
-1|Devenney Group Ltd.|6900 E. Camelback Road|Suite 500|Scottsdale
-1|Upsilon Consulting LLC|6903 E Gelding Dr||Scottsdale
-1|INHERENT TECHNOLOGIES LLC|6909 W. RAY  ROAD|SUITE 115 129|CHANDLER
-1|INHERENT TECHNOLOGIES LLC|6909 W. RAY ROAD, SUITE 115-129||CHANDLER
-1|ODEHoldings Inc|6909WRayRoad|Suite15 140|Chandler
-1|Charter One LLC|6913 E Rembrandt Ave||Mesa
-1|M3BI LLC|6929 E Greenway Pkwy|Suite 190|Scottsdale
-1|RCG Valuation & Monetization, INc.|6929 N Hayden Road|Suite C4 494|Scottsdale
-1|RCG Valuation & Monetization Inc|6929 N. Hayden Road|Suite C4 494|Scottsdale
-1|Objectways Technologies LLC|6930 E Chauncey Lane|Suite 265|Phoenix
-1|Cash Flow Management LLC|6950 W Morelos Place|Suite 1|Chandler
-1|Proteam LLC|7010 E Chauncey Ln|Suite 115|Phoenix
-1|Proteam LLC|7010 East Chauncey Lane|Suite 115|Phoenix
-1|Uplinq Inc|7014 E Camelback Road Ste. B100A|Office 71|Scottsdale
-1|MONOS AI INC|702 W San Carlos Way||Chandler
-1|Fiscal Sponsor Corporation|703 W. Camelback Road||Phoenix
-1|Fueled Consulting Group LLC|7040 E Highland Road||Cave Creek
-1|CWDL, CERTIFIED PUBLIC ACCOUNTANTS|7047 E Greenway Pkwy Suite 250||Scottsdale
-1|Viavi Solutions Inc|7047 E. Greenway Pkwy|Suite 250|Scottsdale
-1|ACME Control System Corporation|706 E BELL ROAD STE 218||Phoenix
-1|ACME Control System Corporation|706 E Bell road|Ste 218|Phoenix
-1|BFO LLC|7114 E Stetson Dr Ste 400||Scottsdale
-1|Spectrum Dynamic Research Corp.|7201 E Henkel Way Suite 115||Scottsdale
-1|Spectrum Dynamic Research Corp.|7201 E. Henkel Way Suite 115||Scottsdale
-1|Digital Insights LLC|7220 N 16th St|Suite B100 B|Phoenix
-1|AskReply Inc|725 W McDowell Road||Phoenix
-1|AskReply Inc|725 W. McDowell Road||Phoenix
-1|AskReply Inc|725 West McDowell Road||Phoenix
-1|TECHMILEAGE SOFTWARE SOLUTIONS LLC|7272 E. INDIAN SCHOOL ROAD|SUITE 220|SCOTTSDALE
-1|TECHMILEAGE SOFTWARE SOLUTIONS LLC|7272 E. INDIAN SCHOOL ROAD, SUITE 220||SCOTTSDALE
-1|Catalyst Group LLC|7315 North Oracle Road|Suite 201|Tucson
-1|DEIH LLC|7320 N LA CHOLLA BLVD|SUITE 154 303|TUCSON
-1|EIC Engineers LLC|7328 E Deer Valley Road|Suite 100|Scottsdale
-1|Ardebili Engineering LLC|7328 E Stetson Dr.||Scottsdale
-1|EIC Engineering LLC|7328 E. Deer Valley Road|Suite 100|Scottsdale
-1|Ardebili Engineering LLC|7328 E. Stetson Dr||Scottsdale
-1|M3BI LLC|7336 E Deer Valley Road|Suite 100|Scottsdale
-1|Structurology of Arizona Inc|734 W POLK ST||Phoenix
-1|DASHEBOARD AI INC|7340 E MAIN ST|200|SCOTTSDALE
-1|Lloyd Consulting Group LLC|7349 N. Via Paseo Del Sur|Suite 515 324|Scottsdale
-1|Nobility LLC|7465 E. Osborn Road|Suite A|Scottsdale
-1|RiseEdge LLC|7500 N Dobson Road|Suite 101|Scottsdale
-1|Water Works Engineers LLC|7500 N. Dobson Road|Suite 200|Scottsdale
-1|Ophira Processing LLC|7524 E. Gainey Ranch Road|Unit 42|Scottsdale
-1|Goldratt Consulting North America LLC|7536 E. Angus Drive|suite 320|Scottsdale
-1|Aqua Design International LLC|7536 N. La Cholla Blvd.||Tucson
-1|Studio V LLC|7550 E McDonald Drive|Suite C|Scottsdale
-1|INTEGER CONSULTING LLC|756 E PALOMINO DRIVE||GILBERT
-1|Job Aire Group Inc|7592 N La Cholla Blvd.||Tucson
-1|JOBAIRE GROUP INC|7592 N. LA CHOLLA BLVD.||TUCSON
-1|NFRA INC|77 E THOMAS ROAD|STE 200|Phoenix
-1|Hunt Construction Group|7720 N 16th Street|100|Phoenix
-1|Sunlit Arizona LLC|777 W Alameda Road||Phoenix
-1|MTC Management PLLC|7770 E Camelback Road  12||Scottsdale
-1|Kryterion Inc|7776 South Pointe Parkway West|Suite 200|Phoenix
-1|Protecht Inc|7878 N 16th St|Suite 165|Phoenix
-1|Dibble & Associates Consulting Engineers Inc|7878 N. 16 Street|Suite 300|Phoenix
-1|NetWorth Services Inc|7878 North 16th Street|Suite 175|Phoenix
-1|nQueue Billback LLC|7890 South Hardy Drive|Suite 105|Tempe
-1|Alcor Life Extension Foundation|7895 E Acoma Drive|Suite 110|Scottsdale
-1|SunSoftOnline LLC|7951 E Thunderbird Road||Scottsdale
-1|Aikitech Inc|7975 N. Hayden Road|Suite A100|Scottsdale
-1|Digitycs LLC|8 The Green Suite  8210||Dover
-1|pinnacle sigma corp|801 N Federal st|Apt 2098|Chandler
-1|Elite 2 Percent Growth LLC|806 South 56th Avenue||Phoenix
-1|Katie Bowe Design LLC|8075 E Morgan Trail|Suite 6|Scottsdale
-1|Medimpact Direct LLC|8150 South Kyrene Road||Tempe
-1|Frontier Technology LLC|8160 S Hardy Drive||Tempe
-1|Star Infotech LLC|820 E Ray Road 1000||Chandler
-1|OnboardIT LLC|8222 S 48th St|Suite 215|Phoenix
-1|STACH & LIU LLC|8240 S KYRENE ROAD|STE A113|TEMPE
-1|GBX Holdings LLC|8244 E. San Miguel Ave||Scottsdale
-1|Open Source Integrators Inc|825 East Warner Road||Chandler
-1|Hourglass Education Technology Solutions LLC|8300 N Hayden Road|Suite A209|Scottsdale
-1|Trade Data Services Inc|8485 E. McDonald Drive, Suite 275||Scottsdale
-1|ElectraTect Inc|850 N 5th St.|Suite 503|Phoenix
-1|Calviri Inc|850 N 5th Street||Phoenix
-1|CORE AI CONSULTING INC|8603 E Royal Palm Road|Suite 260|SCOTTSDALE
-1|The Garden Gate LLC|8620 N. Oracle Road||Oro Valley
-1|SmartRent Technologies Inc|8665 E. Hartford Drive||Scottsdale
-1|Spark Infotech Inc|8700 E Vista Bonita Dr|STE 280|Scottsdale
-1|AVT Technology Solutions LLC|8700 S Price Road||Tempe
-1|PARADIGM TECHNOLOGY CONSULTING LLC|8761 EAST BELL ROAD|SUITE 107|SCOTTSDALE
-1|Newristics LLC|8777 E. Via de Ventura|Suite 260|Scottsdale
-1|Darwin Advisory Partners LLC|8777 N. Gainey Center Drive|Suite 205|Scottsdale
-1|Stax.ai Inc|8800 E Raintree Drive|Suite 210|Scottsdale
-1|Stax.ai Inc|8800 East Raintree Drive|Suite 210|Scottsdale
-1|Equity Methods LLC|8801 E Raintree Drive|Suite 100|Scottsdale
-1|JPC TECHNO INC|885  EAST KNIGHTSBRIDGE WAY||GILBERT
-1|JPC Techno Inc|885 E KNIGHTSBRIDGE WAY||GILBERT
-1|JPC TECHNO INC|885 EAST KNIGHTSBRIDGE WAY||GELBERT
-1|JPC Techno Inc|885E, Knights Bridge Way||Gilbert
-1|Archsol LLC|8900 East Bahia Drive|Suite 300|Scottsdale
-1|Trade Data Services Inc|8901 E. Pima Center Pkwy., Suite 105||Scottsdale
-1|Lincus Inc|8950 South 52nd Street|Suite 415|Tempe
-1|One Oak Flow LLC|8955 E Pinnacle Peak Road|Suite 103|Scottsdale
-1|CELTIC CROSS HOLDINGS INC|8961 E BELL R0AD|SUITE 101|SCOTTSDALE
-1|Celtic Cross Holdings Inc|8961 E. Bell Road|Suite 101|Scottsdale
-1|STAR INFO TECH LLC|9169 W STATE ST NUM|514|GARDEN CITY, ID 83714
-1|DEPCOM Power Inc|9185 E. Pima Center Pkwy|Suite 100|Scottsdale
-1|LM Industries Group Inc|9185 S. Farmer Avenue|Suite 101|Tempe
-1|Sign Value Inc|925 S Gilbert Road|Suite 203|Mesa
-1|Tawarc PLLC|928 1/2 S Mill Ave||Tempe
-1|THREE DIMENSIONAL RESOURCE PLANNING LLC|9316 E. RAINTREE DRIVE|SUITE 100|SCOTTSDALE
-1|Arcoro Holding Group|9362 East Raintree Drive||Scottsdale
-1|VokerTech Inc|9375 E Shea Boulevard|Suite 100|Scottsdale
-1|Vokertech Inc|9375 E Shea Boulevard, Suite 100||Scottsdale
-1|Vokertech Inc|9375 E. Shea Blvd|Suite 100|Scottsdale
-1|Association of Universities for Research in Astronomy|950 N Cherry Avenue||Tucson
-1|Metz & Associates, PLLC|950 W Indian School Road||Phoenix
-1|Encore Consulting LLC|950 West Elliot Road|Suite 116|Tempe
-1|Wimoku LLC|9585 N 129th Pl.||Scottsdale
-1|Lloyd Consulting Group LLC|960 W. Elliot Road|Suite 213|Tempe
-1|TBEE & More LLC|9633 S 48TH ST|STE 200|PHOENIX
-1|HESS-ROUNTREE INC|9831 S. 51ST STREET|SUITE C110|PHOENIX
-1|CORE AI CONSULTING INC|9850 N. 73ROAD STREET|APT 2032|SCOTTSDALE
-1|Merit Consulting Group Inc|9903 E Bell Road|Suite 140|Scottsdale
-1|Lincus Inc|One Agave Center 8950 South 52nd Street|Suite 415|Tempe
-1|Lincus Inc|One Agave Center, 8950 S 52nd St|Suite 415|Tempe
-1|Lincus Inc|One Agave Center, 8950 S. 52nd Street|Suite 415|Tempe
-1|Automation HR LLC|One South Church Avenue|Suite 1200|Tucson
-1|Computer Guidance Corporation|P.O. Box 28097||Scottsdale
-1|Geneses Tech Solutions LLC|West Baseline Road|STE 101|Tempe
-(1034 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+4|BNB TECH SOURCE INC|6909 W RAY ROAD|CHANDLER|AZ
+4|CLOUD DATA LLC|10000 N 31ST AVE|PHOENIX|AZ
+4|CLOUDGLEE LLC|6909 W RAY ROAD|CHANDLER|AZ
+4|INFODRIVE SYSTEMS INC|6909 W RAY ROAD|CHANDLER|AZ
+4|INHERENT TECHNOLOGIES LLC|6909 W RAY ROAD|CHANDLER|AZ
+4|QBOTICA INC|10000 N 31ST AVE|PHOENIX|AZ
+4|VIRTUOUSPROS INC|10000 N 31ST AVE|PHOENIX|AZ
+4|VIRTUOUSPROS INC|10000 N 31ST AVE|PHOENIX,|AZ
+3|TECHZOID SOLUTIONS LLC|14820 N CAVE CREEK ROAD|PHOENIX|AZ
+3|VOLARAX SOLUTIONS LLC|14820 N CAVE CREEK ROAD|PHONEIX|AZ
+3|VOLARAX SOLUTIONS LLC|14820 N CAVE CREEK ROAD|PHOENIX|AZ
+2|ACHOLYTE LLC|64 E BROADWAY ROAD|TEMPE|AZ
+2|ADROIT AFFINE LLC|21640 N 19TH AVENUE|PHOENIX|AZ
+2|ASB INFOTECH LLC|21640 N 19TH AVENUE|PHOENIX|AZ
+2|AVIKSOFT LLC|1819 E. SOUTHERN AVENUE|MESA|AZ
+2|BLUE SPIRE INC|11811 N TATUM BLVD|PHOENIX|AZ
+2|DYTEK SOLUTIONS LLC|11811 N TATUM BLVD|PHOENIX|AZ
+2|ENCORA DIGITAL INC|8800 E. RAINTREE DRIVE|SCOTTSDALE|AZ
+2|ENCORA DIGITAL LLC|8800 E. RAINTREE DRIVE|SCOTTSDALE|AZ
+2|INFO TECH INC|2111 E BASELINE ROAD|TEMPE|AZ
+2|INTERNATIONAL SOLUTION SOURCES INC|5803 S SOSSAMAN ROAD|MESA|AZ
+2|INTERNATIONAL SOLUTION SOURCESINC|5803 S SOSSAMAN ROAD|MESA|AZ
+2|JPC TECHNO INC|2111 E BASELINE ROAD|TEMPE|AZ
+2|MALLA SYSTEMS INC|17100 N. 67TH AVENUE|GLENDALE|AZ
+2|MALLA SYSTEMS INC DBA EFULGENT|17100 N. 67TH AVENUE|GLENDALE|AZ
+2|MAMIDIS INC|5505 W CHANDLER BLVD|CHANDLER|AZ
+2|ONESTOPD SOLUTIONS INC|21620 N 19TH AVE|PHOENIX|AZ
+2|PAJOSYS TECHNOLOGIES LLC|21620 N 19TH AVE|PHOENIX|AZ
+2|PROAXIS CONSULTING|5505 W CHANDLER BLVD|CHANDLER|AZ
+2|RADIXLINK INC|1819 E. SOUTHERN AVENUE|MESA|AZ
+2|RADIXLINK INC|6909 W. RAY ROAD|CHANDLER|AZ
+2|RIIM LLC|7730 E GREENWAY ROAD|SCOTTSDALE|AZ
+2|SAHI SOFTTECH INC|1490 S PRICE ROAD|CHANDLER|AZ
+2|SAVVIENTS INC|1490 S PRICE ROAD|CHANDLER|AZ
+2|SHIOM TECHNOLOGIES INC|64 E BROADWAY ROAD|TEMPE|AZ
+2|SIERRA BUSINESS SOLUTION LLC|6909 W. RAY ROAD|CHANDLER|AZ
+2|TECHFLURRY SOLUTIONS LLC|2310 W BELL ROAD|PHOENIX|AZ
+2|TECHFLURRY SOLUTIONS LLC|12601 N CAVE CREEK ROAD|PHOENIX|AZ
+2|TECHFLURRY SOLUTIONS LLC|2310 W BELL ROAD|PHEONIX|AZ
+2|TEKDOORS INC|7730 E GREENWAY ROAD|SCOTTSDALE|AZ
+2|VHL TECHNOLOGIES INC|13615 N 35TH AVE|PHONEIX|AZ
+2|VHL TECHNOLOGIES INC|13615 N 35TH AVE|PHOENIX|AZ
+2|VIRTUE MIND SOLUTIONS LLC|12601 N CAVE CREEK ROAD|PHOENIX|AZ
+1|4 PEAKS BUSINESS SOLUTION LLC|1345 E CHANDLER BLVD. BLDG. 2|PHOENIX|AZ
+1|4 PEAKS BUSINESS SOLUTION LLC|1345 E CHANDLER BLVD., BLDG 2|PHOENIX|AZ
+1|A7 IT SOLUTIONS LLC|6751 N. SUNSET BLVD.|GLENDALE|AZ
+1|ACADEMIAN INC|5660 W CHANDLER BLVD, STE 1|CHANDLER|AZ
+1|ACE SOFTWARE LLC|5845 W. CHARTER OAK ROAD|GLENDALE|AZ
+1|ACHOLYTE LLC|64 EAST BROADWAY ROAD|TEMPE|AZ
+1|ACXHANGE|10000 N 31ST AVENUE|PHOENIX|AZ
+1|AEGIS TECHNOLOGY INC|1 WEST DEER VALLEY ROAD|PHOENIX|AZ
+1|AFFLUX SYSTEMS|1090 S GILBERT ROAD, SUITE  233|GILBERT|AZ
+1|AFFLUX SYSTEMS LLC|1090 S GILBERT ROAD,|GILBERT|AZ
+1|AFFLUX SYSTEMS LLC|1090 S GILBERT ROAD|GILBERT|AZ
+1|ANALYTIC ERA LLC|2222 S. DOBSON ROAD|MESA|AZ
+1|ANALYTIC ERA LLC|2222 S DOBSON ROAD|MESA|AZ
+1|ANALYTIC ERA LLC|2301 S STEARMAN DRIVE|CHANDLER|AZ
+1|AVIKSOFT LLC|1819 E SOUTHERN AVE|MESA|AZ
+1|AVNET INC|2211 S 47TH STREET|PHOENIX|AZ
+1|AXOLOT SYSTEMS INC|300 S BEECH ST|PINE BLUFF|AZ
+1|BESTKEY SOLUTIONS INC|18444 N. 25TH AVENUE|PHOENIX|AZ
+1|BLACKROCK IT SOLUTIONS LLC|1530 E WILLIAMS FIELD ROAD|GILBERT|AZ
+1|BLACKROCK IT SOLUTIONS LLC|4840 E JASMINE STREET|MESSA|AZ
+1|BLUE SPIRE INC|11811 N. TATUM BLVD|PHOENIX|AZ
+1|BOGHOS TECH LLC|2 N. CENTRAL AVENUE|PHOENIX|AZ
+1|CLAIRVOYANT AI INC|6185 W. DETROIT STREET|CHANDLER|AZ
+1|CODEMOXIE SOLUTIONS LLC|8751 N 51ST AVE|GLENDALE|AZ
+1|COMMERX US INC|CENTURY LINK TOWER|PHOENIX|AZ
+1|CORE AI CONSULTING INC|9850 N. 73RD STREET|SCOTTSDALE|AZ
+1|CORE AI CONSULTING INC|8603 E ROYAL PALM ROAD|SCOTTSDALE|AZ
+1|CUSTOMERINSIGHTS.AI INC|1365 N. SCOTTSDALE ROAD|SCOTTSDALE|AZ
+1|DERIVE LLC|515 E GRANT ST|PHOENIX|AZ
+1|DIGITAL INSIGHTS LLC|7220 N 16TH ST|PHOENIX|AZ
+1|DIGITAL INSIGHTS LLC|11036 N 23RD AVE|PHOENIX|AZ
+1|DIGITECH SERVICES INC|31616 N 19TH AVE,|PHOENIX|AZ
+1|DYTEK SOLUTIONS LLC|11811 N TATUM BLVD.|PHOENIX|AZ
+1|ENGINEERING WIRELESS SERVICES LLC|2175 W. 14TH STREET|TEMPE|AZ
+1|ENLACE IT INC|4435 E. CHANDLER BLVD.|PHOENIX|AZ
+1|ENLACE IT INC|15201 S. 47TH WAY|PHOENIX|AZ
+1|ETECHLOGIX INC|2224 W DESERT COVE AVE, STE  205|PHOENIX|AZ
+1|FOCUSED HR SOLUTIONS LLC|7047 E. GREENWAY PARKWAY|SCOTTSDALE|AZ
+1|FST TECHNICAL SERVICES LLC|450 EAST WARNER|CHANDLER|AZ
+1|GALAXY I TECHNOLOGIES INC|9927 E BELL ROAD|SCOTTSDALE|AZ
+1|GENESES TECH SOLUTIONS LLC|WEST BASELINE ROAD|TEMPE|AZ
+1|GENESES TECH SOLUTIONS LLC|401 W  BASELINE ROAD|TEMPE|AZ
+1|GENESES TECH SOLUTIONS LLC|401 W BASELINE ROAD|TEMPE|AZ
+1|GENESES TECH SOLUTIONS LLC|401 WEST BASELINE ROAD|TEMPE|AZ
+1|GENESES TECH SOLUTIONS LLC|600 E BASELINE ROAD|TEMPE|AZ
+1|GIRIKON INC|15433 N TATUM BLVD.|PHOENIX|AZ
+1|GIRIKON INC|15433 N TATUM BLVD|PHOENIX|AZ
+1|GREENTEK SOLUTIONS INC|21630 N 19TH AVENUE|PHOENIX|AZ
+1|GROHMANN USA INC|5550 WEST CHANDLER BOULEVARD|CHANDLER|AZ
+1|HASHGEN TECHNOLOGIES INC|2345 E THOMAS ROAD|PHOENIX|AZ
+1|HIPOKRATIZ LLC|9040 S RITA ROAD|TUCSON|AZ
+1|HUMAC INC|2730 W. AGUA FRIA FREEWAY, STE. 204|PHOENIX|AZ
+1|ICUBE TECHNOLOGY INC|1910 SOUTH STAPLEY DRIVE|MESA|AZ
+1|INAIRA HEALTHCARE TECHNOLOGIES INC|1001 N CENTRAL AVE|PHOENIX|AZ
+1|INFO TECH INC|2111 E BASELINE ROAD,|TEMPE|AZ
+1|INFO TECH INC|2111 E. BASELINE ROAD|TEMPE|AZ
+1|INFO TRIANGLE TECHNOLOGIES INC|11225 N 28TH DRIVE|PHOENIX|AZ
+1|INHERENT TECHNOLOGIES LLC|6909 W RAY ROAD, SUITE 115-129|CHANDLER|AZ
+1|INHERENT TECHNOLOGIES LLC|6909 W. RAY ROAD, SUITE 115-129|CHANDLER|AZ
+1|INHERENT TECHNOLOGIES LLC|6909 W. RAY  ROAD|CHANDLER|AZ
+1|INNOSOFT CORPORATION|4040 E CAMELBACK ROAD|PHOENIX|AZ
+1|INTERBIZ CONSULTING LLC|3120 W FRANKFURT DRIVE|CHANDLER|AZ
+1|INTERBIZ CONSULTING LLC|1400 E SOUTHERN AVENUE|TEMPE|AZ
+1|INTRAEDGE INC|5660 W. CHANDLER BLVD., STE. 1|CHANDLER|AZ
+1|JPC TECHNO INC|885E, KNIGHTS BRIDGE WAY|GILBERT|AZ
+1|JPC TECHNO INC|885 E KNIGHTSBRIDGE WAY|GILBERT|AZ
+1|LORVEN TECHNO SOLUTIONS LLC|2147 W MARCONI AVE|PHOENIX|AZ
+1|M3BI LLC|6929 E GREENWAY PKWY|SCOTTSDALE|AZ
+1|M3BI LLC|7336 E DEER VALLEY ROAD|SCOTTSDALE|AZ
+1|MAGNATE SOLUTIONS LLC|16351 W CHARLOTTE DR.|SURPRISE|AZ
+1|MALLA SYSTEMS INC|17100 N. 67TH AVENUE, SUITE 303|GLENDALE|AZ
+1|MERIT CONSULTING GROUP INC|9903 E BELL ROAD|SCOTTSDALE|AZ
+1|METASOFTTECH SOLUTIONS LLC|2195 W. CHANDLER BLVD, STE. 160|CHANDLER|AZ
+1|METASOFTTECH SOLUTIONS LLC|2195 W. CHANDLER BLVD, STE. 100|CHANDLER|AZ
+1|MIDSYS INC|8900 E PINNACLE PEAK ROAD|SCOTTSDALE|AZ
+1|MINDQUEST TECHNOLOGY SOLUTIONS LLC|2501 WEST BEHREND DRIVE|PHOENIX|AZ
+1|MINDQUEST TECHNOLOGY SOLUTIONS LLC|2501 WEST BEHEREND DRIVE|PHOENIX|AZ
+1|NAAS TECHNOLOGIES LLC|21630 N 19TH AVE|PHOENIX|AZ
+1|NAAS TECHNOLOGIES LLC|10000 NORTH 31ST AVENUE|PHOENIX|AZ
+1|NAVI TECHNOLOGIES INC|3707 E SOUTHERN AVE|MESA|AZ
+1|NET ANDROID CORP|2221 W PECOS ROAD,|CHANDLER|AZ
+1|NET ANDROID CORP|2221 W PECOS ROAD|CHANDLER|AZ
+1|NET ORBIT INC|424 E SOUTHERN AVENUE|TEMPE|AZ
+1|NET ORBIT INC|1232 E BROADWAY ROAD|TEMPE|AZ
+1|NOVA WEB TECHNOLOGIES LLC|1650 S. EVERGREEN STREET|CHANDLER|AZ
+1|NUCLEUSTEQ INC|3793 E COVEY LANE|PHOENIX|AZ
+1|NUCLEUSTEQ INC|4550 E. BELL ROAD|PHOENIX|AZ
+1|NUCLEUSTEQ INC|3793 E. COVEY LANE|PHOENIX|AZ
+1|OBJECTWAYS TECHNOLOGIES LLC|20715 N PIMA ROAD|SCOTTSDALE|AZ
+1|OBJECTWAYS TECHNOLOGIES LLC|6930 E CHAUNCEY LANE|PHOENIX|AZ
+1|OCM GOLF USA INC|6157 E INDIAN SCHOOL ROAD|SCOTTSDALE|AZ
+1|ODEHOLDINGS INC|6909WRAYRD|CHANDLER|AZ
+1|OPEN QUEUE LLC|1616 E. MAIN STREET|MESA|AZ
+1|OPEN QUEUE LLC|1306 E ORLEANS DR|GILBERT|AZ
+1|PAJOSYS TECHNOLOGIES LLC|21620 N. 19TH AVE|PHOENIX|AZ
+1|PARADIGM TECHNOLOGY CONSULTING LLC|8761 EAST BELL ROAD|SCOTTSDALE|AZ
+1|PARSUS SOLUTIONS LLC|14362 N FRANK LLOYD WRIGHT BLVD|SCOTTSDALE|AZ
+1|PEARLSOFT SOLUTIONS INC|2024 ARKANSAS VALLEY DRIVE|LITTLE ROCK|AZ
+1|PEARLSOFT SOLUTIONS INC|11415 HURON LN,  24866|LITTLE ROCK|AZ
+1|PHOENIX STAFF INC|11011 S. 48TH STREET|PHOENIX|AZ
+1|PINNACLE SIGMA CORP|801 N FEDERAL ST|CHANDLER|AZ
+1|PROPERSYS CORPORATION|23975 N 19TH AVE|PHOENIX|AZ
+1|PROTEAM LLC|7010 EAST CHAUNCEY LANE|PHOENIX|AZ
+1|PROTEAM LLC|7010 E CHAUNCEY LN|PHOENIX|AZ
+1|RADIXLINK INC|6069 W RAY ROAD|CHANDLER|AZ
+1|RADIXLINK INC|1819 E SOUTHERN AVENUE|MESA|AZ
+1|RECURRING DECIMAL INC|34406 N 27TH DR, BLDG  4, ST  130|PHOENIX|AZ
+1|REGION TECHNOLOGIES INC|11811 N. TATUM BLVD., STE. 3031|PHOENIX|AZ
+1|SAHI SOFTTECH INC|1490 SOUTH PRICE ROAD|CHANDLER|AZ
+1|SAMS TECHNOLOGIES LLC|2131 E BROADWAY ROAD|TEMPE|AZ
+1|SAVVY DATA SOLUTIONS INC|1616 E MAIN STREET  238|MESA|AZ
+1|SAVVY DATA SOLUTIONS INC|1616 E MAIN ST  238|MESA|AZ
+1|SAVVY DATA SOLUTIONS INC|1220 W HOUSTON AVE  2|GILBERT|AZ
+1|SAVVY DATA SOLUTIONS INC|1616 E MAIN ST,  214|MESA|AZ
+1|SAVVY DATA SOLUTIONS INC|3820 E MAIN ST|MESA|AZ
+1|SLK HOLDINGS LLC|10040 N. 25TH AVE, SUITE 111|PHOENIX|AZ
+1|SMARTEQ SOLUTIONS LLC|20860 N TATUM BLVD|PHOENIX|AZ
+1|SMARTEQ SOLUTIONS LLC|2220 W MISSION LN|PHOENIX|AZ
+1|SMARTEQ SOLUTIONS LLC|16601 N 40TH ST|PHOENIX|AZ
+1|SPARK INFOTECH INC|8700 E VISTA BONITA DR|SCOTTSDALE|AZ
+1|SQA LABS INC|16880 N. 73RD AVENUE|PEORIA|AZ
+1|STAR INFOTECH LLC|1820 E RAY ROAD 1000|CHANDLER|AZ
+1|STAR INFOTECH LLC|820 E RAY ROAD 1000|CHANDLER|AZ
+1|STRATUSCODER INC|266 N. JESSE ST.|CHANDLER|AZ
+1|SUNSOFTONLINE LLC|7951 E THUNDERBIRD ROAD|SCOTTSDALE|AZ
+1|SYSAZZLE INC|4435 E. CHANDLER BOULEVARD|PHOENIX|AZ
+1|TECHMILEAGE SOFTWARE SOLUTIONS LLC|7272 E. INDIAN SCHOOL ROAD, SUITE 220|SCOTTSDALE|AZ
+1|TECHMILEAGE SOFTWARE SOLUTIONS LLC|7272 E. INDIAN SCHOOL ROAD|SCOTTSDALE|AZ
+1|TECHMILEAGE SOFTWARE SOLUTIONS LLC|2801 E CAMELBACK ROAD|PHOENIX|AZ
+1|TECHNIVAS LLC|2033 E WARNER ROAD|TEMPE|AZ
+1|TECHNOCRAT INC|10000 N. 31ST AVE|PHOENIX|AZ
+1|TECHRM LLC|6892 W LAREDO STREET|CHANDLER|AZ
+1|TEKDOORS INC|7730 E GREENWAY  201|SCOTTSDALE|AZ
+1|TEKTASTIC TECHNICAL SERVICES LLC|11835 N 19TH AVE, UNIT 202|PHOENIX|AZ
+1|TEKXEL LLC|60 E RIO SALADO PKWY|TEMPE|AZ
+1|THE MAXIS GROUP|8225 E. DEL CAMINO DRIVE|SCOTTSDALE|AZ
+1|THREE DIMENSIONAL RESOURCE PLANNING LLC|9316 E. RAINTREE DRIVE|SCOTTSDALE|AZ
+1|TRISHIRE INC|2478 E IRIS DRIVE|CHANDLER|AZ
+1|UPSILON CONSULTING LLC|6903 E GELDING DR|SCOTTSDALE|AZ
+1|VALLEY TECH AUTOMATION LLC|34393 N DAMIETTA TRL.|SAN TAN VALLEY|AZ
+1|VALUE SPECTRUM TECHNOLOGIES LLC|2350 E GERMANN ROAD|CHANDLER|AZ
+1|VENSOFT INC|13934 N. 59TH AVENUE, SUITE 140|GLENDALE|AZ
+1|VENSOFT INC|13934 N. 59TH AVENUE|GLENDALE|AZ
+1|VERTEX ANALYTICS INC|5970 FAIRVIEW ROAD|CHARLOTTE|AZ
+1|VHL TECHNOLOGIES INC|13615 N35TH AVE,|PHOENIX|AZ
+1|VHL TECHNOLOGIES INC|13615 N35TH AVENUE|PHOENIX|AZ
+1|VHL TECHNOLOGIES INC|13615 N35TH AVE|PHOENIX|AZ
+1|VIDHA IT SOLUTIONS LLC|1202 NE MCCLAIN ROAD|BENTONVILLE|AZ
+1|VIJAYANAND INC|1522 E ARIS DR|GILBERT|AZ
+1|VMC SOFT TECHNOLOGIES INC|16420 N 92ND STREET|SCOTTSDALE|AZ
+1|WIMOKU LLC|9585 N 129TH PL.|SCOTTSDALE|AZ
+(194 rows)

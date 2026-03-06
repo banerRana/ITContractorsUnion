@@ -1,780 +1,184 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-12|TEK GLOBAL LLC|100 CHESTERFIELD BUSINESS PARKWAY|2ND FLOOR|CHESTERFIELD
-12|DEVOIR SOFTWARE SOLUTIONS LLC|100 CHESTERFIELD BUSINESS PARKWAY|SUITE 200|CHESTERFIELD
-12|RS SOLUTIONS LLC|100 CHESTERFIELD BUSINESS PARKWAY|SUITE 200|CHESTERFIELD
-12|KI INFOSYSTEMS LLC|100 CHESTERFIELD BUSINESS PARKWAY|SUITE 200|CHESTERFIELD
-12|DATAMONK SOLUTIONS INC|100 Chesterfield Business Parkway|2nd Floor|St Louis
-12|Tek Global LLC|100 Chesterfield Business Parkway|2nd Floor|Chesterfield
-12|Alpha Synopsys Inc|100 Chesterfield Business Parkway|2nd Floor|Chesterfield
-12|Alpha Synopsys Inc|100 Chesterfield Business Parkway|Floor 2|Chesterfield
-12|HanuHigh Technologies Inc|100 Chesterfield Business Parkway|STE 200|Chesterfield
-12|Alpha Synopsys Inc|100 Chesterfield Business Parkway|STE 262|Chesterfield
-12|HanuHigh Technologies Inc|100 Chesterfield Business Parkway|Suite 200|Chesterfield
-12|DATAMONK SOLUTIONS INC|100 Chesterfield Business Parkway|Suite 200|Chesterfield
-10|TELECOM TECHNOLOGY SERVICES INC|625 MARYVILLE CENTRE DRIVE|SUITE 200|ST. LOUIS
-10|ProCom Consulting Inc|625 Maryville Centre Drive|Suite 200|St. Louis
-10|AMDOCS INC|625 Maryville Centre Drive|Suite 200|St. Louis
-10|Vubiquity Inc|625 Maryville Centre Drive|Suite 200|Saint Louis
-10|Amdocs Inc|625 Maryville Centre Drive|Suite 200|Saint Louis
-10|VUBIQUITY INTERNATIONAL HOLDINGS, AN AMDOCS COMPANY|625 Maryville Centre Drive|Suite 200|Saint Louis
-10|Amdocs Inc|625 Maryville Centre Drive|Suite 200|Town & Country
-10|Amdocs Inc|625 Maryville Centre Drive|Suite 200|St.Louis
-10|Amdocs Inc|625 Maryville Centre Drive|Suite 200|St. Louis
-10|Amdocs Inc|625 Maryville Centre Drive||St. Louis
-8|I3GLOBALTECH INC|930 KEHRS MILL ROAD|Suite 310|BALLWIN
-8|I3GLOBALTECH INC|930 KEHRS MILL ROAD|Suite 325 17|BALLWIN
-8|Netarch America Inc|930 Kehrs Mill Road|STE 325 16|Ballwin
-8|Credence Technologies LLC|930 Kehrs Mill Road|SUITE 325 9|Ballwin
-8|I3GlOBALTECH INC|930 Kehrs Mill Road|Suite 310|Ballwin
-8|I3GLOBALTECH INC|930 Kehrs Mill Road|Suite 310|BALLWIN
-8|I3GlOBALTECH INC|930 Kehrs Mill Road|Suite 325 17|Ballwin
-8|I3GLOBALTECH INC|930 Kehrs Mill Road|Suite 325 17|Ballwin
-7|Express Scripts Services Co.|1 EXPRESS WAY||ST. LOUIS
-7|Accredo Health Group Inc|1 Express Way||St. Louis
-7|Express Scripts Services Co|1 Express Way||St. Louis
-7|Express Scripts Inc|1 Express Way||St. Louis
-7|Express Scripts Services Co.|1 Express Way||St. Louis
-7|Express Scripts Pharmacy Inc|1 Express Way||St. Louis
-7|Evernorth Enterprise Services Inc|1 Express Way||St. Louis
-6|WORLD WIDE TECHNOLOGY HOLDING COMPANY LLC|1 WORLD WIDE WAY||MARYLAND HEIGHTS
-6|Telcobuy.com LLC|1 World Wide Way||St. Louis
-6|World Wide Technology Holding Co. LLC|1 World Wide Way||Maryland Heights
-6|World Wide Technology Holding Co. LLC|1 World Wide Way||St. Louis
-6|World Wide Technology Holding Company LLC|1 World Wide Way||Maryland Heights
-6|World Wide Technology Holding Company LLC|1 World Wide Way||St. Louis
-6|HIGH QUARTILE LLC|117 CHESTERFIELD BUSINESS PKWY|STE 107|CHESTERFIELD
-6|HIGH QUARTILE LLC|117 CHESTERFIELD BUSINESS PKWY|SUITE 107|CHESTERFIELD
-6|HIGH QUARTILE LLC|117 CHESTERFIELD BUSINESS PKWY|SUITE 107|Chesterfield
-6|HIGH QUARTILE LLC|117 Chesterfield Business Pkwy|Ste 107|Chesterfield
-6|HIGH QUARTILE LLC|117 Chesterfield Business Pkwy|Suite 107|Chesterfield
-6|High Quartile LLC|117 Chesterfield Business Pkwy|Suite 107|Chesterfield
-6|SOVEREIGN TECHNOLOGIES LLC|13421 MANCHESTER ROAD|SUITE 106|ST. LOUIS
-6|Sovereign Technologies LLC|13421 Manchester Road|STE 106|St. Louis
-6|Sovereign Technologies LLC|13421 Manchester Road|Ste 106|St.  Louis
-6|Sovereign Technologies LLC|13421 Manchester Road|Ste 106|St  Louis
-6|Sovereign Technologies LLC|13421 Manchester Road|Ste 106|St. Louis
-6|Sovereign Technologies LLC|13421 Manchester Road|Suite 106|St. Louis
-6|CERNER CORPORATION|2800 ROCKCREEK PARKWAY|2800 ROCKCREEK PARKWAY|NORTH KANSAS CITY
-6|CERNER CORPORATION|2800 ROCKCREEK PARKWAY||NORTH KANSAS CITY
-6|Cerner Corporation|2800 Rockcreek Parkway||N. Kansas City
-6|CERNER CORPORATION|2800 Rockcreek Parkway||North Kansas City
-6|Cerner Corporation|2800 Rockcreek Parkway||North Kansas City
-6|Cerner Corporation|2800 Rockcreek Parkway||N Kansas City
-6|Vitesse Group Inc|400 CHESTERFIELD CENTER|SUITE 459|CHESTERFIELD
-6|VITESSE GROUP INC|400 CHESTERFIELD CENTER|SUITE 459|CHESTERFIELD
-6|Wiztech Inc|400 Chesterfield Center|STE 400|Chesterfield
-6|D2 Pharma Consulting LLC|400 Chesterfield Center|Suite 400|Chesterfield
-6|Vitesse Group Inc|400 Chesterfield Center|Suite 459|Chesterfield
-6|Wiztech Inc|400 chesterfield Center|Suite 400|Chesterfield
-5|AMDOCS INC|1390 TIMBERLAKE MANOR PARKWAY||CHESTERFIELD
-5|Amdocs Inc|1390 Timberlake Manor Parkway|N/A|Chesterfield
-5|Amdocs Inc|1390 Timberlake Manor Parkway||Chesterfield
-5|AmDocs Inc|1390 Timberlake Manor Parkway||Chesterfield
-5|Amdocs Inc|1390 timberlake Manor Parkway||Chesterfield
-5|ROSE INTERNATIONAL INC|16305 SWINGLEY RIDGE ROAD|SUITE 350|CHESTERFIELD
-5|Rose International Inc|16305 SWINGLEY RIDGE ROAD|SUITE 350|CHESTERFIELD
-5|PRO IT INC|16305 Swingley Ridge Road|Ste 460|Chesterfield
-5|Rose International Inc|16305 Swingley Ridge Road|Suite 350|Chesterfield
-5|Pro IT Inc|16305 Swingley Ridge Road|Suite 460|Chesterfield
-5|VaxNewMo LLC|4340 Duncan Avenue|Suite 202|St. Louis
-5|Prognosia Inc|4340 Duncan Avenue|Suite 230|St. Louis
-5|CapyBio Inc|4340 Duncan Avenue|Suite 290|St. Louis
-5|BioGenerator|4340 Duncan Avenue|Suite 300|St. Louis
-5|C2N Diagnostics LLC|4340 Duncan Avenue||St. Louis
-5|Vintech Solutions Inc|9715 Olive Blvd|2nd Floor|Saint Louis
-5|Vintech Solutions Ine|9715 Olive Blvd|Floor 2|Olivette
-5|Vintech Solutions Inc|9715 Olive Blvd|Floor 2|Olivette
-5|Vintech Solutions Inc|9715 Olive Blvd|Floor 2|Saint Louis
-5|Vintech Solutions Inc|9715 Olive Blvd|Suite D|Saint Louis
-4|Development Strategies Inc|10 S. Broadway|Suite 1500|St. Louis
-4|Hellmuth, Obata & Kassabaum Inc|10 S. Broadway|Suite 200|St. Louis
-4|HOK Group Inc|10 S. Broadway|Suite 200|St. Louis
-4|Hellmuth, Obata & Kassabaum Inc|10 S. Broadway||St. Louis
-4|TEKGLOBAL LLC|100 CHESTERFIELD BUSINESS PKWY|2ND FLOOR|CHESTERFIELD
-4|DATALEADS TECHNOLOGY SERVICES LLC|100 CHESTERFIELD BUSINESS PKWY|SUITE 200|CHESTERFIELD
-4|DataLeads Technology Services LLC|100 Chesterfield Business Pkwy|Suite 200|Chesterfield
-4|Rechars Solutions LLC|100 Chesterfield Business Pkwy|Suite 200|Chesterfield
-4|PROSPECT INFOSYSTEM INC|16020 SWINGLEY RIDGE ROAD|Suite 150|CHESTERFIELD
-4|PROSPECT INFOSYS INC|16020 SWINGLEY RIDGE ROAD|Suite 150|CHESTERFIELD
-4|Prospect Infosys Inc|16020 Swingley Ridge Road|Suite 150|Chesterfield
-4|Prospect Infosystem Inc|16020 Swingley Ridge Road|Suite 150|Chesterfield
-4|PI LABS INC|16024 MANCHESTER ROAD|SUITE 110|ELLISVILLE
-4|Pi Labs Inc|16024 Manchester Road|STE 110|Ellisville
-4|PI LABS INC|16024 Manchester Road|SUITE 110|Ellisville
-4|Pi Labs Inc|16024 Manchester Road|Suite 110|Ellisville
-4|West County Cleaning Services LLC|2388 Schuetz Road|STE A34|St. Louis
-4|WENOVA INC|2388 Schuetz Road|Suite A55|St Louis
-4|Wenova Inc|2388 Schuetz Road|Suite A55|St. Louis
-4|Wenova Inc|2388 Schuetz Road|Suite A56|St. Louis
-4|HCM Square LLC|521 Lankin Dr||St Charles
-4|HCM Square LLC|521 Lankin Dr||st charles
-4|HCM Square LLC|521 Lankin Dr||St. Charles
-4|HCM Square LLC|521 Lankin Dr||Saint Charles
-4|PERFICIENT INC|555 MARYVILLE UNIVERSITY DRIVE|SUITE 600|SAINT LOUIS
-4|Navvis & Company LLC|555 Maryville University Drive|Suite 240|St. Louis
-4|Navvis & Company LLC|555 Maryville University Drive|Suite 300|St. Louis
-4|Navvis & Company LLC|555 Maryville University Drive||St. Louis
-4|Envision LLC|6 Cityplace Drive|Suite 350|St. Louis
-4|PierianDx Inc|6 Cityplace Drive|Suite 500|Creve Coeur (St. Louis)
-4|PierianDx Inc|6 Cityplace Drive|Suite 550|Creve Coeur (St. Louis)
-4|PierianDx Inc|6 Cityplace Drive|Suite 550|Creve Coeur
-4|UNIKPROS INC|929 FEE FEE ROAD|S 201|MARYLAND HEIGHTS
-4|UNIKPROS INC|929 FEE FEE ROAD|STE 201|MARYLAND HEIGHTS
-4|AI LABS WEB LLC|929 FEE FEE ROAD|SUITE 200A|MARYLAND HEIGHTS
-4|AI LABS WEB LLC|929 Fee Fee Road|Suite 200A|Maryland Heights
-3|Vizva Tech Solutions LLC|1018 Wilmas Hollow Drive||Chesterfield
-3|iBrain Technologies Inc|1018 Wilmas Hollow Drive||Chesterfield
-3|IBrain Technologies Inc|1018 Wilmas Hollow Drive||Chesterfield
-3|Counsilman/Hunsaker & Associates Inc|12851 Manchester Road|Suite 120|St. Louis
-3|YA Engineering Services LLC|12851 Manchester Road|Suite 160|Des Peres
-3|YA Engineering Services LLC|12851 Manchester Road||Des Peres
-3|Sovereign Technologies LLC|13421 Manchester Road, Ste 106|St Louis|St  Louis
-3|Sovereign Technologies LLC|13421 Manchester Road, Ste 106||St.  Louis
-3|Sovereign Technologies LLC|13421 Manchester Road, Ste 106||St  Louis
-3|NStarX Inc|13610  Barrett Office Dr.|STE 210|Manchester
-3|NStarX Inc F/K/A Abhra Inc|13610  Barrett Office Dr.|STE 210|Manchester
-3|NStarX Inc F.K.A Abhra Inc|13610  Barrett Office Dr.|STE 210|Manchester
-3|Information Technology Warehouse LLC|1600 Heritage Landing|Suite 200|St. Peters
-3|Bluspire Technologies LLC|1600 Heritage Landing|Suite 200|St. Peters
-3|Nexify Infosystems LLC|1600 Heritage Landing|Suite 212G|Saint Peters
-3|PI LABS INC|17295 CHESTERFIELD AIRPORT ROAD|SUITE 200|CHESTERFIELD
-3|Wiztech Inc|17295 Chesterfield Airport Road|Suite 200|Chesterfield
-3|Wiztech Inc|17295 Chesterfield Airport Road|Suite 252|Chesterfield
-3|VALOREM LLC|2101 BROADWAY|SUITE 31|KANSAS CITY
-3|Valorem Reply LLC|2101 Broadway|Ste 11|Kansas City
-3|Valorem LLC|2101 Broadway|Suite 31|Kansas City
-3|Skill Voice|232 NE Tudor Road||Lees summit
-3|Skill Voice Inc|232 NE Tudor Road||Lees Summit
-3|Skill Voice Inc|232 NE Tudor Road||Lees summit
-3|SATYA SOFT SOLUTIONS LLC|2501 S COUNTRY CLUB DR||JEFFERSON CITY
-3|Satya Soft Solutions LLC|2501 S COUNTRY CLUB DR||JEFFERSON CTY
-3|Satya Soft Solutions LLC|2501 S COUNTRY CLUB DR||JEFFERSON CITY
-3|Inspirix Technologies LLC|330 Jungermann Road|Unit A|St Peters
-3|Inspirix Technologies LLC|330 Jungermann Road|Unit A|Saint Peters
-3|INSPIRIX TECHNOLOGIES LLC|330 Jungermann Road|Unit A|St. Peters
-3|EXEGY INCORPORATED|349 MARSHALL AVENUE|SUITE 100|ST. LOUIS
-3|Exegy Incorporated|349 Marshall Avenue|Suite 100|St. Louis
-3|Woodruff Communications STL LLC|349 Marshall Avenue|Suite 300|St. Louis
-3|ARYAN IT AND FINANCIAL SOLUTIONS LLC|3930 SOUTH OLD HIGHWAY 94|SUITE 104|ST. CHARLES
-3|ARYAN IT AND FINANCIAL SOLUTIONS LLC|3930 SOUTH OLD HIGHWAY 94|SUITE 104|St. CHARLES
-3|Aryan IT and Financial Solutions LLC|3930 South Old Highway 94|SUITE 104|St. Charles
-3|Aspyretech Inc|4137 Mexico Road|Unit 7|St. Peters
-3|Aspyretech Inc|4137 Mexico Road||St Peters
-3|Aspyretech Inc|4137 Mexico Road||St. Peters
-3|Adknowledge Inc|420 Nichols Road|2nd Fl|Kansas City
-3|Ad Ventures 2 Inc|420 Nichols Road|2nd Floor|Kansas City
-3|Tripp Umbach Inc|420 Nichols Road|2nd Floor 3|Kansas City
-3|DOTEC Corp.|424 Jefferson St||St. Charles
-3|DOTec Corp|424 Jefferson St||St. Charles
-3|DOTec Corp.|424 Jefferson St||St. Charles
-3|Navvis & Company LLC|555 Maryville University Dr.|Ste 300|St. Louis
-3|Navvis & Company LLC|555 Maryville University Dr.|Suite 300|St. Louis
-3|Perficient Inc|555 Maryville University Dr.|Suite 500|St. Louis
-3|Technology Partners Inc|707 Spirit 40 Park Drive|120 Suite|Chesterfield
-3|Technology Partners Inc|707 Spirit 40 Park Drive|Suite 120|Wildwood
-3|Technology Partners Inc|707 Spirit 40 Park Drive|Suite 120|Chesterfield
-3|Overland Solutions LLC|777 NW BLUE PKWY|Suite 3200|LEE S SUMMIT
-3|Overland Solutions LLC|777 NW Blue Pkwy|Suite 3200|Lees Summit
-3|Overland Solutions LLC|777 NW Blue Pkwy||Lees Summit
-3|Bayer Research and Development Services LLC|800 N. Lindbergh Blvd.||St. Louis
-3|Climate LLC|800 N. Lindbergh Blvd.||St. Louis
-3|Bayer Southern Production Co. LLC|800 N. Lindbergh Blvd.||St. Louis
-3|Advantage Sales & Marketing LLC|8001 Forsyth Blvd|Ste 1025 (Fl 10)|Clayton
-3|Advantage Sales & Marketing LLC|8001 Forsyth Blvd|Suite 1025 (10th Floor)|Clayton
-3|Husch Blackwell LLP|8001 Forsyth Blvd|Suite 1500|Saint Louis
-3|Nurturenergy Inc|83 Weldon Parkway||Maryland Heights
-3|DyoCense Inc|83 Weldon Parkway||Maryland Heights
-3|DCLIMATE INC|83 Weldon Parkway||Maryland Heights
-2|Vestal Corporation|1 The Pines Court|Suite A|Chesterfield
-2|Vestal Corporation|1 The Pines Court||Chesterfield
-2|Hellmuth, Obata & Kassabaum Inc|10 South Broadway|Suite 200|St. Louis
-2|Greensfelder, Hemker & Gale, P.C.|10 South Broadway|Suite 2000|St. Louis
-2|GLOBEX DIGITAL CORP.|100 CHESTERFIELD BUSINESS PARKWAY 2ND FLOOR|SUITE 200|CHESTERFIELD
-2|GLOBEX DIGITAL CORP|100 CHESTERFIELD BUSINESS PARKWAY 2ND FLOOR|SUITE 200|CHESTERFIELD
-2|TEKGLOBAL LLC|100 CHESTERFIELD BUSINESS PKWY.|2ND FLOOR|CHESTERFIELD
-2|HANUHIGH TECHNOLOGIES INC|100 CHESTERFIELD BUSINESS PKWY.|SUITE 200|CHESTERFIELD
-2|Larson Tax Partners LLC|100 N. Broadway|Suite 1700|St. Louis
-2|Larson Tax Partners LLC|100 N. Broadway||St. Louis
-2|TRIVERS ASSOCIATES|100 NORTH BROADWAY|SUITE 1800|ST LOUIS
-2|Trivers Associates Inc|100 North Broadway|Suite 1800|St. Louis
-2|PENTA Engineering Co. LLC|10123 Corporate Square Dr.||St. Louis
-2|PENTA Engineering CO LLC|10123 Corporate Square Dr.||St. Louis
-2|Omnigo Software|10430 Baur Blvd.||St. Louis
-2|Omnigo Software LLC|10430 Baur Blvd.||St. Louis
-2|DST Technologies Inc|1055 Broadway||Kansas City
-2|DST Health Solutions LLC|1055 Broadway||Kansas City
-2|Pacifica Consulting Services LLC|1067 N Mason Road|Suite 2|St. Louis
-2|Pacifica Consulting Services LLC|1067 N Mason Road|Suite 2|St Louis
-2|American Immigration Law Group|1067 North Mason Road|STE 4|Saint Louis
-2|Pacifica Consulting Services LLC|1067 North Mason Road|Suite 2|Saint Louis
-2|Nubes Opus LLC|107 W 9th Street|2nd Floor|Kansas City
-2|Nubes Opus LLC|107 W 9th Street||Kansas City
-2|TK Architects Inc|1100 Main Street|Ste 2200|Kansas City
-2|Openmethods Inc|1100 Main Street|Suite 400|Kansas City
-2|OMNISKOPE INC|111 W Port Plaza Drive|Suite 600|Saint Louis
-2|Omniskope Inc|111 W Port Plaza Drive|Suite 600|Saint Louis
-2|LOGICGRIDZ LLC|111 WEST PORT PLAZA DR|SUITE 600|ST LOUIS
-2|OMNISKOPE INC|111 West Port Plaza Dr|Suite 600|Saint Louis
-2|Alphainfosys Inc|111 West Port Plaza Drive|SUITE 611|St. Louise
-2|OMNISKOPE INC|111 West Port Plaza Drive|Suite 600|Saint Louis
-2|AutoAlert LLC|114 W 11th Street||Kansas
-2|AutoAlert LLC|114 W 11th Street||Kansas City
-2|Ocelot Consulting LLC|11477 Olde Cabin Road|Suite 320|Creve Couer
-2|Ocelot Consulting LLC|11477 Olde Cabin Road|Suite 320|Creve Coeur
-2|Liberty Pharma Inc|115 BLUE JAY DR|SUITE 205|LIBERTY
-2|Liberty Hotel Group LLC|115 Blue Jay Dr|Suite 101|Liberty
-2|Geminisoft Solutions Inc|11500 OLIVE BOULEVAROAD|Suite 200|CREVE COEUR
-2|Geminisoft Solutions INC|11500 OLIVE BOULEVAROAD|Suite 200|CREVE COEUR
-2|GeminiSoft Solutions INC|11500 Olive Blvd|Suite 200|St. Louis
-2|Geminisoft Solutions Inc|11500 Olive Blvd|Suite 200|Saint Louis
-2|Geminisoft Solutions Inc|11500 Olive Blvd.|Suite 200|St. Louis
-2|Geminisoft Solutions Inc|11500 Olive Blvd.|Suite 200|Saint Louis
-2|MShoogys Animal Rescue|11519 State Route C||Savannah
-2|MShoogy Animal Rescue|11519 State Route C||Savannah
-2|HIGH QUARTILE LLC|117 CHESTERFIELD BUSINESS PARKWAY|SUITE 107|CHESTERFIELD
-2|High Quartile LLC|117 Chesterfield Business Parkway|Suite 107|Chesterfield
-2|UNIKPROS INC|11812 BORMAN DR||SAINT LOUIS
-2|UnikproS Inc|11812 BORMAN DR||St. Louis
-2|Geotechnology LLC|11816 Lackland Road, Suite 150||St. Louis
-2|UES Professional Solutions 25 LLC|11816 Lackland Road, Suite 150||St. Louis
-2|Evergrow Financials LLC|11960 Westline Industrial Dr|Ste 300|St Louis
-2|Evergrow Financials LLC|11960 Westline Industrial Dr|Ste 300|St. Louis
-2|Omnigo Software|120 South Central Avenue||St. Louis
-2|Omnigo Software|120 South Central Avenue||Clayton
-2|KDK Technology LLC|1221 Cashmere Lane|Ste 101|Saint Peters
-2|KDK Technology LLC|1221 Cashmere Lane|Suite 101|St Peters
-2|Application Engineering Group Inc|12300 Old Tesson Road|Suite 100 G|St. Louis
-2|Application Engineering Group Inc|12300 Old Tesson Road|Suite 200 B|St. Louis
-2|DataSoft Global LLC|128 Enchanted Parkway|206|Manchester
-2|DataSoft Global LLC|128 Enchanted Parkway|206B|Manchester
-2|Idea Architects LLC|130 West Lockwood Avenue|Suite 2|Webster Groves
-2|Idea Architects LLC|130 West Lockwood Avenue||Webster Groves
-2|The Herjavec Group Corp|13333 Holmes Road||Kansas City
-2|The Herjavec Group Corp.|13333 Holmes Road||Kansas City
-2|JUPITER CONSULTING SERVICES LLC|13545 BARRETT PARKWAY DRIVE|SUITE 120|ST. LOUIS
-2|JUPITER CONSULTING SERVICES LLC|13545 BARRETT PARKWAY DRIVE|SUITE120|ST. LOUIS
-2|Lumeris Group Holdings Corporation|13900 Riverport Drive||Maryland Heights
-2|Essence Group Holdings Corporation|13900 Riverport Drive||Maryland Heights
-2|UNI CONNECTIONS LLC|140 Enchanted Pkwy|STE 201|Ballwin
-2|UNI CONNECTIONS LLC|140 Enchanted Pkwy|Suite 201|Manchester
-2|Industrial Ally|1422 Elbridge Payne Road|Suite 120|Chesterfield
-2|Industrial Ally Inc|1422 Elbridge Payne Road|Suite 120|Chesterfield
-2|Gemini Consulting & Services LLC|14567 N Outer Forty Road|Ste 475|Chesterfield
-2|Gemini Consulting & Services LLC|14567 N Outer Forty Road|Suite 475|Chesterfield
-2|Softdata Inc|1461 Larkin Williams Road|STE 107|Fenton
-2|Softdata Inc|1461 Larkin Williams Road|Suite 107|Fenton
-2|Electric Power Systems International Inc|15 Millpark Ct.||Maryland Heights
-2|EPS Engineering & Design Inc|15 Millpark Ct.||Maryland Heights
-2|UHY Advisors Midwest Inc|15 Sunnen Drive|Suite 100|St. Louis
-2|UHY Advisors MO Inc|15 Sunnen Drive|Suite 100|St. Louis
-2|Stockell Consulting|15400 South Outer Forty|104|Chesterfield
-2|Stockell Consulting|15400 South Outer Forty|Suite 101|Chesterfield
-2|Epigraph LLC|1701 McGee|Ste 600|Kansas City
-2|Epigraph LLC|1701 McGee|Suite 600|Kansas City
-2|Programmer Resources International Inc|174 Clarkson Road||Ellisville
-2|Programmer Resources International|174 Clarkson Road||Ellisville
-2|ZVST Cloud Technologies Inc|180 Weidman Road|Suite 111|Manchester
-2|ZVST Cloud Technologies Inc|180 Weidman Road||Manchester
-2|Unified Development Inc|18102 Chesterfield Airport Road|Suite K|Chesterfield
-2|Unified Development Inc|18102 Chesterfield Airport Road|Unit K|Chesterfield
-2|The Context Network|2 City Place Drive|Suite 200|Creve Coeur
-2|Adaptive Technology Insights LLC|2 City Place Drive|Suite 200|St. Louis
-2|GS Advisors Plus CPAs LLC|20 Allen Ave|Ste 341|St Louis
-2|Hutson Gobble LLC|20 Allen Ave|Ste 341|St Louis
-2|Peckham Guyton Albers & Viets Inc|200 North Broadway|Suite 1000|Saint Louis
-2|Fleishman-Hillard Inc|200 North Broadway||St. Louis
-2|Liquid Logics, L.L.C.|200 Unity Cir N||lees summit
-2|Liquid Logics, L.L.C.|200 Unity Cir N||Lees Summit
-2|SAITECH CORP|209 EAST GREEN MEADOWS ROAD|SUITE D|COLUMBIA
-2|SAITECH CORP|209 East Green Meadows Road|Suite D|Columbia
-2|Premium Consulting Corporation|2135 E Primrose Street|Suite A|Springfield
-2|Premium Consulting LLC|2135 E Primrose Street|Suite A|Springfield
-2|SIGMA IT CORP|2190 S Mason Road|SUITE 305|St. Louis
-2|Sigma IT Corp|2190 S Mason Road|SUITE 305|St. Louis
-2|Neo Software Technologies Inc|227 E 27th ST||Kansas City
-2|Neo Software Technologies LLC|227 E 27th ST||Kansas City
-2|Ansira Partners Inc|2300 Locust St.||St. Louis
-2|Ansira Partners II LLC|2300 Locust St.||St. Louis
-2|TranSystems Corporation|2400 Pershing Road|Ste 400|Kansas City
-2|TranSystems Corporation|2400 Pershing Road|Suite 400|Kansas City
-2|Berkebile Nelson Immenschuh McDowell Incorporated|2460 Pershing Road|Ste 100|Kansas City
-2|Berkebile Nelson Immenschuh McDowell Incorporated|2460 Pershing Road|Suite 100|Kansas City
-2|VML LLC|250 Richards Road||Kansas City
-2|VML LLC|250 Richards Road||Kansas
-2|Hire Soft Solutions LLC|302 Falcon Hill Dr||O?Fallon
-2|Hire Soft Solutions LLC|302 Falcon Hill Dr||OFallon
-2|Softdata Inc|3636 S Geyer Road|STE 100|Saint Louis
-2|Softadata Inc|3636 S Geyer Road|Suite 100|Sappington
-2|Gemini Consulting & Services LLC|3636 S. Geyer Road,|Ste 270|St. Louis
-2|Gemini Consulting & Services LLC|3636 S. Geyer Road,|Suite 270|Sunset Hills
-2|Turing Medical Technology Inc|393 N Euclid Avenue|Suite 310|St. Louis
-2|NOUS Imaging Inc|393 N Euclid Avenue|Suite 310|St. Louis
-2|Climate LLC|4 City Place Drive|Suite 100|St. Louis
-2|Climate LLC|4 City Place Drive||St. Louis
-2|EPC-Columbia Inc|4000 Waco Road||Columbia
-2|EPC Columbia Inc|4000 Waco Road||Columbia
-2|MultiStudio Inc|4200 Pennsylvania Ave||Kansas City
-2|Multistudio Inc|4200 Pennsylvania Ave||Kansas City
-2|UNandUP LLC|4220 Duncan Ave|Suite 201|Saint Louis
-2|Outrigger Group LLC|4220 Duncan Ave|Suite 201|St. Louis
-2|Ascension Health - IS Inc|4600 Edmundson Road||St. Louis
-2|Ascension Health-IS Inc|4600 Edmundson Road||St. Louis
-2|ReachMobi Inc|4600 Madison Avenue|STE 300|Kansas City
-2|ReachMobi Inc|4600 Madison Avenue|Ste 300|Kansas City
-2|SCEPTER TECHNOLOGIES LLC|4625 LINDELL BLVD|STE 200|SAINT LOUIS
-2|SCEPTER TECHNOLOGIES LLC|4625 LINDELL BLVD|SUITE 200|SAINT LOUIS
-2|Eurofins BioPharma Product Testing Columbia LLC|4780 Discovery Drive||Columbia
-2|Eurofins BioPharma Product Testing Columbia Inc|4780 Discovery Drive||Columbia
-2|Neteffects Inc|500 Chesterfield Center|Suite 350|Chesterfield
-2|Neffects Inc|500 Chesterfield Center|Suite 350|Chesterfield
-2|Colaberry Inc|508 N Main St|Suite E|Perryville
-2|Colaberry Inc|508 N Main St||Perryville
-2|Electric Power Systems International Inc|58 Progress Parkway||Maryland Heights
-2|EPS Engineering & Design Inc|58 Progress Parkway||Maryland Heights
-2|Pet Urgent Care of St Peters|5913 Mexico Road||St Peters
-2|Pet Urgent Care of St Peters INC|5913 Mexico Road||St Peters
-2|Telcobuy.com LLC|60 Weldon Parkway||Maryland Heights
-2|TelecoBuy.com LLC|60 Weldon Parkway||Maryland Heights
-2|Growers Tech Inc|622 Emerson Road|Ste 500|Creve Coeur
-2|ICL Specialty Products Inc|622 Emerson Road|Suite 500|Creve Coeur
-2|Carevet TMS LLC|8008 Carondelet Avenue|Suite 101|St. Louis
-2|CareVet Holdings|8008 Carondelet Avenue|Suite 101|Clayton
-2|Language Access for Multicultural People LLC|8050 Watson Road|Suite 340|St Louis
-2|Language Access Multicultural People LLC|8050 Watson Road|Suite 340|St Louis
-2|Kelly Mitchell Group Inc|8229 Maryland Avenue||St. Louis
-2|Kelly Mitchell Group LLC|8229 Maryland Avenue||St. Louis
-2|ROS Technology Services Inc|8500 NW River Park Drive|Pillar 342|Parkville
-2|ROS Technology Services Inc|8500 NW River Park Drive||Parkville
-2|SKHIZO DESIGN LLC|8517 OLIVE BLVD||ST. Louis
-2|SKHIZO DESIGN LLC|8517 OLIVE BLVD||SAINT LOUIS
-2|Forvis Mazars, LLP|910 E. St. Louis Street||SPRINGFIELD
-2|Forvis Mazars, LLP|910 E. St. Louis Street||Springfield
-2|Roeslein & Associates Inc|9200 Watson Road|Suite 200|St. Louis
-2|Roeslein and Associates Inc|9200 Watson Road|Suite 200|St Louis
-2|Johnston Burkholder Associates LLC|930 Central Street||Kansas
-2|Johnston Burkholder Associates LLC|930 Central Street||Kansas City
-2|I3GLOBALTECH INC|930,Kehrs Mill Road  325-17||Ballwin
-2|I3GlobalTech Inc|930,Kehrs Mill Road  325-17||Ballwin
-2|BURNS & MCDONNELL CORPORATE SERVICES INC|9400 WAROAD PARKWAY||KANSAS CITY
-2|BURNS & MCDONNELL ENGINEERING COMPANY INC|9400 WAROAD PARKWAY||KANSAS CITY
-2|YELLOW DOG NETWORKS INC|9664 MARION RIDGE DRIVE||KANSAS CITY
-2|Yellow Dog Networks Inc|9664 Marion Ridge Drive||Kansas City
-2|Nestlé Purina PetCare Global Resources Inc|One Checkerboard Square||St. Louis
-2|Nestle Purina PetCare Global Resources Inc|One Checkerboard Square||St. Louis
-2|Express Scripts Services Co.|One Express Way||St. Louis
-2|Express Scripts Services Co|One Express Way||St. Louis
-2|Thompson Coburn LLP|One US Bank Plaza|Suite 2700|Saint Louis
-2|Thompson Coburn LLP|One US Bank Plaza|Suite 2700|St. Louis
-1|Amitech Solutions Inc|1 City Place Drive|Suite 282|St. Louis
-1|Amitech Solutions Inc|1 Cityplace Drive|Suite 282|St. Louis
-1|Fox Inc|1 S Memorial Drive|Suite 1800|St. Louis
-1|HELLMUTH OBATA & KASSABAUM INC|10 South Broadway, Suite 200||St. Louis
-1|TEK GLOBAL LLC|100 CHESTER FIELD PKWY.|SUITE 220|ST. LOUIS
-1|GLOBEX DIGITAL CORP|100 CHESTERFIELD BUSINESSPARKWAY 2ND FLOOR|SUITE 200|CHESTERFIELD
-1|Crowdplum Global Services LLC|100 Chesterfield Business Parkway Suite 200||Chesterfield
-1|Alpha Synopsys Inc|100 Chesterfield Business Parkway, Suite 200||Chesterfield
-1|IT LOOKING GLASS LLC|100 Town Centre CT, PO Box 225||Foristell
-1|Ungerboeck Systems International Inc|100 Ungerboeck Park||OFallon
-1|The McClure Corporation|1000 Clark Avenue||St. Louis
-1|Stowers Institute for Medical Research|1000 E 50th Street||Kansas City
-1|Stowers Institute for Medical Research|1000 E. 50th Street||Kansas City
-1|Pipkins Inc|1001 Boardwalk Springs Place|Suite 100|OFallon
-1|Benson Hill Inc|1001 N Warson Road||St. Louis
-1|Benson Hill Inc|1001 North Warson Road||St. Louis
-1|American Radiolabeled Chemicals Inc|101 ARC Drive||Saint Louis
-1|Fleishman-Hillard Inc|101 South Hanley Road||Clayton
-1|Marketing.com LLC|101 Workman Court||Eureka
-1|JESKE Engineering Inc|10101 N Ambassador Dr.||Kansas City
-1|Hacking Immigration Law LLC|10121 Manchester Road|Suite A|Saint Louis
-1|PENTA Engineering Company LLC|10123 Corporate Square Drive||St. Louis
-1|SimpleRose Inc|1017 Olive Street|Suite 800|St. Louis
-1|IBrain Technologies Inc|1018 Wilmas Hollow Drive APT||Chesterfield
-1|Taliaferro and Browne Inc|1020 E. 8th street||Kansas
-1|OBJECT SOURCE INC|1022 NORTHEAST DR|SUITE A|JEFFERSON CITY
-1|Resource America Information Technology Inc|1023 Executive Parkway|suite 8|Creve Coeur
-1|North Inc|103 Clermont Ct.||Saint Louis
-1|Moktama IT Solutions LLC|10314 Briar Hollow Dr|Apt. 1|Saint Louis
-1|Guardian Labs Inc|105 Oak Street|Suite C|Ashland
-1|DST Technologies Inc|1055 Broadway Boulevard||Kansas City
-1|DST Health Solutions LLC|1055 Broadway, 3rd Floor||Kansas City
-1|Quantum Technologies|10637 Midland Manor Court||St. Louis
-1|Pace Solutions Inc|1065 Executive Parkway|Suite 225|St. Louis
-1|C.R. Metal Products Inc|10655 Gateway Blvd||St Louis
-1|Pacifica Consulting Services LLC|1067 N. Mason Road|Suite 2|St. Louis
-1|Meinershagen & Co. LLC|107 SW Eagles Pkwy.||Grain Valley
-1|Rollick Inc|1078 Headquarters Park Drive||Fenton
-1|Milhouse & Neal, LLP|10845 Olive Boulevard|Ste 190|Creve Coeur
-1|Aferna Inc|1100 Corporate Square|Suite 175|St. Louis
-1|Foursevens LLC|1101 Dautel Ln||St. Louis
-1|Legal Hero LLC|1102 Cheshire Ln.||St. Louis
-1|OMNISKOPE INC|111  West Port Plaza Dr|Suite 600|Saint Louis
-1|BlueRibbon Global Technologies LLC|111 W Port Plaza Dr|Suite 648|St. Louis
-1|Engineering Software Research and Development Inc|111 Westport Plaza|Suite 825|St. Louis
-1|ENLIGHTEN SOFTWARE INC|1111 MAIN STREET|LEVEL 4|KANSAS CITY
-1|MOTIVE IT SERVICES LLC|113 KLAMBERG LN||ELLISVILLE
-1|THALDEN CORPORATION|1133 Olivette Executive Parkway||Olivette
-1|Clearent LLC|11330 Olive Boulevard|Suite 200|Creve Coeur
-1|LIBERTY PHARMA INC|115 BLUE JAY DRIVE|SUITE 205|LIBERTY
-1|Geminisoft Solutions Inc|11500 Olive Boulevard|Suite 200|Creve Coeur
-1|Hart Inc|116 W 3rd Street|Suite 200|Kansas City
-1|Microcon Inc|117 N Kirkwood Road|Ste 108|Kirkwood
-1|Microcon Inc|117 N. Kirkwood Road|Ste 108|Kirkwood
-1|Newagez Technologies LLC|117 S Lexington St|Ste 100|Harrisonville
-1|GERBERA TECHNOLOGIES INC|11710 ADMINISTRATION DR|SUITE 43|ST LOUIS
-1|HPS SOFTWARE SOLUTIONS INC|11710 ADMINISTRATION DRIVE|Suite 43|St. Louis
-1|TECHSO IT LLC|11715 ADMINISTRATION DR|STE 226|ST. LOUIS
-1|TM & Associates LLC|1173 S Kingshighway Blvd||Saint Louis
-1|CODENETWORKZ LLC|11730 WYANDOTTE ST||KANSAS CITY
-1|DOTec Professional Corporation|118 N 2nd St||St. Charles
-1|DOTec Professional Corporation|118 N 2nd Street||St. Charles
-1|Bureau Veritas National Elevator Inspection Services Inc|11973 Westline Industrial Dr.|Suite 100|Maryland Heights
-1|Humane Society of Missouri|1201 Macklind Avenue||St. Louis
-1|Data Systems International Inc|1201 Walnut Street|Suite 110|Kansas City
-1|North Inc|1211 Wood Station Place||Manchester
-1|Boomn LLC|12118 Melrose St.||Overland Park
-1|Object Computing Inc|12140 Woodcrest Executive Dr.|Suite 300|St. Louis
-1|Object Computing Inc|12140 Woodcrest Executive Drive|Suite 300|St. Louis
-1|Arbolope Studio LLC|1219 S. Boyle Ave||Saint Louis
-1|Uhray Inc|1220 Washington Street|Suite 200|KANSAS CITY
-1|Harris Systems USA Inc|1224 Fern Ridge Parkway|Suite 100|Creve Coeur
-1|Balto Software Inc|1227 Washington Ave|Suite 200|Saint Louis
-1|Application Engineering Group Inc|12300 Old Tesson Road Ste 20|Ste 200B|Saint Louis
-1|Ditat LLC|12400 Olive Blvd.|Suite 440|Saint Louis
-1|Clark, Richardson & Biskup Consulting Engineers Inc|1251 NW Briarcliff Parkway|Suite 500|Kansas City
-1|Watchtower Security Incorporated|127 Weldon Parkway|Suite A|Maryland Heights
-1|INSPIRIX TECHNOLOGIES LLC|1270 Jungermann Road|Suite B|St. Peters
-1|Custom Engineering Inc|12760 East 40 Highway||Independence
-1|DataSoft Global LLC|128 Enchanted Parkway,  206B||Manchester
-1|SSM Health Businesses|12800 Corporate Hill Drive||St. Louis
-1|Solutions AEC LLC|12970 Maurer Industrial Drive|Suite 200|St. Louis
-1|SCI Engineering Inc|130 Point West Blvd.||St. Charles
-1|The Herjavec Group Corp.|13323 Holmes Road||Kansas City
-1|Sovereign Technologies LLC|13421 Manchester Road,|Ste 106|St.  Louis
-1|DataSoft Global LLC|1348 Kiefer Bluffs Drive||Ballwin
-1|NStarX Inc|13610 Barrett Office Drive|Suite 210|Manchester
-1|Maritz Motivation Inc|1365 North Highway Dr.||Fenton
-1|Strategic IT Experts Inc|13975 Manchester Road|Suite 20|Ballwin
-1|UNI CONNECTIONS LLC|140 Enchanted Pkwy,|Suite 201|Manchester
-1|Populous Group LLC|1400 Baltimore Avenue|Suite 1300|Kansas City
-1|Draw Architecture Urban Design LLC|1400 West 13th Street||Kansas City
-1|Brisbane Veterinary Services|14105 Earthworks Dr||Smithville
-1|TREKK Design Group LLC|1411 E 104th Street||Kansas City
-1|Pro IT Inc|1415 Elbridge Payne Road|Suite 268|Chesterfield
-1|Gainsight|14500 S Outer Forty Road|Suite 300|Chesterfield
-1|Gainsight Inc|14500 South Outer Forty|Suite 300|Town and Country
-1|Adaptive Technology Insights LLC|14500 South Outer Forty Road|Ste 206|Chesterfield
-1|Gemini Consulting & Services LLC|14567 N Outer 40 Road|Suite 475|Chesterfield
-1|Gemini Consulting & Services LLC|14567 N. Outer Forty Road|Suite 475|Chesterfield
-1|Neteffects Inc|14567 North Outer Forty|Suite 510|Chesterfield
-1|Service Management Group LLC|1475 Walnut St.||Kansas City
-1|D2 Pharma Consulting LLC|1480 Woodstone Drive|Suite 208|St. Charles
-1|EPS Engineering & Design Inc|15  Millpark Ct.||Maryland Heights
-1|Eurofins Panlabs Inc|15 Research Park Drive||Saint Charles
-1|BranchPattern Inc|1508 Grand Boulevard||Kansas City
-1|Information Technology Warehouse LLC|1515 N. Warson Road|Suite 200|St. Louis
-1|Stockell Information Systems Inc|15400 South Outer Forty Drive|Suite 105|Chesterfield
-1|JMARK BUSINESS SOLUTIONS INC|1550 E. Republic Road|Suite C|Springfield
-1|Toth & Associates Inc|1550 East Republic Road||Springfield
-1|Techso IT LLC|1555 Kisker Road|Suite 140|St Charles
-1|Mortgage NEKS LLC|16 N Central Ave||Clayton
-1|Facilisgroup LLC|1600 Brentwood Blvd, Ste 800||Brentwood
-1|Accent Controls Inc|1601 Burlington Street||North Kansas City
-1|Zeenat Qureshi Stroke Institute|1601 S. Providence Road||Columbia
-1|Prospect Infosystem Inc|16020 Swingley Ridge Road, Suite 150|N/A|Chesterfield
-1|MiTek Inc|16023 Swingley Ridge Road||Chesterfield
-1|Mintsoft Technologies Inc|16024 Manchester Road Ste 233||Ellisville
-1|Pi Labs Inc|16024 Manchester Road,|STE 110|Ellisville
-1|Crawford Architects LLC|1604 Locust Street|Suite 100|Kansas City
-1|Bordo AI LLC|16052 Swingley Ridge Road||Chesterfield
-1|SFW Partners LLC|1610 DES PERES ROAD|STE 300|SAINT LOUIS
-1|TetraSoft Inc|16100 Swingley  Ridge Road|Suite 230|Chesterfield
-1|TetraSoft Inc|16100 Swingley Ridge Road|Suite 230|Chesterfield
-1|Information Resource Group Inc|1617 Southridge Dr.|Suite 200|Jefferson City
-1|Information Resource Group Inc|1617 Southridge Drive|Suite 200|Jefferson City
-1|TDK Technologies LLC|16253 Swingley Ridge Road|Suite 300|Chesterfield
-1|Helix Architecture & Design Inc|1629 Walnut St.||Kansas City
-1|InterVision Systems|16401 Swingley Ridge Road|Ste 500|Chesterfield
-1|InterVision Systems|16401 Swingley Ridge Road, Suite 500||Chesterfield
-1|CUBE INFOSYS LLC|1663 WALDENS MEADOW CT.||ELLISVILLE
-1|Spogen Biotech Inc|1685 Galt Industrial Blvd.||St. Louis
-1|Key Cloud Partners Corp|16924 Lake Meadow||Chesterfield
-1|Volt Systems LLC|1715 Deer Tracks Trail|Suite 210|St. Louis
-1|Guardis AI Inc|1720 Shallowbrook Drive||St. Louis
-1|Motive IT Services LLC|17269 Wild Horse Creek Road|Suite 240|Chesterfield
-1|Service Management Group LLC|1737 McGee Street||Kansas City
-1|HCM Square LLC|17627 Lisa Roadg||Wildwood
-1|Novus International Inc|17988 Edison Ave||Chesterfield
-1|Novus International Inc|17988 Edison Avenue||Chesterfield
-1|Nostrum Laboratories Inc|1800 N Topping Avenue||KANSAS CITY
-1|Crawford Architects LLC|1801 McGee Street|Suite 200|Kansas City
-1|Vantage Links LLC|1801 Park 270 Drive, Suite 350||Maryland Heights
-1|Roseland Broadcasting Inc|1808 Broadway Boulevard||Kansas City
-1|Unified Development Inc|18102 Chesterfield Airport Road, Unit K||Chesterfield
-1|Technograph Inc|1811 Sherman Dr|Suite 6|Saint Charles
-1|Technograph Inc|1811 Sherman Drive|Suite 6|Saint Charles
-1|Semeq Systems Corp|1820 Craig Road||Saint Louis
-1|Bio-Kinetic Clinical Applications LLC|1820 W. Mount Vernon Street||Springfield
-1|Element 74 LLC|1823 Rust Avenue|Suite 102|Cape Girardeau
-1|VSM Engineering LLC|1828 Swift Avenue|Suite 206|North Kansas City
-1|DEVEIQ LLC|18336 EDISON AVE||CHESTERFIELD
-1|Abacus CPAs LLC|1835 E Republic Road|Suite 200|Springfield
-1|Hoerr Schaudt Landscape Architects LLC|1901 Baltimore Ave|Suite 203|Kansas City
-1|Auragent Bioscience LLC|1908 Innerbelt Business Center Dr||Overland
-1|Auragent Bioscience LLC|1908 Innerbelt Business Center Dr.||Overland
-1|Nexify Infosystems LLC|1921 Crossbridge Ct||Saint Charles
-1|SKS STUDIO LLC|1925 CENTRAL STREET|SUITE A|KANSAS CITY
-1|Bluspire Technologies LLC|1941 Bridgecrest Xing||Saint Charles
-1|iENG LLC|1982 Innerbelt Business Center Drive||Saint Louis
-1|Paul Lais Consulting LLc|1985 south western avenue||Springfield
-1|Anrib LLC|2 CITYPLACE DR|2FL|St Louis
-1|Benjamin An & Co., P.C.|2 Cityplace Drive|Suite 200|St. Louis
-1|Key Cloud Partners Corp.|2 Monarch Trace Ct,|Apt 103|Chesterfield
-1|Novus International Inc|20 Research Park Drive||St. Charles
-1|Auragent Bioscience LLC|20 S Sarah St.||St. Louis
-1|METHODS AND MASTERY LLC|200 N Broadway|St. Louis|63102
-1|PECKHAM GUYTON ALBERS & VIETS INC|200 N. BROADWAY|SUITE 1000|ST. LOUIS
-1|Full Potential Solutions LLC|2001 NE 46th Street||Kansas City
-1|ProEnergy Services LLC|2001 ProEnergy Blvd||Sedalia
-1|HomeWAV LLC|2020 Westport Center Dr.||St. Louis
-1|Code Consultants Inc|2043 Woodland Pkwy, Ste. 300||St. Louis
-1|Ascension Health Resource and Supply Management Group LLC|2054 Westport Center Drive||St. Louis
-1|Emergent Learning LLC|2055 Craigshire Road|Suite 230|St. Louis
-1|Vizicar LLC|206 E Texas Avenue|103|Columbia
-1|KAI Design & Build Enterprises LLC|2060 Craigshire Road||St. Louis
-1|Hyson International Corp|210 N. Tucker Blvd.|Suite 700|St. Louis
-1|Central Technology Services Inc|2100 Stewart Drive||Jefferson City
-1|VALOREM LLC|2101 BROADWAY BLVD|SUITE 31|KANSAS CITY
-1|VALOREM LLC|2101 BROADWAY BLVD.|SUITE 31|KANSAS CITY
-1|Bryan Cave Leighton Paisner LLP|211 N Broadway|Suite 3600|St. Louis
-1|AXIS TELESOLUTIONS INC|2110 S. VANDEVENTER AVENUE||SAINT LOUIS
-1|JEFFERSON ANIMAL HOSPITAL AND URGENT CARE LLC|2120 S Jefferson Ave||St. Louis
-1|Canine Rehabilitation Institute LLC|2137 S. Eastgate Ave||Springfield
-1|Draw Architecture Urban Design LLC|214 West 21st Street Ste 200||Kansas City
-1|Jon Buck Enterprises LLC|218 S MAIN ST|Suite B|JOPLIN
-1|Sigma IT Corp|2190 S Mason Road , 305||St.Louis
-1|EDM Incorporated|220 North 4th Street|3rd Floor|St. Louis
-1|Helix Architecture & Design Inc|220 W 18th St|Suite 100|Kansas City
-1|Ethoca LLC|2200 Mastercard Blvd||OFallon
-1|Classy Llama Studios|2215 W Chesterfield Street||Springfield
-1|Ungerboeck Systems International|222 S Meramec Ave||Clayton
-1|Mettemeyer Engineering LLC|2225 W Chesterfield  Blvd|Suite 300|Springfield
-1|MOgene LC.|2252 Welsch Industrial Court||St. Louis
-1|Hire Soft Solutions LLC|2258 Schuetz Road||St. Louis
-1|The Clayton Engineering Company Inc|2268 Welsch Industrial Ct||St. Louis
-1|Neo Software Technologies LLC|227 E 27th Street||Kansas City
-1|DataMap LLC|2300 Main Street|Suite 900|Kansas City
-1|Web Design and Company LLC|2315 Locust Street|Suite 14|St. Louis
-1|AYTECHNOLOGIES LLC|2325 STERLING POINTE DR||CHESTERFIELD
-1|se38 Solutions LLC|2340 The Courts Drive||Chesterfield
-1|Prologue Technology|2342 Technology Dr|Ste 325|OFallon
-1|Success Brands Inc|240 Chesterfield Industrial Blvd||Chesterfield
-1|Brewer Science Inc|2401 Brewer Drive||Rolla
-1|Vetcare Partners LLC|25 Ladue Terrace||Ladue
-1|VML LLC|250 NW Richards Road||Kansas City
-1|VML LLC|250 RICHAROADS ROAD||KANSAS CITY
-1|SATYA SOFT LLC|2501 S COUNTRY CLUB  DR||JEFFERSON CITY
-1|Shook, Hardy, & Bacon L.L.P.|2555 Grand Blvd.||Kansas City
-1|Foresite Healthcare LLC|2574 Metro Blvd||Maryland Heights
-1|Roadside Systems Inc|2601 S. Big Bend Blvd.||St. Louis
-1|GERBERA TECHNOLOGIES INC|265 CLARKSON EXECUTIVE PARK||ELLISVILLE
-1|ICR Resources LLC|265 Liberty Church Road||Middletown
-1|Architectural Design Guild|2710 Sutton Blvd||St. Louis
-1|Snow Tech Solutions LLC|2722 S. St. Peters Pkwy|Suite 9|St. Peters
-1|Metaphase Design Group Inc|2741 Locust Street||St. Louis
-1|North Inc|2745 Locust Street|Suite 1S|Saint Louis
-1|J Edwin Burns & Associates LLC|2777 W Clay Road|Suite B|St. Charles
-1|M & L Ventures Inc|2820 Indian Point Road||Branson
-1|ELNET LLC|2829 S. Mansion Drive|Apt. 516|Independence
-1|American Tax Strategies LLC|2847 S Ingram Mill|Suite B100|Springfield
-1|N2 Cloud Tech LLC|29 Serviceberry Ct||Lake St Louis
-1|Skill Voice Inc|294 NE Tudor Road||Lees summit
-1|NEWGEN IT SOLUTIONS LLC|30450 Orchard Lake Road||Farmington Hills
-1|UCOVY CONNECTS INC|305B Sonderen St||O Fallon
-1|Angus Genetics Inc|3201 Frederick Avenue||St. Joseph
-1|DYNAMIC SURGICAL INC|3201 S Brentwood Blvd||ST. LOUIS
-1|Green Acres Urban Farm & Research Project|3216 E 21st St||Kansas City
-1|Zetta Data Systems LLC|3225 South Brentwood Blvd|Ste 209A|Webster Groves
-1|Computer Engineering Inc|325 NW Thoreau Ct||Lees Summit
-1|Lumeris Group Holdings Corporation|3251 Riverport Drive||Maryland Heights
-1|Lumeris Group Holdings Corporation|3251 Riverport Lane||Maryland Heights
-1|Enterprise Software Solutions Inc|327 ARMOUR ROAD||North Kansas City
-1|Ashers & Aarons LLC|329 Juanita McKee Dr||Ballwin
-1|Juneau Associates Inc P.C.|330 North 4th Street|Suite 200|Saint Louis
-1|Systemata Corporation|3309 West Devonshire Drive||St Joseph
-1|DST Health Solutions LLC|333 W. 11th Street||Kansas City
-1|iTek360 LLC|339 Broadway Street|Suite 210|Cape Girardeau
-1|Woodruff Communications St Louis LLC|349 Marshall Ave|Suite 200|Saint Louis
-1|Vaipulu Financial Planning and Tax LLC|3518 Bakers Branch Dr.||Joplin
-1|Ott Law Firm LLC|3544 Oxford Avenue||Maplewood
-1|NextGen Information Services Inc|3660 S. Geyer Road|Suite 340|St. Louis
-1|NextGen Information Services Inc|3660 S. Geyer Road Suite 340||St. Louis
-1|NextGen Information Services Inc|3660 S. Geyer Road Suite 340,||St. Louis
-1|NextGen Information Services Inc|3660 S. Geyer Road, Suite 340||St. Louis
-1|Trivers Associates Inc|380 North 18th Street|Suite 100|St. Louis
-1|Guga Technology Solutions LLC|3801 Oakland Ave|Suite 109 A|Saint Joseph
-1|Idyllic Enterprises LLC|3849 Business Park Place||Cape Girardeau
-1|Gateway Scripts LLC|3868 Boulevard Heights Ct||Saint Louis
-1|Tech Talent Connect LLC|3917 Broadway Blvd, Unit B||Kansas City
-1|ARYAN IT AND FINANCIAL SOLUTIONS LLC|3930 OLD HWY 94 S|104|ST CHARLES
-1|Climate LLC|4 City Place||St. Louis
-1|Climate LLC|4 CityPlace Drive|Suite 100|St. Louis
-1|Digital Plus Solutions LLC|400 E Red Bridge Road, Ste 312||Kansas City
-1|Resource America Information Technology Inc|4045 N Saint Peters Parkway|Ste 106|Saint Peters
-1|Resource America Information Technology Inc|4045 N Saint Peters Pkwy|suite 106|Saint Peters
-1|Technograph Inc|405 Olde Court Road||Saint Charles
-1|TEKPROS LLC|4122 KEATON CROSSING BLVD|STE 106|OFALLON
-1|Arbolope Studio LLC|4136 Folsom Avenue||Saint Louis
-1|Vireo LLC|414 Oak Street, Ste. 101||Kansas City
-1|ABNA ENGINEERING INC|4140 LINDELL BOULEVAROAD||ST. LOUIS
-1|ABNA Engineering Inc|4140 Lindell Boulevard||ST. LOUIS
-1|Gould Evans Inc|4200 Pennsylvania|N/A|Kansas City
-1|Savion LLC|422 Admiral Blvd||Kansas City
-1|Savion LLC|422 Admiral Boulevard||Kansas City
-1|CareSignal LLC|4220 Duncan Avenue|Suite 201|St. Louis
-1|Tech Talent Connect LLC|4233 Roanoke Road|Suite 101|Kansas City
-1|DOTEC Corp.|424 Jefferson Street||Saint Charles
-1|LashBack LLC|4240 Duncan Ave|Suite 200|St. Louis
-1|HEI Consulting LLC|4241 S. Stone Canyon Drive||Blue Springs
-1|KKEG Solutions LLC|427 Dovedale Dr||OFallon
-1|Burkhart Elliott Creative LLC|430  E Walnut|Suite 125|Springfield
-1|Wugen Inc|4340 Duncan Ave|Suite 302|St. Louis
-1|KI INFOSYSTEMS LLC|443 MAPLE RISE PATH||CHESTERFIELD
-1|Brado Cuneo Nollau LLC|4565 McRee Ave|Suite 110|St. Louis
-1|Hoefer Welker LLC|4622 Pennsylvania Avenue|Suite 1400|Kansas City
-1|The Tremendousness Collective|4660 Maryland Ave|Ste 215|St Louis
-1|Your Traffic Ticket Lawyer LLC|4717 Grand Avenue|Suite 300|Kansas City
-1|Enso Endeavors LLC|4741 Central St|Suite 500|Kansas City
-1|Populous Group LLC|4800 Main St.|Suite 300|Kansas City
-1|Midwest Veterans Biomedical Research Foundation|4801 Linwood Blvd.||Kansas City
-1|Husch Blackwell LLP|4801 Main Street|Suite 1000|Kansas City
-1|NPL Management Company|4825 NW 41st Street|Suite 500|Riverside
-1|DG2 DESIGN LLC|4835 MO-109|Suite 102|EUREKA
-1|RADaR LLC|500 Business Loop 70 West||Columbia
-1|PsychCare Consultants Research|5000 Cedar Plaza|Suite 350|Saint Louis
-1|AMICIS CLINICAL TRIALS LLC|5000 Cedar Plaza Parkway|Suite 300|Saint Louis
-1|Vandeventer Place Research Foundation|501 N. Grand Blvd., Suite 300||St. Louis
-1|MEMC LLC|501 Pearl Drive||St. Peters
-1|Comfortliv LLC|505 Clarington Dr.||Ballwin
-1|Learfield Communications LLC|505 Hobbs Road||Jefferson City
-1|Korein Tillery, PC|505 N. 7th St.|Ste 3600|St. Louis
-1|MetaJungle LLC|5160 N 22nd St||Ozark
-1|IT LOOKING GLASS LLC|520 Huber Park Ct  145||Weldon Spring
-1|Surdex Corporation|520 Spirit of St. Louis Blvd.||Chesterfield
-1|PINNACLELINK VENTURES LLC|533 Clara Ave|Apt 12|Saint Louis
-1|CDS Engineering Company|538 Axminister Drive||Fenton
-1|Snow Tech Solutions LLC|544 Miralago Shore Dr||Saint Peters
-1|Navvis & Company LLC|555 Maryville University Dr|Suite 300|St. Louis
-1|Navvis & Company LLC|555 Maryville University Drive , Ste. 230||St. Louis
-1|Construction Management Partners LLC|5585 Pershing Avenue|Suite 101|St. Louis
-1|DYNAMIC SURGICAL INC|5595 PERSHING AVENUE||ST. LOUIS
-1|SPRO Technologies Inc|56 KLAMBERG LN||ELLISVILLE
-1|DuBois Consultants Inc|5737 Swope Pkwy||Kansas City
-1|Electric Power Systems International Inc|58  Progress Parkway||Maryland Heights
-1|Electric Power Systems International Inc|58 Progress Pkwy||Maryland Heights
-1|Azuria Water Solutions Inc|580 Goddard Avenue||Chesterfield
-1|Dynamic Consultants Group LLC|5901 NW 63rd Terrace|Suite 190|Kansas City
-1|ATRO LLC|6 Bolte Lane||St. Clair
-1|Advocado Inc|6 Cardinal Way|Suite 900|St. Louis
-1|PierianDx Inc|6 Cityplace Dr.|Suite 500|St. Louis
-1|Eurofins Panlabs Inc|6 Research Park Drive||Saint Charles
-1|BA Architecture LLC|600 Broadway Boulevard|Suite 290|Kansas City
-1|Sandberg Phoenix & Von Gontard PC|600 Washington Avenue|15th Floor|St. Louis
-1|Millstone Weber LLC|601 Fountain Lakes Blvd||St. Charles
-1|LL Historic LLC|601 S. Lindbergh Blvd.||St. Louis
-1|Universal Account Servcing LLC|603 East street|suite 401|Parkville
-1|Ucovy Connects Inc|609B Westridge Dr||OFallon
-1|Millsap & Singer Law Firm LLC|612 Spirit Drive||Chesterfield (St. Louis)
-1|Christner Inc|621 N. Skinker Blvd|Suite 220|St. Louis
-1|Local Backhaul Networks LLC|624 Trace Center Blvd, Ste A||St. Louis
-1|Local Backhaul Networks LLC|624 Trade Center Blvd.|Suite A|St. Louis
-1|Amdocs Inc|625 Maryvilee Centre Drive|Suite 200|St.Louis
-1|Telecom Technology Services Inc|630 Maryville Centre Drive|Suite 200|Saint Louis
-1|TVS SUPPLY CHAIN SOLUTIONS NORTH AMERICA INC|635 MARYVILLE CENTRE DRIVE|SUITE 105|ST. LOUIS
-1|Healthcare Research Network Inc|637 Dunn Road|135|Hazelwood
-1|Dave Engineering LLC|641 Spirit Valley Central Dr||Chesterfield
-1|The Tremendousness Collective|646 N. Forest Ave||St Louis
-1|AWOT Global Logistics (USA) Corp|655 CRAIG ROAD|Suite 348|St Louis
-1|AWOT GLOBAL LOGISTICS USA CORP|655 CRAIG ROAD STE 348||SAINT LOUIS
-1|Jack Henry & Associates Inc|663  West Highway 60||Monett
-1|Jack Henry and Associates Inc|663 Highway 60||Monett
-1|Jack Henry & Associates Inc|663 West Highway 60||Monett
-1|NextGen Information Services Inc|680 Craig Road,|Suite 305|St. Louis
-1|NextGen Information Services Inc|680 Craig Road, Suite 305||St. Louis
-1|Advanced Resources Group Inc|687 Trade Center Blvd.|Suite 110|Chesterfield
-1|Botanic Business Services LLC|6910 N Holmes Street|Suite 380|Gladstone
-1|DEVOIR SOFTWARE SOLUTIONS LLC|700 CROWN INDUSTRIAL COURT|SUITE E|CHESTERFIELD
-1|World Wide Technology Holding Company LLC|701 Fee Fee Road||Maryland Heights
-1|Arcturis Inc|701 Market Street|Suite 1300|Saint Louis
-1|IVANI Inc|702 Spirit 40 Park Dr.|Suite 108|Chesterfield
-1|Stereotaxis Inc|710 N. Tucker Blvd.|Suite 110|St. Louis
-1|HNTB Corporation|715 Kirk Drive||Kansas City
-1|Seven Seas Technologies Inc|720 Spirit 40 Park Drive||Chesterfield
-1|On-Line Taxes Inc|724 Jules Street||St. Joseph
-1|NOVO PROSO INC|725 PCA ROAD||WARRENSBURG
-1|Premier Strategy Consulting LLC|7253 Watson Road PMD 2155||St Louis
-1|Dove Holdings LLC|734 Westport Plaza Drive|Suite 264|St. Louis
-1|The Poppins Group LLC|735 Havenwood Circle Dr||Saint Louis
-1|UNI CONNECTIONS LLC|737 ROSE HAVEN CT||BALLWIN
-1|Sysdata Consulting Inc|7416 Ethel Avenue||Richmond Heights
-1|Nubes Opus LLC|7505 NW Tiffany Springs Pkwy|Suite 220|Kansas City
-1|Armstrong Teasdale LLP|7700 Forsyth Blvd.|Suite 1800|St. Louis, MO
-1|ATECH INDUSTRIAL ELECTRONICS INC|7708 Big Bend Blvd.||ST. LOUIS
-1|Ansira Partners II LLC|7733 Forsyth Blvd|Suite 900|St. Louis
-1|Overland Solutions LLC|777 NW Blue Pkwy.|Suite 3200|Lees Summit
-1|Luzco Technologies LLC|7955 Manchester Road|Suite 125|St. Louis
-1|SSM Health Businesses|7980 Clayton Road||St. Louis
-1|Climate LLC|800  N. Lindbergh Blvd.||St. Louis
-1|Climate LLC|800 Lindbergh Blvd||St. Louis
-1|Brown & James, P.C.|800 Market STreet|Suite 1100|Saint Louis
-1|Climate LLC|800 N Lindbergh Blvd.||St. Louis
-1|Bayer Research and Development Services LLC|800 N. Lindbergh Blvd||St. Louis
-1|Bayer CropScience LP|800 North Lindbergh Blvd||St. Louis
-1|Bayer CropScience LP|800 North Lindbergh Blvd.||St. Louis
-1|Geminisoft Solutions Inc|800 Stone Bridge Springs Dr.||Wildwood
-1|TripleBlind Inc|800 West 47th Street, Ste 210||Kansas City
-1|TripleBlind Inc|800 West 47th Street, Ste 600||Kansas City
-1|Stanton Barton LLC|8000 Maryland Avenue|Suite 450|Saint Louis
-1|Emerson Electric Co.|8000 West Florissant Avenue||St. Louis
-1|SAS Retail Services LLC|8001 Forsyth Blvd.|Suite 1025 (10th Fl)|Clayton
-1|Keysoft IT Inc|8112 Maryland Avenue|Suite 400|Clayton
-1|Pareto Inc|8145 Halifax Dr||Clayton
-1|Pollux Consultancy Services LLC|819 Nardin Dr||Chesterfield
-1|SE3 LLC|8401 E State Route 350||Kansas City
-1|LANSING MARKETING SERVICES CORPORATION|8427 OLIVE BLVD||SAINT LOUIS
-1|Millan Law Firm LLC|8434 Page Ave||Saint Louis
-1|The Lamar Johnson Collaborative Inc|8640 Evans Avenue||St. Louis
-1|Ariel Premium Supply Inc|8825 Page Ave||St Louis
-1|VeriShip LLC|8880 Ward Parkway||Kansas City
-1|Brado Cuneo Nollau LLC|900 Spruce Street|4th Floor|St. Louis
-1|Polsinelli, PC|900 West 48th Place, Ste 900||Kansas City
-1|Nestle Purina PetCare Company|901 Chouteau Avenue||St. Louis
-1|Drive Social Media LLC|906 Olive Street|Suite 700|Saint Louis
-1|Eckelkamp & Associates, CPAs, PC|9109 Watson Road|Suite 300A|Saint Louis
-1|Megapro Corporation|911 Washington Avenue|Suite 660|St. Louis
-1|WELCH & ASSOCIATES LLC|920 MAIN STREET|SUITE 640|KANSAS CITY
-1|Calibration Technologies LLC|920 North Tradewinds Parkway||Columbia
-1|Indus IT Valley Inc|9200 Watson Road  G104||Saint Louis
-1|Integration Controls LLC|9201 Manchester Road||St. Louis
-1|SATYA SOFT SOLUTIONS LLC|925D S COUNTRY CLUB DR|SUITE 4|JEFFERSON CITY
-1|Burns & McDonnell Engineering Company Inc|9400 Ward Parkway||Kansas City
-1|Burns & McDonnell Engineering Company Inc|9400 Ward Pkwy||Kansas City
-1|KSB Inc|9600 E 53rd Street, Ste 202||Raytown
-1|Range Logistics LLC|9641 Manchester Road||St. Louis
-1|ZAX Consulting LLC|9648 Olive Blvd No 471||St Louis
-1|QM Power Inc|9680 Marion Ridge||Kansas City
-1|Vintech Solutions Inc|9715 Olive Bivd|Floor 2|Olivette
-1|Donald Danforth Plant Science Center|975 North Warson Road||St. Louis
-1|Labtest LLC|9985 Lin Ferry Drive|Suite A|St. Louis
-1|VIVID SITES LLC|999 Executive Parkway Dr.|Suite 330|St. Louis
-1|Numerof & Associates Inc|Four CityPlace Drive|Suite 430|St. Louis
-1|NESTLE REGIONAL GLOBE OFFICE|ONE CHECKERBOAROAD SQUARE||ST. LOUIS
-1|CDG Engineers Inc|One Campbell Plaza|Suite 3A|Saint Louis
-1|Vantage Links LLC|One City Place Drive, Suite 285||St. Louis
-1|HRB Professional Resources LLC|One H&R Block Way||Kansas City
-1|UniGroup, C.A.|One Premier Drive||Fenton
-1|Unified Development Inc|P.O.Box 4218||Chesterfield
-1|Unified Development Inc|Two City Place Dr|Ste 200|St Louis
-1|Unified Development Inc|Two CityPlace Dr|Suite 200|St. Louis
-1|SecureNet Systems Corporation|Two CityPlace Drive|2nd Floor|St Louis
-1|World Wide Technology Holding Company LLC|World Wide Way||Maryland Heights
-(778 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+7|ALPHA SYNOPSYS INC|100 CHESTERFIELD BUSINESS PARKWAY|CHESTERFIELD|MO
+7|DATAMONK SOLUTIONS INC|100 CHESTERFIELD BUSINESS PARKWAY|ST LOUIS|MO
+7|DATAMONK SOLUTIONS INC|100 CHESTERFIELD BUSINESS PARKWAY|CHESTERFIELD|MO
+7|DEVOIR SOFTWARE SOLUTIONS LLC|100 CHESTERFIELD BUSINESS PARKWAY|CHESTERFIELD|MO
+7|HANUHIGH TECHNOLOGIES INC|100 CHESTERFIELD BUSINESS PARKWAY|CHESTERFIELD|MO
+7|KI INFOSYSTEMS LLC|100 CHESTERFIELD BUSINESS PARKWAY|CHESTERFIELD|MO
+7|RS SOLUTIONS LLC|100 CHESTERFIELD BUSINESS PARKWAY|CHESTERFIELD|MO
+3|AMDOCS INC|625 MARYVILLE CENTRE DRIVE|TOWN & COUNTRY|MO
+3|AMDOCS INC|625 MARYVILLE CENTRE DRIVE|ST. LOUIS|MO
+3|CREDENCE TECHNOLOGIES LLC|930 KEHRS MILL ROAD|BALLWIN|MO
+3|DATALEADS TECHNOLOGY SERVICES LLC|100 CHESTERFIELD BUSINESS PKWY|CHESTERFIELD|MO
+3|I3GLOBALTECH INC|930 KEHRS MILL ROAD|BALLWIN|MO
+3|INSPIRIX TECHNOLOGIES LLC|330 JUNGERMANN ROAD|ST PETERS|MO
+3|INSPIRIX TECHNOLOGIES LLC|330 JUNGERMANN ROAD|ST. PETERS|MO
+3|INSPIRIX TECHNOLOGIES LLC|330 JUNGERMANN ROAD|SAINT PETERS|MO
+3|NETARCH AMERICA INC|930 KEHRS MILL ROAD|BALLWIN|MO
+3|NSTARX INC|13610  BARRETT OFFICE DR.|MANCHESTER|MO
+3|NSTARX INC F.K.A ABHRA INC|13610  BARRETT OFFICE DR.|MANCHESTER|MO
+3|NSTARX INC F/K/A ABHRA INC|13610  BARRETT OFFICE DR.|MANCHESTER|MO
+3|RECHARS SOLUTIONS LLC|100 CHESTERFIELD BUSINESS PKWY|CHESTERFIELD|MO
+3|SOVEREIGN TECHNOLOGIES LLC|13421 MANCHESTER ROAD|ST  LOUIS|MO
+3|SOVEREIGN TECHNOLOGIES LLC|13421 MANCHESTER ROAD|ST.  LOUIS|MO
+3|SOVEREIGN TECHNOLOGIES LLC|13421 MANCHESTER ROAD|ST. LOUIS|MO
+3|TEKGLOBAL LLC|100 CHESTERFIELD BUSINESS PKWY|CHESTERFIELD|MO
+3|TELECOM TECHNOLOGY SERVICES INC|625 MARYVILLE CENTRE DRIVE|ST. LOUIS|MO
+3|VINTECH SOLUTIONS INC|9715 OLIVE BLVD|SAINT LOUIS|MO
+3|VINTECH SOLUTIONS INC|9715 OLIVE BLVD|OLIVETTE|MO
+3|VINTECH SOLUTIONS INE|9715 OLIVE BLVD|OLIVETTE|MO
+2|AI LABS WEB LLC|929 FEE FEE ROAD|MARYLAND HEIGHTS|MO
+2|GEMINI CONSULTING & SERVICES LLC|3636 S. GEYER ROAD,|ST. LOUIS|MO
+2|GEMINI CONSULTING & SERVICES LLC|3636 S. GEYER ROAD,|SUNSET HILLS|MO
+2|HANUHIGH TECHNOLOGIES INC|100 CHESTERFIELD BUSINESS PKWY.|CHESTERFIELD|MO
+2|HIRE SOFT SOLUTIONS LLC|302 FALCON HILL DR|O?FALLON|MO
+2|HIRE SOFT SOLUTIONS LLC|302 FALCON HILL DR|OFALLON|MO
+2|IBRAIN TECHNOLOGIES INC|1018 WILMAS HOLLOW DRIVE|CHESTERFIELD|MO
+2|INFORMATION TECHNOLOGY WAREHOUSE LLC|1600 HERITAGE LANDING|ST. PETERS|MO
+2|KELLY MITCHELL GROUP INC|8229 MARYLAND AVENUE|ST. LOUIS|MO
+2|KELLY MITCHELL GROUP LLC|8229 MARYLAND AVENUE|ST. LOUIS|MO
+2|NEFFECTS INC|500 CHESTERFIELD CENTER|CHESTERFIELD|MO
+2|NETEFFECTS INC|500 CHESTERFIELD CENTER|CHESTERFIELD|MO
+2|NEXIFY INFOSYSTEMS LLC|1600 HERITAGE LANDING|SAINT PETERS|MO
+2|PACIFICA CONSULTING SERVICES LLC|1067 N MASON ROAD|ST LOUIS|MO
+2|PACIFICA CONSULTING SERVICES LLC|1067 N MASON ROAD|ST. LOUIS|MO
+2|PI LABS INC|17295 CHESTERFIELD AIRPORT ROAD|CHESTERFIELD|MO
+2|PRO IT INC|16305 SWINGLEY RIDGE ROAD|CHESTERFIELD|MO
+2|PROSPECT INFOSYS INC|16020 SWINGLEY RIDGE ROAD|CHESTERFIELD|MO
+2|PROSPECT INFOSYSTEM INC|16020 SWINGLEY RIDGE ROAD|CHESTERFIELD|MO
+2|ROSE INTERNATIONAL INC|16305 SWINGLEY RIDGE ROAD|CHESTERFIELD|MO
+2|SATYA SOFT SOLUTIONS LLC|2501 S COUNTRY CLUB DR|JEFFERSON CTY|MO
+2|SATYA SOFT SOLUTIONS LLC|2501 S COUNTRY CLUB DR|JEFFERSON CITY|MO
+2|SKILL VOICE|232 NE TUDOR ROAD|LEES SUMMIT|MO
+2|SKILL VOICE INC|232 NE TUDOR ROAD|LEES SUMMIT|MO
+2|SOVEREIGN TECHNOLOGIES LLC|13421 MANCHESTER ROAD, STE 106|ST.  LOUIS|MO
+2|SOVEREIGN TECHNOLOGIES LLC|13421 MANCHESTER ROAD, STE 106|ST  LOUIS|MO
+2|TEKGLOBAL LLC|100 CHESTERFIELD BUSINESS PKWY.|CHESTERFIELD|MO
+2|UNI CONNECTIONS LLC|140 ENCHANTED PKWY|BALLWIN|MO
+2|UNI CONNECTIONS LLC|140 ENCHANTED PKWY|MANCHESTER|MO
+2|UNIKPROS INC|929 FEE FEE ROAD|MARYLAND HEIGHTS|MO
+2|VIZVA TECH SOLUTIONS LLC|1018 WILMAS HOLLOW DRIVE|CHESTERFIELD|MO
+2|WENOVA INC|2388 SCHUETZ ROAD|ST. LOUIS|MO
+2|WENOVA INC|2388 SCHUETZ ROAD|ST LOUIS|MO
+2|WIZTECH INC|17295 CHESTERFIELD AIRPORT ROAD|CHESTERFIELD|MO
+1|ACCENT CONTROLS INC|1601 BURLINGTON STREET|NORTH KANSAS CITY|MO
+1|ADAPTIVE TECHNOLOGY INSIGHTS LLC|14500 SOUTH OUTER FORTY ROAD|CHESTERFIELD|MO
+1|ADAPTIVE TECHNOLOGY INSIGHTS LLC|2 CITY PLACE DRIVE|ST. LOUIS|MO
+1|ALPHA SYNOPSYS INC|100 CHESTERFIELD BUSINESS PARKWAY, SUITE 200|CHESTERFIELD|MO
+1|ALPHAINFOSYS INC|111 WEST PORT PLAZA DRIVE|ST. LOUISE|MO
+1|AMDOCS INC|1390 TIMBERLAKE MANOR PARKWAY|CHESTERFIELD|MO
+1|AMITECH SOLUTIONS INC|1 CITYPLACE DRIVE|ST. LOUIS|MO
+1|APPLICATION ENGINEERING GROUP INC|12300 OLD TESSON ROAD|ST. LOUIS|MO
+1|ARYAN IT AND FINANCIAL SOLUTIONS LLC|3930 SOUTH OLD HIGHWAY 94|ST. CHARLES|MO
+1|ARYAN IT AND FINANCIAL SOLUTIONS LLC|3930 OLD HWY 94 S|ST CHARLES|MO
+1|BLUERIBBON GLOBAL TECHNOLOGIES LLC|111 W PORT PLAZA DR|ST. LOUIS|MO
+1|BLUSPIRE TECHNOLOGIES LLC|1941 BRIDGECREST XING|SAINT CHARLES|MO
+1|BURNS & MCDONNELL ENGINEERING COMPANY INC|9400 WARD PARKWAY|KANSAS CITY|MO
+1|CODENETWORKZ LLC|11730 WYANDOTTE ST|KANSAS CITY|MO
+1|COLABERRY INC|508 N MAIN ST|PERRYVILLE|MO
+1|COMFORTLIV LLC|505 CLARINGTON DR.|BALLWIN|MO
+1|CROWDPLUM GLOBAL SERVICES LLC|100 CHESTERFIELD BUSINESS PARKWAY SUITE 200|CHESTERFIELD|MO
+1|CUBE INFOSYS LLC|1663 WALDENS MEADOW CT.|ELLISVILLE|MO
+1|DATASOFT GLOBAL LLC|128 ENCHANTED PARKWAY|MANCHESTER|MO
+1|DATASOFT GLOBAL LLC|128 ENCHANTED PARKWAY,  206B|MANCHESTER|MO
+1|DATASOFT GLOBAL LLC|1348 KIEFER BLUFFS DRIVE|BALLWIN|MO
+1|DEVOIR SOFTWARE SOLUTIONS LLC|700 CROWN INDUSTRIAL COURT|CHESTERFIELD|MO
+1|DIGITAL PLUS SOLUTIONS LLC|400 E RED BRIDGE ROAD, STE 312|KANSAS CITY|MO
+1|ELECTRIC POWER SYSTEMS INTERNATIONAL INC|58 PROGRESS PARKWAY|MARYLAND HEIGHTS|MO
+1|ENVISION LLC|6 CITYPLACE DRIVE|ST. LOUIS|MO
+1|GEMINI CONSULTING & SERVICES LLC|14567 N OUTER FORTY ROAD|CHESTERFIELD|MO
+1|GEMINI CONSULTING & SERVICES LLC|14567 N OUTER 40 ROAD|CHESTERFIELD|MO
+1|GEMINI CONSULTING & SERVICES LLC|14567 N. OUTER FORTY ROAD|CHESTERFIELD|MO
+1|GEMINISOFT SOLUTIONS INC|11500 OLIVE BOULEVARD|CREVE COEUR|MO
+1|GEMINISOFT SOLUTIONS INC|11500 OLIVE BLVD|SAINT LOUIS|MO
+1|GEMINISOFT SOLUTIONS INC|11500 OLIVE BLVD.|SAINT LOUIS|MO
+1|GEMINISOFT SOLUTIONS INC|800 STONE BRIDGE SPRINGS DR.|WILDWOOD|MO
+1|GERBERA TECHNOLOGIES INC|265 CLARKSON EXECUTIVE PARK|ELLISVILLE|MO
+1|GLOBEX DIGITAL CORP|100 CHESTERFIELD BUSINESSPARKWAY 2ND FLOOR|CHESTERFIELD|MO
+1|GLOBEX DIGITAL CORP|100 CHESTERFIELD BUSINESS PARKWAY 2ND FLOOR|CHESTERFIELD|MO
+1|HCM SQUARE LLC|17627 LISA ROADG|WILDWOOD|MO
+1|HCM SQUARE LLC|521 LANKIN DR|ST CHARLES|MO
+1|HIGH QUARTILE LLC|117 CHESTERFIELD BUSINESS PARKWAY|CHESTERFIELD|MO
+1|HIGH QUARTILE LLC|117 CHESTERFIELD BUSINESS PKWY|CHESTERFIELD|MO
+1|HNTB CORPORATION|715 KIRK DRIVE|KANSAS CITY|MO
+1|HPS SOFTWARE SOLUTIONS INC|11710 ADMINISTRATION DRIVE|ST. LOUIS|MO
+1|I3GLOBALTECH INC|930,KEHRS MILL ROAD  325-17|BALLWIN|MO
+1|INFORMATION RESOURCE GROUP INC|1617 SOUTHRIDGE DR.|JEFFERSON CITY|MO
+1|INFORMATION RESOURCE GROUP INC|1617 SOUTHRIDGE DRIVE|JEFFERSON CITY|MO
+1|INFORMATION TECHNOLOGY WAREHOUSE LLC|1515 N. WARSON ROAD|ST. LOUIS|MO
+1|INSPIRIX TECHNOLOGIES LLC|1270 JUNGERMANN ROAD|ST. PETERS|MO
+1|IT LOOKING GLASS LLC|100 TOWN CENTRE CT, PO BOX 225|FORISTELL|MO
+1|IT LOOKING GLASS LLC|520 HUBER PARK CT  145|WELDON SPRING|MO
+1|JUPITER CONSULTING SERVICES LLC|13545 BARRETT PARKWAY DRIVE|ST. LOUIS|MO
+1|KEY CLOUD PARTNERS CORP|2 MONARCH TRACE CT,|CHESTERFIELD|MO
+1|KEY CLOUD PARTNERS CORP|16924 LAKE MEADOW|CHESTERFIELD|MO
+1|KI INFOSYSTEMS LLC|443 MAPLE RISE PATH|CHESTERFIELD|MO
+1|KKEG SOLUTIONS LLC|427 DOVEDALE DR|OFALLON|MO
+1|LABTEST LLC|9985 LIN FERRY DRIVE|ST. LOUIS|MO
+1|MEMC LLC|501 PEARL DRIVE|ST. PETERS|MO
+1|MINTSOFT TECHNOLOGIES INC|16024 MANCHESTER ROAD STE 233|ELLISVILLE|MO
+1|MOGENE LC.|2252 WELSCH INDUSTRIAL COURT|ST. LOUIS|MO
+1|MOKTAMA IT SOLUTIONS LLC|10314 BRIAR HOLLOW DR|SAINT LOUIS|MO
+1|MOTIVE IT SERVICES LLC|113 KLAMBERG LN|ELLISVILLE|MO
+1|MOTIVE IT SERVICES LLC|17269 WILD HORSE CREEK ROAD|CHESTERFIELD|MO
+1|NEO SOFTWARE TECHNOLOGIES INC|227 E 27TH ST|KANSAS CITY|MO
+1|NEO SOFTWARE TECHNOLOGIES LLC|227 E 27TH STREET|KANSAS CITY|MO
+1|NETEFFECTS INC|14567 NORTH OUTER FORTY|CHESTERFIELD|MO
+1|NEXIFY INFOSYSTEMS LLC|1921 CROSSBRIDGE CT|SAINT CHARLES|MO
+1|NEXTGEN INFORMATION SERVICES INC|680 CRAIG ROAD,|ST. LOUIS|MO
+1|NEXTGEN INFORMATION SERVICES INC|680 CRAIG ROAD, SUITE 305|ST. LOUIS|MO
+1|NEXTGEN INFORMATION SERVICES INC|3660 S. GEYER ROAD|ST. LOUIS|MO
+1|NEXTGEN INFORMATION SERVICES INC|3660 S. GEYER ROAD SUITE 340|ST. LOUIS|MO
+1|NSTARX INC|13610 BARRETT OFFICE DRIVE|MANCHESTER|MO
+1|NUBES OPUS LLC|107 W 9TH STREET|KANSAS CITY|MO
+1|NUBES OPUS LLC|7505 NW TIFFANY SPRINGS PKWY|KANSAS CITY|MO
+1|NURTURENERGY INC|83 WELDON PARKWAY|MARYLAND HEIGHTS|MO
+1|OBJECT COMPUTING INC|12140 WOODCREST EXECUTIVE DRIVE|ST. LOUIS|MO
+1|OBJECT SOURCE INC|1022 NORTHEAST DR|JEFFERSON CITY|MO
+1|PACE SOLUTIONS INC|1065 EXECUTIVE PARKWAY|ST. LOUIS|MO
+1|PACIFICA CONSULTING SERVICES LLC|1067 NORTH MASON ROAD|SAINT LOUIS|MO
+1|PERFICIENT INC|555 MARYVILLE UNIVERSITY DR.|ST. LOUIS|MO
+1|PI LABS INC|16024 MANCHESTER ROAD|ELLISVILLE|MO
+1|PI LABS INC|16024 MANCHESTER ROAD,|ELLISVILLE|MO
+1|POLLUX CONSULTANCY SERVICES LLC|819 NARDIN DR|CHESTERFIELD|MO
+1|PRO IT INC|1415 ELBRIDGE PAYNE ROAD|CHESTERFIELD|MO
+1|PROGRAMMER RESOURCES INTERNATIONAL|174 CLARKSON ROAD|ELLISVILLE|MO
+1|PROSPECT INFOSYSTEM INC|16020 SWINGLEY RIDGE ROAD, SUITE 150|CHESTERFIELD|MO
+1|RESOURCE AMERICA INFORMATION TECHNOLOGY INC|1023 EXECUTIVE PARKWAY|CREVE COEUR|MO
+1|RESOURCE AMERICA INFORMATION TECHNOLOGY INC|4045 N SAINT PETERS PKWY|SAINT PETERS|MO
+1|RESOURCE AMERICA INFORMATION TECHNOLOGY INC|4045 N SAINT PETERS PARKWAY|SAINT PETERS|MO
+1|SAITECH CORP|209 EAST GREEN MEADOWS ROAD|COLUMBIA|MO
+1|SCEPTER TECHNOLOGIES LLC|4625 LINDELL BLVD|SAINT LOUIS|MO
+1|SE38 SOLUTIONS LLC|2340 THE COURTS DRIVE|CHESTERFIELD|MO
+1|SECURENET SYSTEMS CORPORATION|TWO CITYPLACE DRIVE|ST LOUIS|MO
+1|SEVEN SEAS TECHNOLOGIES INC|720 SPIRIT 40 PARK DRIVE|CHESTERFIELD|MO
+1|SIGMA IT CORP|2190 S MASON ROAD , 305|ST.LOUIS|MO
+1|SIGMA IT CORP|2190 S MASON ROAD|ST. LOUIS|MO
+1|SKILL VOICE INC|294 NE TUDOR ROAD|LEES SUMMIT|MO
+1|SOFTADATA INC|3636 S GEYER ROAD|SAPPINGTON|MO
+1|SOFTDATA INC|1461 LARKIN WILLIAMS ROAD|FENTON|MO
+1|SOVEREIGN TECHNOLOGIES LLC|13421 MANCHESTER ROAD,|ST.  LOUIS|MO
+1|SSM HEALTH BUSINESSES|12800 CORPORATE HILL DRIVE|ST. LOUIS|MO
+1|STOCKELL CONSULTING|15400 SOUTH OUTER FORTY|CHESTERFIELD|MO
+1|STOCKELL INFORMATION SYSTEMS INC|15400 SOUTH OUTER FORTY DRIVE|CHESTERFIELD|MO
+1|STRATEGIC IT EXPERTS INC|13975 MANCHESTER ROAD|BALLWIN|MO
+1|SYSDATA CONSULTING INC|7416 ETHEL AVENUE|RICHMOND HEIGHTS|MO
+1|TECH TALENT CONNECT LLC|3917 BROADWAY BLVD, UNIT B|KANSAS CITY|MO
+1|TECH TALENT CONNECT LLC|4233 ROANOKE ROAD|KANSAS CITY|MO
+1|TECHNOGRAPH INC|1811 SHERMAN DRIVE|SAINT CHARLES|MO
+1|TECHNOGRAPH INC|405 OLDE COURT ROAD|SAINT CHARLES|MO
+1|TECHNOLOGY PARTNERS INC|707 SPIRIT 40 PARK DRIVE|CHESTERFIELD|MO
+1|TEK GLOBAL LLC|100 CHESTER FIELD PKWY.|ST. LOUIS|MO
+1|TEKPROS LLC|4122 KEATON CROSSING BLVD|OFALLON|MO
+1|TETRASOFT INC|16100 SWINGLEY  RIDGE ROAD|CHESTERFIELD|MO
+1|UCOVY CONNECTS INC|609B WESTRIDGE DR|OFALLON|MO
+1|UCOVY CONNECTS INC|305B SONDEREN ST|O FALLON|MO
+1|UNI CONNECTIONS LLC|140 ENCHANTED PKWY,|MANCHESTER|MO
+1|UNI CONNECTIONS LLC|737 ROSE HAVEN CT|BALLWIN|MO
+1|UNIKPROS INC|11812 BORMAN DR|SAINT LOUIS|MO
+1|VINTECH SOLUTIONS INC|9715 OLIVE BIVD|OLIVETTE|MO
+1|VITESSE GROUP INC|400 CHESTERFIELD CENTER|CHESTERFIELD|MO
+1|WORLD WIDE TECHNOLOGY HOLDING COMPANY LLC|1 WORLD WIDE WAY|ST. LOUIS|MO
+1|ZETTA DATA SYSTEMS LLC|3225 SOUTH BRENTWOOD BLVD|WEBSTER GROVES|MO
+1|ZVST CLOUD TECHNOLOGIES INC|180 WEIDMAN ROAD|MANCHESTER|MO
+(182 rows)

@@ -1,149 +1,28 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-4|Securin Inc|2440 Louisiana Blvd NE|560|Albuquerque
-4|Cyber Security Works Inc|2440 Louisiana Blvd NE|560|Albuquerque
-4|Cyber Security Work Inc|2440 Louisiana Blvd NE|560|Albuquerque
-4|Securin Inc|2440 Louisiana Blvd NE|Suite 560|Albuquerque
-4|Triad National Security LLC|PO Box 1663, MS P237|BIKINI ATOLL ROAD, MS P237|LOS ALAMOS
-4|Triad National Security LLC|PO Box 1663, MS P237|BIKINI ATOLL ROAD, MS P237|Los Alamos
-4|Triad National Security LLC|PO Box 1663, MS P237|Bikini Atoll Rd Road, MS P237|Los Alamos
-4|TRIAD NATIONAL SECURITY LLC|PO Box 1663, MS P237|Bikini Atoll Road, MS P237|Los Alamos
-3|Santa Fe Institute|1399 Hyde Park Road|Suite 28|Santa Fe
-3|Santa Fe Institute|1399 Hyde Park Road||Santa Fe
-3|Santa Fe Institute of Science|1399 Hyde Park Road||Santa Fe
-3|Speridian Technologies LLC|2400 Louisiana Blvd. NE|Bldg. 3|Albuquerque
-3|IT Project Manager|2400 Louisiana Blvd. NE|Bldg. 3|Albuquerque
-3|Speridian Technologies LLC|2400 Louisiana Blvd. NE|Building 3|Albuquerque
-3|ATRIX TECHNOLOGIES LLC|5203 JUAN TABO BLVD NE||ALBUQUERQUE
-3|Lambda Tech Solutions LLC|5203 Juan Tabo Blvd NE|Suite 2B|Albuquerque
-3|Law Offices of Carlos E. Martinez LLC|5203 Juan Tabo Blvd NE|Suite 2D|Albuquerque
-3|Dekker, Ltd.|7601 Jefferson St. NE|Suite 100|Albuquerque
-3|DEKKER/PERICH/SABATINI|7601 Jefferson St. NE|Suite 100|Albuquerque
-3|Dekker/Perich/Sabatini|7601 Jefferson St. NE|Suite 100|Albuquerque
-3|TRIAD NATIONAL SECURITY LLC|P.O. BOX 1663, MS P237|BIKINI ATOLL ROAD, MS P237|LOS ALAMOS
-3|Triad National Security LLC|P.O. Box 1663, MS P237|Bikini Atoll Road, MS P237|Los Alamos
-3|Triad National Security LLC|P.O. Box 1663, MS P237||Los Alamos
-2|PETTIGREW & ASSOCIATES, P.A.|100 E NAVAJO DRIVE|STE 100|HOBBS
-2|Pettigrew & Associates, P.A.|100 E Navajo Drive|Suite 100|Hobbs
-2|The Hartman and Majewski Design Group|120 Vassar Dr. SE|Suite 100|Albuquerque
-2|Heatly Engineering Inc|120 Vassar Dr. SE||Albuquerque
-2|AMIGO TAX SERVICES INC|1701 SE MAIN STREET|STE A|ROSWELL
-2|AMIGO TAX SERVICES INC|1701 SE MAIN STREET|SUITE A|ROSWELL
-2|Hindus for Human Rights|300 Paseo de Peralta|Suite 107|Santa Fe
-2|Hindus for Human Rights|300 Paseo de Peralta|Suite 107|Santa Fee
-2|IntuEra Inc|4001 Jefferson Plaza NE|Suite C|Albuquerque
-2|Advanced Network Management Inc|4001 Jefferson Plaza NE||Albuquerque
-2|REAL TIME SOLUTIONS INC|4200 Osuna Road NE|300B|Albuquerque
-2|REAL TIME SOLUTIONS INC|4200 Osuna Road NE|Suite 300B|Albuquerque
-2|NMC, inc.|4200 West Jemez Raod|Suite 301|Los Alamos
-2|NMC inc|4200 West Jemez Raod|Suite 301|Los Alamos
-2|APPLIED RESEARCH ASSOCIATES INC|4300 SAN MATEO BLVD NE|STE A220|ALBUQUERQUE
-2|APPLIED RESEARCH ASSOCIATES INC|4300 SAN MATEO BLVD NE|SUITE A220|ALBUQUERQUE
-2|PROGRESSIVE DAIRY HEALTH SERVICES OF NEW MEXICO LLC|5316 MABRY DR||CLOVIS
-2|PROGRESSIVE DAIRY HEALTH SERVICES OF NEW MEXICO LLC|5316 MABRY DRIVE||CLOVIS
-2|PROGRESSIVE DAIRY HEALTH SERVICES OFNEW MEXICO LLC|5316 MABRY DRIVE||Clovis
-2|PROGRESSIVE DAIRY HEALTH SERVICES OF NEW MEXICO LLC|5316 Mabry Dr||Clovis
-2|Armonica Technologies Inc|5901 Indian School Road NE|Suite 117|Albuquerque
-2|Armonica Technologies Inc|5901 Indian School Road NE||Albuquerque
-2|Rose L. Brand & Associates, P.C.|7430 Washington St. NE||Albuquerque
-2|Rose Ramirez & Associates, P.C|7430 Washington St. NE||Albuquerque
-1|Medcare MSO|1000 Cordova Place, Suite 206||Santa Fe
-1|Salmons P.C.|1121 San Mateo Blvd NE||Albuquerque
-1|LOGICONIX SYSTEMS INC|11311 MENAUL BLVD NE||ALBUQUERQUE
-1|Tech Innovators Inc|123 Innovation Drive|Suite 200|San Jose
-1|Trait Biosciences USA Inc|1234 St. Michaels Drive||Santa Fe
-1|Lambda Tech Solutions LLC|1330 San Pedro Drive Northeast|STE 205A|Albuquerque,
-1|UbiQD Inc|134 Eastgate Dr||Los Alamos
-1|UbiQD Inc|134 Eastgate Dr.||Los Alamos
-1|Biomedical Research Institute of New Mexico|1501 San Pedro Dr. SE  151||Albuquerque
-1|MJ Farms|154 Jaramillo Loop||Veguita
-1|Descartes Labs|1607 Paseo de Peralta, Suite B||Santa Fe
-1|Geolabe LLC|1615 Central Ave, Suite 202||Los Alamos
-1|TIME AND SPACE HUB LLC|1617 CAMINO LA CANADA||SANTA FE
-1|Sites Southwest|1700 Central Avenue SW|Suite B|Albuquerque
-1|Descartes Labs|1704 Llano St. B  403||Santa Fe
-1|Acme Worldwide Enterprises Inc|1710 Randolph Court SE||Albuquerque
-1|Atkin Olshin Schade Architects Inc|1807 2nd St|Suite 34|Santa Fe
-1|DJL Enterprises LLC|1913 Candelaria Dr NW||Albuquerque
-1|Mountain Vector Energy LLC|200 Broadway Blvd NE||Albuquerque
-1|Mountain Vector Energy LLC|200 Broadway NE||Albuquerque
-1|ONE Pay HR|2009 Eubank Blvd NE||Albuquerque
-1|Real Time Solutions Inc|2101 Mountain Road NW|Suite A|Albuquerque
-1|BECOME DENTIST USA LLC|2112 S EMERSON DR||DEMING
-1|Parnall and Adams Law LLC|2116 Vista Oeste NW|Suite 403|ALBUQUERQUE
-1|HYPERION TECHNOLOGIES LLC|21335 SIGNAL HILL PLAZA|SUITE 250|STERLING
-1|SPERIDIAN TECHNOLOGIES LLC|2400  Louisiana Blvd. NE|Bldg. 3|Albuquerque
-1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BLVD NE|BLDG 3|ALBUQUERQUE
-1|Speridian Technologies LLC|2400 Louisana Blvd. NE|Bldg. 3|Albuquerque
-1|Speridian Technologies LLC|2400 Louisiana Blvd.|Bldg. 3|Albuquerque
-1|Speridian Technologies LLC|2400 Louisiana Blvd. NE, , , NM, USA|Bldg. 3|Albuquerque
-1|Speridian Technologies LLC|2400 Louisiana Blvd. NE, Bldg. 3||Albuquerque
-1|Speridian Technologies LLC|2400 Louisiana Blvd. NE, Bldg. 3,||Albuquerque
-1|Speridian Technologies LLC|2400 Louisiana Boulevard NE|Building 3|Albuquerque
-1|Speridian Technologies LLC|2400 Louisiana Boulevard Northeast|Building 3|Albuquerque
-1|Speridian Technologies LLC|2400 Louisiana boulevard. NE, Building. 3||Albuquerque
-1|Lovelace Biomedical Research Institute|2425 Ridgecrest Drive SE||Albuquerque
-1|Securin Inc|2440 Louisiana Blvd|NE 560|Albuquerque
-1|Securin Inc|2440 Louisiana Blvd NE  560||Albuquerque
-1|Woodruff Scientific Inc|2778 Agua Fria St.|Suite 6|Santa Fe
-1|Social Enterprise Associates LLC|2816 Vereda de Pueblo||Santa Fe
-1|Innothium LLC|2825 Broadbent Pkwy NE,|Suite A|Albuquerque
-1|Innothium LLC|2825 Broadbent Pkwy Ne|Suite A|Albuquerque
-1|The National Center for Genome Resources|2935 Rodeo Park Drive East||Santa Fe
-1|Consensus Planning Inc|302 8th Street NW||Albuquerque
-1|Slingshot LLC|320 Gold Ave SW|Suite 600|Albuquerque
-1|Antoine Predock Architect PC|3200 Grande Vista Pl NW||Albuquerque
-1|Hoopes Architects LLC|333 Montezuma Avenue, Suite 200||Santa Fe
-1|Mercury Bio Inc|3900 Paseo del Sol||Santa Fe
-1|Gridworks Inc|3900 Singer Blvd. NE||Albuquerque
-1|Duke City Accounting and Consulting LLC|3915 Carlisle Blvd NE||Albuquerque
-1|Full Stack Software|4 Teypana Drive||Tijeras
-1|Salado Isolation Mining Contractors LLC|4021 National Parks Hwy||Carlsbad
-1|TETRIXSOFT LLC|4041 JEFFERSON PLZ NE||ALBUQUERQUE
-1|City of Espanola|405 N. Paseo de Onate||Espanola
-1|Burt & Company CPAs LLC|4101 Indian School Road NE|Suite 440|Albuquerque
-1|NMC Inc|4200 W Jemez Road|Suite 301|Los Alamos
-1|NMC Inc|4200 W. JEMEZ ROAD|SUITE 301|Los Alamos
-1|NMC Inc|4200 West Jemez Road|Suite 301|Los Alamos
-1|SLIC.AI LLC|4265 Entrada Sonata||Santa Fe
-1|Wilson & Company Inc, Engineers & Architects|4401 Masthead St. NE|Suite 150|Albuquerque
-1|Bridgers & Paxton Consulting Engineers Inc|4600-C Montgomery Blvd. NE||Albuquerque
-1|Jaramillo Accounting Group LLC|470 Lincoln ROAD NE|STE 111|Albuquerque
-1|Jaramillo Accounting Group LLC|4700 Lincoln Road NE||ALBUQUERQUE
-1|SJT Group LLC|4811 Hardware Dr NE|Ste E 4|Albuquerque
-1|UNIBYTE SYSTEMS LLC|4900 LANG AVE||ALBUQUERQUE
-1|Great River Technology Incorporated|4910 Alameda Blvd NE||Albuquerque
-1|MECCA Management Company LLC|5 Avenida Polo Garcia||Peralta
-1|Sypmawk LLC|530b Harkle Road|Suite 100|Santa Fe
-1|The Consulting Engineers Group-NM, P.C.|5600 Wyoming Blvd NE|Suite 205|Albuquerque
-1|Lectrosonics Inc|581 Laser Road NE|N/A|Rio Rancho
-1|Data Basis LLC|5901 Wyoming Blvd NE|Suite J 309|Albuquerque
-1|Vrapi Weeks P.A.|5931 Jefferson St. NE|Suite A|ALBUQUERQUE
-1|Morrow Reardon Wilkinson Miller, Ltd.|600 1st St NW, Suite 100||Albuquerque
-1|Polynatura Corp.|600 W. Bender Boulevard||Hobbs
-1|Whiz Tech Consulting LLC|6300 Riverside Plaza Ln Nw Ste|Ste 118|Albuquerque
-1|Harshwal & Company LLP|6565 Americas Pkwy|Suite 800|Albuquerque
-1|Harshwal & Company LLP|6565 Americas Pkwy NE|Suite 800|Albuquerque
-1|PETROGLYPH VETERINARY HOLDINGS, PC|6633 CAMINITO COORS NW||ALBUQUERQUE
-1|Reynolds, Hix & Co. PA|6729 Academy Road NE|Suite D|Albuquerque
-1|TKM LLC|6747 Academy Road NE|Suite A|Albuquerque
-1|VERDACITY LLC|6765 GUADALUPE TRAIL NW||LOS RANCHOS
-1|JAM PROJECT LLC|6801 Jefferson St. NE|Suite 150 3967|Albuquerque
-1|Slingshot LLC|6801 Jefferson St.NE|Ste 200|Albuquerque
-1|IR Dynamics LLC|6901 Gruber Avenue NE|Suite G|Albuquerque
-1|Blue Panda Science LLC|735 Jefferson St NE||Albuquerque
-1|Bohannan Huston Inc|7500 Jefferson St. NE||Albuquerque
-1|Heads Up Landscape Contractors LLC|7525 2nd St NW||Albuquerque
-1|Graphite Health Inc|7601 Jefferson Street NE|Suite 380|Albuquerque
-1|Ultramain Systems Inc|8100 Lang Avenue NE||Albuquerque
-1|Ultramain Systems Inc|8100 Lang Avenue, N.E.||Albuquerque
-1|Crogl Inc|817 Salamanca Street NW||Los Ranchos
-1|MOBILIO LLC|8206 LOUISIANA BLVD NE|STE A 1583|ALBUQUERQUE
-1|REDW LLC|8801 Horizon Blvd. NW|Suite 401|Albuquerque
-1|OpenEye Scientific Software Inc|9 Bisbee Court|Suite D|Santa Fe
-1|Proits Hub LLC|Montgomery Parkway|Suite 202 A|Albuquerque
-1|Fanning Bard Tatum Architects AIA LTD|One Park Square, 6501 Americas Pkwy|STE 300|Albuquerque
-1|La Sierra Planning Group|P.O. Box 1275|12 Tanager Terrace|Angel Fire
-1|Triad National Security LLC|P.O. Box 1663 MS P237|Bikini Atoll Road, MS P237|Los Alamos
-1|NTESS LLC|PO BOX 5800|MAIL STOP 1517|ALBUQUERQUE
-1|Lectrosonics Inc|PO Box 15900|N/A|Rio Rancho
-(147 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+1|APPLIED RESEARCH ASSOCIATES INC|4300 SAN MATEO BLVD NE|ALBUQUERQUE|NM
+1|ARMONICA TECHNOLOGIES INC|5901 INDIAN SCHOOL ROAD NE|ALBUQUERQUE|NM
+1|ATRIX TECHNOLOGIES LLC|5203 JUAN TABO BLVD NE|ALBUQUERQUE|NM
+1|HYPERION TECHNOLOGIES LLC|21335 SIGNAL HILL PLAZA|STERLING|NM
+1|LOGICONIX SYSTEMS INC|11311 MENAUL BLVD NE|ALBUQUERQUE|NM
+1|NMC INC|4200 W JEMEZ ROAD|LOS ALAMOS|NM
+1|NMC INC|4200 W. JEMEZ ROAD|LOS ALAMOS|NM
+1|NMC INC|4200 WEST JEMEZ ROAD|LOS ALAMOS|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BLVD. NE, BLDG. 3,|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BOULEVARD NE|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BOULEVARD NORTHEAST|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BOULEVARD. NE, BUILDING. 3|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400  LOUISIANA BLVD. NE|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISANA BLVD. NE|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BLVD NE|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BLVD.|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BLVD. NE|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BLVD. NE, , , NM, USA|ALBUQUERQUE|NM
+1|SPERIDIAN TECHNOLOGIES LLC|2400 LOUISIANA BLVD. NE, BLDG. 3|ALBUQUERQUE|NM
+1|TETRIXSOFT LLC|4041 JEFFERSON PLZ NE|ALBUQUERQUE|NM
+1|THE NATIONAL CENTER FOR GENOME RESOURCES|2935 RODEO PARK DRIVE EAST|SANTA FE|NM
+1|TIME AND SPACE HUB LLC|1617 CAMINO LA CANADA|SANTA FE|NM
+1|TRIAD NATIONAL SECURITY LLC|PO BOX 1663, MS P237|LOS ALAMOS|NM
+1|UNIBYTE SYSTEMS LLC|4900 LANG AVE|ALBUQUERQUE|NM
+1|VERDACITY LLC|6765 GUADALUPE TRAIL NW|LOS RANCHOS|NM
+1|WHIZ TECH CONSULTING LLC|6300 RIVERSIDE PLAZA LN NW STE|ALBUQUERQUE|NM
+(26 rows)

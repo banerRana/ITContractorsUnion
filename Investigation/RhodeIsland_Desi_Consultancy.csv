@@ -1,118 +1,16 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-9|Medidata Solutions Inc|1301 Atwood Avenue|101W Suite|Johnston
-9|Medidata Solutions Inc|1301 Atwood Avenue|STE 101W|Johnston
-9|Dassault Systemes Simulia Corp|1301 Atwood Avenue|Suite 101W|Johnston
-9|Dassault Systemes SolidWorks Corporation|1301 Atwood Avenue|Suite 101W|Johnston
-9|Medidata Solutions Inc|1301 Atwood Avenue|Suite 101W|Johnston
-9|Dassault Systemes Simulia Corp.|1301 Atwood Avenue|Suite 101W|Johnston
-9|Dassault Systemes AmericasCorp|1301 Atwood Avenue|Suite 101W|Johnston
-9|Dassault Systemes Americas Corp.|1301 Atwood Avenue||Johnston
-9|Medidata Solutions Inc|1301 Atwood Avenue||Johnston
-7|Busitants Inc|10 Dorrance St|STE 700|Providence
-7|Busitants Incorporated|10 Dorrance St|STE 700|Providence
-7|Busitants Incorporated|10 Dorrance St|Ste 700|Providence
-7|BUSITANTS INC|10 Dorrance St|Suite 700|Providence
-7|Busitants Incorporated|10 Dorrance St|Suite 700|Providence
-7|Busitants Inc|10 Dorrance St|Suite 700|Providence
-7|Busitants Incorporated|10 Dorrance St||Providence
-7|Forensic Risk Alliance Inc|10 Dorrance Street|700 Suite|Providence
-7|Forensic Risk Alliance Inc|10 Dorrance Street|Suite 700|Providence
-7|Ruota Consulting Inc|10 Dorrance Street|Suite 700|Providence
-7|Busitants Inc|10 Dorrance Street|Suite 700|Providence
-7|K2 Partnering Solutions Inc|10 Dorrance Street|Suite 700|Providence
-7|Shiom tech Inc|10 Dorrance Street|Suite 700 , PMB 6752|Providence
-7|Shiom tech Inc|10 Dorrance Street|Suite 700 PMB 6752|Providence
-5|Optimal Energy LLC|225 Dyer Street|2nd Floor|Providence
-5|Utilidata Inc|225 Dyer Street|2nd Floor  CIC|Providence
-5|Intus Care Inc|225 Dyer Street||Providence
-5|HiveTec Corporation|225 Dyer Street||Providence
-5|Lightspeed POS USA Inc|225 Dyer Street||Providence
-4|Syscons Corporation|959 Mineral Spring Avenue|STE 4|North Providence
-4|Syscons Corporation|959 Mineral Spring Avenue|Ste 4|North Providence
-4|Syscons Corporation|959 Mineral Spring Avenue|Suite 4|North Providence
-4|AnalytiQs Inc|959 Mineral Spring Avenue|Suite 4|North Providence
-3|smartShift Technologies Inc|500 Exchange Street|Ste 10100|Providence
-3|Smarthshift Technologies Inc|500 Exchange Street|Suite 10100|Providence
-3|Smartshift Technologies Inc|500 Exchange Street||Providence
-3|NWN Carousel Industries of North America INC|659 South County Trail||Exeter
-3|Carousel Industries of North America Inc|659 South County Trail||Exeter
-3|NWN Carousel Industries of North America Inc|659 South County Trail||Exeter
-2|THE SEVEN SCHMUCKS|11 WINSOR ROAD||NORTH SCITUATE
-2|SEVEN SCHMUCKS INC|11 WINSOR ROAD||NORTH SCITUATE
-2|Medidata Solutions Inc|1301 Atwood Ave|Suite 101W|Johnston
-2|Dassault Systemes Americas Corp.|1301 Atwood Ave|Suite 101W|Johnston
-2|OCEAN STATE VETERINARY SPECIALISTS LTD|1480 S COUNTY TRAIL||EAST GREENWICH
-2|Ocean State Veterinary Specialists|1480 S County Trail||East Greenwich
-2|Ocean State Veterinary Specialists|1480 South County Trail||East Greenwich
-2|Ocean State Veterinary Specialists LTD|1480 South County Trail||East Greenwich
-2|Thielsch Engineering Inc|195 Frances Avenue||Cranston
-2|RISE Group Inc|195 Frances Avenue||Cranston
-2|K2 Human Capital Solutions|235  Promenade Street|STE 298|Providence
-2|K2 Human Capital Solutions Inc|235  Promenade Street|STE 298|Providence
-2|Soul Care Innovations Inc|275 Promenade St.|Suite 126|Providence
-2|Lilac Biosciences Inc|275 Promenade St.||Providence
-2|Flux Marine Ltd.|500 Wood Street|Building 215|Bristol
-2|Flux Marine Ltd.|500 Wood Street|Unit 215|Bristol
-2|Kahn, Litwin, Renza and Co, Ltd|951 North Main Street||Providence
-2|Kahn, Litwin, Renza and Co, LTD|951 North Main Street||Providence
-1|DarrowEverett LLP|1 Turks Head Place|Suite 1200|Providence
-1|Aura Accessories LLC|10 Industrial Ln||Johnston
-1|Betworks (US) LLC|100 Westminster Street||Providence
-1|AlphaRobotics LLC|11 HOLLYWOOD AVENUE||NARRAGANSETT
-1|THE SEVEN SCHMUCKS|11 WINSOE ROAD||NORTH SCITUATE
-1|TL Studio Inc|110 King Philip Road|2nd floor|East Providence
-1|Emergent Risk International LLC|11F Bowler Lane||Newport
-1|Smartapp.com Inc|1350 Division Road|Suite 301|West Warwick
-1|3SIX0 LLC|146 Westminster St||Providence
-1|Traverse Landscape Architects LLC|150 Chestnut Street|4th Floor|Providence
-1|Splitwise Inc|150 Union St. No. 606||Providence
-1|Splitwise Inc|150 Union St., No. 606||Providence
-1|IT1STOP INC|1515 Smith St., Unit N||North Providence
-1|AVTECH Software Inc|16 Cutler Street||Warren
-1|CONFORMLAB LLC|16 DOVE STREET||PROVIDENCE
-1|Union Studio Architecture & Community Design|160 Mathewson Street|Suite 201|Providence
-1|Caretracker Inc|1600 Division Road|Suite 2000|West Warwick
-1|The Miriam Hospital|164 Summit Ave|N/A|Providence
-1|Glasgow Consulting Group LLC|165 Dean Knauss Dr||Narragansett
-1|J. ARTHUR & COMPANY LLC|174 Bellevue Avenue|Ste 309|Newport
-1|EpiVax Inc|188 Valley Street|Suite 424|Providence
-1|GVK IT Inc|191 Social St|Unit 745|Woonsocket
-1|Barlow Designs Inc|20 Commercial Way||E Providence
-1|RNMKRS Inc|225 Dyer St.||Providence
-1|OTRANDO PORCARO & ASSOCIATES, LTD.|2258 Post Road||Warwick
-1|DiLeonardo International Inc|2348 Post Road, Suite 501||Warwick
-1|Marinosci Law Group, P.C.|275 W. Natick Road|STE 500|Warwick
-1|Software Quality Associates LLC|3 Davol Square|Suite B 200|Providence
-1|Flux Marine Ltd|3 Division Street||East Greenwich
-1|Weinberg & Co., LLP|300 Centerville Road|Suite 350|Warwick
-1|HCH Enterprises LLC|3016 Post Road||Warwick
-1|Brewster Thornton Group Architects, LLP|317 Iron Horse Way|Suite 202|Providence
-1|Hotel Asset Value Enhancement Inc|333 Westminster Street|Suite 3|Providence
-1|David Sisson Architecture PC|345 Taunton Avenue||East Providence
-1|JAMES J DUFFY INCORPORATED|350 Walcott Street||Pawtucket
-1|CPA TAX AND FINANCIAL SERVICE INC|3945 POST ROAD||WARWICK
-1|WESTFORD ASSOCIATES, LP|45 PARK PLACE||PAWTUCKET
-1|Pharmaron Manufacturing Services (US) LLC|498 Washington St.||Coventry
-1|C.A. Pretzer Associates Inc|50 Freeway Drive||Cranston
-1|Starburst Labs Inc|50 Park Row W|Suite 907|Providence
-1|N2 COMMUNICATIONS LLC|52 Modena Ave||Providence
-1|Srilu Information Systems Inc|54 Silo Drive||Cumberland
-1|Research Engineering & Manufacturing Inc|55 Hammarlund Way||Middletown
-1|Northeast Water Solutions Inc|567 South County Trail||Exeter
-1|HappyNest Inc|5700 Post Road||East Greenwich
-1|Rhode Island Hospital|593 Eddy Street|N/A|Providence
-1|Lighthouse MTG LLC|6 Blackstone Valley Place|Suite 205|Lincoln
-1|cumberland animal hospital|6 Pound road||Cumberland
-1|Nabsys 2.0 LLC|60 Clifford Street||Providence
-1|ASIA RESTAURANTS INC|622 GEORGE WASHINGTON HIGHWAY, LINCOLN MALL||LINCOLN
-1|Knowledge Support Systems Inc|640 George Washington Hwy|Building A, Suite 100|Lincoln
-1|Eurofins Environment Testing Northeast LLC|646 Camp Avenue||North Kingstown
-1|NWN Corporation|659 S. Country Trail||Exeter
-1|Momentum Inc|715 Putnam Pike||Greenville
-1|Building Enclosure Science LLC|859 North Main Street||Providence
-1|ADIL BUSINESS SYSTEMS INC|873 WARWICK AVENUE||WARWICK
-1|Infor (US) LLC|91 Point Judith Road|Suite 26 313|Narragansett
-1|Lockheed Architectural Solutions Inc|925 S. Main Street||Pascoag
-1|Mills & Born LLC|999 Chalkstone Avenue||Providence
-1|Nixon Peabody LLP|One Citizens Plaza|Suite 500|Providence
-(116 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+2|BUSITANTS INC|10 DORRANCE ST|PROVIDENCE|RI
+2|BUSITANTS INC|10 DORRANCE STREET|PROVIDENCE|RI
+2|BUSITANTS INCORPORATED|10 DORRANCE ST|PROVIDENCE|RI
+2|SHIOM TECH INC|10 DORRANCE STREET|PROVIDENCE|RI
+2|SMARTHSHIFT TECHNOLOGIES INC|500 EXCHANGE STREET|PROVIDENCE|RI
+2|SMARTSHIFT TECHNOLOGIES INC|500 EXCHANGE STREET|PROVIDENCE|RI
+1|ADIL BUSINESS SYSTEMS INC|873 WARWICK AVENUE|WARWICK|RI
+1|GVK IT INC|191 SOCIAL ST|WOONSOCKET|RI
+1|HCH ENTERPRISES LLC|3016 POST ROAD|WARWICK|RI
+1|IT1STOP INC|1515 SMITH ST., UNIT N|NORTH PROVIDENCE|RI
+1|MILLS & BORN LLC|999 CHALKSTONE AVENUE|PROVIDENCE|RI
+1|RHODE ISLAND HOSPITAL|593 EDDY STREET|PROVIDENCE|RI
+1|SOFTWARE QUALITY ASSOCIATES LLC|3 DAVOL SQUARE|PROVIDENCE|RI
+1|SYSCONS CORPORATION|959 MINERAL SPRING AVENUE|NORTH PROVIDENCE|RI
+(14 rows)

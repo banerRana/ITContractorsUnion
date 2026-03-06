@@ -1,42 +1,4 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-3|Resource InfoSoft Inc|101 S REID ST|Ste 307|SIOUX FALLS
-3|InfraOpsXpert LLC|101 S Reid St|Suite 307|Sioux Falls
-3|Resource InfoSoft Inc|101 S Reid St|Suite 307|Sioux Falls
-3|Re/Spec Inc|3824 Jet Drive||Rapid City
-3|Respec Inc|3824 Jet Drive||Rapid City
-3|RESPEC Inc|3824 Jet Drive||Rapid City
-2|Eagle Creek Software Services|1215 W Cherry Street||Vermillion
-2|Eagle Creek Software Services Inc|1215 W Cherry Street||Vermillion
-2|My3Tech Inc|1601 N Harrison Ave|STE 2B|Pierre
-2|MY3TECH INC|1601 N Harrison Ave|Suite 2B|Pierre
-2|My3Tech Inc|1601 N Harrison Avenue|SUITE 2B|Pierre
-2|My3Tech Inc|1601 N Harrison Avenue|Suite 2B|Pierre
-2|Casey Peterson, LTD|909 Saint Joseph St.|Suite 100|Rapid City
-2|Casey Peterson, LTD|909 Saint Joseph St.||Rapid City
-1|One World Distribution|10 First Ave East||Mobridge
-1|Aart Inc|101 S Phillips Ave|Suite 105|Sioux Falls
-1|ULTIMUS SOLUTIONS INC|101 S REID STREET|SUITE 307|SIOUX FALLS
-1|Omnitech Inc|11 Main Street||Rapid city
-1|Spring Investments Inc|120 22nd Avenue South|Suite 138|Brookings
-1|Eagle Creek Software Services Inc|1215 W. Cherry Street||Vermillion
-1|C-LOCK INC|1350 Concourse Drive||Rapid City
-1|Dream Design International Inc|18  E. Kansas City St|Suite 3|Rapid City
-1|Dream Design International Inc|18 E Kansas City St|Suite 3|Rapid City
-1|Dream Design International Inc|18 E. Kansas City St.|Suite 3|Rapid City
-1|Lien Management Solutions LLC|200 N Ebenezer Ave||Sioux Falls
-1|Sanford Research|2301 E. 60th Street N||Sioux Falls
-1|SoDak Labs Inc|236 32nd Ave||Brookings
-1|Unity Autism Coporation|3200 W. 49th Street||Sioux Falls
-1|Business Resources LTD|3605 W Teem Dr.||Sioux Falls
-1|Business Resources Ltd|3605 W Teem Driver||Sioux Falls
-1|Spring Investments Inc|401 E 8th Street|Suite 214 1619|Sioux Falls
-1|Property Meld I LLC|406 Saint Joseph St|PO Box 3300|Rapid City
-1|Property Meld I LLC|406 Saint Joseph Street||Rapid City
-1|Banner Associates Inc|409 22nd Ave South||Brookings
-1|The Rushmore Group LLC|431 S Pierre St.||Pierre
-1|Otter Audits LLC|519 W 22nd Street||Sioux Falls
-1|Omnitech Inc|5841 S Corporate Place||Sioux Falls
-1|Stone Group Architects Inc|600 E. 7th St||Sioux Falls
-1|Henjes, Conner & Williams, P.C.|801 Stevens Port Drive||Dakota Dunes
-1|Driven Fire Consultants LLC|910 North Sycamore Avenue||Sioux Falls
-(40 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+1|MY3TECH INC|1601 N HARRISON AVE|PIERRE|SD
+1|RESOURCE INFOSOFT INC|101 S REID ST|SIOUX FALLS|SD
+(2 rows)

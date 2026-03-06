@@ -1,72 +1,10 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-3|Rarebreed Veterinary Partners Inc|27 Pearl Street|3rd Floor|Portland
-3|Inspire Veterinary Services of NY, P.C.|27 Pearl Street|3rd Floor|Portland
-3|Rarebreed Veterinary Partners Inc|27 Pearl Street||Portland
-3|SRI SAI LLC|500 SOUTHBOROUGH DRIVE|Suite LL2|SOUTH PORTLAND
-3|Sri Sai LLC|500 Southborough Drive|Suite LL2|South Portland
-3|SRI SAI LLC|500 Southborough Drive|Suite LL2|South Portland
-3|Rite Pros Inc|565 Congress St|Suite 305|Portland
-3|RITE PROS Inc|565 Congress St|Suite 305|Portland
-3|RITE PROS INC|565 Congress St|Suite 305|Portland
-2|Covetrus Inc|12 Mountfort Street||Portland
-2|Woodard & Curran Inc|12 Mountfort Street||Portland
-2|AEJ Projects LLC|141 Main Street|505|Freeport
-2|AEJ Projects LLC|141 main Street|505|Freeport
-2|TRC Engineers LLC|249 Western Avenue|N/A|Augusta
-2|TRC Engineers LLC|249 Western Avenue||Augusta
-2|Rarebreed Veterinary Partners Inc|30 Danforth Street|Suite 304|Portland
-2|RB Drumm VH LLC|30 Danforth Street|Suite 304|Portland
-2|Bigelow Laboratory for Ocean Sciences|60 Bigelow Drive||East Boothbay Harbor
-2|Bigelow Laboratory for Ocean Sciences|60 Bigelow Drive||East Boothbay
-2|THE JACKSON LABORATORY|600 MAIN STREET||BAR HARBOR
-2|The Jackson Laboratory|600 Main Street||Bar Harbor
-2|Redfin Solutions LLC|619 Brighton Avenue|Suite 102|Portland
-2|Redfin Solutions LLC|619 Brighton Avenue|Suite 103|Portland
-2|The VIA Group LLC|619 Congress St||Portland
-2|The VIA Group Inc|619 Congress St||Portland
-2|INVIVID ARCHITECTURE LLC|631 STEVENS AVE SUITE 200||PORTLAND
-2|INVIVID LLC|631 STEVENS AVE SUITE 200||PORTLAND
-2|ARKATECHTURE|75 Washington Avenue|Suite 2D|Portland
-2|ARKATECHTURE|75 Washington Avenue|Suite 2F|Portland
-2|TYLER TECHNOLOGIES INC|ONE TYLER DRIVE||YARMOUTH
-2|IDEXX Distribution Inc|One IDEXX Drive||Westbrook
-2|IDEXX Laboratories Inc|One IDEXX Drive||Westbrook
-2|Tyler Technologies Inc|One Tyler Drive||Yarmouth
-1|Consulting Maine LLC|1 Cardinal Lane||Cape Elizabeth
-1|WEX Health Inc|1 Hancock Street||Portland
-1|Bernstein, Shur, Sawyer & Nelson, P.A.|100 Middle Street||Portland
-1|Wright-Pierce|11 Bowdoin Mill Island|Suite 140|Topsham
-1|Brann & Isaacson LLP|113 Lisbon Street||Lewiston
-1|River Breeze Aviation Consulting LLC|116 Heron Cove Road||Eliot
-1|Finite Accounting & Tax Inc|1191 N Main Road|Ste 207|Randolph
-1|Strategic Maintenance Solutions|12 Estate Dr||Gorham
-1|OPAL Global LLC|137 High Street||Belfast
-1|CAMPTEK SOFTWARE LLC|148 MIDDLE ST|STE 4C|PORTLAND
-1|UNAR Labs LLC|1486 Broadway||South Portland
-1|The Mount Desert Island Biological Laboratory|159 Old Bar Harbor Road||Salisbury Cove
-1|Veritas Prime LLC|2 DeLorme Dr|Box 4|Yarmouth
-1|Juniper Design Build LLC|2 Island Avenue,  5||Peaks Island
-1|R.W. Gillespie & Associates Inc|20 Pomerleau Street, Ste. 100||Biddeford
-1|VETRO Inc|215 Commercial Street|Floor 5|portland
-1|RLC Engineering, PLLC|267 Whitten Road||Hallowell
-1|Vita Architects|28 Maple St|Ste 202|Portland
-1|Microwave Techniques LLC|28 Sanford Drive||Gorham
-1|Certify Inc|320 Cumberland Ave||Portland
-1|Emburse Inc|320 Cumberland Avenue||Portland
-1|GreenPages Inc|33 Badgers Island West||Kittery
-1|Gulf of Maine Research Institute|350 Commercial Street||Portland
-1|McCue Law Office|40 Western Avenue||Hampden
-1|Woodard & Curran Inc|41 Hutchins Drive||Portland
-1|RITE PROS INC|415 CONGRESS STREET|SUITE 201 & 202|PORTLAND
-1|Premium Consulting Corporation|44 Oak Street|Suite 3|Portland
-1|Hay Runner Rockport Design and Construction LLC|446 West Street||Rockport
-1|Sri Sai LLC|500 Southborough Dr|STE LL2|South Portland
-1|INTERACTION AGILITY INC|549 APPLETON RIDGE ROAD||APPLETON
-1|RITE PROS INC|565 CONGRESS STREET|SUITE 305|PORTLAND
-1|XL Mechanical & Energy Management Services Inc|572 Odlin Road||Bangor
-1|Somic Dynamics Inc|6 Baker Boulevard||Brewer
-1|The VIA Group LLC|619 Congress Street||Portland
-1|HMK Partners LLC d/b/a Hawkins Point Partners|7 Technology Drive|Suite 103|North Chelmsford
-1|Veritas Prime LLC|75 Market St|STE 203|Portland
-1|Somic Dynamics Inc|797 Wilson Street|Suite 3|Brewer
-(70 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+1|CAMPTEK SOFTWARE LLC|148 MIDDLE ST|PORTLAND|ME
+1|HMK PARTNERS LLC D/B/A HAWKINS POINT PARTNERS|7 TECHNOLOGY DRIVE|NORTH CHELMSFORD|ME
+1|RITE PROS INC|565 CONGRESS ST|PORTLAND|ME
+1|RITE PROS INC|565 CONGRESS STREET|PORTLAND|ME
+1|SRI SAI LLC|500 SOUTHBOROUGH DR|SOUTH PORTLAND|ME
+1|SRI SAI LLC|500 SOUTHBOROUGH DRIVE|SOUTH PORTLAND|ME
+1|VERITAS PRIME LLC|75 MARKET ST|PORTLAND|ME
+1|VERITAS PRIME LLC|2 DELORME DR|YARMOUTH|ME
+(8 rows)

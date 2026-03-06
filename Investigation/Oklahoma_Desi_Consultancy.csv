@@ -1,237 +1,38 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-10|Robotics Technologies LLC|322 N 3ROAD AVE|STE 117|DURANT
-10|CLOUD BIG DATA TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 111|DURANT
-10|VCLOUD TECHNOLOGY GROUP LLC|322 N 3ROAD AVE|SUITE 115|DURANT
-10|ROBOTICS TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 117|DURANT
-10|3D TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 119|DURANT
-10|AUTOMATION TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 121|DURANT
-10|MACHINE LEARNING TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 123|DURANT
-10|ARTIFICIAL INTELLIGENCE TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 125|DURANT
-10|DIGITAL TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 127|DURANT
-10|QUANTUM TECHNOLOGIES LLC|322 N 3ROAD AVE|SUITE 129|DURANT
-4|Stonebridge Acquisition Inc|4200 E. Skelly Drive|Suite 100|Tulsa
-4|AiRo Digital Labs LLC|4200 E. Skelly Drive|Suite 1000|Tulsa
-4|Stonebridge Acquisitions Inc|4200 E. Skelly Drive|Suite 1000|Tulsa
-4|Stonebridge Acquisition Inc|4200 E. Skelly Drive|Suite 1000|Tulsa
-4|Paycom Payroll LLC|7501 West Memorial Road||Oklahoma City
-4|Paycom Payroll Inc|7501 West Memorial Road||Oklahoma City
-4|Paycom Payroll  LLC|7501 West Memorial Road||Oklahoma City
-4|Paycom Payroll LLC|7501 West Memorial Road||Oklahoma
-3|Skyler Info Systems Inc|101 Park Avenue|Suite 1300|Oklahoma City
-3|Skyler Info systems Inc|101 Park Avenue|Suite 1300|Oklahoma City
-3|FX Replay Inc|101 Park Avenue|Suite 1300|Oklahoma City
-3|Gravitate Energy LLC|11 E. 5th St.|Suite 500|Tulsa
-3|capSpire Inc|11 E. 5th St.|Suite 500|Tulsa
-3|capSpire LLC|11 E. 5th St.|Suite 500|Tulsa
-3|WTI Holdings LLC (DBA Waterfield Innovations DBA Waterfield Technologies)|110 S Hartford Avenue|2502|Tulsa
-3|WTI Holdings LLC|110 S Hartford Avenue|2502|Tulsa
-3|WTI Holdings LLC|110 S Hartford Avenue|Suite 2502|Tulsa
-3|B and T GROUP|1717 SOUTH BOULDER AVENUE|SUITE 300|TULSA
-3|B AND T GROUP|1717 SOUTH BOULDER AVENUE|SUITE 300|TULSA
-3|B&T GROUP|1717 SOUTH BOULDER AVENUE|SUITE 300|TULSA
-3|METAPRO USA LLC|333 WEST MAIN STREET|SUITE 267|ARDMORE
-3|MetaproUSA LLC|333 West Main Street|267|Ardmore
-3|MetaproUSA LLC|333 West Main Street|Suite 267|Ardmore
-3|REFLECTIONS SYSTEMS INC|619 W MAIN ST||OKLAHOMA CITY
-3|Reflections systems INC|619 W Main St||Oklahoma City
-3|Reflections Systems Inc|619 W Main St||Oklahoma City
-3|Cherokee Nation Operational Solutions LLC|777 West Cherokee Street|N/A|Catoosa
-3|Cherokee Nation Assurance LLC|777 West Cherokee Street|N/A|Catoosa
-3|Cherokee Nation Assurance LLC|777 West Cherokee Street||Catoosa
-3|ARL Bio Pharma Inc|840 Research Parkway|Suite 100|Oklahoma City
-3|i2E Inc|840 Research Parkway|Suite 250|Oklahoma City
-3|ARL Bio Pharma Inc|840 Research Parkway|Suite 546|Oklahoma City
-2|Johnson and Associates LLC|1 E Sheridan Ave|STE 200|Oklahoma City
-2|Johnson & Associates LLC|1 E Sheridan Ave|STE 200|Oklahoma City
-2|Labarthe Law LLC|1000 W. Wilshire Blvd.|Suite 355|Oklahoma City
-2|RICHARD C. LABARTHE, PC|1000 W. Wilshire Blvd.|Suite 355|Oklahoma City
-2|Gina Sofola & Associates Inc|105 N Hudson Avenue|Suite 202|Oklahoma City
-2|GINA SOFOLA & ASSOCIATES INC|105 N Hudson Avenue|Suite 202|Oklahoma City
-2|Wheeler Bio Inc|120 Robert S. Kerr Avenue|Suite 701|Oklahoma City
-2|Wheeler Bio Inc|120 Robert S. Kerr Avenue||Oklahoma City
-2|VERIDIC SOLUTIONS LLC|1201 W. EVERGREEN STREET||DURANT
-2|Veridic Solutions LLC|1201 W. Evergreen Street||Durant
-2|INDEPENDENT INTERNATIONAL BUSINESS CONSULTANTS LLC|1212 N YELLOWOOD AVENUE||BROKEN ARROW
-2|Independent International Business Consultants LLC (IIBC)|1212 N Yellowood Avenue||Broken Arrow
-2|Matrix PDM Engineering Inc|15 E. 5th Street|Suite 1100|Tulsa
-2|MATRIX PDM ENGINEERING INC|15 E. 5th Street|Suite 1100|Tulsa
-2|TALISMAN LLC|215 E 5TH ST|SUITE C|OKMULGEE
-2|TALISMAN LLC|215 E 5th ST||OKMULGEE
-2|William Velie Attorneys at Law, PLLC|225 N. Peters Avenue|Suite 1|Norman
-2|William Velie Attorneys at Law, PLLC|225 N. Peters Avenue||Norman
-2|DATA3 CORPORATION|2448 EAST 81ST STREET|SUITE 456|TULSA
-2|LynnCo Supply Chain Solutions Inc|2448 East 81st Street|Suite 2800|Tulsa
-2|Advanced Knowledge Tech LLC|2502 Crossroads Drive|Suite B|Ardmore
-2|Advanced Knowledge Tech LLC|2502 Crossroads drive|Suite B|Ardmore
-2|OPENFUSION LLC|2800 W GORE BLVD|CETES BLDG 2ND FLOOR|LAWTON
-2|OpenFusion LLC|2800 W Gore Blvd|CETES Bldg 2nd Floor|Lawton
-2|Gabrovski Law Firm PLLC|2933 NW 156th Street||Edmond
-2|Gabrovski Law Firm|2933 NW 156th Street||Edmond
-2|Green Lambda Corporation|3401 Macdonnell Dr||Norman,
-2|Fiber Mountain Technologies Inc|3401 Macdonnell Dr||Norman,
-2|HSPG & Associates OC|5400 N Grand Blvd|Suite 330|OKlahoma City
-2|HSPG & Associates OC|5400 N Grand Blvd|Suite 330|Oklahoma City
-2|C.H. GUERNSEY & COMPANY|5555 N. GRAND BLVD.||OKLAHOMA CITY
-2|C. H. Guernsey & Company|5555 N. Grand Blvd.||Oklahoma City
-2|Dean McGee Eye Institute|608 Stanton L. Young Blvd||Oklahoma City
-2|DEAN MCGEE EYE INSTITUTE|608 Stanton L. Young Blvd||Oklahoma City
-2|Paycom Payroll LLC|7501 W. Memorial Road||Oklahoma City
-2|Paycom Payroll LLC|7501 W. Memorial Road||Oklahoma
-2|SENTINEL POWER SERVICES LLC|7517 EAST PINE STREET||TULSA
-2|SENTINEL POWER SERVICES INC|7517 EAST PINE STREET||TULSA
-2|ObjectStream Inc|7725 W Reno Avenue|Suite 307|Oklahoma City
-2|Objectstream Inc|7725 W Reno Avenue|Suite 307|Oklahoma City
-1|Sulzer Chemtech USA Inc|1 Sulzer Way||Tulsa
-1|WTI Holdings LLC|1 W 3rd Street|Suite 1115|Tulsa
-1|WTI Holdings LLC|1 West 3rd St N|STE 1115|Tulsa
-1|W Energy Software LLC|1 West 3rd Street|Suite 1115|Tulsa
-1|KGENIUS INC|100 N QUAPAH AVENUE|SUITE H|OKLAHOMA CITY
-1|AR IT Software Solutions LLC|100 NE 5th Street|1st Floor|Oklahoma City
-1|AR IT Software Solutions LLC|100 NE 5th Street, 1st Floor||Oklahoma City
-1|iRefer USA Inc|100 S. Cincinnati Avenue|Floor 5|Tulsa
-1|Ragnar Research Partners LLC|1015 Waterwood Pkwy|Unit C|Edmond
-1|GINA SOFOLA & ASSOCIATES INC|1033 NE 4TH STREET|UNIT 104|OKLAHOMA CITY
-1|Monty L Cain, PC|10415 Greenbriar Place||Oklahoma City
-1|GINA SOFOLA & ASSOCIATES INC|105 Hudson Avenue|Suite 540|Oklahoma City
-1|Fylo LLC|10500 E Covell Road||Arcadia
-1|Merrick & Company|110 S. Hartford Avenue|Suite 150|Tulsa
-1|BridesView Inc|111 Harrison Avenue||Oklahoma City
-1|National Center for Addiction Studies and Treatment Foundation|1111 W. 17th Street||Tulsa
-1|ROBERT ST PIERRE CPA PC|1113 NORTH SECOND ST.||STILWELL
-1|John Zink Company LLC|11920 East Apache Street||Tulsa
-1|360 Engineering Group, PLLC|1201 E. 3rd Street||Tulsa
-1|360 ENGINEERING GROUP, PLLC|1201 EAST THIROAD STREET||TULSA
-1|Veridic Solutions LLC|1201 W Evergreen Street||Durant
-1|Motive Inc|1226 NW 32nd St.||Oklahoma City
-1|Launch Tulsa LLC|12601 S Memorial Drive||Bixby
-1|Launch Tulsa LLC|12601 South Memorial Drive||Bixby
-1|Traittek LLC|12950 Big Sky Dr||Edmond
-1|Marshall Environmental Management Inc|1301 N Martin Luther King Avenue||Oklahoma City
-1|Business Imaging Systems Inc|13900 N. Harvey Ave||Edmond
-1|Elevated Marketing LLC|14 West Edwards Street|111|Edmond
-1|ONPOINT ACCOUNTING|14201 N May Ave|Ste 201|OKLAHOMA CITY
-1|Avem Staffing Resources LLC|14201 Wireless Way|Suite 100 B|Oklahoma City
-1|SGA Design Group P.C.|1437 S Boulder|Suite 550|Tulsa
-1|SGA Design Group, P.C.|1437 S. Boulder|Suite 550|Tulsa
-1|MPW Engineering LLC|1437 S. Boulder Avenue|Suite 400|Tulsa
-1|SGA DESIGN GROUP P.C|1437 SOUTH BOULDER AVE W|SUITE 550, BOULDER TOWERS|TULSA
-1|Air Hygiene International Inc|1600 West Tacoma St||Broken Arrow
-1|Foreman & Leathers, P.C.|1617 Greenbriar Pl., Ste. E||Oklahoma City
-1|Freese Architecture Inc|1634 S. Boston Avenue||Tulsa
-1|Sherwood Construction Co. Inc|1640 S 101st East Avenue||Tulsa
-1|Levinson, Smith & Huffman, P.C.|1743 E. 71st Street||Tulsa
-1|Speech-Soft Solutions LLC|1755 W. 33rd Street|Suite 110|Edmond
-1|White Hawk Engineering and Design LLC|1821 E. Imhoff Road||Norman
-1|White Hawk Engineering and Design LLC|1821 East Imhoff Road||Norman
-1|Wilson Research Strategies|1900 E 15th Street|Suite 600A|Edmond
-1|Mnemonic Solutions LLC|19005 Butterfly Blvd.||Edmond
-1|Cherokee Nation Integrated Health LLC|2 W. 2nd Street|Suite 1500 37|Tulsa
-1|LAI & TURNER LAW FIRM PLLC|2000 N CLASSEN BLVD|STE 230|OKLAHOMA CITY
-1|LAI & TURNER LAW FIRM PLLC|2000 N. Classen Blvd|Suite 230|Oklahoma City
-1|Sequoyah Technologies LLC|201 E Hobson Avenue||Sapulpa
-1|Sequoyah Technologies|201 East Hobson Avenue||Sapulpa
-1|i2E Inc|201 Robert S Kerr Avenue|Suite 600|Oklahoma City
-1|GENERAL GENETICS LLC|2011 W DANFORTH ROAD 530||Edmond
-1|General Genetics LLC|2011 W. Danforth Road, Suite 530||Edmond
-1|BigLynx Inc|2018 156th Avenue Northeast|suite 100|Norman
-1|Roger K. Laxton, CPA|204 West Main Street||Ada
-1|GASTECH ENGINEERING INC|2110 INDUSTRIAL ROAD||SAPULPA
-1|The City of Lawton, a municipal corporation|212 SW 9th St||Lawton
-1|City of Lawton|212 SW 9th Street||Lawton
-1|PEPM Group, PLLC|2121 S. Columbia Avenue|Suite 600|Tulsa
-1|White Hawk Engineering and Design LLC|2204 South Eastern Avenue||Moore
-1|HoganTaylor LLP|2222 S. Utica Place|Suite 200|Tulsa
-1|HoganTaylor LLP|2222 South Utica Pl|Suite 200|Tulsa
-1|STRUCTURES AMERICA INNOVATIVE ENGINEERING, PLC|2240 NW 164th ST||EDMOND
-1|William Velie Attorneys at Law, PLLC|225 N Peters Ave|Suite 1|Norman
-1|Decision Tree Consulting LLC|2250 East 73rd Street|Suite 430|Tulsa
-1|Beals Cunningham Advertising Agency Inc|2333 E Britton Road||Oklahoma City
-1|Aviation Power Support, LP|2415 Arkansas St||Durant
-1|Aviation Power Support, LP|2415 W Arkansas St||Durant
-1|Minert & Associates, PLLC|2488 E. 81st Street|Suite 145|Tulsa
-1|Devco Process Heaters LLC|2504 East 71st Street|Suite A|Tulsa
-1|Noble Research Institute LLC|2510 SAM NOBLE PARKWAY||ARDMORE
-1|Altano Oklahoma Interstate LLC|2536 S. Ladd Ave||Goldsby
-1|Rance G. Stein, PLLC|2630 NW Expressway|Suite A|Oklahoma City
-1|M3 Technology Solutions LLC|2771 Washington Dr||Norman
-1|Oklahoma Spay Network Inc|2925 N. Roberta Road||Durant
-1|CPU Partnership|3000 United Founders Blvd Suite 136||Oklahoma City
-1|Oseberg Inc|3000 W Memorial Road|Suite 123 643|Oklahoma City
-1|Gitwit Creative LLC|301 E Archer Street||Tulsa
-1|TEIM DESIGN PLLC|3020 NW 149th Street||Oklahoma City
-1|Decision Tree Consulting LLC|3023 East 74th Place||Tulsa
-1|CROWE & DUNLEVY, PC|324 NORTH ROBINSON AVENUE|SUITE 100|Oklahoma City
-1|Ameriinfovets Inc|33 Woodcreek Lane||Pryor
-1|Bioeutectics Corporation|3306 Charles Page Blvd||Tulsa
-1|MaxoTech Solutions LLC|333 W Main St.|Suite 345|Ardmore
-1|Think Venture Group LLC|3621 NW 50th Street|Suite B|Oklahoma City
-1|Human Mode LLC|3917 NE 104th Street||Oklahoma City
-1|Oklahoma City Equine Clinic, PC|400 NE 70th St||Oklahoma City
-1|VELIE LAW FIRM PLLC|401 WEST MAIN STREET|SUITE 300|NORMAN
-1|Ameriinfovets Inc|409 NE 1st Street|Suite 4,|Pryor
-1|Automated Energy Inc|4100 Perimeter Center Drive|Suite 115|Oklahoma City
-1|TAP Architecture LLC|415 N Broadway Avenue||Oklahoma City
-1|V & S Schuler Tubular Products LLC|420 Frankfort Avenue||Muskogee
-1|GSHELMS & ASSOCIATES LLC|424 S. Main Street||Jenks
-1|Rise Concepts LLC|4312 N. Classen Blvd||Oklahoma City
-1|IT Hoppers Inc|4334 Northwest Expressway, Ste   235||Oklahoma City
-1|KeyBridge Technologies Inc|4415 Highline Blvd.||Oklahoma City
-1|Cannabis Testing LLC|4619 N Santa Fe Ave||Oklahoma City
-1|SpringPoint Technologies LLC|4755 E. 91st Street|Suite 100|Tulsa
-1|Oklahoma Baptist University|500 West University||Shawnee
-1|Matrix PDM Engineering Inc|5100 E. Skelly Drive|Suite 800|Tulsa
-1|NCWR LLC|512 N Broadway|Suite 300|Oklahoma City
-1|Isotek Laboratories LLC|5225 NW 5th Street||Oklahoma City
-1|Kirkpatrick Forest Curtis, PC|525 Central Park Drive|Suite 202|Oklahoma City
-1|Hood and Associates CPAs, PC|5350 E 46th Street|Suite 130|Tulsa
-1|Born Inc|5400 S 49th W Avenue||Tulsa
-1|C. H. Guernsey and Company|5555 N Grand Blvd Suite 100||Oklahoma City
-1|CIBER PATHWAY INC|5601 NW 72ND ST|SUITE 178G|WARR ACRES
-1|MaxQ Research LLC|5607 E. 6th Avenue||Stillwater
-1|Born Inc|5699 S 59th W Ave|Bldg 100|Tulsa
-1|Born Inc|5699 S 59th W Ave, Bldg  100||Tulsa
-1|Born Inc|5699 S 59th W Avenue|Bldg 100|Tulsa
-1|Michael Brooks Jimenez, PC|5708 S Western Ave||Oklahoma City
-1|ENACOMM INC|5800 EAST SKELLY DRIVE|PENTHOUSE|TULSA
-1|Frankfurt-Short-Bruza Associates, P.C.|5801 Broadway Extension|Suite 500|Oklahoma City
-1|JOSHI TECHNOLOGIES INTERNATIONAL INC|5801 E. 41ST STREET|SUITE 603|TULSA
-1|OKLAHOMA PROTON CENTER LLC|5901 WEST MEMORIAL ROAD||OKLAHOMA CITY
-1|Facet (Oklahoma) LLC|5935 S. 129th E. Avenue|Suite A|Tulsa
-1|Rise Concepts LLC|5951 E Sorghum Mill Road||Edmond
-1|Rise Concepts LLC|5951 E. Sorghum Mill Road||Edmond
-1|Rise Concepts LLC|5951 E. Sorgum Mill Road||Edmond
-1|Consumers Unified LLC|600 E 4th St||Tulsa
-1|Consumers Unified LLC|600 E 4th Street||Tulsa
-1|Sulzer Chemtech USA Inc|6100 South Yale Avenue|Suite 800|Tulsa
-1|SpringPoint Technologies LLC|611 E. 4th Street||Tulsa
-1|Reflections Systems Inc|619 W. Main St.||Oklahoma City
-1|Labarthe Law LLC|6303 N Portland Avenue, Suite 210||Oklahoma City
-1|Arrival 3D Inc|6608 N. Western Avenue|Suite 3264|Oklahoma City
-1|Sisemore & Associates Inc|6660 S. Sheridan Road|Suite 210|Tulsa
-1|DSN Acquireco LLC|6914 S. Yorktown Ave||Tulsa
-1|CB FIRM LLC|701 CEDAR LAKE BLVD|STE 208|OKLAHOMA CITY
-1|Tulsa Innovation Labs LLC|7030 S Yale Ave|Suite 600|Tulsa
-1|Juris Nova LLC|7100 N Classen Blvd Suite 300|N/A|Oklahoma City
-1|Standards IT LLC|720 NE 63rd Street|Suite 101|Oklahoma City
-1|Objectstream Inc|7725 W. Reno Avenue|Suite 307|Oklahoma City
-1|Objectstream Inc|7725 West Reno Avenue|Suite 307|Oklahoma City
-1|CYNTERYGY AEC LLC|810 S CINCINNATI AVENUE|SUITE 200|TULSA
-1|THG Energy Solutions LLC|816 E 6th Street|Suite 400|Tulsa
-1|Oklahoma Medical Research Foundation|825 N.E. 13th Street||Oklahoma City
-1|Oklahoma Medical Research Foundation|825 NE 13th Street||Oklahoma City
-1|Hyatt Shared Service Center LLC|830 City Ave||Moore
-1|Hyatt Shared Service Center LLC|830 City Avenue||Moore
-1|ZFI Engineering Co.|8411 S Walker Ave||Oklahoma City
-1|WildCare Foundation|8505 Wildwood Lane||Noble
-1|CCK Strategies, PLLC|8811 S. Yale Avenue|Suite 400|Tulsa
-1|Spherexx LLC|9142 S. Sheridan Road||Tulsa
-1|PROVIDENT ADVISORS LLC|9175 S Yale Ave STE 1010|One Warren Place|Tulsa
-1|Harness Digital Solutions LLC|9251 N Penn Place||Oklahoma City
-1|TALISMAN LLC|9520 N. MAY AVE|SUITE 216|OKLAHOMA CITY
-1|Branum Law Firm, PLLC|9600 S May Ave||Oklahoma City
-1|PROVIDENT ADVISORS LLC|One Warren Building, 9175 S Yale Ave STE 1010|One Warren Place,|Tulsa
-1|ICX Transportation Group Inc|PO Box 634||Stillwater
-1|WTI Holdings LLC|S Hartford Avenue|Suite 2502|Tulsa
-1|Silvern Swan Analytics LLC|S University pl|Apt 8|Stillwater
-1|EchoLinx LLC|WASHINTON ST APT 15L|4599 N|STILLWATER
-(235 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+9|3D TECHNOLOGIES LLC|322 N 3RD AVE|DURANT|OK
+9|ARTIFICIAL INTELLIGENCE TECHNOLOGIES LLC|322 N 3RD AVE|DURANT|OK
+9|AUTOMATION TECHNOLOGIES LLC|322 N 3RD AVE|DURANT|OK
+9|CLOUD BIG DATA TECHNOLOGIES LLC|322 N 3RD AVE|DURANT|OK
+9|DIGITAL TECHNOLOGIES LLC|322 N 3RD AVE|DURANT|OK
+9|MACHINE LEARNING TECHNOLOGIES LLC|322 N 3RD AVE|DURANT|OK
+9|QUANTUM TECHNOLOGIES LLC|322 N 3RD AVE|DURANT|OK
+9|ROBOTICS TECHNOLOGIES LLC|322 N 3RD AVE|DURANT|OK
+9|VCLOUD TECHNOLOGY GROUP LLC|322 N 3RD AVE|DURANT|OK
+2|CHEROKEE NATION ASSURANCE LLC|777 WEST CHEROKEE STREET|CATOOSA|OK
+2|CHEROKEE NATION OPERATIONAL SOLUTIONS LLC|777 WEST CHEROKEE STREET|CATOOSA|OK
+2|METAPRO USA LLC|333 WEST MAIN STREET|ARDMORE|OK
+2|METAPROUSA LLC|333 WEST MAIN STREET|ARDMORE|OK
+1|ADVANCED KNOWLEDGE TECH LLC|2502 CROSSROADS DRIVE|ARDMORE|OK
+1|AMERIINFOVETS INC|33 WOODCREEK LANE|PRYOR|OK
+1|AR IT SOFTWARE SOLUTIONS LLC|100 NE 5TH STREET, 1ST FLOOR|OKLAHOMA CITY|OK
+1|CCK STRATEGIES PLLC|8811 S. YALE AVENUE|TULSA|OK
+1|CHEROKEE NATION INTEGRATED HEALTH LLC|2 W. 2ND STREET|TULSA|OK
+1|CIBER PATHWAY INC|5601 NW 72ND ST|WARR ACRES|OK
+1|INDEPENDENT INTERNATIONAL BUSINESS CONSULTANTS LLC (IIBC)|1212 N YELLOWOOD AVENUE|BROKEN ARROW|OK
+1|IT HOPPERS INC|4334 NORTHWEST EXPRESSWAY, STE   235|OKLAHOMA CITY|OK
+1|LABARTHE LAW LLC|6303 N PORTLAND AVENUE, SUITE 210|OKLAHOMA CITY|OK
+1|MAXOTECH SOLUTIONS LLC|333 W MAIN ST.|ARDMORE|OK
+1|MNEMONIC SOLUTIONS LLC|19005 BUTTERFLY BLVD.|EDMOND|OK
+1|OBJECTSTREAM INC|7725 W. RENO AVENUE|OKLAHOMA CITY|OK
+1|OBJECTSTREAM INC|7725 W RENO AVENUE|OKLAHOMA CITY|OK
+1|REFLECTIONS SYSTEMS INC|619 W MAIN ST|OKLAHOMA CITY|OK
+1|REFLECTIONS SYSTEMS INC|619 W. MAIN ST.|OKLAHOMA CITY|OK
+1|SKYLER INFO SYSTEMS INC|101 PARK AVENUE|OKLAHOMA CITY|OK
+1|SPRINGPOINT TECHNOLOGIES LLC|611 E. 4TH STREET|TULSA|OK
+1|SPRINGPOINT TECHNOLOGIES LLC|4755 E. 91ST STREET|TULSA|OK
+1|THINK VENTURE GROUP LLC|3621 NW 50TH STREET|OKLAHOMA CITY|OK
+1|TRAITTEK LLC|12950 BIG SKY DR|EDMOND|OK
+1|VELIE LAW FIRM PLLC|401 WEST MAIN STREET|NORMAN|OK
+1|VERIDIC SOLUTIONS LLC|1201 W EVERGREEN STREET|DURANT|OK
+1|VERIDIC SOLUTIONS LLC|1201 W. EVERGREEN STREET|DURANT|OK
+(36 rows)

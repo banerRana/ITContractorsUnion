@@ -1,45 +1,11 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-2|RC Construction Co. Inc|310 West Park Avenue||Greenwood
-2|RC Construction, Co. INC|310 West Park Avenue||Greenwood
-2|SKYBLUE STAFFING LLC|339 CROSS PARK DR||PEARL
-2|SKYBLUESTAFFING LLC|339 CROSS PARK DR||PEARL
-2|Law Offices of Ali & Associates, P.A.|713 S. Pear Orchard Road|Suite 205|Ridgeland
-2|ALI & ASSOCIATES PA|713 S. Pear Orchard Road|Suite 205|Ridgeland
-2|McAfee Safety Analysis Inc|875 NorthPark Drive|Suite 200|Ridgeland
-2|McAfee Safety Analysis INC|875 NorthPark Drive|Suite 200|Ridgeland
-1|Hexad Solutions Group LLC|100 Parkgate Drive Ext|Suite 201|Tupelo
-1|Butler Snow LLP|1020 Highland Colony Pkwy|Suite 1400|Ridgeland
-1|Harper, Rains, Knight & Company, P.A.|1052 Highland Colony Parkway|Suite 100|Ridgeland
-1|OptumInsight Inc|11000 Optum Circle||Eden Prairie
-1|CropFiQ Inc|1150 Monteith Avenue||Hernando
-1|Lightheart, Sanders and Associates Inc|116 One Madison Plaza|Suite 1200|Madison
-1|Chhabra & Gibbs, P.A.|120 North Congress Steet|Suite 200|Jackson
-1|NEXT GEAR SOLUTIONS LLC|1214 Office Park Drive||Oxford
-1|OMNI SOURCING INC|1230 RAYMOND ROAD||JACKSON
-1|Neel-Schaffer Inc|125 S. Congress Street|Suite 1100|Jackson
-1|IMS Engineers Inc|126 E. Amite Street||Jackson
-1|Lightheart, Sanders and Associates Inc|140 Fountains Blvd||Madison
-1|Waggoner Engineering Inc|143A LaFleurs Square||Jackson
-1|Waggoner Engineering Inc|143A LeFleurs Sq.||Jackson
-1|Waggoner Engineering Inc|143A LeFleurs Square||Jackson
-1|Fowler Engineering LLC|1989 Oak Tree Cove|Suite A|Hernando
-1|MortgageTrade Holding Co. LLC|200 South Lamar Court||Oxford
-1|FORMAN WATKINS & KRUTZ LLP|210 EAST CAPITOL STREET, SUITE 2200||JACKSON
-1|Scales Biological Laboratory Inc|220 Woodgate Drive South||Brandon
-1|RAYLOT RESOURCES INC|236 E CAPITOL ST||JACKSON
-1|The Power Source, PLLC|305 Highway 51||Ridgeland
-1|RC Construction, Co. INC|310  W Park Avenue||Greenwood
-1|Neel-Schaffer Inc|4450 Old Canton Road|Suite 100|Jackson
-1|Implementation Technologies Consulting Inc|6068 Hwy 98 W|PMB 300, Suite 1|Hattiesburg
-1|SOFTWARE CONSULTING SERVICES LLC|629 LAKELAND EAST DRIVE||FLOWOOD
-1|Allen Engineering and Science Inc|6360 I-55 North|Suite 330|Jackson
-1|TeknowIT LLC|640 Lakeland East DR|STE D|Flowood
-1|PHASORGRID LLC|644 LAKELAND EAST DR|STE A|FLOWOOD
-1|PHASORSOFT GROUP LLC|644 LAKELAND EAST DRIVE|SUITE A|FLOWOOD
-1|Horne LLP|661 Sunnybrook Road|Suite 100|Ridgeland
-1|Implementation Technologies Consulting Inc|6652 US HWY 98 West||Hattiesburg
-1|Ai Troopers LLC|729 WATERS DR||MADISON
-1|Precision Cropping Technologies Inc|7928 Soaring Oaks Drive||Walls
-1|CENTRAL SERVICE ASSOCIATION|93 SOUTH COLEY ROAD||TUPELO
-1|SOFTWARE CONSULTING SERVICES LLC|P O BOX 321269||FLOWOOD
-(43 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+2|SKYBLUE STAFFING LLC|339 CROSS PARK DR|PEARL|MS
+2|SKYBLUESTAFFING LLC|339 CROSS PARK DR|PEARL|MS
+1|IMPLEMENTATION TECHNOLOGIES CONSULTING INC|6652 US HWY 98 WEST|HATTIESBURG|MS
+1|IMPLEMENTATION TECHNOLOGIES CONSULTING INC|6068 HWY 98 W|HATTIESBURG|MS
+1|IMS ENGINEERS INC|126 E. AMITE STREET|JACKSON|MS
+1|OMNI SOURCING INC|1230 RAYMOND ROAD|JACKSON|MS
+1|PHASORGRID LLC|644 LAKELAND EAST DR|FLOWOOD|MS
+1|PHASORSOFT GROUP LLC|644 LAKELAND EAST DRIVE|FLOWOOD|MS
+1|RAYLOT RESOURCES INC|236 E CAPITOL ST|JACKSON|MS
+(9 rows)

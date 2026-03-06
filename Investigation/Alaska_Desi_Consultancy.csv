@@ -1,18 +1,3 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-1|TerraSond Limited|1617 S Industrial Way||Palmer
-1|Graystone Resources LLC|1692 Tok Lane|Room 107 2345|Fairbanks
-1|Alaska Power and Engineering LLC|17 Letnikof Drive||Haines
-1|Matanuska Telecom Association Inc|1740 S Chugach Street||Palmer
-1|TerraSond Limited|202 W Elmwood Ave||Palmer
-1|Cooperman Technology Inc|205 E. Benson Blvd|Suite 513|Anchorage
-1|Bettisworth North Architects and Planners Inc|212 Front St|Suite 200|Fairbanks
-1|Newhouse & Vogler, CPAs, APC|237 East Fireweed Lane|Suite 200|Anchorage
-1|ALTMAN, ROGERS & CO.|3000 C STREET|SUITE 201|ANCHORAGE
-1|CYMA Consultants Inc|3105 Lakeshore Drive|Building A, Suite 101|Anchorage
-1|Brice Engineering LLC|3700 Centerpoint Drive|Suite 8223|Anchorage
-1|The May Clinic Inc|615 University Ave||Fairbanks
-1|RIM Architects LLC|645 G St|Suite 400|Anchorage
-1|RIM Architects LLC|645 G Street|Suite 400|Anchorage, AK, USA
-1|Architects Alaska Inc|900 W 5th Avenue|STE 403|Anchorage
-1|Elgee Rehfeld LLC|9309 Glacier Highway|Suite B 200|Juneau
-(16 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+1|RIM ARCHITECTS LLC|645 G STREET|ANCHORAGE, AK, USA|AK
+(1 row)

@@ -1,64 +1,7 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-5|Microbeam Technologies Inc|4200 James Ray Drive|Ste 193|Grand Forks
-5|Airtonomy Inc dba Thread|4200 James Ray Drive||Grand Forks
-5|Airtonomy Inc|4200 James Ray Drive||Grand Forks
-5|Airtonomy, INc.|4200 James Ray Drive||Grand Forks
-5|Migr8.ai LLC|4200 James Ray Drive||Grand Forks
-4|Aldevron LLC|4055 41st Avenue South|N/A|Fargo
-4|Aldevron Madison LLC|4055 41st Avenue South|N/A|Fargo
-4|Aldevron, L.L.C.|4055 41st Avenue South||Fargo
-4|Aldevron LLC|4055 41st Avenue South||Fargo
-3|Professional Advantage Software Solutions Inc|3523 45th St S, Brandt Office Park|Ste 100|Fargo
-3|XMPro Consulting Services Inc|3523 45th St S, Brandt Office Park|Ste 100|Fargo
-3|Professional Advantage Software Solutions Inc|3523 45th St S, Brandt Office Park||Fargo
-2|Eide Bailly LLP|4310 17th Avenue S.|P.O. Box 2545|Fargo
-2|Eide Bailly, LLP|4310 17th Avenue S.||Fargo
-2|Infonero Inc|51 Broadway N|Suite 502|Fargo
-2|INFONERO INC|51 Broadway N|Suite 502|Fargo
-2|Tau Drones Inc|975 58th Avenue South||Grand Forks
-2|Tau Drones LLC|975 58th Avenue South||Grand Forks
-1|Brosz Engineering Inc|104 South Main St||Bowman
-1|CH Trade LLC|1102 Page Drive S||Fargo
-1|Prominent Technology Inc|1120 College Drive|Suite 105|Bismarck
-1|Infonero Inc|118 Broadway N|Suite 501|Fargo
-1|INFONERO INC|118 Broadway North|Suite 501|Fargo
-1|LFP Consulting LLC|125 Buckskin Ave|Ste 200|Bismarck
-1|7cinfo com inc|1336 25th Ave South|suite 211|fargo
-1|Aethero Inc|1407 24th Ave S|Ste 223 224|Grand Forks
-1|Saggezza Group LLC|1449 10th St S||Fargo
-1|Riviera Nexus LLC|1801 23rd Ave N|Suite 211|Fargo
-1|APPAREO SYSTEMS LLC|1810 N.D.S.U. RESEARCH CIRCLE N.||FARGO
-1|81 Designs Inc|1854 NDSU Research Circle North||Fargo
-1|North American Services Inc|1929 Hancock Dr||Bismarck
-1|Stoneridge Software LLC|2000 44th Street S.|Suite 101|Fargo
-1|Stoneridge Holdings Inc|2000 44th Street South|Suite 101|Fargo
-1|Sapiyen LLC|205 Main Ave E||West Fargo
-1|Pinkerton Animal Hospital PLLC|2105 N Broadway||Minot
-1|Doosan Digital Innovation America LLC|250 East Beaton Drive||West Fargo
-1|National Information Solutions Cooperative|3131 Technology Dr NW||Mandan
-1|National Information Solutions Cooperative|3131 Technology Drive NW||Mandan
-1|Techzoid LLC|320 32nd ave w|STE6|West fargo
-1|Fargo Engineering Inc|3234 4th Avenue South||Fargo
-1|Ulteig Engineers Inc|3350 38th Ave South||Fargo
-1|Ulteig Engineers Inc|3350 38th Avenue South||Fargo
-1|XMPRO Consulting Services Inc|3523 45th Street South, Brandt Office Park|Ste 100|Fargo
-1|Weather Modification LLC|3802 20th Street North||Fargo
-1|Brady Martz & Associates, P.C.|401 Demers Ave|Ste 300|Grand Forks
-1|Aldevron, L.L.C.|4055 40th Ave South||Fargo
-1|Eide Bailly LLP|4310 17th Ave S||Fargo
-1|Eide Bailly, LLP|4310 7th Avenue S.||Fargo
-1|Eide Bailly LLP|4321 20th Avenue S.||Fargo
-1|Noridian Healthcare Solutions|4510 13th Ave S, STE1||Fargo
-1|Pedigree Technologies LLC|4776 28th Avenue South|Suite 101|Fargo
-1|XMPRO Consulting Services Inc|4820 30th Ave S|Ste 201|Fargo
-1|Bushel Inc|503 7th St. N.|Suite 300|Fargo
-1|Bushel Inc|503 7th Street North||Fargo
-1|INFONERO INC|51 Broadway North|Suite 502|Fargo
-1|Gnomon Technology LLC|5375 27th Street||New Salem
-1|FARGO SOLUTIONS INC|623 MAIN AVENUE EAST, SUITE 102B||WEST FARGO
-1|Riviera Nexus LLC|6788 County Road 140||Glen Ullin
-1|WEX Health Inc|700 26th Ave E||West Fargo
-1|WEX Health Inc|700 26th Avenue E||West Fargo
-1|Network & Technology Solutions Inc|825 25th Street South|Suite D|Fargo
-1|Noridian Healthcare Solutions|900 42nd Street South||Fargo
-(62 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+1|7CINFO COM INC|1336 25TH AVE SOUTH|FARGO|ND
+1|FARGO SOLUTIONS INC|623 MAIN AVENUE EAST, SUITE 102B|WEST FARGO|ND
+1|INFONERO INC|118 BROADWAY NORTH|FARGO|ND
+1|INFONERO INC|51 BROADWAY N|FARGO|ND
+1|INFONERO INC|51 BROADWAY NORTH|FARGO|ND
+(5 rows)

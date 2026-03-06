@@ -1,405 +1,85 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-6|Affiliated Engineers NW Inc|800 University Bay Drive|Suite 200|Madison
-6|Affiliated Engineers SE Inc|800 University Bay Drive|Suite 200|Madison
-6|AFFILIATED ENGINEERS INC|800 University Bay Drive|Suite 200|Madison
-6|Affiliated Engineers Inc|800 University Bay Drive|Suite 200|Madison
-6|Affiliated Engineers Metro DC Inc|800 University Bay Drive|Suite 200|Madison
-6|Affiliated Engineers W Inc|800 University Bay Drive|Suite 200|Madison
-5|WellStack Inc|22 East Mifflin Street|Suite 400|Madison
-5|SymphonyCare Inc|22 East Mifflin Street|Suite 400|Madison
-5|Symphony Corporation|22 East Mifflin Street|Suite 400|Madison
-5|Wellstack Inc|22 East Mifflin Street|Suite 400|Madison
-5|Symphony Corporation|22 East Mifflin Street||Madison
-5|GOVAN SYSTEMS INC|725 HEARTLAND TRL|SUITE 201|Madison
-5|GOVAN SYSTEMS INC|725 HEARTLAND TRL|SUITE 201|MADISON
-5|Govan Systems Inc|725 Heartland Trl|201|Madison
-5|Govan Systems inc|725 Heartland Trl|201|Madison
-5|Govan Systems|725 Heartland Trl|201|Madison
-4|Wisdom Infotech Ltd|18650 W Corporate Dr|St 120|Brookfield
-4|Wisdom Infotech|18650 W Corporate Dr|St 120|Brookfield
-4|Wisdom Infotech Ltd|18650 W Corporate Dr|Ste 120|Brookfield
-4|Wisdom InfoTech Ltd|18650 W Corporate Dr|Ste 120|Brookfield
-4|Aurora Worldwide Development Corporation|811 E Washington Ave|Ste 329|Madison
-4|Flexion Inc|811 E Washington Ave|Suite 400|Madison
-4|Strang Inc|811 E Washington Ave||Madison
-4|Flexion Inc|811 E Washington Ave||Madison
-4|ASP DIVERSE INC|8383 GREENWAY BLVD|SUITE 600|MIDDLETON
-4|ASP Diverse Inc|8383 Greenway Blvd|Suit 600|Middleton
-4|Asp Diverse Inc|8383 Greenway Blvd|Suite 600|Middleton
-4|ASP Diverse Inc|8383 Greenway Blvd|Suite 600|Middleton
-3|Experis US Inc|100 Manpower Place||Milwaukee
-3|ManpowerGroup Global Inc|100 Manpower Place||Milwaukee
-3|Experis US LLC|100 Manpower Place||Milwaukee
-3|Eversana Life Science Services LLC|190 N. Milwaukee St.||Milwaukee
-3|EVERSANA Life Science Services LLC|190 N. Milwaukee St.||Milwaukee
-3|EVERSANA LIFE SCIENCE SERVICES LLC|190 N. Milwaukee St.||Milwaukee
-3|MEAD & HUNT INC|2440 DEMING WAY||Middleton
-3|Mead & Hunt Inc|2440 DEMING WAY||Middleton
-3|Mead & Hunt Inc|2440 Deming Way||Middleton
-3|THOUGHTFOCUS INC|245 SOUTH EXECUTIVE DRIVE|SUITE 325|BROOKFIELD
-3|ThoughtFocus Inc|245 South Executive Drive|Suite 250|Brookfield
-3|ThoughtFocus Inc|245 South Executive Drive|Suite 325|Brookfield
-3|Marcus Solutions Inc|4726 EAST TOWNE BLVD|SUITE 230 1A|MADISON
-3|One Stop Global Solutions LLC|4726 East Towne Blvd|Ste 230 1C|Madison
-3|One Stop Global Solutions LLC|4726 East Towne Blvd|Suite 230 1C|Madison
-3|GENOME INTERNATIONAL CORPORATION|8000 EXCELSIOR DRIVE|SUIE 202|MADISON
-3|GENOME INTERNATIONAL CORPORATION|8000 EXCELSIOR DRIVE|SUITE 202|MADISON
-3|AIQ Global Inc|8000 Excelsior Drive|Suite 400|Madison
-2|Fetch Rewards LLC|1050 E. Washington Avenue|2nd Floor|Madison
-2|Fetch Rewards Inc|1050 E. Washington Avenue|2nd Floor|Madison
-2|Bloom Companies LLC|10501 W. Research Drive|Suite 100|Milwaukee
-2|Bloom Companies LLC|10501 W. Research Drive||Milwaukee
-2|Education Analytics Inc|110 E. Main Street|Suite 1000|Madison
-2|Education Analytics|110 E. Main Street|Suite 1000|Madison
-2|Hilmot LLC|11925 West Carmen Ave||Milwaukee
-2|Hilmont LLC|11925 West Carmen Ave||Milwaukee
-2|Wisdom InfoTech Ltd.|18650 W Corporate Drive|Suite 120|Brookfield
-2|Wisdom Infotech Ltd.|18650 W Corporate Drive|Suite 120|Brookfield
-2|EVERSANA LIFE SCIENCES LLC|190 N MILWAUKEE ST||Milwaukee
-2|EVERSANA LIFE SCIENCE SERVICES LLC|190 N Milwaukee St||Milwaukee
-2|EVERSANA LIFE SCIENCES SERVICES LLC|190 N. MILWAUKEE STREET||MILWAUKEE
-2|EVERSANA LIFE SCIENCE SERVICES LLC|190 N. Milwaukee Street||Milwaukee
-2|Signatech solutions LLC|200 S Executive Dr|Ste 101|Brookfield
-2|Signatech solutions LLC|200 S Executive Dr|Ste 101 Office 20261|Brookfield
-2|Dataguise Inc|201 East Pittsburgh Avenue|Suite 400|Milwaukee
-2|Dataguise Inc|201 East Pittsburgh Avenue||Milwaukee
-2|SymphonyCare Inc|22 E. Mifflin St|Suite 400|Madison
-2|WellStack Inc|22 E. Mifflin St|Suite 400|Madison
-2|Amba Systems|2215 S Oneida St|Ste 101|Green Bay
-2|Amba Systems|2215 S Oneida St|Suite 101|Green Bay
-2|WISSEN INFOTECH INC|2325 PARKLAWN DR|SUITE G|WAUKESHA
-2|WISSEN INC|2325 Parklawn Dr|SUITE G|WAUKESHA
-2|Wissen Infotech Inc|2325 Parklawn Drive|Suite G|Waukesha
-2|Exec Search Inc|2325 Parklawn Drive|Suite G|Waukesha
-2|Last Lock Inc|25 W. Main St.|550|Madison
-2|LAST LOCK INC|25 W. Main St.|550|Madison
-2|Usona Institute Inc|2800 Woods Hollow Road||Fitchburg
-2|Usona Institute Inc|2800 Woods Hollow Road||Madison
-2|Electrical Testing Solutions|2909 Green Hill Ct.|Suite 1|Oshkosh
-2|Electrical Testing Solutions Inc|2909 Green Hill Ct.|Suite 1|Oshkosh
-2|Koncenture Group Inc|2921 Landmark Place|Suite 215 320|Madison
-2|Wegner CPAs LLC|2921 Landmark Place|Suite 300|Madison
-2|DIGITAL RESOURCE PARTNERS LLC|3125 PROSPECT DRIVE||SUN PRAIRIE
-2|Digital Resource Partners LLC|3125 Prospect Drive||Sun Prairie
-2|Fortrea Clinical Research Unit Inc|3402 Kinsman Blvd.||Madison
-2|Labcorp Clinical Research Unit Inc|3402 Kinsman Blvd.||Madison
-2|INCREX SYSTEMS LLC|3960 W KIMBERLY AVE||GREENFIELD
-2|Increx Systems LLC|3960 W Kimberly Ave||Greenfield
-2|SLIPSTREAM GROUP INC|431 CHARMANY DR.||MADISON
-2|Slipstream Group Inc|431 Charmany Dr.||Madison
-2|AMTC & Associates LLC|4465 N. Oakland Ave|Suite 200|Milwaukee
-2|AMTC and Associates LLC|4465 N. Oakland Ave|Suite 200|Milwaukee
-2|DataChat Inc|455 Science Dr.|Suite 155|Madison
-2|DataChat Inc|455 Science Dr.|Suite 160|Madison
-2|MIRACLES TEK LLC|4811 S 76TH ST|SUITE 8|GREENFIELD
-2|Miracles Tek LLC|4811 S 76th St|STE 8|Greenfield
-2|ARROWHEAD MADISON INC|502 S Rosa Road||Madison
-2|Arrowhead Madison Inc|502 S Rosa Road||Madison
-2|True North Consultants Inc|525 Junction Road|Ste 1900|Madison
-2|Streamline CPQ LLC|525 Junction Road|Suite 6500|Madison
-2|Sitzberger Advisors LLC|611 N. Barker Road|Suite 200|Brookfield
-2|Lucida Advisors LLC|611 N. Barker Road|Suite 200|Brookfield
-2|RAIS USA Inc|6709 Raymond Road|STE 153|Madison
-2|SolutionSavvy LLC|6709 Raymond Road|Suite 153|Madision
-2|Rivion LLC|700 W. Virginia Street|Suite 222|Milwaukee
-2|Rivion LLC|700 W. Virginia Street||Milwaukee
-2|FOLEY & LARDNER LLP|777 EAST WISCONSIN AVENUE||MILWAUKEE
-2|Foley & Lardner LLP|777 East Wisconsin Avenue||Milwaukee
-2|Laurits R. Christensen Associates Inc|800 University Bay Dr|Ste 400|Madison
-2|Lauritis R. Christensen Associates Inc|800 University Bay Dr|Ste 400|Madison
-2|Affiliated Engineers Inc|800 University Bay Dr.|Suite 200|Madison
-2|Affiliated Engineers W Inc|800 University Bay Dr.|Suite 200|Madison
-2|C-Motive Technologies Inc|8001 Terrace Avenue|Ste 203C|Middleton
-2|Policy Confluence Inc|8001 Terrace Avenue|Suite 201|Middleton
-2|TECHNOVIZ LLC|8517 EXCELSIOR DR|SUITE 105|MADISON
-2|TECHNOVIZ LLC|8517 EXCELSIOR DRIVE|SUITE 105|MADISON
-2|Technoviz LLC|8517 Excelsior Dr|Suite 105|Madison
-2|TECHNOVIZ LLC|8517 Excelsior Drive|SUITE 105|MADISON
-2|SIGMA SCI-TECH LLC|N113W17053 DRIFTWOOD CT|APT 8|GERMANTOWN
-2|Sigma Sci-Tech LLC|N113W17053 DRIFTWOOD CT|Apt 8|GERMANTOWN
-2|NeoSoft LLC|N27 W23910A Paul Road||Pewaukee
-2|NeoSoft LLC|N27 W23910A Paul Road||Piwaukee
-2|EXCEL GLOBAL SOLUTIONS INC|N27 W23960 PAUL ROAD|SUITE 101|Pewaukee
-2|Excel Global Solutions Inc|N27 W23960 Paul Road|Suite 101|Pewaukee
-2|NeoSoft LLC|N27W23910 Paul Road|Suite A|Pewaukee
-2|NeoSoft LLC|N27W23910 Paul Road||Pewaukee
-1|Elephas Biosciences Corporation|1 Erdman Place|Suite 100|Madison
-1|Boardman & Clark LLP|1 S. Pinckney St.|Suite 410|Madison
-1|Excel Engineering Inc|100 Camelot Dr.||Fond du Lac
-1|Excel Engineering Inc|100 Camelot Drive||Fond Du Lac
-1|Wipfli LLP|10000 Innovation Drive|Suite 250|Milwaukee
-1|Wipfli LLP|10000 W. Innovation Drive|Suite 250|Milwaukee
-1|Delve Inc|1010  East Washington Avenue|SUITE 210|Madison
-1|Pandata Group LLC|1010 E. Washington Ave|Suite 306|Madison
-1|Zywave Inc|10100 W.  Innovation Drive|Suite 300|Milwaukee
-1|BRP US Inc|10101 Science Drive||Sturtevant
-1|Hurtado Zimmerman SC|1011 N. Mayfair Road|Suite 204|Wauwatosa
-1|Ascension Logistics Inc|10150 W National Ave|Suite 202 PMB 301|West Allis
-1|Ascension Logistics Inc|10150 W. National Avenue|Suite 202 PMB 301|West Allis
-1|FRANKLIN ENERGY SERVICES LLC|102 N FRANKLIN STREET||PORT WASHINGTON
-1|Franklin Energy Services LLC|102 N Franklin St||Port Washington
-1|Franklin Energy Services LLC|102 N. Franklin St.||Port Washington
-1|AP Accounting INC|1023 W. Historic Mitchell Street||Milwaukee
-1|Shivex IT Solutions LLC|1025 S Moorland Road|Suite 403|Brookfield
-1|Soliton Technologies Inc|10437 Innovation Drive|Suite 239|Wauwatosa
-1|Fetch Rewards Inc|1050 E Washington Avenue|2nd Floor|Madison
-1|Bloom Companies LLC|10501 W Research Drive|Suite 100|Milwaukee
-1|Core Consulting LLC|107 Buntrock Ave||Thiensville
-1|Remedy Analytics Inc|10700 W Research Drive|Suite 3|Wauwatosa
-1|Remedy Analytics Inc|10700 W. Research Drive|Suite 3|Wauwatosa
-1|I2 IT Systems Inc|110 E Main St.|Suite 722|Madison
-1|INNIO Waukesha Gas Engines Inc|1101 W St Paul Avenue||Waukesha
-1|INNIO Waukesha Gas Engines Inc|1101 W St. Paul Avenue||Waukesha
-1|Harmann Studios Inc|1101 W. Main Avenue||De Pere
-1|Virtual 3D Studios Inc|111 West Olive Street||Glendale
-1|Re-factor II Inc|1114 Gilbert Road||Madison
-1|La Crosse Technical Consultants|1131 Main Street||Onalaska
-1|CRESCENDO COLLECTIVE INC|1134 NORTH 9TH STREET|SUITE 270|MILWAUKEE
-1|Soberalski Immigration Law LLC|1135 S. 70th St.|Suite 402|West Allis
-1|Z3 TECHNOLOGIES INC|11400 W Bluemound Road||Wauwatosa
-1|Alan Barry Consultants LLC|11414 W PARK PL|STE 202|MILWAUKEE
-1|Mortenson Kim Raidious Inc|117 N Jefferson St|Ste 204|Milwaukee
-1|Imagen Energy Inc|11745 W. Bradley Road||Milwaukee
-1|BreakthroughFuel LLC|1175 Lombardi Avenue||Green Bay
-1|SNA TECH SOLUTIONS LLC|1183 RIVERWALK CT.||PEWAUKEE
-1|Hilmot LLC|11925 W Carmen Avenue||Milwaukee
-1|IEMENTOR CORP|120 Bishops Way|Suite 161|Brookfield
-1|Kalypso LLC|1201 S. 2nd Street||Milwaukee
-1|Richman & Richman LLC|122 West Washington Avenue|Suite 850|Madison
-1|SVA Certified Public Accountants, S.C.|1221 John Q. Hammons Drive||Madison
-1|Imagen Energy Inc|1225 Discovery Parkway|Unit 155|Wauwatosa
-1|MSA Professional Services Inc|1230 South Blvd.||Baraboo
-1|Tegria Services Group-US Inc|1255 Fourier Drive|Suite 101|Madison
-1|Golgix Inc|12945 W. Hawthorne Lane||New Berlin
-1|EMCS Inc|1300 West Canal Street|Suite 200|Milwaukee
-1|ORACULAR IS LLC|1302 South Main Street||OSHKOSH
-1|Red Comma Media Inc|133 S Butler St|Ste 220|Madison
-1|Siqsess LLC|13500 Watertown Plank Road  205||Elm Grove
-1|Capital Data Inc|1360 S. Moorland Road|Suite 200|Brookfield
-1|Concurrency Inc|13600 Bishops Court||Brookfield
-1|Splendid Engineering Inc|13705 W Greenfield Ave||New Berlin
-1|Splendid Egineering Inc|13705 W Greenfield Avenue||New Berlin
-1|JLB CONSULTING INC|138 W MAIN ST.||WAUNAKEE
-1|JLB Consulting Inc|138 W Main St||Waunakee
-1|Zoomlion Heavy Industry NA Inc|14215 Two Mile Road||Yorkville
-1|MARS IT Corp.|1433 N Water St.|Suite 400|Milwaukee
-1|Connecture Inc|1433 N. Water Street|Suite 400|Milwaukee
-1|Semicolon Inc|1500 Stedman Way||Sheboygan Falls
-1|Flexion Inc|1500 West Main Street|Suite 500|Sun Prairie
-1|PFS Corporation|1507 Matt Pass||Cottage Grove
-1|Leonardo Academy Inc|1526 Chandler Street||Madison
-1|Commerce Canary LLC|155 Summer Street||Sheboygan Falls
-1|Vendor Credentialing Service LLC|1550 INNOVATION WAY||HARTFORD
-1|Vetter Architects Inc|161 South First Street|Ste 110|Milwaukee
-1|VCA INC|1612 N. HIGH POINT ROAD|N/A|MIDDLETON
-1|Nash Law Group Attorneys at Law, S.C.|170 3rd St N||Wisconsin Rapids
-1|The Probst Group LLC|17035 West Wisconsin Avenue|Suite 120|Brookfield
-1|Digital Intelligence Inc|17165 W. Glendale Drive||New Berlin
-1|Quarra Stone Company LLC|1760 Columbus St||Sun Prairie
-1|Codeworks LLC|17800 W Capital Drive||Brookfield
-1|Codeworks LLC|17800 W Capitol Drive||Brookfield
-1|CODEWORKS LLC|17800 WEST CAPITOL DRIVE||BROOKFIELD
-1|Hamilton Engine LLC|1835 Haynes Drive||Sun Prairie
-1|Enterprise Solutions Technology Group Inc|1838 Oakview Drive||Stoughton
-1|WTS Paradigm LLC|1850 Deming Way|Suite 120|Middleton
-1|Wisdom Infotech Ltd.|18650 W Corporate Dr.|Suite 120|Brookfield
-1|Wisdom Infotech Ltd|18650 W Corporate Drive,|Suite 120|Brookfield
-1|Wisdom Infotech Ltd.|18650 W. Corporate Drive|Suite 120|Brookfield
-1|Eversana Life Sciences LLC|190 N. Milwaukee St||Milwaukee
-1|Epic Systems Corporation|1979 MILKY WAY||VERONA
-1|Gorman Architectural LLC|200 N Main St||Oregon
-1|Gorman Architectural LLC|200 N. Main St.||Oregon
-1|Digital Transformation Services LLC|200 S. Executive Drive|Suite 101|Brookfield
-1|ThoughtFocus Inc|200 South Executive Drive|Suite 101|Brookfield
-1|Dataguise Inc|2001 East Pittsburg Avenue|Suite 400|Milwaukee
-1|Dataguise Inc|2001 East Pittsburgh Avenue|Suite 400|Milwaukee
-1|Dataguise Inc|201 E Pittsburgh Avenue|Suite 400|Milwaukee
-1|Dataguise Inc|201 East Pittsburgh Ave|Suite 400|Milwaukee
-1|Naviant Holdings LLC|201 Prairie Heights Drive||Verona
-1|JRSS CORPORATION|202 W VERONA AVENUE|SUITE 200|VERONA
-1|JRSS Corporation|202 W Verona Ave|Suite 200|Verona
-1|Niyama Global LLC|20475 Hunters CT||Brookfield
-1|NIVI Solutions LLC|207 W. Innovation Drive||Milwaukee
-1|Shared Medical Services Inc|209 Limestone Pass||Cottage Grove
-1|Plunkett Raysich Architects, LLP|209 S. Water Street||Milwaukee
-1|MARS IT Corporation d/b/a MARS Solutions Group|20900  Swenson Drive|Suite 300|Waukesha
-1|MARS IT Corp.|20900 Swenson Drive|Suite 300|Waukesha
-1|Ascension Logistics Inc|20935 Swenson Dr.|Suite 350|Waukesha
-1|Kimberly-Clark USA LLC|2100 Winchester Road||Neenah
-1|Foth Infrastructure & Environment LLC|2121 Innovation Court|Suite 300|De Pere
-1|GeoTest Inc|2135 S 116th St||West Allis
-1|Penrod Inc|219 North Milwaukee Street||Milwaukee
-1|Dairyland Trading Company LLC|2200 Dickinson Road|Ste 15A|De Pere
-1|Amba Systems LLC|2215 S Oneida Street|Suite 101|Green Bay
-1|Sonic Foundry Inc|222 West Washington Avenue||Madison
-1|Cullerton Group LLC|223 W. Jackson|Suite 975|Chicago
-1|SOPHUS IT SOLUTIONS LLC|22525 SE 64TH PL|SUITE 2013|ISSAQUAH
-1|VENNSYS LLC|2307 PARMENTER STREET|SUITE B2|MIDDLETON
-1|River Run Computers|2320 W Camden Road||Glendale
-1|Becker and Harper|2321 Jackson St||Oshkosh
-1|AFRY USA LLC|2323 East Capitol Drive||Appleton
-1|Wissen Digital Inc|2325 Parklawn Dr,|Suite G|Waukesha
-1|Remedy Analytics Inc|234 W. Florida Street|Suite 150|Milwaukee
-1|Eurofins SF Analytical Laboratories Inc|2345 South 170th Street||New Berlin
-1|MEICHER CPAS LLP|2349 DEMING WAY|SUITE 300|MIDDLETON
-1|Marcus Solutions Inc|2365 Colorado Ave||Sun Prairie
-1|Marcus Solutions Inc|2365 Colorado Avenue||Sun Prairie
-1|Tartan Solutions Inc|2401 W Cedar Lane||River Hills
-1|Madison Veterinary Specialists SC|2407 Royal Avenue||Madison
-1|URUS Group LP|2418 Crossroads Drive|Suite 3600, 3rd Floor|Madison
-1|Octavia Legal Associates, LLP|2450 Rimrock Road|Suite 202|Fitchburg
-1|Last Lock Inc|25 W Main Street|Suite 550|Madison
-1|CAPPS LLC|250 North Sunnyslope Road|Suite 300|Brookfield
-1|COMPUTER POWER GROUP INC|250 REGENCY COURT|SUITE 101|BROOKFIELD
-1|Cooper Engineering Company Inc|2600 College Drive||Rice Lake
-1|Nordic Consulting Partners Inc|2601 West Beltline Highway|Suite 600|Madison
-1|Nordic Consulting Partners Inc|2601 West Beltline Hwy|Suite 600|Madison
-1|Mandli Communications Inc|2655 Research Park Drive||Fitchburg
-1|Retail Space Solutions LLC|2727 W. Good Hope Road||Milwaukee
-1|GRAEF-USA INC|275 W WISCONSIN AVENUE|SUITE 300|MILWAUKEE
-1|GRAEF-USA INC|275 West Wisconsin Avenue|SUITE 300|MILWAUKEE
-1|GIC USA Group LLC|27562 Red School Road||Cuba City
-1|Apple Valley Animal Health Inc|2809 N. Park Drive Ln.||Appleton
-1|Enpowertek LLC|2810 Crossroads Dr|Suite 4000|Madison
-1|Jessica Technologies LLC|2813 Muir Field Road||Madison
-1|Electrical Testing Solutions|2909 Green Hill Ct|Suite 1|Oshkosh
-1|Amba Systems LLC|2979 Allied St.|Suite E|2979 Allied St, Ste E, Green Bay WI
-1|Amba Systems LLC|2979 Allied Street|Suite E|Green Bay
-1|JangoBio LLC|2997 Yarmouth Greenway Drive||Fitchburg
-1|ARCHITECTURAL DESIGN CONSULTANTS INC|30 Wisconsin Dells Parkway|PO Box 580|Lake Delton
-1|Epic of Wisconsin Inc|300 S 6th Ave||West Bend
-1|Vets Plus Inc|302 Cedar Falls Road||Menomonie
-1|Cognerium LLC|302 LITTLE BEAR DR||Middleton
-1|Flexagon LLC|3040 Allied St.||Green Bay
-1|Schneider Logistics Inc|3101 South Packerland Drive||Green Bay
-1|ARORA INFOTECH INC|3131 TAYLOR AVE||RACINE
-1|ARORA INFOTECH INC|3131 TAYLOR AVENUE||RACINE
-1|WISCONSIN INTERACTIVE NETWORK LLC|316 W WASHINGTON AVE|SUITE 300|MADISON
-1|Valuation Research Corporation|330 E. Kilbourn Avenue|Suite 1425|Milwaukee
-1|The Morgridge Institute For Research Inc|330 N. Orchard Street||Madison
-1|Eurofins Food Chemistry Testing US Inc|3301 Kinsman Boulevard||Madison
-1|Quarra Stone Company LLC|333 Atlas Avenue||Madison
-1|Burntcow MediaWorks LLC|3409 W Riviera Ct||Mequon
-1|One Stop Global Solutions LLC|342 Hallmark Way||Sun Prairie
-1|KLM DYNAMICS INC|342 N WATER ST||MILWAUKEE
-1|Amir Hesamian|342 N. Water St|Suite 600|Milwaukee
-1|JLB CONSULTING INC|345 W WASHINGTON AVENUE|SUITE 301 , PMB. 2012|MADISON
-1|Patel Kwan Consultancy LLC|3454 Glacier Ridge Road||Middleton
-1|Digital Transformation Services LLC|3530 S 120th St||Greenfield
-1|Walkwater LLC dba Walkwater Consulting|3535 S McIntosh Ln||New Berlin
-1|SmartUQ LLC|3545 University Avenue||Madison
-1|Tech4 LLC|3547 French Road||De Pere
-1|Orbia Fluor and Energy Materials USA Inc|3587 Anderson Street|Suite 108|Madison
-1|NAVITUS HEALTH SOLUTIONS LLC|361 Integrity Drive||Madison
-1|Syslogic Inc|375 Bishops Way|Suite 105|Brookfield
-1|Geeth Limited Liability Co.|3810 S Cherokee Way||Milwaukee
-1|Motive SCC LLC|400 Main St|Suite 400|La Crosse
-1|Michaels Energy Inc|400 Main Street|Suite 200|La Crosse
-1|Adam Information Technologies LLC|402 Gammon Pl.|Suite 270|Madison
-1|Superior Support Resources Inc dba SSR Total IT|405 North Calhoun Road||Brookfield
-1|Quarles & Brady LLP|411 E. Wisconsin Avenue|Suite 2400|Milwaukee
-1|Quarles & Brady LLP|411 E. Wisconsin Avenue,  2400||Milwaukee
-1|Quarles & Brady LLP|411 East Wisconsin Ave|Suite 2400|Milwaukee
-1|SLIPSTREAM GROUP INC|431 Catalyst Way||MADISON
-1|ARO EBERLE ARCHITECTS|433 W. Washington Avenue|Suite 400|MADISON
-1|Quinn David & Associates LLC|436 North 49th Street||Milwaukee
-1|Shelter from the Storm Animal Rescue Inc|44745 Robertson Road||Madison
-1|Shelter from the Storm|4475 Robertson Road||Madison
-1|TrueNorth Collective LLC|4537 Winnequah Road||Monona
-1|DataChat Inc|455 Science Drive|Suite 155|Madison
-1|One Stop Global Solutions LLC|4726 East Town BLVD|Suite 230 1C|Madison
-1|GMR Marketing LLC|5000 S. Towne Drive||New Berlin
-1|MGA Research Corporation|5000 Warren Road||Burlington
-1|ZIFA LLC|5004 S 23rd St||Milwaukee
-1|Arrowhead Madison Inc|502 S. Rosa Road||Madison
-1|Preserve Design Studio LLC|5027 N Berkeley Blvd||Whitefish Bay
-1|Flux XII Inc|504 S Rosa Road|Suite 200|Madison
-1|EG Trait Development Inc|505 S. Rosa Road|Suite 120|Madison
-1|GMR Marketing LLC|5050 S. Towne Drive||New Berlin
-1|GoDx|510 Charmany Drive, Suite 265||Madison
-1|Headway LLC|520 N. Broadway|Suite 390|Green Bay
-1|SORGE CPA & BUSINESS ADVISORS, S.C.|5221 MONONA DRIVE||MONONA
-1|Spaulding Clinical Research LLC|525 S. Silverbrook Dr.||West Bend
-1|Fujifilm Cellular Dynamics Inc|525 Science Drive||Madison
-1|Customer Analytics LLC|526 Highcliff Trail||Madison
-1|Exact Sciences Corporation|5505 Endeavor Lane||Madison
-1|Invenra Inc|5510 Element Way|Suite 400|Madison
-1|Angus-Young Associates Inc|555 South River Street||JANESVILLE
-1|ISR Info Way Inc|559 DOnofrio Dr|Suite 101 & 102|Madison
-1|ISR INFO WAY INC|559 DOnofrio Drive|Suite 101 & 102|Madison
-1|Katur Solve Corporation|575 W Madison St|Suite 2 W7|Waterloo
-1|FM Systems Group LLC|5757 N GREEN BAY AVE||MILWAUKEE
-1|Elegant Technologies LLC|583 D Onofrio Drive|Suite 4|Madison
-1|Elegant Technologies LLC|583 DOnofrio Drive|Suite 4|Madison
-1|American Family Investments Inc|6000 American Parkway||Madison
-1|NIMBLE THERAPEUTICS INC|603 SCIENCE DRIVE||MADISON
-1|Lallemand Specialties Inc|6120 West Douglas Avenue||Milwaukee
-1|Trinco Technologies LLC|618 S PARK STREET, P O BOX 45738|P O box 45738|Madison
-1|Mullen, Schlough & Associates S.C.|619 N Bridge St|Suite 100|Chippewa Falls
-1|Mullen, Schlough and Associates SC|619 N Bridge St.|STE 100|Chippewa Falls
-1|Milton Labs LLC|6198 Congress Dr.||West Bend
-1|Milton Labs LLC|6198 Congress Drive||West Bend
-1|ExaTechInfo LLC|6402 Odana Road|STE 303|Madison
-1|Innovenn Inc|6410 Enterprise Lane|Suite 230|Madison
-1|AMD Tax & Accounting Inc|645 3rd Street||Beloit
-1|CEP Engineering LLC|6501 Watts Road|Suite 201|Madison
-1|Comply365 LLC|655 3rd Street|Suite 365|Beloit
-1|TRISHULLA LLC|6629 UNIVERSITY AVENUE|SUITE 210|MIDDLETON
-1|RAIS USA Inc|6709 Raymond Road STE 153 FLR 6709|6709 Raymond Rd STE 153|Madison
-1|ZS LLC|6737 West Washington Street|S2120|Milwaukee
-1|Pandata Group LLC|701 E. Washington Avenue|Suite 202|Madison
-1|ExactLogix Inc|705 3rd St.|Suite 380|Beloit
-1|R S InfoCon Inc|7071 S 13th St|Suite 205|Oak Creek
-1|RS InfoCon Inc|7071 S 13th Street|Ste 205|Oak Creek
-1|Corporate Technology Solutions Inc|7119 West North Avenue||Milwaukee
-1|Beta Diagnostic Labs LLC|7200 Washington Ave||Racine
-1|GOVAN SYSTEMS INC|725 HEARTLAND TRAIL|201|MADISON
-1|Govan Systems Inc|725 Heartland Trail Suite 201||Madison
-1|Govan Systems inc|725 Heartland Trl  201||Madison, WI
-1|Kohn Law Firm SC|735 N Water Street|Suite 1300|Milwaukee
-1|Continuum Architects and Planners S.C.|751 N Jefferson St  200||Milwaukee
-1|Studio EA LLC|76 Coulee Road||Hudson
-1|KAPUR & ASSOCIATES INC|7711 N. PORT WASHINGTON ROAD||MILWAUKEE
-1|Brilliance Web Design Inc|790 N Milwaukee St|Office 338|Milwaukee
-1|Affiliated Engineers W Inc|800 University Bay Avenue|Suite 200|Madison
-1|Joseph Lee & Associates LLC|800 West Broadway|Suite 200|Monona
-1|GENOME INTERNATIONAL CORPORATION|8000 EXCELSIOR DR|SUITE 202|MADISON
-1|GENOME INTERNATIONAL CORPORATION|8000 EXCESLSIOR DRIVE|SUITE 202|MADISON
-1|C-Motive Technologies Inc|8001 Terrace Ave|Ste 203C|Middleton
-1|Flexion Inc|811 E Washington Avenue|Suite 400|Madison
-1|Flexion Inc|811 E. Washington Ave|Suite 400|Madison
-1|Flexion Inc|811 E. Washington Avenue|Suite 400|Madison
-1|gener8tor Management LLC|821 E. Washington Avenue|S200 G|Madison
-1|Cyclomedia Technology Inc|8215 Greenway Blvd Ste 300||Middleton
-1|ANALYTICAL PROCESS LABORATORIES INC|8222 W CALUMET ROAD||MILWAUKEE
-1|ASP Diverse Inc|8383 Greenway Blvd.|Suite 600|Middleton
-1|Voximetry Inc|8383 Greenway Boulevard|Suite 600|Middleton
-1|Gordon J. Maier & Company, LLP|845 Wisconsin Avenue||Racine
-1|Marking Services Inc|8801 W. Heather Avenue||Milwaukee
-1|AI Spins Inc|8850 Blackhawk Road|Apt 419|Middleton
-1|Anguil Environmental Systems Inc|8855 N 55th Street||Milwaukee
-1|GENOME INTERNATIONAL CORPORATION|8OOO EXCELSIOR DRIVE|SUITE 202|MADISON
-1|Akscellence Info Solutions LLC|901 S Whitney Way||Madison
-1|Lakeside Engineers LLC|909 N. Mayfair Road|Suite 100|Wauwatosa
-1|AH South Milwaukee Inc|9142 S Chicago Road||Oak Creek
-1|Elephas Biosciences Corporation|918 Deming Way|Suite 101|Madison
-1|Quinn David & Associates LLC|923 E Kilbourn Ave|Unit 402|Milwaukee
-1|KUMAR VENTURES LLC|9239 s 54th st||Franklin
-1|SolutionSavvy LLC|9414 Whippoorwill Way||Middleton
-1|FILAMENT MARKETING LLC|950 JOHN NOLEN DR|STE 190|MADISON
-1|Town and Country Veterinary Clinic of Fond Du Lac LLC|961 S Main St||Fond Du Lac
-1|Johnson Block and Company Inc|9701 Brader Way|Suite 202|Middleton
-1|PRO-MATION Inc|9900 58th Place|Suite 100|Kenosha
-1|MBE CPAs|E10890 Penny Lane||Baraboo
-1|Whitelight Group Inc|N14 W24200 Tower Pl.|Suite 203|Waukesha
-1|INTEN IT SOLUTIONS LLC|N19W24400 RIVERWOOD DRIVE|SUITE 350|WAUKESHA
-1|M Squared Engineering LLC|N19W6719 Commerce Ct.||Cedarburg
-1|Excel Global Solutions Inc|N27W23960 Paul Road|Suite 101|Pewaukee
-1|Leveraging Manufacturing Solutions LLC|N9543 Bay Shore Lane||Luxemburg
-1|Faith Technologies Inc|One Menasha Center, 201 Main Street||Menasha
-1|SPANN & ASSOCIATES LLC|W175N11086 STONEWOOD DR|SUITE B|GERMANTOWN
-1|Spann & Associates LLC|W175N11086 Stonewood Drive|Suite B|Germantown
-1|Graphic Systems Corporation|W189 N11161 Kleinmann Drive||Germantown
-1|Infetek LLC|W201N5526 Magnolia Ln||Menomonee Falls
-1|Aperture Labs Inc|W223 N608 Saratoga Dr|Suite B|Waukesha
-(403 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+2|EXEC SEARCH INC|2325 PARKLAWN DRIVE|WAUKESHA|WI
+2|EXPERIS US INC|100 MANPOWER PLACE|MILWAUKEE|WI
+2|EXPERIS US LLC|100 MANPOWER PLACE|MILWAUKEE|WI
+2|GOVAN SYSTEMS|725 HEARTLAND TRL|MADISON|WI
+2|GOVAN SYSTEMS INC|725 HEARTLAND TRL|MADISON|WI
+2|HILMONT LLC|11925 WEST CARMEN AVE|MILWAUKEE|WI
+2|HILMOT LLC|11925 WEST CARMEN AVE|MILWAUKEE|WI
+2|WISDOM INFOTECH|18650 W CORPORATE DR|BROOKFIELD|WI
+2|WISDOM INFOTECH LTD|18650 W CORPORATE DR|BROOKFIELD|WI
+2|WISSEN INC|2325 PARKLAWN DR|WAUKESHA|WI
+2|WISSEN INFOTECH INC|2325 PARKLAWN DR|WAUKESHA|WI
+2|WISSEN INFOTECH INC|2325 PARKLAWN DRIVE|WAUKESHA|WI
+1|ADAM INFORMATION TECHNOLOGIES LLC|402 GAMMON PL.|MADISON|WI
+1|AI SPINS INC|8850 BLACKHAWK ROAD|MIDDLETON|WI
+1|AMBA SYSTEMS|2215 S ONEIDA ST|GREEN BAY|WI
+1|AMBA SYSTEMS LLC|2215 S ONEIDA STREET|GREEN BAY|WI
+1|AMBA SYSTEMS LLC|2979 ALLIED STREET|GREEN BAY|WI
+1|AMBA SYSTEMS LLC|2979 ALLIED ST.|2979 ALLIED ST, STE E, GREEN BAY WI|WI
+1|ARORA INFOTECH INC|3131 TAYLOR AVE|RACINE|WI
+1|ARORA INFOTECH INC|3131 TAYLOR AVENUE|RACINE|WI
+1|ASP DIVERSE INC|8383 GREENWAY BLVD.|MIDDLETON|WI
+1|CODEWORKS LLC|17800 W CAPITAL DRIVE|BROOKFIELD|WI
+1|CODEWORKS LLC|17800 W CAPITOL DRIVE|BROOKFIELD|WI
+1|CORE CONSULTING LLC|107 BUNTROCK AVE|THIENSVILLE|WI
+1|CULLERTON GROUP LLC|223 W. JACKSON|CHICAGO|WI
+1|DIGITAL RESOURCE PARTNERS LLC|3125 PROSPECT DRIVE|SUN PRAIRIE|WI
+1|DIGITAL TRANSFORMATION SERVICES LLC|3530 S 120TH ST|GREENFIELD|WI
+1|DIGITAL TRANSFORMATION SERVICES LLC|200 S. EXECUTIVE DRIVE|BROOKFIELD|WI
+1|ELEGANT TECHNOLOGIES LLC|583 DONOFRIO DRIVE|MADISON|WI
+1|ELEGANT TECHNOLOGIES LLC|583 D ONOFRIO DRIVE|MADISON|WI
+1|ENPOWERTEK LLC|2810 CROSSROADS DR|MADISON|WI
+1|ENTERPRISE SOLUTIONS TECHNOLOGY GROUP INC|1838 OAKVIEW DRIVE|STOUGHTON|WI
+1|EXATECHINFO LLC|6402 ODANA ROAD|MADISON|WI
+1|EXCEL GLOBAL SOLUTIONS INC|N27 W23960 PAUL ROAD|PEWAUKEE|WI
+1|FLEXAGON LLC|3040 ALLIED ST.|GREEN BAY|WI
+1|GENOME INTERNATIONAL CORPORATION|8000 EXCELSIOR DRIVE|MADISON|WI
+1|GENOME INTERNATIONAL CORPORATION|8OOO EXCELSIOR DRIVE|MADISON|WI
+1|GENOME INTERNATIONAL CORPORATION|8000 EXCESLSIOR DRIVE|MADISON|WI
+1|GENOME INTERNATIONAL CORPORATION|8000 EXCELSIOR DR|MADISON|WI
+1|GOVAN SYSTEMS INC|725 HEARTLAND TRL  201|MADISON, WI|WI
+1|I2 IT SYSTEMS INC|110 E MAIN ST.|MADISON|WI
+1|INCREX SYSTEMS LLC|3960 W KIMBERLY AVE|GREENFIELD|WI
+1|INFETEK LLC|W201N5526 MAGNOLIA LN|MENOMONEE FALLS|WI
+1|INTEN IT SOLUTIONS LLC|N19W24400 RIVERWOOD DRIVE|WAUKESHA|WI
+1|ISR INFO WAY INC|559 DONOFRIO DRIVE|MADISON|WI
+1|ISR INFO WAY INC|559 DONOFRIO DR|MADISON|WI
+1|JRSS CORPORATION|202 W VERONA AVENUE|VERONA|WI
+1|JRSS CORPORATION|202 W VERONA AVE|VERONA|WI
+1|KLM DYNAMICS INC|342 N WATER ST|MILWAUKEE|WI
+1|MARCUS SOLUTIONS INC|2365 COLORADO AVE|SUN PRAIRIE|WI
+1|MARS IT CORP|20900 SWENSON DRIVE|WAUKESHA|WI
+1|MARS IT CORP|1433 N WATER ST.|MILWAUKEE|WI
+1|MARS IT CORPORATION D/B/A MARS SOLUTIONS GROUP|20900  SWENSON DRIVE|WAUKESHA|WI
+1|MIRACLES TEK LLC|4811 S 76TH ST|GREENFIELD|WI
+1|NAVIANT HOLDINGS LLC|201 PRAIRIE HEIGHTS DRIVE|VERONA|WI
+1|NIYAMA GLOBAL LLC|20475 HUNTERS CT|BROOKFIELD|WI
+1|ONE STOP GLOBAL SOLUTIONS LLC|342 HALLMARK WAY|SUN PRAIRIE|WI
+1|ONE STOP GLOBAL SOLUTIONS LLC|4726 EAST TOWN BLVD|MADISON|WI
+1|ONE STOP GLOBAL SOLUTIONS LLC|4726 EAST TOWNE BLVD|MADISON|WI
+1|QUINN DAVID & ASSOCIATES LLC|436 NORTH 49TH STREET|MILWAUKEE|WI
+1|QUINN DAVID & ASSOCIATES LLC|923 E KILBOURN AVE|MILWAUKEE|WI
+1|R S INFOCON INC|7071 S 13TH ST|OAK CREEK|WI
+1|RAIS USA INC|6709 RAYMOND ROAD|MADISON|WI
+1|RAIS USA INC|6709 RAYMOND ROAD STE 153 FLR 6709|MADISON|WI
+1|RS INFOCON INC|7071 S 13TH STREET|OAK CREEK|WI
+1|SHIVEX IT SOLUTIONS LLC|1025 S MOORLAND ROAD|BROOKFIELD|WI
+1|SIGNATECH SOLUTIONS LLC|200 S EXECUTIVE DR|BROOKFIELD|WI
+1|SOLITON TECHNOLOGIES INC|10437 INNOVATION DRIVE|WAUWATOSA|WI
+1|SOPHUS IT SOLUTIONS LLC|22525 SE 64TH PL|ISSAQUAH|WI
+1|SUPERIOR SUPPORT RESOURCES INC DBA SSR TOTAL IT|405 NORTH CALHOUN ROAD|BROOKFIELD|WI
+1|SYMPHONY CORPORATION|22 EAST MIFFLIN STREET|MADISON|WI
+1|TECHNOVIZ LLC|8517 EXCELSIOR DRIVE|MADISON|WI
+1|TECHNOVIZ LLC|8517 EXCELSIOR DR|MADISON|WI
+1|THOUGHTFOCUS INC|200 SOUTH EXECUTIVE DRIVE|BROOKFIELD|WI
+1|THOUGHTFOCUS INC|245 SOUTH EXECUTIVE DRIVE|BROOKFIELD|WI
+1|TRISHULLA LLC|6629 UNIVERSITY AVENUE|MIDDLETON|WI
+1|VENNSYS LLC|2307 PARMENTER STREET|MIDDLETON|WI
+1|WALKWATER LLC DBA WALKWATER CONSULTING|3535 S MCINTOSH LN|NEW BERLIN|WI
+1|WHITELIGHT GROUP INC|N14 W24200 TOWER PL.|WAUKESHA|WI
+1|WIPFLI LLP|10000 INNOVATION DRIVE|MILWAUKEE|WI
+1|WISDOM INFOTECH LTD.|18650 W CORPORATE DRIVE|BROOKFIELD|WI
+1|WISDOM INFOTECH LTD.|18650 W. CORPORATE DRIVE|BROOKFIELD|WI
+1|WISSEN DIGITAL INC|2325 PARKLAWN DR,|WAUKESHA|WI
+(83 rows)

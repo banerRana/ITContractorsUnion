@@ -1,254 +1,72 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-7|NYBBLE TEKSOLUTIONS INC|5550 WILD ROSE LANE|SUITE 400|WEST DES MOINES
-7|Westgate Technologies Inc|5550 Wild Rose Lane|Suite 400|West Des Moines
-7|Siri Consultancy Service Inc|5550 Wild Rose Lane|Suite 400|West Des Moines
-7|SREE INFOTECK LLC|5550 Wild Rose Lane|Suite 400|West Des Moines
-7|Nybble TekSolutions Inc|5550 Wild Rose Lane|Suite 400|West Des Moines
-7|Nybble TekSolutions INC|5550 Wild Rose Lane|Suite 400|West Des Moines
-7|Westgate Technologies Inc|5550 Wild Rose Lane|Suite 400|West Desmoines
-7|Sooftworld Technologies LLC|699 Walnut St|STE 400|Des Moines
-7|Softworld Technologies LLC|699 Walnut St|STE 400|Des Moines
-7|Softworld Technologies LLC|699 Walnut St|Suite 400|Des Moines
-7|Softworld technologies LLC|699 Walnut st|STE 400|Des Moines
-7|Softworld Technologies LLC|699 Walnut st|STE 400|Des Moines
-7|Softworld Technologies LLC|699 Walnut st|Suite 400|Des Moines
-7|Softworld Technologies LLC|699 walnut st|STE 400|Des Moines
-5|SIRI CONSULTANCY SERVICE INC|5550 WILD ROSE LN|SUITE 400|WEST DES MOINES
-5|Siri Consultancy Services Inc|5550 Wild Rose Ln|STE 400|Des Moines
-5|Siri Consultancy Services Inc|5550 Wild Rose Ln|SUITE 400|WEST DES MOINES
-5|NYBBLE TEKSOLUTIONS INC|5550 Wild Rose Ln|Suite 400|West DesMoines
-5|Siri Consultancy Services Inc|5550 Wild Rose Ln|Suite 400|Des Moines
-4|MindZone IT Solutions|14225 UNIVERSITY AVENUE|SUITE 114A|WAUKEE
-4|MindZone IT Solutions|14225 University Avenue|Suite 114A|Waukee
-4|MindZone IT Solutions LLC|14225 University Avenue|Suite 114A|Waukee
-4|MindZone IT Solutions|14225 University Avenue|suite 114A|Waukee
-4|QUADYSTER|2535 TECH DR|SUITE 300|BETTENDORF
-4|Quadyster|2535 Tech Dr|STE 300|Bettendorf
-4|Quadyster|2535 Tech Dr|Suite 300|Bettendorf
-4|R3 Uniq Inc|2535 Tech Dr|Suite 300|Bettendorf
-4|E-GIANTS TECHNOLOGIES LLC|4500 WESTOWN PARKWAY|SUITE 115|WEST DES MOINES
-4|E-GIANTS TECHNOLOGIES LLC|4500 WESTOWN PARKWAY|SUITE 155|WEST DES MOINES
-4|E-GIANTS TECHNOLOGIES LLC|4500 Westown Parkway|SUITE 115|West Des Moines
-4|E-GIANTS TECHNOLOGIES LLC|4500 Westown Parkway|Suite 115|West Des Moines
-3|CODEPOD INC|1482 HIGH COUNTRY ROAD||CORALVILLE
-3|CodePod Inc|1482 HIGH COUNTRY ROAD||CORALVILLE
-3|CODEPOD INC|1482 High Country Road||Coralville
-3|Eurofins Microbiology Laboratories Inc|2200 Rittenhouse Street|175|Des Moines
-3|Eurofins Microbiology Laboratories Inc|2200 Rittenhouse Street|STE 175|Des Moines
-3|Eurofins Microbiology Laboratories Inc|2200 Rittenhouse Street|Suite 175|Des Moines
-3|VIDA Diagnostics Inc|2500 Crosspark Road|Suite W250|Coralville
-3|VIDA Diagnostics Inc|2500 Crosspark Road|W250|Coralville
-3|Isoray Medical Inc|2500 Crosspark Road||Coralville
-3|Health Research Institute|505 Dimick Drive|Suite 111|Fairfield
-3|Health Research Institute|505 Dimick Drive||Fairfield
-3|Health Research Institute|505 Dimick Drive||FAIRFIELD
-3|HR GREEN INC|8710 EARHART LANE SW||CEDAR RAPIDS
-3|HR GREEN INC|8710 Earhart Lane SW||Cedar Rapids
-3|HR Green Inc|8710 Earhart Lane SW||Cedar Rapids
-2|Hawthorne Direct LLC|101 North Court Street||Fairfield
-2|Hawthorne Direct|101 North Court Street||Fairfield
-2|ePathUSA Inc|1075 Jordan Creek Parkway|Suite 295|West Des Moines
-2|EPATHUSA Inc|1075 Jordan Creek Parkway|Suite 295|West Des Moines
-2|EnGeniousAg LLC|1111 WOI Road|Room 1028|Ames
-2|EnGeniousAg LLC|1111 WOI Road||Ames
-2|INTELIROUTE TECHNOLOGIES LLC|11302 AURORA AVENUE||URBANDALE
-2|Inteliroute Technologies LLC|11302 Aurora Avenue||Urbandale
-2|AGENCYBLOC LLC|115 E 2ND STREET||CEDAR FALLS
-2|AgencyBloc LLC|115 E 2nd Street||Cedar Falls
-2|DSI Distributing Inc|12010 Ridgemont Drive||Des Moines
-2|DSI Distributing Inc|12010 Ridgemont Drive||Urbandale
-2|American Technology Consulting LLC|12951 University Avenue|Suite 200|Clive
-2|American Technology Consulting LLC|12951 University Avenue|Suite 200B|Clive
-2|CEREBRAL GROUP LLC|1540 HIGH STREET|SUITE 102|DES MOINES
-2|Cerebral Group LLC|1540 High Street|Ste 102|Des Moines
-2|Excel Employment Services LLC|1587 160th Avenue||Diagonal
-2|Excel Testing and Engineering Holdings LLC|1587 160th Avenue||Diagonal
-2|Alaniz LLC|1805 E Washington Street||Mount Pleasant
-2|Alainz LLC|1805 E Washington Street||Mount Pleasant
-2|OPN ARCHITECTS INC|200 5TH AVE SE|SUITE 201|CEDAR RAPIDS
-2|OPN INC|200 5TH AVE SE|SUITE 201|CEDAR RAPIDS
-2|Tax & Accounting Services Inc|200 W Washington Ave||Fairfield
-2|Frederick Swartz & Co., PC|200 W Washington Ave||Fairfield
-2|Stanley Consultants Inc|225 Iowa Avenue|N/A|Muscatine
-2|Stanley Consultants Inc|225 Iowa Avenue||Muscatine
-2|EnSoft Corp.|2625 North Loop Drive|Suite 2580|Ames
-2|EnSoft Corporation|2625 North Loop Drive|Suite 2580|Ames
-2|Heartland Assays LLC|2711 South Loop Drive|Suite 4400|Ames
-2|MTI Biotech Inc|2711 South Loop Drive|Suite 4400|Ames
-2|Workiva Inc|2900 University Blvd||Ames
-2|Workviva Inc|2900 University Blvd||Ames
-2|VRK IT VISION INC|3432 Jersey Ridge Road, Suite 101B|N/A|Davenport
-2|VRK IT VISION INC|3432 Jersey Ridge Road, Suite 101B||Davenport
-2|Community CPA & Associates Inc|3816 Ingersoll Ave||Des Moines
-2|Community CPA and Associates Inc|3816 Ingersoll Ave||Des Moines
-2|Genova Technologies|4250 River Center Ct NE|Suite A|Cedar Rapids
-2|Genova Technologies Inc|4250 River Center Ct NE|Suite A|Cedar Rapids
-2|Quality Consulting Inc|4300 Westown Pkwy.|Suite 150|West Des Moines
-2|Quality Consulting Inc|4300 Westown Pkwy.|Suite 150|W. Des Moines
-2|E-GIANTS TECHNOLOGIES LLC|4500 WESTOWN PKWY.|SUITE 115|WEST DES MOINES
-2|E-GIANTS TECHNOLOGIES LLC|4500 WESTOWN PKWY.||WEST DES MOINES
-2|ITA Group Inc|4600 Westown Parkway||West Des Moines
-2|ITAGroup Inc|4600 Westown Parkway||West Des Moines
-2|Ames IT and Numeric Solutions LLC|510 S 17th Street|STE 102A|Ames
-2|Ames IT and Numeric Solutions LLC|510 S 17th Street|Suite 102A|Ames
-2|INTELIROUTE TECHNOLOGIES LLC|7020 Douglas Ave|SUITE P|URBANDALE
-2|INTELIROUTE TECHNOLOGIES LLC|7020 Douglas Ave|Suite P|URBANDALE
-2|SOFTVERSAL INC|7900 HICKMAN ROAD|SUITE 150|WINDSOR HEIGHTS
-2|Softversal Inc|7900 Hickman Road|Suite 150|Windsor Heights
-1|SKYWALK GLOBAL LLC|100 EAST EUCLID AVE|SUITE 161|DES MOINES
-1|Dreamfox Solutions Inc|1001 Office Park Road, Suite 105||West Des Moines
-1|Businessolver.com Inc|1025 Ashworth Road|Suite 101|West Des Moines
-1|Stallion Technologies LLC|104 E 7th St||Coralville
-1|ePathUSA Inc|1075 Jordan Creek Parkway Ste. 295|Suite 295|West Des Moines
-1|AgWorks LLC|111 W 76th St||Davenport
-1|Aptalogic Inc|1111 Hyland Avenue||Ames
-1|VGM Group Inc|1111 Van Miller Way||Waterloo
-1|MAGNOSOFT TECHNOLOGIES INC|1130 S 93ROAD STREET||WEST DESMONIES
-1|RMH SYSTEMS INC|1130 SE Westbrooke Dr||Waukee
-1|Spinutech LLC|115 E 2nd St||Cedar Falls
-1|QuantCAD LLC|1165 Oakes Dr||Iowa City
-1|Performance Livestock Analytics 2.0 Inc|1185 Noble Ave||Floyd
-1|Leading Tech Solutions LLC|1200 Valley West Dr|Suite 304 20|West Des Moines
-1|Leading Tech Solutions LLC|1200 Valley West Dr.|Suite 304 20|West Des Moines
-1|Tjaden Biosciences LLC|1207 Lucas Avenue||Burlington
-1|WAVE INSURANCE TECHNOLOGIES INC|123 North Main Street|STE 8|Fairfield
-1|ElectraTect Inc|12421 Meredith Dr|Suite 100|Urbandale
-1|Big Top Productions, LTD|130 E 3rd Street|Suite 103|Des Moines
-1|Big Top Productions Inc|130 E. 3rd Street|Suite 103|Des Moines
-1|Channel Fusion Inc|1365 North Center Point Road|Suite B|Hiawatha
-1|Kingland Systems LLC|1401 6th Ave S||Clear Lake
-1|MindZone IT Solutions|14225 University Avenue Suite 114A,||Waukee
-1|Panthera Vax LLC|1509 Jackson Drive||Ames
-1|Rottmann Collier Architects Inc|155 E Market ST|Suite 200|Indianapolis
-1|Koloni Inc|158 Touhy Ct.||Des Plaines
-1|SHOEMAKER CONSULTING ENGINEERS INC|160 HOLIDAY ROAD||CORALVILLE
-1|PIONEER CONSULTING LLC|160 S 68th Street|SUITE 1210|West Des Moines
-1|PIONEER CONSULTING LLC|160 S. 68th Street|SUITE 1210|West Des Moines
-1|Advanced Technologies Group LLC|1601 48th Street|Suite 220|West Des Moines
-1|Advanced Technologies Group LLC|1601 48th Street, Ste 220||West Des Moines
-1|MHCS P.C.|1601 West Lakes Parkway|Suite 300|West Des Moines
-1|TIG Distributing Inc|1702 Rex Ryden Road||Marshalltown
-1|KINETICLOUD INC|1710 94TH STREET|UNIT 35|WEST DES MOINES
-1|Bizrate Insights Inc|1716 Locust St||Des Moines
-1|Sears Manufacturing Company|1718 South Concord Street||Davenport
-1|Advanced Renewable Technology International Inc|1800 Dixon Street|Suite C|Des Moines
-1|ExodusDirect LLC|1825 E Army Post Road||Des Moines
-1|ExodusDirect LLC|1825 East Army Post Road||Des Moines
-1|Horizen Ag Inc|185 NE Coyote Drive||Waukee
-1|GranThor LLC|1900 James Street|8|Coralville
-1|Kemin Industries Inc|1900 Scott Avenue||Des Moines
-1|CDS Global Inc|1901 Bell Avenue||Des Moines
-1|Donatech Corporation|200 West Lowe Avenue|Suite 200|Fairfield
-1|LETTER B LLC|2000 JAMES ST|STE 209|CORALVILLE
-1|EUROFINS FOOD ASSURANCE CERTIFICATION US LLC|2120 Rittenhouse Street|Suite A|Des Moines
-1|Eurofins Microbiology Laboratories Inc|2200 Rittenhouse St.|Suite 175|Des Moines
-1|Craig A McClanahan|2201 Hayes Ave||Ames
-1|Hibu Inc|221 3rd Avenue SE|Suite 300|Cedar Rapids
-1|Neumann Monson Architects Inc|221 East College Street|Suite 303|Iowa City
-1|CAUSEY & YE LAW, P.L.L.C.|2213 Grand Avenue||Des Moines
-1|Shive-Hattery Group Inc|222 3rd Avenue S.E.|Suite 300|Cedar Rapids
-1|Shive-Hattery Group Inc|222 3rd Avenue SE|Suite 300|Cedar Rapids
-1|Shive-Hattery Group Inc|222 Third Avenue SE|Suite 300|Cedar Rapids
-1|SALT Solutions Inc|2231 NW 108th Street||Clive
-1|The Bernard Firm PLC|226 S 3rd St||Ames
-1|The Bernard Firm P.L.C.|226 South 3rd Street||Ames
-1|Viner Law Firm PC|228 2nd St SE||Cedar Rapids
-1|Global Reach Internet Productions LLC|2321 North Loop Drive|Suite 210|Ames
-1|ProPlanner Inc|2321 North Loop Drive Suite 104||Ames
-1|Tiger Analytics Inc|2350 Mission College Boulevard|Suite 495|Santa Clara
-1|Leepfrog Technologies Inc|2451 Oakdale Boulevard|Suite 100|Coralville
-1|SMIRAS TECHNOLOGIES LLC|2461 10th st|Suite 109|Coralville
-1|Proplanner Inc|2500 North Loop Drive|Suite 7502|Ames
-1|Fleming Technical Resources LLC|2500 SE Olson Drive||Waukee
-1|Quadyster|2535 Tech Drive|STE 300|Bettendorf
-1|Joe Desmond CPA PLC|2600 Westown Parkway|Suite 390|West Des Moines
-1|GLOBALVETLINK, L.C.|2604 Northridge Parkway||Ames
-1|PeachPay Inc|2724 Lincoln Way||Ames
-1|Big Temple Solutions|278 S 91st St||West Des Moines
-1|INTELIX SYSTEMS LLC|2800 PIERCE ST|STE 414|SIOUX CITY
-1|InteliX Systems LLC|2800 Pierce St.|STE 414|Sioux City
-1|VIETNAMESE MUTUAL ASSOCIATION INC|2844 SE 8TH ST||Des Moines
-1|Innovative Software Engineering LLC|2850 Coral Court|Ste 100|Coralville
-1|Innovative Software Engineering LLC|2850 Coral Court,|Ste 100|Coralville
-1|SANAV TECHNOLOGIES LLC|2967 100TH ST|SUITE 7|URBANDALE
-1|KCL Engineering|300 4th Street||West Des Moines
-1|Veenstra & Kimm Inc|3000 Westown Pkwy||West Des Moines
-1|RDG Planning & Design Inc|301 Grand Avenue||Des Moines
-1|Octadyne Systems Inc|310 Main Street STE 201||Ames
-1|LETTER B LLC|313 LINDEN LANE||TIFFIN
-1|Enlighten Management Solutions Inc|317 6th Ave|Suite 1040|Des Moines
-1|Enlighten Management Solutions Inc|317 6th Ave, Suite 1040|N/A|Des Moines
-1|Phelan Tucker Law LLP|321 East Market Street||Iowa City
-1|Jones Microbiology Institute INC|335 Beaver Kreek Centre|n/a|North Liberty
-1|GIS MONK INC|3432 JERSEY RIDGE ROAD|SUITE 105|DAVENPORT
-1|InfoWeb Systems Inc|3435 Asbury Road|Suite 175|Dubuque
-1|InfoWeb Systems Inc|3435 Asbury Road, Suite 175||Dubuque
-1|ESCO Electric Company|3450 3rd Street||Marion
-1|IP PATHWAYS LLC|3600 109TH ST.||URBANDALE
-1|Inseer Inc|3701 Whitetail Court NE||Iowa city
-1|Accrete Macro Solutions LLC|4087 Lillian st||Iowa City
-1|Viewpoint Molecular Targeting Inc|4125 Westcor Court||Coralville
-1|NetPrisma Inc|415 1st St. SE||Cedar Rapids
-1|LWBJ, LLP|4200 University Avenue|Suite 410|West Des Moines
-1|Infinite Computing Systems Inc|425 2nd St. SE|Suite 600|Cedar Rapids
-1|Infinite Computing Systems Inc|425 2nd St.SE|Suite 600|Cedar Rapids
-1|Genova Technologies Inc|4250 River Center Ct. NE||Cedar Rapids
-1|Quality Consulting Inc|4300 Westown Parkway|Suite 150|West Des Moines
-1|Riverhead Resources LLC|4400 E. University Avenue||Pleasant Hill
-1|Statistics & Control Inc|4401 Westown Parkway|Suite 124|West Des Moines
-1|LAUNCH IT CORP|4430 NW URBANDALE DRIVE||URBANDALE
-1|E-GIANTS TECHNOLOGIES LLC|4500 WESTON PARKWAY||WEST DES MOINES
-1|Source Allies Inc|4501 NW Urbandale Dr||Urbandale
-1|Source Allies Inc|4501 NW Urbandale Dr.||Urbandale
-1|BSB DESIGN INC|4601 WESTOWN PARKWAY|SUITE 208|WEST DES MOINES
-1|Compressor Controls LLC|4745 121st Street||Des Moines
-1|Sara Plus LLC d.b.a. SARA Plus|4800 Mills Civic Pkwy.|Suite 203|W. Des Moines
-1|Kanap Systems LLC|4949 Pleasant St|Suite 200|West Des Moines
-1|Kanap Systems LLC|4949 Pleasant Street|Suite 200|West Des Moines
-1|Grefe & Sidney, P.L.C.|500 East Court Avenue|Suite 200|Des Moines
-1|Lanware Solutions LLC|500 Locust Street|PMB 151|Des Moines
-1|Owen Industries Inc|501 Avenue H||Carter Lake
-1|Ebmeier Engineering LLC|501 Railroad Avenue|Suite100|Glenwood
-1|FoodChain ID Group Inc|504 N 4th St.|Suite 204|Fairfield
-1|VictoryVR Inc|5200 30th Street SW||Davenport
-1|SPECTACLE SOLUTIONS LLC|5249 North Park Place Northeast|2105|Marion
-1|Confluence Inc|525 17th Street||Des Moines
-1|Modaxo Traffic Management USA Inc|5265 Rockwell Dr NE||Cedar Rapids
-1|Trapeze Software Group|5265 Rockwell Drive NE||Cedar Rapids
-1|Bush Construction Company Inc|5401 Victoria Avenue||Davenport
-1|OMNIVISTA SOLUTIONS INC|5435 NW 100TH STREET|SUITE 100|JOHNSTON
-1|Growers Edge Financial Inc|5435 NW 100th Street, Suite 200||Johnston
-1|Skywalk Global LLC|5548 NW 2nd Street|Suite 104|Des Moines
-1|NYBBLE TEKSOLUTIONS INC|5550 WILD ROSE LANE, SUITE 400||WEST DES MOINES
-1|CreativeM Consulting Services LLC|5550 Wild Rose Ln.|Suite 400|West Des Moines
-1|Pine Creek Group LLC|5705 Wisconsin Ave||Davenport
-1|Regenexx LLC|6151 Thornton Avenue|Suite 400|Des Moines
-1|ITVIAN INC|6165 N.W. 86th STREET|SUITE 100|JOHNSTON
-1|TEKVEDHA SOLUTIONS INC|6165 NW 86TH STREET|SUITE 211|JOHNSTON
-1|CLODATICS INC|6165 Northwest 86th Street|Suite 100|Johnston
-1|KMAR TECH SOLUTIONS INC|620 S DODGE ST||IOWA CITY
-1|SRI-Consulting Services LLC|635 SE Meadow Lark Ln||Waukee
-1|Siri Consultancy Service Inc|6440 EP TRUE PARKWAY|UNIT 3105|West Des Moines
-1|American Technology Consulting LLC|6600 Westown Parkway|Suite 255|West Des Moines
-1|DISTek Integration Inc|6612 Chancellor Dr.|Suite 600|Cedar Falls
-1|DISTek Integration Inc|6612 Chancellor Drive|Suite 600|Cedar Falls
-1|GCommerce Inc|700 Locust St|Suite 201|Des Moines
-1|Noble IT Consulting LLC|700 S Dubuque St||Iowa City
-1|ITA Group Inc|7000 Vista Drive||West Des Moines
-1|INTELIROUTE TECHNOLOGIES LLC|7020 DOUGLAS AVENUE|SUITE P|URBANDALE
-1|AwoiSolutions LLC|755 NE Badger Ln||Waukee
-1|CONCAT SYSTEMS INC|7743 DOUGLAS AVE||URBANDALE
-1|Lumina Industries Inc|7821 NW 96th Street||Johnston
-1|Malum Inc|808 5th Street|Suite 500|Coralville
-1|Circle Computer Resources Inc|845 Capital Drive SW||Cedar Rapids
-1|Granular Inc|8700 Crescent Chase||Johnston
-1|DESIGN ENGINEERS, P.C.|8801 PRAIRIE VIEW LN SW|SUITE 200|CEDAR RAPIDS
-1|Impact7G Inc|8951 Windsor Parkway||Johnston
-1|Ragi Solutions INC|8980 Hickman road Suite 214||Clive
-1|Invision Architecture LLC|900 Mulberry St||Des Moines
-1|Phantom EFX LLC|900 Technology Parkway|Suite 300|Cedar Falls
-1|Dwolla Inc|909 Locust|Suite 201|Des Moines
-1|TPR Enterprises LLC|909 Locust Street|Suite 202|Des Moines
-1|Schuring & Uitermarkt, P.C.|916 West 16th Street||Pella
-1|EXEMPLAR GENETICS LLC|958 N MAIN AVENUE||SIOUX CENTER
-(252 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+5|NYBBLE TEKSOLUTIONS INC|5550 WILD ROSE LANE|WEST DES MOINES|IA
+5|SIRI CONSULTANCY SERVICE INC|5550 WILD ROSE LANE|WEST DES MOINES|IA
+5|SREE INFOTECK LLC|5550 WILD ROSE LANE|WEST DES MOINES|IA
+5|WESTGATE TECHNOLOGIES INC|5550 WILD ROSE LANE|WEST DES MOINES|IA
+5|WESTGATE TECHNOLOGIES INC|5550 WILD ROSE LANE|WEST DESMOINES|IA
+3|NYBBLE TEKSOLUTIONS INC|5550 WILD ROSE LN|WEST DESMOINES|IA
+3|SIRI CONSULTANCY SERVICE INC|5550 WILD ROSE LN|WEST DES MOINES|IA
+3|SIRI CONSULTANCY SERVICES INC|5550 WILD ROSE LN|DES MOINES|IA
+2|MINDZONE IT SOLUTIONS|14225 UNIVERSITY AVENUE|WAUKEE|IA
+2|MINDZONE IT SOLUTIONS LLC|14225 UNIVERSITY AVENUE|WAUKEE|IA
+2|QUADYSTER|2535 TECH DR|BETTENDORF|IA
+2|R3 UNIQ INC|2535 TECH DR|BETTENDORF|IA
+2|SOFTWORLD TECHNOLOGIES LLC|699 WALNUT ST|DES MOINES|IA
+2|SOOFTWORLD TECHNOLOGIES LLC|699 WALNUT ST|DES MOINES|IA
+1|AMERICAN TECHNOLOGY CONSULTING LLC|6600 WESTOWN PARKWAY|WEST DES MOINES|IA
+1|AMERICAN TECHNOLOGY CONSULTING LLC|12951 UNIVERSITY AVENUE|CLIVE|IA
+1|AMES IT AND NUMERIC SOLUTIONS LLC|510 S 17TH STREET|AMES|IA
+1|AWOISOLUTIONS LLC|755 NE BADGER LN|WAUKEE|IA
+1|CEREBRAL GROUP LLC|1540 HIGH STREET|DES MOINES|IA
+1|CLODATICS INC|6165 NORTHWEST 86TH STREET|JOHNSTON|IA
+1|CONCAT SYSTEMS INC|7743 DOUGLAS AVE|URBANDALE|IA
+1|DISTEK INTEGRATION INC|6612 CHANCELLOR DRIVE|CEDAR FALLS|IA
+1|DONATECH CORPORATION|200 WEST LOWE AVENUE|FAIRFIELD|IA
+1|DREAMFOX SOLUTIONS INC|1001 OFFICE PARK ROAD, SUITE 105|WEST DES MOINES|IA
+1|E-GIANTS TECHNOLOGIES LLC|4500 WESTOWN PARKWAY|WEST DES MOINES|IA
+1|E-GIANTS TECHNOLOGIES LLC|4500 WESTON PARKWAY|WEST DES MOINES|IA
+1|E-GIANTS TECHNOLOGIES LLC|4500 WESTOWN PKWY.|WEST DES MOINES|IA
+1|ENLIGHTEN MANAGEMENT SOLUTIONS INC|317 6TH AVE, SUITE 1040|DES MOINES|IA
+1|ENLIGHTEN MANAGEMENT SOLUTIONS INC|317 6TH AVE|DES MOINES|IA
+1|EPATHUSA INC|1075 JORDAN CREEK PARKWAY STE. 295|WEST DES MOINES|IA
+1|EPATHUSA INC|1075 JORDAN CREEK PARKWAY|WEST DES MOINES|IA
+1|FLEMING TECHNICAL RESOURCES LLC|2500 SE OLSON DRIVE|WAUKEE|IA
+1|GENOVA TECHNOLOGIES INC|4250 RIVER CENTER CT. NE|CEDAR RAPIDS|IA
+1|GIS MONK INC|3432 JERSEY RIDGE ROAD|DAVENPORT|IA
+1|INFINITE COMPUTING SYSTEMS INC|425 2ND ST.SE|CEDAR RAPIDS|IA
+1|INFINITE COMPUTING SYSTEMS INC|425 2ND ST. SE|CEDAR RAPIDS|IA
+1|INFOWEB SYSTEMS INC|3435 ASBURY ROAD|DUBUQUE|IA
+1|INTELIROUTE TECHNOLOGIES LLC|11302 AURORA AVENUE|URBANDALE|IA
+1|INTELIROUTE TECHNOLOGIES LLC|7020 DOUGLAS AVE|URBANDALE|IA
+1|INTELIROUTE TECHNOLOGIES LLC|7020 DOUGLAS AVENUE|URBANDALE|IA
+1|INTELIX SYSTEMS LLC|2800 PIERCE ST|SIOUX CITY|IA
+1|ITVIAN INC|6165 N.W. 86TH STREET|JOHNSTON|IA
+1|KANAP SYSTEMS LLC|4949 PLEASANT STREET|WEST DES MOINES|IA
+1|KANAP SYSTEMS LLC|4949 PLEASANT ST|WEST DES MOINES|IA
+1|KCL ENGINEERING|300 4TH STREET|WEST DES MOINES|IA
+1|KMAR TECH SOLUTIONS INC|620 S DODGE ST|IOWA CITY|IA
+1|LAUNCH IT CORP|4430 NW URBANDALE DRIVE|URBANDALE|IA
+1|LEADING TECH SOLUTIONS LLC|1200 VALLEY WEST DR.|WEST DES MOINES|IA
+1|LEADING TECH SOLUTIONS LLC|1200 VALLEY WEST DR|WEST DES MOINES|IA
+1|MAGNOSOFT TECHNOLOGIES INC|1130 S 93RD STREET|WEST DESMONIES|IA
+1|MINDZONE IT SOLUTIONS|14225 UNIVERSITY AVENUE SUITE 114A,|WAUKEE|IA
+1|NOBLE IT CONSULTING LLC|700 S DUBUQUE ST|IOWA CITY|IA
+1|NYBBLE TEKSOLUTIONS INC|5550 WILD ROSE LANE, SUITE 400|WEST DES MOINES|IA
+1|PIONEER CONSULTING LLC|160 S. 68TH STREET|WEST DES MOINES|IA
+1|PIONEER CONSULTING LLC|160 S 68TH STREET|WEST DES MOINES|IA
+1|QUALITY CONSULTING INC|4300 WESTOWN PKWY.|W. DES MOINES|IA
+1|QUALITY CONSULTING INC|4300 WESTOWN PARKWAY|WEST DES MOINES|IA
+1|RAGI SOLUTIONS INC|8980 HICKMAN ROAD SUITE 214|CLIVE|IA
+1|RIVERHEAD RESOURCES LLC|4400 E. UNIVERSITY AVENUE|PLEASANT HILL|IA
+1|SANAV TECHNOLOGIES LLC|2967 100TH ST|URBANDALE|IA
+1|SIRI CONSULTANCY SERVICE INC|6440 EP TRUE PARKWAY|WEST DES MOINES|IA
+1|SKYWALK GLOBAL LLC|100 EAST EUCLID AVE|DES MOINES|IA
+1|SKYWALK GLOBAL LLC|5548 NW 2ND STREET|DES MOINES|IA
+1|SMIRAS TECHNOLOGIES LLC|2461 10TH ST|CORALVILLE|IA
+1|SOFTVERSAL INC|7900 HICKMAN ROAD|WINDSOR HEIGHTS|IA
+1|SRI-CONSULTING SERVICES LLC|635 SE MEADOW LARK LN|WAUKEE|IA
+1|STALLION TECHNOLOGIES LLC|104 E 7TH ST|CORALVILLE|IA
+1|VEENSTRA & KIMM INC|3000 WESTOWN PKWY|WEST DES MOINES|IA
+1|VICTORYVR INC|5200 30TH STREET SW|DAVENPORT|IA
+1|VRK IT VISION INC|3432 JERSEY RIDGE ROAD, SUITE 101B|DAVENPORT|IA
+(70 rows)

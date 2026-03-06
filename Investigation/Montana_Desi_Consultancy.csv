@@ -1,47 +1,8 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-2|Alosant Inc|109 East Oak Street|Suite 3D|Bozeman
-2|Alosant Inc|109 East Oak Street||Bozeman
-2|Season Share Inc|280 W Kagy Blvd|STE D 319|Bozeman
-2|Advisr Inc|280 W Kagy Blvd|Ste D 206|Bozeman
-2|Fort Belknap Planning adn Development Corporation|353 Old Hays Road||Hays
-2|Fort Belknap Planning and Development Corporation|353 Old Hays Road||Hays
-2|FAIR ISAAC CORPORATION|5 West Mendenhall, STE 105 & 201||Bozeman
-2|Fair Isaac Corporation|5 West Mendenhall, STE 105 & 201||Bozeman
-1|ClassPass LLC|101 E Front Street|Suite 501|Missoula
-1|LUMENAD INC|111 N. HIGGINS AVENUE|SUITE 500|MISSOULA
-1|WGM Group Inc|1111 E Broadway St.||Missoula
-1|Inimmune Corporation|1121 E. Broadway, Suite 121||Missoula
-1|Miller-Roodell Architects|113 East Oak Street|Suite 2A|Bozeman
-1|SIMBIOTIC SOFTWARE INC|1280 SOUTH 3ROAD ST WEST||MISSOULA
-1|SUMMIT ENERGY GROUP LLC|129 VILLAGE DR UNIT 102||BELGRADE
-1|Summit Energy Group LLC|129 Village Drive|Suite 102|Belgrade
-1|Engineering Inc|1300 North Transtech Way||Billings
-1|TANA SYSTEMS INC|1576 MT HWY 434|THE WHISPER RANCH|WOLF CREEK
-1|Reid Smith Architects Inc|212 S. Tracy Avenue||Bozeman
-1|Advisr Inc|2177 Triple Tree Road||Bozeman
-1|HGFA Architects PLLC|222 North 32nd Street|Suite 800|Billings
-1|Skyland Innovations. Inc|2430 N 7th Ave|Suite 4|Bozeman
-1|Morlogic Inc|2500 Packard Street|Suite 201|Ann Arbor
-1|Satya Soft Solutions LLC|2501 S COUNTRY CLUB DR||JEFFERSON CTY
-1|Advanced Material Solutions LLC|2920 South Garfield||Missoula
-1|Rhithron Associates Inc|33 Fort Missoula Road||Missoula
-1|Agrological Solutions Inc|33026 road 130N||havre
-1|Electrical Consultants Inc|3521 Gabel Road||Billings
-1|STAHLY ENGINEERING & ASSOCIATES|3530 CENTENNIAL DRIVE||HELENA
-1|Owl Research Institute|35490 Ninepipe Ln||Charlo
-1|Atrium Insight Inc|4055 Valley Commons Dr.|Suite D|Bozeman
-1|Atrium Insight Inc|4055 Valley Commons Drive|Suite D|Bozeman
-1|Sokn Engineering Inc|5098 Hwy 93 South||Whitefish
-1|WVP OF MONTANA PC|5950 US HWY 93 SOUTH||MISSOULA
-1|Indian Law Resource Center|602 North Ewing Street||Helena
-1|Stillwater Laboratories Inc|6073 US-93 Highway North||Olney
-1|Drover Inc|623 Curley Bear Road||Big Sky
-1|Whitefish Animal Hospital PC|713 E.13th St.||Whitefish
-1|WHITEFISH ANIMAL HOSPITAL PC|713 EAST 13TH STREET||WHITEFISH
-1|Bigfork Animal Hospital PC|7575 MT Hwy 35||Bigfork
-1|BIGFORK ANIMAL HOSPITAL PC|7575 MT. HWY 35||BIGFORK
-1|Bloomifai LLC|911 Wisconsin Avenue|Suite 101/102|Whitefish
-1|Neuro-ID Inc|911 Wisconsin Avenue, Suite 203||Whitefish
-1|BOZEMAN DEACONESS HEALTH SERVICES|915 Highland Blvd||Bozeman
-1|TANA SYSTEMS INC|THE WHISPER RANCH|1576 MT HWY 434|WOLF CREEK
-(45 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+1|INDIAN LAW RESOURCE CENTER|602 NORTH EWING STREET|HELENA|MT
+1|MORLOGIC INC|2500 PACKARD STREET|ANN ARBOR|MT
+1|SATYA SOFT SOLUTIONS LLC|2501 S COUNTRY CLUB DR|JEFFERSON CTY|MT
+1|SUMMIT ENERGY GROUP LLC|129 VILLAGE DR UNIT 102|BELGRADE|MT
+1|TANA SYSTEMS INC|1576 MT HWY 434|WOLF CREEK|MT
+1|TANA SYSTEMS INC|THE WHISPER RANCH|WOLF CREEK|MT
+(6 rows)

@@ -1,214 +1,70 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-19|HDR Architecture Inc|1917 South 67th Street||Omahah
-19|Henningson, Durham & Richardson of Penn. Archs. & Engrs. P.C.|1917 South 67th Street||Omaha
-19|Henningson, Durham & Richardson, PC|1917 South 67th Street||Omaha
-19|Henningson, Durham & Richardson of Penn, Archs. & Engrs. P.C.|1917 South 67th Street||Omaha
-19|Henningson, Durham & Richardson of Penn Archs. & Engrs. P.C.|1917 South 67th Street||Omaha
-19|HDR Architecture Inc|1917 South 67th Street||Omaha
-19|Henningson, Durham & Richardson of Penn., Archs. & Engrs., P.C.|1917 South 67th Street||Omaha
-19|HDr Architecture Inc|1917 South 67th Street||Omaha
-19|HDR Michigan Inc|1917 South 67th Street||Omaha
-19|HDR Inc|1917 South 67th Street||Omaha
-19|HDR Engineering, inc.|1917 South 67th Street||Omaha
-19|HDR Engineering Inc of the Carolinas|1917 South 67th Street||Omaha
-19|HDR Engineering Inc|1917 South 67th Street||Omaha
-19|HDR Corporate Services Inc|1917 South 67th Street||Omaha
-19|HDR Construction Control Corporation|1917 South 67th Street||Omaha
-19|HDR Architects and Engineers, PC|1917 South 67th Street||Omaha
-19|HDR Architects & Engineers, PC|1917 South 67th Street||Omaha
-19|City Point Partners LLC|1917 South 67th Street||Omaha
-19|HDR Architecture Inc|1917 south 67th Street||Omaha
-11|TRACEMATRIX TECHNOLOGIES LLC|1408 FORT CROOK ROAD||BELLEVUE
-11|TOPROW RESOURCES|1408 FORT CROOK ROAD||BELLEVUE
-11|TNEXTSYSTEMS LLC|1408 FORT CROOK ROAD||BELLEVUE
-11|STACKLE LLC|1408 FORT CROOK ROAD||BELLEVUE
-11|DIGITALDRIP LLC|1408 FORT CROOK ROAD||BELLEVUE
-11|DATADEX SYSTEMS|1408 FORT CROOK ROAD||BELLEVUE
-11|VERTEXPIRE LLC|1408 FORT CROOK ROAD||BELLEVUE
-11|SELOGIX SERVICES LLC|1408 FORT CROOK ROAD||BELLEVUE
-11|NEXTILE TECHNOLOGIES LLC|1408 FORT CROOK ROAD||BELLEVUE
-11|CRYSTAL ANALYTICS LLC|1408 FORT CROOK ROAD||BELLEVUE
-11|DATAREK SERVICES LLC|1408 FORT CROOK ROAD||BELLEVUE
-6|CLOUD BIG DATA TECHOLOGIES|639 S LOCUST ST|SUITE 101|GRAND ISLAND
-6|CLOUD BIG DATA TECHNOLOGIES LLC|639 S LOCUST ST|SUITE 101|GRAND ISLAND
-6|ROBOTIC PROCESS AUTOMATION LLC|639 S LOCUST ST|SUITE 103|GRAND ISLAND
-6|MACHINE LEARNING TECHNOLOGIES LLC|639 S LOCUST ST|SUITE 105|GRAND ISLAND
-6|ARTIFINT TECHNOLOGIES LLC|639 S LOCUST ST|SUITE 107|GRAND ISLAND
-6|AMERICAN TECHNOLOGY GROUP LLC|639 S LOCUST ST|SUITE 115|GRAND ISLAND
-4|ROBOTICS TECHNOLOGIES LLC|110 E C ST|SUITE 101|MCCOOK
-4|ARTIFICIAL INTELLIGENCE TECHNOLOGIES LLC|110 E C ST|SUITE 103|MCCOOK
-4|DATA SCIENCE TECHNOLOGIES LLC|110 E C ST|SUITE 201|MCCOOK
-4|CLOUD HYBRID TECHNOLOGIES LLC|110 E C ST|SUITE 203|MCCOOK
-4|SOHANIT INC|11414 W CENTER ROAD|SUITE 233|OMAHA
-4|Sohanit INC|11414 W CENTER ROAD||OMAHA
-4|TANGLE SYSTEMS LLC|11414 W Center Road|Ste 235|Omaha
-4|Tangle Systems LLC|11414 W Center Road|Ste 235|Omaha
-4|DIGITAL TECHNOLOGIES LLC|640 S PINE ST|SUITE 109|GRAND ISLAND
-4|BLOCKCHAIN TECHNOLOGIES LLC|640 S PINE ST|SUITE 111|GRAND ISLAND
-4|VCLOUD TECHNOLOGY GROUP LLC|640 S PINE ST|SUITE 113|GRAND ISLAND
-4|SUNRISE TECHNOLOGIES LLC|640 S PINE ST|SUITE 117|GRAND ISLAND
-3|Apex Informatics LLC|11605 WEST DODGE ROAD|Suite 3|OMAHA
-3|Apex Informatics LLC|11605 WEST DODGE ROAD|Suite 3|Omaha
-3|Apex Informatics LLC|11605 West Dodge ROAD|Suite 3|Omaha
-3|Captive Software Solutions Inc|1299 Farnam Street|Suite 300|OMAHA
-3|Captive Software Solutions Inc|1299 Farnam Street|Suite 300|Omaha
-3|Midwest Global Solutions LLC|1299 Farnam Street|The Old Market, Suite 300|Omaha
-3|MarketSphere Group LLC|14301 FNB Parkway|305|Omaha
-3|Codapt Technologies Inc|14301 FNB Parkway|STE 100|Omaha
-3|Sohanit INC|14301 FNB Parkway|Suite 100|OMAHA
-3|Aloft Technologies LLC|15808 W Dodge Road|STE 200|Omaha
-3|Aloft Technologies LLC|15808 W Dodge Road|Ste 200|Omaha
-3|Aloft Technologies LLC|15808 W Dodge Road|Suite 200|Omaha
-3|Olsson Inc|601 P Street|Ste 200|Lincoln
-3|Olsson Associates|601 P Street|Suite 200|Lincoln
-3|Olsson Inc|601 P Street|Suite 200|Lincoln
-2|BGIN Management LLC|110 Ida St||Omaha
-2|Bgin Management LLC|110 Ida St||Omaha
-2|Intrado Corporation|11650 Miracle Hills Drive||Omaha
-2|West Technology Group LLC|11650 Miracle Hills Drive||Omaha
-2|M & D Information Systems Inc|12020 Shamrock Plaza|Suite 200|Omaha
-2|The MSR Group Inc|12020 Shamrock Plaza|Suite 200 PMB 97953|Omaha
-2|Bailey Lauerman & Associates Inc|1299 Farnam St.|Flr. 9|Omaha
-2|Captive Software Solutions Inc|1299 Farnam St.|Suite 300|Omaha
-2|Kiewit Energy Group Inc|1550 Mike Fahey Street||Omaha
-2|Kiewit Engineering Group Inc|1550 Mike Fahey Street||Omaha
-2|Kutak Rock, LLP|1650 FARNAM STREET|THE OMAHA BUILDING|OMAHA
-2|Kutak Rock LLP|1650 Farnam Street||Omaha
-2|T5 Technologies Inc|18419 Lake ST||Elkhorn
-2|T5 Technologies Inc|18419 Lake St||Elkhorn
-2|3D TECHNOLOGIES LLC|208 E 1ST ST|SUITE 101|MCCOOK
-2|MACHINE INTELLIGENCE TECHNOLOGIES LLC|208 E 1ST ST|SUITE 103|MCCOOK
-2|ProKarma Inc|222 S 15th ST.|SUITE 505N|OMAHA
-2|ProKarma Inc|222 S 15th St.|Suite 505N|Omaha
-2|Elster American Meter Company LLC|2221 Industrial Road||Nebraska City
-2|Elster American Meter Co. LLC|2221 Industrial Road||Nebraska City
-2|Manos USA LLC|233 N. 8th Street|Suite 300|Lincoln
-2|Aspire USA LLC|233 N. 8th Street|Suite 400|Lincoln
-2|Apex Informatics LLC|3000 Farnam St|Suite 6 East|Omaha
-2|Apex Informatics LLC|3000 Farnam st|Suite 6 East|omaha
-2|Schnackel Engineers Inc|3035 S 72nd Street||Omaha
-2|Schnakel Engineers Inc|3035 S 72nd Street||Omaha
-2|Captive Software Solutions Inc|4009 S 36TH AVE||Omaha
-2|Captive Software Solutions Inc|4009 S 36TH AVE||OMAHA
-2|Team Software LLC|407 South 27th Avenue||Omaha
-2|Team Financial Management Systems Inc|407 South 27th Avenue||Omaha
-2|BVH Architecture|440 North 8th Street||Lincoln
-2|Bahr Vermeer & Haecker, Architects, Ltd|440 North 8th Street||Lincoln
-2|DLR Group Inc|6457 Frances Street|Suite 200|Omaha
-2|DLR Group Inc|6457 Frances Street||Omaha
-2|Lockwood, Andrews & Newnam Inc|8600 Indian Hills Drive||Omaha
-2|Leo A Daly|8600 Indian Hills Drive||Omaha
-2|Banyan Medical Systems LLC|8701 F Street||Omaha
-2|Banyan Medical Solutions LLC|8701 F Street||Omaha
-2|NTT Security (US) Inc|9420 UNDERWOOD AVENUE||Omaha
-2|NTT Security (US) Inc|9420 Underwood Avenue||Omaha
-1|Ecolane USA Inc|10008 S. 163rd Avenue||Omaha
-1|Gallup Inc|1001 Gallup Drive||Omaha
-1|ConsumerBase LLC|1001 N. Fort Crook Road, Suite 150L||Bellevue
-1|Consolidated Consulting Inc|1005 Woodcrest Dr||Norfolk
-1|Medical Solutions LLC|1010 N. 102nd Street|Suite 300|Omaha
-1|C & A Industries LLC|1010 North 102nd Street|Suite 300|Omaha
-1|Beringer Ciaccio Dennell Mabrey Inc|1015 North 98th Street||Omaha
-1|Specialized Engineering Solutions Inc|10360 Ellison Circle||Omaha
-1|ProAg Bankware Technologies Inc|10415 J Street|Suite 100|Omaha
-1|WEX Health Inc|10825 Farnam Drive|Suite 400|Omaha
-1|CFO Systems LLC|10832 Old Mill Road|Suite 2|Omaha
-1|Anderson Eco Services LLC|1120 Cottonwood Road||crawford
-1|ELECTION SYSTEMS & SOFTWARE LLC|11208 JOHN GALT BLVD||OMAHA
-1|The MSR Group Inc|1121 N 102 nd Court   204||Omaha
-1|The MSR Group Inc|1121 N 102 nd Court  100||Omaha
-1|Koley Jessen P.C., L.L.O.|1125 South 103rd Street|Suite 800|Omaha
-1|ILAP SYSTEMS INC|11511 S 42ND ST||BELLEVUE
-1|The Strawhecker Group LLC|11605 Miracle Hills Drive|Suite 302|Omaha
-1|Distribution Management Systems Inc|11650 Miracle Hills Dr|Ste 100|Omaha
-1|Intrado Corporation|11808 Miracle Hills Drive||Omaha
-1|Holland Basham Architects|119 South 49th Ave||Omaha
-1|RO Youker Inc|1201 O Street|Suite 310|Lincoln
-1|Capstone IT Inc|12120 Shamrock Plaza|Suite 200|Omaha
-1|Capstone IT Inc|12120 Shamrock Plaza, Suite 200||Omaha
-1|Farris Engineering Inc|12700 West Dodge Road||Omaha
-1|Captive Software Solutions Inc|1299 FARNAM ST|SUITE 300|OMAHA
-1|RDG Planning & Design Inc|1302 Howard Street||Omaha
-1|ARMALA ENTERPRISES LLC|133 S 211th||Elkhorn
-1|SARKIT INC|13520 DISCOVERY DR|STE 121|OMAHA
-1|SARKIT INC|13520 DISCOVERY DR.|SUITE 121|OMAHA
-1|Sarkit Inc|13520 Discovery Drive|Suite 121|Omaha
-1|Midwest Global Solutions LLC|13548 Discovery Dr|Suite B|Omaha
-1|TECHNOCRATIC INC|13750 MILLAROAD AVE||OMAHA
-1|Franchise Fastlane LLC|14301 FNB Pkwy|Suite 312|Omaha
-1|Center for Rural Affiars|145 Main Street|PO BOX 136|Lyons
-1|Lamp Rynearson Inc|14710 West Dodge Road|Suite 100|Omaha
-1|SpaceVibes Inc|151 N 8th Street, 5th Floor||Lincoln
-1|Exodus Movement Inc|15418 Weir Street|333|Omaha
-1|Hemisphere Talent Solutions LLC|16949 Lakeside Hills Plz||Omaha
-1|Distribution Management Systems Inc|17002 Marcy Street||Omaha
-1|Cole Information Services Inc|17041 Lakeside Hills Plaza|Suite 2|Omaha
-1|HDR Architects and Engineers, PC|1917  South 67th Street||Omaha
-1|HDR Architecture Inc|1917 South 17th Street||Omaha
-1|Lange Structural Group LLC|1919 South 40th Street|Suite 302|Lincoln
-1|Captive Software Solutions Inc|199 Farnam Street|Suite 300|Omaha
-1|Aspire USA LLC|201 N. 8th Street|Suite 400|Lincoln
-1|Marble Inc|2021 Transformation Dr|Suite 1250|Lincoln
-1|Marble Inc|2021 Transformation Dr.|Suite 1250|Lincoln
-1|Easyway International LLC|20379 Patton Street||Gretna
-1|Legal Aid of Nebraska|209 S. 19th Street|Suite 200|Omaha
-1|QUANTUM TECHNOLOGIES LLC|210 E 1ST|SUITE 107|MCCOOK
-1|AUTOMATION TECHNOLOGIES LLC|210 E 1ST ST|SUITE 105|MCCOOK
-1|GRADESTAFFING LLC|2120  Street||OMAHA
-1|GRADESTAFFING LLC|2120 Street||OMAHA
-1|I soft Data Systems Inc|2124 Y St||Lincoln
-1|CODEMINDS LLC|2125 TRANSFORMATION DR||LINCOLN
-1|ProKarma Inc|222 S 15th St|Suite 505N|Omaha
-1|ProKarma Inc|222 S 15th Street|Suite 505N|Omaha
-1|Q.A. Technologies Inc|222 S. 15th Street, Suite 405N||Omaha
-1|ProKarma Inc|222 South 15th St.|Suite 501N|Omaha
-1|ASSOCIATED ENGINEERING INC|2705 North Main Street||Elkhorn
-1|BranchPattern Inc|2820 N. 48th Street||Lincoln
-1|KPI Ninja Inc|2900 S 70th St|Ste 260|Lincoln
-1|KPI Ninja Inc|2900 S 70th Street|Suite 260|Lincoln
-1|CompanyCam Inc|300 Canopy St.|Suite 200|Lincoln
-1|Schnackel Engineers Inc|3035 South 72nd Street||Omaha
-1|Kasaby & Nicholls LLC|308 S 19th St||Omaha
-1|EXEVCONSULTING INC|310 REGENCY PKWY DR||OMAHA
-1|Viridis Chemical Payroll LLC|3309 E. 8th St.||Columbus
-1|DESIGN DATA CORPORATION|3401 Village Drive|Suite 110|LINCOLN
-1|ITEDGE SYSTEMS INC|3512 SAMSON WAY||BELLEVUE
-1|Todata Analytics LLC|3555 Farnam Street|Suite 303|Omaha
-1|StraightEdge Innovations LLC|356 N 76th St||Omaha
-1|Signetik LLC|3833 South 14th Street||Lincoln
-1|GIS Workshop LLC|3905 South 148th St.|Suite 200|Omaha
-1|SARKIT INC|3913 S 184th ST||OMAHA
-1|Sarkit Inc|3913 South 184th Street||Omaha
-1|PERCEPTIMED INC|3929 Harney Street|Suite 3099C|Omaha
-1|Ward Laboratories Inc|4007 Cherry Ave||Kearney
-1|Ward Laboratories Inc|4007 Cherry Avenue||Kearney
-1|Boldly Go Philanthropy LLC|4011 South 176th Circle||Omaha
-1|SOHANIT INC|4309 N 175th Ave|NA|Omaha
-1|KEYWEB TECHNOLOGIES LLC|4435 O ST||LINCOLN
-1|LI-COR Inc|4647 Superior Street||Lincoln
-1|NCEE Labs Inc|4740 DISCOVERY DRIVE|N/A|LINCOLN
-1|Pesek Law LLC|4826 S 24th Street||Omaha
-1|Exigent Resolutions Inc|5062 S 108TH Street|Suite 210|Omaha
-1|Exigent Resolutions Inc|5062 S 108th St|Ste 210|Omaha
-1|Exigent Resolutions Inc|5062 S. 108th Street|Suite 210|Omaha
-1|Exigent Resolutions Inc|5062 South 108th St.|Suite 210|Omaha
-1|National Research Corporation|5601 S. 59th St.|Suite A1|Lincoln
-1|National Research Corporation|5601 South 59th Street|Suite A1|Lincoln
-1|DataSiri LLC|5603 S 164th St||Omaha
-1|Agile Sports Technologies Inc|600 P Street|Suite 400|Lincoln
-1|Olsson Inc|601 P. Street|Ste 200|Lincoln
-1|Jaeger Corporation|6012 Country Club Oaks Place||Omaha
-1|ACI Worldwide Corp.|6060 Coventry Drive||Elkhorn
-1|DLR Group Inc|6457 FRANCES ST|STE 200|Omaha
-1|HECTOLOGIC LLC|6464 CENTER ST||OMAHA
-1|AUCTUSIQ LLC|6600 Cumberland Drive||Lincoln
-1|Communication Systems Solutions Inc|665 Research Drive||Lincoln
-1|Building Energy Solutions & Technology Inc|6916 North 97th Circle|Building B, Suite J|Omaha
-1|Nebraska Furniture Mart Inc|700 South 72nd Street||Omaha
-1|American Agricultural Laboratory Inc|700 W D Street||McCook
-1|Brown Immigration Law P.C., L.L.O.|8001 S. 13th Street||Lincoln
-1|HCI Real Estate Company|818 St. Augutines Drive||Winnebago
-1|ELSTER SOLUTIONS LLC|855 S MINT ST||CHARLOTTE
-1|DataSiri LLC|Landmark Center, 1299 Farnam Street,|SUITE 300|OMAHA
-1|Talent Plus Inc|One Talent Plus Way||Lincoln
-(212 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+11|CRYSTAL ANALYTICS LLC|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|DATADEX SYSTEMS|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|DATAREK SERVICES LLC|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|DIGITALDRIP LLC|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|NEXTILE TECHNOLOGIES LLC|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|SELOGIX SERVICES LLC|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|STACKLE LLC|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|TNEXTSYSTEMS LLC|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|TOPROW RESOURCES|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|TRACEMATRIX TECHNOLOGIES LLC|1408 FORT CROOK ROAD|BELLEVUE|NE
+11|VERTEXPIRE LLC|1408 FORT CROOK ROAD|BELLEVUE|NE
+5|AMERICAN TECHNOLOGY GROUP LLC|639 S LOCUST ST|GRAND ISLAND|NE
+5|ARTIFINT TECHNOLOGIES LLC|639 S LOCUST ST|GRAND ISLAND|NE
+5|CLOUD BIG DATA TECHNOLOGIES LLC|639 S LOCUST ST|GRAND ISLAND|NE
+5|MACHINE LEARNING TECHNOLOGIES LLC|639 S LOCUST ST|GRAND ISLAND|NE
+5|ROBOTIC PROCESS AUTOMATION LLC|639 S LOCUST ST|GRAND ISLAND|NE
+4|ARTIFICIAL INTELLIGENCE TECHNOLOGIES LLC|110 E C ST|MCCOOK|NE
+4|BLOCKCHAIN TECHNOLOGIES LLC|640 S PINE ST|GRAND ISLAND|NE
+4|CLOUD HYBRID TECHNOLOGIES LLC|110 E C ST|MCCOOK|NE
+4|DATA SCIENCE TECHNOLOGIES LLC|110 E C ST|MCCOOK|NE
+4|DIGITAL TECHNOLOGIES LLC|640 S PINE ST|GRAND ISLAND|NE
+4|ROBOTICS TECHNOLOGIES LLC|110 E C ST|MCCOOK|NE
+4|SUNRISE TECHNOLOGIES LLC|640 S PINE ST|GRAND ISLAND|NE
+4|VCLOUD TECHNOLOGY GROUP LLC|640 S PINE ST|GRAND ISLAND|NE
+3|HDR CONSTRUCTION CONTROL CORPORATION|1917 SOUTH 67TH STREET|OMAHA|NE
+3|HDR ENGINEERING INC|1917 SOUTH 67TH STREET|OMAHA|NE
+3|HENNINGSON DURHAM & RICHARDSON PC|1917 SOUTH 67TH STREET|OMAHA|NE
+2|3D TECHNOLOGIES LLC|208 E 1ST ST|MCCOOK|NE
+2|M & D INFORMATION SYSTEMS INC|12020 SHAMROCK PLAZA|OMAHA|NE
+2|MACHINE INTELLIGENCE TECHNOLOGIES LLC|208 E 1ST ST|MCCOOK|NE
+2|SOHANIT INC|11414 W CENTER ROAD|OMAHA|NE
+2|TANGLE SYSTEMS LLC|11414 W CENTER ROAD|OMAHA|NE
+2|THE MSR GROUP INC|12020 SHAMROCK PLAZA|OMAHA|NE
+1|ALOFT TECHNOLOGIES LLC|15808 W DODGE ROAD|OMAHA|NE
+1|APEX INFORMATICS LLC|3000 FARNAM ST|OMAHA|NE
+1|APEX INFORMATICS LLC|11605 WEST DODGE ROAD|OMAHA|NE
+1|AUTOMATION TECHNOLOGIES LLC|210 E 1ST ST|MCCOOK|NE
+1|CAPSTONE IT INC|12120 SHAMROCK PLAZA, SUITE 200|OMAHA|NE
+1|CAPSTONE IT INC|12120 SHAMROCK PLAZA|OMAHA|NE
+1|CAPTIVE SOFTWARE SOLUTIONS INC|1299 FARNAM ST.|OMAHA|NE
+1|CODEMINDS LLC|2125 TRANSFORMATION DR|LINCOLN|NE
+1|EXEVCONSULTING INC|310 REGENCY PKWY DR|OMAHA|NE
+1|EXIGENT RESOLUTIONS INC|5062 S 108TH STREET|OMAHA|NE
+1|EXIGENT RESOLUTIONS INC|5062 S 108TH ST|OMAHA|NE
+1|EXIGENT RESOLUTIONS INC|5062 S. 108TH STREET|OMAHA|NE
+1|GRADESTAFFING LLC|2120 STREET|OMAHA|NE
+1|GRADESTAFFING LLC|2120  STREET|OMAHA|NE
+1|HECTOLOGIC LLC|6464 CENTER ST|OMAHA|NE
+1|ILAP SYSTEMS INC|11511 S 42ND ST|BELLEVUE|NE
+1|ITEDGE SYSTEMS INC|3512 SAMSON WAY|BELLEVUE|NE
+1|JAEGER CORPORATION|6012 COUNTRY CLUB OAKS PLACE|OMAHA|NE
+1|KEYWEB TECHNOLOGIES LLC|4435 O ST|LINCOLN|NE
+1|MIDWEST GLOBAL SOLUTIONS LLC|1299 FARNAM STREET|OMAHA|NE
+1|PROKARMA INC|222 S 15TH STREET|OMAHA|NE
+1|PROKARMA INC|222 S 15TH ST.|OMAHA|NE
+1|PROKARMA INC|222 S 15TH ST|OMAHA|NE
+1|QUANTUM TECHNOLOGIES LLC|210 E 1ST|MCCOOK|NE
+1|SARKIT INC|3913 S 184TH ST|OMAHA|NE
+1|SARKIT INC|3913 SOUTH 184TH STREET|OMAHA|NE
+1|SARKIT INC|13520 DISCOVERY DR.|OMAHA|NE
+1|SARKIT INC|13520 DISCOVERY DR|OMAHA|NE
+1|SARKIT INC|13520 DISCOVERY DRIVE|OMAHA|NE
+1|SOHANIT INC|14301 FNB PARKWAY|OMAHA|NE
+1|SOHANIT INC|4309 N 175TH AVE|OMAHA|NE
+1|T5 TECHNOLOGIES INC|18419 LAKE ST|ELKHORN|NE
+1|TECHNOCRATIC INC|13750 MILLARD AVE|OMAHA|NE
+1|THE MSR GROUP INC|1121 N 102 ND COURT  100|OMAHA|NE
+1|THE MSR GROUP INC|1121 N 102 ND COURT   204|OMAHA|NE
+(68 rows)

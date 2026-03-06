@@ -1,685 +1,139 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-17|KOYETECH LLC|28 MAIN ST|Suite 3|FARMINGTON
-17|NIKTOR LLC|28 MAIN ST||FARMINGTON
-17|ITARKS INC|28 MAIN ST||FARMINGTON
-17|NIKTOR IT IN|28 MAIN ST||FARMINGTON
-17|KOYETECH LLC|28 MAIN ST||FARMINGTON
-17|KOYETECH LLC|28 MAIN ST||FAMINGTON
-17|NIKTOR LLC|28 MAIN ST||UNIONVILLE
-17|NIKTOR IT INC|28 MAIN ST||FARMINGTON
-17|NIKTOR LLC|28 MAIN ST||FRARMINGTON
-17|ITARKS INC|28 Main ST|Suite 2|Farmington
-17|ITARKS INC|28 Main ST||Farmington
-17|Niktor IT Inc|28 Main St|Suite 1|Farmington
-17|ITARKS INC|28 Main St|Suite 2|Farmington
-17|Niktor LLC|28 Main St||Farmington
-17|NIKTOR LLC|28 Main St||Farmington
-17|ITARKS INC|28 Main St||FARMINGTON
-17|Niktor IT Inc|28 Main St||Farmington
-10|TRC Engineers Inc (CA)|21 Griffin Road North|N/A|Windsor
-10|TRC Engineers Inc|21 Griffin Road North|N/A|Windsor
-10|TRC Environmental Corporation|21 Griffin Road North|N/A|Windsor
-10|TRC Engineers. Inc (CA)|21 Griffin Road North|N/A|Windsor
-10|TRC Engineers LLC|21 Griffin Road North|N/A|Windsor
-10|TRC Engineers Inc|21 Griffin Road North|Winsor|Windsor
-10|TRC Engineers Inc|21 Griffin Road North||Windsor
-10|TRC Environmental Corporation|21 Griffin Road North||Windsor
-10|TRC Engineers Inc (CA)|21 Griffin Road North||Windsor
-10|TRC Engineers LLC|21 Griffin Road North||Windsor
-9|Ipsos Insight LLC|501 MERRITT 7|Floor 2|Norwalk
-9|Ipsos MMA Inc|501 Merritt 7|2nd Floor|Norwalk
-9|Ipsos Insight LLC|501 Merritt 7|2nd Floor|Norwalk
-9|MetrixLab US Inc|501 Merritt 7|6th Floor|Norwalk
-9|Ipsos Insight LLC|501 Merritt 7|Floor 2|Norwalk
-9|Ipsos MMA Inc|501 Merritt 7|Floor 2|Norwalk
-9|Ipsos Insight LLC|501 Merritt 7|Floor 2nd|Norwalk
-9|Ipsos MMA Inc|501 Merritt 7|Floor 2nd|Norwalk
-9|Toluna USA Inc|501 Merritt 7|Floor 6th|Norwalk
-9|Tesseract Health Inc|530 Old Whitfield Street||Guilford
-9|454 Corporation|530 Old Whitfield Street||Guilford
-9|identifeye HEALTH Inc|530 Old Whitfield Street||Guilford
-9|Quantum-Si Incorporated|530 Old Whitfield Street||Guilford
-9|Quantum-Si Incorporated|530 Old Whitfield Street||Guildford
-9|Quantum-Si Inc|530 Old Whitfield Street||Guilford
-9|Protein Evolution Inc|530 Old Whitfield Street||Guilford
-9|Identifeye HEALTH Inc|530 Old Whitfield Street||Guilford
-9|Identieye HEALTH Inc|530 Old Whitfield Street||Guilford
-7|Invea Therapeutics Inc|2614 BOSTON POST ROAD|SUITE 33AR|GUILFORD
-7|Invea Therapeutics|2614 BOSTON POST ROAD|SUITE 33B|GUILFORD
-7|INVENIAI LLC|2614 BOSTON POST ROAD|SUITE 33B|Guilford
-7|Alphameld Corporation|2614 Boston Post Road|Suite 33B|Guilford
-7|InveniAI Corporation|2614 Boston Post Road|Suite 33B|Guilford
-7|ALPHAMELD CORPORATION|2614 Boston Post Road|Suite 33B|Guilford
-7|InveniAI LLC|2614 Boston Post Road|Suite 33B|Guilford
-7|IPSOS America Inc|301 Merritt 7|4th Floor|Norwalk
-7|Ipsos MMA Inc|301 Merritt 7|Floor 1|Norwalk
-7|Ipsos MMA Inc|301 Merritt 7|Floor 4|Norwalk
-7|Ipsos Insight LLC|301 Merritt 7|Floor 4|Norwalk
-7|Ipsos MMA Inc|301 Merritt 7|Floor 7|Norwalk
-7|Ipsos MMA Inc|301 Merritt 7||Norwalk
-7|Ipsos Insight LLC|301 Merritt 7||Norwalk
-7|THE WELLSPRING GROUP INC|4 RESEARCH DRIVE||SHELTON
-7|Dynata LLC|4 Research Drive|300 Suite|Shelton
-7|Global DB Solutions Inc|4 Research Drive|Suite  402|Shelton
-7|Dynata LLC|4 Research Drive|Suite 300|Shelton
-7|The Wellspring Group Inc|4 Research Drive|Suite 402|Shelton
-7|The Wellspring Group Inc|4 Research Drive||Shelton
-7|Dynata LLC|4 Research Drive||Shelton
-6|KANTAR LLC|401 MERRITT 7|3rd FLOOR|NORWALK
-6|KANTAR CONSULTING LLC|401 MERRITT 7|3rd FLOOR|NORWALK
-6|STEPUP RGM Inc|401 Merritt 7|3rd FL|Norwalk
-6|KANTAR CONSULTING LLC|401 Merritt 7|3rd FL|Norwalk
-6|KANTAR LLC|401 Merritt 7|3rd Floor|Norwalk
-6|Financial Accounting Foundation|401 Merritt 7||Norwalk
-6|CYIENT INC|99 EAST RIVER DRIVE|5TH FLOOR|EAST HARTFORD
-6|Cyent Inc|99 East River Drive|5th Floor|East Hartford
-6|Cyient Inc|99 East River Drive|5th Floor|East Hartford
-6|Cyient. Inc|99 East River Drive|5th floor|East Hartford
-6|Cyent Inc|99 East River Drive|Floor 5|East Hartford
-6|Cyient Inc|99 East River Drive|Floor 5|East Hartford
-6|PetVet Care Centers (California) Inc|One Gorham Island|Suite 300|Westport
-6|PetVet Operating LLC|One Gorham Island|Suite 300|Westport
-6|Washington Veterinary Services Inc, P.S.|One Gorham Island|Suite 300|Westport
-6|Porter Veterinary Services, P.C.|One Gorham Island|Suite 300|Westport
-6|Carolina Veterinary Specialists, P.A.|One Gorham Island|Suite 300|Westport
-6|Quality Veterinary Services, P.C.|One Gorham Island|Suite 300|Westport
-5|SEPALS CORPORATION|100 MILL PLAIN ROAD|3RD FLOOR|DANBURY
-5|SEPALS CORPORATION|100 MILL PLAIN ROAD||DANBURY
-5|Sepals Corporation|100 Mill Plain Road|Floor 3|Danbury
-5|Sepals Corporation|100 Mill Plain Road||Danbury
-5|Mile Marker LLC|100 Mill Plain Road||Danbury
-5|CLOUD DATA SYSTEMS INC|11 ASYLUM STREET|SUITE 507|HARTFORD
-5|Cloud Data Systems Inc|11 Asylum Street|STE 507|Hartford
-5|USDot Networks Inc|11 Asylum Street|Suite 505|Hartford
-5|Cloud Data Systems Inc|11 Asylum Street|Suite 507|Hartford
-5|CLOUD DATA SYSTEMS INC|11 Asylum Street|Suite 507|Hartford
-5|Endeavour Energy LLC|30 Old Kings Highway South|1005|Darien
-5|Endeavour Energy LLC|30 Old Kings Highway South|Suite 1005|Darien
-5|Gridblock LLC|30 Old Kings Highway South|Suite 1005|Darien
-5|Michael Allen Company|30 Old Kings Highway South||Darien
-5|ENTUBER LLC|30 Old Kings Highway South||Darien
-5|VLink Inc|701 JOHN FITCH BLVD||South Windsor
-5|VLink Inc|701 John Fitch BLVD||South Windsor
-5|Innovim Technology Solutions Inc|701 John Fitch Blvd|STE 101|South Windsor
-5|Innovim Technology Solutions Inc|701 John Fitch Blvd|Suite 101|South Windsor
-5|VLink Inc|701 John Fitch Blvd||South Windsor
-5|Genius Blocks LLC|9 Mott Ave|Suite 210|Norwalk
-5|Xllow Inc|9 Mott Ave|Suite 308|Norwalk
-5|MARC CONSULTING LLC|9 Mott Ave|Suite 308 C|Norwalk
-5|Xllow Inc|9 Mott Ave|Suite 308 D|Norwalk
-5|INNERLOOP LLC|9 Mott Ave|Suite 308 E|Norwalk
-5|PetVet Care Centers (Connecticut) LLC|One Gorham Island, Suite 300||Westport
-5|PetVet Care Centers (California) Inc|One Gorham Island, Suite 300||Westport
-5|Washington Veterinary Services Inc, P.S.|One Gorham Island, Suite 300||Westport
-5|PetVet Care Centers California Inc|One Gorham Island, Suite 300||Westport
-5|Quality Veterinary Services, P.C.|One Gorham Island, Suite 300||Westport
-4|PA Collins PE, Consulting Engineers|1 Dock Street|Suite 301|Stamford
-4|PA Collins PE Consulting Engineering PLLC|1 Dock Street|Suite 301|Stamford
-4|PA Collins PE Consulting Engineering PLLC|1 Dock Street|Suite 402|Stamford
-4|Fletcher Knight Inc|1 Dock Street|Suite 602|Stamford
-4|INFOWAVE SYSTEMS INC|10 WATERCHASE DRIVE|3RD FLOOR|Rocky Hill
-4|INFOWAVE SYSTEMS INC|10 WATERCHASE DRIVE|3RD FLOOR|ROCKY HILL
-4|Infowave Systems Inc|10 Waterchase Drive|FL 3|Rocky Hill
-4|Infowave Systems Inc|10 Waterchase Drive|Floor 3|Rocky Hill
-4|EGB Systems & Solutions Inc|1010 Summer St|1st Floor STE 102|Stamford
-4|EGB Systems & Solutions Inc|1010 Summer St|First Fl, Suite 102|Stamford
-4|EGB Systems & Solutions Inc|1010 Summer St|First Floor, Suite 102|Stamford
-4|EGB Systems & Solutions Inc|1010 Summer St|Suite 102, First floor|Stamford
-4|THE CONNECTICUT AGRICULTURAL EXPERIMENT STATION|123 HUNTINGTON STREET||NEW HAVEN
-4|The Connecticut Agricultural Experiment Station|123 Huntington Street||New Haven
-4|Connecticut Agricultural Experiment Station|123 Huntington Street||New Haven
-4|The Connecticut Agricultural Experiment station|123 Huntington Street||New Haven
-4|Quest Global Services- N.A. Inc|175 Addison Road|Entrance A|Windsor
-4|Quest Global Alpha Numero Inc|175 Addison Road|Entrance A|Windsor
-4|Quest Global Services-NA Inc|175 Addison Road|Suite 6F|Windsor
-4|Quest Global Services- N.A. Inc|175 Addison Road|Suite 6F|Windsor
-4|BROOKLYN CONSULTING GROUP INC|175 CAPITAL BLVD|SUITE 402|ROCKY HILL
-4|Lotus LLC|175 Capital Blvd|4th Floor|Rocky Hill
-4|Pristine Resource LLC|175 Capital Blvd|Ste 402|ROCKY HILL
-4|TRAYAH TECH LLC|175 Capital Blvd|Suite 402|Rocky Hill
-4|Maganti Group LLC|21 State Street||Waterbury
-4|Maganti IT Resources LLC|21 State Street||Waterbury
-4|Maganti Group LLC|21 State Street||WATERBURY
-4|Maganti IT Resources LLC|21 State Street||WATERBURY
-4|SOFTWARE ENTERPRISE LLC|360 BLOOMFIELD AVE||WINDSOR
-4|SOFTWARE ENTERPRISE LLC|360 BLOOMFIELD AVENUE|SUITE 301|WINDSOR
-4|Tanu Infotech Inc|360 Bloomfield Ave|STE 301|Windsor
-4|Software Enterprises LLC|360 Bloomfield Ave|Ste 301|Windsor
-4|Tanu Infotech Inc|360 Bloomfield Ave|Suite 301|Windsor
-4|INNOVIM TECHNOLOGY SOLUTIONS INC|360 Bloomfield Avenue|Ste 301|Windsor
-4|Anvil Solutions Inc|360 Bloomfield Avenue|Suite 301|Windsor
-4|Innovim Technology Solutions Inc|360 Bloomfield Avenue|Suite 301|Windsor
-4|Barrington Media Group LLC|4 Armstrong Road|Floor 3|Shelton
-4|3Gtms LLC|4 Armstrong Road|Suite 210|Shelton
-4|3gtms LLC|4 Armstrong Road|Suite 210|Shelton
-4|I-Engineering.com Inc|4 Armstrong Road||Shelton
-4|KOHLER RONAN LLC|93 LAKE AVENUE||DANBURY
-4|The Di Salvo Engineering Group Structural Engineers Inc|93 Lake Avenue|Suite 201|Danbury
-4|The Di Salvo Engineering Group, Structural Engineers Inc|93 Lake Avenue|Suite 201|Danbury
-4|Kohler Ronan LLC|93 Lake Avenue||Danbury
-3|IBASE CONSULTING OF FAIRFIELD COUNTY LLC|1 POST ROAD||FAIRFIELD
-3|IBase Consulting of Fairfield County LLC|1 Post Road||Fairfield
-3|IBASE CONSULTING OF FAIRFIELD COUNTY LLC|1 Post Road||Fairfield
-3|CONVENANT TECH SERVICES LLC|1000 LAFAYETTE BLVD.|SUITE 1100|BRIDGEPORT
-3|COVENANT TECH SERVICESLLC|1000 LAFAYETTE BLVD.|SUITE 1100|BRIDGEPORT
-3|COVENANT TECH SERVICES LLC|1000 LAFAYETTE BLVD.|SUITE 1100|BRIDGEPORT
-3|USDOTNETWORKS INC|11 ASYLUM ST|STE 505|HARTFORD
-3|CLOUD DATA SYSTEMS INC|11 ASYLUM ST|SUITE 507|HARTFORD
-3|Cloud Data Systems Inc|11 Asylum St|Suite 507|Hartford
-3|GM2 ASSOCIATES INC|115 GLASTONBURY BLVD|SUITE 200|GLASTONBURY
-3|GM2 Associates Inc|115 Glastonbury Blvd|STE 200|Glastonbury
-3|GM2 Associates Inc|115 Glastonbury Blvd|Suite 200|Glastonbury
-3|WITHERS BERGMAN LLP|157 CHURCH STREET|12TH FLOOR|NEW HAVEN
-3|WITHERS BERGMAN LLP|157 CHURCH STREET||NEW HAVEN
-3|Parcelly Inc|157 Church Street|12th Floor|New Haven
-3|MICROTECH SYSTEMS LLC|1789 NEW BRITAIN AVE|SUITE 27|FARMINGTON
-3|Microtech Systems LLC|1789 New Britain Ave|STE 27|Farmington
-3|Microtech Systems LLC|1789 New Britain Ave|Suite 27|Farmington
-3|WSD DIGITAL LLC|2 Waterside Crossing|SUITE 301|Windsor
-3|WSD DIGITAL LLC|2 Waterside Crossing|Suite 301|Windsor
-3|WSD Digital LLC|2 Waterside Crossing|Suite 301|Windsor
-3|TRC Engineers Inc|21 Grifn Road North|N/A|Windsor
-3|TRC Environmental Corporation|21 Grifn Road North|N/A|Windsor
-3|TRC Environmental Corporation|21 Grifn Road North||Windsor
-3|Trove FS LLC|2777 Summer Street|Suite 401|Stamford
-3|Maestro Financial Solutions LLC|2777 Summer Street|Suite 401|Stamford
-3|Maestro Financial Soultions LLC|2777 Summer Street|Suite 401|Stamford
-3|Koyetech LLC|28 Main St.||Farmington
-3|Niktor IT Inc|28 Main St.||Farmington
-3|Niktor LLC|28 Main St.||Farmington
-3|Quantum-Si Incorporated|29 Business Park Drive|Ste C|Branford
-3|Quantum-Si Incorporated|29 Business Park Drive|Suite C|Branford
-3|Q-Si Operations Inc|29 Business Park Drive|Suite C|Branford
-3|Rizing LLC|300 First Stamford Place||Stamford
-3|Rizing Geospatial LLC|300 First Stamford Place||Stamford
-3|Rizing Geospatial LLC (f/k/a Transcend Spatial Solutions LLC)|300 First Stamford Place||Stamford
-3|Northeast Bioanalytical laboratories LLC|35 Worth Avenue||Hamden
-3|Northeast Bioanalytical Laboratories LLC|35 Worth Avenue||Hamden
-3|Northeast Bioanalytical Laboratories LLC|35 Worth Avenue||hamden
-3|Cyma Systems Inc|360 TOLLAND TURNPIKE|SUITE 2D|MANCHESTER
-3|CYMA SYSTEMS INC|360 TOLLAND TURNPIKE|SUITE 2D|MANCHESTER
-3|Cyma Systems Inc|360 Tolland Turnpike|Suite 2D|MANCHESTER
-3|GSS INFOTECH CT INC|41B NEW LONDON TURNPIKE||GLASTONBURY
-3|GSS Infotech CT Inc|41B NEW LONDON TURNPIKE||GLASTONBURY
-3|GSS Infotech CT Inc|41B New London Turnpike||Glastonbury
-3|Maganti IT Resources LLC|5 Meadow Street|Suite 201|Naugautck
-3|Maganti IT Resources LLC|5 Meadow Street|Suite 201|Naugatuck
-3|Maganti Group LLC|5 Meadow Street|Suite 202|Naugatuck
-3|Compuweigh Corporation|50 MIDDLE QUARTER ROAD||WOODBURY
-3|COMPUWEIGH CORPORATION|50 MIDDLE QUARTER ROAD||WOODBURY
-3|Compuweigh Corporation|50 Middle Quarter Road||Woodbury
-3|SDG CORPORATION|55 NORTH WATER STREET||NORWALK
-3|Steven Winter Associates Inc|55 North Water Street|Suite 1|Norwalk
-3|SDG Corporation|55 North Water Street||Norwalk
-3|Tenerity LLC|6 HIGH RIDGE PARK|Building A|Stamford
-3|Tenerity LLC|6 HIGH RIDGE PARK||Stamford
-3|Tenerity LLC|6 High Ridge Park||Stamford
-3|BESTEX RESEARCH GROUP LLC|6 LANDMARK SQUARE|4TH FLOOR|STAMFORD
-3|Abacus Works|6 Landmark Square||Stamford
-3|Abacus Works Inc|6 Landmark Square||Stamford
-3|LUMESIS INC|600 SUMMER STREET|SUITE 503|STAMFORD
-3|Lumesis Inc|600 Summer Street|Suite 503|Stamford
-3|Solve Advisors Inc|600 Summer Street|Suite 503|Stamford
-3|Spark Technologies Inc|750 Main St.|Suite 1500|Hartford
-3|Solstice Solutions Inc|750 Main St.|Suite 704|Hartford
-3|Spark Technologies Inc|750 Main St.|Suite1500|Hartford
-3|SPRINTPARK LLC|85 FELT ROAD|STE 604|SOUTH WINDSOR
-3|SprintPark LLC|85 Felt Road|Ste 604|South Windsor
-3|Sprintpark|85 Felt Road|Suite 604|South Windsor
-3|Proteowise Inc|85 Willow Street|Suite 7|New Haven
-3|Christopher Williams Architects LLC|85 Willow Street||New Haven
-3|Protein Evolution Inc|85 Willow Street||New Haven
-3|Northeast Bioanalytical Laboratories LLC|925 Sherman Avenue||Hamden
-3|Northeast Bioanalytical Laboratories LLC|925 Sherman Avenue||hamden
-3|Vanessa Research Holdings Inc|925 Sherman Avenue||Hamden
-2|After Inc|1 Selleck Street|5th Floor|Norfolk
-2|After Inc|1 Selleck Street|5th Floor|Norwalk
-2|SYLLATREX INTERNATIONAL INC|10 THORNE ROAD||WEST HARTFORD
-2|Syllatrex International Inc|10 Thorne Road||West Hartford
-2|Crane Company|100 First Stamford Place||Stamford
-2|Crane Co.|100 First Stamford Place||Stamford
-2|Servicengine Corporation|100 Reserve Road|Suite B310|Danbury
-2|SERVICENGINE CORPORATION|100 Reserve Road|Suite D310|Danbury
-2|Activity Stream Inc|1000 Lafayette Boulevard|Suite 1100|Bridgeport
-2|Regal Economics LLC|1000 Lafayette Boulevard|Suite 1100|Bridgeport
-2|Datto Inc|101 Merritt 7|Floor 7|Norwalk
-2|Datto Inc|101 Merritt 7||Norwalk
-2|EGB Systems & Solutions Inc|1010 Summer Street|Suite 102|Stamford
-2|EGB Technology Services LLC|1010 Summer Street|Suite 102|Stamford
-2|Nielsen Sports America LLC|1010 Washington Boulevard||Stamford
-2|International Meetings & Sciences LLC|1010 Washington Boulevard||Stamford
-2|Pelli Clarke & Partners Inc|1056 Chapel Street|N/A|New Haven
-2|Pelli Clarke Pelli Architects Inc|1056 Chapel Street|N/A|New Haven
-2|KEYSERIES LLC|110 WASHINGTON AVENUE||NORTH HAVEN
-2|Keyseries LLC|110 Washington Avenue||North Haven
-2|The Law Office of Marjan Kasra|1177 High Ridge Road|Suite 214|Stamford
-2|Tournament One Corp|1177 High Ridge Road||Stamford
-2|LiquidPiston Inc|1292A Blue Hills Avenue||Bloomfield
-2|LiquidPiston Inc|1292a Blue Hills Avenue||Bloomfield
-2|3D Array Technology|1392 STORRS ROAD UNIT 4213||Storrs Mansfield
-2|chunxiang zhu|1392 STORRS ROAD UNIT 4213||Storrs Mansfield
-2|Vertex Analytics Inc|160 Chapel Road|Suite 102|Manchester
-2|Vertex Analytics Inc|160 Chapel Road||Manchester
-2|Insurity Inc|170 Huyshope Avenue||Hartford
-2|Insurity LLC|170 Huyshope Avenue||Hartford
-2|FUSION SOFTWARE SOLUTIONS LLC|1738 ELLINGTON ROAD|FLOOR 1|SOUTH WINDSOR
-2|FUSION SOFTWARE SOLUTIONS LLC|1738 ELLINGTON ROAD||SOUTH WINDSOR
-2|QUEST GLOBAL SERVICES- N.A. INC|175 ADDISON ROAD ENTRANCE A||WINDSOR
-2|QUEST GLOBAL ALPHA NUMERO INC,|175 ADDISON ROAD ENTRANCE A||WINDSOR
-2|Engineered Consultants Incorporated|175 Capital Boulevard|Suite 400|Rocky Hill
-2|Pristine Resource LLC|175 Capital Boulevard|Suite 402|Rocky Hill
-2|Nutech Information Systems Inc|2 Enterprise Drive|Suite 402|Shelton
-2|Sectra Inc|2 Enterprise Drive|Suite 507|Shelton
-2|Dutchess Management LLC|20 Brynwood Lane||Greenwich
-2|Kubernetes Innovation Labs LLC|20 Brynwood Lane||Greenwich
-2|Cantor Colburn LLP|20 Church Street|22nd Floor|Hartford
-2|TCA Global Consultants Inc|20 Church Street|Suite B53|Greenwich
-2|iTech Solutions Inc|20 Stanford Drive|2nd Floor|Farmington
-2|iTech Solutions Inc|20 Stanford Drive||Farmington
-2|Synapse Group Inc|225 High Ridge Road|East Building|Stamford
-2|Synapse Group Inc|225 High Ridge Road||Stamford
-2|WINTEK SOLUTIONS INC|225 OAKLAND ROAD|SUITE 106|SOUTH WINDSOR
-2|Webilent Technology Inc|225 Oakland Road|Suite 106|South Windsor
-2|EvolveImmune Therapeutics Inc|23 Business Park Drive||Branford
-2|New England Discovery Partners LLC|23 Business Park Drive||Branford
-2|MAJ IT Solutions LLC|23 Redwood Ln||Southington
-2|TEKNOMITE LLC|23 Redwood Ln||Southington
-2|ATACCAMA CORP. U.S.|263 TRESSER BLVD||STAMFORD
-2|LIFEVOXEL.AI INC|263 Tresser Blvd|9th Floor|Stamford
-2|MURTHA CULLINA LLP|280 Trumbull St|Floor 12|Hartford
-2|Whittlesey PC|280 Trumbull St|Floor 24|Hartford
-2|LOXO ONCOLOGY INC|281 TRESSER BOULEVAROAD|9th Floor|STAMFORD
-2|LOXO ONCOLOGY INC|281 TRESSER BOULEVAROAD||STAMFORD
-2|Vertrax Inc|2911 Dixwell Avenue|Suite 305|Hamden
-2|Vertrax Inc|2911 Dixwell Avenue||Hamden
-2|AP Mills Veterinary Services PC|3 Landmark Square|Suite 515|Stamford
-2|Plum Creek Animal Medical Center PC|3 Landmark Square|Suite 515|Stamford
-2|L2 DIAGNOSTICS LLC|300 George Street|Ste 515|NEW HAVEN
-2|Haskins Laboratories Inc|300 George Street|Suite 900|New Haven
-2|Trinay Technology Solutions LLC|31 Lillian Dr|Suite 1|Manchester
-2|Trinay Technology Solutions|31 Lillian Dr|Suite 1|Manchester
-2|Protegrity USA Inc|333 Ludlow Street|8th Floor|Stamford
-2|Point Pickup Management LLC|333 Ludlow Street||Stamford
-2|NAVA Software Solutions LLC|35 Cold Spring Road|Suite 125|Rocky Hill
-2|Nava Software Solutions LLC|35 Cold Spring Road|Suite 125|Rocky Hill
-2|12-15 Molecular Diagnostics Inc|37 Panagrosi Street|Suite L|East Haven
-2|12-15 Molecular Diagnostics LLC|37 Panagrosi Street|Suite L|East Haven
-2|12-15 Molecular Diagnostics|37 Panagrossi Street|Suite L|East Haven
-2|12-15 Molecular Diagnostics Inc|37 Panagrossi Street|Suite L|East Haven
-2|ASCHETTINO ASSOCIATES LLC|375 MORGAN LANE|SUITE 109|WEST HAVEN
-2|Aschettino Associates LLC|375 Morgan Lane|Suite 109|West Haven
-2|Rothstein-Tauber Incoporated|383 Main Avenue|Suite 706|Norwalk
-2|Rothstein-Tauber Incoporated|383 Main Avenue|Suite 805|Norwalk
-2|R4 TECHNOLOGIES INC|38C GROVE STREET|2ND FLOOR|RIDGEFIELD
-2|R4 TECHNOLOGIES INC|38C GROVE STREET||RIDGEFIELD
-2|Spectrix Analytical Services LLC|410 Sackett Point Road|Building 15|North Haven
-2|Precision Combustion Inc|410 Sackett Point Road||North Haven
-2|Urgent Consult Inc|422 Summer St.|Suite 2|Stamford
-2|Urgent Consult Inc|422 Summer St.||Stamford
-2|FactSet Research Systems Inc|45 Glover Avenue||Norwalk
-2|FactSet Research System Inc|45 Glover Avenue||Norwalk
-2|Hugo & Hoby LLC|470 James Street|Suite 7|New Haven
-2|Avridh Technologies Inc|470 James Street||New Haven
-2|Clarus Commerce Inc|500 Enterprise Drive||Rocky Hill
-2|Clarus Commerce LLC|500 Enterprise Drive||Rocky Hill
-2|Zillion Group Inc|501 Merrit 7||Norwlak
-2|Zillion Group Inc|501 Merrit 7||Norwalk
-2|INNOVATIVE LOGIC SOLUTIONS INC|543 N MAIN STREET|SUITE C1|MANCHESTER
-2|Innovative Logic Solutions Inc|543 N Main St|Suit C1|Manchester
-2|Innovative Logic Solutions Inc|543 N Main St|Suite C1|Manchester
-2|Innovative Logic Solutions Inc|543 N Main Street|Suite C1|Manchester
-2|Richard Turlington Architects Inc|55 Church Street|Suite 201|New Haven
-2|Xingimaging LLC|55 Church Street||New Haven
-2|HART HALSEY LLC|6 CORPORATE DRIVE|SUITE 830|SHELTON
-2|Hart Halsey LLC|6 Corporate Drive||Shelton
-2|Dassault Systemes Americas Corp.|6 Research Dr Suite 205||Shelton
-2|Dassault Systemes Americas Corp|6 Research Dr Suite 205||Shelton
-2|TORANA INC|60 LONG RIDGE ROAD|SUITE 303|STAMFORD
-2|Torana Inc|60 Long Ridge Road|Suite 303|Stamford
-2|OpenTable Inc|7 Market Street||Stamford
-2|KAYAK Software Corporation|7 Market Street||Stamford
-2|TEAMWORK IT SOLUTIONS INC|7223 AVALON VALLEY DR||DANBURY
-2|CAREERWAY SERVICES LLC|7223 Avalon Valley Dr||Danbury
-2|WSD DIGITAL LLC|750 MAIN ST|SUITE 327|HARTFORD
-2|Spark Technologies Inc|750 Main St|Suite 1500|Hartford
-2|WSD Digital LLC|750 Main Street|Suite 327|Hartford
-2|Solstice Solutions Inc|750 Main Street|Suite 704|Hartford
-2|Adams & Knight Inc|80 Avon Meadow Lane||Avon
-2|Adams & Night Inc|80 Avon Meadow Lane||Avon
-2|Systems Management Consulting LLC|87 Church St|Suite 300|East Hartford
-2|Systems Management Consulting LLC|87 Church st|Suite 300|East Hartford
-2|TeamBuilder LLC|9 Bridle Path Trail||NEWTOWN
-2|Teambuilder LLC|9 Bridle Path Trail||Newtown
-2|Michael Allen Company|9 Old Kings Highway South||Darien
-2|Michael Allen Company LLC|9 Old Kings Highway South||Darien
-2|AI ENGINEERS INC|919 Middle Street||Middletown
-2|AI Engineers Inc|919 Middle Street||Middletown
-2|Cyent Inc|99 East River Dr.|5th Floor|East Hartford
-2|Cyient Inc|99 East River Dr.|Floor 5|East Hartford
-2|Management Health Solutions INC|99 Hawley Lane|Suite 1201|Stratford
-2|Signinsoft Inc|99 Hawley Lane||Stratford
-2|WorldBusiness Capital Inc|One State Street|Suite 2110|Hartford
-2|Robinson & Cole LLP|One State Street||Hartford
-1|Microtech Systems LLC|1 Blossom Road, Farmington, CT||Farmington
-1|FORESITE CYBERSECURITY INC|1 Hartfield Blvd|Suite 300|East Windsor
-1|RSS Design LLC|1 Hillside Dr.||Wolcott
-1|Silver Harbor LLC|1 Landmark Square|6th Floor|Stamford
-1|Insource Tech LLC|1 Marion Road||Westport
-1|Insource Tech LLC|1 Marion rd|Westport|Westport
-1|Arka Information Systems|1 Megan Lane||Stamford
-1|Medtel.com Inc|1 Park Ave||Old Greenwich
-1|SAMSON 2001 INC|1 RIVER LANE||WESTPORT
-1|Next Step Acquisitions Inc|1 Waterview Dr|Ste 101|Shelton
-1|Signinsoft Inc|1 Waterview Dr.||Shelton
-1|Bioinfo Systems LLC|10 Columbus Blvd|10 FL|Hartford
-1|Bioinfo Systems LLC|10 Columbus Blvd, 10 FL||Hartford
-1|Diameter Health Inc|10 Executive Drive||Farmington
-1|NEW AVENUE CONSULTING LTD|10 FIELDSTONE DRIVE C/O REED CPA||EASTON
-1|Ventus Wireless LLC|10 Norden Place||Norwalk
-1|CREATIVE VIDEO CORPORATION|10 Old Boston Road||Wilton
-1|SIERENTZ NORTH AMERICA LLC|10 Westport Road Building C|Suite 202|Wilton
-1|ATANE Engineers, P.C.|100 Great Meadows Road|Suite 400|Wethersfield
-1|ATANE Engineers, P.C.|100 Great Meadows Road, Suite 400||Wethersfield
-1|SEPALS CORPORATION|100 MILL PALIN ROAD||DANBURY
-1|Griffin Healthcare Advisors Inc|100 Tresser Blvd., Apt. 1407||Stamford
-1|COVENANT TECH SERVICES LLC|1000 LAFAYETTE BLVD|SUITE 1100|BRIDGEPORT
-1|ExViva Inc|101 College St|Suite 210|New Haven
-1|RWS Life Sciences Inc|101 E River Drive||Hartford
-1|Datto Inc|101 Merrit 7|7th Floor|Norwalk
-1|O.S.C. Orbit Service Company LLC|101 Merritt|7 Corporate Place 3rd Floor|Norwalk
-1|International Meetings & Sciences LLC|1010 Washington Blvd.||Stamford
-1|PURERED HP LLC|1038 OLD POST ROAD||FAIRFIELD
-1|VIBHATHI LABS INC|104 SILVER SPRING ROAD||WILTON
-1|The Scienomics Group LLC|1055 Washington Blvd|7th Floor|Stamford
-1|The Scienomics Group LLC|1055 Washington Blvd.||Stamford
-1|Noble House Media Group LLC|1063 Boston Post Road||Darien
-1|AMS Planning & Research Corp.|107 John Street|2nd Floor|Southport
-1|Landsdowne Labs LLC|1073 N. Benson Road|BNW|Fairfield
-1|CLOUD DATA SYSTEMS INC|11 ASYLUM ST,  507||HARTFORD
-1|USDot Networks Inc|11 Asylum Street, Suite 505||Hartford
-1|ALX CREATIVES|11 Greenwood Place||Norwalk
-1|Roger Ferris and Partners LLC|11 Wilton Road||Wesport
-1|Russell and Dawson Inc|1111 Main Street||East Hartford
-1|Realized Solutions Inc|1115 West St.|STE 5|Southington
-1|SponsorUnited Inc|1127 High Ridge Road|Suite 272|Stamford
-1|Cloud Matrix Inc|1137 Main Street|Suite 201|East Hartford
-1|BFT CT LLC|114 MORGAN STREET|SUITE 319A|STAMFORD
-1|GM2 Associates Inc|115  Glastonbury Blvd|Suite 200|Glastonbury
-1|GM2 Associates Inc|115 Glastonbury Boulevard|Suite 200|Glastonbury
-1|Design Learned Inc|116 Main Street||Norwich
-1|Nutech Information Systems Inc|1177 Summer Street, Suite 202||Stamford
-1|DaCapo Brainscience Inc|12 Laurel Lane||Greenwich
-1|MResult Corporation|12 Roosevelt Avenue||Mystic
-1|Insurity LLC|120 Huyshope Avenue|Suite 300|Hartford
-1|JCJ Business Corp Inc|120 Huyshope Avenue, Suite 400||Hartford
-1|York Analytical Laboratories Inc|120 Research Drive||Stratford
-1|The Marketing Advantage Inc|1200 High Ridge Road||Stamford
-1|TECHIQ IT LLC|121 Fenn Road|Suite H|Newington
-1|9to9 Software Solutions LLC|1224 MILL ST, Bldg B|Suite 124|EAST BERLIN
-1|9TO9 SOFTWARE SOLUTIONS LLC|1224 MILL STREET, BUILDING B|SUITE 124|EAST BERLIN
-1|Connecticut Agricultural Experiment Station|123 Huntington St||New Haven
-1|Pariah Interactive Inc|123 Promenade Drive||Hamden
-1|Mars & Co. Consulting LLC|124 Mason Street||Greenwich
-1|James Doyle Design Associates LLC|125 Greenwich Avenue||Greenwich
-1|Shavs LLC|129 North Street||Trumbull
-1|Aventri Inc|13 Marshall Street||Norwalk
-1|Telaid|13 West Main Street||Niantic
-1|ALLEXCEL INC|135 WOOD STREET|SUITE 200|WEST HAVEN
-1|ERICHARDS CONSULTING LLC|1381 BURR STREET||FAIRFIELD
-1|3D Array Technology LLC|1392 Storrs Road Unit 4213.|Room 102|Storrs Mansfield
-1|BIORASIS INC|1392 Storrs Road, Room 106|Unit 4213|Storrs
-1|Jona Inc|14 Chasmars Pond Road||Darien
-1|Reliance Environmental LLC|140 CAPTAIN THOMAS BLVD|SUITE 201|WEST HAVEN
-1|SSIT Solutions LLC|1406 Main Street||East Hartford
-1|H.Y.T Law LLC|1455 Washington Blvd.|250|Stamford
-1|Fuss & ONeill Inc|146 Hartford Road||Manchester
-1|TSKP Studio LLC|146 Wyllys Street|Suite 1 203|Hartford
-1|Dragon Sun Law Firm, P.C.|148 East Ave|Unit 1F|Norwalk
-1|Chateaux Software Dev. Inc|149 Water St|Suite 4A|Norwalk
-1|Eminent Software Services|14A Pasco Dr.||East Windsor
-1|Eminent Software Services|14A Pasco Drive||East Windsor
-1|Chem Scope Inc|15 Moulthrop Street||North Haven
-1|VIBHATHI LABS INC|15 RIVER ROAD|SUITE 15B|WILTON
-1|Rapido Technologies LLC|1525 KINGS HWY EAST|204|FAIRFIELD
-1|Scott&Scott Attorneys at Law, LLP|156 South Main Street||Colchester
-1|THE NEST AGENCY LLC|163 Main Street||Westport
-1|QUEST GLOBAL SERVICES- N.A. INC|175 ADDISON ROAD SUITE 6F||WINDSOR
-1|Clarus Commerce LLC DBA ebbo|175 Capital Blvd.|4th Floor, Suite 402|Rocky Hill
-1|Triax Technologies Inc|18 Marshall Street|Suite 340|Norwalk
-1|Archway Partnerships Inc|18 North Water Street||Norwalk
-1|Uday K Patel CPA LLC|18 School St.||Glastonbury
-1|TCR INC|18 Wildwood Lane||Weston
-1|HANSVONLEHWALT INC|181 SCOVILLE ROAD||AVON
-1|Vistas Management LLC|187 Danbury Road|Suite 2E|Wilton
-1|Groupwise Inc|189 Towne House Road||Hamden
-1|GroupWise Inc|189 TowneHouse Road||Hamden
-1|New England Consulting Group Inc|19 Ludlow Road|Suite 101|Westport
-1|GeoQuest Inc|2 Barnard Lane|Suite 203|Bloomfield
-1|Ennabl Inc|2 DEARFIELD DRIVE|SUITE 250|GREENWICH
-1|Meaning Bot Inc|2 Greenwich Office Park||Greenwich
-1|BESTEX RESEARCH GROUP LLC|2 LANDMARK SQUARE|SUITE 214|STAMFORD
-1|Calmare Therapeutics|2 Trap Falls Road|Suite 507|Shelton
-1|Metrum Research Group Inc|2 Tunxis Road|Suite 112|Tarriffville
-1|DCL Products LLC|20 Commerce Street||East Haven
-1|Patriquin Architects, P.C.|20 Grand Avenue||New Haven
-1|Direct Wines Inc|20 Marshall Street||Norwalk
-1|CB Neptune Holdings LLC|20 Westport Road|1st Floor|Wilton
-1|JayStar Group Inc|200 Connecticut Ave|5th Floor|Norwalk
-1|SAGARSOFT INC|200 Glastonbury Boulevard|Suite 304|Glastonbury
-1|Lea Oliveira Law Office, PLLC|2009 Summer Street|203|Stamford
-1|Michael Page International Inc|201 Broad Street|Suite 440|Stamford
-1|Mars & Co. Consulting LLC|201 Tresser Boulevard|Suite PLAZA|Stamford
-1|PELICANCORP ONE CALL INC|2040 WHITNEY AVENUE||HAMDEN
-1|PELICANCORP ONE CALL INC|2040 Whitney Ave||Hamden
-1|VB Technologies Corporation|2049 Silas Deane Highway, Suite 1E||Rocky Hill
-1|VB Technologies Corporation|2049 Silas Deane Hwy.|Suite 1E|Rocky Hill
-1|BeaverAnnotation Inc|206 Mountain Road||Wilton
-1|Nutmeg Planners LLC|207 Main Street|2nd Floor|Hartford
-1|Garg Consulting Services Inc|2096-A Silas Deane Highway||Rocky Hill
-1|PARISHTA INC|21 EAST MIDDLE TURNPIKE||MANCHESTER
-1|Friar Architecture Inc|21 Talcott Notch Road||Farmington
-1|Biohaven Pharmaceuticals Inc|215  Church St.||New Haven
-1|Biohaven Pharmaceuticals Inc|215 Church St||New Haven
-1|ISG Information Services Group Americas Inc|2187 Atlantic Street||Stamford
-1|OMNIMARKETS LLC|22 Foxs Lane|UNIT 2|GREENWICH
-1|BioSafe Systems LLC|22 Meadow Street||East Hartford
-1|Mango Analytics LLC|220 E Main St||Branford
-1|Accelerated Medical Physics Service LLC|222 Main Street|Suite 332|Farmington
-1|Day Pitney LLP|225 Asylum Street||Hartford
-1|MoVi Partners LLC|232 Byram Shore Road||Greenwich
-1|Paragon Data Labs Inc|232 Silver Spring Road||Wilton
-1|Genesys Diagnostics Inc|234 Bank St.|Floor 1|New London
-1|Modelon Inc|2389 Main Street||Glastonbury
-1|HEALTHPER USA INC|24 GUENEVERE COURT||HAMDEN
-1|Gerber Technology LLC|24 Industrial Park Road West||Tolland
-1|PP Consulting LLC|24 West Ridge Drive||Rocky Hill
-1|Globele LLC|240 Sargent Drive||New Haven
-1|Amenta Emma Architects P.C.|242 Trumbull St|Suite 201|Hartford
-1|Day Pitney LLP|242 Trumbull Street||Hartford
-1|Everest DX Inc|243 Tresser Blvd|17th Floor|Stamford
-1|COMPUZED INC|25-13 Old Kings Hwy N|Suite 305|Darien
-1|Avenir Health Inc|2510 Main Street|2nd Floor|Glastonbury
-1|BetterITS LLC|2519 Whitney Ave||Hamden
-1|Impax Corporation|252 Wilton Road||Westport
-1|Sky Net Systems Inc|26 Magellan Ln||EASTON
-1|Stamford Technology Solutions LLC|26 Mill River Street||Stamford
-1|AlphaMeld Corporation|2614, Boston Post Road|Suite 33B|Guilford
-1|GRT Corporation|263 Tresser Blvd, One Stamford Plaza||Stamford
-1|Wiggin and Dana LLP|265 Church Street||New Haven
-1|Button Inc|268 Post Road|Suite 200, PMB 90775|Fairfield
-1|Button Inc|268 Post Road PMB 90775|Suite 200|Fairfield
-1|Button Inc|268 Post Road Suite 200|PMB 90775|Fairfield
-1|Pitney Bowes Global Financial Services LLC|27 Waterview Drive||Shelton
-1|Pitney Bowes Global Financial Services LLC|27 Waterview Drive, MSC 27-3C||Shelton
-1|Solution Spray Technologies LLC|270 Middle Turnpike Unit 5202||Storrs
-1|Bozzutos Inc|275 Schoolhouse Road||Cheshire
-1|Laasim Technologies LLC|28 7th Street|Fl 2|Stamford
-1|Koyetech LLC|28 Main Street||Farmington
-1|Robinson & Cole LLP|280 Trumbull Street||Hartford
-1|PERKINELMER GENETICS INC|29 BUSINESS PARK DR E||BRANFORD
-1|Bexorg Inc|290 Congress Avenue||New Haven
-1|YUMA HOLDINGS INC|290 HARBOR DRIVE|4TH FLOOR|STAMFORD
-1|12-15 Molecular Diagnostics Inc|293 Algonquin Road||Fairfield
-1|Cellsbin Inc|293 Durham Road||Guilford
-1|ICXPRESS INC|3 Enterprise Dr|STE 100|Shelton
-1|Axcellent Solutions LLC|3 Sonoma Ct||Old Bridge
-1|Cloud Matrix Inc|3 Timothy Lane||Hartford
-1|FAIRFAX DATA SYSTEMS INC|30 BRIDGE STREET|SUITE 300|NEW MILFORD
-1|Luxy Technologies Inc|30 Controls Drive|Suite 2|Shelton
-1|Acuren Inspection Inc|30 Main Street|Suite 402|Danbury
-1|Metrum Research Group Inc|30 Tower Lane|Suite 140|Avon
-1|RecDesk LLC|300 Plaza Middlesex||Middletown
-1|Altieri Sebor Wieber LLC|31 Knight Street||Norwalk
-1|Trinay Technology Solutions|31 Lillian Drive|Suite 1|Manchester
-1|Trinay Technology Solutions LLC|31-1 Lillian Dr||Manchester
-1|KENNETH BOROSON ARCHITECTS LLC|315 PECK STREET BUILDING 3|SUITE 2 B|NEW HAVEN
-1|Good Apple Publishing LLC|33 South Main Street||Sharon
-1|The Tri-Com Consulting Group LLC|333 Industrial Park Road||Middletown
-1|Protegrity USA Inc|333 Ludlow Street, 8th Floor||Stamford
-1|Morrow Sodali LLC|333 Ludlow Street, South Tower|5th Floor|Stamford
-1|SiriusAI Inc|34 Wardwell Drive||New Canaan
-1|RHS Consulting Design LLC|345 Highland Avenue|Suite 201|Cheshire
-1|NAVA SOFTWARE SOLUTIONS LLC|35 Cold Spring Road, Suite 125||ROCKY HILL
-1|Saxe, Doernberger and Vita P.C.|35 Nutmeg Drive|Suite 140|Trumbull
-1|Northeast Bioanalytical laboratories LLC|35 Worth Ave||Hamden
-1|Zieman Engineering LLC|350 Bedford St.|Suite 408|Stamford
-1|Pragmatic IT Inc|351 Merline Road|Suite 201|Vernon
-1|Hyperfine Inc|351 New Whitfield Street||Guilford
-1|Performance Improvement Partners|359 Fulling Mill Lane S||Fairfield
-1|Saniee Architects LLC|36 West Putnam Avenue||Greenwich
-1|Klein & Babbitt LLC|36-B West Main Street||Avon
-1|Tanu Infotech Inc|360 Bloomfield Ave STE 301||Windsor
-1|SRCS Solutions Inc|360 Bloomfiled Ave|Suite 301|Windsor
-1|Tara Benet Design LLC|37 Arch St.|Suite 2C|Greenwich
-1|DMT SOLUTIONS GLOBAL CORPORATION|37 EXECUTIVE DRIVE||DANBURY
-1|OneOrigin Inc|37 North Avenue,  105-106||Norwalk
-1|Single Source Security LLC|383 Main Avenue, Suite 505||Norwalk
-1|RMS IT SOLUTIONS INC|39 BUCKLAND ST|Ste 12124|MANCHESTER
-1|Ephemeral Solutions Inc|4 Oxford Road|Suite B1|Milford
-1|Dynata LLC|4 Research Dr|Ste 300|Shelton
-1|Apicella Bunton Architects LLC|41 High Street|Floor 4|New Haven
-1|VanderHorn Architects LLP|41 West Elm Street||Greenwich
-1|GSS Infotech CT Inc|41-B NEW LONDON TURNPIKE||GLASTONBURY
-1|Chipman Mazzucco Emerson LLC|44 Old Ridgebury Road, Suite 320||Danbury
-1|Town of Groton|45 Fort Hill Road||Groton
-1|edm STUDIO Inc|45 S Main Street 2nd Floor||Unionville
-1|Corporate Systems Associates Inc|46 Court Street||Windsor
-1|Tax4You Corp.|470 Main St.||Torrington
-1|Vista IT Solutions LLC|475 S Main Street|Suite 5|Cheshire
-1|Quadient Inc|478 Wheelers Farms Road||Milford
-1|R&D Dynamics Corporation|49 West Dudley Town Road||Bloomfield
-1|Innovative Network Solutions Corp|5 Hillandale Avenue|Suite 102|Stamford
-1|SAI Systems International Inc|5 Research Drive||Shelton
-1|Rock Engineering LLC|5 Sunrise Ln||South Windsor
-1|Bloom Value Corporation|5 Woodchuck Lane||Norwalk
-1|Visual Technologies Inc|50 Columbus Boulevard||Hartford
-1|PIROGON INC|50 Elm St|Suite Left|New Haven
-1|Archway Partnerships Inc|50 North Water Street||Norwalk
-1|Convergence Inc|50 Washington Street|Suite 501W|South Norwalk
-1|Sonic Information Systems Inc|500 Bic Drive|Suite 109|Milford
-1|TBNG Inc|500 Boston Post Road||Milford
-1|Kroll Government Solutions LLC|500 Chase Parkway||Waterbury
-1|Clarus Commerce LLC DBA ebbo|500 ENTERPRISE DR||Rocky Hill
-1|Millwright Holdings LLC|500 Post Road East|Suite 256|Westport
-1|CHANCE RIVER LLC|500 SUMMER STREET|SUITE 302|STAMFORD
-1|Ipsos Insight LLC|501 Merritt7|Floor 2|Norwalk
-1|DeepInsight Tech LLC|504 Main Street|Suite 204|Farmington
-1|PARTNERS SOFT INC|515 CENTERPOINT DR.|SUITE 105|MIDDLETOWN
-1|PARTNERS SOFT INC|515 CENTERPOINT DRIVE|SUITE 105|MIDDLETOWN
-1|LYS Global Technology LLC|52 Princeton Dr.||Avon
-1|Rebel Interactive Group LLC|535 West Main Street||Cheshire
-1|Dimericon Therapeutics LLC|54 Ripley Hill Road||Westbrook
-1|BioMed X USA LLC|55 Church St|Suite 100B|New Haven
-1|Inbox Health, Corp.|55 Church Street, Floor 7||New Haven
-1|Zaelab LLC|55 Post Road West|Suite 200|Westport
-1|PVH Acquisitions Sub LLC|55 Walls Drive|STE 400|Fairfield
-1|NEO PLM INC|555 LONG WHARF DRIVE||NEW HAVEN
-1|Reflective Intelligence LLC|56 Edgewater Drive||Wilton
-1|Gartner Inc|56 Top Gallant Road||Stamford
-1|Infohub LLC|57 Austin Cir||South Windsor
-1|Tessellation Software LLC|58 SYLVAN ROAD N||WESTPORT
-1|TESSELLATION SOFTWARE LLC|58 SYLVAN ROAD NORTH||WESTPORT
-1|Caro Home LLC|583 Pacific Street, Suite A||Stamford
-1|Phoenix Environmental Labs. Inc|587 Middle Turnpike E||Manchester
-1|ZANGARI COHN CUTHBERTSON DUHL & GRELLO P.C.|59 ELM ST., STE 400||NEW HAVEN
-1|Vertex Analytics Inc|5970 Fairview Road|Suite 220|Charlotte
-1|LightBox Employer LLC|6 Armstrong Road|4th Floor|Shelton
-1|Invicro LLC|60 Temple Street||New Haven
-1|Advanced Robot Solutions LLC|60 Watson Blvd||Stratford
-1|Tri State Materials Testing Lab LLC|60 Woodlawn Road||Berlin
-1|FactSet Research System Inc|601 Merritt 7 Corporate Park||Norwalk
-1|Mental Canvas Inc|61 Hartford Avenue||Madison
-1|Steven Winter Associates Inc|61 Washington Street||Norwalk
-1|RSL Solutions LLC|615 W. Johnson Avenue|Suite 202|Cheshire
-1|INFOMET INC|615 WEST JOHNSON AVENUE|SUITE 202|CHESHIRE
-1|Enko Chem Inc|62 Maritime Drive||Mystic
-1|Interpreters and Translators Inc|628 Hebron Avenue, Suite 500||Glastonbury
-1|RS DATA ARCHITECT SOLUTIONS LLC|63 CHELSEA PL||RIDGEFIELD
-1|Haddad and Partners LLC|63 Unquowa Road||Fairfield
-1|Centek Engineering Inc|63-2 North Branford Road||Branford
-1|Centerbrook Architects and Planners, LLP|67 Main Street||Centerbrook
-1|Dhansol Software Solutions LLC|670 Dart Hill Road||Vernon
-1|Dhansol Software Solutions LLC|670 Dart Hill Road,||Vernon
-1|Realgy Energy Services, LCC|675 Oakwood Avenue||West Hartford
-1|AXA Group Operations Americas Inc|677 Washington Blvd|Suite 1000|Stamford
-1|Treeline Biosciences Inc|677 Washington Boulevard|Suite 525|Stamford
-1|Bloomy Controls Inc|68 Nutmeg Road South||South Windsor
-1|Fly Unified LLC|680 East Main Street|Suite 1280|Stamford
-1|iSoft LLC|69 Stratford Xing||Avon
-1|Retro Report Inc|7 Masons Island Road|Suite 3|Mystic
-1|iSoft LLC|7 McKee Place|Suite 207|Cheshire
-1|DSL Digital LLC|7 VALLEY FIELD ROAD||WESTPORT
-1|Fiber Mountain Inc|700 West Johnson Ave|Suite 301|Cheshire
-1|VLink Inc|701 Fitch John BLVD||South Windsor
-1|Vlink Inc|701 John Fitch Blvd.||South Windsor
-1|North America Rapid Results Technologies Inc|705 North Mountain Road|Suite A209|Newington
-1|Michael Page International Inc|707 Summer Street|3rd Floor|Stamford
-1|Project Farma LLC|710 Bridgeport Avenue||Shelton
-1|PIEPER-OLSON VETERINARY HOSPITAL, PC|730 RANDOLPH ROAD||MIDDLETOWN
-1|Acro Systems Inc|75 Hockanum Blvd|Unit 3311|Vernon
-1|Envision Pharma Inc|75 Kings Highway Cutoff|2nd Floor|Fairfield
-1|SDG Corporation|75 North Water Street||Norwalk
-1|RZ Design Associates Inc|750 Old Main Street Suite 202||Rocky Hill
-1|Flywheel Software LLC|76 Summit Road||Riverside
-1|ICR LLC|761 MAIN AVENUE||NORWALK
-1|Gemma Power Systems LLC|769 Hebron Avenue||Glastonbury
-1|Trinay Technology Solutions|77 chaponis way||South Windsor
-1|ClimateHaven Inc|770 Chapel Street|3rd Floor|New Haven
-1|FASTECH CONSULTING LLC|775 TAHMORE DRIVE||FAIRFIELD
-1|Talent IT Services Inc|776 N. Main St.|2nd Floor|Manchester
-1|ADM PROMOTIONS USA INC|78 Southfield Avenue|Suite 203|Stamford
-1|On-Line Systems Inc|790 Farmington Avenue|Suite 3 D|Farmington
-1|Aroomy|792 Tummel Lane||West Haven
-1|Rajipo LLC|8 Acoen Lane||Milford
-1|One Health Link Inc|8 Linden Lane||Avon
-1|Scopus IT Inc|8 Wright St.|1st Floor|Westport
-1|LAW OFFICES OF JAMES A. WELCOME LLC|80 CENTRAL AVENUE||WATERBURY
-1|Mirion Technologies (Canberra) Inc|800 Research Pkwy||Meriden
-1|MachroTech LLC|82 Marina Park Circle||Bridgeport
-1|Laasim Technologies LLC|821 Stillwater Road||Stamford
-1|Sigmund Software LLC|83 Wooster Heights Road|Suite 210|Danbury
-1|Cynort LLC|83 Wooster Hts Road|125|Danbury
-1|Svigals & Partners, LLP|84 Orange Street||New Haven
-1|Mott Corporation|84 Spring Lane||Farmington
-1|SponsorUnited Inc|857 Newfield Avenue||Stamford
-1|FIZIO HEALTH INC|86 PEMBROKE ROAD||DARIEN
-1|ZHAO AND ASSOCIATES CPA|86 Purdy Hill Road||Monroe
-1|Systems Management Consulting LLC|87 Church St.|Suite 300|East Hartford
-1|System Management Consulting LLC|87 Church Street|Suite 300|East Hartford
-1|The Sorokin Law Firm|9 Grand Street||Hartford
-1|Vertrax Inc|900 Chapel Street|3rd Floor|New Haven
-1|CareAllies Inc|900 Cottage Grove Road||Bloomfield
-1|GENERAL ELECTRIC COMPANY|901 Main Avenue, The Towers at Merritt River||Norwalk
-1|TLB Architecture LLC|92 West Main Street||Chester
-1|Vanessa Research Holdings Inc|925 Sherman Ave||Hamden
-1|i2e Consulting LLC|93 Shennecossett Road|Suite 104|Groton
-1|Parker Design Associates Inc|95 East Putnam Avenue, Suite 201||Greenwich
-1|FAZZANO & TOMASIEWICZ LLC|96 OAK STREET||HARTFORD
-1|SofiaGrey LLC|97 Florence Road||Stamford
-1|Pickard Chilton Architects Inc|980 Chapel Street||New Haven
-1|Medwinsure LLC|984 Southford Road|Suite 5|Middlebury
-1|The Haymond Law Firm, P.C.|999 Asylum Avenue|Suite Penthouse|Hartford
-1|Button Inc|P.O. Box 8176 PMB 90775||Greenwich
-1|Vertrax Inc|PO Box 1122||Weston
-1|Nuritas Corporation|Serendipity Labs, 700 Canal Street||Stamford
-(683 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+8|ITARKS INC|28 MAIN ST|FARMINGTON|CT
+8|KOYETECH LLC|28 MAIN ST|FARMINGTON|CT
+8|KOYETECH LLC|28 MAIN ST|FAMINGTON|CT
+8|NIKTOR IT IN|28 MAIN ST|FARMINGTON|CT
+8|NIKTOR IT INC|28 MAIN ST|FARMINGTON|CT
+8|NIKTOR LLC|28 MAIN ST|FARMINGTON|CT
+8|NIKTOR LLC|28 MAIN ST|UNIONVILLE|CT
+8|NIKTOR LLC|28 MAIN ST|FRARMINGTON|CT
+3|ANVIL SOLUTIONS INC|360 BLOOMFIELD AVENUE|WINDSOR|CT
+3|BROOKLYN CONSULTING GROUP INC|175 CAPITAL BLVD|ROCKY HILL|CT
+3|CONVENANT TECH SERVICES LLC|1000 LAFAYETTE BLVD.|BRIDGEPORT|CT
+3|COVENANT TECH SERVICES LLC|1000 LAFAYETTE BLVD.|BRIDGEPORT|CT
+3|COVENANT TECH SERVICESLLC|1000 LAFAYETTE BLVD.|BRIDGEPORT|CT
+3|CYENT INC|99 EAST RIVER DRIVE|EAST HARTFORD|CT
+3|CYIENT INC|99 EAST RIVER DRIVE|EAST HARTFORD|CT
+3|CYIENT. INC|99 EAST RIVER DRIVE|EAST HARTFORD|CT
+3|INNOVIM TECHNOLOGY SOLUTIONS INC|360 BLOOMFIELD AVENUE|WINDSOR|CT
+3|KOYETECH LLC|28 MAIN ST.|FARMINGTON|CT
+3|NIKTOR IT INC|28 MAIN ST.|FARMINGTON|CT
+3|NIKTOR LLC|28 MAIN ST.|FARMINGTON|CT
+3|PRISTINE RESOURCE LLC|175 CAPITAL BLVD|ROCKY HILL|CT
+3|SOFTWARE ENTERPRISE LLC|360 BLOOMFIELD AVE|WINDSOR|CT
+3|SOFTWARE ENTERPRISE LLC|360 BLOOMFIELD AVENUE|WINDSOR|CT
+3|SOFTWARE ENTERPRISES LLC|360 BLOOMFIELD AVE|WINDSOR|CT
+3|TANU INFOTECH INC|360 BLOOMFIELD AVE|WINDSOR|CT
+3|TRAYAH TECH LLC|175 CAPITAL BLVD|ROCKY HILL|CT
+2|CAREERWAY SERVICES LLC|7223 AVALON VALLEY DR|DANBURY|CT
+2|CLOUD DATA SYSTEMS INC|11 ASYLUM STREET|HARTFORD|CT
+2|CYENT INC|99 EAST RIVER DR.|EAST HARTFORD|CT
+2|CYIENT INC|99 EAST RIVER DR.|EAST HARTFORD|CT
+2|GLOBAL DB SOLUTIONS INC|4 RESEARCH DRIVE|SHELTON|CT
+2|INNOVIM TECHNOLOGY SOLUTIONS INC|701 JOHN FITCH BLVD|SOUTH WINDSOR|CT
+2|MARC CONSULTING LLC|9 MOTT AVE|NORWALK|CT
+2|QUEST GLOBAL SERVICES- N.A. INC|175 ADDISON ROAD|WINDSOR|CT
+2|QUEST GLOBAL SERVICES-NA INC|175 ADDISON ROAD|WINDSOR|CT
+2|SPRINTPARK|85 FELT ROAD|SOUTH WINDSOR|CT
+2|SPRINTPARK LLC|85 FELT ROAD|SOUTH WINDSOR|CT
+2|TEAMWORK IT SOLUTIONS INC|7223 AVALON VALLEY DR|DANBURY|CT
+2|THE WELLSPRING GROUP INC|4 RESEARCH DRIVE|SHELTON|CT
+2|USDOT NETWORKS INC|11 ASYLUM STREET|HARTFORD|CT
+2|VLINK INC|701 JOHN FITCH BLVD|SOUTH WINDSOR|CT
+2|WEBILENT TECHNOLOGY INC|225 OAKLAND ROAD|SOUTH WINDSOR|CT
+2|WINTEK SOLUTIONS INC|225 OAKLAND ROAD|SOUTH WINDSOR|CT
+2|XLLOW INC|9 MOTT AVE|NORWALK|CT
+1|9TO9 SOFTWARE SOLUTIONS LLC|1224 MILL ST, BLDG B|EAST BERLIN|CT
+1|9TO9 SOFTWARE SOLUTIONS LLC|1224 MILL STREET, BUILDING B|EAST BERLIN|CT
+1|ACCELERATED MEDICAL PHYSICS SERVICE LLC|222 MAIN STREET|FARMINGTON|CT
+1|ACRO SYSTEMS INC|75 HOCKANUM BLVD|VERNON|CT
+1|BETTERITS LLC|2519 WHITNEY AVE|HAMDEN|CT
+1|BIOINFO SYSTEMS LLC|10 COLUMBUS BLVD, 10 FL|HARTFORD|CT
+1|BIOINFO SYSTEMS LLC|10 COLUMBUS BLVD|HARTFORD|CT
+1|CHANCE RIVER LLC|500 SUMMER STREET|STAMFORD|CT
+1|CLARUS COMMERCE LLC DBA EBBO|175 CAPITAL BLVD.|ROCKY HILL|CT
+1|CLOUD DATA SYSTEMS INC|11 ASYLUM ST|HARTFORD|CT
+1|CLOUD DATA SYSTEMS INC|11 ASYLUM ST,  507|HARTFORD|CT
+1|CORPORATE SYSTEMS ASSOCIATES INC|46 COURT STREET|WINDSOR|CT
+1|COVENANT TECH SERVICES LLC|1000 LAFAYETTE BLVD|BRIDGEPORT|CT
+1|CYMA SYSTEMS INC|360 TOLLAND TURNPIKE|MANCHESTER|CT
+1|CYNORT LLC|83 WOOSTER HTS ROAD|DANBURY|CT
+1|DHANSOL SOFTWARE SOLUTIONS LLC|670 DART HILL ROAD,|VERNON|CT
+1|DSL DIGITAL LLC|7 VALLEY FIELD ROAD|WESTPORT|CT
+1|EGB SYSTEMS & SOLUTIONS INC|1010 SUMMER ST|STAMFORD|CT
+1|EGB SYSTEMS & SOLUTIONS INC|1010 SUMMER STREET|STAMFORD|CT
+1|EMINENT SOFTWARE SERVICES|14A PASCO DRIVE|EAST WINDSOR|CT
+1|EMINENT SOFTWARE SERVICES|14A PASCO DR.|EAST WINDSOR|CT
+1|ENTUBER LLC|30 OLD KINGS HIGHWAY SOUTH|DARIEN|CT
+1|ERICHARDS CONSULTING LLC|1381 BURR STREET|FAIRFIELD|CT
+1|EVEREST DX INC|243 TRESSER BLVD|STAMFORD|CT
+1|FUSION SOFTWARE SOLUTIONS LLC|1738 ELLINGTON ROAD|SOUTH WINDSOR|CT
+1|GM2 ASSOCIATES INC|115 GLASTONBURY BOULEVARD|GLASTONBURY|CT
+1|GRT CORPORATION|263 TRESSER BLVD, ONE STAMFORD PLAZA|STAMFORD|CT
+1|GSS INFOTECH CT INC|41B NEW LONDON TURNPIKE|GLASTONBURY|CT
+1|HANSVONLEHWALT INC|181 SCOVILLE ROAD|AVON|CT
+1|HART HALSEY LLC|6 CORPORATE DRIVE|SHELTON|CT
+1|HEALTHPER USA INC|24 GUENEVERE COURT|HAMDEN|CT
+1|IBASE CONSULTING OF FAIRFIELD COUNTY LLC|1 POST ROAD|FAIRFIELD|CT
+1|INFOHUB LLC|57 AUSTIN CIR|SOUTH WINDSOR|CT
+1|INFOMET INC|615 WEST JOHNSON AVENUE|CHESHIRE|CT
+1|INFOWAVE SYSTEMS INC|10 WATERCHASE DRIVE|ROCKY HILL|CT
+1|INNOVATIVE LOGIC SOLUTIONS INC|543 N MAIN ST|MANCHESTER|CT
+1|INNOVATIVE LOGIC SOLUTIONS INC|543 N MAIN STREET|MANCHESTER|CT
+1|INSOURCE TECH LLC|1 MARION ROAD|WESTPORT|CT
+1|INSOURCE TECH LLC|1 MARION RD|WESTPORT|CT
+1|ISOFT LLC|69 STRATFORD XING|AVON|CT
+1|ISOFT LLC|7 MCKEE PLACE|CHESHIRE|CT
+1|ITECH SOLUTIONS INC|20 STANFORD DRIVE|FARMINGTON|CT
+1|KEYSERIES LLC|110 WASHINGTON AVENUE|NORTH HAVEN|CT
+1|KOYETECH LLC|28 MAIN STREET|FARMINGTON|CT
+1|LAASIM TECHNOLOGIES LLC|821 STILLWATER ROAD|STAMFORD|CT
+1|LAASIM TECHNOLOGIES LLC|28 7TH STREET|STAMFORD|CT
+1|MEDWINSURE LLC|984 SOUTHFORD ROAD|MIDDLEBURY|CT
+1|MICROTECH SYSTEMS LLC|1 BLOSSOM ROAD, FARMINGTON, CT|FARMINGTON|CT
+1|MICROTECH SYSTEMS LLC|1789 NEW BRITAIN AVE|FARMINGTON|CT
+1|NAVA SOFTWARE SOLUTIONS LLC|35 COLD SPRING ROAD|ROCKY HILL|CT
+1|NAVA SOFTWARE SOLUTIONS LLC|35 COLD SPRING ROAD, SUITE 125|ROCKY HILL|CT
+1|NEW AVENUE CONSULTING LTD|10 FIELDSTONE DRIVE C/O REED CPA|EASTON|CT
+1|NORTH AMERICA RAPID RESULTS TECHNOLOGIES INC|705 NORTH MOUNTAIN ROAD|NEWINGTON|CT
+1|NUTECH INFORMATION SYSTEMS INC|1177 SUMMER STREET, SUITE 202|STAMFORD|CT
+1|NUTECH INFORMATION SYSTEMS INC|2 ENTERPRISE DRIVE|SHELTON|CT
+1|OMNIMARKETS LLC|22 FOXS LANE|GREENWICH|CT
+1|ON-LINE SYSTEMS INC|790 FARMINGTON AVENUE|FARMINGTON|CT
+1|PARTNERS SOFT INC|515 CENTERPOINT DRIVE|MIDDLETOWN|CT
+1|PARTNERS SOFT INC|515 CENTERPOINT DR.|MIDDLETOWN|CT
+1|PRISTINE RESOURCE LLC|175 CAPITAL BOULEVARD|ROCKY HILL|CT
+1|PROJECT FARMA LLC|710 BRIDGEPORT AVENUE|SHELTON|CT
+1|QUEST GLOBAL SERVICES- N.A. INC|175 ADDISON ROAD SUITE 6F|WINDSOR|CT
+1|QUEST GLOBAL SERVICES- N.A. INC|175 ADDISON ROAD ENTRANCE A|WINDSOR|CT
+1|RAPIDO TECHNOLOGIES LLC|1525 KINGS HWY EAST|FAIRFIELD|CT
+1|RMS IT SOLUTIONS INC|39 BUCKLAND ST|MANCHESTER|CT
+1|RS DATA ARCHITECT SOLUTIONS LLC|63 CHELSEA PL|RIDGEFIELD|CT
+1|SAGARSOFT INC|200 GLASTONBURY BOULEVARD|GLASTONBURY|CT
+1|SAXE DOERNBERGER AND VITA P.C.|35 NUTMEG DRIVE|TRUMBULL|CT
+1|SCOPUS IT INC|8 WRIGHT ST.|WESTPORT|CT
+1|SDG CORPORATION|55 NORTH WATER STREET|NORWALK|CT
+1|SEPALS CORPORATION|100 MILL PALIN ROAD|DANBURY|CT
+1|SEPALS CORPORATION|100 MILL PLAIN ROAD|DANBURY|CT
+1|SIGNINSOFT INC|1 WATERVIEW DR.|SHELTON|CT
+1|SKY NET SYSTEMS INC|26 MAGELLAN LN|EASTON|CT
+1|SOLSTICE SOLUTIONS INC|750 MAIN STREET|HARTFORD|CT
+1|SPARK TECHNOLOGIES INC|750 MAIN ST|HARTFORD|CT
+1|SPARK TECHNOLOGIES INC|750 MAIN ST.|HARTFORD|CT
+1|SPECTRIX ANALYTICAL SERVICES LLC|410 SACKETT POINT ROAD|NORTH HAVEN|CT
+1|SRCS SOLUTIONS INC|360 BLOOMFILED AVE|WINDSOR|CT
+1|SSIT SOLUTIONS LLC|1406 MAIN STREET|EAST HARTFORD|CT
+1|TALENT IT SERVICES INC|776 N. MAIN ST.|MANCHESTER|CT
+1|TANU INFOTECH INC|360 BLOOMFIELD AVE STE 301|WINDSOR|CT
+1|TECHIQ IT LLC|121 FENN ROAD|NEWINGTON|CT
+1|THE TRI-COM CONSULTING GROUP LLC|333 INDUSTRIAL PARK ROAD|MIDDLETOWN|CT
+1|TORANA INC|60 LONG RIDGE ROAD|STAMFORD|CT
+1|TRC ENVIRONMENTAL CORPORATION|21 GRIFFIN ROAD NORTH|WINDSOR|CT
+1|USDOT NETWORKS INC|11 ASYLUM STREET, SUITE 505|HARTFORD|CT
+1|VERTEX ANALYTICS INC|160 CHAPEL ROAD|MANCHESTER|CT
+1|VERTEX ANALYTICS INC|5970 FAIRVIEW ROAD|CHARLOTTE|CT
+1|VIBHATHI LABS INC|104 SILVER SPRING ROAD|WILTON|CT
+1|VIBHATHI LABS INC|15 RIVER ROAD|WILTON|CT
+1|VLINK INC|701 FITCH JOHN BLVD|SOUTH WINDSOR|CT
+1|VLINK INC|701 JOHN FITCH BLVD.|SOUTH WINDSOR|CT
+(137 rows)

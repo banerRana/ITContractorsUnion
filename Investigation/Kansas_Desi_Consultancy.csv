@@ -1,374 +1,98 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-7|MAGNA INFOTECH, LTD.|9300 WEST 110TH STREET|SUITE 630|OVERLAND PARK
-7|SAICON CONSULTANTS INC|9300 WEST 110TH STREET|SUITE 650|OVERLAND PARK
-7|MAGNA INFOTECH, LTD.|9300 West 110th Street|SUITE 630|Overland Park
-7|SAICON CONSULTANTS INC|9300 West 110th Street|SUITE 650|Overland Park
-7|Magna Infotech, Ltd.|9300 West 110th Street|Suite 630|Overland Park
-7|Magna Infotech, Ltd.|9300 West 110th Street|Suite 650|Overland Park
-7|Saicon Consultants Inc|9300 West 110th Street|Suite 650|Overland Park
-6|GRAVITAS TECH LLC|12900 METCALF AVE|STE 190|OVERLAND PARK
-6|Gravitas Tech LLC|12900 Metcalf Ave|STE 190|Overland Park
-6|idatalytics LLC|12900 Metcalf Ave|Suite 150|Overland Park
-6|Idatalytics LLC|12900 Metcalf Ave|Suite 150|Overland Park
-6|iDataLytics LLC|12900 Metcalf Ave|Suite 150|Overland Park
-6|iDatalytics LLC|12900 Metcalf Ave|Suite 150|Overland Park
-6|Optimized Process Designs LLC|4111 E 37th Street North||Wichita
-6|Sentient Energy Inc|4111 E 37th Street North||Wichita
-6|Koch Capabilities LLC|4111 E 37th Street North||Wichita
-6|Koch Business Solutions, LP.|4111 E 37th Street North||Wichita
-6|KBX Technology Solutions LLC|4111 E 37th Street North||Wichita
-6|Koch Engineered Solutions LLC|4111 E 37th Street North||Wichita
-6|INTOUCH GROUP LLC|7045 COLLEGE BLVD|SUITE 300|OVERLAND PARK
-6|EVERSANA LIFE SCIENCE SERVICES LLC|7045 College Blvd|300|Overland Park
-6|Eversana Life Science Services LLC|7045 College Blvd|300|Overland
-6|Eversana Life Science Services LLC|7045 College Blvd|300|Overland Park
-6|Eversana Intouch|7045 College Blvd|300|Overland Park
-6|Eversana Life Science Services LLC|7045 College Blvd||Overland Park
-5|Data Systems International Inc|11101 Switzer Road|3rd Floor|Overland Park
-5|Data Systems International Inc|11101 Switzer Road|Flr. 3|Overland Park
-5|Data Systems International Inc|11101 Switzer Road|Ste 300|Overland Park
-5|Actuarial Resources Corporation of Kansas|11101 Switzer Road|Suite 105|Overland Park
-5|Data Systems International Inc|11101 Switzer Road|Suite 300|Overland Park
-5|Black & Veatch Management Consulting LLC|11401 Lamar Avenue||Overland Park
-5|Overland Contracting Inc|11401 Lamar Avenue||Overland Park
-5|Black & Veatch Puerto Rico PSC|11401 Lamar Avenue||Overland Park
-5|Diode Ventures LLC|11401 Lamar Avenue||Overland Park
-5|Black & Veatch Corporation|11401 Lamar Avenue||Overland Park
-5|Epiq eDiscovery Solutions Inc|501 Kansas Avenue|Suite 200|Kansas City
-5|Epiq eDiscovery Solutions Inc|501 Kansas Avenue||Kansas City
-5|Epiq eDiscovery Solutions Inc (LS)|501 Kansas Avenue||Kansas City
-5|Epiq Systems Inc (Corporate) DBA Epiq|501 Kansas Avenue||Kansas City
-5|Epiq Systems Inc|501 Kansas Avenue||Kansas City
-4|NICUSA INC|25501 WEST VALLEY PARKWAY|SUITE 300|OLATHE
-4|NIC SOLUTIONS LLC|25501 WEST VALLEY PARKWAY|SUITE 300|OLATHE
-4|NIC Solutions LLC|25501 West Valley Parkway|SUITE 300|Olathe
-4|NICUSA Inc|25501 West Valley Parkway|SUITE 300|Olathe
-4|S4Soft Inc|6600 W 95th St|STE 206|Overland Park
-4|S4SOFT INC|6600 W 95th St|STE 206|Overland Park
-4|Ashatek LLC|6600 W 95th St|Suite 203|Overland Park
-4|ASHATEK LLC|6600 W 95th St|Suite 203|Overland Park
-4|Vytelle LLC|8789 Penrose Lane|STE 250|Lenexa
-4|Vytelle LLC|8789 Penrose Lane|Suite 250|Lenexa
-4|Centralized Supply Chain Services|8789 Penrose Lane|Suite 300|Lenexa
-4|Centralized Supply Chain Services LLC|8789 Penrose Lane|Suite 300|Lenexa
-3|Triotek IT INC|10800 Farley Street|Suite 200|Overland Park
-3|Triotek IT INC|10800 Farley street|Suite 200|Overlandpark
-3|TRIOTEK IT INC|10800 Farley street|Suite 200|Overlandpark
-3|GLMV Architecture Inc|1525 E. Douglas Avenue|N/A|Wichita
-3|GLMV Architecture Inc|1525 E. Douglas Avenue||Wichita
-3|Tessere Inc|1525 E. Douglas Avenue||Wichita
-3|NIC SOLUTIONS LLC|25501 WEST PARKWAY|SUITE 300|OLATHE
-3|NICUSA Inc|25501 WEST PARKWAY|SUITE 300|OLATHE
-3|NICUSA INC|25501 WEST PARKWAY|SUITE 300|OLATHE
-3|KCOE ISOM, LLP|3030 Cortland Circle||Salina
-3|Pinion LLC|3030 Cortland Circle||Salina
-3|KCoe Isom LLP|3030 Cortland Circle||Salina
-3|Cosmos IT Solutions|3706 SW TOPEKA BLVD|SUITE 418|Topeka
-3|Cosmos IT Solutions|3706 SW TOPEKA BLVD|SUITE 418|TOPEKA
-3|Cosmos IT Solutions Inc|3706 SW Topeka Blvd|Suite 418|Topeka
-3|UnitedLex Corporation|6130 Sprint Pkwy|275 Suite|Overland Park
-3|UnitedLex Corporation|6130 Sprint Pkwy|Suite 275|Overland Park
-3|Marshall Denning|6130 Sprint Pkwy|Suite 275|Overland Park
-3|StaffingTree Inc|7201 W 129th St|STE 180|Overland Park
-3|StaffingTree Inc|7201 W 129th St|Suite 180|Overland Park
-3|Staffingtree Inc|7201 W 129th St|Suite 180|Overland Park
-3|ReachMobi Inc|7500 College Blvd|Ste 1110|Overland Park
-3|Wyngate Solutions|7500 College Blvd|Suite 500|Overland Park
-3|SynopticIT LLC|7500 College Blvd|Suite 541|Overland Park
-3|SUNAR TECH SOLUTIONS INC|8101 COLLEGE BLVD|STE 100|OVERLAND PARK
-3|Agelix Consulting LLC|8101 College Blvd|Ste 100|Overland Park
-3|Aranya Cloud Technologies LLC|8101 College Blvd|Suite 100|Overland Park
-3|CloudSaver Inc|9401 Indian Creek Parkway|Suite 1500|Overland Park
-3|Global Soft Systems Inc|9401 Indian Creek Parkway|Suite 570|Overland Park
-3|CloudSaver Inc|9401 Indian Creek Parkway||Overland Park
-2|Acrotek IT Solutions Inc|10100 W 87th St|Ste 205|Overland Park
-2|Acrotek IT Solutions INC|10100 W 87th St|Ste 205|Overland Park
-2|Altasciences Clincial Kansas Inc|10103 Metcalf Avenue||Overland Park
-2|ALTASCIENCES CLINCIAL KANSAS LLC|10103 Metcalf Avenue||Overland Park
-2|Treanor Inc|1040 Vermont Street||Lawrence
-2|TreanorHL Inc|1040 Vermont Street||Lawrence
-2|Iprime Info Solutions Inc|10551 Barkley St|Ste 405|Overland Park
-2|Iprime Info Solutions|10551 Barkley St|Ste 405|Overland Park
-2|Global Soft Systems Inc|10801 Mastin Blvd|Suite 510|Overland Park
-2|Global Soft Systems Inc|10801 Mastin Blvd|Suite 510|OVERLAND PARK
-2|Global Soft Systems Inc|10801 Mastin St|Suite 510|Overland Park
-2|Propio LS LLC|10801 Mastin St|Suite 580|Overland Park
-2|Integris BioServices LLC|10830 S Clay Blair Blvd||Olathe
-2|Integris Bioservices LLC|10830 S Clay Blair Blvd||Olathe
-2|CUSTOM DREDGE WORKS INC|1105 NW LOWER SILVER LAKE ROAD||TOPEKA
-2|Custom Dredge Works Inc|1105 NW Lower Silver Lake Road||Topeka
-2|WellSky Corporation|11300 Switzer Road||Overland Park
-2|WellSky Coporation|11300 Switzer Road||Overland
-2|iRunway Inc|11501 Outlook St||Overland Park
-2|UnitedLex Corporation|11501 Outlook St||Overland Park
-2|NUVENTO INC|12900 METCALF AVENUE|SUITE 160|OVERLAND PARK
-2|LIMRA Solutions LLC|12900 Metcalf Avenue|Suite 120|Overland Park
-2|PLANET AI INVENTIONS LLC|12980 FOSTER STREET|SUITE 170|OVERLAND PARK
-2|PLANET AI INVENTIONS LLC|12980 Foster Street|Suite 170|Overland Park
-2|Revolutionary Business Concepts Inc|13715 W 109th Street||Lenexa
-2|RBC Development LLC|13715 W 109th Street||Lenexa
-2|NETWORKS INTERNATIONAL CORPORATION|15237 BROADMOOR STREET||OVERLAND PARK
-2|Networks International Corporation|15237 Broadmoor Street||Overland Park
-2|Tessere Inc|1525 East Douglas Avenue||Wichita
-2|GLMV Architecture Inc|1525 East Douglas Avenue||Wichita
-2|PERFORMANCE SOFTTECH SOLUTIONS INC|1701 SW FAIRLAWN ROAD||TOPEKA
-2|Performance Softech Solutions Inc|1701 SW Fairlawn Road||Topeka
-2|ATTENTIVE SCIENCE LLC|17745 METCALF AVENUE|BUILDING 4|STILWELL
-2|Attentive Science LLC|17745 Metcalf Avenue|Bldg. 4|Stilwell
-2|Eurofins Viracor BioPharma Services Inc|18000 West 99th Street|N/A|Lenexa
-2|Eurofins Viracor BioPharma Services Inc|18000 West 99th Street||Lenexa
-2|GATIX E-SOLUTIONS INC|230 S LAURA|SUITE 105|WICHITA
-2|Gatix E-Solutions Inc|230 S Laura|Suite 105|Wichita
-2|KeyCentrix LLC|2420 N. Woodlawn Blvd.|Suite 500|Wichita
-2|Keycentrix LLC|2420 N. Woodlawn Blvd.|Suite 500|Wichita
-2|GATIX E-SOLUTIONS INC|401 E 1ST STREET|MAYFLOWER BUILDING|WICHITA
-2|GATIX E SOLUTIONS INC|401 E 1ST STREET|MAYFLOWER BUILDING|WICHITA
-2|KeyCentrix LLC|423 E. Douglas Avenue||Wichita
-2|Keycentrix LLC|423 E. Douglas Avenue||Wichita
-2|INFO ORIGIN INC|534 S KANSAS AVE|STE 230|TOPEKA
-2|Info Origin Inc|534 S Kansas Ave|Ste 230|Topeka
-2|CARTESIAN INC|6405 METCALF AVENUE|SUITE 417|OVERLAND PARK
-2|Cartesian Inc|6405 Metcalf Avenue|Suite 417|Overland Park
-2|I GIANTS INC|6740 W 121ST STREET|SUITE 101|LEAWOOD
-2|I Giants Inc|6740 W 121ST STREET|SUITE 101|LEAWOOD
-2|Triovix|7200 West 132nd Street|Suite 180|Overland Park
-2|Roth Environmental Consultants Inc|7200 West 132nd Street|Suite 360|Overland Park
-2|HYR GLOBAL SOURCE INC|7304 W 130TH STREET|SUITE 220|OVERLAND PARK
-2|cyberbrains, inc.|7304 W 130th Street|ste 360|overland park
-2|MMGY GLOBAL LLC|7309 W 80TH ST|SUITE 400|OVERLAND PARK
-2|MMGY Global LLC|7309 W 80th St|400|Overland Park
-2|INNOVA Consulting LLC|7450 W 130th Street|Suite 220|Overland Park
-2|Constructive Engineering Design Inc|7450 W 130th Street|Suite 220|Overland Park
-2|Tyler Technologies Inc|7701 W College Boulevard||Overland Park
-2|NIC Solutions LLC|7701 W College Boulevard||Overland Park
-2|Kentucky Interactive LLC|7701 W. College Boulevard||Overland Park
-2|Tyler Technologies Inc|7701 W. College Boulevard||Overland Park
-2|SISMOS SOLUTIONS INC|7810 W 119TH ST.||OVERLAND PARK
-2|I GIANTS INC|7810 W 119TH ST.||OVERLAND PARK
-2|Dynamic ITSolutions Inc|7900 College Blvd|Suite 111|OVERLAND PARK
-2|Sohum Systems LLC|7900 College Blvd|Suite 135|Overland Park
-2|Dynamic ITSolutions Inc|7900 College Blvd.|Suite 111|Overland Park
-2|DriverDO LLC|7900 College Blvd.|Suite 141|Overland Park
-2|Sara Software Systems LLC|804 N Meadowbrook Dr|Suite 142|Olathe
-2|Sara Software Systems LLC|804 N Meadowbrook Dr||Olathe
-2|Sara Software Systems LLC|804 N Meadowbrook Drive|Ste 142|Olathe
-2|Sara Software Systems LLC|804 N Meadowbrook Drive|Suite 142|Olathe
-2|Veracity Consulting Inc|8100 Newton Street|210|Overland Park
-2|Veracity Consulting Inc|8100 Newton Street|Suite 210|Overland Park
-2|Caravan Ingredients|8250 Flint Street||Lenexa
-2|Caravan Ingredients Inc|8250 Flint Street||Lenexa
-2|Solea Energy LLC|9300 W. 110th Street|Suite 350|Overland Park
-2|Solea Energy LLC|9300 W. 110th Street||Overland Park
-2|CloudSaver Inc|9401 Indian Creek Pkwy|Suite 1500|Overland park
-2|Global Soft Systems Inc|9401 Indian Creek Pkwy|Suite 570|Overland Park
-1|BioData Solutions|10 E. 9th Street|Suite D|Lawrence
-1|LK Architecture|100 N. Broadway|Suite 800|Wichita
-1|iTact LLC|10000 W, 75th St|Suite 200 17|Merriam
-1|Midwest Evaluation and Research LLC|1005 Constitution St|Suite 500|Emporia
-1|Altasciences Clinical Kansas Inc|10103 Metcalf Ave||Overland Park
-1|Landworks Studio LLC|102 S. Cherry Street||Olathe
-1|BioData Solutions|1021 1/2 Massachusetts Street|Suite 4|Lawrence
-1|ELP Aviation Inc|103 W Spring Avenue|Suite A|Conway Springs
-1|ELP Aviation Inc|103 W Spring Avenue, Suite A||Conway Springs
-1|BlueAlly Technology Solutions LLC|10551 Barkley Street|STE 400|Overland Park
-1|Triotek IT INC|10800 Farley Street,|Suite 200|Over Land Park
-1|Triotek IT Inc|10800 Farley street, Suite 200,||Overland park
-1|Global Soft Systems Inc|10801 MASTIN BLVD,|Suite 510|OVERLAND PARK
-1|Global Soft Systems Inc|10801 Mastin Boulevard|Suite 510|Overland Park
-1|Propio LS LLC|10801 Mastin St.|Suite 580|Overland Park
-1|Global Soft Systems Inc|10801 Mastin Street|Suite 510|Overland Park
-1|Integris Bioservices LLC|10830 S Clay Blair Boulevard||Olathe
-1|Terracon Consultants Inc|10841 S Ridgeview Road||Olathe
-1|Terracon Consultants Inc|10841 S. Ridgeview Road||Olathe
-1|Tetra Computing LLC|10875 Benson Dr Corp Woods-11|Suite 110|Overland Park
-1|George Clinical Inc|10975 Benson Drive|Suite 200|Overland Park
-1|Velociti Inc|10983 Granada Lane, Ste 210||Overland Park
-1|SYNOPTICIT LLC|11002 W 163ROAD TER||OVERLAND PARK
-1|XenoTech LLC|1101 W. Cambridge Circle Drive||Kansas City
-1|CloudSaver Inc|11035 Strang Line Road||Lenexa
-1|Netsmart Technologies Inc|11100 Nall Avenue||Overland Park
-1|Healthmate International LLC|11100 W 82nd St|Ste 110|Lenexa
-1|Tri-Com Technical Service LC|11115 Ash Street||Leawood
-1|Indra USA Inc|11130 West 89th Street||Overland Park
-1|GG Advisors LLC|11181 Overbrook Road|Suite 200|Leawood
-1|Retail Success LLC|11230 College Blvd||Overland Park
-1|Black & Veatch Corporation|11401 Lamar Ave||Overland Park
-1|Hoefer Welker LLC|11460 Tomahawk Creek Parkway|Suite 400|Leawood
-1|UnitedLex Corporation|11501 Outlook|Suite 450|Overland Park
-1|UnitedLex Corporation|11501 Outlook St.||Overland Park
-1|UnitedLex Corporation|11501 Outlook Street|Suite 450|Overland Park
-1|LIMRA Solutions LLC|11512 W. 119th St.||Overland Park
-1|Waters Edge Aquatic Design|1153 Southwest Blvd|Ste 202|Kansas City
-1|Epiq Systems Inc (Corporate) DBA Epiq|11880 College Blvd|Suite 200|Overland Park
-1|GHS Inc|119 W Main||Sterling
-1|Techquency LLC|11915 Birch St|Apt 159|Overland Park
-1|BARTLETT & WEST INC|1200 SW EXECUTIVE DRIVE||TOPEKA
-1|Spangenberg Phillips Tice LLC|121 N. Mead|Suite 201|Wichita
-1|Boomn LLC|12118 Melrose St||Overland Park
-1|Boomn LLC|12118 Melrose St.||Overland Park
-1|TECHVORKS LLC|12230 W 135TH ST.|SUITE 6|OVERLAND PARK
-1|Techvorks LLC|12230 W 135th Street|Suite 6|Overland Park
-1|Integris BioServices LLC|12400 Shawnee Mission Parkway||Shawnee
-1|Douglas L. Freeman, CPA LLC|12701 Metcalf Ave|Suite 202|Overland Park
-1|Aerosol Research and Engineering Laboratories Inc|12870 Metcalf Avenue||Overland Park
-1|Aerosol Research and Engineering Laboratories Inc|12880 Metcalf Avenue||Overland Park
-1|GATEWAY SOLUTIONS INC|12980 METCALF AVENUE|SUITE 330|OVERLAND PARK
-1|RR Info Tech LLC|12980 Metcalf Ave|Suite 320|Overland Park
-1|Mixon Hill Inc|12980 Metcalf Avenue, Suite 470||Overland Park
-1|WellSky Corporation|1300 Switzer Road||Overland Park
-1|True North Market Insights LLC|1301 Wagon Wheel Road||Lawrence
-1|The Roark Group LLC|1319 Wakarusa Dr.|Suite A|Lawrence
-1|Vensa Tek LLC|13200 Metcalf Ave|Suite 270|Overland Park
-1|Vensa Tek LLC|13200 Metcalf Avenue|Suite 270|Overland Park
-1|Oalva Inc|13220 Metcalf Avenue|Suite 370|Overland Park
-1|MPWR IT Services LLC|13288 Bluejacket Street||Overland Park
-1|Pearson Kent McKinley Raaf Engineers LLC|13300 W. 98th Street||Lenexa
-1|Qualitas Consulting Group|13725 Metcalf Ave|328|Overland Park
-1|Enterprise Pals Inc|13825 Richard Street||Overland Park
-1|RHYTHM ENGINEERING LLC|14019 W 95th Street||LENEXA
-1|Ainstein AI Inc|1421 Research Park Drive|Suite 2A|Lawrence
-1|CEENA LLC|14332 FLINT ST||OVERLAND PARK
-1|CEENA LLC|14332 FLINT STREET||OVERLAND PARK
-1|MGC GLOBAL IT INC|14400 METCALF AVENUE|SUITE 35|OVERLAND PARK
-1|ILABS INC|14401 Ballentine St.||Overland Park
-1|Ascend InfoTech Inc|14670 Barkley St|Apt 31201|Overland Park
-1|RBC Development LLC|15200 Santa Fe Trail|Suite 100|Lenexa
-1|RBC Development LLC|15200 Santa Fe Trail Drive|Suite 100|Lenexa
-1|GLMV Architecture Inc|1525 E. Douglas Ave||Wichita
-1|Prime Place LLC|1532 College Avenue|F19|Manhattan
-1|Aerosol Research and Engineering Laboratories Inc|15320 S. Cornice Street||Olathe
-1|Hoss & Brown Engineers Inc|15902 Midland Drive||Shawnee
-1|AP PREMIER STAFFING INC|15954 W 160TH TERRACE||OLATHE
-1|RR Info Tech LLC|15970 S Bradley Dr, Suite 108||Olathe
-1|Kodion Consulting LLC|1608 Industrial Road||Paola
-1|Johnson County Clin-Trials|16400 College Blvd.||Lenexa
-1|RD2RX LLC|16825 W 116th Street||Lenexa
-1|BLUE InfoSoft Inc|17333 Ballentine St||Overland Park
-1|RR Info Tech LLC|1742 W 165th St||Olathe
-1|Entrust Solutions Group LLC|17775 W 106th Street||Olathe
-1|Fairmount Technologies LLC|1845 Fairmount St  35||Wichita
-1|RTECHNOSYSTEMS LLC|200 E 1  STREET|SUITE 411|WICHITA
-1|RTECHNOSYSTEMS LLC|200 E 1 STREER|SUITE 411|WICHITA
-1|RTECHNOSYSTEMS LLC|200 E 1 STREET|SUITE 411|WICHITA
-1|RTECHNO SYSTEMS LLC|200 E 1ST STREET|SUITE 411|WICHITA
-1|Saola Energy LLC|200 W. Douglas Avenue|Suite 230|Wichita
-1|Ainstein AI Inc|2029 Becker Drive||Lawrence
-1|KG R&D LLC|2031 Indian Road||Fort Scott
-1|Expleo USA Inc|220 W. Douglas, Ste. 250||Wichita
-1|Cbagllc|2219 S Stoneybrook Ct||Wichita
-1|Schwerdt Design Group Inc|2231 SW Wanamaker Road|Suite 303|Topeka
-1|E2 ENTERPRISES INC|230 S LAURA AVE|SUITE 105|WICHITA
-1|The Land Institute|2440 East Water Well Road||Salina
-1|JurySync LLC|25255 E 102nd Terrace, Ste 200||Olathe
-1|JurySync LLC|25255 E 102nd Terrace, Ste. 200||Olathe
-1|Pinnacle Technologies DE LLC|2721 Oregon Street||Lawrence
-1|NorthWind Technical Services LLC|2751 Antelope Road||Sabetha
-1|AVIUM LLC|2920 HASKELL AVE|SUITE 100|LAWRENCE
-1|Cook, Flatt & Strobel Engineers, P.A.|2930 SW Woodside Drive||Topeka
-1|Allen, Gibbs & Houlik, L.C.|301 N Main Suite|Suite 1700|Wichita
-1|Novacoast Inc|301 N. Main St.|Suite 2100|Wichita
-1|CivicPlus LLC|302 S. 4th Street|Suite 500|Manhattan
-1|Health Facilities Group LLC|330 N Mead St, Suite 100||Wichita
-1|Dimensional Innovations|3421 Merriam Drive||Overland Park
-1|LK Architecture Inc|345 N. Riverview St|Suite 200|Wichita
-1|LK Architecture Inc|345 Riverview Drive|Suite 200|Wichita
-1|AdamsBrown LLC|358 N. Main Street|Suite 100|Wichita
-1|Greenfield Robotics Corporation|36706 West 39th Street South||Cheney
-1|Edminster Bhandari Inc|3700 E. Douglas Avenue|Suite 48|Wichita
-1|Cosmos IT Solutions Inc|3706 SW Topeka Blvd.|Suite 418|Topeka
-1|C2i Inc|4108 Sherwood Drive||Hutchinson
-1|OnPoint Digital Solutions LLC|4111 E  37th Street N||Wichita
-1|Meara Welch Browne, P.C.|4121 W 83rd Street|Suite 260|Prairie village
-1|Viaanix Inc|434 N Main||Wichita
-1|R&S Agency Inc|44 S 7th Street||Kansas City
-1|SK Design Group Inc|4600 College Blvd.|Suite 100|Overland Park
-1|Kodion Consulting LLC|4601 E Douglas|Ste 150|Witchita
-1|SHIL Technologies Inc|4601 E Douglas Suite 150||Wichita
-1|RiseNow LLC|4901 W 136th St||Leawood
-1|Design-Zyme LLC|4950 Research Park Way||Lawrenece
-1|Omega Thermal Solutions Group LLC|501 N Penn Ave|Ste 1|Independence
-1|Optiv Security Inc|5100 W 115th Place||Leawood
-1|BLUE InfoSoft Inc|5251 W 116th Place|Suite 200|Leawood
-1|Chelsoft Solutions Co.|527 N. MUR-LEN ROAD|Suite B|Olathe
-1|Chelsoft Solutions Co.|527 N. MUR-LEN ROAD, Suite B||Olathe
-1|Chelsoft Solutions Co.|527 N. Mur-Len Road, Ste. B||Olathe
-1|Info Origin Inc|534 S Kansas Avenue|Suite 230|Topeka
-1|INFO ORIGIN INC|534 S. KANSAS AVENUE|SUITE 230|TOPEKA
-1|hoCFD LLC|5400 Overland Dr. B5||Lawrence
-1|Porter McGuffie Inc|544 Columbia Drive|Suite 19|Lawrence
-1|ILABS INC|5440 W 110th Street|Suite 300|Overland Park
-1|Onyx Technology LLC|5620 High Drive||Mission Hills
-1|Data Migration Resources Inc|5800 Foxridge Drive|Suite 412|Mission
-1|ScriptPro LLC|5828 Reeds Road||Mission
-1|Butler & Associates, P.A.|5835 SW 29th St|Ste 101|Topeka
-1|Chad E. Cowan, CPA P.A.|605 State Street||Augusta
-1|Digital Plus Solutions LLC|6130 Sprint Parkway|Ste 175|Overland Park
-1|Optiv Security Inc|6130 Sprint Parkway Ste 400||Overland Park
-1|BC CAPITAL INC|6217 SW 10 TH AVE||TOPEKA
-1|Argus Consulting Inc|6363 College Blvd, Ste 600||Overland Park
-1|Object Technology Solutions Inc|6363 College Blvd.|Suite 230|Overland Park
-1|cyberbrains, inc.|6400 Glenwood|ste 301|overland park
-1|American Rail Engineers Corporation|6405 Metcalf Ave|Suite 503|Overland Park
-1|Martin Pringle Oliver Wallace & Bauer L.P.|645 E. Douglas|Suite 110|Wichita
-1|SYNOPTICIT LLC|6520 W 110th Street|Suite 204A|OVERLAND PARK
-1|Ashatek LLC|6600 W 95th St.|Suite 203|Overland Park
-1|A K Consulting Services Inc|6727 SW Wentley Ln||Topeka
-1|SISMOS SOLUTIONS INC|6740 W 121ST ST.|SUITE 150|LEAWOOD
-1|3 Fuerzas Technology Solutions LLC|6750 W 93rd Street|Suite 140|Overland Park
-1|Atonix Digital LLC|6772 W. 163rd Terrace||Stilwell
-1|XAVEM CLOUD INC|6800 W 107th|Suite 200|Overland Park
-1|MarksNelson Advisory LLC|6800 W 115th Street|Suite 3511|Overland Park
-1|MarksNelson Advisory LLC|6800 W. 115th Street|Suite 5311|Overland Park
-1|Foy Consulting & Engineering LLC|6900 College Blvd.|Suite 600|Overland Park
-1|SnapIt Solutions LLC|6900 Colloge Blvd.|Suite470|Overland Park
-1|Ashok B. Bavishi, CPA|7180 W 107th Street|Suite 16|Overland Park
-1|RR Info Tech LLC|7200 W 132ND ST|STE 300|OVERLAND PARK
-1|Staffingtree Inc|7201 W 129 ST|STE 180|Overland Park
-1|ETC Institute|725 W Frontier Ln||Olathe
-1|Lula LLC|7285 W 132nd Street|Suite 150|Overland Park
-1|Randel Solutions LLC|7300 W. 110th Street|Suite 700|Overland Park
-1|RELIVETEK INC|7300 WEST 110TH STREET|SUITE 700|OVERLAND PARK
-1|American Info Systems Inc|7300 West 110th Street, Commerce Plaza 1|Suite 700|Overland Park
-1|Node Tek Solutions Inc|7300 West,  110th street|Suite 755|Overland Park
-1|Garver LLC|7301 W 129th Street|Suite 330|Overland Park
-1|SabNext LLC|7335 E Kellogg Drive||Wichita
-1|Squadron Data Inc|7415 W. 130th Street|Suite 290|Overland Park
-1|Triotek IT INC|75 Corporate Woods,10800 Farley Street|Suite 200|Overland Park
-1|Tyler Technologies Inc|7701  W College Boulevard||Overland Park
-1|TYLER TECHNOLOGIES INC|7701 COLLEGE BOULEVAROAD||OVERLAND PARK
-1|Tyler Technologies Inc|7701 College Blvd.||Overland Park
-1|Tyler Technologies Inc|7701 College Boulevard||Overland Park
-1|SnapIT Solutions LLC|7780 W. 119th Street||Overland Park
-1|I Giants Inc|7810 W 119TH ST||OVERLAND PARK
-1|SISMOS SOLUTIONS INC|7810 W. 119TH ST.||OVERLAND PARK
-1|Lifted Logic Farms LLC|7815 Floyd Street||Overland Park
-1|MagicPixel Inc|7863 W 155TH TERRACE||OVERLAND PARK
-1|DYNAMIC ITSOLUTIONS INC|7900 COLLEGE BOULEVAROAD|Suite 111|OVERLAND PARK
-1|Argus Consulting Inc|7900 College Blvd Ste 200||Overland Park
-1|Dynamic ItSolutions Inc|7900 College Boulevard|Suite 111|Overland Park
-1|QSPEC Solutions Incorporated|7949 Bond Street||Lenexa
-1|Shelden Architecture Inc|800 E. 1st|Suite 140|Wichita
-1|Ruckus Creative Group LLC|8001 Metcalf Ave, Ste 200||Overland Park
-1|Sara Software Systems LLC|804 N. Meadowbrook Drive|Suite 142|Olathe
-1|Aranya Cloud Technologies LLC|8101 College Blvd Suite 100 0||Overland Park
-1|Aranya Cloud Technologies LLC|8101 College Blvd.|Suite 100|Overland Park
-1|Stand Structural Engineering Inc|8234 Robinson Street||Overland Park
-1|Purple Wave Inc|825 Levee Drive||Manhattan
-1|Falk Architects Inc|827 N Kansas Ave||Topeka
-1|Henderson Engineers Inc|8345 Lenexa Drive|Suite 300|Lenexa
-1|NetXD Inc|840 Massachusetts St||Lawrence
-1|Uhlig LLC|8455 Lenexa Drive||Overland Park
-1|Renaissance Infrastructure Consulting Inc|8653 Penrose Lane||Lenexa
-1|FSC Inc|8675 West 96th Street||Overland Park
-1|Firemon LLC|8801 Renner Blvd|Suite 200|Lenexa
-1|Quinn Engineering LLC|8826 Santa Fe Drive|215B|Overland Park
-1|The Lead Group LLC|8900 State Line Road|Suite 200|Leawood
-1|Architect One Inc|906 S Kansas Avenue|Suite 200|Topeka
-1|Clark Huesemann LC|927 1-2 Massachusetts Street||Lawrence
-1|Bridge Builder Tax plus Legal Servies, P.A.|9325 Pflumm Road||Lenexa
-1|Artin LLP|9393 W 110th Street|Suite 500|Overland Park
-1|NEOBOTREE TECHNOLOGIES LLC|9511 W 151st TER||Overland Park
-1|NEOBOTREE TECHNOLOGIES LLC|Commerce Plaza, 7300 W 110th St 7th Floor|Suite 700|Overland Park
-1|SOFTWARE NINE LLC|FARM BUILDING 200 E 1ST STREET|SUITE 411|WICHITA
-1|Onyx Technology LLC|Onyx Technology, LLC|5620 High Drive|Mission Hills
-(372 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+2|ARANYA CLOUD TECHNOLOGIES LLC|8101 COLLEGE BLVD|OVERLAND PARK|KS
+2|ASHATEK LLC|6600 W 95TH ST|OVERLAND PARK|KS
+2|BLACK & VEATCH CORPORATION|11401 LAMAR AVENUE|OVERLAND PARK|KS
+2|COSMOS IT SOLUTIONS|3706 SW TOPEKA BLVD|TOPEKA|KS
+2|COSMOS IT SOLUTIONS INC|3706 SW TOPEKA BLVD|TOPEKA|KS
+2|CYBERBRAINS INC.|7304 W 130TH STREET|OVERLAND PARK|KS
+2|DYNAMIC ITSOLUTIONS INC|7900 COLLEGE BLVD|OVERLAND PARK|KS
+2|GATIX E SOLUTIONS INC|401 E 1ST STREET|WICHITA|KS
+2|GATIX E-SOLUTIONS INC|401 E 1ST STREET|WICHITA|KS
+2|HYR GLOBAL SOURCE INC|7304 W 130TH STREET|OVERLAND PARK|KS
+2|I GIANTS INC|7810 W 119TH ST.|OVERLAND PARK|KS
+2|IPRIME INFO SOLUTIONS|10551 BARKLEY ST|OVERLAND PARK|KS
+2|IPRIME INFO SOLUTIONS INC|10551 BARKLEY ST|OVERLAND PARK|KS
+2|MAGNA INFOTECH LTD.|9300 WEST 110TH STREET|OVERLAND PARK|KS
+2|OVERLAND CONTRACTING INC|11401 LAMAR AVENUE|OVERLAND PARK|KS
+2|S4SOFT INC|6600 W 95TH ST|OVERLAND PARK|KS
+2|SAICON CONSULTANTS INC|9300 WEST 110TH STREET|OVERLAND PARK|KS
+2|SISMOS SOLUTIONS INC|7810 W 119TH ST.|OVERLAND PARK|KS
+2|SOHUM SYSTEMS LLC|7900 COLLEGE BLVD|OVERLAND PARK|KS
+2|SUNAR TECH SOLUTIONS INC|8101 COLLEGE BLVD|OVERLAND PARK|KS
+1|A K CONSULTING SERVICES INC|6727 SW WENTLEY LN|TOPEKA|KS
+1|ACROTEK IT SOLUTIONS INC|10100 W 87TH ST|OVERLAND PARK|KS
+1|AMERICAN INFO SYSTEMS INC|7300 WEST 110TH STREET, COMMERCE PLAZA 1|OVERLAND PARK|KS
+1|ARANYA CLOUD TECHNOLOGIES LLC|8101 COLLEGE BLVD SUITE 100 0|OVERLAND PARK|KS
+1|ARANYA CLOUD TECHNOLOGIES LLC|8101 COLLEGE BLVD.|OVERLAND PARK|KS
+1|ARGUS CONSULTING INC|7900 COLLEGE BLVD STE 200|OVERLAND PARK|KS
+1|ASCEND INFOTECH INC|14670 BARKLEY ST|OVERLAND PARK|KS
+1|ASHATEK LLC|6600 W 95TH ST.|OVERLAND PARK|KS
+1|BLUE INFOSOFT INC|17333 BALLENTINE ST|OVERLAND PARK|KS
+1|BLUE INFOSOFT INC|5251 W 116TH PLACE|LEAWOOD|KS
+1|BLUEALLY TECHNOLOGY SOLUTIONS LLC|10551 BARKLEY STREET|OVERLAND PARK|KS
+1|CBAGLLC|2219 S STONEYBROOK CT|WICHITA|KS
+1|CEENA LLC|14332 FLINT ST|OVERLAND PARK|KS
+1|CHELSOFT SOLUTIONS CO.|527 N. MUR-LEN ROAD, STE. B|OLATHE|KS
+1|CHELSOFT SOLUTIONS CO.|527 N. MUR-LEN ROAD|OLATHE|KS
+1|CHELSOFT SOLUTIONS CO.|527 N. MUR-LEN ROAD, SUITE B|OLATHE|KS
+1|COSMOS IT SOLUTIONS INC|3706 SW TOPEKA BLVD.|TOPEKA|KS
+1|CYBERBRAINS INC.|6400 GLENWOOD|OVERLAND PARK|KS
+1|DATA MIGRATION RESOURCES INC|5800 FOXRIDGE DRIVE|MISSION|KS
+1|DYNAMIC ITSOLUTIONS INC|7900 COLLEGE BOULEVARD|OVERLAND PARK|KS
+1|DYNAMIC ITSOLUTIONS INC|7900 COLLEGE BLVD.|OVERLAND PARK|KS
+1|E2 ENTERPRISES INC|230 S LAURA AVE|WICHITA|KS
+1|ENTERPRISE PALS INC|13825 RICHARD STREET|OVERLAND PARK|KS
+1|GATEWAY SOLUTIONS INC|12980 METCALF AVENUE|OVERLAND PARK|KS
+1|GATIX E-SOLUTIONS INC|230 S LAURA|WICHITA|KS
+1|GLOBAL SOFT SYSTEMS INC|10801 MASTIN STREET|OVERLAND PARK|KS
+1|GLOBAL SOFT SYSTEMS INC|9401 INDIAN CREEK PKWY|OVERLAND PARK|KS
+1|GLOBAL SOFT SYSTEMS INC|10801 MASTIN ST|OVERLAND PARK|KS
+1|GLOBAL SOFT SYSTEMS INC|10801 MASTIN BLVD|OVERLAND PARK|KS
+1|GRAVITAS TECH LLC|12900 METCALF AVE|OVERLAND PARK|KS
+1|I GIANTS INC|6740 W 121ST STREET|LEAWOOD|KS
+1|I GIANTS INC|7810 W 119TH ST|OVERLAND PARK|KS
+1|INFO ORIGIN INC|534 S. KANSAS AVENUE|TOPEKA|KS
+1|INFO ORIGIN INC|534 S KANSAS AVE|TOPEKA|KS
+1|INFO ORIGIN INC|534 S KANSAS AVENUE|TOPEKA|KS
+1|INNOVA CONSULTING LLC|7450 W 130TH STREET|OVERLAND PARK|KS
+1|ITACT LLC|10000 W, 75TH ST|MERRIAM|KS
+1|MAGICPIXEL INC|7863 W 155TH TERRACE|OVERLAND PARK|KS
+1|MGC GLOBAL IT INC|14400 METCALF AVENUE|OVERLAND PARK|KS
+1|NEOBOTREE TECHNOLOGIES LLC|9511 W 151ST TER|OVERLAND PARK|KS
+1|NEOBOTREE TECHNOLOGIES LLC|COMMERCE PLAZA, 7300 W 110TH ST 7TH FLOOR|OVERLAND PARK|KS
+1|NUVENTO INC|12900 METCALF AVENUE|OVERLAND PARK|KS
+1|OBJECT TECHNOLOGY SOLUTIONS INC|6363 COLLEGE BLVD.|OVERLAND PARK|KS
+1|PERFORMANCE SOFTECH SOLUTIONS INC|1701 SW FAIRLAWN ROAD|TOPEKA|KS
+1|PLANET AI INVENTIONS LLC|12980 FOSTER STREET|OVERLAND PARK|KS
+1|RANDEL SOLUTIONS LLC|7300 W. 110TH STREET|OVERLAND PARK|KS
+1|RELIVETEK INC|7300 WEST 110TH STREET|OVERLAND PARK|KS
+1|RR INFO TECH LLC|12980 METCALF AVE|OVERLAND PARK|KS
+1|RR INFO TECH LLC|15970 S BRADLEY DR, SUITE 108|OLATHE|KS
+1|RTECHNO SYSTEMS LLC|200 E 1ST STREET|WICHITA|KS
+1|RTECHNOSYSTEMS LLC|200 E 1 STREET|WICHITA|KS
+1|RTECHNOSYSTEMS LLC|200 E 1  STREET|WICHITA|KS
+1|RTECHNOSYSTEMS LLC|200 E 1 STREER|WICHITA|KS
+1|SARA SOFTWARE SYSTEMS LLC|804 N. MEADOWBROOK DRIVE|OLATHE|KS
+1|SARA SOFTWARE SYSTEMS LLC|804 N MEADOWBROOK DRIVE|OLATHE|KS
+1|SISMOS SOLUTIONS INC|7810 W. 119TH ST.|OVERLAND PARK|KS
+1|SISMOS SOLUTIONS INC|6740 W 121ST ST.|LEAWOOD|KS
+1|SOFTWARE NINE LLC|FARM BUILDING 200 E 1ST STREET|WICHITA|KS
+1|STAFFINGTREE INC|7201 W 129TH ST|OVERLAND PARK|KS
+1|STAFFINGTREE INC|7201 W 129 ST|OVERLAND PARK|KS
+1|SYNOPTICIT LLC|7500 COLLEGE BLVD|OVERLAND PARK|KS
+1|TECHQUENCY LLC|11915 BIRCH ST|OVERLAND PARK|KS
+1|TECHVORKS LLC|12230 W 135TH STREET|OVERLAND PARK|KS
+1|TECHVORKS LLC|12230 W 135TH ST.|OVERLAND PARK|KS
+1|TERRACON CONSULTANTS INC|10841 S RIDGEVIEW ROAD|OLATHE|KS
+1|TERRACON CONSULTANTS INC|10841 S. RIDGEVIEW ROAD|OLATHE|KS
+1|TETRA COMPUTING LLC|10875 BENSON DR CORP WOODS-11|OVERLAND PARK|KS
+1|TRIOTEK IT INC|10800 FARLEY STREET,|OVER LAND PARK|KS
+1|TRIOTEK IT INC|10800 FARLEY STREET|OVERLAND PARK|KS
+1|TRIOTEK IT INC|75 CORPORATE WOODS,10800 FARLEY STREET|OVERLAND PARK|KS
+1|TRIOTEK IT INC|10800 FARLEY STREET, SUITE 200,|OVERLAND PARK|KS
+1|TRIOVIX|7200 WEST 132ND STREET|OVERLAND PARK|KS
+1|VENSA TEK LLC|13200 METCALF AVENUE|OVERLAND PARK|KS
+1|VENSA TEK LLC|13200 METCALF AVE|OVERLAND PARK|KS
+1|VERACITY CONSULTING INC|8100 NEWTON STREET|OVERLAND PARK|KS
+1|XAVEM CLOUD INC|6800 W 107TH|OVERLAND PARK|KS
+(96 rows)

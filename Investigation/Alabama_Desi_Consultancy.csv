@@ -1,222 +1,25 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-7|Southern Veterinary Partners LLC|2204 Lakeshore Drive|Suite 325|Homewood
-7|Southern Veterinary Partners LLC|2204 Lakeshore Drive|Suite 325|Birmingham
-7|Southern Veterinary Partners|2204 Lakeshore Drive|Suite 325|Birmingham
-7|Southern Veterinary Partners|2204 Lakeshore Drive|Suite 325|Homewood
-7|Oak View Animal Hospital, PC|2204 Lakeshore Drive|Suite 325|Birmingham
-7|Oak View Animal Hospital, PLLC|2204 Lakeshore Drive|Suite 325 W|Birmingham
-7|Southern Veterinary Partners LLC|2204 Lakeshore Drive|Suite 325 W|Birmingham
-4|Goodwyn, Mills and Cawood Inc|2660 EastChase Lane|Suite 200|Montgomery
-4|Goodwyn Mills Cawood LLC|2660 EastChase Lane|Suite 200|Montgomery
-4|Goodwyn Mills and Cawood LLC|2660 EastChase Lane|Suite 200|Montgomery
-4|Goodwyn, Mills and Cawood LLC|2660 EastChase Lane|Suite 200|Montgomery
-4|INTERGRAPH CORPORATION|305 INTERGRAPH WAY||Madison
-4|INTERGRAPH CORPORATION|305 INTERGRAPH WAY||MADISON
-4|Intergraph Corporation|305 Intergraph Way|N/A|Madison
-4|Intergraph Corporation|305 Intergraph Way||Madison
-4|Euclid Technology Solutions LLC|540 Devall Dr|STE 301|Auburn
-4|Fullsteam Personnel LLC|540 Devall Dr|STE 301|Auburn
-4|Fullsteam Personnel LLC|540 Devall Dr|Ste 301|Auburn
-4|Fullsteam Personnel LLC|540 Devall Dr|Suite 301|Auburn
-3|ARD Logistics LLC|10093 Brose Drive||Vance
-3|ARD Logistics - Alabama LLC|10093 Brose Drive||Vance
-3|ARD Logistics-Alabama LLC|10093 Brose Drive||Vance
-3|GURU GROUP LLC|1801 HONEYSUCKLE ROAD||DOTHAN
-3|Guru Group LLC|1801 HONEYSUCKLE ROAD||DOTHAN
-3|Guru Group LLC|1801 Honeysuckle Road||Dothan
-3|Alliance Technical Group LLC|255 Grant St. SE|Suite 600|Decatur
-3|Alliance Source Testing|255 Grant St. SE|Suite 600|Decatur
-3|Alliance Technical Group|255 Grant St. SE|Suite 600|Decatur
-3|Astrape Consulting LLC|3000 Riverchase Galleria|Suite 575|Hoover
-3|Foundation for Advancing Science Technology Education and Research|3000 Riverchase Galleria|Suite 755|Hoover
-3|Foundation for Advancing Science, Technology, Education and Research|3000 Riverchase Galleria|Suite 755|Hoover
-3|EAG Affordable Housing LLC|3595 GRANDVIEW PKWY|SUITE 500|Birmingham
-3|EAG Affordable Housing LLC|3595 Grandview Pkwy|Suite 500|Birmingham
-3|Tidwell Group LLC|3595 Grandview Pkwy|Suite 500|Birmingham
-3|MESA ASSOCIATES INC|480 PRODUCTION AVENUE||MADISON
-3|Mesa Associates Inc|480 Production Avenue||Madison
-3|Mesa Associates Inc|480 Production Avenue||MADISON
-3|MARATHON TARGETS INC|4950 GILMER DR NW|SUITE B|HUNTSVILLE
-3|MARATHON TARGETS INC|4950 Gilmer Dr NW|STE B|HUNTSVILLE
-3|Marathon Targets Inc|4950 Gilmer Dr NW|STE B|Huntsville
-3|CStoreIQ Inc|6210 Mastin Lake Road NW||Huntsville
-3|CStoreIQ LLC|6210 Mastin Lake Road NW||Huntsville
-3|Lakshmi Distributors LLC|6210 Mastin Lake Road NW||Huntsville
-3|Carr, Riggs & Ingram LLC|901 Boll Weevil Cir|Ste 200|Enterprise
-3|CRI Advisors LLC|901 Boll Weevil Cir|Suite 200|Enterprise
-3|Carr, Riggs & Ingram LLC|901 Boll Weevil Cir|Suite 200|Enterprise
-3|Adah Enterprises Inc|950 22nd Street North|Suite 424|Birmingham
-3|abatUS LLC|950 22nd Street North|Suite 707|Birmingham
-3|Adah Enterprises Inc|950 22nd Street North|Suite 715|Birmingham
-2|GURU GROUP LLC|104 S WOODBURN DR||DOTHAN
-2|GURUGROUP LLC|104 S WOODBURN DR||DOTHAN
-2|Adventa Corporation|155 Autumn Drive|STE A|Harvest
-2|Adventa Corporation|155 Autumn Drive|Suite A|Harvest
-2|Hargrove & Associates Inc|20 South Royal Street|Suite 300|Mobile
-2|Hargrove & Associates Inc|20 South Royal Street||Mobile
-2|Tandem Exosuits Inc|2627 10th Avenue|117|Tuscaloosa
-2|City Detect Inc|2627 10th Avenue|Suite 131|Tuscaloosa
-2|TTL INC|2890 Rice Mine Road NE||TUSCALOOSA
-2|TTL Inc|2890 Rice Mine Road NE||TUSCALOOSA
-2|CKP, LLP|323 Samford Village Court|Suite 100|Auburn
-2|CKP, LLP AL|323 Samford Village Court|Suite 100|Auburn
-2|CHOI, KIM & PARK, LLP|323 Samford Village Court 100||Auburn
-2|CKP, LLP|323 Samford Village Court 100||Auburn
-2|BURR & FORMAN LLP|420 NORTH 20TH STREET|SUITE 3400|BIRMINGHAM
-2|PACIFIC CONSULTANCY SERVICES LLC|420 North 20th Street|Suite 2200|Birmingham
-2|Computer Programs and Systems Inc|54 St. Emanuel St.||Mobile
-2|TruBridge Inc|54 St. Emanuel St.||Mobile
-2|Nanoxort LLC|540 Devall Drive|Suite 101 1A02|Auburn
-2|Euclid Technology Solutions LLC|540 Devall Drive|Suite 301|Auburn
-2|Gulf States Engineering Inc|600 AZALEA ROAD||Mobile
-2|Gulf States Engineering Inc|600 Azalea Road||Mobile
-2|Prepaid Technologies Company|600 University Park Place|Suite 400|Homewood
-2|Daxko LLC|600 University Park Place|Suite 500|Birmingham
-2|Eurofins Diatherix Laboratories LLC|601 Genome Way|Suite 2100|Huntsville
-2|HudsonAlpha Institute for Biotechnology|601 Genome Way||Huntsville
-2|Unify Systems Inc|8650 Minnie Brown Road|Suite 201|Montgomery
-2|Unify Systems Inc|8650 Minnie Brown Road|Suite 233|Montgomery
-2|RG GROUP INC|8824 MARSTON WAY|N/A|MONTGOMERY
-2|RG GROUP INC|8824 MARSTON WAY||MONTGOMERY
-1|CITW Inc|1 Chase Corporate Dr|Suite 400|Birmingham
-1|Tom McLeod Software Corporation|100 Corporate Parkway||Birmingham
-1|ZEBKA LLC|100 Pointe Haven Ct||Huntsville
-1|PSE Designs Inc|1000 Hillcrest Road|Suite 222|Mobile
-1|Intermark Group Inc|101 25th St. North|Suite 200|Birmingham
-1|The Arche Inc|1037 Royal Mile||Hoover
-1|Auto Electronic America Corp.|1040 Friction Drive||Prattville
-1|Warren Averett Companies LLC|105 Tallapoosa St.|Suite 300|Montgomery
-1|Pilot Catastrophe Services Inc|1055 Hillcrest Road||Mobile
-1|Adventa Corporation|107 PLACID DRIVE, Suite A||Harvest
-1|Volkert Inc|11 N Water St|Ste 18290|Mobile
-1|Volkert Inc|11 N. Water St|Suite 18290|Mobile
-1|PEARCE BEVILL LEESBURG & MOORE P.C.|110 Office Park Drive|Suite 100|Birmingham
-1|Sarralle USA Inc|1110 Montlimar Drive|Suite 555|Mobile
-1|Seay, Seay & Litchfield, P.C.|1115 South Court Street||Montgomery
-1|K.C. Sol-Tech Inc|1127 W Veterans Blvd|B|Auburn
-1|K.C. Sol-Tech Inc|1127 W. Veterans Blvd.|B|Auburn
-1|Vel True Technologies LLC|114 Chilton Place||Clanton
-1|Luckie & Company LLC|1143 1st Avenue S., Suite 110||Birmingham
-1|Luckie & Company LLC|1145 1st Avenue S|Suite 110|Birmingham
-1|3-GIS LLC|115 Clinton Ave E, Suite C||Huntsville
-1|3-GIS LLC|115 Clinton Ave, Suite C||Huntsville
-1|OSHIN AUTOMATION & ROBOTICS LLC|130 WEXFOROAD WAY||Tuscaloosa
-1|OSHIN AUTOMATION & ROBOTICS LLC|130 Wexford Way||Tuscaloosa
-1|Clear Winds Technologies Inc|13001 Liberty Parkway||Vestavia Hills
-1|Projexiv Environmental LLC|1354 Rosefield Dr E||Mobile
-1|Shakti Consultants Inc|1442 Montgomery Hwy|Suite 100|Birmingham
-1|Tricorder Array Technologies LLC|1500 1st  Ave N|Unit 7|Birmingham
-1|Quantalytix Inc|1500 1st Avenue N.|Suite R108|Birmingham
-1|Tricorder Array Technologies LLC|1500 1st Avenue North|suite 7|Birmingham
-1|Innovation Depot Inc|1500 First Avenue North||Birmingham
-1|TGL Communications Inc|1500 Pumphrey Ave|Suite 102|Auburn
-1|PBAM Hawaii LLC|156 Saint Anthony Street||Mobile
-1|GPS IT Solutions LLC|1718 Veterans Memorial Pkwy|Suite C|Tuscaloosa
-1|Bashan Institute of Science|1730 Post Oak Ct||AUBURN
-1|Command Alkon Inc|1800  International Park Drive|SUITE 400|Birmingham
-1|GURU GROUP LLC|1801 HONEYSCUCKLE ROAD||DOTHAN
-1|Bradley Arant Boult Cummings LLP|1819 Fifth Avenue North||Birmingham
-1|Baker Donelson Bearman Caldwell & Berkowitz PC|1901 6th Ave N|Suite 2600|Birmingham
-1|Maynard Cooper & Gale PC|1901 6th Avenue North|Suite 1700|Birmingham
-1|Maynard Nexsen PC|1901 Sixth Avenue North|Suite 1700|Birmingham
-1|Therapy Brands Thrive LLC|2 20th St. N.|Suite 500|Birmingham
-1|DILIP K KAPADIA, CPA, P.C.|2 CHASE CORPORATE DRIVE, SUITE 5||HOOVER
-1|Sain Associates Inc|2 Perimeter Park South|Suite 500E|Birmingham
-1|Prism Systems Inc|200 Virginia Street||Mobile
-1|Southern Research Institute|2000 9th Avenue South|Martin 324|Birmingham
-1|American Process Management LLC|2020 Canyon Road|Suite 100|Vestavia Hills
-1|Tech Squad Hub LLC|2100 South Bridge Parkway||Birmingham
-1|Transformation9 LLC|2101 Highland Avenue South|Suite 700|Birmingham
-1|InfoDrive Systems Inc|2126 McFarland Boulevard East|Suite A|Tuscaloosa
-1|Harmony Ventures Labs LLC|2127 Morris Avenue||Birmingham
-1|Williams Blackstock Architects|2204 1st Avenue South|Suite 200|Birmingham
-1|Fifth Dimension Architecture and Interiors LLC|2226 1st Ave South|Ste 101|Birmingham
-1|Selero Enterprises LLC|2232 Cahaba Valley Drive|Suite A|Birmingham
-1|Schnellecke Logistics Alabama LLC|22479 Bucksville Road||McCalla
-1|Oral Reconstruction Foundation|2300 Riverchase Center||Birmingham
-1|Glayer LLC|2302 34th St.||Valley
-1|SKYPA SYSTEMS LLC|2344 SUMNER LN||Vestavia Hills
-1|Valley Joist LLC|2350 Jordan Road SW||Fort Payne
-1|Pivotal Finance LLC|2372 East University Drive|Suite 200|Auburn
-1|Engineering Group of the Southeast LLC|2431 West Main Street|Suite 801|Dothan
-1|Comgen America Inc|2436 E University Dr. Unit 2205||Auburn
-1|Live Oak Engineering Inc|2509 7th Ave S||BIRMINGHAM
-1|Amphenol Tecvox LLC|25270 Will McComb Dr.||Tanner
-1|End2End Public Safety LLC|260 N Joachim St||Mobile
-1|Blox LLC|2625 5th Avenue North|Bldg C|Bessemer
-1|Giattina Aycock Architecture Studio Inc|2625 5th Avenue South|Building C|Bessemer
-1|Just Drive Media LLC|26942 Port Washington Lane||Orange Beach
-1|My Supply Chain Group LLC|2700 Corporate Drive|Suite 200|Birmingham
-1|Comgen America Inc|2705 Frederick Road Suite 5||Opelika
-1|SWJ Technology LLC|2730 University Blvd East||Tuscaloosa
-1|SWJ Technology LLC|2730 University Blvd. E||Tuscaloosa
-1|Molecular Designs LLC|2868  Acton Road|Suite 206|Birmingham
-1|Yesol Corporation|2914 Day St||Montgomery
-1|Thompson Engineering Inc|2970 Cottage Hill Road|Suite 190|Mobile
-1|Lathan Associates-Architects, P.C.|300 Chase Park South|Suite 200|Hoover
-1|Plexamedia Inc|3000 Galleria Cir.|Suite 1500|Hoover
-1|Yard Inc|3004 11th Ave||Huntsville
-1|Cellulose Solutions LLC|30054 DOlive Ridge||Spanish Fort
-1|Kemp Management Solutions LLC|3029 2nd Avenue South||Birmingham
-1|Hana Factory Automatoin Corporation|304 Fox Run Avenue||Opelika
-1|Chapman Sisson Architects Inc|305 Church Street, Suite 805||Huntsville
-1|Anglin Reichmann Armstrong P.C.|305 Quality Circle||Huntsville
-1|Hope Animal Clinic, PC|3051 MORGAN ROAD||Bessemer
-1|NALARA QUALITY SYSTEM LLC|309 WILLIAMSON AVENUE||OPELIKA
-1|American Process Management LLC|3108 Blue Lake Dr.|Suite 100|Vestavia Hills
-1|American Process Management LLC|3108 Blue Lake Drive|Suite 100|Vestavia Hills
-1|DAON SERVICE INC|323 Samford Village Ct.|STE 207|Auburn
-1|MRIMath LLC|3473 Birchwood Lane||Birmingham
-1|3-GIS LLC|350 Market St NE||Decatur
-1|3-GIS LLC|350 Market Street NE|Suite C|Decatur
-1|End2End Public Safety LLC|351 State Street||Mobile
-1|TTL INC|3516 GREENSBORO AVE||TUSCALOOSA
-1|TTL INC|3516 GREENSBORO AVENUE||TUSCALOOSA
-1|Dynamix Inc|3605 45th Street SW|N/A|Lanett
-1|Gadsden Animal Clinic LLC|362 East Meighan Blvd.||Gadsden
-1|MJ System LLC|3621 45th ST SW||Lanett
-1|IntraMicron Inc|368 Industry Drive||Auburn
-1|Safeco Inc|3725 Airport Blvd.|Suite 208 B|Mobile
-1|Knowledge Vortex Inc|3809 Sullivan Street|Suite 1|Madison
-1|Fifth Dimension Architecture and Interiors LLC|3820 3rd Ave South||Birmingham
-1|Trillion Communications Corp|3871 Pine Lane|Suite 141|Bessemer
-1|Adventech LLC|4021 Parkway Drive||Florence
-1|nSide Inc|4031 Parkway Dr|Suite B|Florence
-1|AMB Consulting Group LLC|4037 US 231|Suite A|Wetumpka
-1|Wilson IT Solutions LLC|4041 Grove Park Cir.||Birmingham
-1|Alagrants LLC|406 Olmsted Street||Birmingham
-1|Spectra Resources LLC|420 20th Street North|Suite 2200|Birmingham
-1|Pearson Management Group Inc|422 North College Street||Auburn
-1|Magnavi LLC|445 Dexter Ave|STE 4050|Montgomery
-1|Innovar Healthcare Systems Group Inc|445 Dexter Avenue|Suite 4050|Montgomery
-1|Jcme Corp|457 Elm Street|Apt 5C|San Diego
-1|The SSI Group LLC|4721 Morrison Drive||Mobile
-1|P2 Labs Inc|4810 Bradford Drive NW|Apt 2034|Huntsville
-1|Amphenol Tecvox LLC|4900 Bradford Dr.|Suite 1|Huntsville
-1|MCBI ONE LLC|505 Cloverdale Road|Ste 102|Montgomery
-1|The Law Office of Changjae Lee|511 Energy Center Blvd|Suite 701|Northport
-1|TaylorChandler LLC|5151 Hampstead High St.|Ste 200|Montgomery
-1|Geocue Group Inc|520 6th St.|n/a|Madison
-1|GeoCue Group Inc|520 6th Street||Madison
-1|Bhate Geosciences Corporation|5217 5th Avenue S.||Birmingham
-1|Bhate Geosciences|5217 5th Avenue South||Birmingham
-1|Kirklin Solutions Inc|5246 S Shades Crest Road||Helena
-1|Computer Programs and Systems Inc|54 St. Emanuel Street||Mobile
-1|Fullsteam Personnel LLC|540 Duvall Drive|Suite 301|Auburn
-1|Building & Earth Sciences Inc|5545 Derby Drive||Birmingham
-1|Focus Engineering LLC|570 Devall Drive|Suite 303|Auburn
-1|KPS Group Inc|60 14th Street South|Suite 100|Birmingham
-1|HudsonAlpha Institute for Biotechnology|601 Genome Way NW||Huntsville
-1|EH GROUP INC|618 19TH AVE||TUSCALOOSA
-1|Yard Inc|6629 US HWY 31|STE D|TANNER
-1|MARATHON TARGETS INC|6629 US HWY 31, BLDG.  PHASE 2|SUITE D|TANNER
-1|CFD Research Corporation|6820 Moquin Drive||Huntsville
-1|VSP LLC|7111 Halcyon Park Dr|Suite D|Montgomery
-1|Discovery Life Sciences|800 Hudson Way|Suite 1700|Huntsville
-1|iRepertoire Inc|800 Hudson Way, Suite 2304||Huntsville
-1|SVK Systems Inc|8415 Crossland Loop||Montgomery
-1|Discovery Life Sciences|900 Hudson Way NW||Huntsville
-1|Priority Software Inc|9006 4th Avenue South||Birmingham
-1|Laurence and Associates LLC|918 Government Street||Mobile
-1|Vajrasoft LLC|920 Viridian Way||Birmingham
-(220 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+2|GOODWYN MILLS AND CAWOOD LLC|2660 EASTCHASE LANE|MONTGOMERY|AL
+2|GOODWYN MILLS CAWOOD LLC|2660 EASTCHASE LANE|MONTGOMERY|AL
+1|ADAH ENTERPRISES INC|950 22ND STREET NORTH|BIRMINGHAM|AL
+1|ADVENTA CORPORATION|107 PLACID DRIVE, SUITE A|HARVEST|AL
+1|ADVENTA CORPORATION|155 AUTUMN DRIVE|HARVEST|AL
+1|AMB CONSULTING GROUP LLC|4037 US 231|WETUMPKA|AL
+1|ARD LOGISTICS LLC|10093 BROSE DRIVE|VANCE|AL
+1|CFD RESEARCH CORPORATION|6820 MOQUIN DRIVE|HUNTSVILLE|AL
+1|GPS IT SOLUTIONS LLC|1718 VETERANS MEMORIAL PKWY|TUSCALOOSA|AL
+1|INFODRIVE SYSTEMS INC|2126 MCFARLAND BOULEVARD EAST|TUSCALOOSA|AL
+1|MAGNAVI LLC|445 DEXTER AVE|MONTGOMERY|AL
+1|MY SUPPLY CHAIN GROUP LLC|2700 CORPORATE DRIVE|BIRMINGHAM|AL
+1|NANOXORT LLC|540 DEVALL DRIVE|AUBURN|AL
+1|PACIFIC CONSULTANCY SERVICES LLC|420 NORTH 20TH STREET|BIRMINGHAM|AL
+1|PBAM HAWAII LLC|156 SAINT ANTHONY STREET|MOBILE|AL
+1|SKYPA SYSTEMS LLC|2344 SUMNER LN|VESTAVIA HILLS|AL
+1|SOUTHERN RESEARCH INSTITUTE|2000 9TH AVENUE SOUTH|BIRMINGHAM|AL
+1|SOUTHERN VETERINARY PARTNERS LLC|2204 LAKESHORE DRIVE|BIRMINGHAM|AL
+1|SVK SYSTEMS INC|8415 CROSSLAND LOOP|MONTGOMERY|AL
+1|SWJ TECHNOLOGY LLC|2730 UNIVERSITY BLVD EAST|TUSCALOOSA|AL
+1|UNIFY SYSTEMS INC|8650 MINNIE BROWN ROAD|MONTGOMERY|AL
+1|VEL TRUE TECHNOLOGIES LLC|114 CHILTON PLACE|CLANTON|AL
+1|WILSON IT SOLUTIONS LLC|4041 GROVE PARK CIR.|BIRMINGHAM|AL
+(23 rows)

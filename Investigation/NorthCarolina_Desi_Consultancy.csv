@@ -1,2037 +1,614 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-19|NIYANTRA INC|600 PARK OFFICES DRIVE|SUITE 366|DURHAM
-19|Cloud Giants LLC|600 Park Offices Drive|080|Research Triangle Park
-19|Cloud Giants LLC|600 Park Offices Drive|080|Durham
-19|Zaloni Inc|600 Park Offices Drive|250 Suite|Research Triangle Park
-19|Worldwide Clinical Trials Holdings Inc|600 Park Offices Drive|STE 200|Durham
-19|Worldwide Clinical Trials Early Phase Services LLC|600 Park Offices Drive|STE 200|Durham
-19|KDex Global LLC|600 Park Offices Drive|Ste 300|Durham
-19|Worldwide Clinical Trials Holdings Inc|600 Park Offices Drive|Suite 200|RTP, Durham
-19|Worldwide Clinical Trials Early Phase Services LLC|600 Park Offices Drive|Suite 200|RTP, Durham
-19|Worldwide Clinical Trials Early Phase Services/Bioanalytical Sciences LLC|600 Park Offices Drive|Suite 200|RTP, Durham
-19|Worldwide Clinical Trials Holdings Inc|600 Park Offices Drive|Suite 200|Research Triangle Park
-19|Zaloni Inc|600 Park Offices Drive|Suite 250|Research Triangle Park
-19|PatientPay Inc|600 Park Offices Drive|Suite 300|Durham
-19|Bring IT by Macro LLC|600 Park Offices Drive|Suite 300|Durham
-19|Prosquire LLC|600 Park Offices Drive|Suite 300|Durham
-19|KDex Global LLC|600 Park Offices Drive|Suite 300|Durham
-19|Data Carbon LLC|600 Park Offices Drive|Suite 300 D1|Durham
-19|Niyantra Inc|600 Park Offices Drive|Suite 366|Durham
-19|Bring IT by Marco LLC|600 Park offices Drive|Suite 300|Durham
-18|Vidlexinfo LLC|10130 Mallard Creek ROAD|Suite 110|Charlotte
-18|Tila Technologies Inc|10130 Mallard Creek Road|STE 134|Charlotte
-18|METRIX IT SOLUTIONS INC|10130 Mallard Creek Road|SUITE 235|Charlotte
-18|Acrotek IT Solutions INC|10130 Mallard Creek Road|Ste 235|Charlotte
-18|Inteca IT Solutions LLC|10130 Mallard Creek Road|Ste 235|Charlotte
-18|Vidlexinfo LLC|10130 Mallard Creek Road|Suite 110|Charlotte
-18|VIDLEXINFO LLC|10130 Mallard Creek Road|Suite 110|Charlotte
-18|TILA Technologies Inc|10130 Mallard Creek Road|Suite 134|Charlotte
-18|TILA Tilatechnologies Inc|10130 Mallard Creek Road|Suite 134|Charlotte
-18|Perficientcorp Inc|10130 Mallard Creek Road|Suite 230|Charlotte
-18|INTECA IT SOLUTIONS LLC|10130 Mallard Creek Road|Suite 235|Charlotte
-18|GVKTEK Inc|10130 Mallard Creek Road|Suite 300|Charlotte
-18|Alphind Healthcare Inc|10130 Mallard Creek Road|Suite 300|Charlotte
-18|Alphind Software Solutions Inc|10130 Mallard Creek Road|Suite 300|Charlotte
-18|Samhires LLC|10130 Mallard Creek Road|Suite 300|Charlotte
-18|GVKTEK INC|10130 Mallard Creek Road|Suite 300|Charlotte
-18|TechOps Digital LLC|10130 Mallard Creek Road|Suite 333|Charlotte
-18|Nexus AI Solutions Inc,|10130 Mallard Creek Road|Suite 335|Charlotte
-18|Honeywell International Inc|855 S MINT STREET||CHARLOTTE
-18|Fiplex Communications Inc|855 S MINT STREET||CHARLOTTE
-18|Intelligrated Services LLC|855 S MINT STREET||CHARLOTTE
-18|Intelligrated Systems LLC|855 S MINT STREET||CHARLOTTE
-18|Compressor Controls LLC|855 S MINT STREET||CHARLOTTE
-18|Honeywell International Inc|855 S Mint Street||Charlotte
-18|Honeywell Security Americas LLC|855 S Mint Street||Charlotte
-18|Tridium Inc|855 S Mint Street||Charlotte
-18|Transnorm System Inc|855 S Mint Street||Charlotte
-18|Maxon Corporation|855 S Mint Street||Charlotte
-18|Hand Held Products Inc|855 S Mint Street||Charlotte
-18|Intermec Technologies Corporation|855 S Mint Street||Charlotte
-18|Intelligrated Services LLC|855 S Mint Street||Charlotte
-18|TRIDIUM INC|855 S Mint Street||Charlotte
-18|Honeywell Analytics Inc|855 S Mint Street||Charlotte
-18|Honeywell Capital Management LLC|855 S Mint Street||Charlotte
-18|Vocollect Inc|855 S Mint Street||Charlotte
-18|Honeywell Safety Products USA Inc|855 S Mint Street||Charlotte
-15|ENTERPRISE QA LABS INC|2530 MERIDIAN PARKWAY|SUITE 300|DURHAM
-15|ALLSTATE TECHNOLOGIES INC|2530 MERIDIAN PARKWAY|SUITE 300|DURHAM
-15|INFOTEK GROUPS INC|2530 MERIDIAN PARKWAY|SUITE 300|DURHAM
-15|YJ INFOTECH LLC|2530 MERIDIAN PARKWAY|SUITE 300|DURHAM
-15|Infotek Groups Inc|2530 Meridian Parkway|STE 300|Durham
-15|CSV Informatics LLC|2530 Meridian Parkway|Ste 300|Durham
-15|CSV informatics LLC|2530 Meridian Parkway|Ste 300|Durham
-15|Enterprise QA Labs Inc|2530 Meridian Parkway|Suite 300|DURHAM
-15|ENTERPRISE QA LABS INC|2530 Meridian Parkway|Suite 300|DURHAM
-15|iCloudLogic LLC|2530 Meridian Parkway|Suite 300|Durham
-15|Infotek Groups Inc|2530 Meridian Parkway|Suite 300|Durham
-15|The Reliable Solutions Group. LLC|2530 Meridian Parkway|Suite 300|Durham
-15|The Reliable Solutions Group LLC|2530 Meridian Parkway|Suite 300|Durham
-15|Infotek Groups Inc|2530 Meridian parkway|STE 300|Durham
-15|Infotek Groups Inc|2530 Meridian parkway|Suite 300|Durham
-15|SAAP Tech Solutions LLC|301 MCCULLOUGH DR|STE 400|Charlotte
-15|SAAP Tech Solutions LLC|301 MCCULLOUGH DR|STE 400|CHARLOTTE
-15|CONCOR IT SOLUTIONS INC|301 MCCULLOUGH DR|STE 400|CHARLOTTE
-15|Cogent Cube LLC|301 MCcullough DR|STE 400|Charlotte
-15|Aadhya Infotech LLC|301 McCullough Dr|STE 400|Charlotte
-15|Infinics Inc|301 McCullough Dr|STE 400|Charlotte
-15|ClarksTech LLC|301 McCullough Dr|STE 400|Charlotte
-15|Aadhya Infotech LLC|301 McCullough Dr|STE 420|Charlotte
-15|Softtechers LLC|301 McCullough Dr|Suite 400|Charlotte
-15|Aadhya InfoTech|301 McCullough Dr|Suite 400|Charlotte
-15|Aadhya InfoTech LLC|301 McCullough Dr|Suite 400|Charlotte
-15|Aadhya Infotech LLC|301 McCullough Dr|Suite 400|Charlotte
-15|Concor IT Solutions Inc|301 McCullough Dr|Suite 400|Charlotte
-15|Concor IT Solutions Inc|301 Mccullough Dr|Suite 400|Charlotte
-15|CONCOR IT SOLUTIONS INC|301 Mccullough Dr|Suite 400|Charlotte
-14|PERIGON INFOTECH INC|4819 EMPEROR BLVD|400|Durham
-14|PERIGON INFOTECH INC|4819 EMPEROR BLVD|400|DURHAM
-14|VR ITECH CONSULTING LLC|4819 EMPEROR BLVD|SUITE 400|DURHAM
-14|GAIT SOLUTIONS LLC|4819 EMPEROR BLVD|SUITE 418A|DURHAM
-14|Analyte IT Services LLC|4819 EMPEROR BLVD|Ste 418E|DURHAM
-14|Analyte IT Services LLC|4819 EMPEROR BLVD|Ste 418E|Durham
-14|Analyte IT Services LLC|4819 Emperor Blvd|STE 400|Durham
-14|Perigon Infotech Inc|4819 Emperor Blvd|Suite 400|Durham
-14|Lorvish Technologies Inc|4819 Emperor Blvd|Suite 400|Durham
-14|Credence Consulting Services Inc|4819 Emperor Blvd|Suite 400|Durham
-14|Marvel Tech Groups Inc|4819 Emperor Blvd|Suite 400|Durham
-14|Candorsoft Technologies LLC|4819 Emperor Blvd|Suite 400|Durham
-14|Marvel Tech Groups Inc|4819 Emperor Blvd|suite 400|Durham
-14|GAIT SOLUTIONS LLC|4819 Emperor blvd|Suite 418A|Durham
-13|NEOHUB SOLUTIONS INC|5000 CENTREGREEN WAY|SUITE 500|CARY
-13|SoftLogix Inc|5000 CENTREGREEN WAY|Suite 500|Cary
-13|Neusoft America Inc|5000 CentreGreen Way|SUITE 500|Cary
-13|Skytek Corp|5000 Centregreen Way|Ste 500|Cary
-13|WIRB-Copernicus Group Inc|5000 Centregreen Way|Suite 175|Cary
-13|WCG Clinical Inc|5000 Centregreen Way|Suite 200|Cary
-13|MIGHTY HORIZONS LLC|5000 Centregreen Way|Suite 500|Cary
-13|Tekprismit Inc|5000 Centregreen Way|Suite 500|Cary
-13|Intelligaia Inc|5000 Centregreen Way|Suite 500|Cary
-13|Sunovee Inc|5000 Centregreen Way|Suite 500|Cary
-13|TEKPRISMIT INC|5000 Centregreen Way|Suite 500|Cary
-13|Intelligaia LLC|5000 Centregreen Way|Suite 500|Cary
-13|Digital Transformation Unit LLC|5000 Centregreen Way|Suite 500  1020|Cary
-12|SKILL BUDDY INC|1135 KILDAIRE FARM ROAD|SUITE 200|CARY
-12|FEATHER TECHNOLOGIES INC|1135 KILDAIRE FARM ROAD|SUITE 200|CARY
-12|TORQUE TECHNOLOGIES LLC|1135 KILDAIRE FARM ROAD|SUITE 200|CARY
-12|Eminence IT Solutions Inc|1135 KILDAIRE FARM ROAD|SUITE 250 4|CARY
-12|Eminence IT Solutions Inc|1135 KILDAIRE FARM ROAD|SUITE 311 3|CARY
-12|PREMIUM PEOPLE GROUP LLC|1135 KILDAIRE FARM ROAD||CARY
-12|Pundit Inc|1135 Kildaire Farm Road|Suite 200|Cary
-12|Torque Technologies LLC|1135 Kildaire Farm Road|Suite 200|Cary
-12|CloudRex LLC|1135 Kildaire Farm Road|Suite 309|Cary
-12|Eminence it Solutions Inc|1135 Kildaire Farm Road|Suite 311 3|Cary
-12|CloudRex LLC|1135 Kildaire Farm Road|Suite 315|Cary
-12|Premium People Group LLC|1135 Kildaire Farm Road||Cary
-12|BYTEBRIDGE TECHNOLOGIES INC|301 MCCULLOUGH DRIVE|STE 400, OFFICE 464|CHARLOTTE
-12|MIKHA IT SOLUTIONS LLC|301 MCCULLOUGH DRIVE|SUITE 400|CHARLOTTE
-12|SAAP TECH SOLUTIONS LLC|301 MCCULLOUGH DRIVE|SUITE 400|CHARLOTTE
-12|CLOUD SYSTEMS LLC|301 McCullough Drive|Suit 400|Charlotte
-12|Adrotek Solutions LLC|301 McCullough Drive|Suite 400|Charlotte
-12|META IT SYSTEMS LLC|301 McCullough Drive|Suite 400|Charlotte
-12|PNK Connections LLC|301 McCullough Drive|Suite 400|Charlotte
-12|Pursuit Technology INC|301 McCullough Drive|Suite 400|Charlotte
-12|CLOUD SYSTEMS LLC|301 McCullough Drive|Suite 400|Charlotte
-12|Concave Technologies LLC|301 McCullough Drive|University Executive Park Dr, STE 400|Charlotte
-12|Pursuit Tech Inc|301 Mccullough Drive|Suit 400|Charlotte
-12|Pursuit Tech Inc|301 Mccullough Drive|Suite 400|Charlotte
-12|IBM INDIA PRIVATE LIMITED|3039 CORNWALLIS ROAD|BUILDING 002|DURHAM
-12|INTERNATIONAL BUSINESS MACHINES CORPORATION|3039 CORNWALLIS ROAD|BUILDING 002|DURHAM
-12|IBM Corporation|3039 Cornwallis ROAD||Durham
-12|IBM Corporation|3039 Cornwallis Road|Durham|Durham
-12|IBM India Private Limited|3039 Cornwallis Road|N/A|Durham
-12|IBM Corporation|3039 Cornwallis Road|N/A|Durham
-12|IBM India Private Limited|3039 Cornwallis Road||Durham
-12|IBM CORPORATION|3039 Cornwallis Road||Durham
-12|IBM Corporation|3039 Cornwallis Road||Cornwallis
-12|IBM Corporation|3039 Cornwallis Road||Duhram
-12|IBM Corporation|3039 Cornwallis Road||Durham
-12|IBM Incorporation|3039 Cornwallis Road||Durham
-11|GXO Enterprise Services LLC|11215  North Community House Road||Charlotte
-11|GXO Warehouse Company Inc|11215  North Community House Road||Charlotte
-11|XPO Logistics Inc|11215  North Community House Road||Charlotte
-11|GXO Logistics Worldwide LLC|11215  North Community House Road||Charlotte
-11|XPO Logistics Supply Chain Inc|11215  North Community House Road||Charlotte
-11|XPO Logistics Managed Transportation LLC|11215  North Community House Road||Charlotte
-11|XPO Enterprise Services LLC|11215  North Community House Road||Charlotte
-11|XPO Intermodal Services LLC|11215  North Community House Road||Charlotte
-11|GXO Logistics Supply Chain Inc|11215  North Community House Road||Charlotte
-11|XPO Logistics Supply Chain Corporate Services Inc|11215  North Community House Road||Charlotte
-11|GXO Logistics Corporate Services Inc|11215  North Community House Road||Charlotte
-11|SIMULATIONS PLUS INC|800 PARK OFFICES DRIVE|SUITE 401|RESEARCH TRIANGLE PARK
-11|KDex Global LLC|800 Park Offices Drive|Ste 3512|Durham
-11|RxDataScience Inc|800 Park Offices Drive|Suite 1013|Durham
-11|Leslie Merritt Inc|800 Park Offices Drive|Suite 3318|Research Triangle Park
-11|Smarttrak LLC|800 Park Offices Drive|Suite 3510|Research Triangle Park
-11|KDex Global LLC|800 Park Offices Drive|Suite 3512|Durham
-11|Dcube Solutions|800 Park Offices Drive|Suite 3602|Research Triangle Park
-11|Dcube Solutions|800 Park Offices Drive|Suite 3602|Durham
-11|Simulations Plus Inc|800 Park Offices Drive|Suite 401|Research Triangle Park
-11|Intelligaia LLC|800 Park Offices Drive|Suite 406|Durham
-11|Innatrix Inc|800 Park Offices Drive||Durham
-10|EVALUESERVE INC|421 FAYETTEVILLE STREET|SUITE 200|RALEIGH
-10|KIMLEY-HORN AND ASSOCIATES INC|421 FAYETTEVILLE STREET|SUITE 600|RALEIGH
-10|CARDIFF TECHNOLOGIES LLC|421 Fayetteville Street|11th Floor|Raleigh
-10|Kimley-Horn and Associates Inc|421 Fayetteville Street|STE 600|Raleigh
-10|Kimley-Horn and Associates Inc|421 Fayetteville Street|Ste 600|Raleigh
-10|Innovative Trials Inc|421 Fayetteville Street|Suite 1100, PB 2231|Raleigh
-10|KIMLEY-HORN AND ASSOCIATES INC|421 Fayetteville Street|Suite 600|Raleigh
-10|Kimley-Horn and Associates Inc|421 Fayetteville Street|Suite 600|Raleigh
-10|Kimley-Horn and Associates Inc|421 Fayetteville Street|Suite. 600|Raleigh
-10|Kimley-Horn and Associates Inc|421 Fayetteville Street||Raleigh
-9|GO8 IT INC|11220 ELM LANE|SUITE 200 10|CHARLOTTE
-9|GO8IT INC|11220 ELM LANE|SUITE 200 10|CHARLOTTE
-9|IT KEYSOURCE INC|11220 ELM LANE|SUITE 204|CHARLOTTE
-9|IT KEYSOURCE INC|11220 ELM LANE|Ste 204|CHARLOTTE
-9|IT KEYSOURCE INC|11220 ELM Lane|Suite 204|Charlotte
-9|Swiftwin Solutions Inc|11220 Elm Lane|Suite 200|Charlotte
-9|SwiftWIN Solutions Inc,|11220 Elm Lane|Suite 200|Charlotte
-9|Go8 IT Inc|11220 Elm Lane|Suite 200 10|Charlotte
-9|IT KeySource Inc|11220 Elm Lane|Suite 204|Charlotte
-9|STAT9 TECHNOLOGIES INC|5000 CENTRE GREEN WAY|STE  500|CARY
-9|ZORIEN LLC|5000 CENTRE GREEN WAY|SUITE 500|CARY
-9|STAT9 TECHNOLOGIES INC|5000 CENTRE GREEN WAY|SUITE 500|CARY
-9|IT VISION INC|5000 CENTRE GREEN WAY|SUITE 500|CARY
-9|ST TECH INC|5000 Centre Green Way|500|Cary
-9|WCG Clinical Inc|5000 Centre Green Way|Suite 200|Cary
-9|ST Tech Inc|5000 Centre Green Way|Suite 500|Cary
-9|STAT9 TECHNOLOGIES INC|5000 Centre Green Way|Suite 500|Cary
-9|Stat9 Technologies Inc|5000 Centre Green Way|Suite 500|Cary
-9|KRONSYS INC|6512 SIX FORKS ROAD|STE 304A|RALEIGH
-9|KRONSYS INC|6512 SIX FORKS ROAD|SUITE 304 A|RALEIGH
-9|CYGTEC INC|6512 SIX FORKS ROAD|SUITE 304B|RALEIGH
-9|Kronsys Inc|6512 Six Forks Road|STE 304A|Raleigh
-9|LinxAI Inc|6512 Six Forks Road|Ste 304 A|Raleigh
-9|Kronsys Inc|6512 Six Forks Road|Suite 304 A|Raleigh
-9|LinxAi Inc|6512 Six Forks Road|Suite 304 A|Raleigh
-9|Kronsys Inc|6512 Six Forks Road|Suite 304A|Raleigh
-9|Cygtec Inc|6512 Six Forks Road|Suite 304B|Raleigh
-8|COMMERCECX INC|150 CORNERSTONE DRIVE|SUITE 104|CARY
-8|SUNRISE INFOTEK CORP.|150 CORNERSTONE DRIVE|SUITE 203|Cary
-8|SUNRISE INFOTEK CORP.|150 CORNERSTONE DRIVE|SUITE 203|CARY
-8|Vencedor Software Group Inc|150 Cornerstone Drive|STE 104|Cary
-8|CommerceCX Inc|150 Cornerstone Drive|Suite 104|Cary
-8|Vencedor Software Group Inc|150 Cornerstone Drive|Suite 104|Cary
-8|Vencedor Software Group Inc|150 Cornerstone Drive|Suite 140|Cary
-8|Sahaa Solutions LLC|150 Cornerstone Drive|Suite 202|Cary
-8|EUCLID INNOVATIONS INC|15720 BRIXHAM HILL AVENUE|SUITE 145|CHARLOTTE
-8|Euclid Innovations Inc|15720 Brixham Hill Avenue|Suite 145|Charlotte
-8|Euclid Innovations Inc|15720 Brixham Hill Avenue|Suite 201|Charlotte
-8|ERP Tech Solutions LLC|15720 Brixham Hill Avenue|Suite 300|Charlotte
-8|SG SOFTECH LLC|15720 Brixham Hill Avenue|Suite 300|Charlotte
-8|SG Softech LLC|15720 Brixham Hill Avenue|Suite 300|Charlotte
-8|EPS EHRHARDT PARTNER SOLUTIONS INC|15720 Brixham Hill Avenue|Suite 334|Charlotte
-8|EPS Ehrhardt Partner Solutions Inc|15720 Brixham Hill Avenue|Suite 334|Charlotte
-8|CLOUDSPACE LLC|1909 J N PEASE PLACE|SUITE 201|CHARLOTTE
-8|INSIGHT INTELLI INC|1909 J N Pease Place|SUITE 103|Charlotte
-8|Cloudspace LLC|1909 J N Pease Place|Suite 201|Charlotte
-8|CloudSpace LLC|1909 J N Pease Place|Suite 201|Charlotte
-8|Cloud Space LLC|1909 J N Pease Place|Suite 201|Charlotte
-8|Cloudspace LLC|1909 J N Pease Place|Suite 201|CHARLOTTE
-8|CLOUD SPACE LLC|1909 J N Pease Place|Suite 201|Charlotte
-8|Cloud Space LLC|1909 J N Pease Place|Suite 201|CHARLOTTE
-8|MASTEK IT LLC|624 MATTHEWS MINT-HILL ROAD|SUITE 110|MATTHEWS
-8|Mas Tek IT LLC|624 MATTHEWS MINT-HILL ROAD|SUITE 110|MATTHEWS
-8|MAVEN TECHNOLOGIES LLC|624 MATTHEWS MINT-HILL ROAD|SUITE 240|MATTHEWS
-8|Mas Tek IT LLC|624 Matthews Mint-Hill Road|STE 110|Matthews
-8|MAS TEK IT LLC|624 Matthews Mint-Hill Road|Suite 110|Matthews
-8|Mas Tek IT LLC|624 Matthews Mint-Hill Road|Suite 110|Matthews
-8|Mastek IT LLC|624 Matthews Mint-Hill Road|Suite 110|Matthews
-8|Maven Technologies LLC|624 Matthews Mint-Hill Road|Suite 240|Matthews
-8|Veeha IT Solutions LLC|9700 Research Drive|STE 142|Charlotte
-8|Eversoft Technologies LLC|9700 Research Drive|Ste 142|Charlotte
-8|Veeha IT Solutions LLC|9700 Research Drive|Ste 142|Charlotte
-8|TECHSUFFICE LLC|9700 Research Drive|Suite 110|Charlotte
-8|ORIGINTEK SOLUTIONS LLC|9700 Research Drive|Suite 122|Charlotte
-8|OriginTek Solutions LLC|9700 Research Drive|Suite 122|Charlotte
-8|UIPATHTEK LLC|9700 Research Drive|Suite 125|Charlotte
-8|UI Path Tek LLC|9700 Research Drive|Suite 125|Charlotte
-7|EXPRESS LOGIC LLC|1000 BEAR CAT WAY|SUITE 105|MORRISVILLE
-7|JPS TECH SOLUTIONS LLC|1000 BEAR CAT WAY|SUITE 105|MORRISVILLE
-7|Kube Clouds Inc|1000 Bear Cat Way|Ste 5|Morrisville
-7|JPS Tech Solutions LLC|1000 Bear Cat Way|Suite 105|Morrisville
-7|Spark ITR LLC|1000 Bear Cat Way|Suite 105|Morrisville
-7|EApps Tech LLC|1000 Bear Cat Way|Suite 105|Morrisville
-7|Varunavi IT Consultants Inc|1000 Bear Cat way|Suite 105|Morrisville
-7|IT AUTOMATION LLC|101 GATHERING PARK CIRCLE|SUITE 202|CARY
-7|IT Automation LLC|101 GATHERING PARK CIRCLE|Suite 202|Cary
-7|IT Automation LLC|101 Gathering Park Circle|Ste 202|Cary
-7|IT Automation LLC|101 Gathering Park Circle|Suite 202|Cary
-7|IT Automation LLC|101 Gathering Park Circle|suite 202|Cary
-7|IT Automation LLC|101 Gathering Park circle|ste 202|Cary
-7|IT Automation LLC|101 Gathering park Circle|Ste 202|Cary
-7|CloudNine Tek LLC|10735 DAVID TAYLOR DR|SUITE 320|CHARLOTTE
-7|Cloud Nine Tek LLC|10735 DAVID TAYLOR DR|SUITE 320|CHARLOTTE
-7|Cloud Nine Tek LLC|10735 David Taylor Dr|STE 320|CHARLOTTE
-7|Cloud Nine Tek LLC|10735 David Taylor Dr|Suite 320|Charlotte
-7|CloudnineTek LLC|10735 David Taylor Dr|suite 320|Charlotte
-7|Cloudninetek LLC|10735 David Taylor Dr|suite 320|Charlotte
-7|Cloudnine Tek LLC|10735 David Taylor Dr|suite 320|Charlotte
-7|Intelerad Holdings USA Ltd.|305 Church at North Hills Street|6th Floor|Raleigh
-7|Allscripts Healthcare  LLC|305 Church at North Hills Street||Raleigh
-7|Heart Imaging Technologies LLC|305 Church at North Hills Street||Raleigh
-7|Veradigm LLC|305 Church at North Hills Street||Raleigh
-7|Altera Digital Health Inc|305 Church at North Hills Street||Raleigh
-7|Allscripts Managed Services LLC|305 Church at North Hills Street||Raleigh
-7|Allscripts Healthcare LLC|305 Church at North Hills Street||Raleigh
-7|YESJ EXPERT LLC|3540 TORINGDON WAY|SUITE 200|CHARLOTTE
-7|ALTAFLUX CORPORATION|3540 TORINGDON WAY|SUITE 200|CHARLOTTE
-7|BLUMATRIX TECH LLC|3540 TORINGDON WAY|SUITE 200 1043|CHARLOTTE
-7|Netrocon Systems LLC|3540 Toringdon Way|Suite 200|Charlotte
-7|RSTACK SOLUTIONS LLC|3540 Toringdon Way|Suite 200|Charlotte
-7|Capital Talent Partners Inc|3540 Toringdon Way|Suite 200|Charlotte
-7|Netrocon Systems LLC|3540 Toringdon Way|Suite 237|Charlotte
-7|Fortrea Inc f/k/a LabCorp Drug Development Inc|8 Moore Dr.||Durham
-7|Fortrea Inc (formerly d/b/a LabCorp Drug Development Inc)|8 Moore Dr.||Durham
-7|Fortrea Inc (Formerly d/b/a LabCorp Drug Development Inc)|8 Moore Dr.||Durham
-7|Fortrea Inc (formely d/b/a LabCorp Drug development Inc)|8 Moore Dr.||Durham
-7|Fortrea Inc|8 Moore Dr.||Durham
-7|Labcorp Bioanalytical Services LLC|8 Moore Dr.||Durham
-7|Fortrea Inc (F/K/A LabCorp Drug development Inc)|8 Moore Dr.||Durham
-7|XTRACIT INC|9335 HARRIS CORNERS PARKWAY|SUITE 185|CHARLOTTE
-7|XtracIT Inc|9335 HARRIS CORNERS PARKWAY|SUITE 240|CHARLOTTE
-7|XTRACIT INC|9335 HARRIS CORNERS PARKWAY|SUITE 240|CHARLOTTE
-7|XTRACIT INC|9335 Harris Corners Parkway|SUITE 185|CHARLOTTE
-7|XtracIT Inc|9335 Harris Corners Parkway|Suite 240|Charlotte
-7|XTRACIT INC|9335 Harris Corners Parkway|Suite 240|Charlotte
-7|XtracIT Inc|9335 Harris corners parkway|suite 185|Charlotte
-6|Craftner Inc|10150 Mallard Creek Road|STE 102|Charlotte
-6|Eversoft Technologies LLC|10150 Mallard Creek Road|STE 107|Charlotte
-6|CRAFTNER INC|10150 Mallard Creek Road|Ste 102|Charlotte
-6|Craftner Inc|10150 Mallard Creek Road|Suite 102|Charlotte
-6|Eversoft Technologies LLC|10150 Mallard Creek Road|Suite 107|Charlotte
-6|Shrive Solutions LLC|10150 Mallard Creek Road|Suite 505|Charlotte
-6|ADDEPTO IT SOLUTIONS LLC|11020 David Taylor Dr|Ste 201|Charlotte
-6|Addepto IT Solutions LLC|11020 David Taylor Dr|Ste 201|Charlotte
-6|ADDEPTO IT SOLUTIONS LLC|11020 David Taylor Dr|Ste 402|Charlotte
-6|TABNER INC|11020 David Taylor Dr|Suite 103|Charlotte
-6|Tabner Inc|11020 David Taylor Dr|Suite 103|Charlotte
-6|Addepto IT Solutions LLC|11020 David Taylor Dr|Suite 201|Charlotte
-6|AppLogics LLC|15000 WESTON PARKWAY||Cary
-6|DEVXPACE LLC|15000 WESTON PARKWAY||CARY
-6|AlgoSpark Technologies LLC|15000 Weston Parkway|106|Cary
-6|iradius Inc|15000 Weston Parkway|Suite 116|Cary
-6|Nenine Technologies Inc|15000 Weston Parkway|Suite 140|Cary
-6|Affintrix Technologies LLC|15000 Weston Parkway||Cary
-6|Definitive Media Corp|2000 Centregreen Way|Suite 200|Cary
-6|Definitive Media Corporation|2000 Centregreen Way|Suite 200|Cary
-6|Allucent Government Services (US) LLC|2000 Centregreen Way|Suite 300|Cary
-6|Cato Research LLC|2000 Centregreen Way|Suite 300|Cary
-6|CATO Research LLC|2000 Centregreen Way|Suite 300|Cary
-6|Definitive Media Corp|2000 Centregreen Way|Suite 300|Cary
-6|PERDIS AI LLC|2015 AYRSLEY TOWN BLVD|SUITE 202|CHARLOTTE
-6|Blooming Tech Inc|2015 AYRSLEY TOWN BLVD|Suite 202|CHARLOTTE
-6|Brumasoft LLC|2015 Ayrsley Town Blvd|Suite 202|Charlotte
-6|Treealgo LLC|2015 Ayrsley Town Blvd|Suite 202|Charlotte
-6|ManageYOURiD Inc|2015 Ayrsley Town Blvd|Suite 202|Charlotte
-6|Blooming Tech Inc|2015 Ayrsley Town Blvd|Suite 202|Charlotte
-6|GXO Logistics of Texas LLC|4043 Piedmont Parkway|Piedmont Parkway|High Point
-6|GXO Warehouse Company Inc|4043 Piedmont Parkway|Piedmont Parkway|High Point
-6|GXO Logistics Corporate Services Inc|4043 Piedmont Parkway||High Point
-6|GXO Logistics Worldwide LLC|4043 Piedmont Parkway||High Point
-6|GXO Logistics Supply Chain Inc|4043 Piedmont Parkway||High Point
-6|GXO Enterprise Services LLC|4043 Piedmont Parkway||High Point
-6|TSG Consulting LLC|5540 Centerview Drive|Ste 204, PMB 29053|Raleigh
-6|GlobalXperts Inc|5540 Centerview Drive|Suite 200|Raleigh
-6|Vaarida Technologies LLC|5540 Centerview Drive|Suite 200|Raleigh
-6|Dualboot Partners LLC|5540 Centerview Drive|Suite 204, No. 24754|Raleigh
-6|TSG Consulting LLC|5540 Centerview Drive|Suite 204, PMB 29053|Raleigh
-6|Vaarida Technologies LLC|5540 Centerview Drive|Suite200|Raleigh
-6|INMAR BRAND SOLUTIONS INC|ONE WEST 4TH ST.|SUITE 500|WINSTON SALEM
-6|INMAR GOVERNMENT SERVICES LLC|ONE WEST 4TH ST.|SUITE 500|WINSTON-SALEM
-6|INMAR CLEARING INC|ONE WEST 4TH ST.|SUITE 500|WINSTON SALEM
-6|INMAR INC|ONE WEST 4TH ST.|SUITE 500|WINSTON-SALEM
-6|INMAR ANALYTICS INC|ONE WEST 4TH ST.|SUITE 500|WINSTON SALEM
-6|INMAR RX SOLUTIONS INC|ONE WEST 4TH ST.|SUITE 500|WINSTON SALEM
-5|EVALUESERVE INC|1 Glenwood Avenue|5th Floor|RALEIGH
-5|Savas Labs Inc|1 Glenwood Avenue|Floor 5|Raleigh
-5|Equifina Inc|1 Glenwood Avenue||Raleigh
-5|EVALUESERVE INC|1 Glenwood Avenue||RALEIGH
-5|VIABLY CAPITAL INC|1 Glenwood Avenue||Raleigh
-5|RED HAT INC|100 EAST DAVIE STREET||RALEIGH
-5|Red Hat Inc|100 EAST DAVIE STREET||RALEIGH
-5|RED HAT INC|100 East Davie Street||Raleigh
-5|Red Hat Inc|100 East Davie Street||Raleigh
-5|Red Hat Inc|100 East Davie street||Raleigh
-5|Pike Engineering LLC|100 PIKE WAY||MOUNT AIRY
-5|Power Contracting LLC|100 Pike Way||Mount Airy
-5|United Grid Solutions LLC|100 Pike Way||Mt. Airy
-5|United Grid Solutions LLC|100 Pike Way||Mount Airy
-5|Pike Engineering LLC|100 Pike Way||Mount Airy
-5|Varunavi IT Consultants Inc|1000 Bearcat Way|Suite 105|Morrisville
-5|ENROUTE TECHNOLOGIES LLC|1000 Bearcat Way|Suite 105, Unit 3|Morrisville
-5|Eagle Eye Technologies LLC|1000 Bearcat Way|Suite 105, Unit 5|Morrisville
-5|Varunavi IT Consultants Inc|1000 Bearcat way|Suite 105|Morrisville
-5|Varunavi IT Consultants Inc|1000 Bearcat way|suite 105|Morrisville
-5|XPO Logistics Managed Transportation LLC|11215 North Community House Road||Charlotte
-5|GXO Logistics of Texas LLC|11215 North Community House Road||Charlotte
-5|XPO Enterprise Services LLC|11215 North Community House Road||Charlotte
-5|RXO Managed Transport LLC|11215 North Community House Road||Charlotte
-5|XPO LTL Solutions LLC|11215 North Community House Road||Charlotte
-5|HANUSOFT INC|1140 KILDAIRE FARM ROAD|SUITE 209|CARY
-5|HANUSOFT INC|1140 KILDAIRE FARM ROAD|SUITE 909|CARY
-5|Mingjun Zhu CPA, PLLC|1140 Kildaire Farm Road|Suite 207 2|Cary
-5|Hanusoft Inc|1140 Kildaire Farm Road|Suite 209|Cary
-5|POTU IT Solutions LLC|1140 Kildaire Farm Road|Suite 303 2|Cary
-5|IQVIA Digital Inc|2400 Ellis Road||Durham
-5|IQVIA Inc|2400 Ellis Road||Durham
-5|AllCare Plus Pharmacy Inc|2400 Ellis Road||Durham
-5|Cambridge Pharma Consulting Inc|2400 Ellis Road||Durham
-5|IQVIA CSMS US Inc|2400 Ellis Road||Durham
-5|DealCloud Inc|300 S Tryon Street|Suite 1200|Charlotte
-5|Honeywell International Inc|300 S Tryon Street|Suite 500/600|Charlotte
-5|Honeywell International Inc|300 S Tryon Street|Suite 600|Charlotte
-5|Vocollect Inc|300 S Tryon Street|Suite 600|Charlotte
-5|Hand Held Products Inc|300 S Tryon Street|Suite 600|Charlotte
-5|INTERNATIONAL BUSINESS MACHINES CORPORATION|3039 E CORNWALLIS ROAD|BUILDING 002|DURHAM
-5|IBM India Private Limited|3039 E Cornwallis Road|Building 002|Durham
-5|IBM Corporation|3039 E Cornwallis Road|N/A|Durham
-5|IBM Corporation|3039 E Cornwallis Road||Durham
-5|IBM India Private Limited|3039 E Cornwallis Road||Durham
-5|PREMIER RESEARCH INTERNATIONAL INC|3800 PARAMOUNT PARKWAY|SUITE 400|MORRISVILLE
-5|PREMIER RESEARCH INTERNATIONAL LLC|3800 PARAMOUNT PARKWAY|SUITE 400|MORRISVILLE
-5|Premier Research International LLC|3800 Paramount Parkway|400|Morrisville
-5|Premier Research International LLC|3800 Paramount Parkway|Suite 400|Morrisville
-5|Premier Research International LLC|3800 Paramount Parkway||Morrisville
-5|EVA GARLAND CONSULTING LLC|4242 SIX FORKS ROAD|SUITE 900|RALEIGH
-5|Eva Garland Consulting LLC|4242 Six Forks Road|Ste 900|Raleigh
-5|Johnson Lambert, LLP|4242 Six Forks Road|Suite 1500|Raleigh
-5|Pro-ficiency LLC|4242 Six Forks Road|Suite 1550|Raleigh
-5|Eva Garland Consulting LLC|4242 Six Forks Road|Suite 900|Raleigh
-5|TECHNOSOFT ENGINEERING INC|600 AIRPORT BLVD|SUITE 700|MORRISVILLE
-5|TECHNOSOFT SERVICES INC|600 AIRPORT BLVD|SUITE 700|MORRISVILLE
-5|TECHNOSOFT INNOVATIONS INC|600 AIRPORT BLVD|SUITE 700|MORRISVILLE
-5|Technosoft Services Inc|600 Airport Blvd|Suite 700|Morrisville
-5|Technosoft Engineering Inc|600 Airport Blvd|Suite 700|Morrisville
-5|XDIN INC|7830 Thorndike Road||Greensboro
-5|Alten Technology USA Inc|7830 Thorndike Road||Greensboro
-5|Alten Technology|7830 Thorndike Road||Greensboro
-5|Xdin Inc|7830 Thorndike Road||Greensboro
-5|XDIN Inc|7830 Thorndike Road||GREENSBORO
-5|Kube Clouds Inc|800 Pinner Weald Way|Ste 201|Cary
-5|Saminavi LLC|800 Pinner Weald Way|Ste 201|Cary
-5|Kube Clouds Inc|800 Pinner Weald Way|Ste 201, Unit 1|Cary
-5|Saminavi LLC|800 Pinner Weald Way|Ste 201, Unit 2|Cary
-5|Kube Clouds Inc|800 Pinner Weald Way|Ste 201; Unit 1|Cary
-5|Equagen Engineers PLLC|8045 Arco Corporate Drive|Suite 130|Raleigh
-5|Equagen Engineers, PLLC|8045 Arco Corporate Drive|Suite 220|Raleigh
-5|PrimeVigilance USA Inc|8045 Arco Corporate Drive|Suite 310|Raleigh
-5|Dynpro Inc|8045 Arco Corporate Drive|Suite 370|Raleigh
-5|DynPro Inc|8045 Arco Corporate Drive|Suite 370|Raleigh
-5|DIGI CLOUD LLC|8307 UNIVERSITY EXECUTIVE PARK DRIVE||CHARLOTTE
-5|UIPATHTEK LLC|8307 University Executive Park Drive|Suite 242|Charlotte
-5|UI Path Tek LLC|8307 University Executive Park Drive|Suite 242|Charlotte
-5|UI PATH TEK LLC|8307 University Executive Park Drive|Suite 242|Charlotte
-5|AMP Solutions LLC|8307 University Executive Park Drive||Charlotte
-5|4Sphere Software Solutions LLC|8601 SIX FORKS ROAD|STE 400|RALEIGH
-5|Rummel, Klepper & Kahl, LLP|8601 Six Forks Road|Forum 1, Suite 700|Raleigh
-5|Fortisview LLC|8601 Six Forks Road|Suite 400|Raleigh
-5|Snowstack LLC|8601 Six Forks Road|Suite 400|Raleigh
-5|EDJX Inc|8601 Six Forks Road|Suite 400|Raleigh
-5|SKY SYSTEMS INC|8801 FAST PARK DRIVE|SUITE 201|RALEIGH
-5|SKY SYSTEMS INC|8801 Fast Park Drive|Suite 201|Raleigh
-5|Sky Systems Inc|8801 Fast Park Drive|Suite 201|Raleigh
-5|Bright Leafs Solutions LLC|8801 Fast Park Drive|Suite 215|Raleigh
-5|TSG Consulting LLC|8801 Fast Park Drive|Suite 301|Raleigh
-4|Ehika LLC|101 North Tryon Street|Suite 112|Charlotte
-4|Eval Consulting Inc|101 North Tryon Street|Suite 112|Charlotte
-4|Viksan Inc|101 North Tryon Street|Suite 112|Charlotte
-4|Viksan Inc|101 North Tryon street|Suite 112|Charlotte
-4|Perceptive Informatics LLC|1010 Sync Street|Suite 575|Morrisville
-4|Rithum Corporation|1010 Sync Street|Suite 600|Morrisville
-4|Rithum LLC|1010 Sync Street|Suite 600|Morrisville
-4|Perceptive Informatics LLC|1010 Sync Street||Morrisville
-4|Nextgen Solutions Inc|11020 DAVID TAYLOR DRIVE|STE 302|CHARLOTTE
-4|Tabner INC|11020 David Taylor Drive|Suite 103|Charlotte
-4|Tabner Inc|11020 David Taylor Drive|Suite 103|Charlotte
-4|Signature IT Solutions Inc|11020 David Taylor Drive|Suite 402|Charlotte
-4|S9 Solutions LLC|120 Preston Executive Drive|STE 207|Cary
-4|S9 Solutions LLC|120 Preston Executive Drive|STE 207|CARY
-4|Genostats Corp|120 Preston Executive Drive|Suite 206|Cary
-4|Pinelli Partners PLLC|120 Preston Executive Drive|Suite 216|Cary
-4|DIGITAL RIM LLC|1251 ARROW PINE DR|STE B150|CHARLOTTE
-4|Cloudninetek LLC|1251 Arrow Pine Dr|C111|Charlotte
-4|ContextLogic LLC|1251 Arrow Pine Dr|Suite B 150|Charlotte
-4|ContextLogic LLC|1251 Arrow Pine Dr|Suite B 150|Charlotte NC
-4|ERP TECH SOLUTIONS LLC|1263 Arrow Pine Drive|C115|Charlotte
-4|Ganges Systems LLC|1263 Arrow Pine Drive|Suite C112|Charlotte
-4|ERP Tech Solutions LLC|1263 Arrow Pine Drive|Suite C115|Charlotte
-4|COSMORYZE LLC|1263 Arrow Pine Drive|suite D 105|Charlotte
-4|PREMIER HEALTHCARE SOLUTIONS INC|13034 BALLANTYNE CORPORATE PLACE|N/A|CHARLOTTE
-4|PREMIER HEALTHCARE SOLUTIONS INC|13034 BALLANTYNE CORPORATE PLACE||CHARLOTTE
-4|Premier Healthcare Solutions Inc|13034 Ballantyne Corporate Place||Charlotte
-4|Premier Inc|13034 Ballantyne Corporate Place||Charlotte
-4|Sansoft LLC|133 KEYBRIDGE DR|STE E|MORRISVILLE
-4|Sansoft LLC|133 Keybridge Dr|Suite E|Morrisville
-4|Datalore Technologies Inc|133 Keybridge Dr|Suite E|Morrisville
-4|TEK MINDED INC|133 Keybridge Dr|Suite H|Morrisville
-4|SYNTACTECH INC|150 PRESTON EXECUTIVE DR|SUITE 201|CARY
-4|Greenpoint IT LLC|150 Preston Executive Dr|STE 201|Cary
-4|Greenpoint IT LLC|150 Preston Executive Dr|STE 207|Cary
-4|ETYME INC|150 Preston Executive Dr|Suite 233|Cary
-4|INSIGHT INTELLI INC|1909 JN Pease Pl|SUITE 103|Charlotte
-4|Insight Intelli Inc|1909 JN Pease Pl|Suite 103|Charlotte
-4|INSIGHT INTELLI INC|1909 JN Pease Pl|Suite 103|Charlotte
-4|Insight Intelli Inc|1909 JN Pease Pl|Suite 103|Charotte
-4|RegEd Inc|2100 Gateway Centre Blvd|200|Morrisville
-4|RegEd Inc|2100 Gateway Centre Blvd|STE 200|Morrisville
-4|RegEd Inc|2100 Gateway Centre Blvd|Ste 200|Morrisville
-4|RegEd Inc|2100 Gateway Centre Blvd|Suite 200|Morrisville
-4|ORIGIN HUBS INC|2500 GATEWAY CENTRE BLVD|SUITE 100|MORRISVILLE
-4|HARBOR HAT INC|2500 GATEWAY CENTRE BLVD|SUITE 200|MORRISVILLE
-4|Origin Hubs Inc|2500 Gateway Centre Blvd|STE 100|Morrisville
-4|ORIGIN HUBS INC|2500 Gateway Centre Blvd|Suite 100|Morrisville
-4|Saphire Solutions Inc|2500 REGENCY PKWY||CARY
-4|Clinvia LLC|2500 Regency Pkwy||Cary
-4|Vytis Technologies Inc|2500 Regency Pkwy||Cary
-4|ACR Technology LLC|2500 Regency Pkwy||Cary
-4|Saphire Solutions Inc|2500, Regency Parkway||Cary
-4|Tristar Consultancy Inc|2500, Regency Parkway||CARY
-4|Saphire Solutions Inc|2500, Regency Parkway||CARY
-4|Tristar Consultancy Inc|2500, Regency Parkway||Cary
-4|QUANTA TECHNOLOGY LLC|4020 WESTCHASE BOULEVAROAD|SUITE 200|RALEIGH
-4|QUANTA TECHNOLOGY LLC|4020 WESTCHASE BOULEVAROAD|SUITE 300|RALEIGH
-4|QUANTA TECHNOLOGY|4020 WESTCHASE BOULEVAROAD|SUITE 300|RALEIGH
-4|QUANTA TECHNOLOGY LLC|4020 WESTCHASE BOULEVAROAD|SUITE 325|RALEIGH
-4|Pharmaceutical Research Associates Inc|4130 ParkLake Avenue|STE 400|Raleigh
-4|Pharmaceutical Research Associates Inc|4130 ParkLake Avenue|Suite 400|Raleigh
-4|Pharmaceutical Research Associates Inc|4130 Parklake Avenue|STE 400|Raleigh
-4|Myers Bigel, P.A.|4130 Parklake Avenue|Suite 250|Raleigh
-4|Dixon Hughes Goodman LLP|4350 CONGRESS STREET|SUITE 900|CHARLOTTE
-4|DIXON HUGHES GOODMAN LLP|4350 CONGRESS STREET|SUITE 900|CHARLOTTE
-4|Discovery Education Inc|4350 Congress Street|Suite 700|Charlotte
-4|Dixon Hughes Goodman LLP|4350 Congress Street|Suite 900|Charlotte
-4|Utopia Global Inc|4601 Six Forks Road|Ste 220|Raleigh
-4|Utopia Global Inc|4601 Six Forks Road|Suite 200|Raleigh
-4|Prometheus Group Enterprises LLC|4601 Six Forks Road|Suite 220|Raleigh
-4|Utopia Global Inc|4601 Six Forks Road|Suite 220|Raleigh
-4|RACOM SOFTWARE SERVICES LLC|4819 EMPEROR BLVD.|SUITE 456A|DURHAM
-4|RADCOM SOFTWARE SERVICES LLC|4819 EMPEROR BLVD.|SUITE 456A|DURHAM
-4|VR ITECH CONSULTING, L.L.C.|4819 Emperor Blvd.|Suite 400|Durham
-4|Perigon Infotech Inc|4819 Emperor Blvd.|Suite 400|Durham
-4|Cambridge Pharma Consultancy Inc|4820 Emperor Blvd||Durham
-4|IQVIA INC|4820 Emperor Blvd||Durham
-4|HighPoint Solutions LLC|4820 Emperor Blvd||Durham
-4|IQVIA Inc|4820 Emperor Blvd||Durham
-4|SPECTRAFORCE TECHNOLOGIES INC|500 W PEACE STREET||RALEIGH
-4|Bridgera LLC|500 W PEACE STREET||RALEIGH
-4|Spectraforce Technologies Inc|500 W Peace Street||Raleigh
-4|Bridgera LLC|500 W Peace Street||Raleigh
-4|D2Sol Inc|5920 S Miami BLVD|Suite 101|Morrisville
-4|Winsai LLC|5920 S Miami Blvd|Ste 201|Morrisville
-4|Sain Technologies LLC|5920 S Miami Blvd|Ste 201 A|Morrisville
-4|D2Sol Inc|5920 S Miami Blvd|Suite 101|Morrisville
-4|Teknosys Inc|5920 S. Miami Blvd|Ste 205A|Morrisville
-4|SunTechPros Inc|5920 S. Miami Blvd|Suite 205 B|Morrisville
-4|Teknosys Inc|5920 S. Miami Blvd|Suite 205A|Morrisville
-4|Teknosys Inc|5920 S. Miami Blvd|Suite 205A|Raleigh
-4|Teknosys Inc|5920 S. Miami Blvd.|Ste 205A|Morrisville
-4|SunTechPros Inc|5920 S. Miami Blvd.|Suite 205 B|Morrisville
-4|Teknosys Inc|5920 S. Miami Blvd.|Suite 205A|Raleigh
-4|Teknosys Inc|5920 S. Miami Blvd.|Suite 205A|Morrisville
-4|QennectIT LLC|5960 Fairview Road|STE 400|Charlotte
-4|QennectIT LLC|5960 Fairview Road|Ste 400|Charlotte
-4|SparkFX LLC|5960 Fairview Road|Suite 400|Charlotte
-4|QennectIT LLC|5960 Fairview Road|Suite 400|Charlotte
-4|GO8 IT INC|8000 CORPORATE CENTER DRIVE|SUITE 104|CHARLOTTE
-4|Go8 IT Inc|8000 Corporate Center Drive|Suite 104|Charlotte
-4|GO8 IT Inc|8000 Corporate Center Drive|Suite 104|Charlotte
-4|Neo Prism Solutions LLC|8000 Corporate Center Drive|Suite 201|Charlotte
-4|INTVERSE INC|8936 NORTHPOINTE EXECUTIVE PARK DR|SUITE 180|HUNTERSVILLE
-4|ReaCredence IT Solutions Inc|8936 Northpointe Executive Park Dr|Suite 240|Huntersville
-4|Reacredence IT Solutions Inc|8936 Northpointe Executive Park Dr|Suite 240|Huntersville
-4|Reacredence IT Solutions Inc|8936 northpointe executive park dr|Suite 240|Huntersville
-4|Evidera Inc|929 North Front Street||Wilmington
-4|Acurian Inc|929 North Front Street||Wilmington
-4|PPD Development, L.P.|929 North Front Street||Wilmington
-4|PPD Development, L.P.|929 North Front street||Wilmington
-3|MOORE AND VAN ALLEN PLLC|100 NORTH TRYON STREET|SUITE 4700|CHARLOTTE
-3|MOORE & VAN ALLEN, PLLC|100 NORTH TRYON STREET|SUITE 4700|CHARLOTTE
-3|Moore & Van Allen PLLC|100 North Tryon Street|Suite 4700|Charlotte
-3|SASINFO INC|10115 Kincey Avenue|Suite 146|Huntersville
-3|SAS Info Inc|10115 Kincey Avenue|Suite 146|Huntersville
-3|SASInfo Inc|10115 Kincey Avenue|Suite 146|Huntersville
-3|Value Technology Inc|10130 Perimeter Parkway|STE 200|Charlotte
-3|EPR IT Solutions LLC|10130 Perimeter Parkway|Suite 200|Charlotte
-3|EPR IT Solutions LLC|10130 Perimeter Parkway|suite 200|Charlotte
-3|Amp Solutions LLC|10200 Mallard Creek Road, Suite 102||Charlotte
-3|Validation Engineer|10200 Mallard Creek Road, Suite 102||Charlotte
-3|AMP Solutions LLC|10200 Mallard Creek Road, Suite 102||Charlotte
-3|Conversant Solutions Inc|10224 HickoryWood Hill Ave|Suite 102|Huntersville
-3|SASINFO INC|10224 Hickorywood Hill Ave|Ste 201|Huntersville
-3|Conversant Solutions Inc|10224 Hickorywood Hill Ave|Suite 102|Huntersville
-3|Syneos Health LLC|1030 Sync Street||Morrisville
-3|Syneos Health US Inc|1030 Sync Street||Morrisville
-3|RxDataScience Inc|1030 Sync Street||Morrisville
-3|SIMPSOFT SOLUTIONS USA LLC|10643 KETTERING DRIVE|SUITE 208|CHARLOTTE
-3|Aanvi Cloud Technologies Inc|10643 Kettering Drive|Suite 102|Charlotte
-3|AANVI CLOUD TECHNOLOGIES INC|10643 Kettering Drive|Suite 102|Charlotte
-3|Zenspace IT LLC|10715 David Taylor Drive|Suite 400|Charlotte
-3|ZENSPACE IT LLC|10715 David Taylor Drive|Suite 400|Charlotte
-3|ZenspaceIT LLC|10715 David Taylor Drive|Suite 400|Charlotte
-3|Tutelary Inc|10801 Johnston Road|Ste 214|Charlotte
-3|Lorven Group Inc|10801 Johnston Road|Suite 211|Charlotte
-3|BlueMapleIT LLC|10801 Johnston Road|Suite 220|Charlotte
-3|LORVEN GROUP INC|11006 RUSHMORE DR.|STE 175|CHARLOTTE
-3|LORVEN GROUP INC|11006 RUSHMORE DR.|SUITE 175|CHARLOTTE
-3|Lorven Group Inc|11006 Rushmore Dr.|Suite 175|Charlotte
-3|IT KEYSOURCE INC|11220 ELM LN|STE 204|CHARLOTTE
-3|IT KeySource Inc|11220 ELM LN|STE 204|Charlotte
-3|IT KEYSOURCE INC|11220 ELM LN|SUITE 204|CHARLOTTE
-3|Eminence IT Solutions Inc|1135 Kidaire Farm Road|Suite 311 1|Cary
-3|Eminence it Solutions Inc|1135 Kidaire Farm Road|Suite 311 3|Cary
-3|Eminence IT Solutions Inc|1135 Kidaire Farm Road|Suite 311 3|Cary
-3|JOHN DAVENPORT ENGINEERING INC|119 BROOKSTOWN AVE|PH 1|WINSTON-SALEM
-3|John Davenport Engineering Inc|119 Brookstown Ave|Suite PH 1|Winston Salem
-3|John Davenport Engineering Inc|119 Brookstown Ave|Suite PH 1|Winston-Salem
-3|PASSPORT LABS INC|128 S TRYON STREET|SUITE 1000|CHARLOTTE
-3|PASSPORT LABS INC|128 S Tryon Street|SUITE 1000|CHARLOTTE
-3|Passport Labs Inc|128 S Tryon Street|Ste 1000|Charlotte
-3|AND IT Tech LLC|140 Towerview Ct|Suit 105|Cary
-3|AND IT Tech LLC|140 Towerview Ct|Suite 105|Cary
-3|VST Global Inc|140 Towerview Ct|Suite 110|Cary
-3|Peopletek Inc|15000 Weston Pkwy|Suite 113|Cary
-3|Nenine Technologies Inc|15000 Weston Pkwy|Suite 140|Cary
-3|HTS-systems|15000 Weston Pkwy||Cary
-3|Triangle Accounting  Inc|1601 Walnut Street|Ste 201|Cary
-3|Triangle Accounting Inc|1601 Walnut Street|Suite 201|Cary
-3|TRIANGLE ACCOUNTING INC|1601 Walnut Street|Suite 201|Cary
-3|Vision Square Inc|16607 Riverstone Way|Unit 200, Room 211, Office 10|Charlotte
-3|Vision Square Inc|16607 Riverstone Way|Unit 200, Suite 211|Charlotte
-3|SharpGen Solutions LLC|16607 Riverstone Way|Unit 200, Suite 211|Charlotte
-3|Nenine Technologies Inc|1824 VENEZIA WAY||Apex
-3|NENINE TECHNOLOGIES INC|1824 VENEZIA WAY||APEX
-3|Nenine Technologies Inc|1824 Venezia Way||Apex
-3|ARDOR IT SYSTEMS LLC|1905 J N Pease Pl|STE 201|Charlotte
-3|SPRYDO SYSTEMS LLC|1905 J N Pease Pl|Ste 104|Charlotte
-3|ARDOR IT SYSTEMS LLC|1905 J N Pease Pl||Charlotte
-3|INFOSWIFT SOFTWARE LLC|19109 W CATAWBA AVE|STE 200|CORNELIUS
-3|INFOSWIFT SOFTWARE LLC|19109 W Catawba Ave|STE 200|Cornelius
-3|UI Path Tek LLC|19109 W Catawba Ave|STE 200|Cornelius
-3|Data Cloud Tek LLC|19109 West Catawba Avenue|STE 200|Cornelius
-3|Data Cloud Tek LLC|19109 West Catawba Avenue|Suite 200|Cornelius
-3|Data Cloud Tek LLC|19109 West Catawba Avenue|suite 200|Cornelius
-3|Yarrow Technologies Inc|1914 J N Pease Pl|Ste 140|Charlotte
-3|TechTrove Software Solutions LLC|1914 J N Pease Pl|Suite 138|Charlotte
-3|Yarrow Technologies Inc|1914 J N Pease Pl|Suite 140|Charlotte
-3|NITYOSOFT INCORPORATED|1973 J N PEASE PL|STE 201|CHARLOTTE
-3|SPRYDO SYSTEMS LLC|1973 J N Pease Pl|Ste 104|Charlotte
-3|SprydoSystems LLC|1973 J N Pease Pl|Ste 201|Charlotte
-3|TeknXpert LLC|1973 JN Pease Place|Suite 104|Charlotte
-3|TeknXpert LLC|1973 JN pease place|Suite 104|Charlotte
-3|TeknXpert LLC|1973 JN pease place|suite 104|Charlotte
-3|CELORISTECH LLC|1977 J N PEASE PLACE|SUITE 104|CHARLOTTE
-3|Artificial Inventions LLC|1977 J N PEASE PLACE|SUITE 201|CHARLOTTE
-3|Artificial Inventions LLC|1977 J N Pease Place|Suite 201|Charlotte
-3|CELORIS TECH LLC|1977 JN PEASE PL|SUITE 101|CHARLOTTE
-3|CELORIS TECH LLC|1977 JN PEASE PL|SUITE 101|Charlotte
-3|CELORIS TECH LLC|1977 JN PEASE PL|Suite 101|Charlotte
-3|AUGUSTA IT SOLUTIONS INC|1981 JN PEASE PL|SUITE 204|CHARLOTTE
-3|AUGUSTA IT SOLUTIONS LLC|1981 JN PEASE PL|SUITE 204|CHARLOTTE
-3|Augusta IT Solutions|1981 JN Pease Pl|Suite 204|Charlotte
-3|Shrive Solutions LLC|201 McCullough Drive|Suite 205|Charlotte
-3|Shrive solutions LLC|201 McCullough Drive|Suite 205|Charlotte
-3|SHRIVE SOLUTIONS LLC|201 McCullough Drive|Suite 205|Charlotte
-3|SYNTACTECH INC|2101 GATEWAY CENTRE BLVD|SUITE 104|MORRISVILLE
-3|SKYTEK CORP|2101 GATEWAY CENTRE BLVD|SUITE 104|MORRISVILLE
-3|SyntacTech Inc|2101 Gateway Centre Blvd|Suite 104|Morrisville
-3|Infoexcel Inc|2530 Meridian Pkwy|Suite 300|Durham
-3|ZHP Services LLC|2530 Meridian Pkwy|Suite 300|Durham
-3|TekSphere Solutions Inc|2530 Meridian Pkwy|Suite 300|Durham
-3|FLEXGEN HOLDINGS INC|280 S. Mangum Street|Suite 150|Durham
-3|Flexgen Power Systems LLC|280 S. Mangum Street|Suite 150|Durham
-3|Flexgen Power Systems|280 S. Mangum Street|Suite 150|Durham
-3|Smarttrak LLC|300 S Main Street|Suite 212|San Holly Springs
-3|Smarttrak LLC|300 S Main Street|Suite 212|Holly Springs
-3|Smarttrak LLC|300 S Main Street|Suite 212|HOLLY SPRINGS
-3|Research Triangle Institute (RTI International)|3040 E Cornwallis Road||Durham
-3|Research Triangle Institute (U.S.)|3040 E Cornwallis Road||Durham
-3|Research Triangle Institute|3040 E Cornwallis Road||Durham
-3|DEV SYSTEMS INC|3230 PROSPERITY CHURCH ROAD|SUITE 202|CHARLOTTE
-3|ELITEGEEK SOLUTIONS LLCSSSSSS|3230 PROSPERITY CHURCH ROAD|SUITE 202F|CHARLOTTE
-3|ELITEGEEK SOLUTIONS LLC|3230 PROSPERITY CHURCH ROAD|SUITE 202F|CHARLOTTE
-3|NTECH INTERNATIONAL LLC|3440 TORINGDON WAY|SUITE 205|CHARLOTTE
-3|EMCUBE TECHNOLOGIES INC|3440 TORINGDON WAY|SUITE 205|CHARLOTTE
-3|INFODYNE SOLUTIONS LLC|3440 TORINGDON WAY|SUITE 239|CHARLOTTE
-3|Swift Solutions Inc|400 PINNER WEALD WAY|STE 101|CARY
-3|Swift Solutions Inc|400 Pinner Weald Way|Suite 101|Cary
-3|Vimalraj Inc|400 Pinner Weald Way|Suite 201|Cary
-3|VBRIDGEIT INC|416 McCullough Dr|Ste 130|Charlotte
-3|VBRIDGEIT INC|416 McCullough Dr|Suite 130|Charlotte
-3|Arche Group Inc|416 McCullough Dr|Suite 155|Charlotte
-3|IQVIA Inc|4820 Emperor Blvd.||Durham
-3|Clinical Solutions Group LLC|4820 Emperor Blvd.||Durham
-3|Epernicus LLC|4820 Emperor Blvd.||Durham
-3|SUSTAERA INC|5001 Weston Parkway|Suite 105|Cary
-3|Sustaera Inc|5001 Weston Parkway|Suite 105|Cary
-3|Susteon Inc|5001 Weston Parkway|Suite 105|Cary
-3|PROSQUIRE LLC|5102 DURHAM CHAPEL HILL BLVD|STE 214|DURHAM
-3|PROSQUIRE LLC|5102 DURHAM CHAPEL HILL BLVD|Ste 214|DURHAM
-3|Prosquire LLC|5102 Durham chapel hill Blvd|STE 214|Durham
-3|ATA ANALYTIQ LLC|525 N Tryon St|STE 1600|Charlotte
-3|Softtechers LLC|525 N Tryon St|Suite 1600|Charlotte
-3|TeamsVise LLC|525 N Tryon St||Charlotte
-3|LABORATORY CORPORATION OF AMERICA HOLDINGS|531 S. Spring Street||Burlington
-3|Laboratory Corporation of America Holdings|531 S. Spring Street||Burlington
-3|Esoterix Inc|531 S. Spring Street||Burlington
-3|Arche Group Inc|532 Patterson Ave|STE 150|Mooresville
-3|Arche Group INC|532 Patterson Ave|STE 150|Mooresville,
-3|Arche Group Inc|532 Patterson Ave|Suite 150|Mooresville
-3|Solutionstreams Inc|5322 Highgate Dr.|Ste 243|Durham
-3|Solutionstreams Inc|5322 Highgate Dr.|Suite 243|Durham
-3|Nenicel Inc|5322 Highgate Dr.|Suite 243|Durham
-3|TSG CONSULTING LLC|5520 CAPITAL CENTER DRIVE||RALEIGH
-3|TSG CONSULTING LLC|5520 CAPITAL CENTER DRIVE||Raleigh
-3|TSG Consulting LLC|5520 Capital Center Drive||Raleigh
-3|Urjha QuesTech Inc|5540 Centerview Dr|Ste 200|Raleigh
-3|Sansoft LLC|5540 Centerview Dr|Suite 200|Raleigh
-3|Datalore Technologies Inc|5540 Centerview Dr|Suite 200|Raleigh
-3|ZELECLOUD LLC|555 FAYETTEVILLE STREET|SUITE 300|RALEIGH
-3|Digital.ai Software Inc|555 Fayetteville Street|Suite 210|Raleigh
-3|TOTVS Inc|555 Fayetteville Street|Suite 620|Raleigh
-3|Skillo Inc|5601 Executive Center Dr|215|Charlotte
-3|Skillo Inc|5601 Executive Center Dr|Ste 215|Charlotte
-3|Skillo Inc|5601 Executive Center Dr||Charlotte
-3|Altis Biosystems Inc|6 Davis Drive|STE 159|Durham
-3|EPICYPHER INC|6 Davis Drive|Suite 755|Durham
-3|BioAesthetics Corporation|6 Davis Drive|Suite 828|Research Triangle Park
-3|Predictant LLC|6521 Meridien Drive||Raleigh
-3|FDH Infrastructure Services LLC|6521 Meridien Drive||Raleigh
-3|Predictant LLC FKA FDH Infrastructure Services LLC|6521 Meridien Drive||Raleigh
-3|Inivata Inc|7020 Kit Creek Road|STE 140|Research Triangle Park
-3|Nirvana Sciences Inc|7020 Kit Creek Road|Ste 230|Research Triangle Park
-3|Nirvana Sciences Inc|7020 Kit Creek Road|Suite 230|Research Triangle Park
-3|9M SOLUTIONS INC|756 TYVOLA ROAD|SUITE 143|CHARLOTTE
-3|9M Solutions Inc|756 TYVOLA ROAD|SUITE 143|CHARLOTTE
-3|9M Solutions Inc|756 Tyvola Road|STE 143|Charlotte
-3|Xpand IT Solutions INC|8008 Corporate Drive|Ste 100|Charlotte
-3|Xpand IT Solutions Inc|8008 Corporate Drive|Ste 100|Charlotte
-3|XPAND IT SOLUTIONS INC|8008 Corporate Drive|Suite 100|Charlotte
-3|SAPIENS Americas Corporation|801 Corporate Center Drive|STE 320|Raleigh
-3|Tryon Solutions Inc|801 Corporate Center Drive|Suite 116|Raleigh
-3|Sapiens Americas Corporation|801 Corporate Center Drive|Suite 320|Raleigh
-3|Endpoint Clinical L.P.|8045 Arco Corporate Dr|Suite 250|Raleigh
-3|Endpoint Clinical Inc|8045 Arco Corporate Dr|Suite 250|Raleigh
-3|DYNPRO Inc|8045 Arco Corporate Dr|Suite 370|Raleigh
-3|DELTA PROGRESS GROUP INC|8309 SIX FORKS ROAD|SUITE 207|RALEIGH
-3|WISDOM SOFT INC|8309 SIX FORKS ROAD|SUITE 207|RALEIGH
-3|Wisdom Soft Inc|8309 Six Forks Road|Suite 207|Raleigh
-3|EPLANET CONSULTANTS INC|8501 TOWER POINT DRIVE|SUITE D8|CHARLOTTE
-3|Regent Strategic Solutions LLC|8501 Tower Point Drive|Suite C3|Charlotte
-3|Regent Strategic Solutions|8501 Tower Point Drive|Suite C3|Charlotte
-3|Callidus Technologies LLC, a Honeywell International Inc Company|855 S. Mint Street||Charlotte
-3|Honeywell International Inc|855 S. Mint Street||Charlotte
-3|UOP LLC|855 S. Mint Street||Charlotte
-3|ARDOR IT SOLUTIONS INC|8801 JM KEYNES DR|SUITE 290|CHARLOTTE, NC, 28262
-3|ARDOR IT SOLUTIONS INC|8801 JM KEYNES DR|SUITE 290|CHARLOTTE
-3|ARDORITSOLUTIONS INC|8801 JM KEYNES DR|SUITE 290|CHARLOTTE
-3|POTU IT SOLUTIONS LLC|964 HIGH HOUSE ROAD|3055|CARY
-3|POTU IT Solutions LLC|964 High House Road|3055|Cary
-3|Hymettus Inc|964 High House Road|Suite 4253|Cary
-3|Eversoft Technologies LLC|9700 Research Dr|STE 142|Charlotte
-3|ElevateX LLC|9700 Research Dr|STE 147|Charlotte
-3|Pristine Embed Technologies Inc|9700 Research dr|Suite 107|Charlotte
-2|Spring Sun LLC|1 Glenwood Ave|Floor 5|Raleigh
-2|Spring Sun LLC|1 Glenwood Ave|Suite 3|Raleigh
-2|SAS INSTITUTE INC|100 SAS CAMPUS DRIVE||CARY
-2|SAS Institute Inc|100 SAS Campus Drive||Cary
-2|Vtechinfo Inc|1002 Vandora Springs ROAD|suite 124|Garner
-2|Vtechinfo Inc|1002 Vandora Springs ROAD||Garner
-2|BeetleAI Solutions LLC|1003 High House Road|STE 202|Cary
-2|BeetleAl Solutions LLC|1003 High House Road|Suite 202|Cary
-2|Infinia ML Inc|1009 Slater Road|STE 390|Durham
-2|Marken, LLP|1009 Slater Road|Suite 120|Durham
-2|Klar Ventures LLC|101 S Tryon St|27th Floor|Charlotte
-2|Theoremlabs Partners LLC|101 S Tryon St|Suite 2700|Charlotte
-2|4Sphere Software Solutions LLC|10101 Division Dr||RALEIGH
-2|4Sphere Software Solutions LLC|10101 Division Dr||Raleigh
-2|GLOBAL GROUP INC|10130 PERIMETER PKWY|STE 200|CHARLOTTE
-2|Adept Compliance Group Inc|10130 Perimeter Pkwy|Suite 200|Charlotte
-2|AMP Solutions LLC|10200 Mallard Creek Road|Suite 102|Charlotte
-2|AMP SOLUTIONS LLC|10200 Mallard Creek Road|Suite 102|Charlotte
-2|ORIGIN HUBS INC|10315 CHAPEL HILL ROAD|FLOOR 1|MORRISVILLE
-2|Origin Hubs Inc|10315 Chapel Hill Road|1st Floor|Morrisville
-2|Hitex Info LLC|10402 Olde Ivy Way||Charlotte
-2|Tekrules LLC|10402 olde Ivy way||Charlotte
-2|TECHNODEED LLC|10404 CHAPEL HILL ROAD|SUITE 106|MORRISVILLE
-2|Technodeed LLC|10404 Chapel Hill Road|Suite 106|Morrisville,
-2|InfoDyne Solutions LLC|105-F Waxhaw Professional Park Drive|STE 100|Waxhaw
-2|Infodyne Solutions LLC|105-F Waxhaw Professional Park Drive|STE 100|Waxhaw
-2|TEKTANS LLC|106 LANGTREE VILLAGE DR||MOORESVILLE
-2|ZENSPACE IT LLC|106 Langtree Village Dr|Suite 301|Mooresville
-2|Go8 IT Inc|10718 Carmel Commons Blvd|Ste 220|Charlotte
-2|GO8 IT Inc|10718 Carmel Commons Blvd|Suite 220|Charlotte
-2|Lorven Group Inc|11006 Rushmore Dr|Suite 175|Charlotte NC
-2|Lorven Group Inc|11006 Rushmore Dr|Suite 175|Charlotte
-2|KBI Biopharma|1101 Hamlin Road||Durham
-2|KBI Biopharma Inc|1101 Hamlin Road||Durham
-2|ADDEPTO IT SOLUTIONS LLC|11020 David Taylor Dr.|Suite 201|Charlotte
-2|Addepto IT Solutions LLC|11020 David Taylor Dr.|Suite 201|Charlotte
-2|Teksolve IT Solutions LLC|11121 Carmel Commons Boulevard|Suite 405|Charlotte
-2|Xpand IT Solutions Inc|11121 Carmel Commons Boulevard|Suite 430|Charlotte
-2|DSK BIOPHARMA INC|112 NOVA DRIVE||Morrisville
-2|Symmetry Biosciences Inc|112 Nova Drive|Suite 1|Morrisville
-2|CLOUD SYSTEMS LLC|112 S Tryon Street|Suite 1220|Charlotte
-2|Reveille Technologies Inc|112 S Tryon Street|Suite 1255|Charlotte
-2|RXO Corporate Solutions LLC|11215 N Community House Road||Charlotte
-2|RXO Capacity Solutions LLC|11215 N Community House Road||Charlotte
-2|XPO Enterprise Services LLC|11215 N. Community House Road||Charlotte
-2|XPO Logistics Managed Transportation LLC|11215 N. Community House Road||Charlotte
-2|Synoris Inc|11336 Ardrey Crest Drive||Charlotte
-2|Systematix Infotech INC|11336 Ardrey Crest Drive||Charlotte
-2|Premium people Group LLC|1135 Kildare Farm Road||Cary
-2|Premium People Group LLC|1135 Kildare Farm Road||Cary
-2|Tribis Inc|11605 N Community House Road|Suite 102|Charlotte
-2|Pantar Solutions Inc|11605 N Community House Road|Suite 102|Charlotte
-2|Snowstack LLC|11709 Fruehauf Dr|Suite 107|Charlotte
-2|Snowstack LLC|11709 Fruehauf Dr|Suite107|Charlotte
-2|Clinical Ink Inc|119 Brookstown Avenue, Suite 101||Winston-Salem
-2|Clinical Ink Inc|119 Brookstown Avenue, Suite 101||Winston Salem
-2|JPS Tech Solutions LLC|119 SW Maynard Road|Suite 100|Cary
-2|Kiertech Inc|119 SW Maynard Road|Suite 220|Cary
-2|AvidXchange Inc|1210 AvidXchange Lane||Charlotte
-2|AvidXchange LLC|1210 AvidXchange Lane||Charlotte
-2|Torrent Consulting LLC|1213 W Morehead St|Ste 310|Charlotte
-2|Optim IT Solutions|1213 W Morehead St|Suite 500|Charlotte
-2|BlueAlly Technology Solutions LLC|1225 Crescent Green|STE 115|Cary
-2|BlueAlly Technology Solutions LLC|1225 Crescent Green|Suite 115|Cary
-2|ettain group Inc|127 W. Worthington Avenue|STE 100|Charlotte
-2|ettain group Inc|127 W. Worthington Avenue|Suite 100|Charlotte
-2|VISTAINFOLABSLLC|12724 franklin squared rd||Charlotte
-2|VISTAINFOLABSLLC|12724 franklin squared rd||CHARLOTTE
-2|Tekebin Inc|128 S Tryon St FLR, 18th, 19th||Charlotte
-2|Tekebin LLC|128 S Tryon St FLR, 18th, 19th||Charlotte
-2|MARKET AMERICA INC|1302 PLEASANT RIDGE ROAD||GREENSBORO
-2|Market America Inc|1302 Pleasant Ridge Road||Greensboro
-2|DATACALIPER LLC|1328 Center Street||Apex
-2|DATA CALIPER LLC|1328 Center Street||Apex
-2|Congruence Therapeutics USA Inc|1340 Environ Way|Suite 306|Chapel Hill
-2|Evergreen Design Group Inc|1340 Environ Way||Chapel Hill
-2|Sherbert CPA|13777 Ballantyne Corporate Place|Suite 325|Charlotte
-2|XPO Enterprise Services LLC|13777 Ballantyne Corporate Place|Suite 400|Charlotte
-2|Pantar Solutions Inc|13860 BALLANTYNE CORPORATE PLACE|SUITE 410|Charlotte
-2|Access World LLC|13860 Ballantyne Corporate Place|Suite 240|Charlotte
-2|Torrent Consulting LLC|1422 S Tryon St|Ste 300|Charlotte
-2|Torrent Consulting LLC|1422 S Tryon St|Suite 300|Charlotte
-2|CSV Informatics LLC|1480 Chapel Ridge Road|Ste 100|Apex
-2|Source Cloud Technologies Inc|1480 Chapel Ridge Road|Suite 100|Apex
-2|Sunrise Infotek Corp|150 Cornerstone Dr|St 203|Cary
-2|Medhus Infotech Inc|150 Cornerstone Dr||Cary
-2|Nenine Technologies Inc|15000 Western Parkway|Suite 140|Cary
-2|Sunovee Inc|15000 Western Parkway|Suite 158|Cary
-2|APEX Analytix LLC|1501 Highwoods Blvd|Ste 200|Greensboro
-2|APEX Analytix LLC|1501 Highwoods Blvd|Suite 200|Greensboro
-2|Tresata Inc|1616 Camden Road|Suite 300|Charlotte
-2|BGW CPA, PLLC|1616 Camden Road|Suite 510|Charlotte
-2|WithersRavenel|167 East Chatham Street|Suite 210|Cary
-2|WithersRavenel Inc|167 East Chatham Street|Suite 210|Cary
-2|IMPLAN Group LLC|16905 Northcross Drive|STE 120|Huntersville
-2|IMPLAN Group LLC|16905 Northcross Drive|Ste 120|Huntersville
-2|Chiesi USA Inc|175 Regency Woods Place|Suite 600|Cary
-2|Chiesi USA Inc|175 Regency Woods Place|Suite 600|CARY
-2|Connecting People LLC|1750 NW MAYNAROAD ROAD|STE 105|CARY
-2|Connecting People LLC|1750 NW MAYNAROAD ROAD|STE 105|Cary
-2|ELITE TECH SOLUTE INC|17727 CAMPBELL HALL CT||CHARLOTTE
-2|Elite Tech Solute Inc|17727 Campbell Hall Ct||Charlotte
-2|TightLines Designs INC|19 W. Hargett Street|Suite 501|Raleigh
-2|TightLines Designs Inc|19 W. Hargett Street|Suite 501|Raleigh
-2|Tribis Inc|1908 Cox Road||Weddington
-2|Pantar Solutions Inc|1908 Cox Road||Weddington
-2|3 ITEK LLC|1913-204 J.N. PEASE PLACE|UNIVERSITY RIDGE OFFICE CENTER|CHARLOTTE
-2|3 ITEK LLC|1913-204 J.N. Pease Place|University Ridge Office Center|Charlotte
-2|TGS Technology LLC|1920 Abbotts Creek Drive||Waxhav
-2|TGS Technology LLC|1920 Abbotts Creek Drive||Waxhaw
-2|Treta IT Inc|1981 J N Pease Pl|STE 204|Charlotte
-2|TECHMYNDS INC|1981 J N Pease Pl|Suite 104|Charlotte
-2|Techmynds Inc|1981 J N Pease Place|Suite 104|Charlotte
-2|TECHMYNDS INC|1981 J N Pease Place|Suite 104|Charlotte
-2|Arnold & Smith, PLLC|200 North McDowell Street||CHARLOTTE
-2|Arnold & Smith, PLLC|200 North McDowell Street||Charlotte
-2|Mark Loudermilk Architecture, PLLC|201 N Front St|1004|Wilmington
-2|Mark Loudermilk Architecture, PLLC|201 N Front St|Ste 1004|Wilmington
-2|RozieAI Inc|201 W Main St.|Suite 100|Durham
-2|Tumult Labs Inc|201 W Main St.|Suite B26|Durham
-2|Tumult Labs Inc|201 W. Main Street|SUITE B26|Durham
-2|Usability Dynamics Inc|201 W. Main Street|Suite 100|Durham
-2|SiOxMed LLC|2011 Muddy Creek Road||Clemmons
-2|American Nano LLC|2011 Muddy Creek Road||Clemmons
-2|TriHelix Software LLC|206 High House Road|Suite 102|Cary
-2|Akram & Associates PLLC|206 High House Road|Suite 106|Cary
-2|Elster Solutions LLC|208 South Rogers Lane||Charlotte
-2|Elster Solutions LLC|208 South Rogers Lane||Raleigh
-2|Asset Analytix Inc|210 Joseph Pond Lane||Cary
-2|Synergy Solutions Inc|210 Joseph Pond Lane||Cary
-2|Thinc Strategy Inc|210 Moss Tree Court||Wilmington
-2|Thinc Strategy. Inc|210 Moss Tree Court||Wilmington
-2|RegEd Inc|2100  Gateway Centre Blvd|STE 200|Morrisville
-2|RegEd Inc|2100  Gateway Centre Blvd|Suite 200|Morrisville
-2|Target Pharmasolutions Inc dba Target RWE|212 W Main Street|Suite 208|Durham
-2|Noyo Technologies Inc|212 W Main Street|Suite 308|Durham
-2|Metacept Inc|212 W. Main Street|Suite 301|Durham
-2|Noyo Technologies Inc|212 W. Main Street|Suite 308|Durham
-2|Target Pharmasolutions Inc dba Target RWE|212 West Main Street|Suite 200|Durham
-2|ArchiveSocial Inc|212 West Main Street|Suite 500|Durham
-2|Ecom Solutions Inc|2120 Crown Centre Drive|Suite 400|Charlotte
-2|ECOM SOLUTIONS INC|2120 Crown Centre Drive|Suite 400|Charlotte
-2|Surface 678, PA|215 Morris Street|Ste 150|Durham
-2|Surface 678, PA|215 Morris Street|Suite 150|Durham
-2|Metabytes Technologies Corporation|2206 Page Road|STE 101|Durham
-2|Metabytes Technologies Corporation|2206 Page Road|Suite 101|Durham
-2|Mercalis Inc|2250 Perimeter Park Dr.|300|Morrisville
-2|TrialCard Inc|2250 Perimeter Park Dr.|Suite 300|Morrisville
-2|FM Systems Group LLC|2301 Sugar Bush Road|STE 500|Raleigh
-2|FM Systems Group LLC|2301 Sugar Bush Road|Ste 500|Raleigh
-2|Affintrix Technologies LLC|2313 Terrmini Dr.||Apex
-2|Ambah Technologies LLC|2313 Terrmini Dr.||Apex
-2|MCKIM & CREED INC|243 N Front Street||Wilmington
-2|McKim & Creed Inc|243 N Front Street||Wilmington
-2|Candorsoft Technologies LLC|2500 Regency Parkway|Suite 215|Cary
-2|Tristar Consultancy Inc|2500 Regency Parkway||Cary
-2|e-Emphasys Technologies Inc|2501 WESTON PARKWAY|SUITE 101|CARY
-2|e-Emphasys Technologies Inc|2501 WESTON PKWY|SUITE 101|CARY
-2|e-Emphasys Technologies Inc|2501 WESTON PKWY|Suite 101|CARY
-2|e-Emphasys Technologies Inc|2501 Weston Parkway|Suite 101|Cary
-2|SAM ANALYTIC SOLUTIONS LLC|2511 E NC HWY 54|SUITE 201|DURHAM
-2|Sam Analytic Solutions LLC|2511 E NC HWY 54|SUITE 201|DURHAM
-2|Sam Analytic Solutions LLC|2511 E NC Highway 54|Ste 201|Durham
-2|Sam Analytic Solutions LLC|2511 E NC Highway 54|Suite 201|Durham
-2|The Financial Risk Group Inc|264 West Chatham Street|Ste 101|Cary
-2|The Financial Risk Group Inc|264 West Chatham Street|Suite 101|Cary
-2|Group for the Research of Iterative Agent Networked Technologies|267 Robinson Road|N/A|Mars Hill
-2|Group for the Research of Iterative Agent Networked Technologies|267 Robinson Road||Mars Hill
-2|COMPLEAT TECHNICAL SOLUTIONS INC|2720 E WT HARRIS BLVD|SUITE  104|CHARLOTTE
-2|Compleat Technical Solutions Inc|2720 E WT Harris Blvd|Suite 104|Charlotte
-2|Compleat Technical Solutions Inc|2720 EWT Harris Blvd|104|Charlotte
-2|Compleat Technical Solutions Inc|2720 EWT Harris Blvd|Suite 104|Charlotte
-2|INTECA IT SOLUTIONS LLC|2730 E W.T Harris Blvd|Suite 201|CHARLOTTE
-2|Viabound LLC|2730 E W.T Harris Blvd|Suite 201|Charlotte
-2|BioSkryb Genomics Inc|2810 Meridian Parkway|Suite 110|Durham
-2|BioSkryb Inc|2810 Meridian Parkway|Suite 110|Durham
-2|Vrettos Pappas Consulting Engineers, P.A.|2815 Coliseum Centre Dr.|Suite 180|Charlotte
-2|Finzly Inc|2815 Coliseum Centre Dr.|Suite 240|Charlotte
-2|AVID SOLUTIONS INC|2975 COLE ROAD||WINSTON SALEM
-2|Avid Solutions Inc|2975 Cole Road||Winston Salem
-2|MORNING PRIDE MANUFACTURING L.L.C.|300 S Tyron Street|Suite 600|Charlotte
-2|Honeywell Analytics Inc|300 S Tyron Street||Suite 600
-2|RapidScale Inc|301 Hillsborough Street|Suite 1300|Raleigh
-2|Pendo.io Inc|301 Hillsborough Street|Suite 1900|Raleigh
-2|SAAP TECH SOLUTIONS LLC|301 MCCOLLOUGH DRIVE|SUITE 400|CHARLOTTE
-2|SAAP Tech Solutions LLC|301 MCCULLOUGH DR STE 400||Charlotte
-2|DEV SYSTEMS INC|301 MCCULLOUGH DR.|SUITE 400|CHARLOTTE
-2|CLOUD SYSTEMS LLC|301 McCollough Drive|Suite 400|Charlotte
-2|Concor IT Solutions Inc|301 McCullough DR STE 400||Charlotte
-2|Infinics Inc|301 McCullough Dr.|Ste 400|Charlotte
-2|PNK Connections LLC|301 McCullough Drive, Suite 400||Charlotte
-2|PNK Connections|301 McCullough Drive, Suite 400||Charlotte
-2|Sweet Mango Builders|301 south mcdowell street|Suite 125 1434|charlotte
-2|Sweet Mango Builders|301 south mcdowell street|n/a|charlotte
-2|IBM Corporation|3039 Cornwallis Road, PO Box 12195|N/A|Durham
-2|IBM Corporation|3039 Cornwallis Road, PO Box 12195||Durham
-2|Allscripts Healthcare LLC|305 Church at N Hills Street||Raleigh
-2|Allscripts Managed Services LLC|305 Church at N Hills Street||Raleigh
-2|Altera Digital Health Inc|305 Church at North Hills St||Raleigh
-2|Allscripts Managed Services LLC|305 Church at North Hills St||Raleigh
-2|Cloud Nine Tek LLC|307 W TREMONT AVE|STE 200|CHARLOTTE
-2|Axcelinno LLC|307 W Tremont Ave|Suite 200|Charlotte
-2|Szostak Design Incorporated|310 1-2 W Franklin St||Chapel Hill
-2|Szostak Design Inc|310 1-2 W Franklin St||Chapel Hill
-2|WorkDove Inc|318 Blackwell Street|Suite 240|Durham
-2|McKinney Ventures LLC|318 Blackwell Street||Durham
-2|Summit Design and Engineering Services|320 Executive Court||Hillsborough
-2|Summit Design and Engineering Services, PLLC|320 Executive Court||Hillsborough
-2|CLICKSOFT SOLUTIONS LLC|320 SEAGLE ST.|SUITE 2A|HUNTERSVILLE
-2|Clicksoft Solutions LLC|320 Seagle St.|Suite 2 A|Huntersville
-2|Riese Cloud Tek LLC|320 Seagle Street|Suite 2B|Huntersville
-2|Riese Cloud Tek LLC|320 Seagle Street|Suite B|Huntersville
-2|Zscale LLC|3201 Yorktown Ave|STE 110A|Durham
-2|Lorvish Technologies Inc|3201 Yorktown Ave|Suite 110 D|Durham
-2|Summit Design and Engineering services, PLLC|3301 Benson Drive|Suite 400|Raleigh
-2|Summit Design and Engineering Services, PLLC|3301 Benson Drive|Suite 400|Raleigh
-2|SportsMEDIA Technology Corp|3511 University Dr||Durham
-2|SportsMEDIA Technology Corporation|3511 University Dr||Durham
-2|Sportsvision Inc|3511 University Drive||Durham
-2|SportsMEDIA Technology Corp.|3511 University Drive||Durham
-2|Family Health International|359 BLACKWELL STREET|Suite 200|Durham
-2|Family Health International|359 Blackwell Street|Suite 200|Durham
-2|The Brixton Group Inc|3625 Pickwick Ln.||Charlotte
-2|The Brixton Group LLC|3625 Pickwick Ln.||Charlotte
-2|Cherry Bekaert Advisory LLC|3800 Glenwood Avenue|Suite 200|Raleigh
-2|CHERRY BEKAERT ADVISORY LLC|3800 Glenwood Avenue|Suite 200|Raleigh
-2|ICIDIGITAL LLC|4000 Westchase Blvd, Suite 280||Raleigh
-2|Blue Acorn iCi Inc|4000 Westchase Blvd, Suite 280||Raleigh
-2|MedPharm Manufacturing Services LLC|4018 Stirrup Creek Drive||Durham
-2|Tergus Pharma LLC|4018 Stirrup Creek Drive||Durham
-2|8 Rivers Services LLC|406 Blackwell Street|Flr. 4|Durham
-2|Digital Turbine Inc|406 Blackwell Street|Suite 500|Durham
-2|Syngenta Crop Protection LLC|410 S Swing Road||Greensboro
-2|Syngenta Seeds LLC|410 S Swing Road||Greensboro
-2|SYNGENTA CROP PROTECTION LLC|410 SWING ROAD||GREENSBORO
-2|Syngenta Crop Protection LLC|410 Swing Road||Greensboro
-2|Advanced Fraud Solutions LLC|4100 Mendenhall Oaks Pkwy|Suite 130|High Point
-2|Advanced Fraud Solutions LLC|4100 Mendenhall Oaks Pkwy|Suite 255|High Point
-2|Netgroup Inc|420 GALLIMORE DAIRY ROAD|Suite A|Greensboro
-2|Netgroup Inc|420 Gallimore Dairy Road|Suite A|Greensboro
-2|Schram Consulting LLC|4294 Island Fox Lane||Denver
-2|Energyscape Renewables Incorporated|4294 Island Fox Lane||Denver
-2|Phreesia Inc|434 Fayetteville St|STE 1400|Raleigh
-2|Scalene Design, PLLC|434 Fayetteville St|Suite 2110|Raleigh
-2|Boyle Consulting Engineers PLLC|4340-G Taggart Creek Road||Charlotte
-2|Boyle Consulting Engineers, PLLC|4340-G Taggart Creek Road||Charlotte
-2|Tarlton Law PLLC|4509 Creedmoor Road|201|RALEIGH
-2|MacGregor Partners LLC|4509 Creedmoor Road|Suite 201|Raleigh
-2|Sciome LLC|4728 NC Highway 55|Unit 510|Durham
-2|Sciome LLC|4728 NC Highway 55|Unit 510 & 520|Durham
-2|iRarity LLC|4804 Page Creek Lane|STE 126|Durham
-2|Cloudvision247 Inc|4804 Page Creek Lane|Suite 218|Durham
-2|NOVELTY TECHNOLOGY LLC|4845 JOHNSTON OEHLER ROAD|STE D|CHARLOTTE
-2|Novelty Technology LLC|4845 Johnston Oehler Road|Suite D|Charlotte
-2|Kinetics Systems Inc|4900 Prospectus Drive|500|Durham
-2|Kinetic Systems Inc|4900 Prospectus Drive|Suite 500|Durham
-2|UPL NA Inc|5 Laboratory Drive, Building 1|Suite 1100|Durham
-2|UPL Services LLC|5 Laboratory Drive, Building 1|Suite 1100|Durham
-2|STAT9 TECHNOLOGIES INC|5000 CENTRE GREEN WAY, SUITE 500||CARY
-2|Trigger IT LLC|5000 Centre Green Way, Suite 500||Cary
-2|Trigger IT LLC|5000 CentreGreen Way, Suite 500||Cary
-2|Trigger IT LLC|5000 Centregreen Way, Suite 500||Cary
-2|OBrien Atkins Associates, PA|5001 S. Miami Boulevard||Durham
-2|OBrien Atkins Associates,PA|5001 S. Miami Boulevard||Durham
-2|MacConnell & Associates, PC|501 Cascade Pointe Lane|Suite 103|Cary
-2|MacConnell & Associates, P.C.|501 Cascade Pointe Lane|Suite 103|Cary
-2|DAVIS KANE ARCHITECTS, PA|503 OBERLIN ROAD|SUITE 300|RALEIGH
-2|Davis Kane Architects, P.A.|503 Oberlin Road|Suite 300|Raleigh
-2|PROSQUIRE LLC|5102 Chapel Hill Durham Boulevard|Ste 214|Durham
-2|Prosquire LLC|5102 Chapel Hill Durham Boulevard|Ste 214|Durham
-2|CJMW ARCHITECTURE, P.A.|525 VINE STREET|SUITE 350|WINSTON-SALEM
-2|Sunrise Technologies Inc|525 Vine Street|Suite 210|Winston Salem
-2|Telit IoT Solutions Inc|5425 Page Road|Suite 120|Durham
-2|Lexitas Pharma Services Inc|5425 Page Road|Suite 410|Durham
-2|Zealic Solutions Inc|5511 Capital Center Drive|Suite 224|Raleigh
-2|Zealic Health Inc|5511 Capital Center Drive|Suite 224|Raleigh
-2|ZELECLOUD LLC|555 FAYETTEVILLE ST|STE 300|RALEIGH
-2|Greenorbit Inc|555 Fayetteville St|Suite 300|Raleigh
-2|VERTEX ANALYTICS INC|5970 Fairview Road|Suite 200|Charlotte
-2|Vertex Analytics Inc|5970 Fairview Road|Suite 220|Charlotte
-2|Zymtronix Catalytic Systems Inc|6 Davis Drive, Suite 209|Alexandria Center for Advanced Technologies|Durham
-2|Zymtronix Catalytic Systems Inc|6 Davis Drive, Suite 209||Durham
-2|Worldwide Clinical Trials Holdings Inc|600 PARK OFFICES DR|STE 200|Research Triangle Park
-2|NIYANTRA INC|600 PARK OFFICES DR|SUITE 300|DURHAM
-2|Laplace Institute|600 Park Offices Dr.|STE 300|Durham
-2|Zaloni Inc|600 Park Offices Dr.|Suite 250|Research Triangle Park
-2|LITTLE DIVERSIFIED ARCHITECTURAL CONSULTING INC|615 SOUTH COLLEGE STREET|SUITE 1600|CHARLOTTE
-2|GXO Logistics Corporate Services Inc|615 South College Street|9th Floor|Charlotte
-2|INMAR RX SOLUTIONS INC|635 VINE ST.||WINSTON SALEM
-2|INMAR INC|635 Vine St.||Winston-Salem
-2|Arclight Wireless LLC|65 TW Alexander Dr.|12721|Research Triangle Park
-2|ArcLight Wireless Inc|65 TW Alexander Dr.|Suite 12721|Durham
-2|Predictant LLC FKA FDH Infrastructure Services LLC|6521 Meridien Dr||Raleigh
-2|FDH Infrastructure Services LLC|6521 Meridien Dr||Raleigh
-2|nCino Inc|6770 Parker Farm Drive|STE 200|Wilmington
-2|SimpleNexus LLC|6770 Parker Farm Drive|STE 200|Wilmington
-2|Medicago USA Inc|7 Triangle Drive||Durham
-2|Medicago USA|7 Triangle Drive||Durham
-2|Power Relaying Solutions, PLLC|7035 Smith Corners Blvd|Suite 100|Charlotte
-2|Power Relaying Solutions, PLLC|7035 Smith Corners Blvd|Suite 1000|Charlotte
-2|ASPIRE SQUARE INC|717 GREEN VALLEY ROAD|SUITE 200|GREENSBORO
-2|VEDHI SOLUTIONS LLC|717 Green Valley Road|Suite 200|Greensboro
-2|XOVE CONSULTING SERVICES CORPORATION|7404 CHAPEL HILL ROAD|SUITE N|RALEIGH
-2|Xove Consulting Services Corporation|7404 Chapel Hill Road|Suite N|Raleigh
-2|International Drug Development Institute Inc|7751 Brier Creek Parkway|Suite 204|Raleigh
-2|International Drug Development Institute Inc dba IDDI|7751 Brier Creek Parkway|Suite 204|Raleigh
-2|XDIN Inc|7874 Thorndike Road||GREENSBORO
-2|XDIN INC|7874 Thorndike Road||Greensboro
-2|Inivata Inc|8 Davis Dr|Suite 120|Durham
-2|TCRCURE BIOPHARMA CORP|8 Davis Dr|Suite 330|Durham
-2|Fortrea Inc f/k/a LabCorp Drug Development Inc|8 Moore Drive||Durham
-2|Fortrea Inc|8 Moore Drive||Durham
-2|MetaMetrics Inc|800 Taylor Street|Suite 102|Durham
-2|MetaMetrics Inc|800 Taylor Street|Suite 102A|Durham
-2|NEO PRISM SOLUTIONS LLC|8000 CORPORATE CENTER DR|SUITE 201|CHARLOTTE
-2|NEO PRISM SOLUTIONS LLC|8000 CORPORATE CENTER DR.|SUITE 201|CHARLOTTE
-2|Revotyx LLC|8000 Corporate Center Dr|Suite 214A|Charlotte
-2|Neo Prism Solutions LLC|8000 Corporate Center Dr.|Suite 201|Charlotte
-2|Lenovo Global Technology (United States) Inc|8001 Development Drive||Morrisville
-2|Lenovo Global Technology (UnitedStates) Inc|8001 Development Drive||Morrisville
-2|SILVERFALLS SOLUTIONS INC|8004 LINVILLE ROAD|SUITE C 1|OAK RIDGE
-2|SILVERFALLS SOLUTIONS INC|8004 Linville Road|Suite C 1|Oak Ridge
-2|Cambridge Design Partnerships Inc|801 West Morgan Street|Suite 120|Raleigh
-2|Cambridge Design Partnership Inc|801 West Morgan Street|Suite 120|Raleigh
-2|ARDORITSOLUTIONS INC|8801 JM KEYNES DRIVE|SUITE 290|Charlotte
-2|ARDORITSOLUTIONS INC|8801 JM KEYNES DRIVE|SUITE 290|CHARLOTTE
-2|RUBISTONE TECHNOLOGIES LLC|8819 University East Dr|Ste 200|Charlotte
-2|Rubistone Technologies LLC|8819 University East Dr|Suite 200|Charlotte
-2|Metrix IT Solutions INC|8832 Blakeney Professional Dr|STE 205|Charlotte
-2|METRIX IT SOLUTIONS INC|8832 Blakeney Professional Dr|SUITE 205|Charlotte
-2|Wynneford Advisors LLC|900 Ridgefield Drive|Suite 350|Raleigh
-2|Wynneford Advisors|900 Ridgefield Drive|Suite 350|Raleigh
-2|KAIZEN SOFTWARE SYSTEMS INC|9128 LINDEN TREE LN||CHARLOTTE
-2|Kaizen Software Systems Inc|9128 Linden Tree Ln||Charlotte
-2|Fathom Science Inc|930 Main Campus Dr.|Suite 320|RALEIGH
-2|Fathom Science Inc|930 Main Campus Dr.|Suite 320|Raleigh
-2|REVOTYX LLC|9711 David Taylor Drive|Suite 113|Charlotte
-2|Revotyx LLC|9711 David Taylor Drive|Suite 113|Charlotte
-2|Bhatlawande LLC|9711 Holden Ct.||Charlotte
-2|ArmAI Technologies Inc|9711 Holden Ct.||Charlotte
-2|Proxim Systems Inc|Ballantyne One, 15720 Brixham Hill Avenue|STE 300|Charlotte
-2|Proxim Systems Inc|Ballantyne One, 15720 Brixham Hill Avenue|STE 314|Charlotte
-2|IT PEOPLE CORPORATION|ONE COPLEY PKWY.|SUITE 216|MORRISVILLE
-2|INMAR INC|ONE WEST 4TH STREET|SUITE 500|WINSTON-SALEM
-2|iT People Corporation|One Copley Pkwy|Suite 216|Morrisville
-2|iT People Corporation|One Copley Pkwy|Suite 510|Morrisville
-2|iT People Corporation|One Copley Pkwy.|Suite 216|Morrisville
-2|Premier Research International LLC|One Park Drive|Suite 150|Durham
-2|Premier Research International LLC|One Park Drive||Durham
-2|Womble Bond Dickinson (US) LLP|One West 4th Street||Winston-Salem
-2|Womble Bond Dickinson|One West Fourth Street||Winston-Salem
-2|Womble Bond Dickinson (US) LLP|One West Fourth Street||Winston-Salem
-2|Beatior INC|PO Box 1681||Apex
-2|Betior INC|PO Box 1681||Apex
-1|Vera Healthcare Inc|1 Glenwood Ave  5||Raleigh
-1|PharmEng Technology|1 TW Alexander Drive|Suite 125|Durham
-1|Gradient Health Inc|100 Corcoran Street|Fifth Floor|Durham
-1|Red Hat Inc|100 E. Davie Street||Raleigh
-1|Geodynamics LLC|100 Kimeplex Park|Unit 5|New port
-1|JMP Statistical Discovery LLC|100 Matrix Dr. 8000||Cary
-1|Moore & Van Allen PLLC|100 North Tryon St|Suite 4700|Charlotte
-1|McCulloch England Associates Architects Inc|100 Queens Road|Suite 200|Charlotte
-1|MicroMass Communications Inc|100 Regency Forest Dr.|Suite 400|Cary
-1|PrimeVigilance USA Inc|100 Regency Forest Drive|Suite 160|Cary
-1|SAS Institute Inc|100 SAS Campus Road||Cary
-1|Spark ITR LLC|1000 Bear cat way,|Suite 105|Morrisville
-1|Varunavi IT Consultats Inc|1000 Bearcat Waay|Suite 105|Morrisville
-1|Trigger IT LLC|1000 Centregreen Way, Suite 200||Cary
-1|Flood Veterinary Care, PLLC|1000 N. Main St. Suite 102||Fuquay-Varina
-1|Xsome Biotech Inc|1001 William Moore Drive||Raleigh
-1|PROSERV LLC|10010 VOILET CANNON DR NW||CONCORD
-1|Smartint Technologies LLC|10030 Green Level Church Road|Suite 802 1236|Cary
-1|KODESYSTEMS LLC|1004 OLD TRACE ROAD NW||CONCORD
-1|PatientPay Inc|1005 Slater Road, Suite 100||Durham
-1|Priovant Therapeutics Inc|1007 Slater Road|Suite 250|Durham
-1|Vankay Systems Inc|1008 Bender Ridge Dr||Morrisville
-1|/N Software Inc|101 Europa Dr Ste 150||Chapel Hill
-1|IT Automation LLC|101 Gathering park circle, ste 202|ste 202|Cary
-1|Bagchi Law, PLLC|101 J Morris Commons Lane|Suite 105|Morrisville
-1|Global Worklabs Inc|101 N Tryon St|STE 600|Charlotte
-1|LEVVEL LLC|101 North  TRYON ST|Ste 1500|Charlotte
-1|Pacific Fleet Aviation|101 South Elm Street|Apt. 1|Greensboro
-1|MF CYBER LLC|101 South Tryon Street|Suite 2450|Charlotte
-1|Synoligo Biotechnologies Inc|101 Southcenter Court|Suite 800|Morrisville
-1|Synoligo Biotechnologies Inc|101 Southcenter Ct|STE 800|Morrisville
-1|Epic Notion LLC|101 W Worthington Ave|Suite 200|Charlotte
-1|Nu North America Inc|101 West Chapel Hill Street|Suite 300|Durham
-1|Euclid Innovations Inc|101, S Tryon Street,|Suite 2410|Charlotte
-1|Atom Bioworks Inc|1011 Passport Way||Cary
-1|Summit Engineering Laboratory and Testing, P.C.|10121 Pineville Distribution Park||Pineville
-1|Cloudspace LLC|10130 MALLAROAD CREEK ROAD|Suite 300|CHARLOTTE
-1|Vidlexinfo LLC|10130 Mallard Creek Road, Suite 110||Charlotte
-1|Perficientcorp INC|10130 Mallard creek  ROAD|Suite 230|Charlotte
-1|Finzly Inc|10130 Perimeter Pkwy.|Suite 200|Charlotte
-1|CRAFTNER INC|10150 MALLAROAD CREEK ROAD|STE 102|CHARLOTTE
-1|Eversoft Technologies LLC|10150 Mallard Creeck Road||Charlotte
-1|Eversoft Technologies LLC|10150 Mallard Creek rd|STE 107|Charlotte
-1|ArcLight Wireless Inc|1017 Main Campus Dr.|Suite 2300|Raleigh
-1|PowerN Inc|1017 Main Campus Drive|Suite 2348|Raleigh
-1|Eight Plus Sixteen LLC|102 Waxhaw Professional Park Drive|Suite C 500|Waxhaw
-1|Bloq Inc|102 West Third Street|Suite 725|Winston Salem
-1|Eurofins BioPharma Product Testing ENCO Inc|102 Woodwinds Industrial Court||Cary
-1|AQUA FUSION LLC|1020 Anderson St||Durham
-1|AMP Solutions LLC|10200 Mallard Creek|Suite 102|Charlotte
-1|Amp Solutions LLC|10200 Mallard Creek Road Suite 102||Charlotte
-1|SASInfo Inc|10224 Hickorywood Hill Ave   201||Huntersville
-1|iCloud Now LLC|10269 Chapel Hill Road|Suite 400|Morrisville
-1|MM Infotech Inc|1029 Bender Ridge Dr||Morrisville
-1|MM Infotech Inc|1029 Bender Ridge Dr.||Morrisville
-1|Milin Group LLC|104 Alpharetta Tr||APEX
-1|Quility Holdings LLC|104 Whitson Avenue||Swannanoa
-1|Vertical Vet LLC|10402 Bailey Road|STE 507|Cornelius
-1|Flying Frog Tech LLC|10425 Paper Birch Dr.,||Charlotte
-1|Biotage LLC|10430 Harris Oaks Blvd|Suite C|Charlotte
-1|Biotage LLC|10430 Harris Oaks Blvd.|Suite C|Charlotte
-1|Kala Vastra Ghar LLC|105 Durston Loop||Morrisville
-1|Kala Vastra Ghar LLC|105 Durston Loop,||Morrisville
-1|Infodyne Solutions LLC|105 F Waxhaw Professional Park Drive|STE 100|Waxhaw
-1|Logic Explorer LLC|105 Grendon Pl||Cary
-1|Logic Explorer LLC|105 Grendon Pl.||Cary
-1|Logic Explorer LLC|105 Grendon Place||Cary
-1|PMKC LLC|105 Mont De Sion Drive||Cary
-1|US Composting Council|1053 E Whitaker Mill Road|Suite 115|Raleigh
-1|CONTROL INFOTECH INC|106 Kitty Hawk Dr.||Morrisville
-1|Control Infotech Inc|106 Kitty Hawk Drive||Morrisville
-1|UNISYS INFOTECH LLC|106 LANGTREE VILLAGE DRIVE|SUITE 301|MOORESVILLE
-1|ZENSPACE IT LLC|106 Langtree Village|Suite 301|Mooresville
-1|Parata Systems LLC|106 Roche Drive||Durham
-1|ED TECH SOLUTION INC|106 STIBBS CROSS ROAD||MOORESVILLE
-1|Smart Switch LLC|106 William Henry Way||Cary
-1|Chalk Digital Inc|10637 Serape Road||Charlotte
-1|g-Innovations Inc|107 Headlands Ln||Cary
-1|DDL INVESTMENTS INC|107 PARR DRIVE||HUNTERSVILLE
-1|ProPharma Group Holdings LLC|107 West Hargett St||Raleigh
-1|Planet Pharma Group LLC|107 West Hargett Street||Raleigh
-1|Tekfinite Inc|1071 Pemberton Hill Road|Suite 203|Apex
-1|Cloudninetek LLC|10735 David Taylor Dr,|suite 320|Charlotte
-1|Fundamental Global Management LLC|108 Gateway Blvd|Suite 204|Mooresville
-1|Analyte IT Services LLC|108 Ledge Manor Dr||Holly Springs
-1|Makonis Inc|10801 Johnston Road, STE 211||Charlotte
-1|ADVANTAGE HEALTHCARE SOLUTIONS INC|10805 YOUNG POPLAR PL||CHARLOTTE
-1|TrueLearn LLC|109 Professional Park Drive|Suite 200|Mooresville
-1|Beyond Info Solutions Inc|109 Sweet Vine Way||Holly Springs
-1|Horizon IT Inc|10926 DAVID TAYLOR|STE 120|CHARLOTTE
-1|Horizon IT Inc|10926 DAVID TAYLOR DR|STE 120|Charlotte
-1|Devansee Analytics LLC|10926 David Taylor Dr.,|Suite 120|Charlotte
-1|SKILLSTRAT LLC|11 Union Street South|STE LL220|Concord
-1|Prometheus Computing LLC|110 Buzzards Roost Road|P.O. Box 2765|Cullowhee
-1|Gradient Health Inc|110 Corcoran Street|Fifth Floor|Durham
-1|Native Resource Group Inc|110 East Main Street||Garner
-1|E3 Retail LLC|110 Horizon Dr|Suite 240|Raleigh
-1|E3 Retail LLC|110 Horizon Dr   240||Raleigh
-1|Brii Biosciences Inc|110 N Corcoran St||Durham
-1|Professional Power Consulting Inc|110 Olde Alphe Circle||Cary
-1|Lorven Group Inc|11006 Rushmore Dr, Suite 175||Charlotte
-1|ADDEPTO IT SOLUTIONS LLC|11020 David Taylor Dr ,, NC,.|Ste 201|Charlotte
-1|Eidiko Systems Integrators LLC|11030 South Tryon Street, Suite 311||Charlotte
-1|Eidiko Systems Integrators LLC|11030 South Tyron St|Suite 311|Charlotte
-1|SOL XR LLC|11035 Golf Links Drive|77734|Charlotte
-1|Siteworx LLC dba Shift 7 Digital|1105 Tryon Village Dr|Ste 303, 7|Cary
-1|Intelligent Software Solutions Inc|1110 Navaho DR|STE 110|Raleigh
-1|Consultant Engineering Service Inc|1111 S. Marshall Street|Suite 250|Winston-Salem
-1|Xpand IT Solutions INC|11121 Carmel Commons Blvd|Ste 430|Charlotte
-1|First Turn Innovations LLC|11148 Treynorth Drive|Suite A|Cornelius
-1|Pinnacle HR Group LLC|1115 E Morehead St.|Suite 200|Charlotte
-1|Snikfend Inc|1119 Sunset Maple Lane||Huntersville
-1|Jenkins-Peer Architects, PA|112 S Tryon St|Ste 1300|Charlotte
-1|Jenkins Peer Architects, P.A.|112 S Tryon Street Suite 1300||Charlotte
-1|Refulgent Technologies Inc|112 S. Tryon St.|Suite 1270|Charlotte
-1|Reveille Technologies Inc|112 S. Tryon Street|Suite 1255|Charlotte
-1|Council for the New Energy Economics|1121 Military Cutoff Road, Suite C205||Wilmington
-1|SWIFTWIN SOLUTIONS INC|11220 ELM LANE, SUITE  200||CHARLOTTE
-1|SwiftWIN Solutions Inc|11220 Elm Lane , SUITE  200||CHARLOTTE
-1|RXDATASCIENCE INC|1123 BOWDEN ROAD||Chapel Hill
-1|YP Solutions Inc|1124 Lakebrink Drive||Morrisville
-1|Osterlund Architects, PLLC|1126 N Blount Street|Suite 101|Raleigh
-1|NEW PATH MEDIA GROUP INC|113 GATEWOOD AVENUE||HIGH POINT
-1|Voro Health LLC|113 Orlando Place||Chapel Hill
-1|SigByte LLC|113 Sea Glass Ct.||Cary
-1|Procom Services America Inc|1130 Situs Court|Suite 216|Raleigh
-1|MicroD LLC|11301 Carmel Commons Blvd.|Suite 205|Charlotte
-1|Eminence IT Solutions Inc|1135 Kidaire Farm Raod|Suite 311 3|Cary
-1|Empro Systems LLC|1135 Kildaire Farm Road,|200|cary
-1|NORTH CAROLINA GOOD TASTE NOODLE INC|114 FURLONG INDUSTRIAL DRIVE|N/A|Kernersville
-1|Microban Products Company|11400 Vanstory Drive||Huntersville
-1|ARAPL RaaS International LLC|1143-C Executive Circle|STE 104|Cary
-1|MAURER ARCHITECTURE PA|115 1/2 E. HARGETT STREET||RALEIGH
-1|Vulli Inc|115 Brown St Gq|Unit 101|Salisbury
-1|WithersRavenel Inc|115 MacKenan Drive||Cary
-1|System Logistics Corporation|115 Vista Blvd||Arden
-1|System Logistics Corporation|115 Vista Blvd.||Arden
-1|Apogee Consulting Group, P.A.|1151 Kildaire Farm Road||Cary
-1|Structural Integrity Associates Inc|11515 Vanstory Drive|Suite 125|Huntersville
-1|Structural Integrity Associates Inc|11515 Vanstory Drive, Suite 125||Huntersville
-1|Syntelli Solutions Inc|11520 N Community House|Suite 150|Charlotte
-1|Syntelli Solutions Inc|11520 N. Community House|Suite 150|Charlotte
-1|Syntelli Solutions Inc|11520 N. Community House Road|Suite 150|Charlotte
-1|Xtramile Soft LLC|11526 Dartington Ridge Ln||Charlotte
-1|Xtramile Soft LLC|11526 Dartington Ridge Ln.||Charlotte
-1|CLOUDHUB9 TECHNOLOGIES LLC|1155 Kildaire Farm Road|Suite 214|Cary
-1|Binary Logix Inc|1159 Phallen Ct NW||Concord
-1|PROLOG TECH INC|116 CLOVEROADALE ROAD||APEX
-1|Prolog Tech Inc|116 Cloverdale Road||Apex
-1|SATURN INFOSYSTEMS LLC|116 Skyros Loop||Cary
-1|Netex Solutions LLC|116 Stockton Gorge Road||Morrisville
-1|Techlogyx Inc|118 International Dr|Suite 110|Morrisville
-1|Blue Horizon Advisors LLC|11825 Stephenson Court||Charlotte
-1|John Davenport Engineering Inc|119 Brookstown Avenue|Suite PH 1|Winston Salem
-1|JPS TECH SOLUTIONS LLC|119 SW MAYNAROAD ROAD|SUITE 100|CARY
-1|Affinity Energy LLC|11900 Sam Roper Dr||Charlotte
-1|Affinity Energy LLC|11900 Sam Roper Drive||Charlotte
-1|Baseline Development Companies LLC|120 Market Square|Floor 2|Pinehurst
-1|Final Moment LLC|1200 Turnstone Drive||Rocky Mountain
-1|Resultid|1207 Talbot Place||Durham
-1|FDR Engineers, PLLC|121 Kitty Hawk Drive||Morrisville
-1|Vanasse Hangen Brustlin Inc|121 West Trade Street|Suite 1030|Charlotte
-1|Proactive Dealer Solutions LLC|12125 Herbert Wayne Ct|Suite 150|Huntersville
-1|W. K. Dickson & Co. Inc|1213  W. Morehead St. , Ste 300||Charlotte
-1|Sage Consulting Group LLC|1213 W Morehead Street|Floor 5th|Charlotte
-1|WK Dickson, An Ardurra Company|1213 W. Morehead St.|Suite 300|Charlotte
-1|Teamworks Innovations Inc|122 E Parrish St.||Durham
-1|SLKone LLC|12212 Dunard St.||Raleigh
-1|LAKESIDE ENVIRONMENTAL CONSULTANTS LLC|12324 Hampton Way Drive|Suite 104|Wake Forest
-1|Oncurie Inc|1236 Canterbury Road||Raleigh
-1|Tek Resource Inc|1236 Yarrow St||Stallings
-1|Wake Animal Care PLLC|1239 NW Maynard Road||Cary
-1|Convexio Inc|124 Towerview Court||Cary
-1|BRIGHT MIND SOLUTIONS LLC|124 UNIONVILLE INDIAN TRAIL ROAD|SUITE B7|INDIAN TRAIL
-1|Bright Mind Solutions LLC|124 Unionville Indian Trail Road W|Ste B7|Indian Trail
-1|Emmadi and Ravi Inc|1243 Yadkinville Road||Mocksville
-1|DIGI CLOUD LLC|125  FLOYD SMITH OFFICE PARK DRIVE|SUITE 45|CHARLOTTE
-1|Cymantix Inc|125 S. Estes Dr., PO Box 3025||Chapel Hill
-1|Cloud Nine Tek LLC|1251 Arrow Pine Dr C111||Charlotte
-1|ContextLogic LLC|1251 Arrow Pine Dr,,|Suite B 150|Charlotte
-1|9M Solutions Inc|128 S Tryon St|STE 1920|Charlotte
-1|Gills Process Control Inc|128 S. Business Court||Rocky Mount
-1|Gills Process Control Inc|128 S. Business Ct.||Rocky Mount
-1|RAPID GROWTH COACH LLC|1289 FOROADHAM BLVD|SUITE 153|CHAPEL HILL
-1|Fanalytical Inc|1289 Fordham Boulevard, Suite 102||Chapel Hill
-1|JavanTech Inc|1293 New Garden Road||Greensboro
-1|Geographic Technologies Group Inc|1299 B Parkway Drive||Goldsboro
-1|Geographic Technologies Group Inc|1299 Parkway Drive|Suite B|Goldsboro
-1|Geopier Foundation Company Inc|130 Harbour Place Drive|Suite 280|Davidson
-1|Genems Systems Inc|1300 South Blvd.|Suite D|Charlotte
-1|Insight Architects, P.C.|1307 W Morehead Street|STE 108|Charlotte
-1|Care First Animal Hospital, PLLC|1309 Annapolis Drive||Raleigh
-1|Brock & Scott, PLLC|1315 Westbrook Plaza Drive|Ste 100|Winston-Salem
-1|RFSPROTECH LLC|1320 Industrial Drive||Matthews
-1|FDR Engineers, PLLC|13200 Strickland Road|Suite 114, Box 332|Raleigh
-1|Atom Power Inc|13245 Reese Blvd W|Suite 130|Huntersville
-1|Bridgetree LLC|133 N Main Street||Mooresville
-1|Dentsply Sirona Inc|13320-B Ballantyne Corporate Place||Charlotte
-1|Company Box LLC|13347 South Point Boulevard||Charlotte
-1|NeoDJC LLC|1339 Baxter St.|Suite 200|Charlotte
-1|APPSTREAM TECHNOLOGIES LLC|135 E MAIN ST|STE 201|ROCKHILL
-1|Data Analytix LLC|136 Waxhaw Parkway|Suite E 109|Waxhaw
-1|TruPoint Partners Inc|13830 Ballantyne Corporate Place|Suite 125|Charlotte
-1|Tribis Inc|13860 Ballantyne Corporate Pl|Suite 410|Charlotte
-1|Syntelli Solutions Inc|13925 Ballantyne Corporate Place|Suite 260|Charlotte
-1|Roshan & Associates LLC|14 Oak Branch Drive suite A||Greensboro
-1|Highbrow Technology Inc|140 Towerview Court, Suite 107|N/A|Cary
-1|Talent Tek Services Inc|140 Towerview Ct.|Suite 108|Cary
-1|Snowstack LLC|14045 Ballantyne Corporate Place|Suite 460|Charlotte
-1|Beatior INC|1408 Tinos Overlook Way||Apex
-1|Mark Loudermilk Architecture, PLLC|1409 Medical Center Dr||Wilmington
-1|Binary Logix Inc|141 Welcombe St.||Mooresville
-1|Leela Consultancy LLC|1413 Stratford Ridge Lane||Cary
-1|Leela Consultancy LLC|1413 Stratford Ridge Ln||Cary
-1|Leela Consultancy LLC|1413 Stratford Ridge Ln.||Cary
-1|Cargo Logistics Network Company|1419 Gaston Street|Dock E|Lincolnton
-1|Blue Sky Robotics Inc|142 E Franklin St||Chapel Hill
-1|RapidOps Inc|1422 S. Tryon St.|Suite 300|Charlotte
-1|Momentum Research Inc|1426 NC Highway 54|Suite B|Durham
-1|Contour Products Inc|1430 West Pointe Drive|Suite K|Charlotte
-1|Torrent Consulting LLC|14316 Reese Blvd West|Suite B 862|Huntersville
-1|BOTG LLC|144 Porter St.|STE 107|Franklin
-1|Connecting People LLC|1442 Sierra Glen Cir||Apex
-1|Zenergy Technologies Inc|1451 S. Elm-Eugene St.|Ste 3201|Greensboro
-1|Mackin Consultancy LLC|146 N. Main St.|Suite 202A|Rutherfordton
-1|Source Cloud Technologies|1480  Chapel Ridge Road|Ste 100|Apex
-1|SUNRISE INFOTEK CORP.|150 CORNERSTONE DR.|SUITE 203|CARY
-1|Sunrise Infotek Corp|150 Cornerstone Dr St 203||Cary
-1|Smith, Anderson, Blount, Dorsett, Mitchell & Jernigan, LLP|150 Fayetteville Street|Suite 2300|Raleigh
-1|ECR Software Corporation|150 Market Hills Drive||Boone
-1|SYNTACTECH INC|150 PRESTON  EXECUTIVE DR|SUITE 201|CARY
-1|Bhaninfo Inc|150 Preston Executive Dr, Suite 203||Cary
-1|Syntactech Inc|150 Preston Executive Dr.|STE 201|Cary
-1|GENOSTATS CORP|150 Preston Executive Drive|Suite 234|Cary
-1|VYSHVA INC|150 Preston Executive Drive, Suite, 201||Cary
-1|APEX Analytix LLC|1501 Highwoods Blvd.|Suite 200|Greensboro
-1|APEX Analytix LLC|1501 Highwoods Boulevard|Suite 200|Greensboro
-1|The Open Sky Group LLC|1501 Lakestone Village Lane|Suite 207|Fuquay Varina
-1|Patagonia Health Inc|15100 Weston Parkway|Suite 204|Cary
-1|Enterprise IT Solutions LLC|15105 JOHN J DELANEY DRIVE|SUITE D 32|CHARLOTTE
-1|AVERISTAR CONSULTING LLC|15105 JOHN J. DELANEY DRIVE|SUITE 107|CHARLOTTE
-1|NATIONAL COUNCIL FOR AIR AND STREAM IMPROVEMENT INC|1513 WALNUT STREET|SUITE 200|CARY
-1|National Council for Air and Stream Improvement Inc (NCASI)|1513 Walnut St., Ste 200||Cary
-1|Averna Test Systems Inc|1515 Center Park Dr||Charlotte
-1|Averna Test Systems Inc|1515 Center Park Drive||Charlotte
-1|SREEMAAN TECHNOLOGIES LLC|1515 Mockingbird Lane|Suite 420|Charlotte
-1|HP Buildings LLC|1515 Mockingbird Ln|Suite 400|Charlotte
-1|Vision Builders LLC|1515 Shopton Road|Suite 104|Charlotte
-1|Vulli Inc|1522 Vaughn Road||Burlington
-1|Web Geo Solutions LLC|1527 Kythira Drive||Apex
-1|UPL NA Inc|15401 Weston Parkway|Suite 170|Cary
-1|OperationsRx LLC|15435  Holly Trail Ln||Davidson
-1|Baseline Construction Inc|155 West New York Avenue|200|Southern Pines
-1|Academic Analytics LLC|15720 Brixham Hill Ave|Suite 300|Charlotte
-1|Raybow USA Inc|158 McLean Road||Brevard
-1|INNOVATECH LLC|159 Oxford Drive||Goldsboro
-1|Triangle Accounting Inc|1601 Walnut St|Suite 201|Cary
-1|Triangle Accounting Inc|1601 Walnut St   201||Cary
-1|Triangle Accounting Inc|1601 Walnut Street, Suite 201||Cary
-1|Spiroflow Automation Solutions Inc|1609 Airport Road||Monroe
-1|THOMPSON, PRICE, SCOTT, ADAMS & CO., P.A.|1626 S MADISON STREET||WHITEVILLE
-1|Raleigh Animal Care PLLC|1628 S Main St|Suite 100|Wake Forest
-1|Neighboring Concepts PLLC|1635 West Trade St|Suite 1A|Charlotte
-1|Mackin Consultancy LLC|1639 College Avenue|Suite 150 PMB 126|Spindale
-1|EXPAND TECHPRO LLC|16615 RIVERSTONE WAY|SUITE 300|CHARLOTTE
-1|WithersRavenel|167 E. Chatham Street|Suite 210|Cary
-1|IMPLAN Group LLC|16905 Northcross Dr.|Suite 120|Huntersville
-1|Urban 3 LLC|17 Cherry Street N||Asheville
-1|D2 Legal Change Inc|17210 Lancaster Highway|Suite 405|Charlotte
-1|Apex Animal Care PLLC|1730 Matthews Township Pkwy|Suite A1|Matthews
-1|McIlveen PLLC|174 S. South Street|Suite 301|Gastonia
-1|Connecting People LLC|1750 NW Maynard|STE 105|Cary
-1|Deliveright Logistics Inc|176 Lfi Complex Lane||Lexington
-1|Kingsmen Software LLC|1801 N Graham St|Suite 310|Charlotte
-1|MeisterTech LLC|1809 Deer Meadows Dr||Waxhaw
-1|Ascent Consulting Partners LLC|1819 Sardis Road N|Suite 350 PMB 1027|Charlotte
-1|FORVIS, LLP|1831 Eastchester Drive||High Point
-1|Convexio Inc|1831 Lake Pine Dr|Suite 200|Cary
-1|Intellibridge Solutions Inc|1833 Rothesay Dr||Apex
-1|PIXELITCENTER CORPORATION|189 Tarleton Dr||Fuquay-Varina
-1|BB & M Architecture PLLC|1900 West Morehead Street|Suite 200|Charlotte
-1|ARDOR IT SYSTEMS LLC|1905 J N PEASE PLACE|SUITE 201|Charlotte
-1|ARDOR IT SYSTEMS LLC|1905 JN PEASE PLACE|SUITE 201|CHARLOTTE
-1|Smartint Technologies LLC|1906 E. NC Hwy 54|Suite 200 C|Durham
-1|Tribis Inc|1908 Cox Road,||Weddington
-1|Infoswift Software LLC|19109 W Catawba Avenue|Suite 200|Cornelius
-1|Intverse Inc|19109 West Catawba Ave|Suite 200|Cornelius
-1|TECHTROVE SOFTWARE SOLUTIONS LLC|1914 J N PEASE PL.|SUITE 138|CHARLOTTE
-1|Infozen Inc|1914 JN Pease Pl||Charlotte
-1|NUCOR BUSINESS TECHNOLOGY INC|1915 REXFOROAD ROAD||CHARLOTTE
-1|Nucor Business Technology Inc|1915 Rexford Road||Charlotte
-1|Pinnacle Tek LLC|1920 E NC Highway 54|Suite 150|Durham
-1|Sciome LLC|1920 E. NC Highway 54|Suite 510 & 520|Durham
-1|Optima Engineering, PA|1927 South Tryon Street|Suite 300|Charlotte
-1|CELORISTECH LLC|1931 JN Pease Place|SUITE 104|Charlotte
-1|RIA Solutions Group LLC|1959 North Peace Haven Road  166||winston-salem
-1|Rucus Holdings LLC|19701 Bethel Church Road|Ste 103 109|Cornelius
-1|TeknXpert LLC|1973 JN pease place,|suite 104|Charlotte
-1|Siker Technologies LLC|1973 Kings Knot Court||Apex
-1|CELORIS TECH LLC|1977 J N Pease Pl|STE 101|Charlotte
-1|Treta IT Inc|1981 J. N. Pease Pl.|STE 204|Charlotte
-1|TRETA IT INC|1981 JN PEASE PLACE|SUITE 204|CHARLOTTE
-1|Smarttrak LLC|2 Davis Drive|ste 107|Research Triangle Park
-1|Biomason Inc|2 Triangle Dr|Research Triangle Park|Durham
-1|Biomason Inc|2 Triangle Drive||Durham
-1|Usability Dynamics Inc|2 W Main St.|Suite 100|Durham
-1|Baratta Law PLLC|200 Eagle Bend Drive||Waxhaw
-1|GetVector Inc|200 Ledge Manor Drive||Holly Springs
-1|Peak Systems Engineering|200 Mackenan Drive|Suite 100|Cary
-1|US Accounting & Tax Inc|200 Old Winston Road||Highpoint
-1|Dcube Solutions|200 Ruthwin Dr||Morrisville
-1|Brightree Home Health & Hospice LLC|2000 Aerial Center Parkway||Morrisville
-1|Union LLC|2000 W. Morehead Street|Suite A|Charlotte
-1|LTS Research Laboratories Inc|2001 Oaks Pkwy||Belmont
-1|Eclipse Legal Marketing LLC|2005 Chatham Avenue||Charlotte
-1|Neurophos LLC|201 Main Street,  301||Durham
-1|MARK LOUDERMILK ARCHITECTURE PLLC|201 N FRONT STREET|STE 1004|WILMINGTON
-1|ConsumerTrack Inc|201 N. McDowell St.|P.O. Box 30277|Charlotte
-1|Tavve Holdings LLC|201 S College St.|Suite 1590|Charlotte
-1|Tavve Holdings LLC|201 S. College St.|Suite 1590|Charlotte
-1|BSI Solutions Inc|201 South Tryon Street|Suite 1500|Charlotte
-1|CROSSCOMM INC|201 WEST MAIN ST.|SUITE 101|DURHAM
-1|ManageYOURiD Inc|2015 Arysley Town Blvd|Suite 202|Charlotte
-1|Blooming Tech Inc|2015 Ayrsley Town Blvd.|Suite 202|Charlotte
-1|Tech Job Aid LLC|2019 Delaney Hills Lane||Fuquay-Varina
-1|Green Places Inc|2020 Progress Court|Suite 100 146|Raleigh
-1|Process Engineering Specialists Inc|2020 Vintners Ct||Raleigh
-1|CVP OPERATIONS NC LLC|2024 HIGHWAY 172|SUITE C|SNEADS FERRY
-1|iQmetrix USA Inc|203 Webbed Foot Road||Mooresville
-1|Software Pricing Partners LLC|20311 Chartwell Center|Suite 910|Cornelius
-1|Aampe Inc|204 Parkcanyon Lane||Cary
-1|RxCloud|204 Powhatan Dr||Fuquay-Varina
-1|Quility Insurance LLC|204 Whitson Avenue||Swannanoa
-1|Beroe Holdings Inc|2054 Kildaire Farm Road||Cary
-1|v7 tech labs|2054 cypress viallge dr nw||concord
-1|INSITUTEC INC|207 BYERS CREEK ROAD|SUITE D|MOORESVILLE
-1|Tech Workflow|207 W. Millbrook Road|Suite 210|Raleigh
-1|Alliance Architecture, PC|208 Rigsbee Avenue||Durham
-1|Elster Solutions LLC|208 S Rogers Lane||Raleigh
-1|UNISYS INFOTECH LLC|20830 TORRENCE CHAPEL ROAD|SUITE 203|CORNELIUS
-1|Legerton Architecture, P.A.|21 North Liberty Street||Asheville
-1|RegEd Inc|2100 Gateway Centre Boulevard|STE 200|Morrisville
-1|Stratifyd Inc|2101 Thrift Road||Charlotte
-1|INFODYNE SOLUTIONS LLC|2105 HOWAROADA MILL LN||WAXHAW
-1|Quality Agents LLC|2116 Capital Dr|Ste 102|Wilmington
-1|K4Connect Inc|2121 ROADU Center Drive|STE 200|Morrisville
-1|Chalk Digital Inc|2125 Southend Drive|Suite 353|Charlotte
-1|Global Applied Business Services Corporation|213 Sweet Violet Dr||Holly Springs
-1|ZND US Inc|214 James Farm Road||Statesville
-1|Synechron Inc|214 North Tryon Street|Suite 3000|Charlotte
-1|Methodfuel Inc|215 E Lewis St||Greensboro
-1|Surface 678, PA|215 Morris St|Suite 150|Durham
-1|Prescient National Insurance Services LLC|217 South Tyron Street||Charlotte
-1|Next Technology Solutions LLC|2172 Gregor Overlook Lane||Apex
-1|LandDesign Inc|22 North Graham Street||Charlotte
-1|Association of International Certified Professional Accountants|220 Leigh Farm Road||Durham
-1|Greenville Shanti LLC|2205 West Arlington Boulevard||Greenville
-1|ABCONNECT GLOBAL LLC|2212 EASTCHESTER DR|STE 204|HIGH POINT
-1|Amount Inc|222 N. LaSalle|Suite 1700|Chicago
-1|LandDesign Inc|223 North Graham St.||Charlotte
-1|LandDesign Inc|223 North Graham Street||Charlotte
-1|Stewart Engineering Inc|223 S. West Street|STE 1100|Raleigh
-1|ndustrial.io Inc|224 Fayetteville Street, 3rd Floor||Raleigh
-1|B. Patt LLC|227 Fayetteville Street|7th Floor|Raleigh
-1|Relevant Engineering PLLC|227 W 4th St|Suite 230|Charlotte
-1|Greerwalker LLP|227 W Trade Street|Suite 1100|Charlotte
-1|Leichtman Law PLLC|228 East 45th Street, Suite 605||New York
-1|CMS Bon Holdings LLC|228 N. Front Street|Suite 302|Wilmington
-1|BioAgilytix Labs LLC|2300 Englert Dr.||Durham
-1|BioAgilytix Labs LLC|2300 Englert Drive||Durham
-1|Booth and Associates LLC|2300 Rexwoods Drive|Suite 300|Raleigh
-1|Strata Solutions Inc|2300 W MEADOWVIEW DR|STE.216|Greensboro
-1|Strata Solutions Inc|2300 W MEADOWVIEW ROAD|STE.216|Greensboro
-1|Strata Solutions Inc|2300 W. MEADOWVIEW DR|STE.216|Greensboro
-1|VenJay Technologies Inc|2308 Addenbrock Dr||Morrisville
-1|Signature IT Solutions Inc|2315 W Arbors Dr|Suite 130|Charlotte
-1|Tekpro IT|2315 W Arbors Dr, 200 - 7||Charlotte
-1|Rayon Tek Solutions Inc|2315 W Arbors Dr.|Suite 200|Charlotte
-1|Signature IT Solutions Inc|2315 W Arbors Drive|Suite 130|Charlotte
-1|Alcami Carolinas Corporation|2320  Scientific Park Drive||Wilmington
-1|Electrical Consulting Engineers Inc|2407 North Tryon Street||Charlotte
-1|Desai & Desai LLp|2423 Plantation Center Drive|Suite B|Matthews
-1|McKim & Creed Inc|243 N Front St||Wilmington
-1|CAROLINA IT PROFESSIONALS INC|243 WEST CATAWBA AVE||MOUNT HOLLY
-1|Datavalet Networks LLC|2459 Wilkinson Blvd.|Suite 220|Charlotte
-1|Design Resource Group, P.A.|2459 Wilkinson Boulevard|Suite 200|Charlotte
-1|Profit Insight LLC|249 Williamson Road||Mooresville
-1|Baebies Inc|25 Alexandria Way||Durham
-1|Biolink Life Sciences Carolinas Inc|250 Quade drive||Cary
-1|Harbor Hat Inc|2500 Gateway Centre Blvd.|Suite 200|MORRISVILLE
-1|Saphire Solutions Inc|2500 REGENCY PKWY, Ste 1000||CARY
-1|SAM IT SOLUTIONS LLC|2511 E NC-54|Suite 201|Durham
-1|Sam Analytic Solutions LLC|2511 E. NC Hwy 54|Suite 201|Durham
-1|Leslie Merritt Inc|2515 Airport Blvd NW|Suite D|Wilson
-1|Infomerica Inc|252 Towne Village Dr||Cary
-1|Infomerica Inc|252 Towne Village Dr.||Cary
-1|INFOMERICA INC|252 Towne Village Drive||CARY
-1|Humacyte Global Inc|2525 E NC Hwy 54||Durham
-1|Humacyte Global Inc|2525 E. NC Highway 54||Durham
-1|CATO Research LLC|2525 Meridian Pkway|Suite 200|Durham
-1|Catalyst Clinical Research LLC|2528 Independence Blvd|Suite 100|Wilmington
-1|EMS LINQ LLC|2528 Independence Boulevard|Ste 200|Wilmington
-1|3 Dots IT Solutions LLC|253 Turner Oaks Drive||Cary
-1|ROUND POINT TECHNOLOGIES INC|2530 MERIDIAN PKWY.|SUITE 300|DURHAM
-1|Infotek Groups Inc|2530 Meridian Park way|STE 300|Durham
-1|Watauga Veterinary Hospital p.a.|2531 us hwy 421 n||boone
-1|Collins Structural Consulting, PLLC|2537 E Lyon Station Road|Suite 102|Creedmoor
-1|WOODS ENGINEERING, PA|254 N. Front St.|Suite 201|Wilmington
-1|S3Verse LLC|2557 Legrande Way||Cary
-1|TekTans LLC|2586 Shoal Park Road||Concord
-1|Blur Development Group LLC|260 James Jackson Avenue||Cary
-1|Random Bit LLC|2610 W. Roosevelt Blvd.|Suite C|Monroe
-1|Arista Technologies LLC|2612 Averon Dr||Fuquay Varina
-1|ScottMadden Inc|2626 Glenwood Avenue|Suite 480|Raleigh
-1|The Financial Risk Group Inc|264 West Chatham St.|Suite 101|Cary
-1|SILVERFALLS SOLUTIONS INC|2640 Willard Dairy Road|Suite 100, Office 2|High point
-1|CLARKSTON-POTOMAC GROUP INC|2655 MERIDIAN PARKWAY||DURHAM
-1|Process Engineering Specialists INC|2664 Timber Dr|Ste 338|Garner
-1|Datafirst Corporation|2700 Sumner Blvd|Suite 103|Raleigh
-1|Slash IT LLC|2701  Elk Knob Trl||Apex
-1|Highfill Infrastructure Engineering, P.C.|2703 Jones Franklin Road|Ste 201|Cary
-1|ADDEPTO IT SOLUTIONS LLC|2720 E W T Harris Blvd|Ste 201|Charlotte
-1|Delta Oaks Group, PLLC|2724 Discovery Dr.|Suite 110 120|Raleigh
-1|S&ME Inc|2724 Discovery Drive|Suite 120|Raleigh
-1|ZEPHYR TECH LLC|2729 WILLOW ROCK LANE||APEX
-1|Viabound LLC|2730 E W.T Hanis Blvd|Suite 201|Charlotte
-1|VIABOUND LLC|2730 E W.T Harris Blvd.|Suite 201|Charlotte
-1|Viabound LLC|2730 E.W.T Harris Blvd|Suite 201|Charlotte
-1|Nascent Technology LLC|2744 Yorkmont Road||Charlotte
-1|Farragut Systems Inc|2775 Meridian Pkwy||Durham
-1|RETAIL INSIGHT NEWGEN TECHNOLOGY SERVICES INC|28 BISHOP COVE ROAD||FAIRVIEW
-1|FLEXGEN HOLDINGS INC|280 S MANGUM ST|Suite 150|Durham
-1|FlexGen Power Systems INC|280 S Mangum St Ste. 150||Durham
-1|TECHNODEED LLC|280 TOWERVIEW CT|1ST FLOOR|CARY
-1|Soil Health Institute|2803 Slater Road|Suite 115|Morrisville
-1|SOS Global Express Inc|2803 Trent Road||New Bern
-1|PowerN Inc|2805 Swift Willow Circle||Raleigh
-1|MSEM Services Inc|2809 Spring Forest Road|Suite 201|Raleigh
-1|Finzly Inc|2815 Coliseum Centre Drive|Suite 240|Charlotte
-1|ERK Solutions LLC|2905 Macintosh woods Dr||Apex
-1|The John R. McAdams Co. Incorporated|2905 Meridian Parkway||Durham
-1|Hart & Hickman, PC|2923 S. Tryon St.||Charlotte
-1|Fast&Furious Immi Team|299 Hyderabad|Suite 199|Charlotte
-1|VELOCITY CLINICAL RESEARCH|300 EAST MAIN STREET|SUITE 300|DURHAM
-1|HelioCampus Inc|300 Market St|Suite 220|Chapel Hill
-1|Intermec Technologies Corporation|300 S. Tryon Street|Suite 600|Charlotte
-1|ERM NC Inc|300 W Summit Ave|Suite 330|Charlotte
-1|Hollingsworth Avent Averre & Purvis, PA|300 West Millbrook Road||Raleigh
-1|Image Quality Labs Inc|3000 Croasdaile Dr|Suite 100|Durham
-1|INTERNATIONAL UNITED SOLUTIONS LLC|3000 bear cat way|suite 110|Morrisville
-1|Absolute AV Events|3001 Spring Forest Road|Suite 105|Raleigh
-1|POFFENBERGER ANIMAL HOSPITAL|3005 JOHN SMALL AVE||WASHINGTON
-1|Cellex Inc|301 Cascade Pointe Lane||Cary
-1|Pendo.io Inc|301 Hillsborough St.|Suite 1900|Raleigh
-1|Pendo.io Inc|301 Hillsborough, St.|Suite 1900|Raleigh
-1|SAAP TECH SOLUTIONS LLC|301 MCCOLLOUGH DR|SUITE 400|CHARLOTTE
-1|TECHNOFY IT SOLUTIONS LLC|301 McCullough  University  Executive Park Dr|Suite 400|Charlotte
-1|TECHNOFY IT SOLUTIONS LLC|301 McCullough Drive University Executive Park Dr|Suite 400|Charlotte
-1|Select IT Talent LLC|301 Mccullough Dr suite 400||Charlotte
-1|Concor IT Solutions Inc|301 Mccullough Dr, Suite 400||Charlotte
-1|Lynch Mykins Structural Engineers, PC|301 N. West Street, Suite 105||Raleigh
-1|DARJI, IYER, JOSHI, & PATEL LLP|301 Pinner Weald Way,|Suite 201|Cary
-1|Apex Semiconductors (USA) Co. Ltd|3010 Lee Ave||Sanford
-1|Apex Semiconductors (USA) Company Limited|3010 Lee Avenue||Sanford
-1|Precision BioSciences Inc|302 East Pettigrew St.||Durham
-1|Precision BioSciences Inc|302 East Pettigrew Street||Durham
-1|310 Architecture and Interiors PA|302 Jefferson Street|Suite 250|Raleigh
-1|TG Therapeutics Inc|3020 Carrington Mill Blvd|Ste 475|Morrisville
-1|Randomanalytics LLC|303 Millsford Hill Pl||Cary
-1|IBM India Private Limited|3039  E Cornwallis Road||Durham
-1|IBM Corporation|3039 Cornwallis||Durham
-1|IBM India Private Limited|3039 Cornwallis Road 3039 Cornwallis Road||Durham
-1|IBM Corporation|3039 Cornwallis Road PO Box12195||Durham
-1|INTERNATIONAL BUSINESS MACHINES CORPORATION|3039 EAST CORNWALLIS ROAD|BUILDING 002|DURHAM
-1|RADIX SYSTEMS INC|304 Briargate Terrace Lane||Cary
-1|Research Triangle Institute (RTI International)|3040 E. Cornwallis Road||Research Triangle Park
-1|Research Triangle Institute|3040 East Cornwallis Road||Raleigh
-1|15Five Inc|305 Church at N Hills St|Suite 1150|Raleigh
-1|Allscripts Managed Services LLC|305 Church at North Hills||Raleigh
-1|Strong Rock Engineering Group, PLLC|305 Church at North Hills St.|Suite 1110|Raleigh
-1|ELO Life Systems Inc|3054 E Cornwallis Road||Durham
-1|Katy LaBarbera CPA, PC|306 Hackney Avenue||Washington
-1|Gilliam Bell Moser LLP|3060 S. Church St.|Suite 3301, Bldg. 300|Burlington
-1|Oyster HR Inc|307 W. Tremont Ave|Suite 200|Charlotte
-1|Xilis Inc|31 Alexandria Way||Durham
-1|Szostak Design Inc|310 1/2 West Franklin St.||Chapel Hill
-1|Translucent Inc|310 N Front St|Ste 4 157|Wilmington
-1|Translucent Inc|310 N Front Street|Ste 4 157|Wilmington
-1|Smarttrak LLC|310 S Harrington St||Raleigh
-1|Szostak Design Incorporated|310 ½ West Franklin Street||Chapel Hill
-1|Highmark Companies LLC|3105 Hemlock Hills Lane||Apex
-1|Esquire Media LLC|3107 Glen Royal Road||Raleigh
-1|Medhus Infotech Inc|3108 Misty Rise Dr||Cary
-1|Animal Hospital of Fayetteville, P.A.|3109 Fort Bragg Road||Fayetteville
-1|3 Dots IT Solutions LLC|311 Melvin Jackson Drive||Cary
-1|Ndustrial.io Inc|311 S Harrington Street, Suite 200||Raleigh
-1|KLOUDVISIO INC|3117 WHITING AVENUE||CHARLOTTE
-1|Growers Holdings Inc|312 Blackwell Street|Suite 101|Durham
-1|Lexitas Pharma Services Inc|313 Foster Street||Durham
-1|Oxit LLC|3131 Westinghouse Blvd||Charlotte
-1|McKinney Ventures LLC|318 Blackwell St|Suite 200|Durham
-1|Net Power LLC|320 Roney Street, Suite 200||Durham
-1|Raptor Consultants Group Inc|3200 Wake Forest Drive|Suite 206|Raleigh
-1|S&ME Inc|3201 Spring Forest Dr.||Raleigh
-1|ETYME INC|3201 Yorktown Avenue|Suite 110B|Durham
-1|Quarks Technosoft LLC|3209 Cotten Road||Raleigh
-1|Quarks Technosoft LLC|3209 Cotton Road||Raleigh
-1|Comnatix LLC|321 E. Chapel Hill St|Ste 309|Durham
-1|DivvySoft LLC|321 E. Chapel Hill St.|Office 309|Durham
-1|VeraSci|3211 Shannon Road|Suite 300|Durham
-1|I Think Services LLC|322 Lamar Ave||Charlotte
-1|AriakIT Sol  LLC|3223 KEMPTHORNE ROAD||CARY
-1|Engineered Tower Solutions, PLLC|3227 Wellington Court||Raleigh
-1|Three Oaks Engineering|324 Blackwell St.|Suite 1200|Durham
-1|Three Oaks Engineering|324 Blackwell Street|Suite 1200|Durham
-1|Emtek Solutions Inc|325 Hawthorne Woods Road||Apex
-1|Elliot Morgan Parsonage PLLC|328 N Spring Street||Winston-Salem
-1|Platt Architecture, P.A.|33 W Main Street||Brevard
-1|Strata Solutions Inc|3300 Battleground Avenue, Ste.304||Greensboro
-1|Charles River Discovery & Imaging Services Inc|3300 Gateway Centre Blvd.||Morrisville
-1|SUPERLIKE LLC|3305 Griffith St.||Charlotte
-1|Sacks Surveying & Mapping, P.C.|3308-b Edgefield Road||Greensboro
-1|Duda Paine Architects, P.A.|333 Liggett St.||Durham
-1|Housing Studio, P.A.|333 West Trade St|Suite 300|Charlotte
-1|RF2ANTENNA|3331 Heritage Trade Dr.|STE 101|Wake Forest
-1|Maha Engineering, PLLC|340 Euphoria Circle||Cary
-1|Greatek Solutions LLC|3403 Antler View Drive||Apex
-1|Greatek Solutions LLC|3403 AntlerView Drive||Apex
-1|Citadel Management Services, LP|3405 Apex Peakway||Apex
-1|Williford Houston & Co., CPAs, PLLC|3408 Wilshire Blvd.|Suite 300|Wilmington
-1|Biz Technology Solutions Inc|353 Oates Road||Mooresville
-1|Odyssey Logistics and Technology Corporation|3545 Whitehall Park Drive||Charlotte
-1|USW-Menard Inc|3600 Andrew Jackson Hwy||Leland
-1|USW-Menard Inc|3600 Andrew Jackson Hwy.||Leland
-1|Umicore Autocat USA Inc|3600 Glenwood Ave|Suite 250|Raleigh
-1|Umicore USA Inc|3600 Glenwood Avenue|Suite 250|Raleigh
-1|Batchelor, Tillery & Roberts, LLP|3605 Glenwood Avenue|Suite 350|Raleigh
-1|RND Architects PA|3608 University Drive|Suite 204|Durham
-1|NNE Inc|3611 Powhatan Road||Clayton
-1|Techscience Info LLC|3623 Latrobe Dr|STE 126|Charlotte
-1|Alpha Nano Tech LLC|3624 Shannon Road|Suite 103|Durham
-1|Inside Global Inc|3717 National Drive|Suite 200|Raleigh
-1|Bookkeeping 101 Inc|3722 Benson Drive|Suite 201|Raleigh
-1|Charlotte Animal Referral & Emergency, PLLC|3726 Labtrobe Drive||Charlotte
-1|Charlotte Animal Referral & Emergency, PLLC|3726 Latrobe Drive||Charlotte
-1|Midrex Technologies Inc|3735 Glen Lake Drive|Suite 400|Charlotte
-1|Creative Mind Technology LLC|38 Thomas Gage Drive||Fuquay Varina
-1|PREMIER RESEARCH INTERNATIONAL LLC|3800 PARAMOUNT PKWY, STE 400||MORRISVILLE
-1|PREMIER RESEARCH INTERNATIONAL LLC|3800 Paramount Pkwy., Ste 400||Morrisville
-1|Gray, Callison & Jones CPA, PC|3813 Forrestgate Drive||Winston Salem
-1|Hartranft Lighting Design LLC|3835 Brookwood Road||Charlotte
-1|Vendor Team Services LLC|385 Timber Road Suite 103-105|385|Mooresville
-1|Thermo Fisher Scientific Inc|3900 Paramount Parkway||Morrisville
-1|Thermo Fisher Scientific Inc|3900 Paramount Pkwy||Morrisville
-1|Indus Life Sciences Inc|3901 Capital Boulevard|Suite 119|Raleigh
-1|Toshiba Global Commerce Solutions Inc|3901 South Miami Blvd||Durham
-1|Toshiba Global Commerce Solutions Inc|3901 South Miami Blvd.||Durham
-1|Manufacturing Compliance and Automation Services Inc|3908 Bishop Road||Battleboro
-1|Accrue Select Inc|3916 Wedonia||Cary
-1|Accrue Select Inc|3916 Wedonia Drive||Cary
-1|Lansoft Inc|3948 Browning Pl|Suite 336|Raleigh
-1|Fsteck LLC|3948 Browning Place|Suite 300|Raleigh
-1|Intelligent Software Solutions Inc|3975 BERYL ROAD|STE 130|Raleigh
-1|Ilumivu Newco LLC|4 Long Shoals Road STE B  636||Arden
-1|VDP Systems Inc|400 Crutchfield St|Suite C|Durham
-1|REVEO LLC|400 DIMOCK WAY||WAKE FOREST
-1|QPIX Solutions Inc|400 Park Offices Drive, suite 104||Research Triangle
-1|CRG Corporation|4000 Piedmont Parkway|Suite 300|High Point
-1|ICIDIGITAL LLC|4000 Westchase Blvd.|Suite 280|Raleigh
-1|ICIDIGITAL LLC|4000 Westchase Blvd., Suite 280||Raleigh
-1|HCM Apps Inc|4002 Strendal Dr||Cary
-1|Sarah Keilson LLC|4005 Galantis Drive|Apt. 206G|Morehead City
-1|Blumefox Technologies LLC|4006 Audubon Park DR||Charlotte
-1|Shayne C Gad|4008 Barrett Drive|Suite 201|Raleigh
-1|Reynolds Marketing Services Company|401  N. Main Street||Winston-Salem
-1|TRILLIANT NETWORKS INC|401 HARRISON OAKS BLVD|SUITE 300|CARY
-1|Trilliant Networks Inc|401 Harrison Oaks Blvd.|Suite 300|Cary
-1|Reynolds Marketing Services Company|401 N. Main Street||Winston-Salem
-1|Ross/Deckard Architects, P.A.|4010 Wake Forest Road||Raleigh
-1|WiseTech Global (U.S.) Inc|40105 Moring||Chapel Hill
-1|MedPharm Manufacturing Services LLC|4018 Stirrup Creek Dr||Durham
-1|Tergus Pharma LLC|4018 Stirrup Creek Dr.||Durham
-1|Kinkle Consulting LLC|402 Annandale Drive||Cary
-1|Quality Agents LLC|402 Carl Street|Suite 102|Wilmington
-1|EvE Bio LLC|4020 Stirrup Creek Dr||Durham
-1|EvE Bio LLC|4020 Stirrup Creek Dr.|Suite 114|Durham
-1|QUANTA TECHNOLOGY LLC|4020 WESTCHASE BLVD., SUITE 300||Raleigh
-1|Quanta Technology LLC|4020 Westchase Blvd|Suite 300|Raleigh
-1|Quanta Technology LLC|4020 Westchase Blvd.|Suite 200|Raleigh
-1|CLOUDHUB9 TECHNOLOGIES LLC|4030 Wake Forest Road|Ste 349|Raleigh
-1|Outliers Consulting Solutions|4040 Chesapeake Drive|Suite 2|Mecklenburg
-1|Kaizer Software Solutions LLC|4040 Flowering Peach Road||Marvin
-1|Digital Turbine Media Inc|406 Blackwell St.|Suite 500|Durham
-1|Promantus Inc|407 Gorman St||Raleigh
-1|Promantus Inc|407 Gorman St.||Raleigh
-1|Promantus Inc|407 Gorman Street||Raleigh
-1|Hobgood Architects PA|409 Hillsborough Street||Raleigh
-1|PrecisionHawk Inc|410 Glenwood Avenue, Suite 200||Raleigh
-1|Metabytes Technologies Corporation|4100 Congleton PL||Durham
-1|Wyrick Robbins Yates & Ponton LLP|4101 Lake Boone Trail|Suite 300|Raleigh
-1|Litterati Inc|411 W. Chapel Hill St|Ste C2|Durham
-1|Litterati LLC|411 W. Chapel Hill St., Suite C2||Durham
-1|SKILLSTRAT LLC|4111-E ROSE LAKE DR|STE 6688|Charlotte
-1|D&C INFO LLC|4111-e Rose Lake Dr   3037||Charlotte
-1|Teceze LTD|4115 Rose Lake Dr|Suite F|Charlotte
-1|KBI Biopharma Inc|4117 Emperor Boulevard||Durham
-1|INFINITBIT LLC|4121 SHADBUSH ST||RALEIGH
-1|PMAB LLC|4135 South Stream Blvd.|Suite 400|Charlotte
-1|Myers Bigel, P.A.|4140 Parklake Avenue,|Suite 600|Raleigh
-1|Compressed Air Consultants Inc|417 East Boulevard|Suite 204|Charlotte
-1|Well Dot Inc|419 W. Franklin Street||Chapel Hill
-1|Blue Sky Robotics Inc|4201 Farrington Road||Durham
-1|IBM Corporation|4205 S Miami Blvd|Bldg 502|Durham
-1|IBM Corporation|4205 S Miami Blvd, Bldg 502||Durham
-1|IBM Corporation|4205 S. Miami Blvd.||Durham
-1|IBM Corporation|4205 S. Miami Blvd. Bldg. 502 North J||Durham
-1|IBM Corporation|4205 S. Miami Blvd., Bldg. 502 North J||Durham
-1|IBM Corporation|4205 South Miami Boulevard|Building 502|Durham
-1|Kimley-Horn and Associates Inc|421 FAYETTEVILLE ST.|SUITE 600|RALEIGH
-1|Kimley-Horn and Associates Inc|421 Fayetteville St|Ste 600|Raleigh
-1|BIORESOURCE INTERNATIONAL INC|4222 EMPEROR BLVD., SUITE 460||DURHAM
-1|Arbiom Inc|4222 Emperor Boulevard||Durham
-1|Almac Diagnostics LLC|4238 Technology Drive||Durham
-1|AMK AUTO PARTS SALES & SERVICE INC|425 JOHN WAROAD ROAD|N/A|LEXINGTON
-1|Kymanox Corporation|430 Davis Drive|Suite 300|Morrisville
-1|McKim & Creed Inc|4300 Edwards Mill Road|Suite 200|Raleigh
-1|TeraRecon Inc|4309 Emperor Blvd|Suite 310|Durham
-1|TeraRecon Inc|4309 Emperor Blvd.|Suite 310|Durham
-1|Sports Endeavors LLC|431 US Hwy 70A East||Hillsborough
-1|Gilero LLC|4319 S. Alston Ave|Suite 100|Durham
-1|Archaius Inc|4324 S. Alston Avenue|Suite 204|Durham
-1|Phreesia Inc|434 Fayetteville Street|Suite 1400|Raleigh
-1|One Vet Inc|436 E 36th Street||Charlotte
-1|Enova Technology Solutions LLC|440 East McCullough Dr|A224|Charlotte
-1|Cross Technologies Inc|4400 Piedmont Pkwy||Greensboro
-1|DSK BIOPHARMA INC|441 Charlville ct||CARY
-1|iQmetrix USA Inc|445 South Main St.|Suite 300|Davidson
-1|Eboxchain Inc|4500 Mistiflower Drive||Raleigh
-1|Alphanumeric Systems Inc|4515 Falls of Neuse Road|Suite 250|Raleigh
-1|VMU SERVICE INC|452 Spokane Way||Cary
-1|FleetPro Leasing Inc|4600 Hendersonville Road, Suite C||Fletcher
-1|Smith-Sinnett Architecture, P.A.|4600 Lake Boone Trail|Suite 205|Raleigh
-1|PEG Contracting Inc|4601 Creekstone Drive|Suite 130|Durham
-1|CESO Inc|4601 Park Road|Suite 650|Charlotte
-1|Utopia Global Inc|4601 Six Forks Road,|Suite 220|Raleigh
-1|Symmetry Biosciences Inc|4620 Industry Lane|Suite B|Durham
-1|Symmetry BioSciences Inc|4620 Industry Ln.|Suite B|Durham
-1|Mariner LLC|4701 Heatherton Place||Charlotte
-1|Bioventus LLC|4721 Emperor Blvd, Suite 100||Durham
-1|SEQIRUS INC|475 GREEN OAKS PKWY||HOLLY SPRINGS
-1|Seqirus Inc|475 Green Oaks Parkway||Holly Springs
-1|Walk West Inc|4801 Glenwood Avenue|Suite 500|Raleigh
-1|EPICSAI LLC|4804  PAGE CREEK LN.||DURHAM
-1|iRarity LLC|4804  Page Creek Lane|STE 126|Durham
-1|EPICSAI LLC|4804 PAGE CREEK LN.||DURHAM
-1|Talbert & Bright Inc|4810 Shelley Drive||Wilmington
-1|ACCRUE SELECT INC|4819 EMPEROR BOULEVAROAD|SUITE 400|DURHAM
-1|Perigon Infotech Inc|4819 Emperor Blvd  400||Durham
-1|IQVIA Inc|4820  Emperor Blvd.||Durham
-1|IQVIA Inc|4820 Emperor  Blvd.||Durham
-1|3 Dots IT Solutions LLC|4823 Meadow Dr|STE 103|Durham
-1|BeetleAI Solutions LLC|4852 Lily Garden Dr||Apex
-1|A Society Group Inc|486 N. Patterson Avenue|Suite 251|Winston-Salem
-1|Delta Oaks Group, PLLC|4904 Professional Ct., Flr. 2||Raleigh
-1|Petfolk Inc|4914 Old Sardis Road|C5|Charlotte
-1|Agerpoint Inc|5 Laboratory Drive|Suite 3250|Durham
-1|Clearscapes, P.A.|500 E. Davie Street|Suite 180|Raleigh
-1|Bridgera LLC|500 W. Peace St.||Raleigh
-1|Releem Inc|500 Westover Dr.|11329|Sanford
-1|The Michael Blank Brands LLC|500 Westover Drive|Suite 15493|Sanford
-1|Neusoft America Inc|5000  CentreGreen Way|STE 500|Cary
-1|ZORIEN LLC|5000 CENTRE GREEN WAY.|SUITE 500|CARY
-1|Vencedor Software Group Inc|5000 Center Green Way|Ste 500|Cary
-1|Vencedor Software Group Inc|5000 Center Greenway|Suite 500|Cary
-1|Stat9 Technologies Inc|5000 Centre Green Way , Ste 500||CARY
-1|Brightree Home Health & Hospice LLC|5001 Hospitality Court|Suite 175|Morrisville
-1|Target Pharmasolutions Inc|5001 S Miami Blvd|Ste 100|Durham
-1|CoreCompete Inc|5001 S. Miami Blvd.|Suite 410|Durham
-1|Heart Imaging Technologies LLC|5003 South Park Dr|Suite 140|Durham
-1|Acmatek Solutions Inc|501 Gray Marble Road||Morrisville
-1|Clearscapes, PA|501 S. Person Street||Raleigh
-1|Slash IT LLC|50101 Governors Drive|Suite 280|Chapel Hill
-1|Alliance for Innovative Solutions Foundation|502 McKnight Dr. , Ste 200||Knightdale
-1|T1V Inc|5025 West WT Harris Blvd|Suite A|Charlotte
-1|Panosia Tech LLC|5028 Heathland Dr||Charlotte
-1|Davis Kane Architects, P.A.|503 Oberline Road|Suite 300|Raleigh
-1|Power Relaying Solutions, PLLC|5031-B W WT Harris Blvd||Charlotte
-1|Xsome Biotech Inc|5033 Trembath Lane||Cary
-1|Institute for Medical Research Inc|508 Fulton Street|IMR 151|Durham
-1|AppLogics Inc|508 Liberty Hill Pass||Morrisville
-1|VIRTUAL LABS INC|5085 MORGANTON ROAD|SUITE 300|FAYETTEVILLE
-1|GemLin Soulutions LLC|509-2D N Graham St||Charlotte
-1|Xenia Retail Inc|51 Flex Way||Youngsville
-1|Rafetto, Guertin, Deloso Project Management Inc|51 Kilmanye Drive|Suite 300|Cary
-1|Rafetto, Guertin, Deloso Project Management Inc|51 Kilmayne Drive|Suite 300|Cary
-1|Blaze Advisors Inc|5100 Northcreek Road||Wilmington
-1|BYTERIDGE INC|5109 Hollyridge Drive|Suite 108|Raleigh
-1|Clementine Labs Inc|511 S Mangum St,|Apt 1071|Durham
-1|RIA SOLUTIONS GROUP LLC|511 SHEPHEROAD ST|SUITE 102|WINSTON SALEM
-1|RIA SOLUTIONS GROUP LLC|511 Shepherd Street|Suite 102|Winston Salem
-1|South Park Animal Care PLLC|5110 Park Road|STE 1K|Charlotte
-1|ARIS INC|5124 HEDRICK DRIVE||GREENSBORO
-1|SOLARSPACE TECHNOLOGY (US) LLC|515 Mid South Drive||Salisbury
-1|INTERNATIONAL UNITED SOLUTIONS LLC|517 Pylon Drive|Suite 101 B|Raleigh
-1|Tryon Solutions|520 S Harrington St.||Raleigh
-1|IMAGE-I-NATION TECHNOLOGIES INC d/b/a FRS Software|5212 Concord Highway||Monroe
-1|Softtechers LLC|525 N Tryon St 7008|Suite 1600|Charlotte
-1|Wallace and Graham, PA|525 N. Main St.||Salisbury
-1|Timon Global Resourcing Inc|525 North Tryon St|Suite 1600|Charlotte
-1|Holley Holland LLC|525 North Tryon Street|Suite 1600|Charlotte
-1|Clinical Ink Inc|525 Vine Street, Suite 130||Winston Salem
-1|Manufacturing Compliance and Automation Services Inc|530 Hinton Pond Road|Suite 112|Knightdale
-1|Laboratory Corporation of America Holdings|531 S Spring Street||Burlington
-1|Techvision Inc|538 Tranquil Sound Drive||Cary
-1|Urjha QuesTech Inc|5400 Centerview Dr|Ste 200|Raleigh
-1|Veranex Inc|5420  Wade Park Blvd , STE 204||Raleigh
-1|Veranex Inc|5420 Wade Park Blvd|Suite 204|Raleigh
-1|Vernaex Inc|5420 Wade Park Blvd, Ste 204||Raleigh
-1|Veranex Inc|5420 Wade Park Blvd, Ste. 204||Raleigh
-1|Veranex Inc|5420 Wade Park Blvd.|Suite 204|Raleigh
-1|PrimeVigilance USA Inc|5430 Wade Park Blvd.|Suite 208|Raleigh
-1|Intelligaia LLC|548 Spire Bend||Apex
-1|Randomanalytics LLC|5511 Nur Ln||Raleigh
-1|TSG Consulting LLC|5540 Centerview Dr.|Suite 204, PMB 29053|Raleigh
-1|GlobalXperts Inc|5540 Centerview Drive, Suite 200||Raleigh
-1|Digital.ai Software Inc|555 Fayetteville St.|Suite 210|Raleigh
-1|Zelecloud LLC|555 Fayetteville Street, Suite   300,||Raleigh
-1|Atlas Intermediate LLC|555 S Mangum St|Suite 100|Durham
-1|A1 BIOCHEM LABS LLC|5598 Marvin K Moss Lane|Suite 2017|Wilmington
-1|SKILLO INC|5601 Executive Center Dr.|Suite 215|Charlotte
-1|Triangle Accounting Inc|563 Hunter Glen Ln||Siler City
-1|Calyptix Security Corporation|5701 Westpark Drive|Suite 201|Charlotte
-1|BLOQ INC|575 E 4TH STREET||WINSTON SALEM
-1|Bloq Inc|575 E 4th St.||Winston Salem
-1|Booth and Associates LLC|5811 Glenwood Avenue|Suite 109|Raleigh
-1|RADIAN ELECTRIC LLC|5821 FAIRVIEW ROAD|SUITE 201|CHARLOTTE
-1|SunTechPros Inc|5920 S. Miami Blvd, Suite 205-B||Morrisville
-1|JM Hospitality Solutions LLC|5920 S. Miami Blvd., Suite 202||Morrisville
-1|Advanced Data and Network Solutions Inc|60 Ravenscroft Drive||Asheville
-1|Worldwide Clinical Trials Holdings Inc|600 Park Office Drive|Suite 200|Research Triangle Park
-1|iTalenta Inc|6000 Fairview Road|Suite 1200|Charlotte
-1|iTalenta Inc|6000 Fairview Road Suite 1200||Charlotte
-1|Syntax Systems USA, LP|601 Keystone Park|Suite 600|Morrisville
-1|Syntax Systems USA, LP|601 Keystone Park Drive|Suite 600|Morrisville
-1|Big Max LLC|601 New Jersey Church Road||Lexington
-1|Koala Craft LLC|601 W Rosemary St|Unit 107|Chapel Hill
-1|Symbrium Inc|6021 Triangle Drive||Raleigh
-1|Merriman Schmitt/Architects Inc|605 Lexington Avenue|Suite 300|Charlotte
-1|Nationwide Marketing Group LLC|609 N. Liberty Street||Winston Salem
-1|China Construction America of South Carolina Inc|6100 Fairview Road|Suite 616|Charlotte
-1|New Math Data LLC|6132 Balham Ct.||Charlotte
-1|ASP Inc|614 Gravel Brook Court||Cary
-1|LITTLE DIVERSIFIED ARCHITECTURAL CONSULTING INC|615  SOUTH COLLEGE ST.|SUITE 1600|CHARLOTTE
-1|Baebies Inc|615 Davis Drive|Suite 800|Durham
-1|Direct Digital LLC|615 S College Street|Suite 1300|Charlotte
-1|Direct Digital LLC|615 S. College St.|Suite 1300|Charlotte
-1|GXO Logistics Corporate Services Inc|615 South College St|9th Floor|Charlotte
-1|GXO Logistics Corporate Services Inc|615 South Street|9th Floor|Charlotte
-1|Symmetry Biosciences Inc|617 Hutton Street, Suite 111||Raleigh
-1|Epic Games Inc|620 Crossroads Blvd.||Cary
-1|Parker Poe Adams & Bernstein LLP|620 South Tryon Street|Suite 800|Charlotte
-1|Dream IT Group Inc|6201 Fairview Road|Suite 200|Charlotte
-1|MASTEK IT LLC|624 Matthews Mint Hill Road,|Suite 110|Matthews
-1|MAS TEK IT LLC|624 Matthews-Mint Hill Road|Ste 110|Matthews
-1|Syntax Systems Ltd. LLC|629 Davis Dr|Suite 600|Morrisville
-1|Syntax Systems USA, LP|629 Davis Drive|Suite 600|Morrisville
-1|Clinical Ink Inc|632 W. 4th Street||Winston Salem
-1|Cary Animal Care PLLC|6471 Triangle Plantation Dr|Suite 101|Raleigh
-1|Cary Animal Care PLLC|6471 Triangle Plantation Dr, Suite 101||Raleigh
-1|ArcLight Wireless Inc|65 TW ALEXANDER DR|Suite 12721|DURHAM
-1|Arclight Wireless LLC|65 TW Alexander Drive|Suite 12721|Research Triangle Park
-1|Figure Lending LLC|650 S. Tryon St.|8th Floor|Charlotte
-1|Laut Design Inc|6509 Hilburn Drive||Raleigh
-1|LinxAi Inc|6512 Six Ford Road|Suite 304 A|Raleigh
-1|FDH Infrastructure Services LLC|6521 Meridien Dr.||Raleigh
-1|Teksolve IT Solutions LLC|6701 Carmel Road|Suite 100|Charlotte
-1|Speedshield Technologies LLC|675 West Fire Tower Road|Suite F|Winterville
-1|Chemtex Global Corporation|6752 Rock Spring Road|Suite 300B|Wilmington
-1|nCino Inc|6770 Parker Farm Dr|Ste 200|Wilmington
-1|Murano Corporation|68 T.W. Alexander Drive|Suite 207|Durham
-1|Murano Corporation|68 TW Alexander Drive|Suite 207|Durham
-1|Strong Rock Engineering Group, PLLC|6801 Falls of Neuse Road|Suite 108|Raleigh
-1|Pesta, Finnie & Associates, LLP|6826 Carnegie Blvd.||Charlotte
-1|Payment Collect LLC|70 Charlotte Street|Suite 002|Asheville
-1|JAGGAER LLC|700 Park Offices|Suite 300|Research Triangle Park
-1|Arrowlytics LLC|700 Spring Forest Road|Suite 400|Raleigh
-1|AANVI CLOUD TECHNOLOGIES INC|7004 WALKERS RUN DR.||MONROE
-1|Aanvi Cloud Technologies Inc|7004 Walkers Run Dr|N/A|Monroe
-1|Cary Animal Care PLLC|702 Cary Towne Blvd||Cary
-1|Netgroup Inc|7025 Albert Pick Road|Suite 100|Greensboro
-1|New Math Data LLC|7034 N Bridge Drive||Huntersville
-1|EPR IT Solutions LLC|7137 Maple Run Circle||Charlotte
-1|K Shaw Shipping LLC|7138 Kidville Road||Denver
-1|Trelleborg Coated Systems US Inc|715 Railroad Ave||Rutherfordton
-1|Trelleborg Coated Systems US Inc|715 Railroad Avenue||Rutherfordton
-1|Stewart-Cooper-Newell Architects, P.A.|719 E. Second Avenue||Gastonia
-1|Emendo Inc|727 W Hargett St.|Suite 101|Raleigh
-1|Emendo Inc|727 W. Hargett St.|STE 101|Raleigh
-1|Martin Starnes & Associates CPAs, PA|730 13th Avenue Drive, SE||Hickory
-1|LXD Research & Display LLC|7300 ACC Blvd.||Raleigh
-1|DataStack Technologies LLC|7300 Carmel Executive Park|Suite 320|Charlotte
-1|DataStack Technologies LLC|7300 Carmel Executive Park Dr|Suite 320|Charlotte
-1|DESAI & MEHTA CPAS PLLC|7301 CARMEL EXECUTIVE PARK DRIVE|SUITE 320|CHARLOTTE
-1|Acoustical Consultants Inc|7330 Chapel Hill Road|Suite 201|Raleigh
-1|Dynpro Inc|7412 Chapel Hill Road||Raleigh
-1|Sable Fermentation Inc|745 Merritt Capital Dr.|Unit 122|Wake Forest
-1|EnterOne Corporation|747 Sandy Ridge Road||Tyner
-1|Renata LLC|7511 Cove Point Dr.|Apt. 37|Raleigh
-1|Pageone Systems Inc|7525 Marchand Lane|Suite 505|Charlotte
-1|Pageone Systems Inc|7525 Marchand Ln|Suite 505|Charlotte
-1|9M Solutions Inc|756 TYOLA ROAD|SUITE 143|CHARLOTTE
-1|Summit Billing Service Inc|76 Peachtree Road|Suite 300|Asheville
-1|Agrata Technology Solutions LLC|7600 Meadow Grove Dr||Waxhaw
-1|Agrata Technology Solutions LLC|7600 Meadow Grove Dr.||Waxhaw
-1|Brimma Tech Inc|7605 Carrick Hill Court||Wake Forest
-1|Novozymes North America Inc|77 Perrys Chapel Church Road||Franklinton
-1|Entrinsik Inc|7721 Six Forks Road|Suite 100|Raleigh
-1|Bharat Forge Aluminum USA Inc|777 Kalyani Way||Sanford
-1|Finley Design PA|7806 NC Hwy 751, Suite 110||Durham
-1|New Math Data LLC|7840 Grand Estate Drive|2011|Raleigh
-1|Overture Inc|7858 Clinard Farms Road||High Point
-1|Venture Back Office LLC|790 SE Cary Pkwy|Suite 204|Cary
-1|International Education Evaluations LLC|7900 Matthews Mint Hill Road|Suite 1A|Charlotte
-1|SKA Consulting Engineers Inc|7900 Triad Center Drive|Suite 200|Greensboro
-1|ConMoto Consulting Group Inc|7930 W. Kenton Circle|Suite 130|Huntersville
-1|Element-360 LLC|797 Haywood Road, Suite 202||Asheville
-1|TCRCure Biopharma Corp.|8 Davis Dr., Suite 330||Durham
-1|Zymtronix Catalytic Systems Inc|8 Davis Drive, Suite 334|Alexandria Center for Advanced Technologies|Durham
-1|Technologies Edge Inc|80 Spring St. SW||Concord
-1|Clear Thought Solutions LLC|800 PINNER WEALD WAY STE 202||Cary
-1|KUBE CLOUDS INC|800 PINNER WEALD WAY,|STE 201|CARY
-1|The Reliable Solutions Group LLC|800 Park Offices Dr|Suite 3613|Durham
-1|Intelligaia LLC|800 Park Offices Dr.|Suite 406|Durham
-1|Smarttrak LLC|800 Park Offices Drive Research Triangle Park|Suite 3510|Durham
-1|Clear Thought Solutions LLC|800 Pinner Weald Way  202||Cary
-1|Kinexo Inc|800 Tiffany Blvd.|Suite 300|Rocky Mount
-1|Tekfinite Inc|800 W Williams St|Suite 231 D|Apex
-1|Sitation LLC|800 West Williams Street|Suite 251A|Apex
-1|Kaizen Marketing Inc|800 Westmere Ave|Suite 207|Charlotte
-1|cPrime Inc|8000 Regency Parkway|Suite 675|Cary
-1|SILVERFALLS SOLUTIONS INC|8004 Linville Road Suite C-1||Oak Ridge
-1|Xpand IT Solutions Inc|8008 Corporate Center Dr|Ste 100|Charlotte
-1|American Engineering Associates - Southeast PA|8008 Corporate Center Drive|Suite 110|Charlotte
-1|AJK TECH INSIGHTS LLC|8024 GLENWOOD AVE|SUITE 305|RALEIGH
-1|Dynpro Inc|8045 Arco Corporate Drive, Suite 370||Raleigh
-1|Brij Image and Information Inc|806 Green Valley Road|Suite 200|Greensboro
-1|Pairwise Plants Services Inc|807 East Main Street|Suite 4 100|Durham
-1|Pairwise Plants|807 East Maine Street|Suite 4 100|Durham
-1|Vankay Systems Inc|817 New Bern||Raleigh
-1|Vankay Systems Inc|817 New Bern Ave|Suite 7|Raleigh
-1|VANKAY SYSTEMS INC|817 New Bern Avenue|Ste 7|Raleigh
-1|Alliance of Professionals & Consultants Inc|8200 Brownleigh Drive||Raleigh
-1|Aptiva Corp|825 Georges Road|Suite 1|North Brunswick
-1|AVASA IT SOLUTIONS LLC|8301 University Executive Park Drive|STE 124|Charlotte
-1|Webonise US LLC|8354 Six Forks Road|Suite 204|Raleigh
-1|Elysia Creative Biology Inc|840 Oval Drive|Floor 3|Raleigh
-1|AVASA IT SOLUTIONS LLC|8401 University Executive Park Dr|STE 126|Charlotte
-1|Tek Nest Inc|8420 Executive Park Drive, Suite 810||Charlotte
-1|VBRIDGEIT INC|8420 University Executive Dr|Suite 810|Charlotte
-1|VBRIDGEIT INC|8420 University Executive Park Dr|Suite 810|Charlotte
-1|VIDLEXINFO LLC|8420 University Executive Park Dr.|Suite 810|Charlotte
-1|AVASA IT SOLUTIONS LLC|8430 University Executive Park Drive|STE 670|Charlotte
-1|Vector Psychometric Group LLC|847 Emily Ln||Chapel Hill
-1|COGNIT AI INC|849 Westway St||Elizabeth
-1|Tookitaki Inc|8514 McAlpine Park Dr|Suite 290|Charlotte
-1|Promantus Inc|8521 Six Forks Road|Suite 108|Raleigh
-1|Cargo Logistics Network Company|8530 Steele Creek Place Drive|Ste A|Charlotte
-1|Honeywell International Inc|855 S Mint||Charlotte
-1|Honeywell International Inc|855 S Mint St||Charlotte
-1|Elite Tech Solute Inc|859 Shadow Elm Dr|Apt C|Charlotte
-1|JDS Consulting PLLC|8600 Jersey Court|Suite D|Raleigh
-1|Concor IT Solutions Inc|8604 Cliff Cameron Dr|Suite 150|Charlotte
-1|Concor IT Solutions Inc|8604 Cliff Cameron Drive|Suite 150|Charlotte
-1|Drumetix Laboratories LLC|8646 West Market Street|Suite 112|Greensboro
-1|Accelerate Engineering, PLLC|875 Walnut Street|Suite 316|Cary
-1|Technology Partners LLC|8757 Red Oak Blvd||Charlotte
-1|Technology Partners LLC|8757 Red Oak Blvd.||Charlotte
-1|Ardor IT Solutions Inc|8801 J M Keynes Dr|STE 290|Charlotte
-1|ARDOR IT SOLUTIONS INC|8801 J M Keynes Dr Ste 290||Charlotte
-1|ARDOR IT SOLUTIONS INC|8801 J M Keynes Drive|Suite 290|Charlotte
-1|ARDORITSOLUTIONS INC|8801 JM KEYNED DRIVE|SUITE 290|Charlotte
-1|ARDOR IT SOLUTIONS INC|8801 JM KEYNES DR,|SUITE 290,|CHARLOTTE
-1|UPSI IT INC|8801 JM KEYNES DR, SUITE 290||CHARLOTTE
-1|ARDOR IT SOLUTIONS INC|8801 JM KEYNES DR, SUITE 290,CHARLOTTE,NC 28262||CHARLOTTE, NC, 28262
-1|MGID Inc|8809 Man Of War Dr||Waxhaw
-1|Amko Software Solutions Inc|8819 University E. Drive|Suite 105|Charlotte
-1|Rubistone Technologies LLC|8819 University East D|Suite 200|Charlotte
-1|NEXGEN SAVVY SOLUTIONS LLC|8821 UNIVERSITY EAST DRIVE|SUITE 200|CHARLOTTE
-1|Metrix IT Solutions INC|8832 Blakeney Professional Dr.|Suite 205|Charlotte
-1|Metrix IT Solutions Inc|8832 Blakeney Professional Drive|Suite 205|Charlotte
-1|BYTEMINDS IT INC|8927 J M KEYNES DR|STE 380|CHARLOTTE
-1|INTVERSE INC|8936 N Pointe Executive Park Dr|Suite 185|Huntersville
-1|Reacredence IT Solutions Inc|8936 Northpointe Executive Park Dr.|Suite 240|Huntersville
-1|TCRCURE BIOPHARMA CORP.|9 Laboratory Dr|Suite 266|Durham
-1|BIOMILQ Inc|9 Laboratory Drive, Suite 158||Durham
-1|ALB Design Inc|901 Berryhill Road|Suite B1|Charlotte
-1|The Law Offices of Attorney Timothy J. Pavone, PLLC|901 E 4th Street|Unit B|Charlotte
-1|Linxon US LLC|901 Main Campus Dr.||Raleigh
-1|Linxon US LLC|901 Main Campus Drive|Suite 210|Raleigh
-1|MA ART & DESIGN LLC|901 Staghorn Lane||Waxhaw
-1|Spark ITR LLC|904 Iverton Ln.,||Cary
-1|Beroe Holdings Inc|909 Capability Drive|Suite 2050|Raleigh
-1|CISYS Inc|911 Paverstone Drive, Suite D||Raleigh
-1|DataWise LLC|9111 Kristen Lake Ct.||Charlotte
-1|Fitzpatrick Engineering Group, PLLC|9115 Harris Corners Parkway, Suite 400||Charlotte
-1|GK Software USA Inc|9121 Anson Way|Suite 150|Raleigh
-1|QC Consulting Group LLC|9140 Arrowpoint Blvd|Ste 220|Charlotte
-1|Novus Resources Inc|92 Cornerstone Drive|Suite 156|Cary
-1|JMP Statistical Discovery LLC|920 SAS Campus Dr||Cary
-1|TOPQUADRANT INC|930 MAIN CAMPUS DRIVE|SUITE 300|RALEIGH
-1|Avast Software Inc|9300 Harris Corners Pkwy|Suite 450|Charlotte
-1|Workflow Informatics Corp.|9316 Bramden Ct||Wake Forest
-1|BatteryXchange Inc|933 Louise Ave  101||Charlotte
-1|West Cary Animal Care PLLC|934 US-64||Apex
-1|Techmeraki Solutions LLC|9523 Shumacher Ave NW||Concord
-1|Core Cloud Technologies LLC|9539 Pinnacle Dr  STE   340||Charlotte
-1|Core Cloud Technologies LLC|9539 Pinnacle Dr STE   340||Charlotte
-1|Core Cloud Technologies LLC|9539 Pinnacle Dr., STE 340||Charlotte
-1|BlueMapleIT LLC|9635 Southern Pine Boulevard|Suite 103|Charlotte
-1|Tompkins Robotics Inc|9660 Falls of Neuse|Suite 138|Raleigh
-1|Tompkins Robotics Inc|9660 Falls of Neuse Road|Suite 138|Raleigh
-1|Eversoft Technologies LLC|9700  Research Drive|Suite 142|Charlotte
-1|Revotyx LLC|9711 David Taylor Dr|Suite 113|Charlotte
-1|BioCytics Inc|9801 Kincey Ave|Suite 145|Huntersville, NC, USA
-1|BioCytics Inc|9801 Kincey Avenue|Suite 145|Huntersville
-1|New Math Data LLC|9810 Campus Walk Lane|M.|Charlotte
-1|ONE BRICK TECH LLC|9820 NORTHCROSS CENTER COURT|SUITE 115|HUNTERSVILLE
-1|Midwest Veterinary Hospitals, PLLC|99 Success Court||Rocky Mount
-1|MPAY Inc|9920  Kincey Avenue|STE 110|Huntersville
-1|Brandon Meyer Law Group Inc|9935-D Rea Road  248||Charlotte
-1|Alten Technology USA|Alten Technology USA|7830 Thorndike Road|Greensboro
-1|3 ITEK LLC|E1913-204 J.N. PEASE PLAC|UNIVERSITY RIDGE OFFICE CENTER|CHARLOTTE
-1|Kimley-Horn and Associates Inc|Fayetteville Street||Raleigh
-1|ACCRUE SELECT INC|IMPERIAL BUSINESS PARK - 4819 EMPEROR BOULEVAROAD|SUITE 400|DURHAM
-1|ACCRUE SELECT INC|IMPERIAL BUSINESS PARK, 4819 EMPEROR BOULEVAROAD|SUITE 400|DURHAM
-1|Accrue Select Inc|Imperial Business Park|4819 Emperor Boulevard, Suite 400|Durham
-1|Accrue Select Inc|Imperial Business Park 4819 Emperor Boulevard|Suite 400|Durham
-1|Infotek Groups Inc|Infotek Groups Inc|STE 300|Durham
-1|INMAR CLEARING INC|ONE WEST FOURTH ST.|SUITE 500|WINSTON SALEM
-1|Bennett Aerospace Inc|One Glenwood Avenue|5th Floor|Raleigh
-1|Center for Creative Leadership|One Leadership Place||Greensboro
-1|Vrettos Pappas Consulting Engineers, P.A.|P.O. Box 12540||Charlotte
-1|Emporos Systems Operations|P.O. Box 32397||Charlotte
-1|Betior INC|PO Box 1205||Apex
-1|Big Frog Media LLC|PO Box 12247||Wilmington
-1|Pike Engineering LLC|PO Box 868||Mount Airy
-1|SLN SOLUTIONS LLC|RTP MERIDIAN 2530 MERIDIAN PARKWAY|SUITE 300|DURHAM
-1|McKim & Creed Inc|Venture IV, 1730 Varsity Dr  500||Raleigh
-1|Elint Pro Solutions LLC|Waxhaw Parkway, Suite E - 109||Waxhaw
-(2035 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+12|ACROTEK IT SOLUTIONS INC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|CLOUDSPACE LLC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|GVKTEK INC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|INTECA IT SOLUTIONS LLC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|METRIX IT SOLUTIONS INC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|NEXUS AI SOLUTIONS INC |10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|PERFICIENTCORP INC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|SAMHIRES LLC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|TECHOPS DIGITAL LLC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|TILA TECHNOLOGIES INC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|TILA TILATECHNOLOGIES INC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+12|VIDLEXINFO LLC|10130 MALLARD CREEK ROAD|CHARLOTTE|NC
+8|AADHYA INFOTECH|301 MCCULLOUGH DR|CHARLOTTE|NC
+8|AADHYA INFOTECH LLC|301 MCCULLOUGH DR|CHARLOTTE|NC
+8|ANALYTE IT SERVICES LLC|4819 EMPEROR BLVD|DURHAM|NC
+8|CANDORSOFT TECHNOLOGIES LLC|4819 EMPEROR BLVD|DURHAM|NC
+8|CLARKSTECH LLC|301 MCCULLOUGH DR|CHARLOTTE|NC
+8|COGENT CUBE LLC|301 MCCULLOUGH DR|CHARLOTTE|NC
+8|CONCOR IT SOLUTIONS INC|301 MCCULLOUGH DR|CHARLOTTE|NC
+8|CREDENCE CONSULTING SERVICES INC|4819 EMPEROR BLVD|DURHAM|NC
+8|GAIT SOLUTIONS LLC|4819 EMPEROR BLVD|DURHAM|NC
+8|INFINICS INC|301 MCCULLOUGH DR|CHARLOTTE|NC
+8|LORVISH TECHNOLOGIES INC|4819 EMPEROR BLVD|DURHAM|NC
+8|MARVEL TECH GROUPS INC|4819 EMPEROR BLVD|DURHAM|NC
+8|PERIGON INFOTECH INC|4819 EMPEROR BLVD|DURHAM|NC
+8|SAAP TECH SOLUTIONS LLC|301 MCCULLOUGH DR|CHARLOTTE|NC
+8|SOFTTECHERS LLC|301 MCCULLOUGH DR|CHARLOTTE|NC
+8|VR ITECH CONSULTING LLC|4819 EMPEROR BLVD|DURHAM|NC
+7|CLOUDREX LLC|1135 KILDAIRE FARM ROAD|CARY|NC
+7|EMINENCE IT SOLUTIONS INC|1135 KILDAIRE FARM ROAD|CARY|NC
+7|FEATHER TECHNOLOGIES INC|1135 KILDAIRE FARM ROAD|CARY|NC
+7|PREMIUM PEOPLE GROUP LLC|1135 KILDAIRE FARM ROAD|CARY|NC
+7|PUNDIT INC|1135 KILDAIRE FARM ROAD|CARY|NC
+7|SKILL BUDDY INC|1135 KILDAIRE FARM ROAD|CARY|NC
+7|TORQUE TECHNOLOGIES LLC|1135 KILDAIRE FARM ROAD|CARY|NC
+6|ADROTEK SOLUTIONS LLC|301 MCCULLOUGH DRIVE|CHARLOTTE|NC
+6|BYTEBRIDGE TECHNOLOGIES INC|301 MCCULLOUGH DRIVE|CHARLOTTE|NC
+6|CLOUD SYSTEMS LLC|301 MCCULLOUGH DRIVE|CHARLOTTE|NC
+6|EVERSOFT TECHNOLOGIES LLC|9700 RESEARCH DRIVE|CHARLOTTE|NC
+6|META IT SYSTEMS LLC|301 MCCULLOUGH DRIVE|CHARLOTTE|NC
+6|ORIGINTEK SOLUTIONS LLC|9700 RESEARCH DRIVE|CHARLOTTE|NC
+6|PNK CONNECTIONS LLC|301 MCCULLOUGH DRIVE|CHARLOTTE|NC
+6|SAAP TECH SOLUTIONS LLC|301 MCCULLOUGH DRIVE|CHARLOTTE|NC
+6|TECHSUFFICE LLC|9700 RESEARCH DRIVE|CHARLOTTE|NC
+6|UI PATH TEK LLC|9700 RESEARCH DRIVE|CHARLOTTE|NC
+6|UIPATHTEK LLC|9700 RESEARCH DRIVE|CHARLOTTE|NC
+6|VEEHA IT SOLUTIONS LLC|9700 RESEARCH DRIVE|CHARLOTTE|NC
+4|ALGOSPARK TECHNOLOGIES LLC|15000 WESTON PARKWAY|CARY|NC
+4|AMP SOLUTIONS LLC|8307 UNIVERSITY EXECUTIVE PARK DRIVE|CHARLOTTE|NC
+4|APPLOGICS LLC|15000 WESTON PARKWAY|CARY|NC
+4|CSV INFORMATICS LLC|2530 MERIDIAN PARKWAY|DURHAM|NC
+4|DATA CARBON LLC|600 PARK OFFICES DRIVE|DURHAM|NC
+4|DEVXPACE LLC|15000 WESTON PARKWAY|CARY|NC
+4|DIGI CLOUD LLC|8307 UNIVERSITY EXECUTIVE PARK DRIVE|CHARLOTTE|NC
+4|EAPPS TECH LLC|1000 BEAR CAT WAY|MORRISVILLE|NC
+4|ENTERPRISE QA LABS INC|2530 MERIDIAN PARKWAY|DURHAM|NC
+4|GO8 IT INC|11220 ELM LANE|CHARLOTTE|NC
+4|GO8IT INC|11220 ELM LANE|CHARLOTTE|NC
+4|INFOTEK GROUPS INC|2530 MERIDIAN PARKWAY|DURHAM|NC
+4|IRADIUS INC|15000 WESTON PARKWAY|CARY|NC
+4|IT KEYSOURCE INC|11220 ELM LANE|CHARLOTTE|NC
+4|JPS TECH SOLUTIONS LLC|1000 BEAR CAT WAY|MORRISVILLE|NC
+4|KDEX GLOBAL LLC|600 PARK OFFICES DRIVE|DURHAM|NC
+4|KUBE CLOUDS INC|1000 BEAR CAT WAY|MORRISVILLE|NC
+4|NIYANTRA INC|600 PARK OFFICES DRIVE|DURHAM|NC
+4|PERIGON INFOTECH INC|4819 EMPEROR BLVD.|DURHAM|NC
+4|PROSQUIRE LLC|600 PARK OFFICES DRIVE|DURHAM|NC
+4|RACOM SOFTWARE SERVICES LLC|4819 EMPEROR BLVD.|DURHAM|NC
+4|RADCOM SOFTWARE SERVICES LLC|4819 EMPEROR BLVD.|DURHAM|NC
+4|SWIFTWIN SOLUTIONS INC |11220 ELM LANE|CHARLOTTE|NC
+4|UI PATH TEK LLC|8307 UNIVERSITY EXECUTIVE PARK DRIVE|CHARLOTTE|NC
+4|UIPATHTEK LLC|8307 UNIVERSITY EXECUTIVE PARK DRIVE|CHARLOTTE|NC
+4|VARUNAVI IT CONSULTANTS INC|1000 BEAR CAT WAY|MORRISVILLE|NC
+4|VR ITECH CONSULTING L.L.C.|4819 EMPEROR BLVD.|DURHAM|NC
+4|YJ INFOTECH LLC|2530 MERIDIAN PARKWAY|DURHAM|NC
+3|ARDOR IT SOLUTIONS INC|8801 JM KEYNES DR|CHARLOTTE, NC, 28262|NC
+3|ARDOR IT SOLUTIONS INC|8801 JM KEYNES DR|CHARLOTTE|NC
+3|ARDORITSOLUTIONS INC|8801 JM KEYNES DR|CHARLOTTE|NC
+3|BRUMASOFT LLC|2015 AYRSLEY TOWN BLVD|CHARLOTTE|NC
+3|CLOUD NINE TEK LLC|10735 DAVID TAYLOR DR|CHARLOTTE|NC
+3|CLOUD SPACE LLC|1909 J N PEASE PLACE|CHARLOTTE|NC
+3|CLOUDNINE TEK LLC|10735 DAVID TAYLOR DR|CHARLOTTE|NC
+3|CLOUDNINETEK LLC|10735 DAVID TAYLOR DR|CHARLOTTE|NC
+3|CLOUDSPACE LLC|1909 J N PEASE PLACE|CHARLOTTE|NC
+3|COSMORYZE LLC|1263 ARROW PINE DRIVE|CHARLOTTE|NC
+3|CRAFTNER INC|10150 MALLARD CREEK ROAD|CHARLOTTE|NC
+3|CYGTEC INC|6512 SIX FORKS ROAD|RALEIGH|NC
+3|D2SOL INC|5920 S MIAMI BLVD|MORRISVILLE|NC
+3|DATALORE TECHNOLOGIES INC|133 KEYBRIDGE DR|MORRISVILLE|NC
+3|DCUBE SOLUTIONS|800 PARK OFFICES DRIVE|DURHAM|NC
+3|DCUBE SOLUTIONS|800 PARK OFFICES DRIVE|RESEARCH TRIANGLE PARK|NC
+3|DEV SYSTEMS INC|3230 PROSPERITY CHURCH ROAD|CHARLOTTE|NC
+3|EHIKA LLC|101 NORTH TRYON STREET|CHARLOTTE|NC
+3|ELEVATEX LLC|9700 RESEARCH DR|CHARLOTTE|NC
+3|ELITEGEEK SOLUTIONS LLC|3230 PROSPERITY CHURCH ROAD|CHARLOTTE|NC
+3|ELITEGEEK SOLUTIONS LLCSSSSSS|3230 PROSPERITY CHURCH ROAD|CHARLOTTE|NC
+3|ERP TECH SOLUTIONS LLC|1263 ARROW PINE DRIVE|CHARLOTTE|NC
+3|ERP TECH SOLUTIONS LLC|15720 BRIXHAM HILL AVENUE|CHARLOTTE|NC
+3|ETYME INC|150 PRESTON EXECUTIVE DR|CARY|NC
+3|EUCLID INNOVATIONS INC|15720 BRIXHAM HILL AVENUE|CHARLOTTE|NC
+3|EVAL CONSULTING INC|101 NORTH TRYON STREET|CHARLOTTE|NC
+3|EVERSOFT TECHNOLOGIES LLC|9700 RESEARCH DR|CHARLOTTE|NC
+3|EVERSOFT TECHNOLOGIES LLC|10150 MALLARD CREEK ROAD|CHARLOTTE|NC
+3|FLEXGEN HOLDINGS INC|280 S. MANGUM STREET|DURHAM|NC
+3|FLEXGEN POWER SYSTEMS|280 S. MANGUM STREET|DURHAM|NC
+3|FLEXGEN POWER SYSTEMS LLC|280 S. MANGUM STREET|DURHAM|NC
+3|GANGES SYSTEMS LLC|1263 ARROW PINE DRIVE|CHARLOTTE|NC
+3|GREENPOINT IT LLC|150 PRESTON EXECUTIVE DR|CARY|NC
+3|IBM CORPORATION|3039 CORNWALLIS ROAD|DURHAM|NC
+3|IBM INDIA PRIVATE LIMITED|3039 CORNWALLIS ROAD|DURHAM|NC
+3|INFOEXCEL INC|2530 MERIDIAN PKWY|DURHAM|NC
+3|INSIGHT INTELLI INC|1909 J N PEASE PLACE|CHARLOTTE|NC
+3|INTERNATIONAL BUSINESS MACHINES CORPORATION|3039 CORNWALLIS ROAD|DURHAM|NC
+3|IT VISION INC|5000 CENTRE GREEN WAY|CARY|NC
+3|KDEX GLOBAL LLC|800 PARK OFFICES DRIVE|DURHAM|NC
+3|KRONSYS INC|6512 SIX FORKS ROAD|RALEIGH|NC
+3|LINXAI INC|6512 SIX FORKS ROAD|RALEIGH|NC
+3|MAS TEK IT LLC|624 MATTHEWS MINT-HILL ROAD|MATTHEWS|NC
+3|MASTEK IT LLC|624 MATTHEWS MINT-HILL ROAD|MATTHEWS|NC
+3|MAVEN TECHNOLOGIES LLC|624 MATTHEWS MINT-HILL ROAD|MATTHEWS|NC
+3|NEXTGEN SOLUTIONS INC|11020 DAVID TAYLOR DRIVE|CHARLOTTE|NC
+3|NITYOSOFT INCORPORATED|1973 J N PEASE PL|CHARLOTTE|NC
+3|PERDIS AI LLC|2015 AYRSLEY TOWN BLVD|CHARLOTTE|NC
+3|PRISTINE EMBED TECHNOLOGIES INC|9700 RESEARCH DR|CHARLOTTE|NC
+3|SAHAA SOLUTIONS LLC|150 CORNERSTONE DRIVE|CARY|NC
+3|SAIN TECHNOLOGIES LLC|5920 S MIAMI BLVD|MORRISVILLE|NC
+3|SANSOFT LLC|133 KEYBRIDGE DR|MORRISVILLE|NC
+3|SG SOFTECH LLC|15720 BRIXHAM HILL AVENUE|CHARLOTTE|NC
+3|SHRIVE SOLUTIONS LLC|10150 MALLARD CREEK ROAD|CHARLOTTE|NC
+3|SIGNATURE IT SOLUTIONS INC|11020 DAVID TAYLOR DRIVE|CHARLOTTE|NC
+3|SPRYDO SYSTEMS LLC|1973 J N PEASE PL|CHARLOTTE|NC
+3|SPRYDOSYSTEMS LLC|1973 J N PEASE PL|CHARLOTTE|NC
+3|ST TECH INC|5000 CENTRE GREEN WAY|CARY|NC
+3|STAT9 TECHNOLOGIES INC|5000 CENTRE GREEN WAY|CARY|NC
+3|SUNRISE INFOTEK CORP|150 CORNERSTONE DRIVE|CARY|NC
+3|SUNTECHPROS INC|5920 S. MIAMI BLVD|MORRISVILLE|NC
+3|SYNTACTECH INC|150 PRESTON EXECUTIVE DR|CARY|NC
+3|TABNER INC|11020 DAVID TAYLOR DRIVE|CHARLOTTE|NC
+3|TECHNOSOFT ENGINEERING INC|600 AIRPORT BLVD|MORRISVILLE|NC
+3|TECHNOSOFT INNOVATIONS INC|600 AIRPORT BLVD|MORRISVILLE|NC
+3|TECHNOSOFT SERVICES INC|600 AIRPORT BLVD|MORRISVILLE|NC
+3|TEK MINDED INC|133 KEYBRIDGE DR|MORRISVILLE|NC
+3|TEKNOSYS INC|5920 S. MIAMI BLVD|RALEIGH|NC
+3|TEKNOSYS INC|5920 S. MIAMI BLVD|MORRISVILLE|NC
+3|TEKSPHERE SOLUTIONS INC|2530 MERIDIAN PKWY|DURHAM|NC
+3|TREEALGO LLC|2015 AYRSLEY TOWN BLVD|CHARLOTTE|NC
+3|VENCEDOR SOFTWARE GROUP INC|150 CORNERSTONE DRIVE|CARY|NC
+3|VIKSAN INC|101 NORTH TRYON STREET|CHARLOTTE|NC
+3|WINSAI LLC|5920 S MIAMI BLVD|MORRISVILLE|NC
+3|ZHP SERVICES LLC|2530 MERIDIAN PKWY|DURHAM|NC
+2|AANVI CLOUD TECHNOLOGIES INC|10643 KETTERING DRIVE|CHARLOTTE|NC
+2|ADDEPTO IT SOLUTIONS LLC|11020 DAVID TAYLOR DR|CHARLOTTE|NC
+2|AFFINTRIX TECHNOLOGIES LLC|2313 TERRMINI DR.|APEX|NC
+2|ALLSCRIPTS MANAGED SERVICES LLC|305 CHURCH AT NORTH HILLS STREET|RALEIGH|NC
+2|ALLSCRIPTS MANAGED SERVICES LLC|305 CHURCH AT NORTH HILLS ST|RALEIGH|NC
+2|ALTEN TECHNOLOGY USA INC|7830 THORNDIKE ROAD|GREENSBORO|NC
+2|ALTERA DIGITAL HEALTH INC|305 CHURCH AT NORTH HILLS ST|RALEIGH|NC
+2|ALTERA DIGITAL HEALTH INC|305 CHURCH AT NORTH HILLS STREET|RALEIGH|NC
+2|AMBAH TECHNOLOGIES LLC|2313 TERRMINI DR.|APEX|NC
+2|AMP SOLUTIONS LLC|10200 MALLARD CREEK ROAD, SUITE 102|CHARLOTTE|NC
+2|ARCHE GROUP INC|532 PATTERSON AVE|MOORESVILLE,|NC
+2|ARCHE GROUP INC|532 PATTERSON AVE|MOORESVILLE|NC
+2|ARCLIGHT WIRELESS INC|65 TW ALEXANDER DR.|DURHAM|NC
+2|ARCLIGHT WIRELESS LLC|65 TW ALEXANDER DR.|RESEARCH TRIANGLE PARK|NC
+2|ARDOR IT SYSTEMS LLC|1905 J N PEASE PL|CHARLOTTE|NC
+2|ARTIFICIAL INVENTIONS LLC|1977 J N PEASE PLACE|CHARLOTTE|NC
+2|ASSET ANALYTIX INC|210 JOSEPH POND LANE|CARY|NC
+2|ATA ANALYTIQ LLC|525 N TRYON ST|CHARLOTTE|NC
+2|BEETLEAI SOLUTIONS LLC|1003 HIGH HOUSE ROAD|CARY|NC
+2|BEETLEAL SOLUTIONS LLC|1003 HIGH HOUSE ROAD|CARY|NC
+2|BLUMATRIX TECH LLC|3540 TORINGDON WAY|CHARLOTTE|NC
+2|BRIDGERA LLC|500 W PEACE STREET|RALEIGH|NC
+2|CELORISTECH LLC|1977 J N PEASE PLACE|CHARLOTTE|NC
+2|CLOUD SYSTEMS LLC|112 S TRYON STREET|CHARLOTTE|NC
+2|CONCOR IT SOLUTIONS INC|301 MCCULLOUGH DR STE 400|CHARLOTTE|NC
+2|CONVERSANT SOLUTIONS INC|10224 HICKORYWOOD HILL AVE|HUNTERSVILLE|NC
+2|DATA CALIPER LLC|1328 CENTER STREET|APEX|NC
+2|DATACALIPER LLC|1328 CENTER STREET|APEX|NC
+2|DATALORE TECHNOLOGIES INC|5540 CENTERVIEW DR|RALEIGH|NC
+2|DEV SYSTEMS INC|301 MCCULLOUGH DR.|CHARLOTTE|NC
+2|EMCUBE TECHNOLOGIES INC|3440 TORINGDON WAY|CHARLOTTE|NC
+2|EPLANET CONSULTANTS INC|8501 TOWER POINT DRIVE|CHARLOTTE|NC
+2|FORTISVIEW LLC|8601 SIX FORKS ROAD|RALEIGH|NC
+2|GO8 IT INC|8000 CORPORATE CENTER DRIVE|CHARLOTTE|NC
+2|HARBOR HAT INC|2500 GATEWAY CENTRE BLVD|MORRISVILLE|NC
+2|HITEX INFO LLC|10402 OLDE IVY WAY|CHARLOTTE|NC
+2|HTS-SYSTEMS|15000 WESTON PKWY|CARY|NC
+2|IBM CORPORATION|3039 E CORNWALLIS ROAD|DURHAM|NC
+2|IBM INDIA PRIVATE LIMITED|3039 E CORNWALLIS ROAD|DURHAM|NC
+2|INFINICS INC|301 MCCULLOUGH DR.|CHARLOTTE|NC
+2|INFOSWIFT SOFTWARE LLC|19109 W CATAWBA AVE|CORNELIUS|NC
+2|INSIGHT INTELLI INC|1909 JN PEASE PL|CHARLOTTE|NC
+2|INSIGHT INTELLI INC|1909 JN PEASE PL|CHAROTTE|NC
+2|KUBE CLOUDS INC|800 PINNER WEALD WAY|CARY|NC
+2|LORVEN GROUP INC|10801 JOHNSTON ROAD|CHARLOTTE|NC
+2|LORVEN GROUP INC|11006 RUSHMORE DR|CHARLOTTE NC|NC
+2|LORVEN GROUP INC|11006 RUSHMORE DR|CHARLOTTE|NC
+2|NENINE TECHNOLOGIES INC|15000 WESTON PKWY|CARY|NC
+2|NEO PRISM SOLUTIONS LLC|8000 CORPORATE CENTER DR|CHARLOTTE|NC
+2|NEO PRISM SOLUTIONS LLC|8000 CORPORATE CENTER DRIVE|CHARLOTTE|NC
+2|NETROCON SYSTEMS LLC|3540 TORINGDON WAY|CHARLOTTE|NC
+2|NTECH INTERNATIONAL LLC|3440 TORINGDON WAY|CHARLOTTE|NC
+2|ORIGIN HUBS INC|2500 GATEWAY CENTRE BLVD|MORRISVILLE|NC
+2|PANTAR SOLUTIONS INC|11605 N COMMUNITY HOUSE ROAD|CHARLOTTE|NC
+2|PNK CONNECTIONS|301 MCCULLOUGH DRIVE, SUITE 400|CHARLOTTE|NC
+2|PNK CONNECTIONS LLC|301 MCCULLOUGH DRIVE, SUITE 400|CHARLOTTE|NC
+2|QENNECTIT LLC|5960 FAIRVIEW ROAD|CHARLOTTE|NC
+2|REGENT STRATEGIC SOLUTIONS|8501 TOWER POINT DRIVE|CHARLOTTE|NC
+2|REVEILLE TECHNOLOGIES INC|112 S TRYON STREET|CHARLOTTE|NC
+2|REVOTYX LLC|8000 CORPORATE CENTER DR|CHARLOTTE|NC
+2|SAAP TECH SOLUTIONS LLC|301 MCCULLOUGH DR STE 400|CHARLOTTE|NC
+2|SAMINAVI LLC|800 PINNER WEALD WAY|CARY|NC
+2|SANSOFT LLC|5540 CENTERVIEW DR|RALEIGH|NC
+2|SAS INFO INC|10115 KINCEY AVENUE|HUNTERSVILLE|NC
+2|SASINFO INC|10224 HICKORYWOOD HILL AVE|HUNTERSVILLE|NC
+2|SASINFO INC|10115 KINCEY AVENUE|HUNTERSVILLE|NC
+2|SHARPGEN SOLUTIONS LLC|16607 RIVERSTONE WAY|CHARLOTTE|NC
+2|SIMPSOFT SOLUTIONS USA LLC|10643 KETTERING DRIVE|CHARLOTTE|NC
+2|SKY SYSTEMS INC|8801 FAST PARK DRIVE|RALEIGH|NC
+2|SKYTEK CORP|2101 GATEWAY CENTRE BLVD|MORRISVILLE|NC
+2|SNOWSTACK LLC|8601 SIX FORKS ROAD|RALEIGH|NC
+2|SPARKFX LLC|5960 FAIRVIEW ROAD|CHARLOTTE|NC
+2|SPECTRAFORCE TECHNOLOGIES INC|500 W PEACE STREET|RALEIGH|NC
+2|SPRYDO SYSTEMS LLC|1905 J N PEASE PL|CHARLOTTE|NC
+2|STAT9 TECHNOLOGIES INC|5000 CENTRE GREEN WAY, SUITE 500|CARY|NC
+2|SUNOVEE INC|5000 CENTREGREEN WAY|CARY|NC
+2|SWIFT SOLUTIONS INC|400 PINNER WEALD WAY|CARY|NC
+2|SYNERGY SOLUTIONS INC|210 JOSEPH POND LANE|CARY|NC
+2|SYNORIS INC|11336 ARDREY CREST DRIVE|CHARLOTTE|NC
+2|SYNTACTECH INC|2101 GATEWAY CENTRE BLVD|MORRISVILLE|NC
+2|SYSTEMATIX INFOTECH INC|11336 ARDREY CREST DRIVE|CHARLOTTE|NC
+2|TABNER INC|11020 DAVID TAYLOR DR|CHARLOTTE|NC
+2|TEAMSVISE LLC|525 N TRYON ST|CHARLOTTE|NC
+2|TECHMYNDS INC|1981 J N PEASE PL|CHARLOTTE|NC
+2|TECHTROVE SOFTWARE SOLUTIONS LLC|1914 J N PEASE PL|CHARLOTTE|NC
+2|TEKEBIN INC|128 S TRYON ST FLR, 18TH, 19TH|CHARLOTTE|NC
+2|TEKEBIN LLC|128 S TRYON ST FLR, 18TH, 19TH|CHARLOTTE|NC
+2|TEKPRISMIT INC|5000 CENTREGREEN WAY|CARY|NC
+2|TEKRULES LLC|10402 OLDE IVY WAY|CHARLOTTE|NC
+2|TEKSOLVE IT SOLUTIONS LLC|11121 CARMEL COMMONS BOULEVARD|CHARLOTTE|NC
+2|TEKTANS LLC|106 LANGTREE VILLAGE DR|MOORESVILLE|NC
+2|THE BRIXTON GROUP INC|3625 PICKWICK LN.|CHARLOTTE|NC
+2|THE BRIXTON GROUP LLC|3625 PICKWICK LN.|CHARLOTTE|NC
+2|TRETA IT INC|1981 J N PEASE PL|CHARLOTTE|NC
+2|TRIBIS INC|11605 N COMMUNITY HOUSE ROAD|CHARLOTTE|NC
+2|TRIGGER IT LLC|5000 CENTRE GREEN WAY, SUITE 500|CARY|NC
+2|TSG CONSULTING LLC|8801 FAST PARK DRIVE|RALEIGH|NC
+2|TSG CONSULTING LLC|5540 CENTERVIEW DRIVE|RALEIGH|NC
+2|TUTELARY INC|10801 JOHNSTON ROAD|CHARLOTTE|NC
+2|UI PATH TEK LLC|19109 W CATAWBA AVE|CORNELIUS|NC
+2|VAARIDA TECHNOLOGIES LLC|5540 CENTERVIEW DRIVE|RALEIGH|NC
+2|VALIDATION ENGINEER|10200 MALLARD CREEK ROAD, SUITE 102|CHARLOTTE|NC
+2|VIMALRAJ INC|400 PINNER WEALD WAY|CARY|NC
+2|VISION SQUARE INC|16607 RIVERSTONE WAY|CHARLOTTE|NC
+2|XDIN INC|7830 THORNDIKE ROAD|GREENSBORO|NC
+2|XPAND IT SOLUTIONS INC|11121 CARMEL COMMONS BOULEVARD|CHARLOTTE|NC
+2|YARROW TECHNOLOGIES INC|1914 J N PEASE PL|CHARLOTTE|NC
+2|ZENSPACE IT LLC|106 LANGTREE VILLAGE DR|MOORESVILLE|NC
+2|ZENSPACE IT LLC|10715 DAVID TAYLOR DRIVE|CHARLOTTE|NC
+2|ZENSPACEIT LLC|10715 DAVID TAYLOR DRIVE|CHARLOTTE|NC
+1|3 DOTS IT SOLUTIONS LLC|4823 MEADOW DR|DURHAM|NC
+1|3 ITEK LLC|1913-204 J.N. PEASE PLACE|CHARLOTTE|NC
+1|3 ITEK LLC|E1913-204 J.N. PEASE PLAC|CHARLOTTE|NC
+1|4SPHERE SOFTWARE SOLUTIONS LLC|10101 DIVISION DR|RALEIGH|NC
+1|9M SOLUTIONS INC|756 TYOLA ROAD|CHARLOTTE|NC
+1|9M SOLUTIONS INC|128 S TRYON ST|CHARLOTTE|NC
+1|9M SOLUTIONS INC|756 TYVOLA ROAD|CHARLOTTE|NC
+1|A SOCIETY GROUP INC|486 N. PATTERSON AVENUE|WINSTON-SALEM|NC
+1|AANVI CLOUD TECHNOLOGIES INC|7004 WALKERS RUN DR|MONROE|NC
+1|AANVI CLOUD TECHNOLOGIES INC|7004 WALKERS RUN DR.|MONROE|NC
+1|ABCONNECT GLOBAL LLC|2212 EASTCHESTER DR|HIGH POINT|NC
+1|ACCRUE SELECT INC|4819 EMPEROR BOULEVARD|DURHAM|NC
+1|ACCRUE SELECT INC|3916 WEDONIA DRIVE|CARY|NC
+1|ACCRUE SELECT INC|3916 WEDONIA|CARY|NC
+1|ACCRUE SELECT INC|IMPERIAL BUSINESS PARK, 4819 EMPEROR BOULEVARD|DURHAM|NC
+1|ACCRUE SELECT INC|IMPERIAL BUSINESS PARK|DURHAM|NC
+1|ACMATEK SOLUTIONS INC|501 GRAY MARBLE ROAD|MORRISVILLE|NC
+1|ADDEPTO IT SOLUTIONS LLC|11020 DAVID TAYLOR DR ,, NC,.|CHARLOTTE|NC
+1|ADDEPTO IT SOLUTIONS LLC|11020 DAVID TAYLOR DR.|CHARLOTTE|NC
+1|ADDEPTO IT SOLUTIONS LLC|2720 E W T HARRIS BLVD|CHARLOTTE|NC
+1|AJK TECH INSIGHTS LLC|8024 GLENWOOD AVE|RALEIGH|NC
+1|ALLIANCE FOR INNOVATIVE SOLUTIONS FOUNDATION|502 MCKNIGHT DR. , STE 200|KNIGHTDALE|NC
+1|ALLIANCE OF PROFESSIONALS & CONSULTANTS INC|8200 BROWNLEIGH DRIVE|RALEIGH|NC
+1|ALLSCRIPTS MANAGED SERVICES LLC|305 CHURCH AT N HILLS STREET|RALEIGH|NC
+1|ALTEN TECHNOLOGY USA|ALTEN TECHNOLOGY USA|GREENSBORO|NC
+1|AMKO SOFTWARE SOLUTIONS INC|8819 UNIVERSITY E. DRIVE|CHARLOTTE|NC
+1|AMP SOLUTIONS LLC|10200 MALLARD CREEK|CHARLOTTE|NC
+1|AMP SOLUTIONS LLC|10200 MALLARD CREEK ROAD|CHARLOTTE|NC
+1|AMP SOLUTIONS LLC|10200 MALLARD CREEK ROAD SUITE 102|CHARLOTTE|NC
+1|ANALYTE IT SERVICES LLC|108 LEDGE MANOR DR|HOLLY SPRINGS|NC
+1|AND IT TECH LLC|140 TOWERVIEW CT|CARY|NC
+1|APPSTREAM TECHNOLOGIES LLC|135 E MAIN ST|ROCKHILL|NC
+1|APTIVA CORP|825 GEORGES ROAD|NORTH BRUNSWICK|NC
+1|ARCLIGHT WIRELESS LLC|65 TW ALEXANDER DRIVE|RESEARCH TRIANGLE PARK|NC
+1|ARDOR IT SOLUTIONS INC|8801 JM KEYNES DR,|CHARLOTTE|NC
+1|ARDOR IT SOLUTIONS INC|8801 J M KEYNES DR|CHARLOTTE|NC
+1|ARDOR IT SOLUTIONS INC|8801 J M KEYNES DR STE 290|CHARLOTTE|NC
+1|ARDOR IT SOLUTIONS INC|8801 J M KEYNES DRIVE|CHARLOTTE|NC
+1|ARDOR IT SOLUTIONS INC|8801 JM KEYNES DR, SUITE 290,CHARLOTTE,NC 28262|CHARLOTTE, NC, 28262|NC
+1|ARDOR IT SYSTEMS LLC|1905 J N PEASE PLACE|CHARLOTTE|NC
+1|ARDOR IT SYSTEMS LLC|1905 JN PEASE PLACE|CHARLOTTE|NC
+1|ARDORITSOLUTIONS INC|8801 JM KEYNES DRIVE|CHARLOTTE|NC
+1|ARDORITSOLUTIONS INC|8801 JM KEYNED DRIVE|CHARLOTTE|NC
+1|ARIAKIT SOL LLC|3223 KEMPTHORNE ROAD|CARY|NC
+1|ARISTA TECHNOLOGIES LLC|2612 AVERON DR|FUQUAY VARINA|NC
+1|ASP INC|614 GRAVEL BROOK COURT|CARY|NC
+1|AUGUSTA IT SOLUTIONS LLC|1981 JN PEASE PL|CHARLOTTE|NC
+1|AVASA IT SOLUTIONS LLC|8301 UNIVERSITY EXECUTIVE PARK DRIVE|CHARLOTTE|NC
+1|AVASA IT SOLUTIONS LLC|8401 UNIVERSITY EXECUTIVE PARK DR|CHARLOTTE|NC
+1|BEETLEAI SOLUTIONS LLC|4852 LILY GARDEN DR|APEX|NC
+1|BINARY LOGIX INC|141 WELCOMBE ST.|MOORESVILLE|NC
+1|BLUE SKY ROBOTICS INC|142 E FRANKLIN ST|CHAPEL HILL|NC
+1|BLUEALLY TECHNOLOGY SOLUTIONS LLC|1225 CRESCENT GREEN|CARY|NC
+1|BLUEMAPLEIT LLC|9635 SOUTHERN PINE BOULEVARD|CHARLOTTE|NC
+1|BLUMEFOX TECHNOLOGIES LLC|4006 AUDUBON PARK DR|CHARLOTTE|NC
+1|BYTEMINDS IT INC|8927 J M KEYNES DR|CHARLOTTE|NC
+1|CANDORSOFT TECHNOLOGIES LLC|2500 REGENCY PARKWAY|CARY|NC
+1|CAROLINA IT PROFESSIONALS INC|243 WEST CATAWBA AVE|MOUNT HOLLY|NC
+1|CELORIS TECH LLC|1977 JN PEASE PL|CHARLOTTE|NC
+1|CELORIS TECH LLC|1977 J N PEASE PL|CHARLOTTE|NC
+1|CELORISTECH LLC|1931 JN PEASE PLACE|CHARLOTTE|NC
+1|CLEAR THOUGHT SOLUTIONS LLC|800 PINNER WEALD WAY STE 202|CARY|NC
+1|CLEAR THOUGHT SOLUTIONS LLC|800 PINNER WEALD WAY  202|CARY|NC
+1|CLICKSOFT SOLUTIONS LLC|320 SEAGLE ST.|HUNTERSVILLE|NC
+1|CLOUD NINE TEK LLC|1251 ARROW PINE DR C111|CHARLOTTE|NC
+1|CLOUD NINE TEK LLC|307 W TREMONT AVE|CHARLOTTE|NC
+1|CLOUD SYSTEMS LLC|301 MCCOLLOUGH DRIVE|CHARLOTTE|NC
+1|CLOUDHUB9 TECHNOLOGIES LLC|4030 WAKE FOREST ROAD|RALEIGH|NC
+1|CLOUDNINETEK LLC|10735 DAVID TAYLOR DR,|CHARLOTTE|NC
+1|CLOUDNINETEK LLC|1251 ARROW PINE DR|CHARLOTTE|NC
+1|CLOUDVISION247 INC|4804 PAGE CREEK LANE|DURHAM|NC
+1|COGNIT AI INC|849 WESTWAY ST|ELIZABETH|NC
+1|COMNATIX LLC|321 E. CHAPEL HILL ST|DURHAM|NC
+1|COMPLEAT TECHNICAL SOLUTIONS INC|2720 E WT HARRIS BLVD|CHARLOTTE|NC
+1|COMPLEAT TECHNICAL SOLUTIONS INC|2720 EWT HARRIS BLVD|CHARLOTTE|NC
+1|CONCOR IT SOLUTIONS INC|8604 CLIFF CAMERON DR|CHARLOTTE|NC
+1|CONCOR IT SOLUTIONS INC|301 MCCULLOUGH DR, SUITE 400|CHARLOTTE|NC
+1|CONCOR IT SOLUTIONS INC|8604 CLIFF CAMERON DRIVE|CHARLOTTE|NC
+1|CONNECTING PEOPLE LLC|1750 NW MAYNARD|CARY|NC
+1|CONNECTING PEOPLE LLC|1442 SIERRA GLEN CIR|APEX|NC
+1|CORE CLOUD TECHNOLOGIES LLC|9539 PINNACLE DR  STE   340|CHARLOTTE|NC
+1|CORE CLOUD TECHNOLOGIES LLC|9539 PINNACLE DR STE   340|CHARLOTTE|NC
+1|CREATIVE MIND TECHNOLOGY LLC|38 THOMAS GAGE DRIVE|FUQUAY VARINA|NC
+1|CRG CORPORATION|4000 PIEDMONT PARKWAY|HIGH POINT|NC
+1|D&C INFO LLC|4111-E ROSE LAKE DR   3037|CHARLOTTE|NC
+1|DATA ANALYTIX LLC|136 WAXHAW PARKWAY|WAXHAW|NC
+1|DATA CLOUD TEK LLC|19109 WEST CATAWBA AVENUE|CORNELIUS|NC
+1|DATASTACK TECHNOLOGIES LLC|7300 CARMEL EXECUTIVE PARK DR|CHARLOTTE|NC
+1|DATASTACK TECHNOLOGIES LLC|7300 CARMEL EXECUTIVE PARK|CHARLOTTE|NC
+1|DCUBE SOLUTIONS|200 RUTHWIN DR|MORRISVILLE|NC
+1|DEVANSEE ANALYTICS LLC|10926 DAVID TAYLOR DR.,|CHARLOTTE|NC
+1|DIGI CLOUD LLC|125  FLOYD SMITH OFFICE PARK DRIVE|CHARLOTTE|NC
+1|DIVVYSOFT LLC|321 E. CHAPEL HILL ST.|DURHAM|NC
+1|DREAM IT GROUP INC|6201 FAIRVIEW ROAD|CHARLOTTE|NC
+1|DYNPRO INC|8045 ARCO CORPORATE DR|RALEIGH|NC
+1|DYNPRO INC|8045 ARCO CORPORATE DRIVE|RALEIGH|NC
+1|DYNPRO INC|8045 ARCO CORPORATE DRIVE, SUITE 370|RALEIGH|NC
+1|DYNPRO INC|7412 CHAPEL HILL ROAD|RALEIGH|NC
+1|E-EMPHASYS TECHNOLOGIES INC|2501 WESTON PKWY|CARY|NC
+1|E-EMPHASYS TECHNOLOGIES INC|2501 WESTON PARKWAY|CARY|NC
+1|E3 RETAIL LLC|110 HORIZON DR   240|RALEIGH|NC
+1|E3 RETAIL LLC|110 HORIZON DR|RALEIGH|NC
+1|ECOM SOLUTIONS INC|2120 CROWN CENTRE DRIVE|CHARLOTTE|NC
+1|ED TECH SOLUTION INC|106 STIBBS CROSS ROAD|MOORESVILLE|NC
+1|EIDIKO SYSTEMS INTEGRATORS LLC|11030 SOUTH TRYON STREET, SUITE 311|CHARLOTTE|NC
+1|ELINT PRO SOLUTIONS LLC|WAXHAW PARKWAY, SUITE E - 109|WAXHAW|NC
+1|EMINENCE IT SOLUTIONS INC|1135 KIDAIRE FARM RAOD|CARY|NC
+1|EMINENCE IT SOLUTIONS INC|1135 KIDAIRE FARM ROAD|CARY|NC
+1|EMPRO SYSTEMS LLC|1135 KILDAIRE FARM ROAD,|CARY|NC
+1|EMTEK SOLUTIONS INC|325 HAWTHORNE WOODS ROAD|APEX|NC
+1|ENTERPRISE IT SOLUTIONS LLC|15105 JOHN J DELANEY DRIVE|CHARLOTTE|NC
+1|EPICSAI LLC|4804 PAGE CREEK LN.|DURHAM|NC
+1|EPICSAI LLC|4804  PAGE CREEK LN.|DURHAM|NC
+1|EPR IT SOLUTIONS LLC|7137 MAPLE RUN CIRCLE|CHARLOTTE|NC
+1|ERK SOLUTIONS LLC|2905 MACINTOSH WOODS DR|APEX|NC
+1|ETTAIN GROUP INC|127 W. WORTHINGTON AVENUE|CHARLOTTE|NC
+1|ETYME INC|3201 YORKTOWN AVENUE|DURHAM|NC
+1|EUCLID INNOVATIONS INC|101, S TRYON STREET,|CHARLOTTE|NC
+1|EVALUESERVE INC|1 GLENWOOD AVENUE|RALEIGH|NC
+1|EVALUESERVE INC|421 FAYETTEVILLE STREET|RALEIGH|NC
+1|EVERSOFT TECHNOLOGIES LLC|10150 MALLARD CREECK ROAD|CHARLOTTE|NC
+1|EVERSOFT TECHNOLOGIES LLC|10150 MALLARD CREEK RD|CHARLOTTE|NC
+1|EVERSOFT TECHNOLOGIES LLC|9700  RESEARCH DRIVE|CHARLOTTE|NC
+1|EXPAND TECHPRO LLC|16615 RIVERSTONE WAY|CHARLOTTE|NC
+1|FAST&FURIOUS IMMI TEAM|299 HYDERABAD|CHARLOTTE|NC
+1|FLEXGEN HOLDINGS INC|280 S MANGUM ST|DURHAM|NC
+1|FLEXGEN POWER SYSTEMS INC|280 S MANGUM ST STE. 150|DURHAM|NC
+1|FLYING FROG TECH LLC|10425 PAPER BIRCH DR.,|CHARLOTTE|NC
+1|GENOSTATS CORP|150 PRESTON EXECUTIVE DRIVE|CARY|NC
+1|GO8 IT INC|10718 CARMEL COMMONS BLVD|CHARLOTTE|NC
+1|HANUSOFT INC|1140 KILDAIRE FARM ROAD|CARY|NC
+1|HIGHBROW TECHNOLOGY INC|140 TOWERVIEW COURT, SUITE 107|CARY|NC
+1|HIGHMARK COMPANIES LLC|3105 HEMLOCK HILLS LANE|APEX|NC
+1|HONEYWELL INTERNATIONAL INC|855 S. MINT STREET|CHARLOTTE|NC
+1|HORIZON IT INC|10926 DAVID TAYLOR DR|CHARLOTTE|NC
+1|HORIZON IT INC|10926 DAVID TAYLOR|CHARLOTTE|NC
+1|I THINK SERVICES LLC|322 LAMAR AVE|CHARLOTTE|NC
+1|IBM CORPORATION|3039 CORNWALLIS|DURHAM|NC
+1|IBM CORPORATION|4205 S MIAMI BLVD|DURHAM|NC
+1|IBM CORPORATION|4205 S. MIAMI BLVD.|DURHAM|NC
+1|IBM CORPORATION|4205 S. MIAMI BLVD. BLDG. 502 NORTH J|DURHAM|NC
+1|IBM CORPORATION|4205 S. MIAMI BLVD., BLDG. 502 NORTH J|DURHAM|NC
+1|IBM CORPORATION|4205 SOUTH MIAMI BOULEVARD|DURHAM|NC
+1|IBM CORPORATION|3039 CORNWALLIS ROAD, PO BOX 12195|DURHAM|NC
+1|IBM CORPORATION|3039 CORNWALLIS ROAD PO BOX12195|DURHAM|NC
+1|IBM INDIA PRIVATE LIMITED|3039 CORNWALLIS ROAD 3039 CORNWALLIS ROAD|DURHAM|NC
+1|IBM INDIA PRIVATE LIMITED|3039  E CORNWALLIS ROAD|DURHAM|NC
+1|ICLOUD NOW LLC|10269 CHAPEL HILL ROAD|MORRISVILLE|NC
+1|INFINITBIT LLC|4121 SHADBUSH ST|RALEIGH|NC
+1|INFODYNE SOLUTIONS LLC|105-F WAXHAW PROFESSIONAL PARK DRIVE|WAXHAW|NC
+1|INFOMERICA INC|252 TOWNE VILLAGE DR.|CARY|NC
+1|INFOMERICA INC|252 TOWNE VILLAGE DR|CARY|NC
+1|INFOMERICA INC|252 TOWNE VILLAGE DRIVE|CARY|NC
+1|INFOSWIFT SOFTWARE LLC|19109 W CATAWBA AVENUE|CORNELIUS|NC
+1|INFOTEK GROUPS INC|INFOTEK GROUPS INC|DURHAM|NC
+1|INFOTEK GROUPS INC|2530 MERIDIAN PARK WAY|DURHAM|NC
+1|INFOZEN INC|1914 JN PEASE PL|CHARLOTTE|NC
+1|INTECA IT SOLUTIONS LLC|2730 E W.T HARRIS BLVD|CHARLOTTE|NC
+1|INTELLIGAIA LLC|548 SPIRE BEND|APEX|NC
+1|INTERNATIONAL BUSINESS MACHINES CORPORATION|3039 EAST CORNWALLIS ROAD|DURHAM|NC
+1|INTVERSE INC|8936 N POINTE EXECUTIVE PARK DR|HUNTERSVILLE|NC
+1|INTVERSE INC|19109 WEST CATAWBA AVE|CORNELIUS|NC
+1|IT AUTOMATION LLC|101 GATHERING PARK CIRCLE, STE 202|CARY|NC
+1|IT AUTOMATION LLC|101 GATHERING PARK CIRCLE|CARY|NC
+1|IT KEYSOURCE INC|11220 ELM LN|CHARLOTTE|NC
+1|IT PEOPLE CORPORATION|ONE COPLEY PKWY.|MORRISVILLE|NC
+1|IT PEOPLE CORPORATION|ONE COPLEY PKWY|MORRISVILLE|NC
+1|JAVANTECH INC|1293 NEW GARDEN ROAD|GREENSBORO|NC
+1|JPS TECH SOLUTIONS LLC|119 SW MAYNARD ROAD|CARY|NC
+1|KAIZER SOFTWARE SOLUTIONS LLC|4040 FLOWERING PEACH ROAD|MARVIN|NC
+1|KALA VASTRA GHAR LLC|105 DURSTON LOOP,|MORRISVILLE|NC
+1|KLOUDVISIO INC|3117 WHITING AVENUE|CHARLOTTE|NC
+1|KODESYSTEMS LLC|1004 OLD TRACE ROAD NW|CONCORD|NC
+1|KUBE CLOUDS INC|800 PINNER WEALD WAY,|CARY|NC
+1|LANSOFT INC|3948 BROWNING PL|RALEIGH|NC
+1|LEELA CONSULTANCY LLC|1413 STRATFORD RIDGE LN.|CARY|NC
+1|LEELA CONSULTANCY LLC|1413 STRATFORD RIDGE LN|CARY|NC
+1|LINXAI INC|6512 SIX FORD ROAD|RALEIGH|NC
+1|LOGIC EXPLORER LLC|105 GRENDON PL.|CARY|NC
+1|LORVEN GROUP INC|11006 RUSHMORE DR, SUITE 175|CHARLOTTE|NC
+1|LORVEN GROUP INC|11006 RUSHMORE DR.|CHARLOTTE|NC
+1|MACKIN CONSULTANCY LLC|146 N. MAIN ST.|RUTHERFORDTON|NC
+1|MACKIN CONSULTANCY LLC|1639 COLLEGE AVENUE|SPINDALE|NC
+1|MAKONIS INC|10801 JOHNSTON ROAD, STE 211|CHARLOTTE|NC
+1|MAS TEK IT LLC|624 MATTHEWS-MINT HILL ROAD|MATTHEWS|NC
+1|MASTEK IT LLC|624 MATTHEWS MINT HILL ROAD,|MATTHEWS|NC
+1|MEISTERTECH LLC|1809 DEER MEADOWS DR|WAXHAW|NC
+1|METABYTES TECHNOLOGIES CORPORATION|4100 CONGLETON PL|DURHAM|NC
+1|METABYTES TECHNOLOGIES CORPORATION|2206 PAGE ROAD|DURHAM|NC
+1|METRIX IT SOLUTIONS INC|8832 BLAKENEY PROFESSIONAL DRIVE|CHARLOTTE|NC
+1|METRIX IT SOLUTIONS INC|8832 BLAKENEY PROFESSIONAL DR|CHARLOTTE|NC
+1|METRIX IT SOLUTIONS INC|8832 BLAKENEY PROFESSIONAL DR.|CHARLOTTE|NC
+1|NENINE TECHNOLOGIES INC|1824 VENEZIA WAY|APEX|NC
+1|NEO PRISM SOLUTIONS LLC|8000 CORPORATE CENTER DR.|CHARLOTTE|NC
+1|NETEX SOLUTIONS LLC|116 STOCKTON GORGE ROAD|MORRISVILLE|NC
+1|NEUSOFT AMERICA INC|5000  CENTREGREEN WAY|CARY|NC
+1|NEXGEN SAVVY SOLUTIONS LLC|8821 UNIVERSITY EAST DRIVE|CHARLOTTE|NC
+1|NEXT TECHNOLOGY SOLUTIONS LLC|2172 GREGOR OVERLOOK LANE|APEX|NC
+1|NOVUS RESOURCES INC|92 CORNERSTONE DRIVE|CARY|NC
+1|OPERATIONSRX LLC|15435  HOLLY TRAIL LN|DAVIDSON|NC
+1|PAGEONE SYSTEMS INC|7525 MARCHAND LN|CHARLOTTE|NC
+1|PAGEONE SYSTEMS INC|7525 MARCHAND LANE|CHARLOTTE|NC
+1|PANTAR SOLUTIONS INC|1908 COX ROAD|WEDDINGTON|NC
+1|PANTAR SOLUTIONS INC|13860 BALLANTYNE CORPORATE PLACE|CHARLOTTE|NC
+1|PERFICIENTCORP INC|10130 MALLARD CREEK  ROAD|CHARLOTTE|NC
+1|PERIGON INFOTECH INC|4819 EMPEROR BLVD  400|DURHAM|NC
+1|PHARMENG TECHNOLOGY|1 TW ALEXANDER DRIVE|DURHAM|NC
+1|PINNACLE TEK LLC|1920 E NC HIGHWAY 54|DURHAM|NC
+1|PIXELITCENTER CORPORATION|189 TARLETON DR|FUQUAY-VARINA|NC
+1|PLANET PHARMA GROUP LLC|107 WEST HARGETT STREET|RALEIGH|NC
+1|PMKC LLC|105 MONT DE SION DRIVE|CARY|NC
+1|PPD DEVELOPMENT L.P.|929 NORTH FRONT STREET|WILMINGTON|NC
+1|PREMIUM PEOPLE GROUP LLC|1135 KILDARE FARM ROAD|CARY|NC
+1|PROCESS ENGINEERING SPECIALISTS INC|2664 TIMBER DR|GARNER|NC
+1|PROCOM SERVICES AMERICA INC|1130 SITUS COURT|RALEIGH|NC
+1|PROFESSIONAL POWER CONSULTING INC|110 OLDE ALPHE CIRCLE|CARY|NC
+1|PROMANTUS INC|407 GORMAN ST.|RALEIGH|NC
+1|PROMANTUS INC|407 GORMAN STREET|RALEIGH|NC
+1|PROMANTUS INC|8521 SIX FORKS ROAD|RALEIGH|NC
+1|PROMETHEUS COMPUTING LLC|110 BUZZARDS ROOST ROAD|CULLOWHEE|NC
+1|PROPHARMA GROUP HOLDINGS LLC|107 WEST HARGETT ST|RALEIGH|NC
+1|PROSERV LLC|10010 VOILET CANNON DR NW|CONCORD|NC
+1|PROSQUIRE LLC|5102 CHAPEL HILL DURHAM BOULEVARD|DURHAM|NC
+1|PROSQUIRE LLC|5102 DURHAM CHAPEL HILL BLVD|DURHAM|NC
+1|PROXIM SYSTEMS INC|BALLANTYNE ONE, 15720 BRIXHAM HILL AVENUE|CHARLOTTE|NC
+1|QUALITY AGENTS LLC|402 CARL STREET|WILMINGTON|NC
+1|QUALITY AGENTS LLC|2116 CAPITAL DR|WILMINGTON|NC
+1|RAYON TEK SOLUTIONS INC|2315 W ARBORS DR.|CHARLOTTE|NC
+1|REFULGENT TECHNOLOGIES INC|112 S. TRYON ST.|CHARLOTTE|NC
+1|RESEARCH TRIANGLE INSTITUTE|3040 E CORNWALLIS ROAD|DURHAM|NC
+1|RESEARCH TRIANGLE INSTITUTE (RTI INTERNATIONAL)|3040 E. CORNWALLIS ROAD|RESEARCH TRIANGLE PARK|NC
+1|RETAIL INSIGHT NEWGEN TECHNOLOGY SERVICES INC|28 BISHOP COVE ROAD|FAIRVIEW|NC
+1|REVEILLE TECHNOLOGIES INC|112 S. TRYON STREET|CHARLOTTE|NC
+1|REVOTYX LLC|9711 DAVID TAYLOR DRIVE|CHARLOTTE|NC
+1|REVOTYX LLC|9711 DAVID TAYLOR DR|CHARLOTTE|NC
+1|RIA SOLUTIONS GROUP LLC|511 SHEPHERD STREET|WINSTON SALEM|NC
+1|RIA SOLUTIONS GROUP LLC|511 SHEPHERD ST|WINSTON SALEM|NC
+1|RIESE CLOUD TEK LLC|320 SEAGLE STREET|HUNTERSVILLE|NC
+1|ROUND POINT TECHNOLOGIES INC|2530 MERIDIAN PKWY.|DURHAM|NC
+1|RUBISTONE TECHNOLOGIES LLC|8819 UNIVERSITY EAST DR|CHARLOTTE|NC
+1|RUBISTONE TECHNOLOGIES LLC|8819 UNIVERSITY EAST D|CHARLOTTE|NC
+1|RXCLOUD|204 POWHATAN DR|FUQUAY-VARINA|NC
+1|S9 SOLUTIONS LLC|120 PRESTON EXECUTIVE DRIVE|CARY|NC
+1|SAGE CONSULTING GROUP LLC|1213 W MOREHEAD STREET|CHARLOTTE|NC
+1|SAPHIRE SOLUTIONS INC|2500 REGENCY PKWY, STE 1000|CARY|NC
+1|SAPIENS AMERICAS CORPORATION|801 CORPORATE CENTER DRIVE|RALEIGH|NC
+1|SASINFO INC|10224 HICKORYWOOD HILL AVE   201|HUNTERSVILLE|NC
+1|SATURN INFOSYSTEMS LLC|116 SKYROS LOOP|CARY|NC
+1|SELECT IT TALENT LLC|301 MCCULLOUGH DR SUITE 400|CHARLOTTE|NC
+1|SHRIVE SOLUTIONS LLC|201 MCCULLOUGH DRIVE|CHARLOTTE|NC
+1|SIGNATURE IT SOLUTIONS INC|2315 W ARBORS DRIVE|CHARLOTTE|NC
+1|SIGNATURE IT SOLUTIONS INC|2315 W ARBORS DR|CHARLOTTE|NC
+1|SILVERFALLS SOLUTIONS INC|8004 LINVILLE ROAD SUITE C-1|OAK RIDGE|NC
+1|SILVERFALLS SOLUTIONS INC|8004 LINVILLE ROAD|OAK RIDGE|NC
+1|SILVERFALLS SOLUTIONS INC|2640 WILLARD DAIRY ROAD|HIGH POINT|NC
+1|SKILLO INC|5601 EXECUTIVE CENTER DR|CHARLOTTE|NC
+1|SKILLO INC|5601 EXECUTIVE CENTER DR.|CHARLOTTE|NC
+1|SKILLSTRAT LLC|4111-E ROSE LAKE DR|CHARLOTTE|NC
+1|SLASH IT LLC|50101 GOVERNORS DRIVE|CHAPEL HILL|NC
+1|SLASH IT LLC|2701  ELK KNOB TRL|APEX|NC
+1|SLN SOLUTIONS LLC|RTP MERIDIAN 2530 MERIDIAN PARKWAY|DURHAM|NC
+1|SMART SWITCH LLC|106 WILLIAM HENRY WAY|CARY|NC
+1|SMARTINT TECHNOLOGIES LLC|10030 GREEN LEVEL CHURCH ROAD|CARY|NC
+1|SMARTINT TECHNOLOGIES LLC|1906 E. NC HWY 54|DURHAM|NC
+1|SMARTTRAK LLC|2 DAVIS DRIVE|RESEARCH TRIANGLE PARK|NC
+1|SMARTTRAK LLC|300 S MAIN STREET|HOLLY SPRINGS|NC
+1|SNIKFEND INC|1119 SUNSET MAPLE LANE|HUNTERSVILLE|NC
+1|SNOWSTACK LLC|14045 BALLANTYNE CORPORATE PLACE|CHARLOTTE|NC
+1|SNOWSTACK LLC|11709 FRUEHAUF DR|CHARLOTTE|NC
+1|SOURCE CLOUD TECHNOLOGIES|1480  CHAPEL RIDGE ROAD|APEX|NC
+1|SOURCE CLOUD TECHNOLOGIES INC|1480 CHAPEL RIDGE ROAD|APEX|NC
+1|STAT9 TECHNOLOGIES INC|5000 CENTRE GREEN WAY , STE 500|CARY|NC
+1|SUNOVEE INC|15000 WESTERN PARKWAY|CARY|NC
+1|SUNRISE INFOTEK CORP|150 CORNERSTONE DR ST 203|CARY|NC
+1|SUNRISE INFOTEK CORP|150 CORNERSTONE DR|CARY|NC
+1|SUNTECHPROS INC|5920 S. MIAMI BLVD, SUITE 205-B|MORRISVILLE|NC
+1|SWIFTWIN SOLUTIONS INC|11220 ELM LANE, SUITE  200|CHARLOTTE|NC
+1|SWIFTWIN SOLUTIONS INC|11220 ELM LANE , SUITE  200|CHARLOTTE|NC
+1|SYNECHRON INC|214 NORTH TRYON STREET|CHARLOTTE|NC
+1|SYNTACTECH INC|150 PRESTON  EXECUTIVE DR|CARY|NC
+1|SYNTACTECH INC|150 PRESTON EXECUTIVE DR.|CARY|NC
+1|SYNTELLI SOLUTIONS INC|11520 N COMMUNITY HOUSE|CHARLOTTE|NC
+1|TALENT TEK SERVICES INC|140 TOWERVIEW CT.|CARY|NC
+1|TECH JOB AID LLC|2019 DELANEY HILLS LANE|FUQUAY-VARINA|NC
+1|TECHLOGYX INC|118 INTERNATIONAL DR|MORRISVILLE|NC
+1|TECHMERAKI SOLUTIONS LLC|9523 SHUMACHER AVE NW|CONCORD|NC
+1|TECHMYNDS INC|1981 J N PEASE PLACE|CHARLOTTE|NC
+1|TECHNODEED LLC|10404 CHAPEL HILL ROAD|MORRISVILLE|NC
+1|TECHNODEED LLC|280 TOWERVIEW CT|CARY|NC
+1|TECHNOFY IT SOLUTIONS LLC|301 MCCULLOUGH DRIVE UNIVERSITY EXECUTIVE PARK DR|CHARLOTTE|NC
+1|TECHNOFY IT SOLUTIONS LLC|301 MCCULLOUGH  UNIVERSITY  EXECUTIVE PARK DR|CHARLOTTE|NC
+1|TECHSCIENCE INFO LLC|3623 LATROBE DR|CHARLOTTE|NC
+1|TECHTROVE SOFTWARE SOLUTIONS LLC|1914 J N PEASE PL.|CHARLOTTE|NC
+1|TECHVISION INC|538 TRANQUIL SOUND DRIVE|CARY|NC
+1|TEK NEST INC|8420 EXECUTIVE PARK DRIVE, SUITE 810|CHARLOTTE|NC
+1|TEK RESOURCE INC|1236 YARROW ST|STALLINGS|NC
+1|TEKFINITE INC|1071 PEMBERTON HILL ROAD|APEX|NC
+1|TEKFINITE INC|800 W WILLIAMS ST|APEX|NC
+1|TEKNOSYS INC|5920 S. MIAMI BLVD.|RALEIGH|NC
+1|TEKNXPERT LLC|1973 JN PEASE PLACE,|CHARLOTTE|NC
+1|TEKNXPERT LLC|1973 JN PEASE PLACE|CHARLOTTE|NC
+1|TEKSOLVE IT SOLUTIONS LLC|6701 CARMEL ROAD|CHARLOTTE|NC
+1|THEOREMLABS PARTNERS LLC|101 S TRYON ST|CHARLOTTE|NC
+1|TIMON GLOBAL RESOURCING INC|525 NORTH TRYON ST|CHARLOTTE|NC
+1|TRETA IT INC|1981 JN PEASE PLACE|CHARLOTTE|NC
+1|TRETA IT INC|1981 J. N. PEASE PL.|CHARLOTTE|NC
+1|TRIBIS INC|13860 BALLANTYNE CORPORATE PL|CHARLOTTE|NC
+1|TRIBIS INC|1908 COX ROAD,|WEDDINGTON|NC
+1|TRIGGER IT LLC|5000 CENTREGREEN WAY, SUITE 500|CARY|NC
+1|TRIGGER IT LLC|1000 CENTREGREEN WAY, SUITE 200|CARY|NC
+1|TSG CONSULTING LLC|5540 CENTERVIEW DR.|RALEIGH|NC
+1|TSG CONSULTING LLC|5520 CAPITAL CENTER DRIVE|RALEIGH|NC
+1|UNISYS INFOTECH LLC|106 LANGTREE VILLAGE DRIVE|MOORESVILLE|NC
+1|UNISYS INFOTECH LLC|20830 TORRENCE CHAPEL ROAD|CORNELIUS|NC
+1|UPSI IT INC|8801 JM KEYNES DR, SUITE 290|CHARLOTTE|NC
+1|UTOPIA GLOBAL INC|4601 SIX FORKS ROAD,|RALEIGH|NC
+1|V7 TECH LABS|2054 CYPRESS VIALLGE DR NW|CONCORD|NC
+1|VALUE TECHNOLOGY INC|10130 PERIMETER PARKWAY|CHARLOTTE|NC
+1|VANKAY SYSTEMS INC|1008 BENDER RIDGE DR|MORRISVILLE|NC
+1|VANKAY SYSTEMS INC|817 NEW BERN AVE|RALEIGH|NC
+1|VARUNAVI IT CONSULTANTS INC|1000 BEARCAT WAY|MORRISVILLE|NC
+1|VBRIDGEIT INC|416 MCCULLOUGH DR|CHARLOTTE|NC
+1|VBRIDGEIT INC|8420 UNIVERSITY EXECUTIVE DR|CHARLOTTE|NC
+1|VBRIDGEIT INC|8420 UNIVERSITY EXECUTIVE PARK DR|CHARLOTTE|NC
+1|VEDHI SOLUTIONS LLC|717 GREEN VALLEY ROAD|GREENSBORO|NC
+1|VENCEDOR SOFTWARE GROUP INC|5000 CENTER GREENWAY|CARY|NC
+1|VENJAY TECHNOLOGIES INC|2308 ADDENBROCK DR|MORRISVILLE|NC
+1|VERTEX ANALYTICS INC|5970 FAIRVIEW ROAD|CHARLOTTE|NC
+1|VIABOUND LLC|2730 E W.T HANIS BLVD|CHARLOTTE|NC
+1|VIABOUND LLC|2730 E W.T HARRIS BLVD.|CHARLOTTE|NC
+1|VIDLEXINFO LLC|8420 UNIVERSITY EXECUTIVE PARK DR.|CHARLOTTE|NC
+1|VIRTUAL LABS INC|5085 MORGANTON ROAD|FAYETTEVILLE|NC
+1|VISTAINFOLABSLLC|12724 FRANKLIN SQUARED RD|CHARLOTTE|NC
+1|VTECHINFO INC|1002 VANDORA SPRINGS ROAD|GARNER|NC
+1|VULLI INC|1522 VAUGHN ROAD|BURLINGTON|NC
+1|VULLI INC|115 BROWN ST GQ|SALISBURY|NC
+1|VYTIS TECHNOLOGIES INC|2500 REGENCY PKWY|CARY|NC
+1|WEB GEO SOLUTIONS LLC|1527 KYTHIRA DRIVE|APEX|NC
+1|WISDOM SOFT INC|8309 SIX FORKS ROAD|RALEIGH|NC
+1|XDIN INC|7874 THORNDIKE ROAD|GREENSBORO|NC
+1|XOVE CONSULTING SERVICES CORPORATION|7404 CHAPEL HILL ROAD|RALEIGH|NC
+1|XPAND IT SOLUTIONS INC|8008 CORPORATE DRIVE|CHARLOTTE|NC
+1|XPAND IT SOLUTIONS INC|8008 CORPORATE CENTER DR|CHARLOTTE|NC
+1|XPAND IT SOLUTIONS INC|11121 CARMEL COMMONS BLVD|CHARLOTTE|NC
+1|XTRACIT INC|9335 HARRIS CORNERS PARKWAY|CHARLOTTE|NC
+1|XTRAMILE SOFT LLC|11526 DARTINGTON RIDGE LN|CHARLOTTE|NC
+1|XTRAMILE SOFT LLC|11526 DARTINGTON RIDGE LN.|CHARLOTTE|NC
+1|ZELECLOUD LLC|555 FAYETTEVILLE ST|RALEIGH|NC
+1|ZELECLOUD LLC|555 FAYETTEVILLE STREET|RALEIGH|NC
+1|ZELECLOUD LLC|555 FAYETTEVILLE STREET, SUITE   300,|RALEIGH|NC
+1|ZENSPACE IT LLC|106 LANGTREE VILLAGE|MOORESVILLE|NC
+1|ZSCALE LLC|3201 YORKTOWN AVE|DURHAM|NC
+(612 rows)

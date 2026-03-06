@@ -1,910 +1,163 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-18|OPTUM SERVICES INC|11000 OPTUM CIRCLE||EDEN PRARIE
-18|OPTUM CARE INC|11000 OPTUM CIRCLE||EDEN PRAIRIE
-18|Level 2 Health Management LLC|11000 OPTUM CIRCLE||EDEN PRARIE
-18|OPTUM SERVICES INC|11000 OPTUM CIRCLE||EDEN PRAIRIE
-18|OPTUMINSIGHT INC|11000 OPTUM CIRCLE||EDEN PRAIRIE
-18|OPTUM360 SERVICES INC|11000 OPTUM CIRCLE||EDEN PRAIRIE
-18|CHANGE HEALTHCARE TECHNOLOGIES LLC|11000 OPTUM CIRCLE||EDEN PRAIRIE
-18|Change Healthcare Technologies LLC|11000 OPTUM CIRCLE||EDEN PRAIRIE
-18|Optuminsight Inc|11000 OPTUM CIRCLE||EDEN PRAIRIE
-18|United Healthcare Services Inc|11000 OPTUM CIRCLE||EDEN PRARIE
-18|Optum Services Inc|11000 OPTUM CIRCLE||EDEN PRAIRIE
-18|Optum Care Inc|11000 OPTUM CIRCLE||EDEN PRARIE
-18|OptumInsight Inc|11000 Optum Circle||Eden Prairie
-18|Optum Care Inc|11000 Optum Circle||Eden Prairie
-18|Optum Services Inc|11000 Optum Circle||Eden Prairie
-18|Optum Care Inc,|11000 Optum Circle||Eden Prairie
-18|Change Healthcare Technologies LLC|11000 Optum Circle||EDEN PRARIE
-18|Optum Services (Puerto Rico) LLC|11000 Optum Circle||Eden Prairie
-11|Regulatory Technology Services|1000 WESTGATE DRIVE|150|SAINT PAUL
-11|Regulatory Technology Services|1000 WESTGATE DRIVE|Suite 150|SAINT PAUL
-11|Regulatory Technology Services|1000 WESTGATE DRIVE||SAINT PAUL
-11|SoilCCompany LLC|1000 Westgate Drive|Lab 1001|Saint Paul
-11|Loam Bio LLC|1000 Westgate Drive|Lab 1001|Saint Paul
-11|Zepto Life Technology Inc|1000 Westgate Drive|Ste 2000|St Paul
-11|Ocotillo Technology Consulting Inc|1000 Westgate Drive|Suite 119 C|St. Paul
-11|Biocontrol LLC|1000 Westgate Drive|Suite 119B|Saint Paul
-11|Zepto Life Technology Inc|1000 Westgate Drive|Suite 2000|Saint Paul
-11|Biocontrol LLC|1000 Westgate Drive|Suite 253|Saint Paul
-11|Loam Bio LLC|1000 Westgate Drive||Saint Paul
-10|PACE ANALYTICAL SERVICES LLC|2665 LONG LAKE ROAD|SUITE 300|ROSEVILLE
-10|PACE ANALYTICAL SERVICES LLC|2665 LONG LAKE ROAD||ROSEVILLE
-10|Nihilent INC|2665 Long Lake Road|STE 100|Rosevellie
-10|Nihilent INC|2665 Long Lake Road|STE 100|Roseville
-10|Nihilent Inc|2665 Long Lake Road|Ste 100|Roseville
-10|Nihilent INC|2665 Long Lake Road|Ste 100|Roseville
-10|Nihilent Inc|2665 Long Lake Road|Suite 100|Roseville
-10|NIHILENT INC|2665 Long Lake Road|Suite 100|Roseville
-10|NIHILENT ANALYTICS INC|2665 Long Lake Road|Suite 100|Roseville
-10|Nihilent Inc|2665 Long Lake Road|suite 100|Roseville
-9|EVS INC|10025 VALLEY VIEW ROAD|STE 140|EDEN PRAIRIE
-9|EVS INC|10025 VALLEY VIEW ROAD|SUITE 140|EDEN PRAIRIE
-9|EVS Inc|10025 Valley View Road|140|Eden Prairie
-9|EVS Inc|10025 Valley View Road|STE 140|Eden Prairie
-9|EVS, inc.|10025 Valley View Road|STE 140|Eden Prairie
-9|EVS Inc|10025 Valley View Road|Suite 140|Eden Prairie
-9|EVS, inc.|10025 Valley View Road|ste. 140|Eden Prairie
-9|EVS Inc|10025 Valley View Road|ste. 140|Eden Prairie
-9|EVS Inc|10025 Valley View Road||Eden Prairie
-9|UNI5TECH CORP.|12800 WHITEWATER DRIVE|SUITE 100|HOPKINS
-9|BPK TECH INC|12800 WHITEWATER DRIVE|SUITE 100|MINNETONKA
-9|SAMBATEK|12800 WHITEWATER DRIVE|SUITE 300|MINNETONKA
-9|MARITZ CONSULTING GROUP|12800 WHITEWATER DRIVE|SUITE 40|MINNETONKA
-9|Maritz Consulting Group Inc|12800 WHITEWATER DRIVE|SUITE 40|MINNETONKA
-9|NordicClick Interactive Corporation|12800 Whitewater Drive|Suite 135|Minnetonka
-9|Cousineau Malone, P.A.|12800 Whitewater Drive|Suite 200|Minnetonka
-9|Maritz Consulting Group|12800 Whitewater Drive|Suite 40|Minnetonka
-9|Maritz Consulting Group Inc|12800 Whitewater Drive|Suite 40|Minnetonka
-8|Jamf Software LLC|100 Washington Ave S|Suite 1100|Minneapolis
-8|SCH Services Inc|100 Washington Ave S|Suite 510|Minneapolis
-8|SCH Holdings Inc dba SullivanCotter Inc|100 Washington Ave S|Suite 510|Minneapolis
-8|SullivanCotter Inc|100 Washington Ave S|Suite 510|Minneapolis
-8|SCH Services Inc f/k/a SullivanCotter Inc|100 Washington Ave S|Suite 510|Minneapolis
-8|SCH Services Inc dba SullivanCotter Inc|100 Washington Ave S|Suite 510|Minneapolis
-8|SullivanCotter Inc dba Clinician Nexus|100 Washington Ave S|Suite 510|Minneapolis
-8|Jamf Software LLC|100 Washington Ave S||Minneapolis
-8|Integrated Health Group|2355 HIGHWAY 36 WEST|SUITE 400|Roseville
-8|Integrated Health Group|2355 HIGHWAY 36 WEST|SUITE 400|ROSEVILLE
-8|EMA Inc|2355 Highway 36 West|Suite 200|St. Paul
-8|Fitch Johnson Larson, P.A.|2355 Highway 36 West|Suite 300|Roseville
-8|Fitch, Johnson, Larson & Held, P.A.|2355 Highway 36 West|Suite 300|Roseville
-8|EMA Inc|2355 Highway 36 West|Suite 301|St. Paul
-8|Healthcare Information Technology Consulting Services|2355 Highway 36 West|Suite 400|Roseville
-8|EMA Inc|2355 Highway 36 West||St. Paul
-7|UTILIMARC INC|1660 HIGHWAY 100 SOUTH|SUITE 319|MINNEAPOLIS
-7|UTILIMARC LLC|1660 HIGHWAY 100 SOUTH|SUITE 319|ST. LOUIS PARK
-7|Horizontal Intergration Inc|1660 Highway 100 South|Suite 200|Saint Louis Park
-7|Horizontal Integration Inc|1660 Highway 100 South|Suite 200|Saint Louis Park
-7|Genesis MedTech (USA) Inc|1660 Highway 100 South|Suite 550|Saint Louis Park
-7|Genesis Medtech (USA) Inc|1660 Highway 100 South|Suite 550|Saint Louis Park
-7|Genesis Medtech (USA) INc.|1660 Highway 100 South|Suite 550|Saint Louis Park
-7|US Financial Advisory and Audit Firm|7300 Metro Blvd|560|Edina
-7|USFAAF Inc|7300 Metro Blvd|STE 560|Edina
-7|USFAAF Inc|7300 Metro Blvd|Ste 560|Edina
-7|Argos Risk LLC|7300 Metro Blvd|Suite 360|Edina
-7|US Financial dvisory and Audit Firm|7300 Metro Blvd|Suite 560|Edina
-7|US Financial Advisory and Audit firm|7300 Metro Blvd|Suite 560|Edina
-7|USFAAF Inc|7300 Metro Blvd|Suite 560|Edina
-6|C.H. Robinson Worldwide Inc|14701 Charlson Road|Suite 1600|Eden Prairie
-6|C. H. Robinson Shared Services Inc|14701 Charlson Road|Suite 1600|Eden Prairie
-6|C.H. Robinson Company Inc|14701 Charlson Road|Suite 1600|Eden Prairie
-6|C.H. Robinson Worldwide Inc|14701 Charlson Road||Eden Prairie
-6|C.H. Robinson Worldwide, Shared Services|14701 Charlson Road||Eden Prairie
-6|C.H. Robinson Shared Services Inc|14701 Charlson Road||Eden Prairie
-5|Stratagem Consulting LLC|11800 SINGLETREE LANE|SUITE 306|EDEN PRAIRIE
-5|STRATAGEM CONSULTING LLC|11800 SINGLETREE LANE|SUITE 306|EDEN PRAIRIE
-5|STRATAGEM CONSULTING LLC|11800 SINGLETREE LANE||EDEN PRAIRIE
-5|Stratagem Consulting LLC|11800 Singletree Lane|Suite 306|Eden Prairie
-5|Stratagem Consulting LLC|11800 Singletree lane|Suite 306|Eden Prairie
-5|Genisys Technologies INC|3545 Plymouth Blvd.|Ste 115|Plymouth
-5|Genisys Technologies Inc|3545 Plymouth Blvd.|Ste 115|Plymouth
-5|Genisys Technologies Inc|3545 Plymouth Blvd.|Suite 115|Plymouth
-5|Comsys Technologies Inc|3545 Plymouth Blvd.|Suite 115|Plymouth
-5|Genisys Technologies Inc|3545 Plymouth Blvd.||Plymouth
-5|ITProFound Inc|5858 Blackshire Path|Suite A|Inver Grove Heights
-5|ITProfound Inc|5858 Blackshire Path|Suite A|Inver Grove Heights
-5|G-SOL LLC|5858 Blackshire Path|Suite B|Inver Grove Heights
-5|ITProfound Inc|5858 Blackshire Path||Inver Grove Heights
-5|ITProFound Inc|5858 Blackshire Path||Inver Grove Heights
-5|Sezzle Inc|700 Nicollet Mall|640|Minneapolis
-5|Sezzle Inc|700 Nicollet Mall|STE 640|Minneapolis
-5|The Lacek Group LLC|700 Nicollet Mall|Suite 610|Minneapolis
-5|Sezzle Inc|700 Nicollet Mall|Suite 640|Minneapolis
-5|Sezzle|700 Nicollet Mall|Suite 640|Minneapolis
-5|NGI Capital Inc|7200 80th Street South|030 Apartment|Cottage Grove
-5|NGI Capital Inc|7200 80th Street South|APT 030|Cottage Grove
-5|NGI Capital Inc dba Apex IT|7200 80th Street South|Apartment 030|Cottage Grove
-5|NGI Capital Inc|7200 80th Street South|Apartment 030|Cottage Grove
-5|NGI Capital Inc|7200 80th Street South|Suite 030|Cottage Grove
-5|TEKhops LLC|7525 Mitchell Road|STE 305|Eden Prairie
-5|TEKhops LLC|7525 Mitchell Road|Ste 305|Eden Prairie
-5|Qen Labs Inc|7525 Mitchell Road|Suite 208|Eden Prairie
-5|TekHops LLC|7525 Mitchell Road|Suite 305|Eden Prairie
-5|TEKhops LLC|7525 Mitchell Road|Suite 305|Eden Prairie
-5|Stratagem Consulting LLC|7760 France Avenue South|11th Floor|Edina
-5|Wyde Corporation|7760 France Avenue South|11th Floor, Suite 1122|Bloomington
-5|Wyde Corporation|7760 France Avenue South|Suite 1122|Bloomington
-5|Logic Information Systems LLC|7760 France Avenue South|Suite 640|Bloomington
-5|Logic Information Systems Inc|7760 France Avenue South|Suite 640|Bloomington
-5|BENTO TECHNOLOGIES INC|800 NICOLLET MALL||MINNEAPOLIS
-5|Bento Technologies Inc|800 Nicollet Mall|Floor 21|MINNEAPOLIS
-5|Bento Technologies Inc|800 Nicollet Mall||Minneapolis
-5|Travelator Inc|800 Nicollet Mall||Minneapolis
-5|Bento Technologies Inc (dba Bento for Business)|800 Nicollet Mall||Minneapolis
-4|Boulay PLLP|11095 Viking Drive|500|Eden Prairie
-4|Arcus Technologies Inc dba Kat Tech Systems Inc|11095 Viking Drive|Suite 220|Eden Prairie
-4|Arcus Technologies|11095 Viking Drive|Suite 220|Eden Praire
-4|Arcus Technologies|11095 Viking Drive|Suite 220|Eden Prairie
-4|Enable Data Incorporated|2811 University Avenue SE|14926|Minneapolis
-4|Enable Data Inc|2811 University Avenue SE|14926|Minneapolis
-4|Enable Data Incorporated|2811 University Avenue SE|Suite 14926|Minneapolis
-4|Enable Data Incorporated|2811 University Avenue SE||Minneapolis
-4|SPS COMMERCE INC|333 SOUTH SEVENTH STREET|SUITE 1000|MINNEAPOLIS
-4|SPS Commerce Inc|333 South Seventh Street|1000|Minneapolis
-4|SPS Commerce Inc|333 South Seventh Street|Suite 1000|Minneapolis
-4|Navitaire LLC|333 South Seventh Street|Suite 1700|Minneapolis
-4|Icon IT Group|3535 Plymouth Blvd|Suite 112|Plymouth
-4|Icon ITGroup|3535 Plymouth Blvd|Suite 112|Polymouth
-4|Icon ITGroup|3535 Plymouth Blvd|Suite 112|PLYMOUTH
-4|Icon ITGroup|3535 Plymouth Blvd|Suite 112|Plymouth
-4|Visual Consultants Inc|4900 Hwy 169 N|140|New Hope
-4|Visual Consultants Inc|4900 Hwy 169 N|SUITE 140|New Hope
-4|Visual Consultants Inc|4900 Hwy 169 N|Ste 140|New Hope
-4|Visual Consultants Inc|4900 Hwy 169 N|Suite 140|New Hope
-4|DORSEY & WHITNEY LLP|50 SOUTH SIXTH STREET|SUITE 1500|MINNEAPOLIS
-4|Next Silicon Inc|50 South Sixth Street|Suite 1410|Minneapolis
-4|Dorsey & Whitney LLP|50 South Sixth Street|Suite 1500|Minneapolis
-4|Stinson LLP|50 South Sixth Street|Suite 2600|Minneapolis
-4|Professional Consulting Inc|5275 Edina Industrial Blvd|STE 101|Edina
-4|Professional Consulting Inc,|5275 Edina Industrial Blvd|STE 101|Edina
-4|Professional Consulting Inc|5275 Edina Industrial Blvd|Ste 101|Edina
-4|Professional Consulting Inc|5275 Edina Industrial Blvd|Suite 101|Edina
-4|Korber Supply Chain US Inc|5600 W 83rd Street|Suite 600|Minneapolis
-4|Korber Supply Chain NA LLC|5600 W 83rd Street|Suite 600|Minneapolis
-4|Korber Supply Chain NA LLC|5600 W 83rd Street||Minneapolis
-4|Korber Supply Chain US Inc|5600 W 83rd Street||Minneapolis
-4|Tekemploi Co.|601 Carlson Parkway|Suite 1050|Minnetonka
-4|Platform 3 Solutions LLC|601 Carlson Parkway|Suite 1050|Minnetonka
-4|TekEmploi Co|601 Carlson Parkway|Suite 1050|Minnetonka
-4|AngioInsight Inc|601 Carlson Parkway|Suite 1290|Minnetonka
-4|Smart Solutions Inc|8401 Wayzata Blvd|240|Golden Valley
-4|Smart Solutions Inc|8401 Wayzata Blvd|Ste 240|55426
-4|Smart Solutions Inc|8401 Wayzata Blvd|Ste 240|Golden Valley
-4|Smart Solutions Inc|8401 Wayzata Blvd|Suite 240|Golden Valley
-4|Aviaxin LLC|871 7TH ST E|STE 1E|SAINT PAUL
-4|AVIAXIN LLC|871 7TH ST E|Suite 1E|Saint Paul
-4|Select Inc|871 7TH ST E|Suite 3A|Saint Paul
-4|Aviaxin LLC|871 7th St E|STE 1E|Saint Paul
-4|INTERTECH SYSTEMS LLC|900 2ND AVENUE SOUTH|SUITE 1550|Minneapolis
-4|InterTech Systems LLC|900 2nd Avenue South|Suite 1550|Minneapolis
-4|InterTech systems LLC|900 2nd Avenue South|Suite 1550|Minneapolis
-4|The Lacek Group LLC|900 2nd Avenue South|Suite 1800|Minneapolis
-3|ARROW SOLUTIONS INC|100 S 5TH STREET|19TH FLOOR|MINNEAPOLIS
-3|Turnberry Solutions Inc|100 S 5th Street|Suite 300|Minneapolis
-3|TURNBERRY SOLUTIONS INC|100 S 5th Street|Suite 300|Minneapolis
-3|Schwegman Lundberg & Woessner, P.A.|121 SOUTH 8TH STREET|1600 TCF TOWER|MINNEAPOLIS
-3|Schwegman Lundberg and Woessner, P.A.|121 SOUTH 8TH STREET|Ste 1600|MINNEAPOLIS
-3|Schwegman Lundberg & Woessner, P.A.|121 South 8th Street|Suite 1600|Minneapolis
-3|Maritz Consulting Group Inc|12800 Whitewater Dr.|Ste 40|Minnetonka
-3|Maritz Consulting Group Inc|12800 Whitewater Dr.|Suite 40|Minnetonka
-3|Maritz Consulting Group|12800 Whitewater Dr.|Suite 40|Minnetonka
-3|Rogers, Freels & Associates Inc|12986 VALLEY VIEW ROAD||Eden Prairie
-3|Rogers, Freels & Associates Inc|12986 Valley View Road||Eden Prairie
-3|Rogers, Freels and Associates Inc|12986 Valley View Road||Eden Prairie
-3|OASYS TECHNOLOGIES INC|2121 CLIFF DR|SUITE 227|EAGAN
-3|Oasys Technologies Inc|2121 CLIFF DR|SUITE 227|EAGAN
-3|Oasys Technologies Inc|2121 Cliff Dr|Suite 227|Eagan
-3|INTERNATIONAL DECISION SYSTEMS INC|220 SOUTH 6TH STREET|SUITE 700|MINNEAPOLIS
-3|FOXO Bioscience LLC|220 South 6th Street|Suite 1200|Minneapolis
-3|CliftonLarsonAllen LLP|220 South 6th Street|Suite 300|Minneapolis
-3|Avant Energy Inc|220 South Sixth Street|Suite 1300|Minneapolis
-3|CliftonLarsonAllen, LLP|220 South Sixth Street|Suite 300|Minneapolis
-3|CliftonLarsonAllen LLP|220 South Sixth Street||Minneapolis
-3|Igbanugo Partners Intl Law Firm|250 Marquette Ave|Suite 1075|Minneapolis
-3|Atomic Data LLC|250 Marquette Ave|Suite 225|Minneapolis
-3|Foley & Mansfield, PLLP|250 Marquette Ave|Suite 540|Minneapolis
-3|Sezzle Inc,|251 North 1st Avenue|Suite 200|Minneapolis
-3|Sezzle Inc|251 North 1st Avenue|Suite 200|Minneapolis
-3|Sezzle Inc|251 North 1st Avenue||Minneapolis
-3|Thomson Reuters Services Inc|2900 Ames Crossing Road|Suite 100|Eagan
-3|Prime Therapeutics LLC|2900 Ames Crossing Road||Eagan
-3|Thomson Reuters Services Inc|2900 Ames Crossing Road||Eagan
-3|SoftnInc|3545 Plymouth Blvd|STE 115|Plymouth
-3|Softn Inc|3545 Plymouth Blvd|STE 115|Plymouth
-3|Genisys Technologies Inc|3545 Plymouth Blvd|Ste 115|Plymouth
-3|TekHops LLC|540 Greenhaven Road|Suite 102|Anoka
-3|Tekhops LLC|540 Greenhaven Road|Suite 102|Anoka
-3|TEKhops LLC|540 Greenhaven Road|Suite 102|Anoka
-3|NanoArk Technology LLC|6385 Old Shady Oak Road|Ste 250|Eden Prairie
-3|NanoArk Technology LLC|6385 Old Shady Oak Road|Suite 250|Eden Prairie
-3|KonnectingTree Inc|6385 Old Shady Oak Road|Suite 250|Eden Prairie
-3|Contreras Edin Law, P.A.|663 University Avenue West|Suite 200|St. Paul
-3|Contreras Edin & Associates PLLC|663 University Avenue West|Suite 200|St. Paul
-3|Contreras Edin Law & Associates PLLC|663 University Avenue West|Suite 200|St. Paul
-3|Dwaith Info Tech Inc|7300 West 147th Street|Suite 202|Apple Valley
-3|Dwaith Info Tech Inc|7300 West 147th Street|Suite 202 A|Apple Valley
-3|Dwaith InfoTech Inc|7300 West 147th Street|Suite 500A|Apple Valley
-3|Integrhythm Inc|7760 France Ave S|11th Floor|Bloomington
-3|Stratagem Consulting LLC|7760 France Ave S|Floor 11|Edina
-3|Carpenter, Evert & Associates, Ltd.|7760 France Ave S|Suite 940|Bloomington
-3|eCapital Advisors LLC|7900 Xerxes Ave S|Ste 1300|Bloomington
-3|Total Dynamic Solutions LLC|7900 Xerxes Ave S|Ste 2100|Bloomington
-3|ExperienceIT LLC|7900 Xerxes Ave S|Suite 1400|Bloomington
-3|Open Access Technology International Inc|7901 Computer Avenue||BLOOMINGTON
-3|Open Access Technology International Inc|7901 Computer Avenue||Bloomington
-3|Open Access Technology Internatinal Inc|7901 Computer Avenue||BLOOMINGTON
-3|Redifcard Technologies LLC|8120 PENN AVE S|STE 100 D|BLOOMINGTON
-3|NEXT TECHNOLOGIES LLC|8120 PENN AVE S|SUITE 100 D|BLOOMINGTON
-3|Redifcard Technologies LLC|8120 PENN AVE S|SUITE 100 D|BLOOMINGTON
-3|SYMBIOSIS CONSULTING SERVICES INC|8170 Old Carriage Court|Suite 200|Shakopee
-3|Symbiosis Consulting Services Inc|8170 Old Carriage Court|Suite 243|Shakopee
-3|SYMBIOSIS CONSULTING SERVICES INC|8170 Old Carriage Court|Suite 243|Shakopee
-3|Integrated Decisions and Systems Inc|8500 Normandale Lake Blvd|Suite 1200|Bloomington
-3|Sankrish Consulting LLC|8500 Normandale Lake Blvd|Suite 350|Bloomington
-3|Frank N. Magid Associates Inc|8500 Normandale Lake Blvd|Suite 630|Minneapolis
-3|Nicolette IT Services INC|860 BLUE GENTIAN ROAD|SUIT 200|EAGAN
-3|NICOLETTE IT SERVICES INC|860 BLUE GENTIAN ROAD|SUITE 200|EAGAN
-3|NICOLETTE IT SERVICES INC|860 Blue Gentian Road|SUITE 200|EAGAN
-3|Arctic Wolf Networks Inc|8939 Columbine Road|Suite 150|Eden Prairie
-3|Arctic Wolf Network Inc|8939 Columbine Road||Eden Prairie
-3|Arctic Wolf Networks Inc|8939 Columbine Road||Eden Prairie
-3|U.S. ELECTRONICS INC|900 COLORADO AVENUE S.||MINNEAPOLIS
-3|Lumin Innovations|900 Colorado Avenue S||Minneapolis
-3|US Electronics Inc|900 Colorado Avenue S||Minneapolis
-3|U.S. Electronics Inc|900 Colorado Avenue S||Minneapolis
-3|U.S. Electronics Inc|900 Colorado Avenue S.||Minneapolis
-3|Lumin Innovations Inc|900 Colorado Avenue S.||Minneapolis
-3|OPTUM SERVICES INC|9900 BREN ROAD EAST||MINNETONKA
-3|UNITED HEALTHCARE SERVICES INC|9900 BREN ROAD EAST||MINNETONKA
-3|United HealthCare Services Inc|9900 Bren Road East||Minnetonka
-2|TURNBERRY SOLUTIONS INC|100 S 5th St|Suite 300|Minneapolis
-2|TURNBERRY SOLUTIONS INC|100 S 5th St||Minneapolis
-2|Turnberry Solutions Inc|100 South 5th Street|Suite 300|Minneapolis
-2|3Bridge Solutions LLC|100 South 5th Street|Suite 300|Minneapolis
-2|Infinitintel Inc|100 Third Avenue South|Unit 3001|Minneapolis
-2|Infinitintel Inc|100 Third Avenue South|unit 3001|minneapolis
-2|Eagle Creek Software Services Inc|10050  Crosstown Circle|Suite 650|Eden Prairie
-2|Eagle Creek Software Services Inc|10050  Crosstown Circle||Eden Prairie
-2|Olson, Clough, & LeBlanc, Ltd.|10580 Wayzata Blvd|Apt. 200|Minnetonka
-2|Steven C Thal PA|10580 Wayzata Blvd|Ste 100|Minnetonka
-2|Lawinger Consulting Inc|106 Central Avenue|Suite A|Osseo
-2|Lawinger Consulting Inc|106 Central Avenue||Osseo
-2|Barder, Ltd.|10700 Highway 55|Suite 245|Plymouth
-2|Barder, Ltd|10700 Highway 55|Suite 245|Plymouth
-2|CONVERGEONE INC|10900 NESBITT AVENUE SOUTH||BLOOMINGTON
-2|ConvergeOne Inc|10900 Nesbitt Avenue South||Bloomington
-2|TECHLITE STAFFING INC|111 WASHINGTON AVE N||MINNEAPOLIS
-2|TECHLITE STAFFING INC|111 Washington Ave N||MINNEAPOLIS
-2|Nextern Innovation LLC|1185 Birch Lake Blvd N||White Bear Lake
-2|MFG Solutions Inc|1185 Birch Lake Blvd N||White Bear Lake
-2|Data Sciences International Inc|119 14th Street NW|Suite 100|St. Paul
-2|Data Sciences International Inc|119 14th Street NW|Suite 100|Saint Paul
-2|Design Tree Engineering Inc|120 17th Ave W||Alexandria
-2|Design Tree Engineering|120 17th Ave W||Alexandria
-2|Sapientia Law Group|120 South 6th Street|Suite 100|Minneapolis
-2|Sapientia Law Group, PLLC|120 South 6th Street|Suite 100|Minneapolis
-2|IZiel Healthcare Inc|121 Washington Avenue N.|Ste 306|Minneapolis
-2|IZiel Healthcare Inc|121 Washington Avenue N.|Suite 306|Minneapolis
-2|IZiel Healthcare Inc|121 Washington Avenue North|Suite 306|Minneapolis
-2|Wagento Creative LLC|121 Washington Avenue North|Suite 400|Minneapolis
-2|Shunaki Technologies Inc|12410 Davenport Street NE||BLAINE
-2|Shunaki Technologies Inc|12410 Davenport Street NE||Blaine
-2|Municipal Parking Services Inc|12450 Wayzata Blvd|Ste 200|Minnetonka
-2|Municipal Parking Services Inc|12450 Wayzata Blvd|Suite 200|Minnetonka
-2|Maritz Consulting Group|12800 Whitewater Drive, Suite  40||Minnetonka
-2|Maritz Consulting Group Inc|12800 Whitewater Drive, Suite  40||Minnetonka
-2|SAM Sensory and Marketing Research US Inc|13755 1st Avenue North||Plymouth
-2|The National Food Lab Inc|13755 1st Avenue North||Plymouth
-2|SEBESTA INC|1450 ENERGY PARK DRIVE|SUITE 300|ST. PAUL
-2|Sebesta Inc|1450 Energy Park Drive|Suite 300|St. Paul
-2|C. H. Robinson Shared Services Inc|14701 Charlson Rad|Suite 1600|Eden Prairie
-2|C. H. Robinson Shared Services Inc|14701 Charlson Rad||Eden Prairie
-2|BARSNESS SOLUTIONS LLC|15 S 5TH ST|SUITE 500|MINNEAPOLIS
-2|Barsness Solutions LLC|15 S 5th St|Suite 500|Minneapolis
-2|PRUDENT ACCOUNTANTS INC|1520 E 66TH STREET||RICHFIELD
-2|PRUDENT ACCOUNTANTS INC|1520 E 66th Street||Richfield
-2|Matrixcare Inc|1550 American Blvd. East|9th Floor|Bloomington
-2|Brightree Home Health & Hospice LLC|1550 American Blvd. East|9th Floor|Bloomington
-2|B2B TECHNOLOGY INC|15600 35th Avenue N|SUITE 102|PLYMOUTH
-2|B2B TECHNOLOGY INC|15600 35th Avenue N|Suite 102|Plymouth
-2|BETASHARP INC|1710 NORTH DOUGLAS DR|SUITE 209A|GOLDEN VALLEY
-2|Betasharp Inc|1710 North Douglas Dr|Suite 209A|Golden Valley
-2|Flex-Able Solutions LLC|200 Southdale Center|Suite 47|Edina
-2|Partners in Food Solutions|200 Southdale Center||Edina
-2|Coen Partners LLC|200 Washington Ave N|STE 300|Minneapolis
-2|CoenPartners|200 Washington Ave N|STE 300|Minneapolis
-2|HVP Foundation for Inclusive Veterinary Growth|20580 Hazelwood Trail||Lakeville
-2|HVP Capital JV LLC|20580 Hazelwood Trail||Lakeville
-2|Space150 LLC|212 3rd Ave N|Suite 150|Minneapolis
-2|Center for Energy and Environment|212 3rd Ave N|Suite 560|Minneapolis
-2|Pioneer Project Services LLC|212 Third Avenue North|Suite 376|Minneapolis
-2|Media Bridge Inc|212 Third Avenue North|Suite 400|Minneapolis
-2|Oasys Technologies Inc|2121 CLIFF DRIVE|SUITE 227|EAGAN
-2|Oasys Technologies Inc|2121 Cliff Drive|Suite 227|Eagan
-2|IKONIC SOFT INC|2355 HIGHWAY 36 W|SUITE 400|ROSEVILLE
-2|Advanced Technologies Integration Inc|2355 Highway 36 W|Suite 482|Roseville
-2|Xylo Technologies Inc|2434 Superior Drive NW|Suite 105|Rochester
-2|XYLO Technologies Inc|2434 Superior Drive NW|Suite 105|Rochester
-2|Ericksen, Roed and Associates Inc|2550 University Ave W|Suite 423 S|Saint Paul
-2|Groer LLC|2550 University Ave W|Suite 460S|St. Paul
-2|Augeo Affinity Marketing Inc|2561 Territorial Road||St. Paul
-2|Augeo Affinity Marketing Inc|2561 Territorial Road||Saint Paul
-2|Mazanec, Bauer & Associates, P.L.C.|2600 Eagan Woods Drive|Suite 210|Eagan
-2|ASK LLP|2600 Eagan Woods Drive|Suite 400|Saint Paul
-2|Imanis Life Sciences LLC|2900 37th Street NW|Building 110|Rochester
-2|Vyriad Inc|2900 37th Street NW|Building 110|Rochester
-2|Livefront Inc|2913 Harriet Avenue S.|Suite 101|Minneapolis
-2|Livefront LLC|2913 Harriet Avenue S.|Suite 101|Minneapolis
-2|PRASQUARE TECHNOLOGIES LLC|3030 Harbor Lane N|Suite 100|Plymouth
-2|PRASQUARE TECHNOLOGIES LLC|3030 Harbor Lane N|Suite 127|Plymouth
-2|Blue Sages Inc|3242 Rice Street||St. Paul
-2|Blue Sages Inc|3242 Rice Street||Saint Paul
-2|Dayforce US Inc|3311 E. Old Shakopee Road||Minneapolis
-2|Ceridian HCM Inc|3311 E. Old Shakopee Road||Minneapolis
-2|Leading Edge Technologies LLC|333 Washington Avenue N|Suite 300 9031|Minneapolis
-2|Leading Edge Technologies|333 Washington Avenue N|Suite 300 9031|Minneapolis
-2|Swarky Solutions Corporations|3340B ANNAPOLIS LANE NORTH||PLYMOUTH
-2|Swarky Solutions Corporations|3340B Annapolis Lane North||PLYMOUTH
-2|POINTWEST TECHNOLOGIES CORP US|3470 WASHINGTON DRIVE|SUITE 210|EAGAN
-2|POINTWEST TECHNOLOGIES CORP US|3470 Washington Drive|SUITE 210|Eagan
-2|TTEC Digital LLC|3500 American Boulevard West|Suite 300|Bloomington
-2|Avtex Solutions LLC|3500 American Boulevard West|Suite 300|Bloomington
-2|TECHVISION CO|3571 Springwood Path||Eagan
-2|Techvision Co|3571 Springwood Path||Eagan
-2|LGC US Service Company Inc|3600 Minnesota Street||Alexandria
-2|LGC Genomics LLC|3600 Minnesota Street||Alexandria
-2|BWBR Architects Inc|380 St. Peter Street|Suite 600|St. Paul
-2|BWBR Architects Inc|380 St. Peter Street|Suite 600|Saint Paul
-2|Perforce Software Inc|400 First Avenue North|Suite 400|Minneapolis
-2|Delphix Corp.|400 First Avenue North|Suite 400|Minneapolis
-2|Qumu Corporation|400 S 4Th Street|4th floor|Minneapolis
-2|Elan TC LLC|400 S 4th Street|Suite 401 236|Minneapolis
-2|phData Inc|400 South 4th Street|Suite 401|Minneapolis
-2|Elan TC LLC|400 South 4th Street|Suite 401 236|Minneapolis
-2|YCO US Inc|4000 Inglewood Ave S.||Edina
-2|YCo US Inc|4000 Inglewood Ave S.||Edina
-2|Granicus LLC|408 St. Peter Street|Suite 600|St. Paul
-2|Granicus LLC|408 St. Peter Street||St. Paul
-2|Open Systems International Inc|4101 Arrowhead Drive|Minnesota|Medina
-2|Open Systems International Inc|4101 Arrowhead Drive||Medina
-2|Phaedon LLC|420 North 5th Street|Suite 1000|Minneapolis
-2|When I Work Inc|420 North 5th Street|Suite 500|Minneapolis
-2|Sagitec Solutions LLC|422 County Road D East||Saint Paul
-2|Sagitec Solutions LLC|422 County Road D East||Little Canada
-2|Radian Group Inc|4600 West 77th Street|Suite 380|Edina
-2|Radian Group Inc|4600 West 77th Street||Edina
-2|Gori & Associates LLC|4633 1st Ave South||Minneapolis
-2|Gori and Associates LLC|4633 1st ave south||Minneapolis
-2|Isthmus Engineering Inc|500 Jackson Street||St. Paul
-2|Isthmus Engineering Inc|500 Jackson Street||Saint Paul
-2|Concord USA|509 2nd Ave S||Hopkins
-2|Concord USA LLC|509 2nd Ave S||Hopkins
-2|Concord USA|509 2nd Avenue S||Hopkins
-2|Concord USA LLC|509 2nd Avenue S||Hopkins
-2|WORLD TRANSLOAD AND LOGISTICS LLC|5101 BOONE AVE NORTH||NEW HOPE
-2|World Transload & Logistics LLC|5101 Boone Ave North||New Hope
-2|Provation Software Inc|533 South 3rd Street|Suite 300|Minneapolis
-2|Provation Software Inc|533 South 3rd Street||Minneapolis
-2|Icario Inc|5401 Gamble Dr|Ste 201|St. Louis Park
-2|Icario Inc|5401 Gamble Dr|Ste 300|Minneapolis
-2|Alpine Techq inc|5624 Lincoln Drive|Suite 230|Edina
-2|Alpine Techq Inc|5624 Lincoln Drive|Suite 230|Edina
-2|OREMDA INFOTECH INC|5851 CEDAR LAKE ROAD SOUTH|SUITE 305|ST. LOUIS PARK
-2|OREMDA INFOTECH INC|5851 CEDAR LAKE ROAD SOUTH|SUITE 305|SAINT LOUIS PARK
-2|Antea USA Inc|5910 Rice Creek Parkway|Suite 100|St. Paul
-2|Antea USA Inc|5910 Rice Creek Parkway||St. Paul
-2|SRR Law Group LLC|600 25th Avenue S|Ste 104|St Cloud
-2|SRR Law Group LLC|600 25th Avenue S|Ste 201|St Cloud
-2|International Projects Consultancy Services (IPCS) Inc|600 Highway 169 South|METROPOINT 1595|MINNEAPOLIS, MN 55426
-2|International Projects Consultancy Services (IPCS) Inc|600 Highway 169 South|METROPOINT, Suite 1595|MINNEAPOLIS
-2|KB Law PLLC|6109 Blue Circle Drive|SUite 1030|Minnetonka
-2|KB Law PLLC|6109 Blue Circle Drive|Suite 1030|Minnetonka
-2|WSB & Associates Inc|701 Xenia Ave S|Suite 300|Minneapolis
-2|WSB LLC|701 Xenia Ave S|Suite 300|Minneapolis
-2|FOXO Technologies Operating Company|729 North Washington Avenue|Suite 600|Minneapolis
-2|Pioneer Project Services LLC|729 North Washington Avenue|Suite 600|Minneapolis
-2|MIDWEST SUSTAINABLE GREEN ENERGY INC|7393 Bush Lake Road||Minneapolis
-2|Midwest Sustainable Green Energy Inc|7393 Bush Lake Road||Minneapolis
-2|AMEC Consulting LLC|7760 France Ave South|Suite 151Ste 160|Bloomington
-2|Infios US Inc|7760 France Ave South|Suite 800|Bloomington
-2|TAJ Technologies Inc|7900 International Drive|Suite 310|Bloomington
-2|TAJ Technologies Inc|7900 International Drive|Suite 405|Bloomington
-2|SymphonyAI Industrial Digital Manufacturing Inc|7900 Xerxes Ave South|Ste 1730|Bloomington
-2|eCapital Advisors LLC|7900 Xerxes Ave South|Suite 1300|Bloomington
-2|MINDSET CONSULTING LLC|800 WASHINGTON AVENUE NORTH|SUITE 905|MINNEAPOLIS
-2|Mindset Consulting LLC|800 Washington Avenue North|Suite 905|Minneapolis
-2|JAVEN TECHNOLOGIES INC|8030 OLD CEDAR AVE|SUITE 225|BLOOMINGTON
-2|Javen Technologies Inc|8030 Old Cedar Ave|Ste 225|Bloomington
-2|CAD Technology Center|8101 34th Avenue South|100|Bloomington
-2|CAD Technology Center Inc|8101 34th Avenue South|Suite 100|Bloomington
-2|Hennepin Healthcare Research Institute|825 South 8th Street|Suite PP4.430|Minneapolis
-2|HENNEPIN HEALTHCARE RESEARCH INSTITUTE|825 South 8th Street|Suite PP4.430|Minneapolis
-2|Systek Inc|8400 Norman dale lake Blvd|Suite 920|Bloomington
-2|Systek Inc|8400 Norman dale lake Blvd|suite 920|Bloomington
-2|Applied Data Systems Inc|8401 Golden Valley Road, Suite 200||Golden Valley
-2|Applied Data Systems Inc,|8401 Golden Valley Road, Suite 200||Golden Valley
-2|Integrated Decisions and Systems Inc (IDeaS)|8500 Normandale Lake Boulevard|Suite 1200|Bloomington
-2|Integrated Decisions and Systems Inc - IDeaS|8500 Normandale Lake Boulevard|Suite 1200|Bloomington
-2|SHAHZAD & CO LLC|871 7TH STREET EAST||ST. PAUL
-2|SHAHZAD & CO LLC|871 7th Street East|Suite 1A|SAINT PAUL
-2|SINGH360 INC|879 Meander Ct.||Medina
-2|Singh360 Inc|879 Meander Ct.||Medina
-2|Global Intellectuals LLC|900 American Boulevard E|Suite 143|Bloomington
-2|Global Intellectuals LLC|900 American Boulevard E|Suite 144|Bloomington
-2|Elire Inc|920 2nd Ave South|Suite 750|Minneapolis
-2|Elire LLC|920 2nd Ave South|Suite 750|Minneapolis
-2|Loeffler Professional Services LLC|9202 202nd St W|Suite 100|Lakeville
-2|Loeffler Professional Services|9202 202nd St W|Suite 100|Lakeville
-1|One Pass Solutions Inc|1 Health Drive, MN103-0800||Eden Prairie
-1|Optum Services Inc|1 Optum Circle||Eden Prairie
-1|Mahoney, Ulbrich, Christiansen & Russ P.A.|10 River Park Plaza|Suite 800|St. Paul
-1|WINGEN SYSTEMS INC|100 FULLER STREET SOUTH|SUITE 250|SHAKOPEE
-1|Kipsu Inc|100 N. 6th Street|Suite 700B|Minneapolis
-1|Kognitiv US LLC|100 North Sixth Street|Suite 650C|Minneapolis
-1|OLR America Inc|100 S. 5th Street|Suite 850|Minneapolis
-1|Bold Orange Company LLC|100 S. Washington Avenue|Suite 750|Minneapolis
-1|Turnberry Solutions Inc|100 South 5th St|Suite 300|Minneapolis
-1|Wagner, Falconer & Judd, LTD.|100 South 5th Street, Suite 800||Minneapolis
-1|Foundry Co|100 South 5th Street, Suite 950||Minneapolis
-1|Fountane Inc|100 Warren St|Suite 300 155|Mankato
-1|Fountane Inc|100 Warren St.|Suite 300 155|Mankato
-1|FOUNTANE INC|100 Warren Street|Suite 300 155|MANKATO
-1|Jamf Software LLC|100 Washington Ave S Minneapolis||Minneapolis
-1|HaystackID LLC|1000 Parkers Lake Road||Wayzata
-1|Ryke Labs LLC|1000 Shelard Parkway|Suite 200|St. Louis Park
-1|Frontline Biotechnologies Inc|1000 Westgate Dr.|Room 140|St. Paul
-1|Astrin Biosciences Inc|1000 Westgate Drive, Ste 1010||Saint Paul
-1|EVS Inc|10025 Valley Vie Road|STE 140|Eden Prairie
-1|Eagle Creek Software Services Inc|10050 Crosstown Circle|Suite 650|Eden Prairie
-1|Exhibit Partners LLC|10100 85th Ave||Maple Grove
-1|Sunlight Insurance Holdings LLC|10176 Cloman Path||Inver Grove Heights
-1|DDL Inc|10200 Valley View Road|Suite 101|Eden Prairie
-1|Digital River Inc|10380 Bren Road West||Minnetonka
-1|Innovative Surface Technologies Inc|1045 Westgate Drive|Suite 100|Saint Paul
-1|Nwokocha & Operana Law Offices LLC|105 5th Avenue South|Suite 550|Minneapolis
-1|Nextern Innovation LLC|10601 Fountains Drive||Maple Grove
-1|Arbiter Software LLC|1063 Weir Drive|Suite 100|Woodbury
-1|Barder, Ltd.|10700 Highway 44|Suite 245|Plymouth
-1|Hrizons LLC|10749 108th Ave N||Hanover
-1|ConvergeOne Inc|10900 Nesbitt Ave South||Bloomington
-1|Global Overview LLC|10900 Wayzata Blvd.|Suite 600|Minnetonka
-1|Eighth Floor Group LLC|1099 Ameriprise Financial Center||Minneapolis
-1|i.e. network LLC|110 North 5th Street|Suite 420|Minneapolis
-1|Carmichael Lynch Inc|110 North Fifth Street||Minneapolis
-1|Optum Services Inc|1100 Optum Circle||Eden Prairie
-1|BRAUN INTERTEC CORPORATION|11001 HAMPSHIRE AVENUE S||MINNEAPOLIS
-1|One10 LLC|11055 Wayzata Blvd, STE. 100||Minnetonka
-1|Nova Group, GBC|1107 Hazeltine Blvd.|Suite 400|Chaska
-1|Itasca Consulting Group Inc|111 3rd Avenue South|STE 450|Minneapolis
-1|Mid-Minnesota Legal Assistance Incorporated|111 N. Fifth Street|Suite 100|Minneapolis
-1|Mid-Minnesota Legal Assistance|111 N5th St, SUITE 100||MINNEAPOLIS
-1|MVP Marketing & Design Inc|111 Third Ave S|Suite 230|Minneapolis
-1|Itasca Consulting Group Inc|111 Third Avenue South|Suite 450|Minneapolis
-1|World Kinect Energy Inc|11100 Wayzata Boulevard|Suite 200|Minnetonka
-1|Enhance Product Development Inc|11108 Zealand Ave N|Suite 208|Champlin
-1|Enhance Product Development Inc|11180 Zealand Ave N||Champlin
-1|SUDHKO INC|11322 86TH AVENUE NORTH||MAPEL GROVE
-1|I & S Group Inc|115 East Hickory Street|Suite 300|Mankato
-1|Thomas Oslund and Associates Inc|115 Washington Ave N|Suite 200|Minneapolis
-1|EMBLEMATIC TECH SOLUTIONS LLC|11670 FOUNTAINS DR|SUITE 200|MINNEAPOLIS
-1|Venture Solutions Inc|1170 Grey Fox Road||Arden Hills
-1|Kelpie LLC|11724 Redfox Drive||Maple Grove
-1|Stoneridge Holdings Inc|118 Front Street South||Barnesville
-1|Nextern Innovation LLC|1185 N Birch Lake Blvd||White Bear Lake
-1|Data Sciences International Inc|119  14th Street NW|STE 100|St. Paul
-1|Bain Digital Marketing LLC|120 1ST AVE N|STE 300|MINNEAPOLIS
-1|Bain Digital Marketing LLC|120 1st Avenue N|Suite 300|Minneapolis
-1|MAKE LLC|120 S 6th St|Ste 1800|Minneapolis
-1|Nelson Worldwide Inc|1201 South Marquette Avenue|Suite 200|Minneapolis
-1|STOC Advisory|121 N. Washington Avenue|Suite 334|Minneapolis
-1|Schwegman Lundberg & Woessner, P.A.|121 South 8th St.|Suite 1600|Minneapolis
-1|IZiel Healthcare Inc|121 Washington Avenue N|Ste 306|Minneapolis
-1|EXPLICIT SYSTEMS USA INC|12100 SINGLETREE LANE|SUITE 196|EDEN PRAIRIE
-1|Research in Action LLC|1222 Washburn Avenue N||Minneapolis
-1|Village Practice Management Company LLC|125 S Clark St.|Suite 900|Chicago
-1|Cryosa Inc|1265 Grey Fox Road|Unit 5|Arden Hills
-1|Westwood Professional Services Inc|12701 WHITEWATER DR|STE 300|MINNETONKA
-1|Westwood Professional Services Inc|12701 Whitewater Drive|Suite 300|Minnetonka
-1|Computer Programs and Systems Inc|12744 Hwy 55||Plymouth
-1|LJS Services LLC|12745 42nd Place N.||Plymouth
-1|LJS Services LLC|12745 42nd Place North||Plymouth
-1|EXB Solutions Inc|12755 Highway 55|Suite J210|Minneapolis
-1|SYNERGY SOFTWARE SOLUTIONS INC|12795 COLLEGE VIEW DRIVE|SUITE 105|EDEN PRAIRIE
-1|BPK TECH INC|12800 WHITEWATER DRIVE, SUITE 100||MINNETONKA
-1|Maritz Consulting Group|12800 Whitewater Dr|Suite 40|Minnetonka
-1|Maritz Consulting Group Inc|12800 Whitewater Drive,|Suite 40|Minnetonka
-1|Prasquare Technologies LLC|12805 Highway 55|Suite 100A|Plymouth
-1|PRASQUARE TECHNOLOGIES LLC|12805 Highway 55,  100A||Plymouth
-1|DEV-X Consulting LLC|1285 124th Ct NE||Blaine
-1|NV5 Consultants Inc|1295 Bandana Blvd N|Suite 200|St. Paul
-1|North Star Law Group, PLLC|1295 Bandana Blvd. N.|Suite 335|St. Paul
-1|NV5 Consultants Inc|1295 Bandana Boulevard N|Suite 200|St. Paul
-1|Sebesta Inc|1295 Bandana Boulevard North|Suite 200|St. Paul
-1|Rogers, Freels & Associates Inc|12986 Valley  View Road||Eden Prairie
-1|G2Planet Inc|1300 Godward Street|Suite 4500|Minneapolis
-1|Kaas Wilson Architects LLC|1301 American Blvd E|Suite 100|Bloomington
-1|Kaas Wilson Architects LLC|1301 American Blvd East|STE 100|Bloomington
-1|CheckIT Labs Inc|1310 Highway 96 East|Suite 106|White Bear Lake
-1|Pace Analytical Life Sciences LLC|1311 Helmo Avenue N.||Oakdale
-1|Beckhoff Automation LLC|13130 Dakota Avenue||Savage
-1|EAC Design Inc|1330 Lagoon Ave|4th Floor|Minneapolis
-1|ICS Consulting LLC|1331 Tyler St NE|Suite 101|Minneapolis
-1|SAM Sensory and Marketing Research US Inc|13755 1st Avenue North,||Plymouth
-1|Alevar Technologies Inc|1380 Corporate Center Curve|Suite 107A|Eagan
-1|E Green Americas LLC|13853 Industrial Park Blvd||Plymouth
-1|Select Source International|13911 Ridgedale Drive|Suite 230|Minnetonka
-1|Lawal Scott Erickson Architects Inc|1401 Glenwood Avenue||Minneapolis
-1|TLC Millimeter Wave Products, Services, and Solutions Inc|1415 West River Road North||Minneapolis
-1|VITS Consulting Corp|14264 23rd Ave N||Plymouth
-1|VITS Consulting Corp.|14264 23rd Avenue North||Plymouth
-1|iWMS Americas LLC|14478 Raven Court NE||Prior Lake
-1|Condux International Inc|145 Kingswood Drive||Mankato
-1|Qorvo Biotechnologies LLC|14505 21st Avenue N.|Suite 212|Plymouth
-1|Nexgen LLC|1459 Nutmeg Cir||Carver
-1|Wilkus Architects, P.A.|15 Ninth Avenue North||Hopkins
-1|Arvig Enterprises Inc|150 2nd St SW||Perham
-1|MERCHANT & GOULD P.C.|150 S 5th Street|Unit 2200|Minneapolis
-1|Bowman & Brooke, LLP|150 South 5th Street|Suite 3000|Minneapolis
-1|TSP Inc|1500 Highway 52 N||Rochester
-1|Warecorp LLP|1517 3rd Street NE||Minneapolis
-1|LOFTech Prototype Manufacturing LLC|1520 Buerkle Road||Vadnais Heights
-1|Zimmer Law Group LLC|155 Wabasha Street South|Suite 100|Saint Paul
-1|Technical Information And Professional Solutions Inc|15600 35th Avenue North|Suite 203|Plymouth
-1|Crenlo Cab Products Inc|1600 4th Avenue NW||Rochester
-1|Coherent Solutions Incorporated|1600 Utica Avenue South|Suite 120|Minneapolis
-1|CiBO Technologies Inc|1601 Utica Avenue South|Suite 111|St. Louis Park
-1|Lime Valley Advertising Inc|1620 S Riverfront Dr.||Mankato
-1|Dwyer Oglesbay|1621 Hennepin Ave|Suite 100|Minneapolis
-1|Law Offices of Daniel J. Brazil, P.A.|1622 Lake Street West||Minneapolis
-1|Foresight Associates LLC|1625 Hennepin Ave|Suite 250|Minneapolis
-1|EnCompass Education Solutions Inc|1660 Highway 100 S||St Louis Park
-1|ITProfound Inc|1687 Woodlane Drive|Suite 207|Woodbury
-1|BETASHARP INC|1710 DOUGLAS DRIVE|SUITE 209A|GOLDEN VALLEY
-1|COMPETNT SYSTEMS LLC|1710 Douglas Dr N|Suite 226W|Golden Valley
-1|Sryven Inc|1710 N Douglas Drive|Suite 209A|Golden Valley
-1|BPTEK LLC|1710 North Douglas Drive|Suite 226C|Golden Valley
-1|AXIS CLINICALS LLC|1711 Center Avenue West||Dilworth
-1|Enhanced Information Solutions Inc|1725 Tower Drive|Suite 100|Stillwater
-1|Douglass Innovations Inc|1740 45th St SE||Willmar
-1|Talent Technical Services|1769  Lexington Ave N.|Suite 390|St. Paul
-1|Pace Analytical Services|1800 E. Elm Street SE||Minneapolis
-1|PACE ANALYTICAL SERVICES LLC|1800 ELM STREET SE||MINNEAPOLIS
-1|Nahuen LLC|1811 Alta Vista Drive||Roseville
-1|PACE ANALYTICAL SERVICES LLC|1830 ELM STREET SE||MINNEAPOLIS
-1|My Meds Inc|19 South 1st Street|Suite B1|Minneapolis
-1|iVEAcare Inc|1905 County Road C W||Roseville
-1|NanoArk Technology LLC|1951 Mulberry Lane||Carver
-1|NanoArk Technology LLC|1951 Mulberry Ln||Carver
-1|Bolton & Menk Inc|1960 Premier Drive||Mankato
-1|Fredrikson & Byron, P.A.|200 S. Sixth Street|Suite 4000|Minneapolis
-1|CliftonLarsonAllen LLP|200 South 6th Street|Suite 300|Minneapolis
-1|West Metro Care Services LLC|201 103rd Ave NW||Coon Rapids
-1|CUNINGHAM GROUP ARCHITECTURE INC|201 MAIN STREET SE|Suite 325|MINNEAPOLIS
-1|University of Minnesota|2017 Buford Ave||Saint Paul
-1|Da Vinci Software Solutions LLC|202 N. Cedar Avenue|Suite 1|Owatonna
-1|Da Vinci Software Solutions LLC|202 N. Cedar Avenue (Virtual Location)|Suite 1|Owatonna
-1|UR TECHNOLOGIES INC|2042 Wooddale Drive|Suite 250|Woodbury
-1|Teksys LLC|207 N Chestnut Street|Suite 240|Chaska
-1|GLOBAL TECH CONSULTING LLC|20731 HOLYOKE AVENUE|SUITE 231|LAKEVILLE
-1|Cell Ready LLC|2100 Old Highway 8 NW||New Brighton
-1|GreenNano|2119 110th Lane|404|Minneapolis
-1|Center for Energy and Environment|212 3rd Avenue N|Suite 560|Minneapolis
-1|Center for Energy and Environment|212 3rd Avenue North|Suite 560|Minneapolis
-1|Mintegral North America Inc|215 1st St S|STE 204|Cold Spring
-1|QSS Technosoft Inc|215 East 78th Street|Suite 200|Bloomington
-1|Consulting Engineers Group Inc|21875 Grenada Avenue||Lakeville
-1|BEVSOURCE LLC|219 Little Canada Road E|Ste 100|Saint Paul
-1|Coen Partners LLC|219 N 2nd St|Suite 300|Minneapolis
-1|Coen Partners LLC|219 North 2nd Street|STE 300|Minneapolis
-1|Snow Kreilich Architects|219 North Second Street|Suite 120|Minneapolis
-1|ENVIROS LLC|220 RAMSEY STREET||HASTINGS
-1|Trbhi Inc|221 1st Ave SW|Ste 202|Rochester
-1|Art Unlimited Inc|221 South Highway 53|Suite D|Cook
-1|Kivu Immigration Law PLLC|222 10th St.||Worthington
-1|Boarman Kroos Vogel Group Inc|222 N 2nd Street|Suite 101|Minneapolis
-1|Zee Tech Solutions Inc|2239 East Old Shakopee Road||Bloomington
-1|Winthrop & Weinstine, P.A.|225 S. 6th Street|Suite 3500|Minneapolis
-1|Outsell Corporation|225 South 6th Street|Suite 3200|Minneapolis
-1|Winthrop & Weinstine|225 South Sixth Street|Suite 3500|Minneapolis
-1|Rebel AI Inc|225 Thomas Ave N (mailing address)||Minneapolis
-1|RMB Environmental Laboratories Inc|22796 County Highway 6||Detroit Lakes
-1|Collectivity|2288 University Ave|Suite 201|Saint Paul
-1|OurFamilyWizard LLC|230 13th Avenue NE||Minneapolis
-1|VAA LLC|2300 Berkshire Lane North|Suite 200|Plymouth
-1|TECHLOFT DIGITAL LLC|2300 MYRTLE AVE||MINNESOTA
-1|LZL Engineering LLC|2300 Park Drive|Suite 300|Owatonna
-1|MJ Business Services Inc|2316 Louisiana Ave S.||St. Louis Park
-1|IKONIC SOFT INC|2355 HWY 36 W|SUITE 400|ROSEVILLE
-1|Roof Spec Inc|2400 Prior Ave N||St. Paul
-1|NetSPI LLC|241 N 5th Avenue|Suite 1200|Minneapolis
-1|ATOMIC DATA LLC|250 MARQUETTE AVENUE|SUITE 225|MINNEAPOLIS
-1|Atomic Data LLC|250 Marquette Ave, Suite 225||Minneapolis
-1|Sezzle Inc|250 North 1st Avenue|Suite 200|Minneapolis
-1|Morgan Advanced Programmable Systems Inc|2500 Shadywood Road|Suite 530|Orono
-1|Sezzle Inc|251 North 1st Ave|Suite 200|Minneapolis
-1|Esse Law PLLC|2511 E Franklin Ave|Ste 208|Minneapolis
-1|Agency Squid LLC|2521 27th Avenue S.||Minneapolis
-1|WuXi AppTec Inc|2540 Executive Drive||St. Paul
-1|Groer LLC|2550 University Avenue W.|Suite 460S|St. Paul
-1|Ericksen, Roed and Associates Inc|2550 University Avenue West|Suite 423 S|Saint Paul
-1|Sanz Kenway Inc|2555 Lake Avenue||Fairmont
-1|Augeo Affinity Marketing Inc|2561  Territorial Road||Saint Paul
-1|FIGG Inc|2561 W Territorial Road||St. Paul
-1|Nihilent Inc|2655 Long Lake Road|Suite 100|Roseville
-1|Dojo Five LLC|266 7th Street E|Suite 200|Saint Paul
-1|NIHILENT ANALYTICS INC|2665 Long Lake Raod|Suite 100|Roseville
-1|Nihilent Inc|2675 Long Lake Road|Suite 100|Roseville
-1|Amano McGann Inc|2699 Patton Road||Roseville
-1|TEA2 Architects Inc|2724 West 43rd Street||Minneapolis
-1|Russell Herder GBC|275 Market Street  319||Minneapolis
-1|Russell Herder|275 Market Street, Suite 319||Minneapolis
-1|Walleye Capital LLP|2800 Niagara Lane North||Plymouth
-1|Great Plains Institute for Sustainable Development Inc|2801 21st Avenue South|Suite 220|Minneapolis
-1|Portkey SEO Solutions LLC|2817 Anthony Lane South|Suite 201|Minneapolis
-1|CLARITYTEK INC|2859 ASPEN LAKE DRIVE NE||BLAINE
-1|PRUDENT ACCOUNTANTS INC|2909 BRYANT AVE S|SUITE 100|MINNEAPOLIS
-1|YCo US Inc|2909 South Wayzata Blvd||Minneapolis
-1|YCo US Inc|2909 South Wayzata Blvd.||Minneapolis
-1|Nevelex Corporation|2950 Metro Drive|Suite 104|Bloomington
-1|SELECT COMPUTING INC|3001 BROADWAY STREET NE|SUITE 655|Minneapolis
-1|INSTIG8 AI LLC|3001 Tonkaha Dr||Wayzata
-1|Wilson Law Group LLC|3019 Minnehaha Avenue||Minneapolis
-1|Christianson PLLP|302 5th Street SW||Willmar
-1|STATUSQ INC|3023 E 25th Street||Minneapolis
-1|Prasquare Technologies LLC|3030 Harbor Ln N|Suite 127|Plymouth
-1|Phaedon LLC|305 Fifth Avenue N|Suite 200|Minneapolis
-1|MYPAVE LLC|305 Minnetonka Avenue S|Suite 200|Wayzata
-1|Phaedon LLC|305 N Fifth Avenue|Suite 200|Minneapolis
-1|Denamico LLC|305 N. Fifth Avenue|Suite 380|Minneapolis
-1|MineraLogic LLC|306 W Superior Street|STE 920|Duluth
-1|Research in Action LLC|310 4th Avenue S.|Suite 5010|Minneapolis
-1|Bytespeed LLC|3131 24th Ave S||Moorhead
-1|Icon ITGroup|3131 Fernbrook Ln N|Suite 234|Plymouth
-1|Mindlease Inc|3141 Fern Brooks LN N||Plymouth
-1|Mindlease Inc|3141 Fernbrook Lane North||Plymouth
-1|MyPave LLC|319  Barry Ave S|Suite 212|Wayzata
-1|Bullseye Marketing LLC|322 N 1st Avenue|Suite 500|Minneapolis
-1|MVP Marketing & Design Inc|323 Washington Ave N|Suite 200|Minneapolis
-1|North Labs LLC|323 Washington Avenue North|Suite 200|Minneapolis
-1|IDOM Inc|330 2nd Ave S|Suite 600|Minneapolis
-1|IDOM Inc|330 2nd Ave South|Suite 600|Minneapolis
-1|IDOM Inc|330 2nd Avenue S.|Suite 600|Minneapolis
-1|BTM Global Consulting LLC|330 South Second Avenue|Suite 450|Minneapolis
-1|Novaglint LLC|331 2nd Ave S|STE 413|Minneapolis
-1|Ceridian HCM Inc|3311 East Old Shakopee Road||Minneapolis
-1|Michaud, Cooley, Erickson and Associates LLC|333 South 7th St|Ste 1200|Minneapolis
-1|SPS Commerce Inc|333 South Seventh Street, 1000||Minneapolis
-1|Whizkids Tech LLC|333 Washington Ave N|Suite 307|Minneapolis
-1|Prismss LLC|334 County Road 81||Osseo
-1|VITS Consulting Corp|3350 Annapolis Lane N|Suite A|Plymouth
-1|VITS Consulting Corp.|3350 Annapolis Lane N.||Plymouth
-1|VITS Consulting Corp.|3350 Annapolis Lane N., Suite A||Plymouth
-1|Recombinetics Inc|3388 Mike Collins Dr.  1||Eagan
-1|TurnSignl Inc|34 13th Ave NE|Suite 104A|Minneapolis
-1|AI in Motion Corporation|3411 A KILMER LANE NORTH||PLYMOUTH
-1|VQUEST TECHNOLOGIES LLC|3450 LEXINGTON AVE|STE 208|SHOREVIEW
-1|Vquest Technologies LLC|3450 Lexington Ave N|Suite 208|Shoreview
-1|VÃ¤rde Management, L.P.|350 N 5th Street|Suite 800|Minneapolis
-1|PointClickCare Technologies USA Corp.|3500 American Blvd. W|Suite 155|Bloomington
-1|Vajraasys Limited|3515 Plymouth Blvd|Suite 205|Plymouth
-1|RNXT Corporation|3515 Plymouth Blvd, Suite 205, Plymouth, MN 55447|Suite 205|Plymouth
-1|Liu Inc|3555 Plymouth Blvd|Suite 218|Plymouth
-1|Stone Arch Bridge Group Inc|3558 Oakton Drive||Minnetonka
-1|Simplicity Solutions LLC|3600 American Blvd. W.|Suite 750|Minneapolis
-1|Wyde Corporation|3600 American Boulevard West|Suite 330|Bloomington
-1|Brevity Technologies Inc|3604 25TH AVE S||Minneapolis
-1|4RMULA LLC|370 Wabash St. N.|Floor 12|Saint Paul
-1|Ddms Inc|370 Wabasha St. N.|Suite 1310|St. Paul
-1|SRF Consulting Group Inc|3701 Wayzata Blvd|Suite 100|Wayzata
-1|Pluralytics Inc|3753 Casco Avenue||Wayzata
-1|Quetica LLC|3800 American Blvd West|Suite 1500|Bloomington
-1|Omtech LLC|3800 American Boulevard West|Suite 1500|Bloomington
-1|Elite Infosystems Inc|3811 Whitetail Drive||Shakopee
-1|Basswood LLC|3947 Huntingdon Drive||Minnetonka
-1|Keyva LLC|3989 County Road 116||Hamel
-1|The Alliiance Inc|400 Clifton Ave||Minneapolis
-1|The Alliance Inc|400 Clifton Avenue||Minneapolis
-1|Colle & McVoy LLC|400 First Avenue N|Suite 700|Minneapolis
-1|Delphix Corp.|400 First Avenue South|Suite 400|Minneapolis
-1|Redpath and Company LLC|400 Robert Street N|Suite 1600|Saint Paul
-1|PEP Health Inc|400 S, 4th St|Suite 401|Minneapolis
-1|Mobius Medical USA Inc|400 S. 4th Street|Suite 410|Minneapolis
-1|Spruik Technologies LLC|400 South Fourth Street|Suite 400|Minneapolis
-1|Granicus LLC|408 St. Peter St.|Suite 600|St. Paul
-1|BanQu Inc|4100 Heatherton Place||Minnetonka
-1|One Tech Engineering Inc|4112 Hoffman Road  4||White Bear Lake
-1|RESONANCE IT SOLUTIONS LLC|4118  CAVANAUGH  DR.||MEDINA
-1|Cadan Corporation|4131 Old Sibley Memorial Hwy|Suite 200|Eagan
-1|NativeX LLC|4150 South Second Street|Suite 315|St. Cloud
-1|Hammel, Green and Abrahamson Inc|420 5th Street N||Minneapolis
-1|Hammel, Green and Abrahamson Inc|420 5th Street N.|Suite 100|Minneapolis
-1|PARAM TECHNOLOGIES INC|4200 CENTRAL AVENUE NE|SUITE 105|MINNEAPOLIS
-1|PARAM TECHNOLOGIES INC|4220 CENTRAL AVENUE NE|SUITE 105|MINNEAPOLIS
-1|Barr Engineering Co.|4300 Market Pointe Drive|Suite 200|Minneapolis
-1|Barr Engineering Co.|4300 MarketPointe Dr.||Minneapolis
-1|Vizworld Inc|431 S 7th St.|Ste 2614|Minneapolis
-1|PeopleNet Communications Corporation|4400 Baker Road||Minnetonka
-1|GW Carter, LTD.|4445 West 77th Street|Suite 123|Edina
-1|HighCloud Solutions Inc|445 MINNESOTA ST|SUITE 1552|SAINT PAUL
-1|Fortude Inc|445 Minnesota Street|Suite 1500|St. Paul
-1|Locus Architecture, Ltd|4453 Nicollet Ave||Minneapolis
-1|Arsoo Technologies LLC|4467 Benjamin Court||Woodbury
-1|Certified Power Inc|45 Northern Stacks Drive|Suite 200|Fridley
-1|Haworth Marketing & Media Company|45 S 7th Street|Suite 2400|Minneapolis
-1|Haworth Marketing & Media Company|45 S. 7th St.|Suite 2400|Minneapolis
-1|The Stable Group LLC|45 S. 7th Street|Suite 2100|Minneapolis
-1|HAMRE, SCHUMANN, MUELLER & LARSON, P.C.|45 SOUTH SEVENTH STREET|SUITE 2700|MINNEAPOLIS
-1|Hamre, Schumann, Mueller & Larson, P.C.|45 South 7th Street|Suite 2700|Minneapolis
-1|Virtual Matrix Corporation|4570 W 77th Street|Suite 345|Edina
-1|Jackpine Engineering LLC|4617 Townes Circle||Edina
-1|Nextek LLC|4625 Churchill Street||Shoreview
-1|RESONANCE IT SOLUTIONS LLC|4700 COUNTY ROAD 19|SUITE 215/217|MEDINA
-1|NICOLETTE IT SERVICES INC|4716 MARTINGALE ALCOVE||WOODBURY
-1|UR TECHNOLOGIES INC|4778 Foxtail Lane||Woodbury
-1|UR Technologies Inc|4778 Foxtail Ln,||Woodbury
-1|Visual Consultants Inc|4900 Hwy 169 N  140||New Hope
-1|MINOT ENTERPRISES INC|4980 CONSTELLATION DRIVE||WHITE BEAR LAKE
-1|Dorsey & Whitney LLP|50 S 6th St|Ste 1500|Minneapolis
-1|Stinson LLP|50 South 6th Street|Suite 2600|Minneapolis
-1|Fallon Group Inc|500 North Third Street||Minneapolis
-1|Innovize Inc|500 Oak Grove Parkway||St. Paul
-1|ESG Architecture and Design Inc|500 S Washington Ave|Suite 1080|Minneapolis
-1|Zelle LLP|500 Washington Avenue South|Suite 4000|Minneapolis
-1|PULSE PRO DIGITAL LLC|505 W MAIN ST||LEXINGTON
-1|Qumu Corporation|510 First Avenue North|Suite 305|Minneapolis
-1|Meyer, Borgman & Johnson Inc|510 Marquette Avenue South|Suite 900|Minneapolis
-1|Kipsu Inc|510 N. 1st Avenue|Suite 610|Minneapolis
-1|World Transload & Logistics LLC|5101 Boone Ave N||New Hope
-1|Slingwave Inc|5108 W. 74th St.|390535|Minneapolis
-1|Net Lift Insights LLC|5133 35th Ave S||Minneapolis
-1|Rank Crankers LLC|514 2nd ST SE|Suite 300|Minneapolis
-1|Genus Technologies LLC|520 Nicollet Mall|Suite 900|Minneapolis
-1|Eurofins DQCI LLC|5205 Quincy Street||Mounds View
-1|Irish Titan LLC|5320 23rd Street West|Suite 300|Minneapolis
-1|Nova Group, GBC|5320 West 23rd Street|Suite 270|St. Louis Park
-1|Malloy, Montague, Karnowski, Radosevich & Co., P.A.|5353 Wayzata Blvd., Suite 410||Minneapolis
-1|Country Doc Veterinary Clinic Inc|5508 Country Road 1||Pine River
-1|InvestLink Social Inc|5582 Fish Dam Road||Duluth
-1|Koerber Supply Chain US Inc|5600 W 83rd St.|Suite 600|Minneapolis
-1|Koerber Supply Chain US Inc|5600 W. 83rd Street|8200 Tower, Suite 600|Minneapolis
-1|Siteimprove|5600 West 83rd Street|Ste 400|Bloomington
-1|Alpine Techq Inc|5624 Lincoln Dr|STE 230|Edina
-1|Harrington Langer & Associates Inc|563 Phalen Blvd||Saint Paul
-1|Northteq Inc|5711 Zumbra Dr||Excelsior
-1|Stoneridge Software LLC|5775 W Wayzata Blvd|690|St. Louis Park
-1|Leading Edge Technologies LLC|5775 Wayzata Blvd|Suite 700  9031|St. Louis Park
-1|VigiLanz Corporation|5775 Wayzata Blvd, Suite 970||Minneapolis
-1|AI Thinkers LLC|5775 Wayzata Blvd.|Suite 700|St. Louis Park
-1|Toepfer at Law, PLLC|58 10th Ave S||Waite Park
-1|BLEACHR LLC|5808 Northwood Drive||MINNEAPOLIS
-1|Tecon Solutions Inc|5885 149th Street W|Suite 101|Apple Valley
-1|HRST Inc|5909 Baker Road|Suite 500|Minnetonka
-1|Fish & Richardson P.C.|60 S. Sixth St|Ste 3200|Minneapolis
-1|Fish & Richardson P.C.|60 S. Sixth St.  3200 RBC Plaza||Minneapolis
-1|International Projects Consultancy Services (IPCS) Inc|600 Highway169 South|METROPOINT 1595|MINNEAPOLIS
-1|Logisolve LLC|600 Inwood Ave N|Suite 275|Oakdale
-1|International Projects Consultancy Services (IPCS) Inc|600 South Highway 169|Suite 1595|Minneapolis
-1|International Projects Consultancy Services Inc|600 South Highway 169,|Suite 1595|Minneapolis
-1|Pine River Capital Management LP|601 Carlson Parkway, 7th Floor||Minnetonka
-1|Tekemploi Co|601 Carlson Pkwy|Ste 1050|Minnetonka
-1|CPS Solutions LLC|6022 Blue Circle Drive|ATTN MN103 0300|Minnetonka
-1|Titan Data Group Inc|6043 Hudson Road|Suite 399 E|Woodbury
-1|Titan Data Group Inc|6043 Hudson Road, Suite 399 E||Woodbury
-1|Mai N Moua Law Office LLC|609 S 10th Street|Suite 200|Minneapolis
-1|Mai N. Moua Law Office|609 S. 10th Street|STE 120|Minneapolis
-1|Wunderlich-Malec Engineering Inc|6101 Blue Circle Drive||Eden Prairie
-1|Research and Diagnostic Systems Inc|614 McKinley Place NE||Minneapolis
-1|Frontage Technologies Inc|6215 Branch Lane NW||Rochester
-1|Rover Robotics Inc|625 St. Louis St.|Suite 3|Hopkins
-1|Solar Connection Inc|6254 34th Ave NW|Suite A|Rochester
-1|Innovative Computer Software Inc|6321 Bury Drive|Suite 1|Eden Prairie
-1|ID Insight Inc|635 9th Street SE|Suite 215|Minneapolis
-1|GLOBAL IT SOLUTIONS INC|6417 PENN AVE S|SUITE 12|MINNEAPOLIS
-1|GLOBAL IT SOLUTIONS INC|6417 Penn Avenue South|Suite 12|Minneapolis
-1|Techvy Corp|6440 Flying Cloud Dr|Suite 103|Eden Prairie
-1|Kensoft LLC|6440 Flying Cloud Drive|Suite 135 2|Eden Prairie
-1|Sperides Reiners Architects Inc|6442 City West Parkway Suite 300||Eden Prairie
-1|Third Wave Systems Inc|6475 City West Pkwy||Eden Prairie
-1|Outsell Corporation|650 3rd Ave South|Suite 1600|Minneapolis
-1|Niron Magnetics Inc|650 Taft St||Minneapolis
-1|Arcserve LLC|6600 City W Pkwy|Suite 215|Eden Prairie
-1|Arcserve LLC|6600 City W. Parkway|Suite 215|Eden Prairie
-1|CODEWEAVERS INC|661 LaSalle Street|STE 300|SAINT PAUL
-1|GEOSPAN Corporation|6625 W 78th Street|Suite 120|Bloomington
-1|KFI Engineers PC|670 County Road B West||St. Paul
-1|Twin City Engineering PA|6776 Lake Dr|Suite 110|Lino Lakes
-1|Energy Management Solutions Inc|684 Excelsior Blvd|Suite 200|Excelsior
-1|SRS Web Solutions Inc|6885 139th LN NW|STE 100|Ramsey
-1|Global Tax Network US LLC|6900 Wedgwood Road N|Suite 400|Maple Grove
-1|GEOSPAN Corporation|6901 E. Fish Lake Road|Suite 156|Maple Grove
-1|Mainsl Financial Management Services Inc|7000 78 th Avenue N.||Brooklyn Park
-1|Northteq Inc|701 N 3rd Street , Ste. LL001||Minneapolis
-1|Hennepin Healthcare Research Institute|701 Park Avenue|Suite 3|Minneapolis
-1|WSB & Associates Inc|701 Xenia Avenue South|Suite 300|Minneapolis
-1|Process Displays LLC|7108 31st Avenue N||New Hope
-1|Libre Technologies Inc|718 N. Washington Avenue|Suite 400|Minneapolis
-1|Ovative Group LLC|729 N Washington Ave|Suite 1000|Minneapolis
-1|Ecological Carbon Offset Partners LLC|729 North Washington Ave|Suite 600|Minneapolis
-1|EAC Design Inc|729 Washington Ave N|Suite 600|Minneapolis
-1|Ovative Group LLC|729 Washington Ave N.|Suite 1000|Minneapolis
-1|Pioneer Project Services LLC|729 Washington Avenue N.|Suite 600|Minneapolis
-1|Advanced Structural Technologies Inc|7301 Ohms Ln|Ste 215|Edina
-1|Agile Technologies Inc|732 Lake Ridge Dr||Woodbury
-1|Field Nation LLC|733 Marquette Avenue S|Suite 800|Minneapolis
-1|Field Nation LLC|733 Marquette Avenue South|Suite 800|Minneapolis
-1|Kismet Consulting Inc|7336 Topview Road||Eden Prairie
-1|Geosys-Intl Inc|7365 Kirkwood Court North|Suite 150|Maple Grove
-1|AGILEITSERVICE LLC|7373 WEST 147TH STREET|SUITE 151D|APPLE VALLEY
-1|Agileitservice LLC|7373 West 147th Street, Suite 151D||Apple valley
-1|STOC Advisory LLC|7400 Metro Boulevard|Suite 450|Edina
-1|Performix Business Services LLC|7401 Coventry Way||Edina
-1|Employer Solutions Group LLC|7480 Flying Cloud Dr Ste 200||Eden Prairie
-1|Momentum Aeronautics LLC|750 Bayfield Street||St. Paul
-1|Boulay PLLP|7500 Flying Cloud Drive|Suite 800|Eden Prairie
-1|Home & Local Services LLC|7505 Metro Boulevard|Suite 600|Edina
-1|Vision Systems Intelligence LLC|7600 West 27th St.|Ste B11|St. Louis Park
-1|Schoeneckers Inc|7630 Bush Lake Road||Minneapolis
-1|TECHDIGITAL CORPORATION|764 SOUTHCROSS DR W|SUITE 202|BURNSVILLE
-1|TECHDIGITAL CORPORATION|764 SOUTHCROSS DRIVE WEST|SUITE 202|BURNSVILLE
-1|Electrical Power Solutions Inc|7658 Design Road|Ste 100|Baxter
-1|Next Chapter Technology|7700 Equitable Drive|Suite 200|Eden Prairie
-1|BTM Global Consulting LLC|7700 France Avenue S|Suite 200|Edina
-1|Emanuelson-Podas Inc|7705 Bush Lake Road||Edina
-1|Logic Information Systems Inc|7760 France Avene South|Suite 640|Bloomington
-1|Tanson Corp|7800 Metro Parkway|Suite 300|Bloomington
-1|Solomon Partners Consulting Inc|7800 Metro Parkway, Suite 300||Bloomington
-1|Terrapin Technologies Inc|7850 Metro Parkway|Suite 320|Bloomington
-1|Icon ITGroup|787 Aster Road|Suite 234|Medina
-1|Noble Cares LLC|7957 Monroe Street NE||Spring Lake Park
-1|Rep. Commerce Inc|80 S 8th St.|Suite 900|Minneapolis
-1|Halunen, Ltd.|80 South 8th Street, Suite 1650||Minneapolis
-1|ROBINS KAPLAN LLP|800 Lasalle Avenue|2800 La Salle Plaza|Minneapolis
-1|Bento Technologies Inc|800 Nicollett Mall||Minneapolis
-1|NetSPI LLC|800 Washington Avenue N.|Suite 670|Minneapolis
-1|Integral Research Solutions Group Inc|801 Nicollet Mall|Suite W2000|Minneapolis
-1|June Co|801 SE 9th St||Minneapolis
-1|RAM Solutions Inc|8011 34th Ave S|Suite 200|Bloomington
-1|First Manhattan Consulting Group LLC|801S Marquette Avenue||Minneapolis
-1|JAVEN TECHNOLOGIES INC|8030 OLD CEDAR AVE S||BLOOMINGTON
-1|JAVEN TECHNOLOGIES INC,|8030 OLD CEDAR AVE SOUTH|SUITE 225|BLOOMINGTON
-1|Reve Consulting LLC|807 Broadway St NE|Suite 150|Minneapolis
-1|HM Holdings Inc|8085 Wayzata Boulevard|Suite 102|Golden Valley
-1|Technobot LLC|8100 Penn Ave S|Ste 114|Bloomington
-1|Midwest Mechanical Supply Inc|8125 Lewis Road||Minneapolis
-1|Agile Technologies Inc|8385 Brumby Trl||Woodbury
-1|Radiation Physics Services (RPS) LLC|84 Birch Street||Mahtomedi
-1|Smart Solutions Inc|8401 Wayzata Blvd Suite 240||Golden Valley
-1|Quality Systems Integrators Inc|8421 Wayzata Blvd|Suite 200|Golden Valley
-1|Center of the American Experiment|8421 Wayzata Blvd  110|Suite 110|Golden Valley
-1|Arch Group LLC|8530 Eagle Point Blvd|Suite 100|Lake Elmo
-1|Nexgen LLC|880 Redmond Dr||Carver
-1|Arcserve (USA) LLC|8855 Columbine Road|Suite 150|Eden Prairie
-1|SullivanCotter Inc|90 7th Street|Suite 3750|Minneapolis
-1|U.S. ELECTRONICS INC|900 COLORADO AVE S.||MINNEAPOLIS
-1|Lumin Innovations Inc|900 Colorado Ave S||Minneapolis
-1|U.S. Electronics Inc|900 Colorado Avenue, S||Minneapolis
-1|REDSOURCE TECHNOLOGIES INC|900 N 3ROAD ST||MINNEAPOLIS
-1|INTERTECH SYSTEMS LLC|900 SECOND AVENUE SOUTH|SUITE 1550|MINNEAPOLIS
-1|MCG Energy Solutions LLC|901 Marquette Avenue|Suite 750|Minneapolis
-1|Urbanworks Architecture LLC|901 N 3rd Street|Suite 145|Minneapolis
-1|Berghuis & Hunt Inc|910 1/2 Mainstreet|Suite B|Hopkins
-1|Minneapolis Heart Institute Foundation|920 E 28th St|Suite 100|Minneapolis
-1|Minneapolis Heart Institute Foundation|920 E 28th Street|Suite 100|Minneapolis
-1|Element Fleet Corporation|9350 Excelsior Boulevard|Suite 400|Hopkins
-1|Cliff IT Solutions Inc|9380 Central Ave, NE , Suite 200||Blaine
-1|Erickson Engineering Company LLC|9531 W 78th St|Ste 100|Eden Prairie
-1|Smart Data Solutions LLC|960 Blue Gentian Road||Eagan
-1|PPG Health and Healing Fund|9655 Schmidt Lake Road|Suite 150|Plymouth
-1|AVI Systems Inc|9675 W. 76th Street||Eden Prairie
-1|Webber Law Firm LLC|9800 Shelard Pkwy.|Suite 335|Plymouth
-1|Euclid Power Inc|9840 Colorado Road||Bloomington
-1|Travelnet Solutions LLC|9900 Hemingway Ave S||Cottage Grove
-1|Art Unlimited Inc|9998 East Lind Road||Angora
-1|International Projects Consultancy Services (IPCS) Inc|METROPOINT, Suite 1595|600 South Highway 169|MINNEAPOLIS
-1|International Projects Consultancy Services (IPCS) Inc|Metropoint,  1595|600 South Highway 169|Minneapolis
-1|Vivikon Technologies LLC|Mitchell Road|Suite 305B|Eden Prairie
-1|Windsor MEP Engineers LLC|PO Box 3506||Duluth
-1|Smart Solutions Inc|Smart Solutions Inc.|Ste 240|Golden Valley
-1|Faegre Drinker Biddle & Reath LLP|Suite 2200, 90 South 7th Street||Minneapolis
-(908 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+3|BPK TECH INC|12800 WHITEWATER DRIVE|MINNETONKA|MN
+3|GENISYS TECHNOLOGIES INC|3545 PLYMOUTH BLVD|PLYMOUTH|MN
+3|MARITZ CONSULTING GROUP|12800 WHITEWATER DRIVE|MINNETONKA|MN
+3|MARITZ CONSULTING GROUP INC|12800 WHITEWATER DRIVE|MINNETONKA|MN
+3|SOFTN INC|3545 PLYMOUTH BLVD|PLYMOUTH|MN
+3|SOFTNINC|3545 PLYMOUTH BLVD|PLYMOUTH|MN
+2|ARCUS TECHNOLOGIES|11095 VIKING DRIVE|EDEN PRAIRIE|MN
+2|ARCUS TECHNOLOGIES|11095 VIKING DRIVE|EDEN PRAIRE|MN
+2|ARROW SOLUTIONS INC|100 S 5TH STREET|MINNEAPOLIS|MN
+2|CONCORD USA|509 2ND AVENUE S|HOPKINS|MN
+2|CONCORD USA LLC|509 2ND AVENUE S|HOPKINS|MN
+2|EVS INC|10025 VALLEY VIEW ROAD|EDEN PRAIRIE|MN
+2|EVS INC.|10025 VALLEY VIEW ROAD|EDEN PRAIRIE|MN
+2|G-SOL LLC|5858 BLACKSHIRE PATH|INVER GROVE HEIGHTS|MN
+2|HEALTHCARE INFORMATION TECHNOLOGY CONSULTING SERVICES|2355 HIGHWAY 36 WEST|ROSEVILLE|MN
+2|ICON IT GROUP|3535 PLYMOUTH BLVD|PLYMOUTH|MN
+2|ICON ITGROUP|3535 PLYMOUTH BLVD|PLYMOUTH|MN
+2|INTEGRATED HEALTH GROUP|2355 HIGHWAY 36 WEST|ROSEVILLE|MN
+2|ITPROFOUND INC|5858 BLACKSHIRE PATH|INVER GROVE HEIGHTS|MN
+2|KONNECTINGTREE INC|6385 OLD SHADY OAK ROAD|EDEN PRAIRIE|MN
+2|LEADING EDGE TECHNOLOGIES|333 WASHINGTON AVENUE N|MINNEAPOLIS|MN
+2|LEADING EDGE TECHNOLOGIES LLC|333 WASHINGTON AVENUE N|MINNEAPOLIS|MN
+2|NANOARK TECHNOLOGY LLC|6385 OLD SHADY OAK ROAD|EDEN PRAIRIE|MN
+2|NEXT TECHNOLOGIES LLC|8120 PENN AVE S|BLOOMINGTON|MN
+2|NIHILENT ANALYTICS INC|2665 LONG LAKE ROAD|ROSEVILLE|MN
+2|NIHILENT INC|2665 LONG LAKE ROAD|ROSEVILLE|MN
+2|OPTUM SERVICES INC|11000 OPTUM CIRCLE|EDEN PRAIRIE|MN
+2|OPTUM SERVICES INC|11000 OPTUM CIRCLE|EDEN PRARIE|MN
+2|OREMDA INFOTECH INC|5851 CEDAR LAKE ROAD SOUTH|SAINT LOUIS PARK|MN
+2|OREMDA INFOTECH INC|5851 CEDAR LAKE ROAD SOUTH|ST. LOUIS PARK|MN
+2|PROFESSIONAL CONSULTING INC|5275 EDINA INDUSTRIAL BLVD|EDINA|MN
+2|PROFESSIONAL CONSULTING INC |5275 EDINA INDUSTRIAL BLVD|EDINA|MN
+2|REDIFCARD TECHNOLOGIES LLC|8120 PENN AVE S|BLOOMINGTON|MN
+2|ROGERS FREELS & ASSOCIATES INC|12986 VALLEY VIEW ROAD|EDEN PRAIRIE|MN
+2|ROGERS FREELS AND ASSOCIATES INC|12986 VALLEY VIEW ROAD|EDEN PRAIRIE|MN
+2|SMART SOLUTIONS INC|8401 WAYZATA BLVD|55426|MN
+2|SMART SOLUTIONS INC|8401 WAYZATA BLVD|GOLDEN VALLEY|MN
+2|TURNBERRY SOLUTIONS INC|100 S 5TH STREET|MINNEAPOLIS|MN
+2|U.S. ELECTRONICS INC|900 COLORADO AVENUE S|MINNEAPOLIS|MN
+2|US ELECTRONICS INC|900 COLORADO AVENUE S|MINNEAPOLIS|MN
+1|AGILE TECHNOLOGIES INC|8385 BRUMBY TRL|WOODBURY|MN
+1|AGILE TECHNOLOGIES INC|732 LAKE RIDGE DR|WOODBURY|MN
+1|AGILEITSERVICE LLC|7373 WEST 147TH STREET|APPLE VALLEY|MN
+1|AGILEITSERVICE LLC|7373 WEST 147TH STREET, SUITE 151D|APPLE VALLEY|MN
+1|AI IN MOTION CORPORATION|3411 A KILMER LANE NORTH|PLYMOUTH|MN
+1|ALEVAR TECHNOLOGIES INC|1380 CORPORATE CENTER CURVE|EAGAN|MN
+1|ALPINE TECHQ INC|5624 LINCOLN DRIVE|EDINA|MN
+1|ALPINE TECHQ INC|5624 LINCOLN DR|EDINA|MN
+1|B2B TECHNOLOGY INC|15600 35TH AVENUE N|PLYMOUTH|MN
+1|BASSWOOD LLC|3947 HUNTINGDON DRIVE|MINNETONKA|MN
+1|BETASHARP INC|1710 NORTH DOUGLAS DR|GOLDEN VALLEY|MN
+1|BETASHARP INC|1710 DOUGLAS DRIVE|GOLDEN VALLEY|MN
+1|BPTEK LLC|1710 NORTH DOUGLAS DRIVE|GOLDEN VALLEY|MN
+1|CADAN CORPORATION|4131 OLD SIBLEY MEMORIAL HWY|EAGAN|MN
+1|CERIDIAN HCM INC|3311 EAST OLD SHAKOPEE ROAD|MINNEAPOLIS|MN
+1|CLIFF IT SOLUTIONS INC|9380 CENTRAL AVE, NE , SUITE 200|BLAINE|MN
+1|COMPETNT SYSTEMS LLC|1710 DOUGLAS DR N|GOLDEN VALLEY|MN
+1|DA VINCI SOFTWARE SOLUTIONS LLC|202 N. CEDAR AVENUE (VIRTUAL LOCATION)|OWATONNA|MN
+1|DEV-X CONSULTING LLC|1285 124TH CT NE|BLAINE|MN
+1|DWAITH INFO TECH INC|7300 WEST 147TH STREET|APPLE VALLEY|MN
+1|ELAN TC LLC|400 SOUTH 4TH STREET|MINNEAPOLIS|MN
+1|ELITE INFOSYSTEMS INC|3811 WHITETAIL DRIVE|SHAKOPEE|MN
+1|EMBLEMATIC TECH SOLUTIONS LLC|11670 FOUNTAINS DR|MINNEAPOLIS|MN
+1|ENABLE DATA INC|2811 UNIVERSITY AVENUE SE|MINNEAPOLIS|MN
+1|EXPLICIT SYSTEMS USA INC|12100 SINGLETREE LANE|EDEN PRAIRIE|MN
+1|FRONTAGE TECHNOLOGIES INC|6215 BRANCH LANE NW|ROCHESTER|MN
+1|GENISYS TECHNOLOGIES INC|3545 PLYMOUTH BLVD.|PLYMOUTH|MN
+1|GLOBAL INTELLECTUALS LLC|900 AMERICAN BOULEVARD E|BLOOMINGTON|MN
+1|GLOBAL IT SOLUTIONS INC|6417 PENN AVE S|MINNEAPOLIS|MN
+1|GLOBAL TECH CONSULTING LLC|20731 HOLYOKE AVENUE|LAKEVILLE|MN
+1|HIGHCLOUD SOLUTIONS INC|445 MINNESOTA ST|SAINT PAUL|MN
+1|ICON ITGROUP|3131 FERNBROOK LN N|PLYMOUTH|MN
+1|IKONIC SOFT INC|2355 HIGHWAY 36 W|ROSEVILLE|MN
+1|INTERNATIONAL PROJECTS CONSULTANCY SERVICES (IPCS) INC|600 SOUTH HIGHWAY 169|MINNEAPOLIS|MN
+1|INTERNATIONAL PROJECTS CONSULTANCY SERVICES (IPCS) INC|METROPOINT, SUITE 1595|MINNEAPOLIS|MN
+1|INTERNATIONAL PROJECTS CONSULTANCY SERVICES INC|600 SOUTH HIGHWAY 169,|MINNEAPOLIS|MN
+1|ITPROFOUND INC|1687 WOODLANE DRIVE|WOODBURY|MN
+1|IWMS AMERICAS LLC|14478 RAVEN COURT NE|PRIOR LAKE|MN
+1|IZIEL HEALTHCARE INC|121 WASHINGTON AVENUE NORTH|MINNEAPOLIS|MN
+1|IZIEL HEALTHCARE INC|121 WASHINGTON AVENUE N.|MINNEAPOLIS|MN
+1|IZIEL HEALTHCARE INC|121 WASHINGTON AVENUE N|MINNEAPOLIS|MN
+1|JAVEN TECHNOLOGIES INC|8030 OLD CEDAR AVE|BLOOMINGTON|MN
+1|JAVEN TECHNOLOGIES INC|8030 OLD CEDAR AVE S|BLOOMINGTON|MN
+1|KENSOFT LLC|6440 FLYING CLOUD DRIVE|EDEN PRAIRIE|MN
+1|LAWINGER CONSULTING INC|106 CENTRAL AVENUE|OSSEO|MN
+1|LEADING EDGE TECHNOLOGIES LLC|5775 WAYZATA BLVD|ST. LOUIS PARK|MN
+1|MARITZ CONSULTING GROUP|12800 WHITEWATER DRIVE, SUITE  40|MINNETONKA|MN
+1|MINDLEASE INC|3141 FERN BROOKS LN N|PLYMOUTH|MN
+1|NANOARK TECHNOLOGY LLC|1951 MULBERRY LANE|CARVER|MN
+1|NANOARK TECHNOLOGY LLC|1951 MULBERRY LN|CARVER|MN
+1|NEXGEN LLC|880 REDMOND DR|CARVER|MN
+1|NEXGEN LLC|1459 NUTMEG CIR|CARVER|MN
+1|NICOLETTE IT SERVICES INC|860 BLUE GENTIAN ROAD|EAGAN|MN
+1|NIHILENT ANALYTICS INC|2665 LONG LAKE RAOD|ROSEVILLE|MN
+1|NIHILENT INC|2655 LONG LAKE ROAD|ROSEVILLE|MN
+1|NOVA GROUP GBC|1107 HAZELTINE BLVD.|CHASKA|MN
+1|OASYS TECHNOLOGIES INC|2121 CLIFF DR|EAGAN|MN
+1|OASYS TECHNOLOGIES INC|2121 CLIFF DRIVE|EAGAN|MN
+1|ONE TECH ENGINEERING INC|4112 HOFFMAN ROAD  4|WHITE BEAR LAKE|MN
+1|PARAM TECHNOLOGIES INC|4220 CENTRAL AVENUE NE|MINNEAPOLIS|MN
+1|PARAM TECHNOLOGIES INC|4200 CENTRAL AVENUE NE|MINNEAPOLIS|MN
+1|PERFORMIX BUSINESS SERVICES LLC|7401 COVENTRY WAY|EDINA|MN
+1|PRASQUARE TECHNOLOGIES LLC|12805 HIGHWAY 55,  100A|PLYMOUTH|MN
+1|PRASQUARE TECHNOLOGIES LLC|3030 HARBOR LANE N|PLYMOUTH|MN
+1|PRASQUARE TECHNOLOGIES LLC|3030 HARBOR LN N|PLYMOUTH|MN
+1|PRASQUARE TECHNOLOGIES LLC|12805 HIGHWAY 55|PLYMOUTH|MN
+1|PULSE PRO DIGITAL LLC|505 W MAIN ST|LEXINGTON|MN
+1|QUALITY SYSTEMS INTEGRATORS INC|8421 WAYZATA BLVD|GOLDEN VALLEY|MN
+1|REDSOURCE TECHNOLOGIES INC|900 N 3RD ST|MINNEAPOLIS|MN
+1|RESONANCE IT SOLUTIONS LLC|4700 COUNTY ROAD 19|MEDINA|MN
+1|RESONANCE IT SOLUTIONS LLC|4118  CAVANAUGH  DR.|MEDINA|MN
+1|ROGERS FREELS & ASSOCIATES INC|12986 VALLEY  VIEW ROAD|EDEN PRAIRIE|MN
+1|SAGITEC SOLUTIONS LLC|422 COUNTY ROAD D EAST|LITTLE CANADA|MN
+1|SANKRISH CONSULTING LLC|8500 NORMANDALE LAKE BLVD|BLOOMINGTON|MN
+1|SELECT COMPUTING INC|3001 BROADWAY STREET NE|MINNEAPOLIS|MN
+1|SELECT SOURCE INTERNATIONAL|13911 RIDGEDALE DRIVE|MINNETONKA|MN
+1|SMART SOLUTIONS INC|SMART SOLUTIONS INC.|GOLDEN VALLEY|MN
+1|SMART SOLUTIONS INC|8401 WAYZATA BLVD SUITE 240|GOLDEN VALLEY|MN
+1|SOLOMON PARTNERS CONSULTING INC|7800 METRO PARKWAY, SUITE 300|BLOOMINGTON|MN
+1|STRATAGEM CONSULTING LLC|11800 SINGLETREE LANE|EDEN PRAIRIE|MN
+1|SUDHKO INC|11322 86TH AVENUE NORTH|MAPEL GROVE|MN
+1|SWARKY SOLUTIONS CORPORATIONS|3340B ANNAPOLIS LANE NORTH|PLYMOUTH|MN
+1|SYMBIOSIS CONSULTING SERVICES INC|8170 OLD CARRIAGE COURT|SHAKOPEE|MN
+1|SYNERGY SOFTWARE SOLUTIONS INC|12795 COLLEGE VIEW DRIVE|EDEN PRAIRIE|MN
+1|SYSTEK INC|8400 NORMAN DALE LAKE BLVD|BLOOMINGTON|MN
+1|TAJ TECHNOLOGIES INC|7900 INTERNATIONAL DRIVE|BLOOMINGTON|MN
+1|TALENT TECHNICAL SERVICES|1769  LEXINGTON AVE N.|ST. PAUL|MN
+1|TANSON CORP|7800 METRO PARKWAY|BLOOMINGTON|MN
+1|TECHDIGITAL CORPORATION|764 SOUTHCROSS DR W|BURNSVILLE|MN
+1|TECHLITE STAFFING INC|111 WASHINGTON AVE N|MINNEAPOLIS|MN
+1|TECHLOFT DIGITAL LLC|2300 MYRTLE AVE|MINNESOTA|MN
+1|TECHNICAL INFORMATION AND PROFESSIONAL SOLUTIONS INC|15600 35TH AVENUE NORTH|PLYMOUTH|MN
+1|TECHVISION CO|3571 SPRINGWOOD PATH|EAGAN|MN
+1|TECHVY CORP|6440 FLYING CLOUD DR|EDEN PRAIRIE|MN
+1|TECON SOLUTIONS INC|5885 149TH STREET W|APPLE VALLEY|MN
+1|TEKEMPLOI CO|601 CARLSON PKWY|MINNETONKA|MN
+1|TEKEMPLOI CO.|601 CARLSON PARKWAY|MINNETONKA|MN
+1|TEKHOPS LLC|540 GREENHAVEN ROAD|ANOKA|MN
+1|TEKHOPS LLC|7525 MITCHELL ROAD|EDEN PRAIRIE|MN
+1|TEKSYS LLC|207 N CHESTNUT STREET|CHASKA|MN
+1|TITAN DATA GROUP INC|6043 HUDSON ROAD, SUITE 399 E|WOODBURY|MN
+1|TITAN DATA GROUP INC|6043 HUDSON ROAD|WOODBURY|MN
+1|TRBHI INC|221 1ST AVE SW|ROCHESTER|MN
+1|TURNBERRY SOLUTIONS INC|100 S 5TH ST|MINNEAPOLIS|MN
+1|TURNBERRY SOLUTIONS INC|100 SOUTH 5TH ST|MINNEAPOLIS|MN
+1|U.S. ELECTRONICS INC|900 COLORADO AVENUE S.|MINNEAPOLIS|MN
+1|UR TECHNOLOGIES INC|2042 WOODDALE DRIVE|WOODBURY|MN
+1|UR TECHNOLOGIES INC|4778 FOXTAIL LANE|WOODBURY|MN
+1|UR TECHNOLOGIES INC|4778 FOXTAIL LN,|WOODBURY|MN
+1|VAJRAASYS LIMITED|3515 PLYMOUTH BLVD|PLYMOUTH|MN
+1|VIRTUAL MATRIX CORPORATION|4570 W 77TH STREET|EDINA|MN
+1|VISUAL CONSULTANTS INC|4900 HWY 169 N|NEW HOPE|MN
+1|VISUAL CONSULTANTS INC|4900 HWY 169 N  140|NEW HOPE|MN
+1|VITS CONSULTING CORP|3350 ANNAPOLIS LANE N., SUITE A|PLYMOUTH|MN
+1|VITS CONSULTING CORP|14264 23RD AVE N|PLYMOUTH|MN
+1|VITS CONSULTING CORP|3350 ANNAPOLIS LANE N|PLYMOUTH|MN
+1|VIVIKON TECHNOLOGIES LLC|MITCHELL ROAD|EDEN PRAIRIE|MN
+1|VQUEST TECHNOLOGIES LLC|3450 LEXINGTON AVE|SHOREVIEW|MN
+1|WINGEN SYSTEMS INC|100 FULLER STREET SOUTH|SHAKOPEE|MN
+1|XYLO TECHNOLOGIES INC|2434 SUPERIOR DRIVE NW|ROCHESTER|MN
+1|ZEE TECH SOLUTIONS INC|2239 EAST OLD SHAKOPEE ROAD|BLOOMINGTON|MN
+(161 rows)

@@ -1,215 +1,37 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-5|Gray Architects and Engineers LLC|10 Quality Street||Lexington
-5|Gray Inc|10 Quality Street||Lexington
-5|Gray Architects & Engineers PSCPC|10 Quality Street||Lexington
-5|Gray Construction Inc|10 Quality Street||Lexington
-5|Gray Architects and Engineers PSCPC|10 Quality Street||Lexington
-4|V-SOFT CONSULTING GROUP INC|101 BULLITT LANE|SUITE 2015|LOUISVILLE
-4|V-SOFT CONSULTING GROUP INC|101 BULLITT LANE|SUITE 205|LOUISVILLE
-4|V-Soft Consulting Group INC|101 Bullitt Lane|Suite 205|Louisville
-4|V-Soft Consulting Group INC|101 Bullitt Lane||Louisville
-4|COOLSOFT LLC|3240 OFFICE POINTE PLACE|SUITE 200|LOUISVILLE
-4|COOLSOFT LLC|3240 OFFICE POINTE PLACE|Suite 200|LOUISVILLE
-4|COOLSOFT LLC|3240 Office Pointe Place|Suite 200|Louisville
-4|Coolsoft LLC|3240 Office Pointe Place|Suite 200|Louisville
-4|H3 Technologies LLC|71 Cavalier Boulevard|Suite 131|Florence
-4|H-3 Technologies LLC|71 Cavalier Boulevard|Suite 131|Florence
-4|H3 Technologies LLC|71 Cavalier Boulevard|Suite 205|Florence
-4|H-3 Technologies LLC|71 Cavalier Boulevard|Suite 208|Florence
-3|RossTarrant LLC|101 Old Lafayette Avenue||Lexington
-3|Ross-Tarrant Inc|101 Old Lafayette Avenue||Lexington
-3|Ross-Tarrant Architects Inc|101 Old Lafayette Avenue||Lexington
-3|BEST CHEFS MANAGEMENT LLC|101 S. FIFTH STREET|SUITE 3800|LOUISVILLE
-3|Cherry Bekaert Advisory LLC|101 S. Fifth Street|Suite 2100|Louisville
-3|MCM CPAs & Advisors LLP|101 S. Fifth Street|Suite 2100|Louisville
-3|LECGI INC|13113 EASTPOINT PARK BLVD|SUITE D|LOUISVILLE
-3|LECGI Inc|13113 Eastpoint Park Blvd|Suite D|Louisville
-3|Lecgi Inc|13113 Eastpoint Park Blvd||Louisville
-3|Rps Tek Sol LLC|140 Kings Daughters Dr|Suite 300|Frankfort
-3|RPS Tek Sol LLC|140 Kings Daughters Dr|Suite 300|Frankfort
-3|RPS TEK SOL LLC|140 Kings Daughters Dr|Suite 300|Frankfort
-3|V-Soft Consulting Group INC|2550 EASTPOINT PARKWAY|STE 300|LOUISVILLE
-3|V-Soft Consulting Group INC|2550 EASTPOINT PARKWAY|SUITE 300|LOUISVILLE
-3|V-Soft Consulting Group INC|2550 EASTPOINT PARKWAY||LOUISVILLE
-3|CONTROL SPACE TECH LLC|312 S 4th St. Suite 700||Louisville
-3|CONTROL SPACE TECH LLC|312 S 4th St. Suite 700||LOUISVILLE
-3|Control Space Tech LLC|312 S 4th St. Suite 700||Louisville
-3|Frost Brown Todd LLP|400 West Market Street|32nd Floor|Louisville
-3|Frost Brown Todd LLC|400 West Market Street|32nd Floor|Louisville
-3|Frost Brown Todd LLP|400 West Market Street|Suite 3200|Louisville
-3|Data Intensity LLC|50 E RiverCenter Blvd|Suite 700|Covington
-3|Gentis Solutions LLC|50 E Rivercenter Blvd|Suite 1025|Covington
-3|Gentis Solutions LLC|50 E Rivercenter Blvd|Suite 925|Covington
-3|STENGEL HILL ARCHITECTURE LLC|613 W MAIN ST||LOUISVILLE
-3|STENGEL HILL ARCHITECTURE INCORPORATED|613 W MAIN ST||LOUISVILLE
-3|Stengel Hill Architecture LLC|613 W Main St||Louisville
-3|Knight Infotech|7020 HOLLOW OAKS DR||Louisville
-3|Knight InfoTech|7020 Hollow Oaks Dr||Louisville
-3|Knight InfoTech LLC|7020 Hollow Oaks Dr||Louisville
-3|Work4ce|7310 Turfway Road|Suite 550|Florence
-3|Work4ce Inc|7310 Turfway Road|Suite 550|Florence
-3|WORK4CE INC|7310 Turfway Road|Suite 550|Florence
-2|CMTA Inc|10411 Meeting Street||Prospect
-2|CMTA Inc|10411 Meeting Street||Proscpect
-2|BioPathogenix LLC|120 Dewey Drive|Ste 126|Nicholasville
-2|BioPathogenix LLC|120 Dewey Drive|Suite 126|Nicholasville
-2|Rood and Riddle Equine Hospital|2150 Georgetown Road||Lexington
-2|Rood & Riddle and Partners|2150 Georgetown Road||Lexington
-2|Rainbow Design Services|2307 WATTERSON TRAIL||Louisville
-2|RAINBOW DESIGN SERVICES|2307 WATTERSON TRAIL||LOUISVILLE
-2|Haworth-Meyer-Boleyn Professional Engineers LLC|3 HMB Circle||Frankfort
-2|Haworth-Meyer-Boleyn Professional Engineers LLC|3 HMB Circle||Frankfurt
-2|Aline Ops LLC|300 E Market ST|STE 200|Louisville
-2|Aline Ops LLC|300 E Market St|STE 200|Louisville
-2|HEROIC SOLUTIONS INC|304 N MAIN ST|SUITE 2|LONDON
-2|Heroic Solutions Inc|304 N Main St|Suite 2|London
-2|ControlTouch Systems Inc|3101 Breckenridge Lane|Suite 3B|Louisville
-2|ControlTouch Systems Inc|3101 Breckenridge Lane||Louisville
-2|VENMINDER INC|400 RING ROAD|SUITE 131|ELIZABETHTOWN
-2|Advent Financial Systems LLC|400 Ring Road|Suite 162|Elizabethtown
-2|CountrolTouch Systems LLC|4528 Bishop Lane||Louisville
-2|ControlTouch Systems LLC|4528 Bishop Lane||Louisville
-2|GEN NINE INC|50 EAST RIVERCENTER BLVD.|SUITE 429|COVINGTON
-2|Gen Nine Inc|50 East Rivercenter Blvd.|Suite 429|Covington
-2|Wells Engineering, PSC|6900 Houston ROAD|Suite 38|Florence
-2|Wells Engineering, PSC|6900 Houston Road|Suite 38|Florence
-2|KINEMETRIX INDUSTRIAL DESIGN|708 MILES POINT WAY||LEXINGTON
-2|Kinemetrix Industrial Design|708 Miles Point Way||Lexington
-2|Infinite Epigenetics|881 Corporate Drive||Lexington
-2|TruDiagnostics Inc|881 Corporate Drive||Lexington
-1|CTI Clinical Trial Services Inc|100 E. RiverCenter Blvd.||Covington
-1|VASCOR, Ltd.|100 Farmers Bank Square|Suite 300|Georgetown
-1|Martinrea Heavy Stampings Inc|1000 Old Brunerstown Road||Shelbyville
-1|Go Systems LLC|1007 Delapalin Road|Suite A|Georgetown
-1|Go Systems LLC|1007 Delaplain Road|Suite A|Georgetown
-1|Knight InfoTech|101 N 7th St Ste 701||Louisville
-1|Knight InfoTech LLC|101 North 7th Streeet|Suite 701|Louisville
-1|Knight InfoTech LLC|101 North 7th Street|Suite 701|Louisville
-1|Knight InfoTech|101 North 7th Street, Suite 701||Louisville
-1|Knight InfoTech|101 North Seventh Street, Suite 701||Louisville
-1|Pomeroy Technologies LLC|1020  Petersburg Road||Hebron
-1|Pomeroy Technologies LLC|1020 Petersburg Road||Hebron
-1|RELIANT CONSULTING SERVICES LLC|10200 Linn Station Road||Louisville
-1|TRH Group Inc|1021  Majestic Drive|Suite 310|Lexington
-1|Vibrant Tech LLC|1030 Burlington LN|Suite 2|Frankfort
-1|StoneCanyon AI LLC|1032 Madison Avenue|Unit A|Covington
-1|Project Quote LLC|1032 Madison Avenue, Unit A||Covington
-1|Sitek Inc|1040 Monarch Street|Suite 205|Lexington
-1|Firstsource Group USA Inc|10400 Linn Station Road|Suite 100|Louisville
-1|Vivorte Inc|1044 E. Chestnut St.||Louisville
-1|T. DADE LUCKETT III|1048 E CHESTNUT ST||LOUISVILLE
-1|Parsoft LLC|105 Daventey Ln|Suite 201|Louisville
-1|Synchron Technologies LLC|105 Daventry Ln|Suite 201|Louisville
-1|Pomeroy Technologies LLC|1050 Elijah Creek Road||Hebron
-1|Anderson Professional Services LLC|1060 Elizabeth St, 7||Nicholasville
-1|BETTING ON CONTENT LLC|10645 MEETING STREET||PROSPECT
-1|Systems Solutions|110 Carlisle Court||Paducah
-1|Global IT Solutions LLC|111 Locust Ridge Road||Frankfort
-1|Ag Connections LLC|111 Poplar St|Suite 212|Murray
-1|Genscape Inc|1140 Garvin Place||Louisville
-1|The Blue Horizons Group LLC|11709 Cedardale Road||Louisville
-1|Switcher Inc|1205 East Washingon St.|Ste 117|Louisville
-1|KV CONSULTING LLC|1206 MEADOW GLEN DR.||FRANKFORT
-1|Stakeholder Payroll Services LLC|12201 Bluegrass Parkway||Louisville
-1|Donan Solutions LLC|12450 Lake Station Place||Louisville
-1|Eurofins Genomics LLC|12701 Plantside Drive||Louisville
-1|DataOrb Inc|12806 Townepark Way||Louisville
-1|Raapid Inc|12806 Townepark Way,||Louisville
-1|Runner Technologies Inc|129 Nations Road||Shelbyville
-1|Houston-Johnson Inc|13200 Complete Court||Louisville
-1|Business Connections IT|1340 S. Laurel Road|ste 600|London
-1|Tidas LLC|13403 Apple Tree Ct||Prospect
-1|CARINA MEDICAL LLC|145 GRAHAM AVE|A168|LEXINGTON
-1|WiLO Networks Inc|145 Graham Avenue, ASTeCC A266||Lexington
-1|Architectural Group International PSC|15 West 7th Street||Covington
-1|Dant Clayton Corporation|1500 Bernheim Lane||Louisville
-1|Secat Inc|1505 Bull Lea Road||Lexington
-1|Nanocube Technologies LLC|1512 Louisville Road||Frankfort
-1|Advanced Business Solutions|1745 Payne St||Louisville
-1|Chemical & Industrial Engineering Inc|1930 Bishop Lane|Suite 800|Louisville
-1|KeyMe LLC|2000 Gateway Boulevard|Suite 100|Hebron
-1|Freeland Harris Consulting Engineers of Kentucky Inc|201 West Short Street|Suite 410|Lexington
-1|HealthTech Solutions LLC|2030 Hoover Blvd||Frankfort
-1|HealthTech Solutions LLC|2030 Hoover Blvd.||Frankfort
-1|NetGain Technologies LLC|2031 Georgetown Road||Lexington
-1|Switcher Inc|205 E. Washington St.|Suite 117|Louisville
-1|ROBOTICS AUTOMATION CONSULTING LLC|217 E MAIN ST||LOUISVILLE
-1|Bioptics Technology LLC|2236 Barnwell Ln.||Lexington
-1|Clotfelter-Samokar PSC|228 E. Reynolds Road|Suite 1|Lexington
-1|Studio A Architecture Inc|2330 Frankfort Ave||Louisville
-1|LaFayette Inc|2405 Lebanon Road||Danville
-1|MERIDIAN SOFTWARE SOLUTIONS INC|2501 CROSSINGS BLVD|SUITE 214|BOWLING GREEN
-1|Meridian Software Solutions Inc|2501 Crossings Blvd.|Suite 214|Bowling Green
-1|SkuVault Inc|2509 PLANTSIDE DR||LOUISVILLE
-1|CFW Associated Engineers Inc|2600 Eastpoint Pkwy|Suite 101|Louisville
-1|Gray Solutions LLC|266 East Short Street|Ste 210|Lexington
-1|Protack LLC|2901  Richmond Road|Suite 140 144|Lexington
-1|ACCELTEK INC|2901 Richmond Road|Suite 140 363|Lexington
-1|Integral Analytics Inc|300 Dave Cowens Dr, One Riverfront Place|1010|Newport
-1|Integral Analytics|300 Dave Cowens Drive|One Riverfront Place, Suite 1010|Newport
-1|Alltech Inc|3031 Catnip Hill Road||Nicholasville
-1|Switcher Inc|3058 Bardstown Road|1060|Louisville
-1|Innovative Quality Solutions Inc|308 Evergreen Road|Suite 200|Louisville
-1|CentrAlert Inc|3090 Harrodsburg Road|Suite 202|Lexington
-1|Control Space Tech LLC|312 S 4th St. Suite 700,   Louisville usa  40202||Louisville
-1|Control Space Tech LLC|312 S 4th Street|Suite 700|Louisville
-1|Summit Engineering Inc|3205 Summit Square Pl||Lexington
-1|eBlu Solutions LLC|325 W Main St|Suite 1500|Louisville
-1|Computer Services Inc|3901 Technology Drive||Paducah
-1|Hitron Technologies Inc|3909 PALOMAR COVE LANE||Lexington
-1|Middleton & Reutlinger, PSC|401 South Fourth Street|Suite 2600|Louisville
-1|JKS ARCHITECTURE INC|402 Liberty Street||Hopkinsville
-1|Global Quality Corp.|405 Garrard St|Ste 003|Covington
-1|Gray Ice Higdon, PLLC|4600 Shelbyville Road|8022|Louisville
-1|MCM CPAS & Advisors LLP|462 S. 4th St|Suite 2600|Louisville
-1|MKS Vision Group Inc|4801 Olympia Park Plaza, Suite 1400||Louisville
-1|Data Intensity LLC|50 E Rivercenter Boulevard|Suite 700|Covington
-1|Data Intensity LLC|50 E. Rivercenter Blvd|Suite 700|Covington
-1|Donan Solutions LLC|500 North Hurstborne Pkwy|Suite 350|Louisville
-1|Donan Solutions LLC|500 North Hurstbourne Pkwy|Suite 350|Louisville
-1|Technical Horizons, PLLC|501 Darby Creek Road|Ste 31|Lexington
-1|PULSE PRO DIGITAL LLC|505 W MAIN ST||LEXINGTON
-1|AIBES LLC|5305 Pueblo Road||Louisville
-1|Data Intensity LLC|535 Madison Avenue|Floor 4|Covington
-1|Brown & Kubican, P.S.C.|546 East Main Street|Suite 300|Lexington
-1|Joseph & Joseph Architects PLLC|550 S. 4th Street||Louisville
-1|CLIMAVISION OPERATING LLC|552 E MARKET STREET|SUITE 201|LOUISVILLE
-1|HTTP Holdings LLC|552 East Market Street, 4th Floor||Louisville
-1|Samiteon LLC|5700 Poplar Level Road||Louisville
-1|Samiteon LLC|5932 Timber Ridge Dr|Suite 201|Prospect
-1|Verana Health Inc|625 South Gay St.|Suite 310|Knoxville
-1|Southern Graphic Systems LLC|626 W. Main Street|Suite 400|Louisville
-1|MKS Vision Group LLC|6309 Fern Valley Pass, Suite 103||Louisville
-1|AAPPTEC LLC|6309 Shepherdsville Road||Louisville
-1|American Engineers Inc|65 Aberdeen Drive||Glasgow
-1|Decisive Inc|657 S Hurstbourne Pkwy|Suite 233|Louisville
-1|Elliot Engineering Inc|673 Blue Sky Parkway||Lexington
-1|Katayama American Company Inc|6901 Midland Industrial Drive||Shelbyville
-1|Katayama American Company Incorporated|6901 Midland Inustrial Drive||Shelbyville
-1|Nichefire Inc|7 E 5th Street||Covington
-1|Consultant Solutions Inc|700  Allenridge Point||Lexington
-1|Consultant Solutions Inc|700 Allenridge Pt||Lexington
-1|Louisville Geek LLC|700 Distillery Commons|Suite 12|Louisville
-1|H-3 Technologies LLC|71  Cavalier Boulevard|Suite 208|Florence
-1|TechVue IT|713 Millpond Road|Suite 5|Lexington
-1|ELECTRO-TECH SERVICES INC|7201 INTERMODAL DR STE B||LOUISVILLE
-1|Lighthouse Transportation Services LLC|722 Scott St.||Covington
-1|Smart Technologies Lab LLC|7328 Monsey Cir|Apt 201|Louisville
-1|GRW Engineers Inc|801 Corporate Drive||Lexington
-1|Virtual Peaker Inc|825 E. Market Street|Suite 203|Louisville
-1|Waystar Inc|888 W. Market Street||Louisville
-1|Waystar Inc|888 West Market Street||Louisville
-1|CIMSYSTEM USA|8912 STONE GREEN WAY STE 1||LOUISVILLE
-1|The Nuclear Company|903 Manchester Street|STE 180|Lexington
-1|United Systems & Software Inc|91 Southwest One Blvd.||Benton
-1|Global Business Solutions Inc|916 Monmouth Street||Newport
-1|Houston-Johnson Inc|9300 Shelbyville Road|Suite 609|Louisville
-1|7TECHNIX LLC|9322 TAYLORSVILLE ROAD|SUITE 1 3A|LOUISVILLE
-1|Chum IT LLC|944 Lake Road||Campbellsburg
-1|TECHNOLANCE IT SERVICES LLC|9850 VON ALLMEN CT|SUITE 201|LOUISVILLE
-1|Healthcare Systems Group LLC|9850 Von Allman Court|Suite 201|Louisville
-1|Healthcare Strategy Group LLC|9850 Von Allmen Court|Suite 201|Louisville
-1|Bamboo Health Inc|9901 Linn Station Road|Suite 500|Louisville
-1|Equine Medical Associates, PSC|996 Nandino Blvd||Lexington
-1|CORKY WELLS ELECTRIC INC|PO BOX 203||RUSH
-(213 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+2|KNIGHT INFOTECH|7020 HOLLOW OAKS DR|LOUISVILLE|KY
+2|KNIGHT INFOTECH LLC|7020 HOLLOW OAKS DR|LOUISVILLE|KY
+2|WORK4CE|7310 TURFWAY ROAD|FLORENCE|KY
+2|WORK4CE INC|7310 TURFWAY ROAD|FLORENCE|KY
+1|7TECHNIX LLC|9322 TAYLORSVILLE ROAD|LOUISVILLE|KY
+1|CONSULTANT SOLUTIONS INC|700  ALLENRIDGE POINT|LEXINGTON|KY
+1|CONTROL SPACE TECH LLC|312 S 4TH ST. SUITE 700,   LOUISVILLE USA  40202|LOUISVILLE|KY
+1|COOLSOFT LLC|3240 OFFICE POINTE PLACE|LOUISVILLE|KY
+1|GENTIS SOLUTIONS LLC|50 E RIVERCENTER BLVD|COVINGTON|KY
+1|GLOBAL IT SOLUTIONS LLC|111 LOCUST RIDGE ROAD|FRANKFORT|KY
+1|GO SYSTEMS LLC|1007 DELAPLAIN ROAD|GEORGETOWN|KY
+1|H-3 TECHNOLOGIES LLC|71 CAVALIER BOULEVARD|FLORENCE|KY
+1|H-3 TECHNOLOGIES LLC|71  CAVALIER BOULEVARD|FLORENCE|KY
+1|KNIGHT INFOTECH|101 N 7TH ST STE 701|LOUISVILLE|KY
+1|KNIGHT INFOTECH|101 NORTH SEVENTH STREET, SUITE 701|LOUISVILLE|KY
+1|KNIGHT INFOTECH LLC|101 NORTH 7TH STREEET|LOUISVILLE|KY
+1|KNIGHT INFOTECH LLC|101 NORTH 7TH STREET|LOUISVILLE|KY
+1|KV CONSULTING LLC|1206 MEADOW GLEN DR.|FRANKFORT|KY
+1|MERIDIAN SOFTWARE SOLUTIONS INC|2501 CROSSINGS BLVD.|BOWLING GREEN|KY
+1|MERIDIAN SOFTWARE SOLUTIONS INC|2501 CROSSINGS BLVD|BOWLING GREEN|KY
+1|MKS VISION GROUP INC|4801 OLYMPIA PARK PLAZA, SUITE 1400|LOUISVILLE|KY
+1|MKS VISION GROUP LLC|6309 FERN VALLEY PASS, SUITE 103|LOUISVILLE|KY
+1|NANOCUBE TECHNOLOGIES LLC|1512 LOUISVILLE ROAD|FRANKFORT|KY
+1|PROTACK LLC|2901  RICHMOND ROAD|LEXINGTON|KY
+1|PULSE PRO DIGITAL LLC|505 W MAIN ST|LEXINGTON|KY
+1|RELIANT CONSULTING SERVICES LLC|10200 LINN STATION ROAD|LOUISVILLE|KY
+1|ROBOTICS AUTOMATION CONSULTING LLC|217 E MAIN ST|LOUISVILLE|KY
+1|RPS TEK SOL LLC|140 KINGS DAUGHTERS DR|FRANKFORT|KY
+1|SAMITEON LLC|5932 TIMBER RIDGE DR|PROSPECT|KY
+1|SITEK INC|1040 MONARCH STREET|LEXINGTON|KY
+1|STAKEHOLDER PAYROLL SERVICES LLC|12201 BLUEGRASS PARKWAY|LOUISVILLE|KY
+1|TECHNOLANCE IT SERVICES LLC|9850 VON ALLMEN CT|LOUISVILLE|KY
+1|V-SOFT CONSULTING GROUP INC|2550 EASTPOINT PARKWAY|LOUISVILLE|KY
+1|V-SOFT CONSULTING GROUP INC|101 BULLITT LANE|LOUISVILLE|KY
+1|VIBRANT TECH LLC|1030 BURLINGTON LN|FRANKFORT|KY
+(35 rows)

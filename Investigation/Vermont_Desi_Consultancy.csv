@@ -1,58 +1,11 @@
-count|employer_name|employer_address1|employer_address2|employer_city
-8|AMERICAN TECHNOLOGY GROUP LLC|69 ALLEN ST|STE 5A|RUTLAND
-8|AMERICAN TECHNOLOGY GROUP LLC|69 ALLEN ST|SUITE 5A|RUTLAND
-8|ROBOTIC PROCESS AUTOMATION LLC|69 ALLEN ST|SUITE 5A|RUTLAND
-8|ARTIFINT TECHNOLOGIES LLC|69 ALLEN ST|SUITE 5B|RUTLAND
-8|MACHINE INTELLIGENCE TECHNOLOGIES LLC|69 ALLEN ST|SUITE 5C|RUTLANT
-8|SOFTWARE DEVELOPER|69 ALLEN ST|SUITE 5C|RUTLANT
-8|DATA SCIENCE TECHNOLOGIES LLC|69 ALLEN ST|SUITE 5D|RUTLAND
-8|BLOCKCHAIN TECHNOLOGIES LLC|69 ALLEN ST|SUITE 5E|RUTLAND
-3|iTech US Inc|20 Kimball Ave|303N|South Burlington
-3|iTech US Inc|20 Kimball Ave|Suite 303 N|South Burlington
-3|iTech US Inc|20 Kimball Ave|Suite 303N|South Burlington
-3|iTech US Inc|20 Kimball Avenue|303N|South Burlington
-3|iTech US Inc|20 Kimball Avenue|Suite 303N|SOUTH BURLINGTON
-3|iTech US Inc|20 Kimball Avenue|Suite 303N|South Burlington
-2|RECONCILED IT INC|1 LAWSON LANE|200D|BURLINGTON
-2|Reconciled It Inc|1 LAWSON LANE|200D|BURLINGTON
-2|E4H - Environments for Health LLC|185 Talcott Road||Williston
-2|E4H-Environments for Health LLC|185 Talcott Road||Williston
-2|Data Innovations LLC|463 Mountain View Dr.|Suite 3|Colchester
-2|Data Innovations LLC|463 Mountain View Dr.||Colchester
-2|Data Innovations LLC|463 Mountain View Drive|Suite 3|Colchester
-2|Data Innovations LLC|463 Mountain View Drive||Colchester
-2|EQUITAS Life Sciences LLC|5 Oliver Wight Dr.|Suite B|Essex
-2|EQUITAS Life Sciences LLC|5 Oliver Wight Dr.||Essex
-2|Resonant Link Medical Inc|530 Community Drive|Suite 2|South Burlington
-2|Resonant Link|530 Community Drive|Suite 2|South Burlington
-2|DuBois & King Inc|PO Box 339|28 North Main Street|Randolph
-2|DuBois & King Inc|PO Box 339||Randolph
-1|Systems & Software Inc|10 E Allen St|201|Winooski
-1|Optimal Energy LLC|10600 Route 116|Suite 3|Hinesburg
-1|Ascension Technology Corporation|120 Graham Way|Suite 130|Shelburne
-1|SOH Wind Engineering LLC|141 Leroy Road||Williston
-1|Resonant Link Inc|145 Pine Haven Shores Road|STE 2095|Shelburne
-1|MS&K Inc|150 Depot Street||Bennington
-1|Green River Data Analysis LLC|167 Main Street|Suite 103|Brattleboro
-1|Chimeable Inc|175 Mt Aeolus Ln||Manchester Ctr
-1|Athlete Enterprise Inc|187 Rogers Road||White River Junction
-1|Latacora LLC|2015 Dorset St||Charlotte
-1|Kelliher/Samets, Ltd.|212 Battery Street|Suite 2|Burlington
-1|CN Holdings Inc|217 Billings Farm Road||White River Junction
-1|MVP Robotics Inc|226C Industrial Drive||Bradford
-1|Mobile Virtual Player LLC|22C Industrial Drive||Bradford
-1|Green Mountain Semiconductor Inc|28 Howard Street|Suite 301|Burlington
-1|DuBois & King Inc|28 North Main Street|PO Box 339|Randolph
-1|Grippin Donlan & Pinkham PLC|3 Baldwin Avenue||South Burlington
-1|Centerline Architects & Planners, P.C.|302 Main St.||Bennington
-1|Centerline Architects & Planners, P.C.|302 Main Street||Bennington
-1|Green Mountain Animal LLC|397 Patchen Road||South Burlington
-1|Resource Systems Group Inc|55 Railroad Row||White River Junction
-1|HMC Advertising LLC|65 Millet Street||Richmond
-1|KATO DESIGN INC|7 OLD FARM MEADOW ROAD||MANCHESTER CENTER
-1|KATO DESIGN INC|7 Old Farm Meadows||Manchester Center
-1|KR Strategy USA LLC|70 Golf Avenue||Woodstock
-1|Black River Design Architects, PLC|73 Main Street|Suite 9|Montpelier
-1|FinClusive Capital Inc|860 Bullock Drive||Guilford
-1|Stevens & Associates, PC|95 Main Street||Brattleboro
-(56 rows)
+count|employer_name|employer_address1|employer_city|employer_state
+7|AMERICAN TECHNOLOGY GROUP LLC|69 ALLEN ST|RUTLAND|VT
+7|ARTIFINT TECHNOLOGIES LLC|69 ALLEN ST|RUTLAND|VT
+7|BLOCKCHAIN TECHNOLOGIES LLC|69 ALLEN ST|RUTLAND|VT
+7|DATA SCIENCE TECHNOLOGIES LLC|69 ALLEN ST|RUTLAND|VT
+7|MACHINE INTELLIGENCE TECHNOLOGIES LLC|69 ALLEN ST|RUTLANT|VT
+7|ROBOTIC PROCESS AUTOMATION LLC|69 ALLEN ST|RUTLAND|VT
+7|SOFTWARE DEVELOPER|69 ALLEN ST|RUTLANT|VT
+1|ITECH US INC|20 KIMBALL AVE|SOUTH BURLINGTON|VT
+1|ITECH US INC|20 KIMBALL AVENUE|SOUTH BURLINGTON|VT
+(9 rows)
