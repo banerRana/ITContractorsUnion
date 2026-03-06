@@ -1,468 +1,278 @@
 -[ RECORD 1 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-22286-528718
-job_title                      | Software Applications Developer
-employer_name                  | Webject Systems Inc
-secondary_entity_business_name | NewJerseyDepartmentofHuman Services (Remote work from home)
-employer_poc_email             | madhu@webject.com
-employer_poc_phone             | 15082796562
-employer_poc_first_name        | Madhu
-employer_poc_last_name         | Rao
-worksite_address1              | 120 Crossing Drive
-worksite_address2              | Apt 201
-worksite_city                  | Cumberland
-worksite_county                | CUMBERLAND
+case_number                    | I-200-25315-398894
+job_title                      | Senior Programmer
+employer_name                  | Hire IT people Inc
+secondary_entity_business_name | State of Rhode Island DOA (Department of Administration)
+employer_phone                 | 12025881841
+employer_poc_first_name        | Dan
+employer_poc_last_name         | Nandan
+employer_poc_email             | dan@hireitpeople.com
+employer_poc_phone             | 12025881841
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | 
 lawfirm_name_business_name     | 
-employer_address1              | 25 Central Square
-employer_address2              | Suite 2
-employer_city                  | Bridgewater
-employer_state                 | MA
-employer_postal_code           | 02324
-begin_date                     | 1/1/2023
-end_date                       | 12/31/2025
+employer_address1              | 15 Corporate Pl S
+employer_address2              | STE 145
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2026-05-01
+end_date                       | 2029-04-30
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Hire IT people Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 2 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-22171-297658
-job_title                      | IT Consultant (JAVA Developer)
-employer_name                  | Infosmart Technologies Inc
-secondary_entity_business_name | Remote Work From Home for State of Rhode Island (DOA)
-employer_poc_email             | hr@infosmarttech.com
-employer_poc_phone             | 16789332226
-employer_poc_first_name        | Karun
-employer_poc_last_name         | Asireddy
-worksite_address1              | 825 Pontiac Ave
-worksite_address2              | Apt  19204
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | Mannam & Associates LLC
-employer_address1              | 5400 Laurel Springs Parkway
-employer_address2              | Suite 706
-employer_city                  | Suwanee
-employer_state                 | GA
-employer_postal_code           | 30024
-begin_date                     | 6/20/2022
-end_date                       | 6/19/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 3 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-24047-725259
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | MAHAUGHA LLC
-secondary_entity_business_name | Rhode Island Department of Administration
-employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
-employer_poc_phone             | 16092354355
-employer_poc_first_name        | ARCHANA
-employer_poc_last_name         | CHOPADA
-worksite_address1              | 1 CAPITOL HILL
-worksite_address2              | 
-worksite_city                  | PROVIDENCE
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 2650 ROUTE 130
-employer_address2              | SUITE K
-employer_city                  | CRANBURY
-employer_state                 | NJ
-employer_postal_code           | 08512
-begin_date                     | 2/26/2024
-end_date                       | 2/25/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 4 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-24047-726360
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | MAHAUGHA LLC
-secondary_entity_business_name | Rhode Island Department of Administration
-employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
-employer_poc_phone             | 16092354355
-employer_poc_first_name        | ARCHANA
-employer_poc_last_name         | CHOPADA
-worksite_address1              | 1 CAPITOL HILL
-worksite_address2              | 
-worksite_city                  | PROVIDENCE
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 2650 ROUTE 130
-employer_address2              | SUITE K
-employer_city                  | CRANBURY
-employer_state                 | NJ
-employer_postal_code           | 08512
-begin_date                     | 2/26/2024
-end_date                       | 2/25/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 5 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-22040-890287
-job_title                      | UAT Tester
-employer_name                  | DENKEN SOLUTIONS INC
-secondary_entity_business_name | Rhode Island Department of Human Services
-employer_poc_email             | immigration@denkensolutions.com
-employer_poc_phone             | 19098155011
-employer_poc_first_name        | Eddie
-employer_poc_last_name         | Gallardo
-worksite_address1              | 25 Howard Ave
-worksite_address2              | Building 57
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | Law Office of Thomas V. Allen, PLLC
-employer_address1              | 9170 Irvine Center Drive
-employer_address2              | Suite 200
-employer_city                  | IRVINE
-employer_state                 | CA
-employer_postal_code           | 92618
-begin_date                     | 2/28/2022
-end_date                       | 2/27/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 6 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-24340-521896
-job_title                      | Systems Analyst
-employer_name                  | Stonewall Solutions Inc
-secondary_entity_business_name | Rhode Island Department of Human Services
-employer_poc_email             | scondon@stonewallsolutions.com
-employer_poc_phone             | 19787603659
-employer_poc_first_name        | Shannon
-employer_poc_last_name         | Condon
-worksite_address1              | 25 Howard Ave.
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | Ross Silverman Snyder Tietjen LLP
-employer_address1              | 40 Hawkins Lane
-employer_address2              | 
-employer_city                  | Marlborough
-employer_state                 | MA
-employer_postal_code           | 01752
-begin_date                     | 3/1/2025
-end_date                       | 2/28/2028
-total_worker_positions         | 1
-soc_code                       | 15-1253
-h_1b_dependent                 | No
--[ RECORD 7 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-24153-060066
-job_title                      | IT Analyst
-employer_name                  | VSQUARE INFOTECH INC
-secondary_entity_business_name | Rhode Island Department of Human Services (DHS)
-employer_poc_email             | immigration@vforceinfotech.com
-employer_poc_phone             | 17322185912
-employer_poc_first_name        | Jyoti
-employer_poc_last_name         | VAZIRANI
-worksite_address1              | 25 Howard Ave
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | Ishar Law Firm, PC
-employer_address1              | 1235 US Highway 1
-employer_address2              | STE 1100
-employer_city                  | Edison
-employer_state                 | NJ
-employer_postal_code           | 08837
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-22332-607445
-job_title                      | Sr. Programmer Analyst
-employer_name                  | ORASYS LLC
-secondary_entity_business_name | Rhode Island Department of Transporation
-employer_poc_email             | MADHU.REDDY@ORASYSS.COM
-employer_poc_phone             | 15084724904
-employer_poc_first_name        | Madhu
-employer_poc_last_name         | REDDY
-worksite_address1              | 2 Capital Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | CDF Labor Law LLP
-employer_address1              | 6500 RIVER PLACE BLVD.
-employer_address2              | Bldg 7-250
-employer_city                  | Austin
-employer_state                 | TX
-employer_postal_code           | 78730-1165
-begin_date                     | 11/28/2022
-end_date                       | 11/27/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-24100-869276
-job_title                      | Sr. Systems Analyst
-employer_name                  | ORASYS LLC
-secondary_entity_business_name | Rhode Island Department of Transportation
-employer_poc_email             | MADHU.REDDY@ORASYSS.COM
-employer_poc_phone             | 15084724904
-employer_poc_first_name        | Madhu
-employer_poc_last_name         | REDDY
-worksite_address1              | 2 Capitol Hill
-worksite_address2              | Room 342
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | CDF Labor Law LLP
-employer_address1              | 6500 RIVER PLACE BLVD.
-employer_address2              | Bldg 7-250
-employer_city                  | Austin
-employer_state                 | TX
-employer_postal_code           | 78730-1165
-begin_date                     | 9/2/2024
-end_date                       | 9/1/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-21285-640563
-job_title                      | AWS CLOUD ARCHITECT
-employer_name                  | IPIVOT LLC
-secondary_entity_business_name | STATE OF RHODE ISLAND
-employer_poc_email             | HR@IPIVOT.IO
-employer_poc_phone             | 17322742802
-employer_poc_first_name        | SATHYANARAYANA
-employer_poc_last_name         | KATAKAM
-worksite_address1              | 82 SMITH STREET ROOM 102
-worksite_address2              | 
-worksite_city                  | PROVIDENCE
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 405 RIDGE ROAD
-employer_address2              | 
-employer_city                  | DAYTON
-employer_state                 | NJ
-employer_postal_code           | 08810
-begin_date                     | 10/25/2021
-end_date                       | 10/24/2024
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24052-735581
-job_title                      | Program Manager II
-employer_name                  | Information Resource Group Inc
-secondary_entity_business_name | STATE OF RHODE ISLAND, DEPARTMENT OF ADMINISTRATION
-employer_poc_email             | sgoel@irginc.net
-employer_poc_phone             | 15732308547
-employer_poc_first_name        | Shyam
-employer_poc_last_name         | Goel
-worksite_address1              | ONE CAPITOL HILL
-worksite_address2              | 
-worksite_city                  | PROVIDENCE
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | Law Offices of Amarnath Gowda
-employer_address1              | 1617 Southridge Dr.
-employer_address2              | Suite 200
-employer_city                  | Jefferson City
-employer_state                 | MO
-employer_postal_code           | 65109
-begin_date                     | 4/4/2024
-end_date                       | 4/3/2027
-total_worker_positions         | 1
-soc_code                       | 11-3021.00
-h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-22040-889814
-job_title                      | PROGRAM MANAGER II
-employer_name                  | Information Resource Group Inc
-secondary_entity_business_name | STATE OF RHODE ISLAND, OFFICE OF MANAGEMENT AND BUDGET(OMB)
-employer_poc_email             | sgoel@irginc.net
-employer_poc_phone             | 15732308547
-employer_poc_first_name        | Shyam
-employer_poc_last_name         | Goel
-worksite_address1              | ONE CAPITOL HILL
-worksite_address2              | 
-worksite_city                  | PROVIDENCE
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | Law Offices of Amarnath Gowda
-employer_address1              | 1617 Southridge Dr.
-employer_address2              | Suite 200
-employer_city                  | Jefferson City
-employer_state                 | MO
-employer_postal_code           | 65109
-begin_date                     | 2/9/2022
-end_date                       | 2/8/2025
-total_worker_positions         | 1
-soc_code                       | 11-3021.00
-h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23153-075137
-job_title                      | Project Manager
-employer_name                  | V-Soft Consulting Group INC
-secondary_entity_business_name | State of RI (DHS- Department of Human Services)
-employer_poc_email             | tanya@vsoftconsulting.com
-employer_poc_phone             | 15024258425
-employer_poc_first_name        | TANYA
-employer_poc_last_name         | BLOCKER
-worksite_address1              | 25 Howard Ave, Louis Pasteur Building 57
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 101 Bullitt Lane
-employer_address2              | Suite 205
-employer_city                  | Louisville
-employer_state                 | KY
-employer_postal_code           | 40222
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1299.09
-h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24267-355774
-job_title                      | Packaged App Development Manager
-employer_name                  | Accenture LLP
-secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
-employer_poc_phone             | 13104265295
-employer_poc_first_name        | Leonard
-employer_poc_last_name         | Oxford
-worksite_address1              | 1 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 500 West Madison Street
-employer_address2              | 
-employer_city                  | Chicago
-employer_state                 | IL
-employer_postal_code           | 60661
-begin_date                     | 9/29/2024
-end_date                       | 9/28/2027
-total_worker_positions         | 1
-soc_code                       | 15-1211
-h_1b_dependent                 | No
--[ RECORD 15 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25115-903958
-job_title                      | Packaged App Development Manager
-employer_name                  | Accenture LLP
-secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
-employer_poc_phone             | 13104265295
-employer_poc_first_name        | LEONARD
-employer_poc_last_name         | OXFORD
-worksite_address1              | 1 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 500 West Madison Street
-employer_address2              | 
-employer_city                  | Chicago
-employer_state                 | IL
-employer_postal_code           | 60661
-begin_date                     | 5/1/2025
-end_date                       | 4/30/2028
-total_worker_positions         | 1
-soc_code                       | 15-1211
-h_1b_dependent                 | No
--[ RECORD 16 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25100-853368
-job_title                      | IAM Analyst
-employer_name                  | Cloudbridge Solutions Inc
-secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | legal@cloudbridgeusa.com
-employer_poc_phone             | 17744329051
-employer_poc_first_name        | Jayasree
-employer_poc_last_name         | Athota
-worksite_address1              | 50 service Ave
-worksite_address2              | 
-worksite_city                  | Warwick
-worksite_county                | WARWICK CITY
-lawfirm_name_business_name     | 
-employer_address1              | 5 Mt Royal Ave
-employer_address2              | Suite 150
-employer_city                  | Marlborough
-employer_state                 | MA
-employer_postal_code           | 01752
-begin_date                     | 4/21/2025
-end_date                       | 4/20/2028
-total_worker_positions         | 1
-soc_code                       | 15-1212
-h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24015-640556
-job_title                      | Business Analyst
-employer_name                  | Devansee Analytics LLC
-secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | hr@devansee.com
-employer_poc_phone             | 19805812270
-employer_poc_first_name        | Ram
-employer_poc_last_name         | Ponnuru
-worksite_address1              | 1 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | BBI Law Group, P.C.
-employer_address1              | 10926 David Taylor Dr.,
-employer_address2              | Suite 120
-employer_city                  | Charlotte
-employer_state                 | NC
-employer_postal_code           | 28262
-begin_date                     | 1/15/2024
-end_date                       | 1/14/2027
-total_worker_positions         | 1
-soc_code                       | 13-1111.00
-h_1b_dependent                 | No
--[ RECORD 18 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-22094-034719
-job_title                      | Sr. User Acceptance Tester/Business Analyst
-employer_name                  | HCH Enterprises LLC
-secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | hodge@hchent.com
-employer_poc_phone             | 14015685778
-employer_poc_first_name        | Henry
-employer_poc_last_name         | Hodge
-worksite_address1              | 3 West Road
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | Akula & Associates, P.C.
-employer_address1              | 3016 Post Road
-employer_address2              | 
-employer_city                  | Warwick
-employer_state                 | RI
-employer_postal_code           | 02886
-begin_date                     | 4/4/2022
-end_date                       | 4/3/2025
-total_worker_positions         | 1
-soc_code                       | 15-1133.00
-h_1b_dependent                 | No
--[ RECORD 19 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23069-839381
-job_title                      | Sr Software Developer
+case_number                    | I-200-25352-494257
+job_title                      | Sr. Software Engineer
 employer_name                  | Kloudhive LLC
 secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | pchanubala@kloudhive.com
-employer_poc_phone             | 17139270457
+employer_phone                 | 19144494483
 employer_poc_first_name        | Poorna
 employer_poc_last_name         | Chanubala
+employer_poc_email             | pchanubala@kloudhive.com
+employer_poc_phone             | 17139270457
+employer_poc_phone_ext         | 
 worksite_address1              | 1 Capitol Hill
 worksite_address2              | 
 worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
+worksite_county                | 
 lawfirm_name_business_name     | HALLETT MCCANN LAW GROUP LTD.
 employer_address1              | 1 Barney Road
 employer_address2              | Suite 248
 employer_city                  | Clifton Park
 employer_state                 | NY
 employer_postal_code           | 12065
-begin_date                     | 3/20/2023
-end_date                       | 3/19/2026
+begin_date                     | 2026-03-20
+end_date                       | 2029-03-19
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Kloudhive LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 20 ]-----------------+-------------------------------------------------------------
+-[ RECORD 3 ]------------------+-------------------------------------------------------------
+case_number                    | I-200-25317-405891
+job_title                      | Senior SQL Server DBA
+employer_name                  | Galax-Esystems Corporation
+secondary_entity_business_name | State of Rhode Island
+employer_phone                 | 14122083655
+employer_poc_first_name        | Srinivas
+employer_poc_last_name         | Alapati
+employer_poc_email             | nivas@galaxesystems.com
+employer_poc_phone             | 14122083655
+employer_poc_phone_ext         | 
+worksite_address1              | Department of Administration (ETSS), One Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | 
+lawfirm_name_business_name     | Seth Law Offices PC t/d/b/a Seth Law Associates
+employer_address1              | 301 Grant Street, Suite 270
+employer_address2              | One Oxford Centre
+employer_city                  | Pittsburgh
+employer_state                 | PA
+employer_postal_code           | 15219
+begin_date                     | 2026-02-08
+end_date                       | 2029-02-07
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Galax-Esystems Corporation
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 4 ]------------------+-------------------------------------------------------------
+case_number                    | I-200-25318-409744
+job_title                      | Senior SQL Server DBA
+employer_name                  | Galax-Esystems Corporation
+secondary_entity_business_name | State of Rhode Island
+employer_phone                 | 14122083655
+employer_poc_first_name        | Srinivas
+employer_poc_last_name         | Alapati
+employer_poc_email             | nivas@galaxesystems.com
+employer_poc_phone             | 14122083655
+employer_poc_phone_ext         | 
+worksite_address1              | Department of Administration (ETSS), One Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | 
+lawfirm_name_business_name     | Seth Law Offices PC t/d/b/a Seth Law Associates
+employer_address1              | 301 Grant Street, Suite 270
+employer_address2              | One Oxford Centre
+employer_city                  | Pittsburgh
+employer_state                 | PA
+employer_postal_code           | 15219
+begin_date                     | 2026-02-08
+end_date                       | 2029-02-07
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Galax-Esystems Corporation
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 5 ]------------------+-------------------------------------------------------------
+case_number                    | I-200-25206-201625
+job_title                      | Front End Developer
+employer_name                  | SolutionSoft Inc
+secondary_entity_business_name | State of Rhode Island -Division of Motor Vehicles
+employer_phone                 | 15187220001
+employer_poc_first_name        | Samatheshini
+employer_poc_last_name         | Pendyala
+employer_poc_email             | samatha.s@solutionsoftinc.com
+employer_poc_phone             | 15187220001
+employer_poc_phone_ext         | 
+worksite_address1              | 600 New London Avenue
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 120 W Golf Road
+employer_address2              | Suite 100 B
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60195
+begin_date                     | 2026-01-09
+end_date                       | 2029-01-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SolutionSoft Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 6 ]------------------+-------------------------------------------------------------
+case_number                    | I-200-25237-263468
+job_title                      | Business Systems Analyst
+employer_name                  | Altair Technologies Inc
+secondary_entity_business_name | Rhode Island Department of Human Services
+employer_phone                 | 17206753656
+employer_poc_first_name        | Surya
+employer_poc_last_name         | Booragadda
+employer_poc_email             | immigration@altairtechnologiesinc.com
+employer_poc_phone             | 17206753656
+employer_poc_phone_ext         | 
+worksite_address1              | 25 Howard Ave
+worksite_address2              | Building 57
+worksite_city                  | Cranston
+worksite_county                | 
+lawfirm_name_business_name     | Shahin Qureshi Law Offices P.L.L.C.
+employer_address1              | 11675 Century Dr.
+employer_address2              | Unit A
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30009
+begin_date                     | 2025-08-25
+end_date                       | 2028-08-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Altair Technologies Inc
+soc_code                       | 15-2051.01
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+-------------------------------------------------------------
+case_number                    | I-200-25105-867606
+job_title                      | Health Economics Specialist
+employer_name                  | State of Rhode Island
+secondary_entity_business_name | 
+employer_phone                 | 14012221625
+employer_poc_first_name        | Neil
+employer_poc_last_name         | Hytinen
+employer_poc_email             | Neil.Hytinen@health.ri.gov
+employer_poc_phone             | 14012221625
+employer_poc_phone_ext         | 
+worksite_address1              | 3 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | Coogan Smith LLP
+employer_address1              | 3 Capitol Hill
+employer_address2              | 
+employer_city                  | Providence
+employer_state                 | RI
+employer_postal_code           | 02908
+begin_date                     | 2025-06-01
+end_date                       | 2028-05-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of Rhode Island
+soc_code                       | 19-3011
+h_1b_dependent                 | No
+-[ RECORD 8 ]------------------+-------------------------------------------------------------
+case_number                    | I-200-25115-903958
+job_title                      | Packaged App Development Manager
+employer_name                  | Accenture LLP
+secondary_entity_business_name | State of Rhode Island
+employer_phone                 | 13126930161
+employer_poc_first_name        | LEONARD
+employer_poc_last_name         | OXFORD
+employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
+employer_poc_phone             | 13104265295
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 500 West Madison Street
+employer_address2              | 
+employer_city                  | Chicago
+employer_state                 | IL
+employer_postal_code           | 60661
+begin_date                     | 2025-05-01
+end_date                       | 2028-04-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Accenture LLP
+soc_code                       | 15-1211
+h_1b_dependent                 | No
+-[ RECORD 9 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-25108-878832
 job_title                      | Senior Software Data Engineer
 employer_name                  | Source Cloud Technologies Inc
 secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | hr@sourcecloudinc.com
-employer_poc_phone             | 15716556100
+employer_phone                 | 15716556100
 employer_poc_first_name        | Preetha
 employer_poc_last_name         | Thoonoli
+employer_poc_email             | hr@sourcecloudinc.com
+employer_poc_phone             | 15716556100
+employer_poc_phone_ext         | 
 worksite_address1              | 57 Howard Avenue
 worksite_address2              | 
 worksite_city                  | Cranston
@@ -473,284 +283,227 @@ employer_address2              | Suite 100
 employer_city                  | Apex
 employer_state                 | NC
 employer_postal_code           | 27502
-begin_date                     | 4/21/2025
-end_date                       | 4/20/2028
+begin_date                     | 2025-04-21
+end_date                       | 2028-04-20
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Source Cloud Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24131-980723
-job_title                      | Dynamic 365 Developer
-employer_name                  | Syscons Corporation
+-[ RECORD 10 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-25100-853368
+job_title                      | IAM Analyst
+employer_name                  | Cloudbridge Solutions Inc
 secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | sdevalla@sysconscorp.com
-employer_poc_phone             | 14013699381
-employer_poc_first_name        | Satyaprasad
-employer_poc_last_name         | Devalla
-worksite_address1              | 1 Capitol Hill
+employer_phone                 | 17744329051
+employer_poc_first_name        | Jayasree
+employer_poc_last_name         | Athota
+employer_poc_email             | legal@cloudbridgeusa.com
+employer_poc_phone             | 17744329051
+employer_poc_phone_ext         | 417
+worksite_address1              | 50 service Ave
 worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | International Institute of New England
-employer_address1              | 959 Mineral Spring Avenue
-employer_address2              | Suite 4
-employer_city                  | North Providence
-employer_state                 | RI
-employer_postal_code           | 02904
-begin_date                     | 7/1/2024
-end_date                       | 6/30/2027
+worksite_city                  | Warwick
+worksite_county                | WARWICK CITY
+lawfirm_name_business_name     | 
+employer_address1              | 5 Mt Royal Ave
+employer_address2              | Suite 150
+employer_city                  | Marlborough
+employer_state                 | MA
+employer_postal_code           | 01752
+begin_date                     | 2025-04-21
+end_date                       | 2028-04-20
 total_worker_positions         | 1
-soc_code                       | 15-1252.00
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Cloudbridge Solutions Inc
+soc_code                       | 15-1212
 h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-22111-094171
-job_title                      | Oracle PI SQL Programmer
-employer_name                  | VLink Inc
-secondary_entity_business_name | State of Rhode Island
-employer_poc_email             | lalitha.alagappan@vlinkinfo.com
-employer_poc_phone             | 18602471400
-employer_poc_first_name        | Lalitha
-employer_poc_last_name         | Alagappan
-worksite_address1              | 10 Charles Street
+-[ RECORD 11 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24340-521896
+job_title                      | Systems Analyst
+employer_name                  | Stonewall Solutions Inc
+secondary_entity_business_name | Rhode Island Department of Human Services
+employer_phone                 | 14014759975
+employer_poc_first_name        | Shannon
+employer_poc_last_name         | Condon
+employer_poc_email             | scondon@stonewallsolutions.com
+employer_poc_phone             | 19787603659
+employer_poc_phone_ext         | 
+worksite_address1              | 25 Howard Ave.
 worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | Patil & Associates LLC
-employer_address1              | 701 John Fitch Blvd
+worksite_city                  | Cranston
+worksite_county                | CRANSTON CITY
+lawfirm_name_business_name     | Ross Silverman Snyder Tietjen LLP
+employer_address1              | 40 Hawkins Lane
 employer_address2              | 
-employer_city                  | South Windsor
-employer_state                 | CT
-employer_postal_code           | 06074
-begin_date                     | 7/30/2022
-end_date                       | 3/20/2023
+employer_city                  | Marlborough
+employer_state                 | MA
+employer_postal_code           | 01752
+begin_date                     | 2025-03-01
+end_date                       | 2028-02-28
 total_worker_positions         | 1
-soc_code                       | 15-1132.00
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Stonewall Solutions Inc
+soc_code                       | 15-1253
 h_1b_dependent                 | No
--[ RECORD 23 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24129-971204
-job_title                      | Software QA Engineer
-employer_name                  | RICEFW Technologies Inc
-secondary_entity_business_name | State of Rhode Island - DHS
-employer_poc_email             | immigration@ricefwtech.com
-employer_poc_phone             | 15862325001
-employer_poc_first_name        | Mary
-employer_poc_last_name         | Yeddula
-worksite_address1              | 25 Howard Avenue
+-[ RECORD 12 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24361-571552
+job_title                      | Senior Public Health Epidemiologist
+employer_name                  | State of Rhode Island
+secondary_entity_business_name | 
+employer_phone                 | 14012225917
+employer_poc_first_name        | Sandra
+employer_poc_last_name         | Powell
+employer_poc_email             | Sandra.Powell@health.ri.gov
+employer_poc_phone             | 14012225917
+employer_poc_phone_ext         | 
+worksite_address1              | 3 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | Coogan Smith LLP
+employer_address1              | 3 CAPITOL HILL
+employer_address2              | 
+employer_city                  | Providence
+employer_state                 | RI
+employer_postal_code           | 02908
+begin_date                     | 2025-01-18
+end_date                       | 2028-01-17
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of Rhode Island
+soc_code                       | 19-1041
+h_1b_dependent                 | No
+-[ RECORD 13 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24310-454425
+job_title                      | Senior Public Health Epidemiologist
+employer_name                  | State of Rhode Island
+secondary_entity_business_name | 
+employer_phone                 | 14012584435
+employer_poc_first_name        | Kristine
+employer_poc_last_name         | Campagna
+employer_poc_email             | Kristine.campagna@health.ri.gov
+employer_poc_phone             | 14012584435
+employer_poc_phone_ext         | 
+worksite_address1              | 3 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | Coogan Smith LLP
+employer_address1              | 3 CAPITOL HILL
+employer_address2              | 
+employer_city                  | Providence
+employer_state                 | RI
+employer_postal_code           | 02908
+begin_date                     | 2025-01-01
+end_date                       | 2027-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of Rhode Island
+soc_code                       | 19-1041
+h_1b_dependent                 | No
+-[ RECORD 14 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24153-060066
+job_title                      | IT Analyst
+employer_name                  | VSQUARE INFOTECH INC
+secondary_entity_business_name | Rhode Island Department of Human Services (DHS)
+employer_phone                 | 17322185912
+employer_poc_first_name        | Jyoti
+employer_poc_last_name         | VAZIRANI
+employer_poc_email             | immigration@vforceinfotech.com
+employer_poc_phone             | 17322185912
+employer_poc_phone_ext         | 
+worksite_address1              | 25 Howard Ave
 worksite_address2              | 
 worksite_city                  | Cranston
 worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 2150 Association Dr
-employer_address2              | Suite 270
-employer_city                  | Okemos
-employer_state                 | MI
-employer_postal_code           | 48864
-begin_date                     | 5/23/2024
-end_date                       | 5/22/2027
+lawfirm_name_business_name     | Ishar Law Firm PC
+employer_address1              | 1235 US Highway 1
+employer_address2              | STE 1100
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08837
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
 total_worker_positions         | 1
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23340-547793
-job_title                      | Software Engineer
-employer_name                  | COOLSOFT LLC
-secondary_entity_business_name | State of Rhode Island - DMV
-employer_poc_email             | roger@coolsofttech.com
-employer_poc_phone             | 15023279805
-employer_poc_first_name        | Roger
-employer_poc_last_name         | Natarajan
-worksite_address1              | 600 New London Avenue
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 3240 OFFICE POINTE PLACE
-employer_address2              | SUITE 200
-employer_city                  | LOUISVILLE
-employer_state                 | KY
-employer_postal_code           | 40220
-begin_date                     | 12/18/2023
-end_date                       | 12/17/2026
-total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | VSQUARE INFOTECH INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 25 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24092-845372
-job_title                      | Sr Business Analyst
-employer_name                  | DPR SOLUTIONS INC
-secondary_entity_business_name | State of Rhode Island - Division of Motor Vehicles (RI-DMV)
-employer_poc_email             | HR@DPRSOLUTIONSINC.COM
-employer_poc_phone             | 17037261654
-employer_poc_first_name        | LALITHAMBICA
-employer_poc_last_name         | DOKKU
-worksite_address1              | 600 New London Ave
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 20130 Lakeview Center Plaza
-employer_address2              | Suite 140
-employer_city                  | ASHBURN
-employer_state                 | VA
-employer_postal_code           | 20147
-begin_date                     | 9/2/2024
-end_date                       | 9/1/2027
-total_worker_positions         | 1
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 26 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23107-939579
-job_title                      | Senior Programmer
-employer_name                  | Hire IT people Inc
-secondary_entity_business_name | State of Rhode Island DOA (Department of Administration)
-employer_poc_email             | dan@hireitpeople.com
-employer_poc_phone             | 12025881841
-employer_poc_first_name        | Dan
-employer_poc_last_name         | Nandan
+-[ RECORD 15 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24267-355774
+job_title                      | Packaged App Development Manager
+employer_name                  | Accenture LLP
+secondary_entity_business_name | State of Rhode Island
+employer_phone                 | 13126930161
+employer_poc_first_name        | Leonard
+employer_poc_last_name         | Oxford
+employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
+employer_poc_phone             | 13104265295
+employer_poc_phone_ext         | 
 worksite_address1              | 1 Capitol Hill
 worksite_address2              | 
 worksite_city                  | Providence
 worksite_county                | PROVIDENCE CITY
 lawfirm_name_business_name     | 
-employer_address1              | 15 Corporate Pl S
-employer_address2              | STE 145
-employer_city                  | Piscataway
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 5/1/2023
-end_date                       | 4/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23109-948002
-job_title                      | Senior Programmer
-employer_name                  | Hire IT people Inc
-secondary_entity_business_name | State of Rhode Island DOA (Department of Administration)
-employer_poc_email             | dan@hireitpeople.com
-employer_poc_phone             | 12025881841
-employer_poc_first_name        | Dan
-employer_poc_last_name         | Nandan
-worksite_address1              | 1 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 15 Corporate Pl S
-employer_address2              | STE 145
-employer_city                  | Piscataway
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 5/1/2023
-end_date                       | 4/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 28 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23327-521664
-job_title                      | Front End Developer
-employer_name                  | SolutionSoft Inc
-secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
-employer_poc_email             | samatha.s@solutionsoftinc.com
-employer_poc_phone             | 15187220001
-employer_poc_first_name        | Samatheshini
-employer_poc_last_name         | Pendyala
-worksite_address1              | 600 New London Ave
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 120 W Golf Road
-employer_address2              | Suite 100 B
-employer_city                  | Schaumburg
+employer_address1              | 500 West Madison Street
+employer_address2              | 
+employer_city                  | Chicago
 employer_state                 | IL
-employer_postal_code           | 60195
-begin_date                     | 12/1/2023
-end_date                       | 11/30/2026
+employer_postal_code           | 60661
+begin_date                     | 2024-09-29
+end_date                       | 2027-09-28
 total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 29 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24143-027502
-job_title                      | Front End Developer
-employer_name                  | SolutionSoft Inc
-secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
-employer_poc_email             | samatha.s@solutionsoftinc.com
-employer_poc_phone             | 15187220001
-employer_poc_first_name        | Samatheshini
-employer_poc_last_name         | Pendyala
-worksite_address1              | 600 New London Ave
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 120 W Golf Road
-employer_address2              | Suite 100 B
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60195
-begin_date                     | 6/3/2024
-end_date                       | 6/2/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 30 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-22355-653217
-job_title                      | Front End Developer
-employer_name                  | SolutionSoft Inc
-secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
-employer_poc_email             | samatha.s@solutionsoftinc.com
-employer_poc_phone             | 15187220001
-employer_poc_first_name        | Samatheshini
-employer_poc_last_name         | Pendyala
-worksite_address1              | 600 New London Ave
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 120 W Golf Road
-employer_address2              | Suite 100 B
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60195
-begin_date                     | 1/9/2023
-end_date                       | 1/8/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 31 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23272-400497
-job_title                      | Software Engineer
-employer_name                  | VALUEPRO INC
-secondary_entity_business_name | State of Rhode Island department of Administration
-employer_poc_email             | hr@valueprosite.org
-employer_poc_phone             | 15017661071
-employer_poc_first_name        | THIRUMAL
-employer_poc_last_name         | GONGUNTALA
-worksite_address1              | 1 Capitol  Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 417 MAIN ST
-employer_address2              | SUITE 207
-employer_city                  | LITTLE ROCK
-employer_state                 | AR
-employer_postal_code           | 72201
-begin_date                     | 10/2/2023
-end_date                       | 10/1/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 32 ]-----------------+-------------------------------------------------------------
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Accenture LLP
+soc_code                       | 15-1211
+h_1b_dependent                 | No
+-[ RECORD 16 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24255-331716
 job_title                      | Software Engineer
 employer_name                  | NobleSoft Solutions Inc
 secondary_entity_business_name | State of Rhode Island, Department of Administration
-employer_poc_email             | dan@noblesoft-solutions.com
-employer_poc_phone             | 13212778477
+employer_phone                 | 13212778477
 employer_poc_first_name        | Dan
 employer_poc_last_name         | McLinden
+employer_poc_email             | dan@noblesoft-solutions.com
+employer_poc_phone             | 13212778477
+employer_poc_phone_ext         | 
 worksite_address1              | 1 Capitol Hill
 worksite_address2              | 
 worksite_city                  | Providence
@@ -761,68 +514,458 @@ employer_address2              |
 employer_city                  | Langhorne
 employer_state                 | PA
 employer_postal_code           | 19047
-begin_date                     | 9/18/2024
-end_date                       | 9/17/2027
+begin_date                     | 2024-09-18
+end_date                       | 2027-09-17
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | NobleSoft Solutions Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 33 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23010-691021
-job_title                      | Solution Architect
-employer_name                  | M9 Consulting Inc
-secondary_entity_business_name | State of Rhode Island, Department of IT
-employer_poc_email             | swarna@m9consulting.com
-employer_poc_phone             | 15127093763
-employer_poc_first_name        | Swarna
-employer_poc_last_name         | Konda
-worksite_address1              | 50 Service Way
-worksite_address2              | 
-worksite_city                  | Warwick
-worksite_county                | WARWICK CITY
-lawfirm_name_business_name     | Global Immigration Partners Inc
-employer_address1              | 507 Denali Pass Dr.
-employer_address2              | Suite 603
-employer_city                  | Cedar Park
-employer_state                 | TX
-employer_postal_code           | 78613
-begin_date                     | 1/18/2023
-end_date                       | 1/17/2026
-total_worker_positions         | 1
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 34 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23097-915392
-job_title                      | Software Applications Developer
-employer_name                  | Webject Systems Inc
-secondary_entity_business_name | State of Rhode Island, Department of Motor Vehicles (RI DMV)
-employer_poc_email             | madhu@webject.com
-employer_poc_phone             | 15082796562
-employer_poc_first_name        | Madhu
-employer_poc_last_name         | Rao
+-[ RECORD 17 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24092-845372
+job_title                      | Sr Business Analyst
+employer_name                  | DPR SOLUTIONS INC
+secondary_entity_business_name | State of Rhode Island - Division of Motor Vehicles (RI-DMV)
+employer_phone                 | 17037261654
+employer_poc_first_name        | LALITHAMBICA
+employer_poc_last_name         | DOKKU
+employer_poc_email             | HR@DPRSOLUTIONSINC.COM
+employer_poc_phone             | 17037261654
+employer_poc_phone_ext         | 
 worksite_address1              | 600 New London Ave
 worksite_address2              | 
 worksite_city                  | Cranston
 worksite_county                | CRANSTON CITY
 lawfirm_name_business_name     | 
-employer_address1              | 25 Central Square
-employer_address2              | Suite 2
-employer_city                  | Bridgewater
-employer_state                 | MA
-employer_postal_code           | 02324
-begin_date                     | 7/1/2023
-end_date                       | 6/30/2026
+employer_address1              | 20130 Lakeview Center Plaza
+employer_address2              | Suite 140
+employer_city                  | ASHBURN
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2024-09-02
+end_date                       | 2027-09-01
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | DPR SOLUTIONS INC
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24100-869276
+job_title                      | Sr. Systems Analyst
+employer_name                  | ORASYS LLC
+secondary_entity_business_name | Rhode Island Department of Transportation
+employer_phone                 | 15084724904
+employer_poc_first_name        | Madhu
+employer_poc_last_name         | REDDY
+employer_poc_email             | MADHU.REDDY@ORASYSS.COM
+employer_poc_phone             | 15084724904
+employer_poc_phone_ext         | 
+worksite_address1              | 2 Capitol Hill
+worksite_address2              | Room 342
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | CDF Labor Law LLP
+employer_address1              | 6500 RIVER PLACE BLVD.
+employer_address2              | Bldg 7-250
+employer_city                  | Austin
+employer_state                 | TX
+employer_postal_code           | 78730-1165
+begin_date                     | 2024-09-02
+end_date                       | 2027-09-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ORASYS LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 35 ]-----------------+-------------------------------------------------------------
+-[ RECORD 19 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24131-980723
+job_title                      | Dynamic 365 Developer
+employer_name                  | Syscons Corporation
+secondary_entity_business_name | State of Rhode Island
+employer_phone                 | 14013699381
+employer_poc_first_name        | Satyaprasad
+employer_poc_last_name         | Devalla
+employer_poc_email             | sdevalla@sysconscorp.com
+employer_poc_phone             | 14013699381
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | International Institute of New England
+employer_address1              | 959 Mineral Spring Avenue
+employer_address2              | Suite 4
+employer_city                  | North Providence
+employer_state                 | RI
+employer_postal_code           | 02904
+begin_date                     | 2024-07-01
+end_date                       | 2027-06-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Syscons Corporation
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 20 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24143-027502
+job_title                      | Front End Developer
+employer_name                  | SolutionSoft Inc
+secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
+employer_phone                 | 15187220001
+employer_poc_first_name        | Samatheshini
+employer_poc_last_name         | Pendyala
+employer_poc_email             | samatha.s@solutionsoftinc.com
+employer_poc_phone             | 15187220001
+employer_poc_phone_ext         | 
+worksite_address1              | 600 New London Ave
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | CRANSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 120 W Golf Road
+employer_address2              | Suite 100 B
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60195
+begin_date                     | 2024-06-03
+end_date                       | 2027-06-02
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | SolutionSoft Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 21 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24129-971204
+job_title                      | Software QA Engineer
+employer_name                  | RICEFW Technologies Inc
+secondary_entity_business_name | State of Rhode Island - DHS
+employer_phone                 | 15862325001
+employer_poc_first_name        | Mary
+employer_poc_last_name         | Yeddula
+employer_poc_email             | immigration@ricefwtech.com
+employer_poc_phone             | 15862325001
+employer_poc_phone_ext         | 
+worksite_address1              | 25 Howard Avenue
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2150 Association Dr
+employer_address2              | Suite 270
+employer_city                  | Okemos
+employer_state                 | MI
+employer_postal_code           | 48864
+begin_date                     | 2024-05-23
+end_date                       | 2027-05-22
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | RICEFW Technologies Inc
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24052-735581
+job_title                      | Program Manager II
+employer_name                  | Information Resource Group Inc
+secondary_entity_business_name | STATE OF RHODE ISLAND, DEPARTMENT OF ADMINISTRATION
+employer_phone                 | 15732308547
+employer_poc_first_name        | Shyam
+employer_poc_last_name         | Goel
+employer_poc_email             | sgoel@irginc.net
+employer_poc_phone             | 15732308547
+employer_poc_phone_ext         | 
+worksite_address1              | ONE CAPITOL HILL
+worksite_address2              | 
+worksite_city                  | PROVIDENCE
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | Law Offices of Amarnath Gowda
+employer_address1              | 1617 Southridge Dr.
+employer_address2              | Suite 200
+employer_city                  | Jefferson City
+employer_state                 | MO
+employer_postal_code           | 65109
+begin_date                     | 2024-04-04
+end_date                       | 2027-04-03
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Information Resource Group Inc
+soc_code                       | 11-3021.00
+h_1b_dependent                 | Yes
+-[ RECORD 23 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24047-725259
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | MAHAUGHA LLC
+secondary_entity_business_name | Rhode Island Department of Administration
+employer_phone                 | 16092354355
+employer_poc_first_name        | ARCHANA
+employer_poc_last_name         | CHOPADA
+employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
+employer_poc_phone             | 16092354355
+employer_poc_phone_ext         | 
+worksite_address1              | 1 CAPITOL HILL
+worksite_address2              | 
+worksite_city                  | PROVIDENCE
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2650 ROUTE 130
+employer_address2              | SUITE K
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 2024-02-26
+end_date                       | 2027-02-25
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | MAHAUGHA LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 24 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24047-726360
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | MAHAUGHA LLC
+secondary_entity_business_name | Rhode Island Department of Administration
+employer_phone                 | 16092354355
+employer_poc_first_name        | ARCHANA
+employer_poc_last_name         | CHOPADA
+employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
+employer_poc_phone             | 16092354355
+employer_poc_phone_ext         | 
+worksite_address1              | 1 CAPITOL HILL
+worksite_address2              | 
+worksite_city                  | PROVIDENCE
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2650 ROUTE 130
+employer_address2              | SUITE K
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 2024-02-26
+end_date                       | 2027-02-25
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | MAHAUGHA LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 25 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24015-640556
+job_title                      | Business Analyst
+employer_name                  | Devansee Analytics LLC
+secondary_entity_business_name | State of Rhode Island
+employer_phone                 | 19805812270
+employer_poc_first_name        | Ram
+employer_poc_last_name         | Ponnuru
+employer_poc_email             | hr@devansee.com
+employer_poc_phone             | 19805812270
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Capitol Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | BBI Law Group PC
+employer_address1              | 10926 David Taylor Dr.,
+employer_address2              | Suite 120
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28262
+begin_date                     | 2024-01-15
+end_date                       | 2027-01-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Devansee Analytics LLC
+soc_code                       | 13-1111.00
+h_1b_dependent                 | No
+-[ RECORD 26 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23340-547793
+job_title                      | Software Engineer
+employer_name                  | COOLSOFT LLC
+secondary_entity_business_name | State of Rhode Island - DMV
+employer_phone                 | 15023279805
+employer_poc_first_name        | Roger
+employer_poc_last_name         | Natarajan
+employer_poc_email             | roger@coolsofttech.com
+employer_poc_phone             | 15023279805
+employer_poc_phone_ext         | 5003
+worksite_address1              | 600 New London Avenue
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 3240 OFFICE POINTE PLACE
+employer_address2              | SUITE 200
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40220
+begin_date                     | 2023-12-18
+end_date                       | 2026-12-17
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | COOLSOFT LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 27 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23327-521664
+job_title                      | Front End Developer
+employer_name                  | SolutionSoft Inc
+secondary_entity_business_name | State of Rhode Island Division of Motor Vehicles
+employer_phone                 | 15187220001
+employer_poc_first_name        | Samatheshini
+employer_poc_last_name         | Pendyala
+employer_poc_email             | samatha.s@solutionsoftinc.com
+employer_poc_phone             | 15187220001
+employer_poc_phone_ext         | 
+worksite_address1              | 600 New London Ave
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | CRANSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 120 W Golf Road
+employer_address2              | Suite 100 B
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60195
+begin_date                     | 2023-12-01
+end_date                       | 2026-11-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | SolutionSoft Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 28 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23272-400497
+job_title                      | Software Engineer
+employer_name                  | VALUEPRO INC
+secondary_entity_business_name | State of Rhode Island department of Administration
+employer_phone                 | 15017661071
+employer_poc_first_name        | THIRUMAL
+employer_poc_last_name         | GONGUNTALA
+employer_poc_email             | hr@valueprosite.org
+employer_poc_phone             | 15017661071
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Capitol  Hill
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 417 MAIN ST
+employer_address2              | SUITE 207
+employer_city                  | LITTLE ROCK
+employer_state                 | AR
+employer_postal_code           | 72201
+begin_date                     | 2023-10-02
+end_date                       | 2026-10-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | VALUEPRO INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 29 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23153-075137
+job_title                      | Project Manager
+employer_name                  | V-Soft Consulting Group INC
+secondary_entity_business_name | State of RI (DHS- Department of Human Services)
+employer_phone                 | 15024258425
+employer_poc_first_name        | TANYA
+employer_poc_last_name         | BLOCKER
+employer_poc_email             | tanya@vsoftconsulting.com
+employer_poc_phone             | 15024258425
+employer_poc_phone_ext         | 
+worksite_address1              | 25 Howard Ave, Louis Pasteur Building 57
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 101 Bullitt Lane
+employer_address2              | Suite 205
+employer_city                  | Louisville
+employer_state                 | KY
+employer_postal_code           | 40222
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | V-Soft Consulting Group INC
+soc_code                       | 15-1299.09
+h_1b_dependent                 | Yes
+-[ RECORD 30 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23163-102105
 job_title                      | Senior QA Analyst
 employer_name                  | SAAP Tech Solutions LLC
 secondary_entity_business_name | The State of Rhode Island
-employer_poc_email             | immigration@saaptechsolutions.com
-employer_poc_phone             | 12343127242
+employer_phone                 | 12343127242
 employer_poc_first_name        | Sashikanth
 employer_poc_last_name         | Vemula
+employer_poc_email             | immigration@saaptechsolutions.com
+employer_poc_phone             | 12343127242
+employer_poc_phone_ext         | 
 worksite_address1              | 57 Howard Ave
 worksite_address2              | 
 worksite_city                  | Cranston
@@ -833,105 +976,181 @@ employer_address2              | STE 400
 employer_city                  | CHARLOTTE
 employer_state                 | NC
 employer_postal_code           | 28262-1336
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
 total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SAAP Tech Solutions LLC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-21312-692325
-job_title                      | Forensic Psychiatrist
-employer_name                  | State of Rhode Island
-secondary_entity_business_name | 
-employer_poc_email             | Richard.Charest@bhddh.ri.gov
-employer_poc_phone             | 14014620917
-employer_poc_first_name        | Richard
-employer_poc_last_name         | Charest
-worksite_address1              | Behavioral Healthcare, Developmental Disabilities and Hospit
-worksite_address2              | 45 Howard Avenue
+-[ RECORD 31 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-25218-224088
+job_title                      | Full Stack Developer
+employer_name                  | Syscons Corporation
+secondary_entity_business_name | State of Rhode Island Courts (End Client)
+employer_phone                 | 14013699381
+employer_poc_first_name        | Satyaprasad
+employer_poc_last_name         | Devalla
+employer_poc_email             | sdevalla@sysconscorp.com
+employer_poc_phone             | 14012636789
+employer_poc_phone_ext         | 
+worksite_address1              | 24 Weybosset Street
+worksite_address2              | 
+worksite_city                  | Providence
+worksite_county                | 
+lawfirm_name_business_name     | Law Offices of Rajiv S. Khanna PC
+employer_address1              | 959 Mineral Spring Avenue
+employer_address2              | Suite 4
+employer_city                  | North Providence
+employer_state                 | RI
+employer_postal_code           | 02904
+begin_date                     | 2025-09-20
+end_date                       | 2026-09-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Syscons Corporation
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 32 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23097-915392
+job_title                      | Software Applications Developer
+employer_name                  | Webject Systems Inc
+secondary_entity_business_name | State of Rhode Island, Department of Motor Vehicles (RI DMV)
+employer_phone                 | 15082796562
+employer_poc_first_name        | Madhu
+employer_poc_last_name         | Rao
+employer_poc_email             | madhu@webject.com
+employer_poc_phone             | 15082796562
+employer_poc_phone_ext         | 
+worksite_address1              | 600 New London Ave
+worksite_address2              | 
 worksite_city                  | Cranston
 worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | Rodio & Brown, Ltd.
-employer_address1              | 14 Harrington Road
-employer_address2              | 
-employer_city                  | Cranston
-employer_state                 | RI
-employer_postal_code           | 02920
-begin_date                     | 11/19/2021
-end_date                       | 11/18/2024
-total_worker_positions         | 2
-soc_code                       | 29-1066.00
-h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25105-867606
-job_title                      | Health Economics Specialist
-employer_name                  | State of Rhode Island
-secondary_entity_business_name | 
-employer_poc_email             | Neil.Hytinen@health.ri.gov
-employer_poc_phone             | 14012221625
-employer_poc_first_name        | Neil
-employer_poc_last_name         | Hytinen
-worksite_address1              | 3 Capitol Hill
+lawfirm_name_business_name     | 
+employer_address1              | 25 Central Square
+employer_address2              | Suite 2
+employer_city                  | Bridgewater
+employer_state                 | MA
+employer_postal_code           | 02324
+begin_date                     | 2023-07-01
+end_date                       | 2026-06-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Webject Systems Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 33 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23109-948002
+job_title                      | Senior Programmer
+employer_name                  | Hire IT people Inc
+secondary_entity_business_name | State of Rhode Island DOA (Department of Administration)
+employer_phone                 | 12025881841
+employer_poc_first_name        | Dan
+employer_poc_last_name         | Nandan
+employer_poc_email             | dan@hireitpeople.com
+employer_poc_phone             | 12025881841
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Capitol Hill
 worksite_address2              | 
 worksite_city                  | Providence
 worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | Coogan Smith, LLP
-employer_address1              | 3 Capitol Hill
-employer_address2              | 
-employer_city                  | Providence
-employer_state                 | RI
-employer_postal_code           | 02908
-begin_date                     | 6/1/2025
-end_date                       | 5/31/2028
+lawfirm_name_business_name     | 
+employer_address1              | 15 Corporate Pl S
+employer_address2              | STE 145
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2023-05-01
+end_date                       | 2026-04-30
 total_worker_positions         | 1
-soc_code                       | 19-3011
-h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24361-571552
-job_title                      | Senior Public Health Epidemiologist
-employer_name                  | State of Rhode Island
-secondary_entity_business_name | 
-employer_poc_email             | Sandra.Powell@health.ri.gov
-employer_poc_phone             | 14012225917
-employer_poc_first_name        | Sandra
-employer_poc_last_name         | Powell
-worksite_address1              | 3 Capitol Hill
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Hire IT people Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 34 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23107-939579
+job_title                      | Senior Programmer
+employer_name                  | Hire IT people Inc
+secondary_entity_business_name | State of Rhode Island DOA (Department of Administration)
+employer_phone                 | 12025881841
+employer_poc_first_name        | Dan
+employer_poc_last_name         | Nandan
+employer_poc_email             | dan@hireitpeople.com
+employer_poc_phone             | 12025881841
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Capitol Hill
 worksite_address2              | 
 worksite_city                  | Providence
 worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | Coogan Smith, LLP
-employer_address1              | 3 CAPITOL HILL
-employer_address2              | 
-employer_city                  | Providence
-employer_state                 | RI
-employer_postal_code           | 02908
-begin_date                     | 1/18/2025
-end_date                       | 1/17/2028
+lawfirm_name_business_name     | 
+employer_address1              | 15 Corporate Pl S
+employer_address2              | STE 145
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2023-05-01
+end_date                       | 2026-04-30
 total_worker_positions         | 1
-soc_code                       | 19-1041
-h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24310-454425
-job_title                      | Senior Public Health Epidemiologist
-employer_name                  | State of Rhode Island
-secondary_entity_business_name | 
-employer_poc_email             | Kristine.campagna@health.ri.gov
-employer_poc_phone             | 14012584435
-employer_poc_first_name        | Kristine
-employer_poc_last_name         | Campagna
-worksite_address1              | 3 Capitol Hill
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Hire IT people Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 35 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23069-839381
+job_title                      | Sr Software Developer
+employer_name                  | Kloudhive LLC
+secondary_entity_business_name | State of Rhode Island
+employer_phone                 | 19144494483
+employer_poc_first_name        | Poorna
+employer_poc_last_name         | Chanubala
+employer_poc_email             | pchanubala@kloudhive.com
+employer_poc_phone             | 17139270457
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Capitol Hill
 worksite_address2              | 
 worksite_city                  | Providence
 worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | Coogan Smith, LLP
-employer_address1              | 3 CAPITOL HILL
-employer_address2              | 
-employer_city                  | Providence
-employer_state                 | RI
-employer_postal_code           | 02908
-begin_date                     | 1/1/2025
-end_date                       | 12/31/2027
+lawfirm_name_business_name     | HALLETT MCCANN LAW GROUP LTD.
+employer_address1              | 1 Barney Road
+employer_address2              | Suite 248
+employer_city                  | Clifton Park
+employer_state                 | NY
+employer_postal_code           | 12065
+begin_date                     | 2023-03-20
+end_date                       | 2026-03-19
 total_worker_positions         | 1
-soc_code                       | 19-1041
-h_1b_dependent                 | No
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Kloudhive LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 

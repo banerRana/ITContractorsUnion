@@ -1,396 +1,212 @@
--[ RECORD 1 ]------------------+----------------------------------------------------------
-case_number                    | I-200-24200-206899
-job_title                      | Oracle Developer
-employer_name                  | RITWIK Infotech Inc
-secondary_entity_business_name | Bureau of Motor Vehicles (BMV), State of Maine
-employer_poc_email             | seshukotalo@ritwikinfotech.com
-employer_poc_phone             | 12484796879
-employer_poc_first_name        | Seshadri
-employer_poc_last_name         | Kotalo
-worksite_address1              | 101 Hospital Street
-worksite_address2              | 29 State House Station
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | The Law Office of Luke Bowman
-employer_address1              | 38345 West 10 Mile Road, Suite 253
-employer_address2              | 
-employer_city                  | Farmington
-employer_state                 | MI
-employer_postal_code           | 48335
-begin_date                     | 7/29/2024
-end_date                       | 7/28/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 2 ]------------------+----------------------------------------------------------
-case_number                    | I-200-22163-271053
-job_title                      | Software Developer
-employer_name                  | SLN SYSTEMS INC
-secondary_entity_business_name | Department of Health and Human Services
-employer_poc_email             | anuradha@slnsystems.com
-employer_poc_phone             | 12408134060
-employer_poc_first_name        | ANURADHA
-employer_poc_last_name         | SIVARCHAKA
-worksite_address1              | 2 Anthony Ave
+-[ RECORD 1 ]------------------+-------------------------------------------------------
+case_number                    | I-200-25354-499973
+job_title                      | SYSTEMS CONSULTANT
+employer_name                  | ACCELYST LLC
+secondary_entity_business_name | Global Technical Talent (project for State of Maine)
+employer_phone                 | 14073768909
+employer_poc_first_name        | Suresh
+employer_poc_last_name         | Chigurupati
+employer_poc_email             | Suresh.C@accelyst.ai
+employer_poc_phone             | 14073768909
+employer_poc_phone_ext         | 
+worksite_address1              | 145 State House Station
 worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Vegesna and Vemuru Associates LLC
-employer_address1              | 931 RUSSELL AVE
-employer_address2              | SUITE D
-employer_city                  | GAITHERSBURG
-employer_state                 | MD
-employer_postal_code           | 20879
-begin_date                     | 7/1/2022
-end_date                       | 6/30/2025
+worksite_city                  | AUGUSTA
+worksite_county                | 
+lawfirm_name_business_name     | LAW OFFICES OF MADHAVI SAMUDRALA PC
+employer_address1              | 400 N Tampa St.
+employer_address2              | 15th FLOOR
+employer_city                  | TAMPA
+employer_state                 | FL
+employer_postal_code           | 33602
+begin_date                     | 2026-01-12
+end_date                       | 2029-01-11
 total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 3 ]------------------+----------------------------------------------------------
-case_number                    | I-200-25140-996012
-job_title                      | Software Developer
-employer_name                  | Vejars Technologies Inc
-secondary_entity_business_name | Department of the Secretary of State
-employer_poc_email             | legal@vejars.com
-employer_poc_phone             | 18778628386
-employer_poc_first_name        | Venkateswar Rao
-employer_poc_last_name         | Yarlagadda
-worksite_address1              | 29 State House Station,1 01 Hospital St
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | KENNEBUNKPORT TOWN
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 722 S Denton Tap Road
-employer_address2              | STE 280
-employer_city                  | Coppell
-employer_state                 | TX
-employer_postal_code           | 75019
-begin_date                     | 5/27/2025
-end_date                       | 5/26/2028
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 4 ]------------------+----------------------------------------------------------
-case_number                    | I-200-25143-010769
-job_title                      | Software Developer
-employer_name                  | Vejars Technologies Inc
-secondary_entity_business_name | Department of the Secretary of State
-employer_poc_email             | legal@vejars.com
-employer_poc_phone             | 18778628386
-employer_poc_first_name        | Venkateswar Rao
-employer_poc_last_name         | Yarlagadda
-worksite_address1              | 29 State House Station,1 01 Hospital St
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | KENNEBUNKPORT TOWN
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 722 S Denton Tap Road
-employer_address2              | STE 280
-employer_city                  | Coppell
-employer_state                 | TX
-employer_postal_code           | 75019
-begin_date                     | 6/2/2025
-end_date                       | 6/1/2028
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 5 ]------------------+----------------------------------------------------------
-case_number                    | I-200-24133-985380
-job_title                      | Software Developer
-employer_name                  | Vejars Technologies Inc
-secondary_entity_business_name | Department of the Secretary of State
-employer_poc_email             | legal@vejars.com
-employer_poc_phone             | 18778628386
-employer_poc_first_name        | Venkateswar
-employer_poc_last_name         | Yarlagadda
-worksite_address1              | 29 State House Station, 101 Hospital Street
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | KENNEBUNKPORT TOWN
-lawfirm_name_business_name     | 
-employer_address1              | 722 S Denton Street
-employer_address2              | Suite 280
-employer_city                  | Coppell
-employer_state                 | TX
-employer_postal_code           | 75019
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | ACCELYST LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 6 ]------------------+----------------------------------------------------------
-case_number                    | I-200-23156-080117
-job_title                      | DEVELOPER
-employer_name                  | TATA CONSULTANCY SERVICES LIMITED
-secondary_entity_business_name | MAINE DEPARTMENT OF LABOR
-employer_poc_email             | AMIT1.JINDAL@TCS.COM
-employer_poc_phone             | 13012319083
-employer_poc_first_name        | AMIT
-employer_poc_last_name         | JINDAL
-worksite_address1              | 45 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | FRAGOMEN, DEL REY, BERNSEN & LOEWY LLP
-employer_address1              | 9201 CORPORATE BOULEVAROAD
-employer_address2              | SUITE 320
-employer_city                  | ROCKVILLE
-employer_state                 | MD
-employer_postal_code           | 20850
-begin_date                     | 6/7/2023
-end_date                       | 1/8/2025
-total_worker_positions         | 1
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+----------------------------------------------------------
-case_number                    | I-200-23082-874116
-job_title                      | DEVELOPER
-employer_name                  | TATA CONSULTANCY SERVICES LIMITED
-secondary_entity_business_name | MAINE DEPARTMENT OF LABOR
-employer_poc_email             | AMIT1.JINDAL@TCS.COM
-employer_poc_phone             | 13012319083
-employer_poc_first_name        | AMIT
-employer_poc_last_name         | JINDAL
-worksite_address1              | 45 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | FRAGOMEN, DEL REY, BERNSEN & LOEWY LLP
-employer_address1              | 9201 CORPORATE BOULEVAROAD
-employer_address2              | SUITE 320
-employer_city                  | ROCKVILLE
-employer_state                 | MD
-employer_postal_code           | 20850
-begin_date                     | 9/21/2023
-end_date                       | 9/20/2026
-total_worker_positions         | 1
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+----------------------------------------------------------
-case_number                    | I-200-22151-228317
-job_title                      | ARCHITECT
-employer_name                  | TATA CONSULTANCY SERVICES LIMITED
-secondary_entity_business_name | MAINE DEPARTMENT OF LABOR
-employer_poc_email             | AMIT1.JINDAL@TCS.COM
-employer_poc_phone             | 13012319083
-employer_poc_first_name        | AMIT
-employer_poc_last_name         | JINDAL
-worksite_address1              | 45 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | FRAGOMEN, DEL REY, BERNSEN & LOEWY LLP
-employer_address1              | 9201 CORPORATE BOULEVAROAD
-employer_address2              | SUITE 320
-employer_city                  | ROCKVILLE
-employer_state                 | MD
-employer_postal_code           | 20850
-begin_date                     | 6/2/2022
-end_date                       | 12/31/2023
-total_worker_positions         | 1
-soc_code                       | 15-1199.02
-h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+----------------------------------------------------------
-case_number                    | I-200-23278-413624
-job_title                      | ARCHITECT
-employer_name                  | TATA CONSULTANCY SERVICES LIMITED
-secondary_entity_business_name | MAINE DEPARTMENT OF LABOR
-employer_poc_email             | AMIT1.JINDAL@TCS.COM
-employer_poc_phone             | 13012319083
-employer_poc_first_name        | AMIT
-employer_poc_last_name         | JINDAL
-worksite_address1              | 45 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | FRAGOMEN, DEL REY, BERNSEN & LOEWY LLP
-employer_address1              | 9201 CORPORATE BOULEVAROAD
-employer_address2              | SUITE 320
-employer_city                  | ROCKVILLE
-employer_state                 | MD
-employer_postal_code           | 20850
-begin_date                     | 1/1/2024
-end_date                       | 12/31/2026
-total_worker_positions         | 1
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24213-233728
-job_title                      | Analyst
-employer_name                  | Tata Consultancy Services Limited
-secondary_entity_business_name | Mississippi Department of Employment Security
-employer_poc_email             | amit1.jindal@tcs.com
-employer_poc_phone             | 13012319083
-employer_poc_first_name        | Amit / Venkata Srinath
-employer_poc_last_name         | Jindal / Yarasinghu
-worksite_address1              | Maine Department of Labor, 45 Commerce Drive
+-[ RECORD 2 ]------------------+-------------------------------------------------------
+case_number                    | I-200-25262-321688
+job_title                      | Dynamics 365 Developer
+employer_name                  | BI Labs Inc
+secondary_entity_business_name | State of Maine - DHHS
+employer_phone                 | 17325270567
+employer_poc_first_name        | Tasneem
+employer_poc_last_name         | Shaikh
+employer_poc_email             | hr@bilabsinc.com
+employer_poc_phone             | 17325270567
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Dr.
 worksite_address2              | 
 worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Goel & Anderson LLC
-employer_address1              | 9201 Corporate Boulevard
-employer_address2              | Suite 320
-employer_city                  | Rockville
-employer_state                 | MD
-employer_postal_code           | 20850
-begin_date                     | 8/9/2024
-end_date                       | 8/8/2027
-total_worker_positions         | 1
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22255-467191
-job_title                      | Programmer Analyst
-employer_name                  | Sunray Informatics Inc
-secondary_entity_business_name | Office of Information Technology (OIT), State of Maine
-employer_poc_email             | krishna@sunrayinformatics.com
-employer_poc_phone             | 17324651411
-employer_poc_first_name        | Ashok
-employer_poc_last_name         | Poddar
-worksite_address1              | 51 Commerce Drive
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Rondon Law Group LLC
-employer_address1              | 77 Milltown Road
-employer_address2              | Suite C1
-employer_city                  | East Brunswick
+worksite_county                | 
+lawfirm_name_business_name     | Joseph Kallabat & Associates PC
+employer_address1              | 666 Plainsboro Road
+employer_address2              | Ste 1000
+employer_city                  | Plainsboro
 employer_state                 | NJ
-employer_postal_code           | 08816
-begin_date                     | 9/19/2022
-end_date                       | 9/18/2025
+employer_postal_code           | 08536
+begin_date                     | 2025-12-29
+end_date                       | 2028-12-28
 total_worker_positions         | 1
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24204-213895
-job_title                      | Business Analyst
-employer_name                  | Bhrigus Inc
-secondary_entity_business_name | STATE OF MAINE
-employer_poc_email             | rohith@bhrigus.com
-employer_poc_phone             | 17329933653
-employer_poc_first_name        | Rohith
-employer_poc_last_name         | Ravi
-worksite_address1              | 51 COMMERCE DR.
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | 
-employer_address1              | 38345 W 10 Mile Road
-employer_address2              | Suite 125
-employer_city                  | Farmington Hills
-employer_state                 | MI
-employer_postal_code           | 48335
-begin_date                     | 7/29/2024
-end_date                       | 5/31/2027
-total_worker_positions         | 1
-soc_code                       | 15-2051.01
-h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23109-947782
-job_title                      | SENIOR .NET DEVELOPER
-employer_name                  | IT CATS LLC
-secondary_entity_business_name | STATE OF MAINE
-employer_poc_email             | SRAVAN@INFOWAYSOFTWARE.COM
-employer_poc_phone             | 17322382120
-employer_poc_first_name        | KARNATI
-employer_poc_last_name         | SRAVAN
-worksite_address1              | 45 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | KENNEBUNK TOWN
-lawfirm_name_business_name     | 
-employer_address1              | 388 WASHINGTON ROAD
-employer_address2              | SUITE A
-employer_city                  | SAYREVILLE
-employer_state                 | NJ
-employer_postal_code           | 08872
-begin_date                     | 5/29/2023
-end_date                       | 5/28/2026
-total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | BI Labs Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24205-214307
-job_title                      | JAVA FULL STACK DEVELOPER
-employer_name                  | JNIT Technologies Inc
-secondary_entity_business_name | STATE OF MAINE
-employer_poc_email             | hr@jnitinc.com
-employer_poc_phone             | 17324167646
-employer_poc_first_name        | Nikesh
-employer_poc_last_name         | Patel
-worksite_address1              | 51 commerce Dr
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | KENNEBUNK TOWN
-lawfirm_name_business_name     | IMM Laws
-employer_address1              | 3145 Bordentown Ave
-employer_address2              | Suite D1
-employer_city                  | Parlin
-employer_state                 | NJ
-employer_postal_code           | 08859
-begin_date                     | 7/22/2024
-end_date                       | 7/21/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 15 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22109-084564
+-[ RECORD 3 ]------------------+-------------------------------------------------------
+case_number                    | I-200-25198-182126
 job_title                      | SOFTWARE DEVELOPER
-employer_name                  | LOGICQUE INC
-secondary_entity_business_name | STATE OF MAINE
-employer_poc_email             | hr@logicque.com
-employer_poc_phone             | 17344045625
-employer_poc_first_name        | INDIRA
-employer_poc_last_name         | SURESH
+employer_name                  | 3i INFOTECH INC
+secondary_entity_business_name | STATE OF MAINE, OIT, DEPARTMENT OF LABOR
+employer_phone                 | 17327104440
+employer_poc_first_name        | SATISH
+employer_poc_last_name         | PALUKURI
+employer_poc_email             | IMMIGRATION.US@3I-INFOTECH.COM
+employer_poc_phone             | 17327104440
+employer_poc_phone_ext         | 
 worksite_address1              | 51 COMMERCE DRIVE
 worksite_address2              | 
 worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | 
-employer_address1              | 2200 N CANTON CENTER ROAD,
-employer_address2              | STE 110
-employer_city                  | CANTON
-employer_state                 | MI
-employer_postal_code           | 48187
-begin_date                     | 4/19/2022
-end_date                       | 4/18/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 16 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23255-340101
-job_title                      | NETWORK ENGINEER
-employer_name                  | LOGIXtech Solutions LLC
-secondary_entity_business_name | STATE OF MAINE
-employer_poc_email             | AYAN@LOGIX-TECH.COM
-employer_poc_phone             | 17324945100
-employer_poc_first_name        | AYAN
-employer_poc_last_name         | BHADURI
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | KENNEBUNK TOWN
-lawfirm_name_business_name     | 
-employer_address1              | 1090 KINGS GEORGES POST ROAD
-employer_address2              | SUITE 1201
+worksite_county                | 
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 110 FIELDCREST AVENUE
+employer_address2              | SUITE 25
 employer_city                  | EDISON
 employer_state                 | NJ
 employer_postal_code           | 08837
-begin_date                     | 9/12/2023
-end_date                       | 9/11/2026
+begin_date                     | 2025-12-27
+end_date                       | 2028-12-26
 total_worker_positions         | 1
-soc_code                       | 15-1241.00
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | 3i INFOTECH INC
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+----------------------------------------------------------
+-[ RECORD 4 ]------------------+-------------------------------------------------------
+case_number                    | I-200-25197-179934
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | 3i INFOTECH INC
+secondary_entity_business_name | STATE OF MAINE, OIT, DEPARTMENT OF LABOR
+employer_phone                 | 17327104440
+employer_poc_first_name        | SATISH
+employer_poc_last_name         | PALUKURI
+employer_poc_email             | IMMIGRATION.US@3I-INFOTECH.COM
+employer_poc_phone             | 17327104440
+employer_poc_phone_ext         | 
+worksite_address1              | 45 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | 
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 110 FIELDCREST AVENUE
+employer_address2              | SUITE 25
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08837
+begin_date                     | 2025-12-27
+end_date                       | 2028-12-26
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | 3i INFOTECH INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 5 ]------------------+-------------------------------------------------------
+case_number                    | I-200-25241-276216
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | 3i INFOTECH INC
+secondary_entity_business_name | STATE OF MAINE, OIT, DEPARTMENT OF LABOR
+employer_phone                 | 17327104440
+employer_poc_first_name        | SATISH
+employer_poc_last_name         | PALUKURI
+employer_poc_email             | IMMIGRATION.US@3I-INFOTECH.COM
+employer_poc_phone             | 17327104440
+employer_poc_phone_ext         | 
+worksite_address1              | 51 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | 
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 110 FIELDCREST AVENUE
+employer_address2              | SUITE 25
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08837
+begin_date                     | 2025-12-27
+end_date                       | 2028-12-26
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | 3i INFOTECH INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 6 ]------------------+-------------------------------------------------------
+case_number                    | I-200-25240-272413
+job_title                      | Software Developer
+employer_name                  | PIONEER CONSULTING LLC
+secondary_entity_business_name | State of Maine
+employer_phone                 | 15158680873
+employer_poc_first_name        | MADHAVI
+employer_poc_last_name         | SHANKAIAHGARI
+employer_poc_email             | MADHAVI@PIONEERCONSULTINGSERVICE.COM
+employer_poc_phone             | 15158680873
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Dr
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | 
+lawfirm_name_business_name     | IMM Laws
+employer_address1              | 160 S 68th Street
+employer_address2              | SUITE 1210
+employer_city                  | West Des Moines
+employer_state                 | IA
+employer_postal_code           | 50266
+begin_date                     | 2025-12-20
+end_date                       | 2028-12-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PIONEER CONSULTING LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+-------------------------------------------------------
 case_number                    | I-200-25107-878127
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | RapidIT Inc
 secondary_entity_business_name | STATE OF MAINE / KNOWLEDGE SERVICES
-employer_poc_email             | hradmin@rapiditinc.com
-employer_poc_phone             | 16783663820
+employer_phone                 | 16783663820
 employer_poc_first_name        | Sai K K
 employer_poc_last_name         | Vemulapalli
+employer_poc_email             | hradmin@rapiditinc.com
+employer_poc_phone             | 16783663820
+employer_poc_phone_ext         | 27
 worksite_address1              | 286 Water Street
 worksite_address2              | FLOOR 6
 worksite_city                  | Augusta
@@ -401,716 +217,29 @@ employer_address2              | Suite 1206
 employer_city                  | Alpharetta
 employer_state                 | GA
 employer_postal_code           | 30005
-begin_date                     | 10/1/2025
-end_date                       | 9/30/2028
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | RapidIT Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 18 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23303-465874
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | THINKLUSIVE INC
-secondary_entity_business_name | STATE OF MAINE INFORMATION TECHNOLOGY DIVISION
-employer_poc_email             | LAKSHMI.VADDI@THINKLUSIVE.COM
-employer_poc_phone             | 17324193704
-employer_poc_first_name        | SRI LAKSHMI
-employer_poc_last_name         | VADDI
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 1100 CORNWALL ROAD
-employer_address2              | SUITE 120
-employer_city                  | MONMOUTH JUNCTION
-employer_state                 | NJ
-employer_postal_code           | 08852
-begin_date                     | 1/25/2024
-end_date                       | 1/24/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 19 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22320-590797
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | THINKLUSIVE INC
-secondary_entity_business_name | STATE OF MAINE INFORMATION TECHNOLOGY DIVISION
-employer_poc_email             | LAKSHMI.VADDI@THINKLUSIVE.COM
-employer_poc_phone             | 17324193704
-employer_poc_first_name        | SRI LAKSHMI
-employer_poc_last_name         | VADDI
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 1100 CORNWALL ROAD
-employer_address2              | SUITE 120
-employer_city                  | MONMOUTH JUNCTION
-employer_state                 | NJ
-employer_postal_code           | 08852
-begin_date                     | 3/23/2023
-end_date                       | 3/22/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 20 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22116-106937
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | THINKLUSIVE INC
-secondary_entity_business_name | STATE OF MAINE INFORMATION TECHNOLOGY DIVISION
-employer_poc_email             | LAKSHMI.VADDI@THINKLUSIVE.COM
-employer_poc_phone             | 17324193704
-employer_poc_first_name        | SRI LAKSHMI
-employer_poc_last_name         | VADDI
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC
-employer_address1              | 1100 CORNWALL ROAD
-employer_address2              | SUITE 120
-employer_city                  | MONMOUTH JUNCTION
-employer_state                 | NJ
-employer_postal_code           | 08852
-begin_date                     | 5/4/2022
-end_date                       | 5/3/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | No
--[ RECORD 21 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22350-644906
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | 3i INFOTECH INC
-secondary_entity_business_name | STATE OF MAINE, OIT, DEPARTMENT OF MAINE REVENUE SERVICES
-employer_poc_email             | IMMIGRATION.US@3I-INFOTECH.COM
-employer_poc_phone             | 17327104444
-employer_poc_first_name        | RAVIKUMAR
-employer_poc_last_name         | CHOKKAPU
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 450 RARITAN CENTER PARKWAY
-employer_address2              | SUITE B
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08837
-begin_date                     | 12/27/2022
-end_date                       | 12/26/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22347-638427
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | 3i INFOTECH INC
-secondary_entity_business_name | STATE OF MAINE, OIT, DEPARTMENT OF MAINE REVENUE SERVICES
-employer_poc_email             | IMMIGRATION.US@3I-INFOTECH.COM
-employer_poc_phone             | 17327104444
-employer_poc_first_name        | RAVIKUMAR
-employer_poc_last_name         | CHOKKAPU
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | CARTHAGE TOWN
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 450 RARITAN CENTER PARKWAY
-employer_address2              | SUITE B
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08837
-begin_date                     | 12/21/2022
-end_date                       | 12/20/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24142-019236
-job_title                      | CYBER SECURITY ENGINEER
-employer_name                  | DIZER CORP
-secondary_entity_business_name | STATE OF MAINE-OFFICE OF INFORMATION TECHNOLOGY
-employer_poc_email             | JAGDISH@DIZERCORP.COM
-employer_poc_phone             | 14403680201
-employer_poc_first_name        | JAGDISH
-employer_poc_last_name         | MEDARAMETLA
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | KENNEBUNK TOWN
-lawfirm_name_business_name     | 
-employer_address1              | 1912 MENTOR AVENUE
-employer_address2              | 
-employer_city                  | PAINESVILLE
-employer_state                 | OH
-employer_postal_code           | 44077
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23229-275164
-job_title                      | CYBER SECURITY ENGINEER
-employer_name                  | DIZER CORP
-secondary_entity_business_name | STATE OF MAINE-OFFICE OF INFORMATION TECHNOLOGY
-employer_poc_email             | JAGDISH@DIZERCORP.COM
-employer_poc_phone             | 14403680201
-employer_poc_first_name        | JAGDISH
-employer_poc_last_name         | MEDARAMETLA
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | KENNEBUNK TOWN
-lawfirm_name_business_name     | 
-employer_address1              | 1912 MENTOR AVENUE
-employer_address2              | 
-employer_city                  | PAINESVILLE
-employer_state                 | OH
-employer_postal_code           | 44077
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 25 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24082-822090
-job_title                      | Systems Administrator
-employer_name                  | CNET GLOBAL SOLUTIONS INC
-secondary_entity_business_name | State of Maine
-employer_poc_email             | HR@CNET-GLOBAL.COM
-employer_poc_phone             | 19723255975
-employer_poc_first_name        | SAMPOORNA
-employer_poc_last_name         | RAMAKRISHNA
-worksite_address1              | 51 Commerce Dr
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Reddy & Neumann P.C.
-employer_address1              | 2600 N CENTRAL EXPRESSWAY, SUITE 650
-employer_address2              | 
-employer_city                  | RICHARDSON
-employer_state                 | TX
-employer_postal_code           | 75080
-begin_date                     | 9/1/2024
-end_date                       | 8/31/2027
-total_worker_positions         | 1
-soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 26 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22298-550160
-job_title                      | Systems Administrator
-employer_name                  | CNET GLOBAL SOLUTIONS INC
-secondary_entity_business_name | State of Maine
-employer_poc_email             | HR@CNET-GLOBAL.COM
-employer_poc_phone             | 19723255975
-employer_poc_first_name        | SAMPOORNA
-employer_poc_last_name         | RAMAKRISHNA
-worksite_address1              | 51 Commerce Dr.
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Reddy & Neumann P.C.
-employer_address1              | 2600 N CENTRAL EXPRESSWAY, SUITE 650
-employer_address2              | 
-employer_city                  | RICHARDSON
-employer_state                 | TX
-employer_postal_code           | 75080
-begin_date                     | 11/7/2022
-end_date                       | 11/6/2025
-total_worker_positions         | 1
-soc_code                       | 15-1242.00
-h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24060-757873
-job_title                      | Sr. Programmer Analyst
-employer_name                  | CipherQore Solutions Inc
-secondary_entity_business_name | State of Maine
-employer_poc_email             | srinivas@cipherqore.com
-employer_poc_phone             | 12254024020
-employer_poc_first_name        | Sreenivas
-employer_poc_last_name         | Vemulapalli
-worksite_address1              | 51 Commerce Drive
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | BRISTOL TOWN
-lawfirm_name_business_name     | Fragomen, Del Rey, Bernsen & Loewy, LLP
-employer_address1              | 16179 State Bank Drive
-employer_address2              | Suite D
-employer_city                  | Prairieville
-employer_state                 | LA
-employer_postal_code           | 70769
-begin_date                     | 3/11/2024
-end_date                       | 9/7/2026
-total_worker_positions         | 1
-soc_code                       | 15-1242.00
-h_1b_dependent                 | Yes
--[ RECORD 28 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-21300-669740
-job_title                      | Software Developer
-employer_name                  | G3 Soft Inc
-secondary_entity_business_name | State of Maine
-employer_poc_email             | prasanna@g3softinc.com
-employer_poc_phone             | 19085488884
-employer_poc_first_name        | Lakshmi
-employer_poc_last_name         | GADDAM
-worksite_address1              | 2 Anthony Ave
-worksite_address2              | N/A
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES, LLP
-employer_address1              | 40 Brunswick Ave
-employer_address2              | Suite 100B
-employer_city                  | Edison
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 10/26/2021
-end_date                       | 10/25/2024
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 29 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23257-346632
-job_title                      | Software Developer
-employer_name                  | IOASIZ INC
-secondary_entity_business_name | State of Maine
-employer_poc_email             | IMMIGRATION@IOASIZ.COM
-employer_poc_phone             | 12019040116
-employer_poc_first_name        | YOGENDRANATH
-employer_poc_last_name         | PAPAGARI
-worksite_address1              | 51 Commerce Drive, SHS  145
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | 
-employer_address1              | 15 CORPORATE PL S
-employer_address2              | SUITE 402
-employer_city                  | PISCATAWAY
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 9/25/2023
-end_date                       | 9/24/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 30 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23046-775005
-job_title                      | SharePoint Developer
-employer_name                  | Maxary LLC
-secondary_entity_business_name | State of Maine
-employer_poc_email             | rajaitha@maxary.com
-employer_poc_phone             | 15712740719
-employer_poc_first_name        | Rajendar
-employer_poc_last_name         | Aitha
-worksite_address1              | 51 Commerce Drive
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | International Legal and Business Services Group LLP
-employer_address1              | 722 E Market St  102
-employer_address2              | 
-employer_city                  | Leesburg
-employer_state                 | VA
-employer_postal_code           | 20176
-begin_date                     | 2/15/2023
-end_date                       | 2/14/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 31 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24346-536276
-job_title                      | SharePoint Developer
-employer_name                  | Maxary LLC
-secondary_entity_business_name | State of Maine
-employer_poc_email             | rajaitha@maxary.com
-employer_poc_phone             | 15712740719
-employer_poc_first_name        | Rajendar
-employer_poc_last_name         | Aitha
-worksite_address1              | 51 Commerce Dr (End Client address)
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | KENNEBUNK TOWN
-lawfirm_name_business_name     | 
-employer_address1              | 722 E Market St
-employer_address2              | St 102
-employer_city                  | Leesburg
-employer_state                 | VA
-employer_postal_code           | 20176
-begin_date                     | 12/11/2024
-end_date                       | 12/10/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 32 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24165-105255
-job_title                      | Software Developer
-employer_name                  | PIONEER CONSULTING LLC
-secondary_entity_business_name | State of Maine
-employer_poc_email             | MADHAVI@PIONEERCONSULTINGSERVICE.COM
-employer_poc_phone             | 15158680873
-employer_poc_first_name        | MADHAVI
-employer_poc_last_name         | SHANKAIAHGARI
-worksite_address1              | 51 Commerce Dr
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | KENNEBUNK TOWN
-lawfirm_name_business_name     | IMM Laws
-employer_address1              | 160 S 68th Street
-employer_address2              | SUITE 1210
-employer_city                  | West Des Moines
-employer_state                 | IA
-employer_postal_code           | 50266
-begin_date                     | 9/30/2024
-end_date                       | 9/29/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 33 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23313-489199
-job_title                      | Software Developer
-employer_name                  | PIONEER CONSULTING LLC
-secondary_entity_business_name | State of Maine
-employer_poc_email             | MADHAVI@PIONEERCONSULTINGSERVICE.COM
-employer_poc_phone             | 15158680873
-employer_poc_first_name        | MADHAVI
-employer_poc_last_name         | SHANKAIAHGARI
-worksite_address1              | 51 Commerce Dr
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | KENNEBUNK TOWN
-lawfirm_name_business_name     | IMM Laws
-employer_address1              | 160 S 68th Street
-employer_address2              | SUITE 1210
-employer_city                  | West Des Moines
-employer_state                 | IA
-employer_postal_code           | 50266
-begin_date                     | 11/8/2023
-end_date                       | 11/7/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 34 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23258-351855
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | RAPIDIT INC
-secondary_entity_business_name | State of Maine
-employer_poc_email             | HRADMIN@RAPIDITINC.COM
-employer_poc_phone             | 16783663820
-employer_poc_first_name        | SAI K K
-employer_poc_last_name         | VEMULAPALLI
-worksite_address1              | 45 Commerce Drive
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | 
-employer_address1              | 4080 McGINNIS FERRY ROAD
-employer_address2              | SUITE 1206
-employer_city                  | ALPHARETTA
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 9/25/2023
-end_date                       | 9/24/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 35 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23124-991485
-job_title                      | Software Developer
-employer_name                  | RapidIT - Cloudbera Inc
-secondary_entity_business_name | State of Maine
-employer_poc_email             | gvelugu@rapidit-cloudbera.com
-employer_poc_phone             | 12145528650
-employer_poc_first_name        | Gopinath
-employer_poc_last_name         | Velagundula
-worksite_address1              | 45 Commerce Drive
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Dua Hobbs Associates
-employer_address1              | 6110 McFarland Station Drive
-employer_address2              | Suite 103
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30004
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22143-202405
-job_title                      | Software Developer
-employer_name                  | Tek Resource Inc
-secondary_entity_business_name | State of Maine
-employer_poc_email             | ramesh@tekresource.net
-employer_poc_phone             | 17049948600
-employer_poc_first_name        | Ramesh
-employer_poc_last_name         | Medaboina
-worksite_address1              | 111 State House Station
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Law Office of Keshab Raj Seadie, P.C.
-employer_address1              | 1236 Yarrow St
-employer_address2              | 
-employer_city                  | Stallings
-employer_state                 | NC
-employer_postal_code           | 28104
-begin_date                     | 10/1/2022
-end_date                       | 9/30/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22311-572979
-job_title                      | Sr. Software Developer
-employer_name                  | Maruthi Technologies Inc
-secondary_entity_business_name | State of Maine (DHHS OIT)
-employer_poc_email             | legal_admin@anblicks.com
-employer_poc_phone             | 18172479060
-employer_poc_first_name        | Robert
-employer_poc_last_name         | Freeman
-worksite_address1              | 51 Commerce Dr
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Challa Law Office, PC
-employer_address1              | 14911 Quorum Drive
-employer_address2              | SUITE 390
-employer_city                  | Dallas
-employer_state                 | TX
-employer_postal_code           | 75254
-begin_date                     | 1/7/2023
-end_date                       | 1/6/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 38 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24185-173884
-job_title                      | QA Systems Engineer
-employer_name                  | NIFTEK INC
-secondary_entity_business_name | State of Maine (Department of Health & Human Services)
-employer_poc_email             | immig@niftek.com
-employer_poc_phone             | 17039627755
-employer_poc_first_name        | MAHEEDHAR
-employer_poc_last_name         | SIRIGIREDDY
-worksite_address1              | 2 Anthony Ave
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Akula & Associates, P.C.
-employer_address1              | 5899 PRESTON ROAD
-employer_address2              | SUITE 1204
-employer_city                  | FRISCO
-employer_state                 | TX
-employer_postal_code           | 75034
-begin_date                     | 8/20/2024
-end_date                       | 8/19/2027
-total_worker_positions         | 1
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 39 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24190-180181
-job_title                      | QA Systems Engineer
-employer_name                  | NIFTEK INC
-secondary_entity_business_name | State of Maine (Department of Health & Human Services)
-employer_poc_email             | immig@niftek.com
-employer_poc_phone             | 17039627755
-employer_poc_first_name        | MAHEEDHAR
-employer_poc_last_name         | SIRIGIREDDY
-worksite_address1              | 2 Anthony Ave
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Akula & Associates, P.C.
-employer_address1              | 5899 PRESTON ROAD
-employer_address2              | SUITE 1204
-employer_city                  | FRISCO
-employer_state                 | TX
-employer_postal_code           | 75034
-begin_date                     | 8/20/2024
-end_date                       | 8/19/2027
-total_worker_positions         | 1
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 40 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23326-521411
-job_title                      | Software Developer
-employer_name                  | CEO Foundry LLC
-secondary_entity_business_name | State of Maine (Secretary of State) BMV
-employer_poc_email             | venky@ceofoundry.com
-employer_poc_phone             | 12145041818
-employer_poc_first_name        | Venkata
-employer_poc_last_name         | Vadlamani
-worksite_address1              | 101 Hospital St.
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Ahluwalia Law Offices, P.C.
-employer_address1              | 5600 Tennyson Pkwy
-employer_address2              | Suite 155
-employer_city                  | Plano
-employer_state                 | TX
-employer_postal_code           | 75024
-begin_date                     | 12/4/2023
-end_date                       | 9/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 41 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23326-521123
-job_title                      | Software Developer
-employer_name                  | CEO Foundry LLC
-secondary_entity_business_name | State of Maine (Secretary of State) BMV
-employer_poc_email             | venky@ceofoundry.com
-employer_poc_phone             | 12145041818
-employer_poc_first_name        | Venkata
-employer_poc_last_name         | Vadlamani
-worksite_address1              | 101 Hospital St.
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Ahluwalia Law Offices, P.C.
-employer_address1              | 5600 Tennyson Pkwy
-employer_address2              | Suite 155
-employer_city                  | Plano
-employer_state                 | TX
-employer_postal_code           | 75024
-begin_date                     | 12/4/2023
-end_date                       | 9/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 42 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23262-360407
-job_title                      | Software Developer
-employer_name                  | CEO Foundry LLC
-secondary_entity_business_name | State of Maine (Secretary of State) BMV
-employer_poc_email             | venky@ceofoundry.com
-employer_poc_phone             | 12145041818
-employer_poc_first_name        | Venkata
-employer_poc_last_name         | Vadlamani
-worksite_address1              | 101 Hospital St.
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Ahluwalia Law Offices, P.C.
-employer_address1              | 5600 Tennyson Pkwy
-employer_address2              | Suite 155
-employer_city                  | Plano
-employer_state                 | TX
-employer_postal_code           | 75024
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 43 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22272-501995
-job_title                      | Dynamics 365 Developer
-employer_name                  | BI Labs Inc
-secondary_entity_business_name | State of Maine - DHHS
-employer_poc_email             | hr@bilabsinc.com
-employer_poc_phone             | 17325270567
-employer_poc_first_name        | Tasneem
-employer_poc_last_name         | Shaikh
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Joseph Kallabat & Associates, P.C.
-employer_address1              | 517  Route 1 South
-employer_address2              | Ste 1116
-employer_city                  | Iselin
-employer_state                 | NJ
-employer_postal_code           | 08830
-begin_date                     | 12/30/2022
-end_date                       | 12/29/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 44 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22062-949825
-job_title                      | Business Systems Analyst
-employer_name                  | ELLIANSE LLC
-secondary_entity_business_name | State of Maine - Department of Education
-employer_poc_email             | hr@ellianse.com
-employer_poc_phone             | 16196181221
-employer_poc_first_name        | ADITYA
-employer_poc_last_name         | VEDALA
-worksite_address1              | 51 Commerce Drive
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Akula & Associates, P.C.
-employer_address1              | 2520 Saint Rose Parkway
-employer_address2              | Suite 308
-employer_city                  | Henderson
-employer_state                 | NV
-employer_postal_code           | 89074
-begin_date                     | 7/1/2022
-end_date                       | 6/30/2025
-total_worker_positions         | 1
-soc_code                       | 15-1199.00
-h_1b_dependent                 | No
--[ RECORD 45 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23061-817384
-job_title                      | Programmer Analyst
-employer_name                  | SUNRAY INFORMATION TECHNOLOGIES INC
-secondary_entity_business_name | State of Maine - Department of Education
-employer_poc_email             | MGAVINI@SUNRAY-IT.COM
-employer_poc_phone             | 17326291576
-employer_poc_first_name        | MAHENDAR
-employer_poc_last_name         | GAVINI
-worksite_address1              | 45 Commerce Dr.
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | KENNEBUNKPORT TOWN
-lawfirm_name_business_name     | S. R. Jonnalagadda, P. C.
-employer_address1              | 10 CENTRE DRIVE, SUITE 219
-employer_address2              | 
-employer_city                  | MONROE
-employer_state                 | NJ
-employer_postal_code           | 08831
-begin_date                     | 8/17/2023
-end_date                       | 8/16/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 46 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23207-216622
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | RAPIDIT INC
-secondary_entity_business_name | State of Maine / Knowledge Services
-employer_poc_email             | HRADMIN@RAPIDITINC.COM
-employer_poc_phone             | 16783663820
-employer_poc_first_name        | SAI K K
-employer_poc_last_name         | VEMULAPALLI
-worksite_address1              | 286 Water Street
-worksite_address2              | Floor 6
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | 
-employer_address1              | 4080 McGINNIS FERRY ROAD
-employer_address2              | SUITE 1206
-employer_city                  | ALPHARETTA
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 8/7/2023
-end_date                       | 9/30/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 47 ]-----------------+----------------------------------------------------------
+-[ RECORD 8 ]------------------+-------------------------------------------------------
 case_number                    | I-200-25108-880345
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | RapidIT Inc
 secondary_entity_business_name | State of Maine / Knowledge Services
-employer_poc_email             | hradmin@rapiditinc.com
-employer_poc_phone             | 16783663820
+employer_phone                 | 16783663820
 employer_poc_first_name        | Sai K K
 employer_poc_last_name         | Vemulapalli
+employer_poc_email             | hradmin@rapiditinc.com
+employer_poc_phone             | 16783663820
+employer_poc_phone_ext         | 27
 worksite_address1              | 286 Water Street
 worksite_address2              | FLOOR 6
 worksite_city                  | Augusta
@@ -1121,236 +250,128 @@ employer_address2              | Suite 1206
 employer_city                  | Alpharetta
 employer_state                 | GA
 employer_postal_code           | 30005
-begin_date                     | 10/1/2025
-end_date                       | 9/30/2028
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | RapidIT Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 48 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22228-419969
+-[ RECORD 9 ]------------------+-------------------------------------------------------
+case_number                    | I-200-25199-183917
 job_title                      | Software Engineer
 employer_name                  | Maruthi Technologies Inc
-secondary_entity_business_name | State of Maine DHHS (Office of Information Technology)
-employer_poc_email             | legal_admin@anblicks.com
-employer_poc_phone             | 18172479060
+secondary_entity_business_name | Work from Home on State of Maine DHHS projects
+employer_phone                 | 18172479060
 employer_poc_first_name        | Robert
 employer_poc_last_name         | Freeman
-worksite_address1              | 51 Commerce Dr
-worksite_address2              | 
+employer_poc_email             | legal_admin@anblicks.com
+employer_poc_phone             | 18172479060
+employer_poc_phone_ext         | 
+worksite_address1              | 16 N Chestnut Street
+worksite_address2              | Apt 1
 worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Challa Law Office, PC
+worksite_county                | 
+lawfirm_name_business_name     | Challa Law Office PC.
 employer_address1              | 14911 Quorum Drive
-employer_address2              | SUITE 390
+employer_address2              | Suite 390
 employer_city                  | Dallas
 employer_state                 | TX
 employer_postal_code           | 75254
-begin_date                     | 9/18/2022
-end_date                       | 9/17/2025
+begin_date                     | 2025-09-18
+end_date                       | 2028-09-17
 total_worker_positions         | 1
-soc_code                       | 15-1252.00
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Maruthi Technologies Inc
+soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 49 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-22278-512997
+-[ RECORD 10 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-25143-010769
 job_title                      | Software Developer
-employer_name                  | Focused HR Solutions LLC
-secondary_entity_business_name | State of Maine Department of Education
-employer_poc_email             | christina@fhr-solutions.com
-employer_poc_phone             | 14048404701
-employer_poc_first_name        | Ross
-employer_poc_last_name         | Falik
-worksite_address1              | 45 Commerce Drive
-worksite_address2              | Suite 13
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | SETH LAW OFFICES, P.C.
-employer_address1              | 7047 E. Greenway Parkway
-employer_address2              | Suite 250
-employer_city                  | Scottsdale
-employer_state                 | AZ
-employer_postal_code           | 85254
-begin_date                     | 12/16/2022
-end_date                       | 12/15/2025
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 50 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-21265-600658
-job_title                      | Programmer 5 (Software Developer)
-employer_name                  | CloudTrend Technologies LLC
-secondary_entity_business_name | State of Maine Office of Information Technology
-employer_poc_email             | jatan@cloudtrendtechnologies.com
-employer_poc_phone             | 13023842454
-employer_poc_first_name        | Jatan
-employer_poc_last_name         | Upadhyay
-worksite_address1              | 51 Commerce Drive
+employer_name                  | Vejars Technologies Inc
+secondary_entity_business_name | Department of the Secretary of State
+employer_phone                 | 18778628386
+employer_poc_first_name        | Venkateswar Rao
+employer_poc_last_name         | Yarlagadda
+employer_poc_email             | legal@vejars.com
+employer_poc_phone             | 18778628386
+employer_poc_phone_ext         | 
+worksite_address1              | 29 State House Station,1 01 Hospital St
 worksite_address2              | 
 worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Law Office of Keshab Raj Seadie, P.C.
-employer_address1              | 1521 Concord Pike
-employer_address2              | Suite 301
-employer_city                  | Wilmington
-employer_state                 | DE
-employer_postal_code           | 19803
-begin_date                     | 9/23/2021
-end_date                       | 9/22/2024
+worksite_county                | KENNEBUNKPORT TOWN
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 722 S Denton Tap Road
+employer_address2              | STE 280
+employer_city                  | Coppell
+employer_state                 | TX
+employer_postal_code           | 75019
+begin_date                     | 2025-06-02
+end_date                       | 2028-06-01
 total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | No
--[ RECORD 51 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24117-928775
-job_title                      | React Developer
-employer_name                  | Avco Consulting Inc
-secondary_entity_business_name | State of Maine, Bureau of Motor Vehicles
-employer_poc_email             | SUDHIR@AVCOCONSULTING.COM
-employer_poc_phone             | 15082924795
-employer_poc_first_name        | Sudhir Reddy
-employer_poc_last_name         | Prodduturi
-worksite_address1              | 101 Hospital Street
-worksite_address2              | 29 State House Station
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | International Legal and Business Services Group LLP
-employer_address1              | 38 Front St
-employer_address2              | FL 4
-employer_city                  | Worcester
-employer_state                 | MA
-employer_postal_code           | 01608
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Vejars Technologies Inc
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 52 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23109-947707
-job_title                      | SQL Developer
-employer_name                  | IT CATS LLC
-secondary_entity_business_name | State of Maine- DHHS
-employer_poc_email             | SRAVAN@INFOWAYSOFTWARE.COM
-employer_poc_phone             | 17322382120
-employer_poc_first_name        | SRAVAN
-employer_poc_last_name         | KARNATI
-worksite_address1              | 286 Water St
+-[ RECORD 11 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-25140-996012
+job_title                      | Software Developer
+employer_name                  | Vejars Technologies Inc
+secondary_entity_business_name | Department of the Secretary of State
+employer_phone                 | 18778628386
+employer_poc_first_name        | Venkateswar Rao
+employer_poc_last_name         | Yarlagadda
+employer_poc_email             | legal@vejars.com
+employer_poc_phone             | 18778628386
+employer_poc_phone_ext         | 
+worksite_address1              | 29 State House Station,1 01 Hospital St
 worksite_address2              | 
 worksite_city                  | Augusta
-worksite_county                | KENNEBUNK TOWN
-lawfirm_name_business_name     | 
-employer_address1              | 388 WASHINGTON ROAD
-employer_address2              | SUITE A
-employer_city                  | SAYREVILLE
-employer_state                 | NJ
-employer_postal_code           | 08872
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
+worksite_county                | KENNEBUNKPORT TOWN
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 722 S Denton Tap Road
+employer_address2              | STE 280
+employer_city                  | Coppell
+employer_state                 | TX
+employer_postal_code           | 75019
+begin_date                     | 2025-05-27
+end_date                       | 2028-05-26
 total_worker_positions         | 1
-soc_code                       | 15-1252.00
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Vejars Technologies Inc
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 53 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23032-741201
-job_title                      | CYBER SECURITY  ENGINEER
-employer_name                  | DIZER CORP
-secondary_entity_business_name | State of Maine-Office of Information Technology
-employer_poc_email             | JAGDISH@DIZERCORP.COM
-employer_poc_phone             | 14403680201
-employer_poc_first_name        | JAGDISH
-employer_poc_last_name         | MEDARAMETLA
-worksite_address1              | 51 Commerce Drive
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | 
-employer_address1              | 1912 MENTOR AVENUE
-employer_address2              | 
-employer_city                  | PAINESVILLE
-employer_state                 | OH
-employer_postal_code           | 44077
-begin_date                     | 2/1/2023
-end_date                       | 1/31/2026
-total_worker_positions         | 1
-soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 54 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23094-902718
-job_title                      | Teacher (High School)
-employer_name                  | City of Lewiston School Department
-secondary_entity_business_name | 
-employer_poc_email             | sgallant@lewistonpublicschools.org
-employer_poc_phone             | 12077954100
-employer_poc_first_name        | Suzanna
-employer_poc_last_name         | Gallant
-worksite_address1              | 156 East Avenue
-worksite_address2              | 
-worksite_city                  | Lewiston
-worksite_county                | LEWISTON CITY
-lawfirm_name_business_name     | FordMurray
-employer_address1              | 36 Oak Street
-employer_address2              | 
-employer_city                  | Lewiston
-employer_state                 | ME
-employer_postal_code           | 04240
-begin_date                     | 6/15/2023
-end_date                       | 6/14/2026
-total_worker_positions         | 1
-soc_code                       | 25-2031.00
-h_1b_dependent                 | No
--[ RECORD 55 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23081-869236
-job_title                      | World Language Teacher - High School
-employer_name                  | City of Lewiston School Department
-secondary_entity_business_name | 
-employer_poc_email             | sgallant@lewistonpublicschools.org
-employer_poc_phone             | 12077954100
-employer_poc_first_name        | Suzanna
-employer_poc_last_name         | Gallant
-worksite_address1              | 156 East Avenue
-worksite_address2              | 
-worksite_city                  | Lewiston
-worksite_county                | LEWISTON CITY
-lawfirm_name_business_name     | FordMurray
-employer_address1              | 36 Oak Street
-employer_address2              | 
-employer_city                  | Lewiston
-employer_state                 | ME
-employer_postal_code           | 04240
-begin_date                     | 4/5/2023
-end_date                       | 4/4/2026
-total_worker_positions         | 1
-soc_code                       | 25-2031.00
-h_1b_dependent                 | No
--[ RECORD 56 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-23152-068179
-job_title                      | World Language Teacher - High School
-employer_name                  | City of Lewiston School Department
-secondary_entity_business_name | 
-employer_poc_email             | sgallant@lewistonpublicschools.org
-employer_poc_phone             | 12077954100
-employer_poc_first_name        | Suzanna
-employer_poc_last_name         | Gallant
-worksite_address1              | 156 East Avenue
-worksite_address2              | 
-worksite_city                  | Lewiston
-worksite_county                | LEWISTON CITY
-lawfirm_name_business_name     | FordMurray
-employer_address1              | 36 Oak Street
-employer_address2              | 
-employer_city                  | Lewiston
-employer_state                 | ME
-employer_postal_code           | 04240
-begin_date                     | 8/19/2023
-end_date                       | 8/18/2026
-total_worker_positions         | 1
-soc_code                       | 25-2031.00
-h_1b_dependent                 | No
--[ RECORD 57 ]-----------------+----------------------------------------------------------
+-[ RECORD 12 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24324-485085
 job_title                      | Multilingual Teacher
 employer_name                  | Town of Gorham-School Department
 secondary_entity_business_name | 
-employer_poc_email             | heather.perry@gorhamschools.org
-employer_poc_phone             | 12072221012
+employer_phone                 | 12072221012
 employer_poc_first_name        | Heather
 employer_poc_last_name         | Perry
+employer_poc_email             | heather.perry@gorhamschools.org
+employer_poc_phone             | 12072221012
+employer_poc_phone_ext         | 
 worksite_address1              | 106 Weeks Road
 worksite_address2              | 
 worksite_city                  | Gorham
@@ -1361,9 +382,1072 @@ employer_address2              | Suite 2
 employer_city                  | Gorham
 employer_state                 | ME
 employer_postal_code           | 04038
-begin_date                     | 2/4/2025
-end_date                       | 2/3/2028
+begin_date                     | 2025-02-04
+end_date                       | 2028-02-03
 total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Town of Gorham-School Department
 soc_code                       | 25-2022
 h_1b_dependent                 | No
+-[ RECORD 13 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24346-536276
+job_title                      | SharePoint Developer
+employer_name                  | Maxary LLC
+secondary_entity_business_name | State of Maine
+employer_phone                 | 15712740719
+employer_poc_first_name        | Rajendar
+employer_poc_last_name         | Aitha
+employer_poc_email             | rajaitha@maxary.com
+employer_poc_phone             | 15712740719
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Dr (End Client address)
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | 
+employer_address1              | 722 E Market St
+employer_address2              | St 102
+employer_city                  | Leesburg
+employer_state                 | VA
+employer_postal_code           | 20176
+begin_date                     | 2024-12-11
+end_date                       | 2027-12-10
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Maxary LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24117-928775
+job_title                      | React Developer
+employer_name                  | Avco Consulting Inc
+secondary_entity_business_name | State of Maine, Bureau of Motor Vehicles
+employer_phone                 | 15082924795
+employer_poc_first_name        | Sudhir Reddy
+employer_poc_last_name         | Prodduturi
+employer_poc_email             | SUDHIR@AVCOCONSULTING.COM
+employer_poc_phone             | 15082924795
+employer_poc_phone_ext         | 
+worksite_address1              | 101 Hospital Street
+worksite_address2              | 29 State House Station
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 38 Front St
+employer_address2              | FL 4
+employer_city                  | Worcester
+employer_state                 | MA
+employer_postal_code           | 01608
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Avco Consulting Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 15 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24142-019236
+job_title                      | CYBER SECURITY ENGINEER
+employer_name                  | DIZER CORP
+secondary_entity_business_name | STATE OF MAINE-OFFICE OF INFORMATION TECHNOLOGY
+employer_phone                 | 14403680201
+employer_poc_first_name        | JAGDISH
+employer_poc_last_name         | MEDARAMETLA
+employer_poc_email             | JAGDISH@DIZERCORP.COM
+employer_poc_phone             | 14403680201
+employer_poc_phone_ext         | 
+worksite_address1              | 51 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | 
+employer_address1              | 1912 MENTOR AVENUE
+employer_address2              | 
+employer_city                  | PAINESVILLE
+employer_state                 | OH
+employer_postal_code           | 44077
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | DIZER CORP
+soc_code                       | 15-1244.00
+h_1b_dependent                 | Yes
+-[ RECORD 16 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24133-985380
+job_title                      | Software Developer
+employer_name                  | Vejars Technologies Inc
+secondary_entity_business_name | Department of the Secretary of State
+employer_phone                 | 18778628386
+employer_poc_first_name        | Venkateswar
+employer_poc_last_name         | Yarlagadda
+employer_poc_email             | legal@vejars.com
+employer_poc_phone             | 18778628386
+employer_poc_phone_ext         | 
+worksite_address1              | 29 State House Station, 101 Hospital Street
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | KENNEBUNKPORT TOWN
+lawfirm_name_business_name     | 
+employer_address1              | 722 S Denton Street
+employer_address2              | Suite 280
+employer_city                  | Coppell
+employer_state                 | TX
+employer_postal_code           | 75019
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Vejars Technologies Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24165-105255
+job_title                      | Software Developer
+employer_name                  | PIONEER CONSULTING LLC
+secondary_entity_business_name | State of Maine
+employer_phone                 | 15158680873
+employer_poc_first_name        | MADHAVI
+employer_poc_last_name         | SHANKAIAHGARI
+employer_poc_email             | MADHAVI@PIONEERCONSULTINGSERVICE.COM
+employer_poc_phone             | 15158680873
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Dr
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | IMM Laws
+employer_address1              | 160 S 68th Street
+employer_address2              | SUITE 1210
+employer_city                  | West Des Moines
+employer_state                 | IA
+employer_postal_code           | 50266
+begin_date                     | 2024-09-30
+end_date                       | 2027-09-29
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PIONEER CONSULTING LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24082-822090
+job_title                      | Systems Administrator
+employer_name                  | CNET GLOBAL SOLUTIONS INC
+secondary_entity_business_name | State of Maine
+employer_phone                 | 19723255975
+employer_poc_first_name        | SAMPOORNA
+employer_poc_last_name         | RAMAKRISHNA
+employer_poc_email             | HR@CNET-GLOBAL.COM
+employer_poc_phone             | 19723255975
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Dr
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Reddy & Neumann PC
+employer_address1              | 2600 N CENTRAL EXPRESSWAY, SUITE 650
+employer_address2              | 
+employer_city                  | RICHARDSON
+employer_state                 | TX
+employer_postal_code           | 75080
+begin_date                     | 2024-09-01
+end_date                       | 2027-08-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | CNET GLOBAL SOLUTIONS INC
+soc_code                       | 15-1244.00
+h_1b_dependent                 | Yes
+-[ RECORD 19 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24190-180181
+job_title                      | QA Systems Engineer
+employer_name                  | NIFTEK INC
+secondary_entity_business_name | State of Maine (Department of Health & Human Services)
+employer_phone                 | 17039627755
+employer_poc_first_name        | MAHEEDHAR
+employer_poc_last_name         | SIRIGIREDDY
+employer_poc_email             | immig@niftek.com
+employer_poc_phone             | 17039627755
+employer_poc_phone_ext         | 
+worksite_address1              | 2 Anthony Ave
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Akula & Associates PC
+employer_address1              | 5899 PRESTON ROAD
+employer_address2              | SUITE 1204
+employer_city                  | FRISCO
+employer_state                 | TX
+employer_postal_code           | 75034
+begin_date                     | 2024-08-20
+end_date                       | 2027-08-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NIFTEK INC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 20 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24185-173884
+job_title                      | QA Systems Engineer
+employer_name                  | NIFTEK INC
+secondary_entity_business_name | State of Maine (Department of Health & Human Services)
+employer_phone                 | 17039627755
+employer_poc_first_name        | MAHEEDHAR
+employer_poc_last_name         | SIRIGIREDDY
+employer_poc_email             | immig@niftek.com
+employer_poc_phone             | 17039627755
+employer_poc_phone_ext         | 
+worksite_address1              | 2 Anthony Ave
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Akula & Associates PC
+employer_address1              | 5899 PRESTON ROAD
+employer_address2              | SUITE 1204
+employer_city                  | FRISCO
+employer_state                 | TX
+employer_postal_code           | 75034
+begin_date                     | 2024-08-20
+end_date                       | 2027-08-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NIFTEK INC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 21 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24213-233728
+job_title                      | Analyst
+employer_name                  | Tata Consultancy Services Limited
+secondary_entity_business_name | Mississippi Department of Employment Security
+employer_phone                 | 13012319083
+employer_poc_first_name        | Amit / Venkata Srinath
+employer_poc_last_name         | Jindal / Yarasinghu
+employer_poc_email             | amit1.jindal@tcs.com
+employer_poc_phone             | 13012319083
+employer_poc_phone_ext         | 
+worksite_address1              | Maine Department of Labor, 45 Commerce Drive
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Goel & Anderson LLC
+employer_address1              | 9201 Corporate Boulevard
+employer_address2              | Suite 320
+employer_city                  | Rockville
+employer_state                 | MD
+employer_postal_code           | 20850
+begin_date                     | 2024-08-09
+end_date                       | 2027-08-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Tata Consultancy Services Limited
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24200-206899
+job_title                      | Oracle Developer
+employer_name                  | RITWIK Infotech Inc
+secondary_entity_business_name | Bureau of Motor Vehicles (BMV), State of Maine
+employer_phone                 | 12484796879
+employer_poc_first_name        | Seshadri
+employer_poc_last_name         | Kotalo
+employer_poc_email             | seshukotalo@ritwikinfotech.com
+employer_poc_phone             | 12484796879
+employer_poc_phone_ext         | 
+worksite_address1              | 101 Hospital Street
+worksite_address2              | 29 State House Station
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | The Law Office of Luke Bowman
+employer_address1              | 38345 West 10 Mile Road, Suite 253
+employer_address2              | 
+employer_city                  | Farmington
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2024-07-29
+end_date                       | 2027-07-28
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | RITWIK Infotech Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 23 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24205-214307
+job_title                      | JAVA FULL STACK DEVELOPER
+employer_name                  | JNIT Technologies Inc
+secondary_entity_business_name | STATE OF MAINE
+employer_phone                 | 17324167646
+employer_poc_first_name        | Nikesh
+employer_poc_last_name         | Patel
+employer_poc_email             | hr@jnitinc.com
+employer_poc_phone             | 17324167646
+employer_poc_phone_ext         | 
+worksite_address1              | 51 commerce Dr
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | IMM Laws
+employer_address1              | 3145 Bordentown Ave
+employer_address2              | Suite D1
+employer_city                  | Parlin
+employer_state                 | NJ
+employer_postal_code           | 08859
+begin_date                     | 2024-07-22
+end_date                       | 2027-07-21
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | JNIT Technologies Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 24 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24204-213895
+job_title                      | Business Analyst
+employer_name                  | Bhrigus Inc
+secondary_entity_business_name | STATE OF MAINE
+employer_phone                 | 17329933653
+employer_poc_first_name        | Rohith
+employer_poc_last_name         | Ravi
+employer_poc_email             | rohith@bhrigus.com
+employer_poc_phone             | 17329933653
+employer_poc_phone_ext         | 
+worksite_address1              | 51 COMMERCE DR.
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 38345 W 10 Mile Road
+employer_address2              | Suite 125
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2024-07-29
+end_date                       | 2027-05-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Bhrigus Inc
+soc_code                       | 15-2051.01
+h_1b_dependent                 | Yes
+-[ RECORD 25 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23303-465874
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | THINKLUSIVE INC
+secondary_entity_business_name | STATE OF MAINE INFORMATION TECHNOLOGY DIVISION
+employer_phone                 | 17324193704
+employer_poc_first_name        | SRI LAKSHMI
+employer_poc_last_name         | VADDI
+employer_poc_email             | LAKSHMI.VADDI@THINKLUSIVE.COM
+employer_poc_phone             | 17324193704
+employer_poc_phone_ext         | 
+worksite_address1              | 51 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 1100 CORNWALL ROAD
+employer_address2              | SUITE 120
+employer_city                  | MONMOUTH JUNCTION
+employer_state                 | NJ
+employer_postal_code           | 08852
+begin_date                     | 2024-01-25
+end_date                       | 2027-01-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | THINKLUSIVE INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 26 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23278-413624
+job_title                      | ARCHITECT
+employer_name                  | TATA CONSULTANCY SERVICES LIMITED
+secondary_entity_business_name | MAINE DEPARTMENT OF LABOR
+employer_phone                 | 13012319083
+employer_poc_first_name        | AMIT
+employer_poc_last_name         | JINDAL
+employer_poc_email             | AMIT1.JINDAL@TCS.COM
+employer_poc_phone             | 13012319083
+employer_poc_phone_ext         | 
+worksite_address1              | 45 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | FRAGOMEN DEL REY BERNSEN & LOEWY LLP
+employer_address1              | 9201 CORPORATE BOULEVARD
+employer_address2              | SUITE 320
+employer_city                  | ROCKVILLE
+employer_state                 | MD
+employer_postal_code           | 20850
+begin_date                     | 2024-01-01
+end_date                       | 2026-12-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | TATA CONSULTANCY SERVICES LIMITED
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 27 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23313-489199
+job_title                      | Software Developer
+employer_name                  | PIONEER CONSULTING LLC
+secondary_entity_business_name | State of Maine
+employer_phone                 | 15158680873
+employer_poc_first_name        | MADHAVI
+employer_poc_last_name         | SHANKAIAHGARI
+employer_poc_email             | MADHAVI@PIONEERCONSULTINGSERVICE.COM
+employer_poc_phone             | 15158680873
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Dr
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | IMM Laws
+employer_address1              | 160 S 68th Street
+employer_address2              | SUITE 1210
+employer_city                  | West Des Moines
+employer_state                 | IA
+employer_postal_code           | 50266
+begin_date                     | 2023-11-08
+end_date                       | 2026-11-07
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | PIONEER CONSULTING LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 28 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23124-991485
+job_title                      | Software Developer
+employer_name                  | RapidIT - Cloudbera Inc
+secondary_entity_business_name | State of Maine
+employer_phone                 | 12145528650
+employer_poc_first_name        | Gopinath
+employer_poc_last_name         | Velagundula
+employer_poc_email             | gvelugu@rapidit-cloudbera.com
+employer_poc_phone             | 12145528650
+employer_poc_phone_ext         | 
+worksite_address1              | 45 Commerce Drive
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Dua Hobbs Associates
+employer_address1              | 6110 McFarland Station Drive
+employer_address2              | Suite 103
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30004
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | RapidIT - Cloudbera Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23262-360407
+job_title                      | Software Developer
+employer_name                  | CEO Foundry LLC
+secondary_entity_business_name | State of Maine (Secretary of State) BMV
+employer_phone                 | 12145041818
+employer_poc_first_name        | Venkata
+employer_poc_last_name         | Vadlamani
+employer_poc_email             | venky@ceofoundry.com
+employer_poc_phone             | 12145041818
+employer_poc_phone_ext         | 
+worksite_address1              | 101 Hospital St.
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Ahluwalia Law Offices PC
+employer_address1              | 5600 Tennyson Pkwy
+employer_address2              | Suite 155
+employer_city                  | Plano
+employer_state                 | TX
+employer_postal_code           | 75024
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CEO Foundry LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 30 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23326-521411
+job_title                      | Software Developer
+employer_name                  | CEO Foundry LLC
+secondary_entity_business_name | State of Maine (Secretary of State) BMV
+employer_phone                 | 12145041818
+employer_poc_first_name        | Venkata
+employer_poc_last_name         | Vadlamani
+employer_poc_email             | venky@ceofoundry.com
+employer_poc_phone             | 12145041818
+employer_poc_phone_ext         | 
+worksite_address1              | 101 Hospital St.
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Ahluwalia Law Offices PC
+employer_address1              | 5600 Tennyson Pkwy
+employer_address2              | Suite 155
+employer_city                  | Plano
+employer_state                 | TX
+employer_postal_code           | 75024
+begin_date                     | 2023-12-04
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | CEO Foundry LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 31 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23326-521123
+job_title                      | Software Developer
+employer_name                  | CEO Foundry LLC
+secondary_entity_business_name | State of Maine (Secretary of State) BMV
+employer_phone                 | 12145041818
+employer_poc_first_name        | Venkata
+employer_poc_last_name         | Vadlamani
+employer_poc_email             | venky@ceofoundry.com
+employer_poc_phone             | 12145041818
+employer_poc_phone_ext         | 
+worksite_address1              | 101 Hospital St.
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Ahluwalia Law Offices PC
+employer_address1              | 5600 Tennyson Pkwy
+employer_address2              | Suite 155
+employer_city                  | Plano
+employer_state                 | TX
+employer_postal_code           | 75024
+begin_date                     | 2023-12-04
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CEO Foundry LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 32 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23109-947707
+job_title                      | SQL Developer
+employer_name                  | IT CATS LLC
+secondary_entity_business_name | State of Maine- DHHS
+employer_phone                 | 17322382120
+employer_poc_first_name        | SRAVAN
+employer_poc_last_name         | KARNATI
+employer_poc_email             | SRAVAN@INFOWAYSOFTWARE.COM
+employer_poc_phone             | 17322382120
+employer_poc_phone_ext         | 
+worksite_address1              | 286 Water St
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | 
+employer_address1              | 388 WASHINGTON ROAD
+employer_address2              | SUITE A
+employer_city                  | SAYREVILLE
+employer_state                 | NJ
+employer_postal_code           | 08872
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | IT CATS LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 33 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23257-346632
+job_title                      | Software Developer
+employer_name                  | IOASIZ INC
+secondary_entity_business_name | State of Maine
+employer_phone                 | 12019040116
+employer_poc_first_name        | YOGENDRANATH
+employer_poc_last_name         | PAPAGARI
+employer_poc_email             | IMMIGRATION@IOASIZ.COM
+employer_poc_phone             | 12019040116
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Drive, SHS  145
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 15 CORPORATE PL S
+employer_address2              | SUITE 402
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2023-09-25
+end_date                       | 2026-09-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | IOASIZ INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 34 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23258-351855
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | RAPIDIT INC
+secondary_entity_business_name | State of Maine
+employer_phone                 | 16783663820
+employer_poc_first_name        | SAI K K
+employer_poc_last_name         | VEMULAPALLI
+employer_poc_email             | HRADMIN@RAPIDITINC.COM
+employer_poc_phone             | 16783663820
+employer_poc_phone_ext         | 27
+worksite_address1              | 45 Commerce Drive
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 4080 McGINNIS FERRY ROAD
+employer_address2              | SUITE 1206
+employer_city                  | ALPHARETTA
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 2023-09-25
+end_date                       | 2026-09-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | RAPIDIT INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 35 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23082-874116
+job_title                      | DEVELOPER
+employer_name                  | TATA CONSULTANCY SERVICES LIMITED
+secondary_entity_business_name | MAINE DEPARTMENT OF LABOR
+employer_phone                 | 13012319083
+employer_poc_first_name        | AMIT
+employer_poc_last_name         | JINDAL
+employer_poc_email             | AMIT1.JINDAL@TCS.COM
+employer_poc_phone             | 13012319083
+employer_poc_phone_ext         | 
+worksite_address1              | 45 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | FRAGOMEN DEL REY BERNSEN & LOEWY LLP
+employer_address1              | 9201 CORPORATE BOULEVARD
+employer_address2              | SUITE 320
+employer_city                  | ROCKVILLE
+employer_state                 | MD
+employer_postal_code           | 20850
+begin_date                     | 2023-09-21
+end_date                       | 2026-09-20
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | TATA CONSULTANCY SERVICES LIMITED
+soc_code                       | 15-1251.00
+h_1b_dependent                 | Yes
+-[ RECORD 36 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23255-340101
+job_title                      | NETWORK ENGINEER
+employer_name                  | LOGIXtech Solutions LLC
+secondary_entity_business_name | STATE OF MAINE
+employer_phone                 | 17324945100
+employer_poc_first_name        | AYAN
+employer_poc_last_name         | BHADURI
+employer_poc_email             | AYAN@LOGIX-TECH.COM
+employer_poc_phone             | 17324945100
+employer_poc_phone_ext         | 
+worksite_address1              | 51 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | 
+employer_address1              | 1090 KINGS GEORGES POST ROAD
+employer_address2              | SUITE 1201
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08837
+begin_date                     | 2023-09-12
+end_date                       | 2026-09-11
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | LOGIXtech Solutions LLC
+soc_code                       | 15-1241.00
+h_1b_dependent                 | Yes
+-[ RECORD 37 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24060-757873
+job_title                      | Sr. Programmer Analyst
+employer_name                  | CipherQore Solutions Inc
+secondary_entity_business_name | State of Maine
+employer_phone                 | 12254024020
+employer_poc_first_name        | Sreenivas
+employer_poc_last_name         | Vemulapalli
+employer_poc_email             | srinivas@cipherqore.com
+employer_poc_phone             | 12254024020
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Drive
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | BRISTOL TOWN
+lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
+employer_address1              | 16179 State Bank Drive
+employer_address2              | Suite D
+employer_city                  | Prairieville
+employer_state                 | LA
+employer_postal_code           | 70769
+begin_date                     | 2024-03-11
+end_date                       | 2026-09-07
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | CipherQore Solutions Inc
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 38 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23152-068179
+job_title                      | World Language Teacher - High School
+employer_name                  | City of Lewiston School Department
+secondary_entity_business_name | 
+employer_phone                 | 12077954100
+employer_poc_first_name        | Suzanna
+employer_poc_last_name         | Gallant
+employer_poc_email             | sgallant@lewistonpublicschools.org
+employer_poc_phone             | 12077954100
+employer_poc_phone_ext         | 4042
+worksite_address1              | 156 East Avenue
+worksite_address2              | 
+worksite_city                  | Lewiston
+worksite_county                | LEWISTON CITY
+lawfirm_name_business_name     | FordMurray
+employer_address1              | 36 Oak Street
+employer_address2              | 
+employer_city                  | Lewiston
+employer_state                 | ME
+employer_postal_code           | 04240
+begin_date                     | 2023-08-19
+end_date                       | 2026-08-18
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | City of Lewiston School Department
+soc_code                       | 25-2031.00
+h_1b_dependent                 | No
+-[ RECORD 39 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23229-275164
+job_title                      | CYBER SECURITY ENGINEER
+employer_name                  | DIZER CORP
+secondary_entity_business_name | STATE OF MAINE-OFFICE OF INFORMATION TECHNOLOGY
+employer_phone                 | 14403680201
+employer_poc_first_name        | JAGDISH
+employer_poc_last_name         | MEDARAMETLA
+employer_poc_email             | JAGDISH@DIZERCORP.COM
+employer_poc_phone             | 14403680201
+employer_poc_phone_ext         | 
+worksite_address1              | 51 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | 
+employer_address1              | 1912 MENTOR AVENUE
+employer_address2              | 
+employer_city                  | PAINESVILLE
+employer_state                 | OH
+employer_postal_code           | 44077
+begin_date                     | 2023-08-17
+end_date                       | 2026-08-16
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | DIZER CORP
+soc_code                       | 15-1244.00
+h_1b_dependent                 | Yes
+-[ RECORD 40 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23061-817384
+job_title                      | Programmer Analyst
+employer_name                  | SUNRAY INFORMATION TECHNOLOGIES INC
+secondary_entity_business_name | State of Maine - Department of Education
+employer_phone                 | 17326291576
+employer_poc_first_name        | MAHENDAR
+employer_poc_last_name         | GAVINI
+employer_poc_email             | MGAVINI@SUNRAY-IT.COM
+employer_poc_phone             | 17326291576
+employer_poc_phone_ext         | 
+worksite_address1              | 45 Commerce Dr.
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | KENNEBUNKPORT TOWN
+lawfirm_name_business_name     | S. R. Jonnalagadda P. C.
+employer_address1              | 10 CENTRE DRIVE, SUITE 219
+employer_address2              | 
+employer_city                  | MONROE
+employer_state                 | NJ
+employer_postal_code           | 08831
+begin_date                     | 2023-08-17
+end_date                       | 2026-08-16
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SUNRAY INFORMATION TECHNOLOGIES INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 41 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23094-902718
+job_title                      | Teacher (High School)
+employer_name                  | City of Lewiston School Department
+secondary_entity_business_name | 
+employer_phone                 | 12077954100
+employer_poc_first_name        | Suzanna
+employer_poc_last_name         | Gallant
+employer_poc_email             | sgallant@lewistonpublicschools.org
+employer_poc_phone             | 12077954100
+employer_poc_phone_ext         | 4042
+worksite_address1              | 156 East Avenue
+worksite_address2              | 
+worksite_city                  | Lewiston
+worksite_county                | LEWISTON CITY
+lawfirm_name_business_name     | FordMurray
+employer_address1              | 36 Oak Street
+employer_address2              | 
+employer_city                  | Lewiston
+employer_state                 | ME
+employer_postal_code           | 04240
+begin_date                     | 2023-06-15
+end_date                       | 2026-06-14
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | City of Lewiston School Department
+soc_code                       | 25-2031.00
+h_1b_dependent                 | No
+-[ RECORD 42 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23109-947782
+job_title                      | SENIOR .NET DEVELOPER
+employer_name                  | IT CATS LLC
+secondary_entity_business_name | STATE OF MAINE
+employer_phone                 | 17322382120
+employer_poc_first_name        | KARNATI
+employer_poc_last_name         | SRAVAN
+employer_poc_email             | SRAVAN@INFOWAYSOFTWARE.COM
+employer_poc_phone             | 17322382120
+employer_poc_phone_ext         | 
+worksite_address1              | 45 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | 
+employer_address1              | 388 WASHINGTON ROAD
+employer_address2              | SUITE A
+employer_city                  | SAYREVILLE
+employer_state                 | NJ
+employer_postal_code           | 08872
+begin_date                     | 2023-05-29
+end_date                       | 2026-05-28
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | IT CATS LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 43 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23081-869236
+job_title                      | World Language Teacher - High School
+employer_name                  | City of Lewiston School Department
+secondary_entity_business_name | 
+employer_phone                 | 12077954100
+employer_poc_first_name        | Suzanna
+employer_poc_last_name         | Gallant
+employer_poc_email             | sgallant@lewistonpublicschools.org
+employer_poc_phone             | 12077954100
+employer_poc_phone_ext         | 4042
+worksite_address1              | 156 East Avenue
+worksite_address2              | 
+worksite_city                  | Lewiston
+worksite_county                | LEWISTON CITY
+lawfirm_name_business_name     | FordMurray
+employer_address1              | 36 Oak Street
+employer_address2              | 
+employer_city                  | Lewiston
+employer_state                 | ME
+employer_postal_code           | 04240
+begin_date                     | 2023-04-05
+end_date                       | 2026-04-04
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | City of Lewiston School Department
+soc_code                       | 25-2031.00
+h_1b_dependent                 | No
+-[ RECORD 44 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-22320-590797
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | THINKLUSIVE INC
+secondary_entity_business_name | STATE OF MAINE INFORMATION TECHNOLOGY DIVISION
+employer_phone                 | 17324193704
+employer_poc_first_name        | SRI LAKSHMI
+employer_poc_last_name         | VADDI
+employer_poc_email             | LAKSHMI.VADDI@THINKLUSIVE.COM
+employer_poc_phone             | 17324193704
+employer_poc_phone_ext         | 
+worksite_address1              | 51 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 1100 CORNWALL ROAD
+employer_address2              | SUITE 120
+employer_city                  | MONMOUTH JUNCTION
+employer_state                 | NJ
+employer_postal_code           | 08852
+begin_date                     | 2023-03-23
+end_date                       | 2026-03-22
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | THINKLUSIVE INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 

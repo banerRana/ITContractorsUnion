@@ -1,12 +1,47 @@
 -[ RECORD 1 ]------------------+-------------------------------------------------------------------
+case_number                    | I-200-25351-491752
+job_title                      | Data and Reporting Analyst
+employer_name                  | Wyoming Department of Health
+secondary_entity_business_name | 
+employer_phone                 | 13077777908
+employer_poc_first_name        | Jesse
+employer_poc_last_name         | Springer
+employer_poc_email             | jesse.springer@wyo.gov
+employer_poc_phone             | 13077777908
+employer_poc_phone_ext         | 
+worksite_address1              | 122 West 25th Street
+worksite_address2              | 
+worksite_city                  | Cheyenne
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 2300 Capital Avenue
+employer_address2              | Hathaway 401
+employer_city                  | Cheyenne
+employer_state                 | WY
+employer_postal_code           | 82002
+begin_date                     | 2026-06-15
+end_date                       | 2029-06-14
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Wyoming Department of Health
+soc_code                       | 15-2051.00
+h_1b_dependent                 | No
+-[ RECORD 2 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-25162-078514
 job_title                      | Tech Architecture Assoc Manager
 employer_name                  | Accenture LLP
 secondary_entity_business_name | State of Wyoming
-employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
-employer_poc_phone             | 13104265295
+employer_phone                 | 13126930161
 employer_poc_first_name        | LEONARD
 employer_poc_last_name         | OXFORD
+employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
+employer_poc_phone             | 13104265295
+employer_poc_phone_ext         | 
 worksite_address1              | 2300 Capitol Ave
 worksite_address2              | 
 worksite_city                  | Cheyenne
@@ -17,20 +52,29 @@ employer_address2              |
 employer_city                  | Chicago
 employer_state                 | IL
 employer_postal_code           | 60661
-begin_date                     | 6/18/2025
-end_date                       | 6/17/2028
+begin_date                     | 2025-06-18
+end_date                       | 2028-06-17
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Accenture LLP
 soc_code                       | 13-1111
 h_1b_dependent                 | No
--[ RECORD 2 ]------------------+-------------------------------------------------------------------
+-[ RECORD 3 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-25125-936043
 job_title                      | Technology Architecture Specialist
 employer_name                  | Accenture LLP
 secondary_entity_business_name | State of Wyoming
-employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
-employer_poc_phone             | 13104265295
+employer_phone                 | 13126930161
 employer_poc_first_name        | LEONARD
 employer_poc_last_name         | OXFORD
+employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
+employer_poc_phone             | 13104265295
+employer_poc_phone_ext         | 
 worksite_address1              | 2300 Capitol Ave
 worksite_address2              | 
 worksite_city                  | Cheyenne
@@ -41,44 +85,29 @@ employer_address2              |
 employer_city                  | Chicago
 employer_state                 | IL
 employer_postal_code           | 60661
-begin_date                     | 5/12/2025
-end_date                       | 5/11/2028
+begin_date                     | 2025-05-12
+end_date                       | 2028-05-11
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Accenture LLP
 soc_code                       | 13-1111
 h_1b_dependent                 | No
--[ RECORD 3 ]------------------+-------------------------------------------------------------------
-case_number                    | I-200-22175-310860
-job_title                      | Java Developer
-employer_name                  | Datanormus LLC
-secondary_entity_business_name | State of Wyoming, Department of Workforce Services
-employer_poc_email             | immigrations@datanormus.com
-employer_poc_phone             | 17327704020
-employer_poc_first_name        | Sudhir
-employer_poc_last_name         | Pakalapati
-worksite_address1              | 444 W Collins
-worksite_address2              | 
-worksite_city                  | Casper
-worksite_county                | NATRONA
-lawfirm_name_business_name     | 
-employer_address1              | 517 Route 1 South
-employer_address2              | Suite 1020
-employer_city                  | Iselin
-employer_state                 | NJ
-employer_postal_code           | 08830
-begin_date                     | 6/27/2022
-end_date                       | 9/30/2023
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
 -[ RECORD 4 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-24135-995644
 job_title                      | Software Developer
 employer_name                  | ASR Tech Group Inc
 secondary_entity_business_name | THE STATE OF WYOMING, Department of Enterprise Technology Services
-employer_poc_email             | aishwarya@asrtechgroup.com
-employer_poc_phone             | 15715287517
+employer_phone                 | 17036668797
 employer_poc_first_name        | Aishwarya
 employer_poc_last_name         | PANNEERSELVAM
+employer_poc_email             | aishwarya@asrtechgroup.com
+employer_poc_phone             | 15715287517
+employer_poc_phone_ext         | 
 worksite_address1              | 2001 Capitol Avenue
 worksite_address2              | 
 worksite_city                  | Cheyenne
@@ -89,20 +118,95 @@ employer_address2              | Suite 2000
 employer_city                  | Reston
 employer_state                 | VA
 employer_postal_code           | 20190
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
 total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ASR Tech Group Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+-------------------------------------------------------------------
+case_number                    | I-200-24135-995686
+job_title                      | Software Developer
+employer_name                  | ASR Tech Group Inc
+secondary_entity_business_name | Wyoming Department of Enterprise Technology Services
+employer_phone                 | 17036668797
+employer_poc_first_name        | Aishwarya
+employer_poc_last_name         | PANNEERSELVAM
+employer_poc_email             | aishwarya@asrtechgroup.com
+employer_poc_phone             | 15715287517
+employer_poc_phone_ext         | 
+worksite_address1              | 2001 Capitol Avenue
+worksite_address2              | 
+worksite_city                  | Cheyenne
+worksite_county                | LARAMIE
+lawfirm_name_business_name     | Somireddy Law Group PLLC
+employer_address1              | 11710 Plaza America Drive
+employer_address2              | Suite 2000
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20190
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ASR Tech Group Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 6 ]------------------+-------------------------------------------------------------------
+case_number                    | I-200-24135-995736
+job_title                      | Software Developer
+employer_name                  | ASR Tech Group Inc
+secondary_entity_business_name | Wyoming Department of Enterprise Technology Services
+employer_phone                 | 17036668797
+employer_poc_first_name        | Aishwarya
+employer_poc_last_name         | PANNEERSELVAM
+employer_poc_email             | aishwarya@asrtechgroup.com
+employer_poc_phone             | 15715287517
+employer_poc_phone_ext         | 
+worksite_address1              | 2001 Capitol Avenue
+worksite_address2              | 
+worksite_city                  | Cheyenne
+worksite_county                | LARAMIE
+lawfirm_name_business_name     | Somireddy Law Group PLLC
+employer_address1              | 11710 Plaza America Drive
+employer_address2              | Suite 2000
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20190
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ASR Tech Group Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-24073-795024
 job_title                      | Architect
 employer_name                  | Tata Consultancy Services Limited
 secondary_entity_business_name | The State of Wyoming, Department of Workforce Services
-employer_poc_email             | amit1.jindal@tcs.com
-employer_poc_phone             | 13012319083
+employer_phone                 | 13012319083
 employer_poc_first_name        | Amit / Venkata Srinath
 employer_poc_last_name         | Jindal / Yarasinghu
+employer_poc_email             | amit1.jindal@tcs.com
+employer_poc_phone             | 13012319083
+employer_poc_phone_ext         | 
 worksite_address1              | 444 W Collins Drive
 worksite_address2              | 
 worksite_city                  | Casper
@@ -113,68 +217,29 @@ employer_address2              | Suite 320
 employer_city                  | Rockville
 employer_state                 | MD
 employer_postal_code           | 20850
-begin_date                     | 3/26/2024
-end_date                       | 3/25/2027
+begin_date                     | 2024-03-26
+end_date                       | 2027-03-25
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Tata Consultancy Services Limited
 soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 6 ]------------------+-------------------------------------------------------------------
-case_number                    | I-200-24135-995686
-job_title                      | Software Developer
-employer_name                  | ASR Tech Group Inc
-secondary_entity_business_name | Wyoming Department of Enterprise Technology Services
-employer_poc_email             | aishwarya@asrtechgroup.com
-employer_poc_phone             | 15715287517
-employer_poc_first_name        | Aishwarya
-employer_poc_last_name         | PANNEERSELVAM
-worksite_address1              | 2001 Capitol Avenue
-worksite_address2              | 
-worksite_city                  | Cheyenne
-worksite_county                | LARAMIE
-lawfirm_name_business_name     | Somireddy Law Group PLLC
-employer_address1              | 11710 Plaza America Drive
-employer_address2              | Suite 2000
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+-------------------------------------------------------------------
-case_number                    | I-200-24135-995736
-job_title                      | Software Developer
-employer_name                  | ASR Tech Group Inc
-secondary_entity_business_name | Wyoming Department of Enterprise Technology Services
-employer_poc_email             | aishwarya@asrtechgroup.com
-employer_poc_phone             | 15715287517
-employer_poc_first_name        | Aishwarya
-employer_poc_last_name         | PANNEERSELVAM
-worksite_address1              | 2001 Capitol Avenue
-worksite_address2              | 
-worksite_city                  | Cheyenne
-worksite_county                | LARAMIE
-lawfirm_name_business_name     | Somireddy Law Group PLLC
-employer_address1              | 11710 Plaza America Drive
-employer_address2              | Suite 2000
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-23108-942227
 job_title                      | JAVA DEVELOPER
 employer_name                  | Datanormus LLC
 secondary_entity_business_name | Wyoming Department of workforce Services
-employer_poc_email             | immigrations@datanormus.com
-employer_poc_phone             | 17327704020
+employer_phone                 | 17327704020
 employer_poc_first_name        | Sudhir
 employer_poc_last_name         | Pakalapati
+employer_poc_email             | immigrations@datanormus.com
+employer_poc_phone             | 17327704020
+employer_poc_phone_ext         | 
 worksite_address1              | 444 W Collins
 worksite_address2              | 
 worksite_city                  | Casper
@@ -185,33 +250,16 @@ employer_address2              | Suite 220
 employer_city                  | Princeton
 employer_state                 | NJ
 employer_postal_code           | 08540
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Datanormus LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+-------------------------------------------------------------------
-case_number                    | I-200-24086-830894
-job_title                      | WIC CPA (dietitians and nutritionists)
-employer_name                  | Cheyenne-Laramie County Health Department Board of Health
-secondary_entity_business_name | 
-employer_poc_email             | dalene.frantz@laramiecountywy.gov
-employer_poc_phone             | 13076334061
-employer_poc_first_name        | Dalene
-employer_poc_last_name         | Frantz
-worksite_address1              | 100 Central Ave
-worksite_address2              | 
-worksite_city                  | Cheyenne
-worksite_county                | LARAMIE
-lawfirm_name_business_name     | Larson King LLP
-employer_address1              | 100 Central Ave
-employer_address2              | 
-employer_city                  | Cheyenne
-employer_state                 | WY
-employer_postal_code           | 82007
-begin_date                     | 7/1/2024
-end_date                       | 4/24/2025
-total_worker_positions         | 1
-soc_code                       | 29-1031.00
-h_1b_dependent                 | No
 

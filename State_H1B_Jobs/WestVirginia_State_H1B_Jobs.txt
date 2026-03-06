@@ -1,302 +1,49 @@
--[ RECORD 1 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22076-988078
-job_title                      | Systems Administrator
-employer_name                  | JPC Techno Inc
-secondary_entity_business_name | Department of Veteran Affairs
-employer_poc_email             | jasty@jpctechno.com
-employer_poc_phone             | 15179025622
-employer_poc_first_name        | Venkata
-employer_poc_last_name         | Jasty
-worksite_address1              | 221 BUTLER AVE
-worksite_address2              | Building 511
-worksite_city                  | MARTINSBURG
-worksite_county                | BERKELEY
-lawfirm_name_business_name     | BBI Law Group, P.C
-employer_address1              | 885E, Knights Bridge Way
-employer_address2              | 
-employer_city                  | Gilbert
-employer_state                 | AZ
-employer_postal_code           | 85297
-begin_date                     | 3/18/2022
-end_date                       | 3/17/2025
-total_worker_positions         | 1
-soc_code                       | 15-1142.00
-h_1b_dependent                 | No
--[ RECORD 2 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23128-003081
-job_title                      | Systems Engineer Senior
-employer_name                  | Spartan Solutions Inc
-secondary_entity_business_name | Department of Veteran Affairs
-employer_poc_email             | tracypeters@spartansolutions.net
-employer_poc_phone             | 19012135255
-employer_poc_first_name        | Tracy
-employer_poc_last_name         | Thompson
-worksite_address1              | 221 Butler Avenue, Building 511
-worksite_address2              | 
-worksite_city                  | Martinsburg
-worksite_county                | BERKELEY
-lawfirm_name_business_name     | The Law Office of Luke Bowman
-employer_address1              | 338 New Byhalia Road, Suite 1
-employer_address2              | 
-employer_city                  | Collierville
-employer_state                 | TN
-employer_postal_code           | 38017
-begin_date                     | 5/18/2023
-end_date                       | 5/17/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 3 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23136-026840
-job_title                      | Systems Engineer Senior
-employer_name                  | Spartan Solutions Inc
-secondary_entity_business_name | Department of Veteran Affairs
-employer_poc_email             | tracypeters@spartansolutions.net
-employer_poc_phone             | 19012135255
-employer_poc_first_name        | Tracy
-employer_poc_last_name         | Thompson
-worksite_address1              | 221 Butler Avenue
-worksite_address2              | Building 511
-worksite_city                  | Martinsburg
-worksite_county                | BERKELEY
-lawfirm_name_business_name     | The Law Office of Luke Bowman
-employer_address1              | 338 New Byhalia Road, Suite 1
-employer_address2              | 
-employer_city                  | Collierville
-employer_state                 | TN
-employer_postal_code           | 38017
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 4 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-25154-047436
-job_title                      | System Administrator
-employer_name                  | Techno Tasks Inc
-secondary_entity_business_name | Department of Veteran Affairs
-employer_poc_email             | hr@technotasks.com
-employer_poc_phone             | 14694449101
-employer_poc_first_name        | Kartheek Varma
-employer_poc_last_name         | Alluri
-worksite_address1              | 221 Butler Avenue Building 511
-worksite_address2              | 
-worksite_city                  | Martinsburg
-worksite_county                | BERKELEY
-lawfirm_name_business_name     | THE LAW FIRM OF SIM, PARVATHANENI AND BROWN PLLC
-employer_address1              | 12100 Ford Road
-employer_address2              | Suite B352
-employer_city                  | Farmers Branch
-employer_state                 | TX
-employer_postal_code           | 75234
-begin_date                     | 7/17/2025
-end_date                       | 7/16/2028
-total_worker_positions         | 1
-soc_code                       | 15-1244
-h_1b_dependent                 | Yes
--[ RECORD 5 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24144-031989
-job_title                      | Senior Sharepoint Administrator
-employer_name                  | Spartan Solutions Inc
-secondary_entity_business_name | Department of Veterans Affairs
-employer_poc_email             | tracythompson@spartansolutions.net
-employer_poc_phone             | 19012135255
-employer_poc_first_name        | Tracy
-employer_poc_last_name         | Thompson
-worksite_address1              | 221 Butler Avenue
-worksite_address2              | Bldg 511
-worksite_city                  | Martinsburg
-worksite_county                | BERKELEY
-lawfirm_name_business_name     | The Law Office of Luke Bowman
-employer_address1              | 338 New Byhalia Road, Suite 1
-employer_address2              | 
-employer_city                  | Collierville
-employer_state                 | TN
-employer_postal_code           | 38017
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 6 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24115-922684
-job_title                      | Sr. Programmer Analyst
-employer_name                  | iZeal Inc
-secondary_entity_business_name | End client  State of West Virginia
-employer_poc_email             | hr@izealinc.com
-employer_poc_phone             | 17037455280
-employer_poc_first_name        | Amrutha
-employer_poc_last_name         | Maddipati
-worksite_address1              | 321 Capitol Street, One Davis Square
-worksite_address2              | Suite 200
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | Law Offices of Claudia Y. Tsou
-employer_address1              | 46090 LAKE CENTER PLAZA
-employer_address2              | Suite 100
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20165
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23157-082631
-job_title                      | .Net Developer
-employer_name                  | Insource Tech LLC
-secondary_entity_business_name | Sate of West Virginia-Department of Health & human Resources (DHHR)
-employer_poc_email             | teja@insourcetechsolutions.com
-employer_poc_phone             | 15715519617
-employer_poc_first_name        | MATHEW
-employer_poc_last_name         | POOVATHANY
-worksite_address1              | 321 Capitol Street
-worksite_address2              | 
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BBI LAW GROUP,P.C.
-employer_address1              | 1 Marion rd
-employer_address2              | Westport
-employer_city                  | Westport
-employer_state                 | CT
-employer_postal_code           | 06880
-begin_date                     | 10/1/2023
-end_date                       | 9/30/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 8 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24358-566669
-job_title                      | Web Application Developer
-employer_name                  | iZeal Inc
-secondary_entity_business_name | State of West Virginia - Office of Shared Administration
-employer_poc_email             | hr@izealinc.com
-employer_poc_phone             | 17037455280
-employer_poc_first_name        | Amrutha
-employer_poc_last_name         | Maddipati
-worksite_address1              | 321 Capitol Street
-worksite_address2              | Suite 200
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | dehai tao immigration pllc
-employer_address1              | 46090 Lake Center Plaza
-employer_address2              | Suite 100
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20165
-begin_date                     | 5/24/2025
-end_date                       | 5/23/2028
-total_worker_positions         | 1
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23192-179115
-job_title                      | Coldfusion Software Engineer
-employer_name                  | Adroit Associates Inc
-secondary_entity_business_name | U.S Department of Veterans Affairs
-employer_poc_email             | immigration@adroitassociates.com
-employer_poc_phone             | 17325169600
-employer_poc_first_name        | PRASADA
-employer_poc_last_name         | INDUKURI
-worksite_address1              | 221 Buttler Ave, Building 511
-worksite_address2              | 
-worksite_city                  | Martinsburg
-worksite_county                | BERKELEY
-lawfirm_name_business_name     | Lamboley Law FIrm LLC
-employer_address1              | 100 Wood Avenue South
-employer_address2              | Suite 108
-employer_city                  | Iselin
-employer_state                 | NJ
-employer_postal_code           | 08830
-begin_date                     | 1/1/2024
-end_date                       | 12/31/2026
-total_worker_positions         | 1
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23086-880234
-job_title                      | Polymer/Organic Chemist
-employer_name                  | Leidos Inc
-secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
-employer_poc_email             | Jodi.L.Wright@leidos.com
-employer_poc_phone             | 13106259863
-employer_poc_first_name        | Jodi
-employer_poc_last_name         | Wright
-worksite_address1              | 3610 Collins Ferry Rd.
-worksite_address2              | 
-worksite_city                  | Morgantown
-worksite_county                | MONONGALIA
-lawfirm_name_business_name     | Morgan, Lewis & Bockius LLP
-employer_address1              | 1750 Presidents Street
-employer_address2              | 
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 5/1/2023
-end_date                       | 4/30/2026
-total_worker_positions         | 1
-soc_code                       | 19-2031.00
-h_1b_dependent                 | No
--[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24173-137821
-job_title                      | Computational Development and Applications Engineer
-employer_name                  | Leidos Inc
-secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
-employer_poc_email             | cameron.t.villa@leidos.com
-employer_poc_phone             | 17036644811
-employer_poc_first_name        | Cameron
-employer_poc_last_name         | Villa
-worksite_address1              | 3610 Collins Ferry Road
-worksite_address2              | 
-worksite_city                  | Morgantown
-worksite_county                | MONONGALIA
-lawfirm_name_business_name     | Morgan, Lewis & Bockius LLP
-employer_address1              | 1750 Presidents Street
-employer_address2              | 
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 10/1/2024
-end_date                       | 9/30/2027
-total_worker_positions         | 1
-soc_code                       | 17-2141.00
-h_1b_dependent                 | No
--[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23192-181575
-job_title                      | Catalyst Synthesis Research Scientist
-employer_name                  | Leidos Inc
-secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
-employer_poc_email             | cameron.t.villa@leidos.com
-employer_poc_phone             | 17036644811
-employer_poc_first_name        | Cameron
-employer_poc_last_name         | Villa
-worksite_address1              | 3610 Collins Ferry Rd.
-worksite_address2              | 
-worksite_city                  | Morgantown
-worksite_county                | MONONGALIA
-lawfirm_name_business_name     | Morgan, Lewis & Bockius LLP
-employer_address1              | 1750 Presidents Street
-employer_address2              | 
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 8/28/2023
-end_date                       | 8/27/2026
-total_worker_positions         | 1
-soc_code                       | 19-2032.00
-h_1b_dependent                 | No
--[ RECORD 13 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-25157-063601
-job_title                      | RESEARCH ASSISTANT
+-[ RECORD 1 ]------------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-25183-148145
+job_title                      | EXTENSION EDUCATOR, AGRIBUSINESS
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | WEST VIRGINIA STATE UNIVERSITY
-employer_poc_email             | KIMBERLY.DUFF@WVSTATEU.EDU
-employer_poc_phone             | 13042044323
+secondary_entity_business_name | 
+employer_phone                 | 13042044323
 employer_poc_first_name        | KIMBERLY
 employer_poc_last_name         | DUFF
-worksite_address1              | 5000 FAIRLAWN AVENUE
+employer_poc_email             | KIMBERLY.DUFF@WVSTATEU.EDU
+employer_poc_phone             | 13042044323
+employer_poc_phone_ext         | 
+worksite_address1              | 4015 FAIRLAWN AVENUE
 worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | 
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 4015 FAIRLAWN AVENUE
+employer_address2              | 201 BYERS ADMIN BLDG
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 2026-01-01
+end_date                       | 2028-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
+soc_code                       | 11-9033.00
+h_1b_dependent                 | No
+-[ RECORD 2 ]------------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-25181-141345
+job_title                      | POSTDOCTORAL RESEARCH ASSOCIATE
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
+secondary_entity_business_name | WEST VIRGINIA STATE UNIVERSITY
+employer_phone                 | 13042044323
+employer_poc_first_name        | KIMBERLY
+employer_poc_last_name         | DUFF
+employer_poc_email             | KIMBERLY.DUFF@WVSTATEU.EDU
+employer_poc_phone             | 13042044323
+employer_poc_phone_ext         | 
+worksite_address1              | 5000 FAIRLAWN AVE
+worksite_address2              | 309 HAMBLIN HALL
 worksite_city                  | INSTITUTE
 worksite_county                | KANAWHA
 lawfirm_name_business_name     | BRAVLIN PC
@@ -305,356 +52,128 @@ employer_address2              | 201 BYERS ADMIN BLDG
 employer_city                  | INSTITUTE
 employer_state                 | WV
 employer_postal_code           | 25112
-begin_date                     | 7/1/2025
-end_date                       | 6/30/2028
+begin_date                     | 2025-12-30
+end_date                       | 2028-12-29
 total_worker_positions         | 1
-soc_code                       | 19-4021
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
+soc_code                       | 19-1029.04
 h_1b_dependent                 | No
--[ RECORD 14 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22143-200996
-job_title                      | Web Application Developer
-employer_name                  | iZeal Inc
-secondary_entity_business_name | West Virginia Department of Health and Human Resources
-employer_poc_email             | hr@izealinc.com
-employer_poc_phone             | 17037455280
-employer_poc_first_name        | Adilene
-employer_poc_last_name         | Aguilar
-worksite_address1              | 321 Capital Street, One Davis Square
-worksite_address2              | Suite 200
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | Law Offices of Claudia Tsou
-employer_address1              | 46090 LAKE CENTER PLAZA
-employer_address2              | Suite 100
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20165
-begin_date                     | 5/24/2022
-end_date                       | 5/23/2025
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 15 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22116-105908
-job_title                      | Healthcare Systems Consultant/Tester
-employer_name                  | Kalven Technologies Inc
-secondary_entity_business_name | West Virginia Department of Health and Human Resources (DHHR)
-employer_poc_email             | sharath@kalventech.com
-employer_poc_phone             | 18473640486
-employer_poc_first_name        | Sharath K
-employer_poc_last_name         | Venkata
-worksite_address1              | Kanawha Valley Building
-worksite_address2              | 300 Capitol Street, Suite 1610
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | International Legal and Business Services Group LLP
-employer_address1              | 1701 E. Woodfield Road
-employer_address2              | Suite 300
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60173
-begin_date                     | 6/12/2022
-end_date                       | 6/11/2025
-total_worker_positions         | 1
-soc_code                       | 15-1133.00
-h_1b_dependent                 | Yes
--[ RECORD 16 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21351-773589
-job_title                      | COMPUTER SYSTEMS ENGINEER
-employer_name                  | COMPUNNEL SOFTWARE GROUP INC
-secondary_entity_business_name | West Virginia Department of Health and Humas Resources
-employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
-employer_poc_phone             | 16096069010
-employer_poc_first_name        | RAKESH
-employer_poc_last_name         | SHAH
-worksite_address1              | One Davis Square Charleston
-worksite_address2              | 
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | 
-employer_address1              | 103 MORGAN LANE
-employer_address2              | SUITE 102
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 12/22/2021
-end_date                       | 12/21/2024
-total_worker_positions         | 1
-soc_code                       | 15-1199.02
-h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21347-761831
-job_title                      | DATA ENGINEER/SYSTEMS ENGINEER
-employer_name                  | COMPUNNEL SOFTWARE GROUP INC
-secondary_entity_business_name | West Virginia Department of Health and Humas Resources
-employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
-employer_poc_phone             | 16096069010
-employer_poc_first_name        | RAKESH
-employer_poc_last_name         | SHAH
-worksite_address1              | One Davis Square Charleston
-worksite_address2              | 
-worksite_city                  | West Virginia
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | 
-employer_address1              | 103 MORGAN LANE
-employer_address2              | SUITE 102
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 12/22/2021
-end_date                       | 9/1/2022
-total_worker_positions         | 1
-soc_code                       | 15-1199.02
-h_1b_dependent                 | Yes
--[ RECORD 18 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21348-762922
-job_title                      | DATA ENGINEER/SYSTEMS ENGINEER
-employer_name                  | COMPUNNEL SOFTWARE GROUP INC
-secondary_entity_business_name | West Virginia Department of Health and Humas Resources
-employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
-employer_poc_phone             | 16096069010
-employer_poc_first_name        | RAKESH
-employer_poc_last_name         | SHAH
-worksite_address1              | One Davis Square Charleston
-worksite_address2              | 
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | 
-employer_address1              | 103 MORGAN LANE
-employer_address2              | SUITE 102
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 12/22/2021
-end_date                       | 9/1/2022
-total_worker_positions         | 1
-soc_code                       | 15-1199.02
-h_1b_dependent                 | Yes
--[ RECORD 19 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24023-659493
-job_title                      | Testing Manager
+-[ RECORD 3 ]------------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-25342-465952
+job_title                      | TESTING AND OPERATIONS LEAD
 employer_name                  | Gantec Corporation
-secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)
+secondary_entity_business_name | WEST VIRGINIA DEPARTMENT OF HUMAN SERVICES (WV DoHS)/BERRY, DUNN, MCNEIL & PARKER LLC
+employer_phone                 | 18478857655
+employer_poc_first_name        | Geetha
+employer_poc_last_name         | Venkataswamy
 employer_poc_email             | vr@gantecusa.com
 employer_poc_phone             | 18478857655
-employer_poc_first_name        | Venkat
-employer_poc_last_name         | Ravilla
-worksite_address1              | 300 Capitol Street
-worksite_address2              | suite    1610
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | International Legal and Business Services Group LLP
-employer_address1              | 1000 E. Woodfield Road
-employer_address2              | suite 242
+employer_poc_phone_ext         | 
+worksite_address1              | 300 CAPITOL STREET (BERRY, DUNN, MCNEIL & PARKERS OFFICE)
+worksite_address2              | SUITE 1610
+worksite_city                  | CHARLESTON
+worksite_county                | 
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 1100 E. Woodfield Road
+employer_address2              | Suite 104
 employer_city                  | Schaumburg
 employer_state                 | IL
 employer_postal_code           | 60173
-begin_date                     | 5/9/2024
-end_date                       | 5/8/2027
+begin_date                     | 2025-12-18
+end_date                       | 2028-12-17
 total_worker_positions         | 1
-soc_code                       | 15-1299.09
-h_1b_dependent                 | No
--[ RECORD 20 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24054-742181
-job_title                      | Testing Manager
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
 employer_name                  | Gantec Corporation
-secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)/Berry Dunn
+soc_code                       | 15-1253.00
+h_1b_dependent                 | No
+-[ RECORD 4 ]------------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-25339-462045
+job_title                      | TESTING AND OPERATIONS LEAD
+employer_name                  | Gantec Corporation
+secondary_entity_business_name | WEST VIRGINIA DEPARTMENT OF HUMAN SERVICES (WVDOHS)/BERRY DUNN MCNEIL AND PARKER LLC
+employer_phone                 | 18478857655
+employer_poc_first_name        | Geetha
+employer_poc_last_name         | Venkataswamy
 employer_poc_email             | vr@gantecusa.com
 employer_poc_phone             | 18478857655
-employer_poc_first_name        | Venkat
-employer_poc_last_name         | Ravilla
-worksite_address1              | 300 Capitol Street (Berry Dunn address)
-worksite_address2              | suite   1610
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | International Legal and Business Services Group LLP
-employer_address1              | 1000 E. Woodfield Road
-employer_address2              | suite 242
+employer_poc_phone_ext         | 
+worksite_address1              | 300 CAPITOL STREET (BERRY, DUNN, MCNEIL AND PARKER LLCS OFF
+worksite_address2              | SUITE 1610
+worksite_city                  | CHARLESTON
+worksite_county                | 
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 1100 E. Woodfield Road
+employer_address2              | Suite 104
 employer_city                  | Schaumburg
 employer_state                 | IL
 employer_postal_code           | 60173
-begin_date                     | 5/9/2024
-end_date                       | 5/8/2027
+begin_date                     | 2025-12-18
+end_date                       | 2028-12-17
 total_worker_positions         | 1
-soc_code                       | 15-1299.09
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Gantec Corporation
+soc_code                       | 15-1253.00
 h_1b_dependent                 | No
--[ RECORD 21 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-25149-032431
-job_title                      | Database Administrator
-employer_name                  | Sonus Software Solutions Inc
-secondary_entity_business_name | West Virginia Department of Transportation
-employer_poc_email             | info@sonussoftwareinc.com
-employer_poc_phone             | 18017703133
-employer_poc_first_name        | Sonica
-employer_poc_last_name         | Kommu
-worksite_address1              | 1900 Kanawah Boulevard East
-worksite_address2              | Building Five Room 10
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | 
-employer_address1              | 504 W 800 N
-employer_address2              | 
-employer_city                  | Orem
-employer_state                 | UT
-employer_postal_code           | 84057
-begin_date                     | 6/2/2025
-end_date                       | 6/1/2028
-total_worker_positions         | 1
-soc_code                       | 15-1242
-h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21323-717252
-job_title                      | Web Application Analyst and Developer
-employer_name                  | iZeal Inc
-secondary_entity_business_name | client  West Virginia Department of Health and Human Resources
-employer_poc_email             | hr@izealinc.com
-employer_poc_phone             | 17037455280
-employer_poc_first_name        | Adilene
-employer_poc_last_name         | Aguilar
-worksite_address1              | 321 Capital Street, One Davis Square
-worksite_address2              | Suite 200
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | Law Offices of Claudia Tsou
-employer_address1              | 46090 LAKE CENTER PLAZA
-employer_address2              | Suite 100
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20165
-begin_date                     | 11/22/2021
-end_date                       | 11/21/2024
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21326-719533
-job_title                      | Web Application Developer
-employer_name                  | iZeal Inc
-secondary_entity_business_name | client  West Virginia Department of Health and Human Resources
-employer_poc_email             | hr@izealinc.com
-employer_poc_phone             | 17037455280
-employer_poc_first_name        | Adilene
-employer_poc_last_name         | Aguilar
-worksite_address1              | 321 Capital Street, One Davis Square
-worksite_address2              | Suite 200
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | Law Offices of Claudia Tsou
-employer_address1              | 46090 LAKE CENTER PLAZA
-employer_address2              | Suite 100
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20165
-begin_date                     | 11/23/2021
-end_date                       | 11/22/2024
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21327-721891
-job_title                      | Web Applications Developer
-employer_name                  | iZeal Inc
-secondary_entity_business_name | client  West Virginia Department of Health and Human Resources
-employer_poc_email             | hr@izealinc.com
-employer_poc_phone             | 17037455280
-employer_poc_first_name        | Adilene
-employer_poc_last_name         | Aguilar
-worksite_address1              | 321 Capital Street, One Davis Square
-worksite_address2              | Suite 200
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | Law Offices of Claudia Tsou
-employer_address1              | 46090 LAKE CENTER PLAZA
-employer_address2              | Suite 100
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20165
-begin_date                     | 11/23/2021
-end_date                       | 11/22/2024
-total_worker_positions         | 1
-soc_code                       | 15-1132.00
-h_1b_dependent                 | Yes
--[ RECORD 25 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22055-928454
-job_title                      | Epidemiologist
-employer_name                  | Cabell-Huntington Health Department
-secondary_entity_business_name | 
-employer_poc_email             | Elizabeth.adkins@chhdwv.gov
-employer_poc_phone             | 13045236483
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Adkins
-worksite_address1              | 703 Seventh Avenue
-worksite_address2              | 
-worksite_city                  | Huntington
-worksite_county                | CABELL
-lawfirm_name_business_name     | DINSMORE & SHOHL LLP
-employer_address1              | 703 Seventh Avenue
-employer_address2              | 
-employer_city                  | Huntington
-employer_state                 | WV
-employer_postal_code           | 25701
-begin_date                     | 8/2/2022
-end_date                       | 8/1/2025
-total_worker_positions         | 1
-soc_code                       | 19-1041.00
-h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23011-695160
-job_title                      | Intensivist
-employer_name                  | Louis A. Johnson VAMC, Department of Veterans Affairs
-secondary_entity_business_name | 
-employer_poc_email             | lucas.bittenbender@va.gov
-employer_poc_phone             | 13046233461
-employer_poc_first_name        | Lucas
-employer_poc_last_name         | Bittenbender
-worksite_address1              | 1 Med Center Drive
-worksite_address2              | 
-worksite_city                  | Clarksburg
-worksite_county                | HARRISON
-lawfirm_name_business_name     | 
-employer_address1              | 1 Med Center Dr
-employer_address2              | 
-employer_city                  | Clarksburg
-employer_state                 | WV
-employer_postal_code           | 26301
-begin_date                     | 2/1/2023
-end_date                       | 1/31/2026
-total_worker_positions         | 1
-soc_code                       | 29-1216.00
-h_1b_dependent                 | No
--[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------
+-[ RECORD 5 ]------------------+--------------------------------------------------------------------------------------
 case_number                    | I-200-25143-012140
 job_title                      | Statistical Analyst
 employer_name                  | STATE OF WEST VIRGINIA & ATTORNEY GENERALS OFFICE
 secondary_entity_business_name | 
-employer_poc_email             | STEVEN.A.TRAVIS@WVAGO.GOV
-employer_poc_phone             | 13045581482
+employer_phone                 | 13045582021
 employer_poc_first_name        | STEVEN
 employer_poc_last_name         | TRAVIS
+employer_poc_email             | STEVEN.A.TRAVIS@WVAGO.GOV
+employer_poc_phone             | 13045581482
+employer_poc_phone_ext         | 
 worksite_address1              | 100 DEE DRIVE
 worksite_address2              | STE 101
 worksite_city                  | CHARLESTON
 worksite_county                | KANAWHA
 lawfirm_name_business_name     | BRAVLIN PC
-employer_address1              | 1900 KANAWHA BOULEVAROAD EAST
+employer_address1              | 1900 KANAWHA BOULEVARD EAST
 employer_address2              | BUILDING 1, RM E-26
 employer_city                  | CHARLESTON
 employer_state                 | WV
 employer_postal_code           | 25305
-begin_date                     | 10/1/2025
-end_date                       | 9/30/2028
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
 total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | STATE OF WEST VIRGINIA & ATTORNEY GENERALS OFFICE
 soc_code                       | 15-2041
 h_1b_dependent                 | No
--[ RECORD 28 ]-----------------+----------------------------------------------------------------------------------
+-[ RECORD 6 ]------------------+--------------------------------------------------------------------------------------
 case_number                    | I-200-25076-780438
 job_title                      | DEPUTY CHIEF MEDICAL EXAMINER
 employer_name                  | STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH, OFFICE OF THE CHIEF MEDICAL EXAMINER
 secondary_entity_business_name | 
-employer_poc_email             | MATTHEW.D.IZZO@WV.GOV
-employer_poc_phone             | 13045586920
+employer_phone                 | 13045586920
 employer_poc_first_name        | MATTHEW
 employer_poc_last_name         | IZZO
+employer_poc_email             | MATTHEW.D.IZZO@WV.GOV
+employer_poc_phone             | 13045586920
+employer_poc_phone_ext         | 
 worksite_address1              | 619 VIRGINIA STREET WEST
 worksite_address2              | 
 worksite_city                  | CHARLESTON
@@ -665,380 +184,227 @@ employer_address2              |
 employer_city                  | CHARLESTON
 employer_state                 | WV
 employer_postal_code           | 25302
-begin_date                     | 9/5/2025
-end_date                       | 9/4/2028
+begin_date                     | 2025-09-05
+end_date                       | 2028-09-04
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH, OFFICE OF THE CHIEF MEDICAL EXAMINER
 soc_code                       | 29-1229
 h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22074-978930
-job_title                      | PROFESSOR OF SOCIOLOGY
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+-[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-25195-171552
+job_title                      | DEPUTY CHIEF MEDICAL EXAMINER
+employer_name                  | WEST VIRGINIA STATE HEALTH DEPARTMENT, OFFICE OF THE CHIEF MEDICAL EXAMINER
 secondary_entity_business_name | 
-employer_poc_email             | CHRISTINA.DALTON@WVSTATEU.EDU
-employer_poc_phone             | 13047663061
-employer_poc_first_name        | CHRISTINA
-employer_poc_last_name         | DALTON
-worksite_address1              | 5000 FAIRLAWN AVE
-worksite_address2              | 124 HILL HALL
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 5000 FAIRLAWN AVENUE
-employer_address2              | 
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 5/13/2022
-end_date                       | 5/12/2025
-total_worker_positions         | 1
-soc_code                       | 25-1067.00
-h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24072-791021
-job_title                      | ACCOUNTANT
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
-employer_poc_phone             | 13047665224
-employer_poc_first_name        | KRYSTAL
-employer_poc_last_name         | SMITH
-worksite_address1              | 5000 FAIRLAWN AVENUE
+employer_phone                 | 13045586920
+employer_poc_first_name        | MATTHEW
+employer_poc_last_name         | IZZO
+employer_poc_email             | MATTHEW.D.IZZO@WV.GOV
+employer_poc_phone             | 13045586920
+employer_poc_phone_ext         | 
+worksite_address1              | 619 VIRGINIA STREET WEST
 worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
+worksite_city                  | CHARLESTON
+worksite_county                | 
 lawfirm_name_business_name     | BRAVLIN PC
-employer_address1              | 5000 FAIRLAWN AVE
+employer_address1              | 619 VIRGINIA STREET WEST
 employer_address2              | 
-employer_city                  | INSTITUTE
+employer_city                  | CHARLESTON
 employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 5/21/2024
-end_date                       | 5/20/2027
+employer_postal_code           | 25302
+begin_date                     | 2025-09-05
+end_date                       | 2028-09-04
 total_worker_positions         | 1
-soc_code                       | 13-2011.00
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WEST VIRGINIA STATE HEALTH DEPARTMENT, OFFICE OF THE CHIEF MEDICAL EXAMINER
+soc_code                       | 29-1229.00
 h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24205-215340
-job_title                      | ASSISTANT PROFESSOR OF COMPUTER SCIENCE
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
-employer_poc_phone             | 13047665224
-employer_poc_first_name        | KRYSTAL
-employer_poc_last_name         | SMITH
-worksite_address1              | 5000 FAIRLAWN AVENUE
+-[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-25154-047436
+job_title                      | System Administrator
+employer_name                  | Techno Tasks Inc
+secondary_entity_business_name | Department of Veteran Affairs
+employer_phone                 | 14694449101
+employer_poc_first_name        | Kartheek Varma
+employer_poc_last_name         | Alluri
+employer_poc_email             | hr@technotasks.com
+employer_poc_phone             | 14694449101
+employer_poc_phone_ext         | 
+worksite_address1              | 221 Butler Avenue Building 511
 worksite_address2              | 
-worksite_city                  | INSTITUTE
+worksite_city                  | Martinsburg
+worksite_county                | BERKELEY
+lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
+employer_address1              | 12100 Ford Road
+employer_address2              | Suite B352
+employer_city                  | Farmers Branch
+employer_state                 | TX
+employer_postal_code           | 75234
+begin_date                     | 2025-07-17
+end_date                       | 2028-07-16
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Techno Tasks Inc
+soc_code                       | 15-1244
+h_1b_dependent                 | Yes
+-[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-25181-139211
+job_title                      | Data Engineer
+employer_name                  | IBM Corporation
+secondary_entity_business_name | State of West Virginia
+employer_phone                 | 19195435386
+employer_poc_first_name        | Manorama
+employer_poc_last_name         | Arcot
+employer_poc_email             | rama.arcot@ibm.com
+employer_poc_phone             | 19195435386
+employer_poc_phone_ext         | 
+worksite_address1              | One Davis Square
+worksite_address2              | 
+worksite_city                  | Charleston
 worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN PC
-employer_address1              | 5000 FAIRLAWN AVE
+lawfirm_name_business_name     | Fakhoury Global Immigration USA PC
+employer_address1              | 3039 Cornwallis Road, PO Box 12195
 employer_address2              | 
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 8/13/2024
-end_date                       | 8/12/2027
+employer_city                  | Durham
+employer_state                 | NC
+employer_postal_code           | 27709
+begin_date                     | 2025-07-07
+end_date                       | 2028-07-06
 total_worker_positions         | 1
-soc_code                       | 25-1021.00
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | IBM Corporation
+soc_code                       | 15-1299.08
 h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-24285-402415
-job_title                      | ASSISTANT PROFESSOR OF BIOLOGY
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
-employer_poc_phone             | 13047665224
-employer_poc_first_name        | KRYSTAL
-employer_poc_last_name         | SMITH
-worksite_address1              | 5000 FAIRLAWN AVENUE
-worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN PC
-employer_address1              | 5000 FAIRLAWN AVE
-employer_address2              | 
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 1/13/2025
-end_date                       | 1/12/2028
-total_worker_positions         | 1
-soc_code                       | 25-1042
-h_1b_dependent                 | No
--[ RECORD 33 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22160-263829
-job_title                      | ASSISTANT PROFESSOR OF COMPUTER SCIENCE
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_poc_email             | JUSTIN.MCALLISTER@WVSTATEU.EDU
-employer_poc_phone             | 13047663061
-employer_poc_first_name        | JUSTIN
-employer_poc_last_name         | MCALLISTER
-worksite_address1              | 5000 FAIRLAWN AVENUE
-worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 5000 FAIRLAWN AVENUE
-employer_address2              | 
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 8/1/2022
-end_date                       | 7/31/2025
-total_worker_positions         | 1
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 34 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22063-951813
-job_title                      | PROFESSOR OF SOCIOLOGY
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_poc_email             | NECOLE.WASHINGTON@WVSTATEU.EDU
-employer_poc_phone             | 13047663152
-employer_poc_first_name        | NECOLE
-employer_poc_last_name         | WASHINGTON
-worksite_address1              | 5000 FAIRLAWN AVE
-worksite_address2              | 124 HILL HALL
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 5000 FAIRLAWN AVENUE
-employer_address2              | 
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 5/13/2022
-end_date                       | 5/12/2025
-total_worker_positions         | 1
-soc_code                       | 25-1067.00
-h_1b_dependent                 | No
--[ RECORD 35 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22076-986492
-job_title                      | ACCOUNTANT
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_poc_email             | CHRISTINA.DALTON@WVSTATEU.EDU
-employer_poc_phone             | 13047663061
-employer_poc_first_name        | CHRISTINA
-employer_poc_last_name         | DALTON
-worksite_address1              | 5000 FAIRLAWN AVENUE
-worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 5000 FAIRLAWN AVENUE
-employer_address2              | 
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 4/25/2022
-end_date                       | 4/24/2025
-total_worker_positions         | 1
-soc_code                       | 13-2011.01
-h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23261-355813
-job_title                      | ASSISTANT PROFESSOR OF COMP SCI & DIR OF CYBERSECURITY
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
-employer_poc_phone             | 13047665224
-employer_poc_first_name        | KRYSTAL
-employer_poc_last_name         | SMITH
-worksite_address1              | 5000 FAIRLAWN AVENUE
-worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN PC
-employer_address1              | 5000 FAIRLAWN AVENUE
-employer_address2              | 
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 9/26/2023
-end_date                       | 9/25/2026
-total_worker_positions         | 1
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21271-610382
-job_title                      | EXTENSION SPEC. & ASST. RESEARCH PROF. FOR HUMAN NUTRITION
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | 
-employer_poc_email             | SMITHAM@WVSTATEU.EDU
-employer_poc_phone             | 13047664291
-employer_poc_first_name        | AMI
-employer_poc_last_name         | SMITH
-worksite_address1              | 117 INTEGRATED RESEARCH & EXTENSION BUILDING
-worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 4015 FAIRLAWN AVENUE
-employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 1/14/2022
-end_date                       | 1/13/2025
-total_worker_positions         | 1
-soc_code                       | 11-9033.00
-h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22235-433340
-job_title                      | EXECUTIVE DIRECTOR OF INSTITUTIONAL RESEARCH
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | 
-employer_poc_email             | SSEITZ@WVSTATEU.EDU
-employer_poc_phone             | 13042044323
-employer_poc_first_name        | STEPHEN
-employer_poc_last_name         | SEITZ
-worksite_address1              | ROUTE 25 AND BARRON DR
-worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 4015 FAIRLAWN AVENUE
-employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 9/1/2022
-end_date                       | 8/31/2025
-total_worker_positions         | 1
-soc_code                       | 11-9033.00
-h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22025-852409
+-[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-25157-063601
 job_title                      | RESEARCH ASSISTANT
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | 
-employer_poc_email             | SSEITZ@WVSTATEU.EDU
-employer_poc_phone             | 13042044323
-employer_poc_first_name        | STEPHEN
-employer_poc_last_name         | SEITZ
-worksite_address1              | 4015 FAIRLAWN AVE
-worksite_address2              | 129 HAMBLIN HALL
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 4015 FAIRLAWN AVENUE
-employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 6/30/2022
-end_date                       | 6/29/2025
-total_worker_positions         | 1
-soc_code                       | 19-4021.00
-h_1b_dependent                 | No
--[ RECORD 40 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-22235-433425
-job_title                      | EXECUTIVE DIRECTOR OF INSTITUTIONAL RESEARCH
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | 
-employer_poc_email             | SSEITZ@WVSTATEU.EDU
-employer_poc_phone             | 13042044323
-employer_poc_first_name        | STEPHEN
-employer_poc_last_name         | SEITZ
-worksite_address1              | ROUTE 25 AND BARRON DR
-worksite_address2              | 
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 4015 FAIRLAWN AVENUE
-employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 9/1/2022
-end_date                       | 8/31/2025
-total_worker_positions         | 1
-soc_code                       | 11-9033.00
-h_1b_dependent                 | No
--[ RECORD 41 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23226-261878
-job_title                      | EXTENSION SPECIALIST & ASSISTANT RESEARCH PROFESSOR
-employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | 
-employer_poc_email             | KIMBERLY.DUFF@WVSTATEU.EDU
-employer_poc_phone             | 13042044323
+secondary_entity_business_name | WEST VIRGINIA STATE UNIVERSITY
+employer_phone                 | 13042044323
 employer_poc_first_name        | KIMBERLY
 employer_poc_last_name         | DUFF
-worksite_address1              | 4015 FAIRLAWN AVE
+employer_poc_email             | KIMBERLY.DUFF@WVSTATEU.EDU
+employer_poc_phone             | 13042044323
+employer_poc_phone_ext         | 
+worksite_address1              | 5000 FAIRLAWN AVENUE
 worksite_address2              | 
 worksite_city                  | INSTITUTE
 worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
+lawfirm_name_business_name     | BRAVLIN PC
 employer_address1              | 4015 FAIRLAWN AVENUE
 employer_address2              | 201 BYERS ADMIN BLDG
 employer_city                  | INSTITUTE
 employer_state                 | WV
 employer_postal_code           | 25112
-begin_date                     | 9/1/2023
-end_date                       | 8/31/2026
+begin_date                     | 2025-07-01
+end_date                       | 2028-06-30
 total_worker_positions         | 1
-soc_code                       | 11-9033.00
-h_1b_dependent                 | No
--[ RECORD 42 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-21340-744865
-job_title                      | ASSISTANT RESEARCH PROFESSOR
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
-secondary_entity_business_name | 
-employer_poc_email             | SSEITZ@WVSTATEU.EDU
-employer_poc_phone             | 13042044323
-employer_poc_first_name        | STEPHEN
-employer_poc_last_name         | SEITZ
-worksite_address1              | 4015 FAIRLAWN AVENUE
-worksite_address2              | 100 CURTIS COMPLEX
-worksite_city                  | INSTITUTE
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN P.C.
-employer_address1              | 4015 FAIRLAWN AVENUE
-employer_address2              | 201 ACEOP ADMINISTRATIVE BUILDING
-employer_city                  | INSTITUTE
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 3/14/2022
-end_date                       | 3/13/2025
-total_worker_positions         | 1
-soc_code                       | 17-2081.00
+soc_code                       | 19-4021
 h_1b_dependent                 | No
--[ RECORD 43 ]-----------------+----------------------------------------------------------------------------------
-case_number                    | I-200-23220-248126
-job_title                      | ACCOUNTANT SENIOR
-employer_name                  | West Virginia State University
-secondary_entity_business_name | 
-employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
-employer_poc_phone             | 13047665224
-employer_poc_first_name        | KRYSTAL
-employer_poc_last_name         | SMITH
-worksite_address1              | 5000 FAIRLAWN AVENUE
-worksite_address2              | 
-worksite_city                  | INSTITUTE
+-[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-25149-032431
+job_title                      | Database Administrator
+employer_name                  | Sonus Software Solutions Inc
+secondary_entity_business_name | West Virginia Department of Transportation
+employer_phone                 | 18017703133
+employer_poc_first_name        | Sonica
+employer_poc_last_name         | Kommu
+employer_poc_email             | info@sonussoftwareinc.com
+employer_poc_phone             | 18017703133
+employer_poc_phone_ext         | 
+worksite_address1              | 1900 Kanawah Boulevard East
+worksite_address2              | Building Five Room 10
+worksite_city                  | Charleston
 worksite_county                | KANAWHA
-lawfirm_name_business_name     | BRAVLIN PC
-employer_address1              | 5000 Fairlawn Avenue
+lawfirm_name_business_name     | 
+employer_address1              | 504 W 800 N
 employer_address2              | 
-employer_city                  | Institute
-employer_state                 | WV
-employer_postal_code           | 25112
-begin_date                     | 8/28/2023
-end_date                       | 8/27/2026
+employer_city                  | Orem
+employer_state                 | UT
+employer_postal_code           | 84057
+begin_date                     | 2025-06-02
+end_date                       | 2028-06-01
 total_worker_positions         | 1
-soc_code                       | 13-2011.00
-h_1b_dependent                 | No
--[ RECORD 44 ]-----------------+----------------------------------------------------------------------------------
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Sonus Software Solutions Inc
+soc_code                       | 15-1242
+h_1b_dependent                 | Yes
+-[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-24358-566669
+job_title                      | Web Application Developer
+employer_name                  | iZeal Inc
+secondary_entity_business_name | State of West Virginia - Office of Shared Administration
+employer_phone                 | 17037455280
+employer_poc_first_name        | Amrutha
+employer_poc_last_name         | Maddipati
+employer_poc_email             | hr@izealinc.com
+employer_poc_phone             | 17037455280
+employer_poc_phone_ext         | 
+worksite_address1              | 321 Capitol Street
+worksite_address2              | Suite 200
+worksite_city                  | Charleston
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | dehai tao immigration pllc
+employer_address1              | 46090 Lake Center Plaza
+employer_address2              | Suite 100
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20165
+begin_date                     | 2025-05-24
+end_date                       | 2028-05-23
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | iZeal Inc
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------
 case_number                    | I-200-25127-949462
 job_title                      | SPECIAL ASSISTANT TO THE PRESIDENT
 employer_name                  | West Virginia State University
 secondary_entity_business_name | 
-employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
-employer_poc_phone             | 13047665224
+employer_phone                 | 13047665224
 employer_poc_first_name        | KRYSTAL
 employer_poc_last_name         | SMITH
+employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
+employer_poc_phone             | 13047665224
+employer_poc_phone_ext         | 
 worksite_address1              | 5000 FAIRLAWN AVENUE
 worksite_address2              | 
 worksite_city                  | INSTITUTE
@@ -1049,20 +415,425 @@ employer_address2              |
 employer_city                  | Institute
 employer_state                 | WV
 employer_postal_code           | 25112
-begin_date                     | 5/19/2025
-end_date                       | 5/18/2028
+begin_date                     | 2025-05-19
+end_date                       | 2028-05-18
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | West Virginia State University
 soc_code                       | 13-1199
 h_1b_dependent                 | No
--[ RECORD 45 ]-----------------+----------------------------------------------------------------------------------
+-[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-24285-402415
+job_title                      | ASSISTANT PROFESSOR OF BIOLOGY
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 13047665224
+employer_poc_first_name        | KRYSTAL
+employer_poc_last_name         | SMITH
+employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
+employer_poc_phone             | 13047665224
+employer_poc_phone_ext         | 
+worksite_address1              | 5000 FAIRLAWN AVENUE
+worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 5000 FAIRLAWN AVE
+employer_address2              | 
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 2025-01-13
+end_date                       | 2028-01-12
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+soc_code                       | 25-1042
+h_1b_dependent                 | No
+-[ RECORD 15 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-24144-031989
+job_title                      | Senior Sharepoint Administrator
+employer_name                  | Spartan Solutions Inc
+secondary_entity_business_name | Department of Veterans Affairs
+employer_phone                 | 19012135255
+employer_poc_first_name        | Tracy
+employer_poc_last_name         | Thompson
+employer_poc_email             | tracythompson@spartansolutions.net
+employer_poc_phone             | 19012135255
+employer_poc_phone_ext         | 
+worksite_address1              | 221 Butler Avenue
+worksite_address2              | Bldg 511
+worksite_city                  | Martinsburg
+worksite_county                | BERKELEY
+lawfirm_name_business_name     | The Law Office of Luke Bowman
+employer_address1              | 338 New Byhalia Road, Suite 1
+employer_address2              | 
+employer_city                  | Collierville
+employer_state                 | TN
+employer_postal_code           | 38017
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Spartan Solutions Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 16 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-24115-922684
+job_title                      | Sr. Programmer Analyst
+employer_name                  | iZeal Inc
+secondary_entity_business_name | End client  State of West Virginia
+employer_phone                 | 17037455280
+employer_poc_first_name        | Amrutha
+employer_poc_last_name         | Maddipati
+employer_poc_email             | hr@izealinc.com
+employer_poc_phone             | 17037455280
+employer_poc_phone_ext         | 
+worksite_address1              | 321 Capitol Street, One Davis Square
+worksite_address2              | Suite 200
+worksite_city                  | Charleston
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | Law Offices of Claudia Y. Tsou
+employer_address1              | 46090 LAKE CENTER PLAZA
+employer_address2              | Suite 100
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20165
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | iZeal Inc
+soc_code                       | 15-1251.00
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-24173-137821
+job_title                      | Computational Development and Applications Engineer
+employer_name                  | Leidos Inc
+secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
+employer_phone                 | 17032310939
+employer_poc_first_name        | Cameron
+employer_poc_last_name         | Villa
+employer_poc_email             | cameron.t.villa@leidos.com
+employer_poc_phone             | 17036644811
+employer_poc_phone_ext         | 
+worksite_address1              | 3610 Collins Ferry Road
+worksite_address2              | 
+worksite_city                  | Morgantown
+worksite_county                | MONONGALIA
+lawfirm_name_business_name     | Morgan Lewis & Bockius LLP
+employer_address1              | 1750 Presidents Street
+employer_address2              | 
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20190
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Leidos Inc
+soc_code                       | 17-2141.00
+h_1b_dependent                 | No
+-[ RECORD 18 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-24205-215340
+job_title                      | ASSISTANT PROFESSOR OF COMPUTER SCIENCE
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 13047665224
+employer_poc_first_name        | KRYSTAL
+employer_poc_last_name         | SMITH
+employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
+employer_poc_phone             | 13047665224
+employer_poc_phone_ext         | 
+worksite_address1              | 5000 FAIRLAWN AVENUE
+worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 5000 FAIRLAWN AVE
+employer_address2              | 
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 2024-08-13
+end_date                       | 2027-08-12
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 19 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-24072-791021
+job_title                      | ACCOUNTANT
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 13047665224
+employer_poc_first_name        | KRYSTAL
+employer_poc_last_name         | SMITH
+employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
+employer_poc_phone             | 13047665224
+employer_poc_phone_ext         | 
+worksite_address1              | 5000 FAIRLAWN AVENUE
+worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 5000 FAIRLAWN AVE
+employer_address2              | 
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 2024-05-21
+end_date                       | 2027-05-20
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+soc_code                       | 13-2011.00
+h_1b_dependent                 | No
+-[ RECORD 20 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-24023-659493
+job_title                      | Testing Manager
+employer_name                  | Gantec Corporation
+secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)
+employer_phone                 | 18478857655
+employer_poc_first_name        | Venkat
+employer_poc_last_name         | Ravilla
+employer_poc_email             | vr@gantecusa.com
+employer_poc_phone             | 18478857655
+employer_poc_phone_ext         | 
+worksite_address1              | 300 Capitol Street
+worksite_address2              | suite    1610
+worksite_city                  | Charleston
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 1000 E. Woodfield Road
+employer_address2              | suite 242
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60173
+begin_date                     | 2024-05-09
+end_date                       | 2027-05-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Gantec Corporation
+soc_code                       | 15-1299.09
+h_1b_dependent                 | No
+-[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-24054-742181
+job_title                      | Testing Manager
+employer_name                  | Gantec Corporation
+secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)/Berry Dunn
+employer_phone                 | 18478857655
+employer_poc_first_name        | Venkat
+employer_poc_last_name         | Ravilla
+employer_poc_email             | vr@gantecusa.com
+employer_poc_phone             | 18478857655
+employer_poc_phone_ext         | 
+worksite_address1              | 300 Capitol Street (Berry Dunn address)
+worksite_address2              | suite   1610
+worksite_city                  | Charleston
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 1000 E. Woodfield Road
+employer_address2              | suite 242
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60173
+begin_date                     | 2024-05-09
+end_date                       | 2027-05-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Gantec Corporation
+soc_code                       | 15-1299.09
+h_1b_dependent                 | No
+-[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-23192-179115
+job_title                      | Coldfusion Software Engineer
+employer_name                  | Adroit Associates Inc
+secondary_entity_business_name | U.S Department of Veterans Affairs
+employer_phone                 | 17325169600
+employer_poc_first_name        | PRASADA
+employer_poc_last_name         | INDUKURI
+employer_poc_email             | immigration@adroitassociates.com
+employer_poc_phone             | 17325169600
+employer_poc_phone_ext         | 
+worksite_address1              | 221 Buttler Ave, Building 511
+worksite_address2              | 
+worksite_city                  | Martinsburg
+worksite_county                | BERKELEY
+lawfirm_name_business_name     | Lamboley Law FIrm LLC
+employer_address1              | 100 Wood Avenue South
+employer_address2              | Suite 108
+employer_city                  | Iselin
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2024-01-01
+end_date                       | 2026-12-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Adroit Associates Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 23 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-23136-026840
+job_title                      | Systems Engineer Senior
+employer_name                  | Spartan Solutions Inc
+secondary_entity_business_name | Department of Veteran Affairs
+employer_phone                 | 19012135255
+employer_poc_first_name        | Tracy
+employer_poc_last_name         | Thompson
+employer_poc_email             | tracypeters@spartansolutions.net
+employer_poc_phone             | 19012135255
+employer_poc_phone_ext         | 
+worksite_address1              | 221 Butler Avenue
+worksite_address2              | Building 511
+worksite_city                  | Martinsburg
+worksite_county                | BERKELEY
+lawfirm_name_business_name     | The Law Office of Luke Bowman
+employer_address1              | 338 New Byhalia Road, Suite 1
+employer_address2              | 
+employer_city                  | Collierville
+employer_state                 | TN
+employer_postal_code           | 38017
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Spartan Solutions Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 24 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-23157-082631
+job_title                      | .Net Developer
+employer_name                  | Insource Tech LLC
+secondary_entity_business_name | Sate of West Virginia-Department of Health & human Resources (DHHR)
+employer_phone                 | 15715519617
+employer_poc_first_name        | MATHEW
+employer_poc_last_name         | POOVATHANY
+employer_poc_email             | teja@insourcetechsolutions.com
+employer_poc_phone             | 15715519617
+employer_poc_phone_ext         | 
+worksite_address1              | 321 Capitol Street
+worksite_address2              | 
+worksite_city                  | Charleston
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BBI LAW GROUP,P.C.
+employer_address1              | 1 Marion rd
+employer_address2              | Westport
+employer_city                  | Westport
+employer_state                 | CT
+employer_postal_code           | 06880
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Insource Tech LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 25 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-23261-355813
+job_title                      | ASSISTANT PROFESSOR OF COMP SCI & DIR OF CYBERSECURITY
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 13047665224
+employer_poc_first_name        | KRYSTAL
+employer_poc_last_name         | SMITH
+employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
+employer_poc_phone             | 13047665224
+employer_poc_phone_ext         | 
+worksite_address1              | 5000 FAIRLAWN AVENUE
+worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 5000 FAIRLAWN AVENUE
+employer_address2              | 
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 2023-09-26
+end_date                       | 2026-09-25
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 26 ]-----------------+--------------------------------------------------------------------------------------
 case_number                    | I-200-23238-298483
 job_title                      | Director of Cybersecurity
 employer_name                  | West Virginia State University
 secondary_entity_business_name | 
-employer_poc_email             | krystal.smith@wvstateu.edu
-employer_poc_phone             | 13047665224
+employer_phone                 | 13047665224
 employer_poc_first_name        | Krystal
 employer_poc_last_name         | Smith
+employer_poc_email             | krystal.smith@wvstateu.edu
+employer_poc_phone             | 13047665224
+employer_poc_phone_ext         | 
 worksite_address1              | 5000 Fairlawn Avenue
 worksite_address2              | 
 worksite_city                  | Institute
@@ -1073,9 +844,181 @@ employer_address2              |
 employer_city                  | Institute
 employer_state                 | WV
 employer_postal_code           | 25112
-begin_date                     | 9/6/2023
-end_date                       | 9/5/2026
+begin_date                     | 2023-09-06
+end_date                       | 2026-09-05
 total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | West Virginia State University
 soc_code                       | 11-9033.00
+h_1b_dependent                 | No
+-[ RECORD 27 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-23226-261878
+job_title                      | EXTENSION SPECIALIST & ASSISTANT RESEARCH PROFESSOR
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
+secondary_entity_business_name | 
+employer_phone                 | 13042044323
+employer_poc_first_name        | KIMBERLY
+employer_poc_last_name         | DUFF
+employer_poc_email             | KIMBERLY.DUFF@WVSTATEU.EDU
+employer_poc_phone             | 13042044323
+employer_poc_phone_ext         | 
+worksite_address1              | 4015 FAIRLAWN AVE
+worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 4015 FAIRLAWN AVENUE
+employer_address2              | 201 BYERS ADMIN BLDG
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 2023-09-01
+end_date                       | 2026-08-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
+soc_code                       | 11-9033.00
+h_1b_dependent                 | No
+-[ RECORD 28 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-23220-248126
+job_title                      | ACCOUNTANT SENIOR
+employer_name                  | West Virginia State University
+secondary_entity_business_name | 
+employer_phone                 | 13047665224
+employer_poc_first_name        | KRYSTAL
+employer_poc_last_name         | SMITH
+employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
+employer_poc_phone             | 13047665224
+employer_poc_phone_ext         | 
+worksite_address1              | 5000 FAIRLAWN AVENUE
+worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 5000 Fairlawn Avenue
+employer_address2              | 
+employer_city                  | Institute
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 2023-08-28
+end_date                       | 2026-08-27
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | West Virginia State University
+soc_code                       | 13-2011.00
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-23192-181575
+job_title                      | Catalyst Synthesis Research Scientist
+employer_name                  | Leidos Inc
+secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
+employer_phone                 | 17032310939
+employer_poc_first_name        | Cameron
+employer_poc_last_name         | Villa
+employer_poc_email             | cameron.t.villa@leidos.com
+employer_poc_phone             | 17036644811
+employer_poc_phone_ext         | 
+worksite_address1              | 3610 Collins Ferry Rd.
+worksite_address2              | 
+worksite_city                  | Morgantown
+worksite_county                | MONONGALIA
+lawfirm_name_business_name     | Morgan Lewis & Bockius LLP
+employer_address1              | 1750 Presidents Street
+employer_address2              | 
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20190
+begin_date                     | 2023-08-28
+end_date                       | 2026-08-27
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Leidos Inc
+soc_code                       | 19-2032.00
+h_1b_dependent                 | No
+-[ RECORD 30 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-23128-003081
+job_title                      | Systems Engineer Senior
+employer_name                  | Spartan Solutions Inc
+secondary_entity_business_name | Department of Veteran Affairs
+employer_phone                 | 19012135255
+employer_poc_first_name        | Tracy
+employer_poc_last_name         | Thompson
+employer_poc_email             | tracypeters@spartansolutions.net
+employer_poc_phone             | 19012135255
+employer_poc_phone_ext         | 
+worksite_address1              | 221 Butler Avenue, Building 511
+worksite_address2              | 
+worksite_city                  | Martinsburg
+worksite_county                | BERKELEY
+lawfirm_name_business_name     | The Law Office of Luke Bowman
+employer_address1              | 338 New Byhalia Road, Suite 1
+employer_address2              | 
+employer_city                  | Collierville
+employer_state                 | TN
+employer_postal_code           | 38017
+begin_date                     | 2023-05-18
+end_date                       | 2026-05-17
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Spartan Solutions Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 31 ]-----------------+--------------------------------------------------------------------------------------
+case_number                    | I-200-23086-880234
+job_title                      | Polymer/Organic Chemist
+employer_name                  | Leidos Inc
+secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
+employer_phone                 | 17032310939
+employer_poc_first_name        | Jodi
+employer_poc_last_name         | Wright
+employer_poc_email             | Jodi.L.Wright@leidos.com
+employer_poc_phone             | 13106259863
+employer_poc_phone_ext         | 
+worksite_address1              | 3610 Collins Ferry Rd.
+worksite_address2              | 
+worksite_city                  | Morgantown
+worksite_county                | MONONGALIA
+lawfirm_name_business_name     | Morgan Lewis & Bockius LLP
+employer_address1              | 1750 Presidents Street
+employer_address2              | 
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20190
+begin_date                     | 2023-05-01
+end_date                       | 2026-04-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Leidos Inc
+soc_code                       | 19-2031.00
 h_1b_dependent                 | No
 
