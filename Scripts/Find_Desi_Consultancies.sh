@@ -12,13 +12,13 @@ select
 	count(EMPLOYER_NAME) OVER (partition by upper(EMPLOYER_ADDRESS1)) as count,
 	EMPLOYER_NAME,
 	EMPLOYER_ADDRESS1,
-	EMPLOYER_ADDRESS2,
-	EMPLOYER_CITY
-	from LCA_Disclosure_Data_2022To2025Q4
+	EMPLOYER_CITY,
+	EMPLOYER_STATE
+	from desiconsultancies
 	where EMPLOYER_STATE = '$abbr'
 	and NAICS_CODE like '541%'
-	group by EMPLOYER_NAME, EMPLOYER_ADDRESS1, EMPLOYER_ADDRESS2, EMPLOYER_CITY
-	order by count desc, EMPLOYER_ADDRESS1, EMPLOYER_ADDRESS2 asc;
+	group by EMPLOYER_NAME, EMPLOYER_ADDRESS1, EMPLOYER_STATE, EMPLOYER_CITY
+	order by count desc, EMPLOYER_NAME asc;
 "
 /usr/local/pgsql/bin/psql -A -d lca_data -c "$q" > ../Investigation/$fname"_Desi_Consultancy.csv"
 
