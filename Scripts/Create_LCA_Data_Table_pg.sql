@@ -1,7 +1,7 @@
 drop table if exists LCA_Disclosure_Data_2022To2025Q4;
 
-create table LCA_Disclosure_Data_2022To2025Q4 (
-CASE_NUMBER char(18) PRIMARY KEY,
+create table LCA_Disclosure_Data_2022To2026Q2 (
+CASE_NUMBER char(18),
 CASE_STATUS text,
 RECEIVED_DATE date,
 DECISION_DATE date,
