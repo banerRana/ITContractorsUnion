@@ -1,0 +1,63 @@
+-[ RECORD 1 ]------------------+------------------------------------------------------------
+case_number                    | I-200-22286-528718
+job_title                      | Software Applications Developer
+full_time_position             | Y
+employer_name                  | Webject Systems Inc
+secondary_entity_business_name | NewJerseyDepartmentofHuman Services (Remote work from home)
+employer_poc_email             | madhu@webject.com
+employer_poc_phone             | 15082796562
+employer_poc_first_name        | Madhu
+employer_poc_last_name         | Rao
+worksite_address1              | 120 Crossing Drive
+worksite_address2              | Apt 201
+worksite_city                  | Cumberland
+worksite_county                | CUMBERLAND
+lawfirm_name_business_name     | 
+employer_address1              | 25 Central Square
+employer_address2              | Suite 2
+employer_city                  | Bridgewater
+employer_state                 | MA
+employer_postal_code           | 02324
+begin_date                     | 2023-01-01
+end_date                       | 2025-12-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 2 ]------------------+------------------------------------------------------------
+case_number                    | I-200-22171-297658
+job_title                      | IT Consultant (JAVA Developer)
+full_time_position             | Y
+employer_name                  | Infosmart Technologies Inc
+secondary_entity_business_name | Remote Work From Home for State of Rhode Island (DOA)
+employer_poc_email             | hr@infosmarttech.com
+employer_poc_phone             | 16789332226
+employer_poc_first_name        | Karun
+employer_poc_last_name         | Asireddy
+worksite_address1              | 825 Pontiac Ave
+worksite_address2              | Apt 19204
+worksite_city                  | Cranston
+worksite_county                | CRANSTON CITY
+lawfirm_name_business_name     | Mannam & Associates LLC
+employer_address1              | 5400 Laurel Springs Parkway
+employer_address2              | Suite 706
+employer_city                  | Suwanee
+employer_state                 | GA
+employer_postal_code           | 30024
+begin_date                     | 2022-06-20
+end_date                       | 2025-06-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+

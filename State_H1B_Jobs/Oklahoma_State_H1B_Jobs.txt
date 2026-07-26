@@ -263,39 +263,6 @@ employer_name                  | Southwestern Oklahoma State University
 soc_code                       | 25-1066.00
 h_1b_dependent                 | No
 -[ RECORD 9 ]------------------+----------------------------------------------------------
-case_number                    | I-200-25210-207000
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | 
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2026-01-01
-end_date                       | 2028-12-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1063.00
-h_1b_dependent                 | No
--[ RECORD 10 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25213-215192
 job_title                      | Communications Coordinator
 employer_name                  | Oklahoma State University
@@ -328,7 +295,7 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 27-3031.00
 h_1b_dependent                 | No
--[ RECORD 11 ]-----------------+----------------------------------------------------------
+-[ RECORD 10 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25254-302409
 job_title                      | Senior Research Specialist II
 employer_name                  | Oklahoma State University
@@ -361,9 +328,42 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
+-[ RECORD 11 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25210-207000
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | 
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2026-01-01
+end_date                       | 2028-12-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1063.00
+h_1b_dependent                 | No
 -[ RECORD 12 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25268-334124
-job_title                      | Associate Professor
+case_number                    | I-200-25230-248125
+job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
 employer_phone                 | 14057445459
@@ -395,8 +395,8 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 13 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25230-248125
-job_title                      | Assistant Professor
+case_number                    | I-200-25268-334124
+job_title                      | Associate Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
 employer_phone                 | 14057445459
@@ -494,39 +494,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1042.00
 h_1b_dependent                 | No
 -[ RECORD 16 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25169-106374
-job_title                      | Clinical Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-11-30
-end_date                       | 2028-11-29
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1071
-h_1b_dependent                 | No
--[ RECORD 17 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25181-139204
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -558,6 +525,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 17 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25169-106374
+job_title                      | Clinical Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2025-11-30
+end_date                       | 2028-11-29
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1071
 h_1b_dependent                 | No
 -[ RECORD 18 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25223-233427
@@ -989,6 +989,39 @@ employer_name                  | Southwestern Oklahoma State University
 soc_code                       | 25-1042
 h_1b_dependent                 | No
 -[ RECORD 31 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25149-029740
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2025-08-16
+end_date                       | 2028-08-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1022
+h_1b_dependent                 | No
+-[ RECORD 32 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25059-732641
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -1021,7 +1054,7 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1011
 h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+----------------------------------------------------------
+-[ RECORD 33 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25073-777527
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -1054,7 +1087,7 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1052
 h_1b_dependent                 | No
--[ RECORD 33 ]-----------------+----------------------------------------------------------
+-[ RECORD 34 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25098-841139
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -1086,39 +1119,6 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1054
-h_1b_dependent                 | No
--[ RECORD 34 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25149-029740
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-08-16
-end_date                       | 2028-08-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1022
 h_1b_dependent                 | No
 -[ RECORD 35 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25204-194102
@@ -1187,39 +1187,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1054.00
 h_1b_dependent                 | No
 -[ RECORD 37 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25107-876704
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-08-15
-end_date                       | 2028-08-14
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1066
-h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25181-139736
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -1251,6 +1218,39 @@ change_employer                | 1
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 38 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25107-876704
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2025-08-15
+end_date                       | 2028-08-14
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1066
 h_1b_dependent                 | No
 -[ RECORD 39 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25055-719698
@@ -1550,138 +1550,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 48 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25048-700528
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 49 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25121-926169
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1011
-h_1b_dependent                 | No
--[ RECORD 50 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25115-907190
-job_title                      | Professor of Professional Science
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 51 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25134-974044
-job_title                      | Professor of Professional Practice
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 52 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25059-733212
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -1714,7 +1582,40 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1126
 h_1b_dependent                 | No
--[ RECORD 53 ]-----------------+----------------------------------------------------------
+-[ RECORD 49 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25048-700528
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 50 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25113-896413
 job_title                      | Area Extension Ag Economics Specialist
 employer_name                  | Oklahoma State University
@@ -1747,7 +1648,73 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-9021
 h_1b_dependent                 | No
--[ RECORD 54 ]-----------------+----------------------------------------------------------
+-[ RECORD 51 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25115-907190
+job_title                      | Professor of Professional Science
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 52 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25121-926169
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1011
+h_1b_dependent                 | No
+-[ RECORD 53 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25071-769205
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -1779,6 +1746,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1126
+h_1b_dependent                 | No
+-[ RECORD 54 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25134-974044
+job_title                      | Professor of Professional Practice
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 55 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25160-067840
@@ -2342,39 +2342,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 72 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25049-702651
-job_title                      | Assistant Professor of Professional Practice
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-06-01
-end_date                       | 2028-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1122
-h_1b_dependent                 | No
--[ RECORD 73 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-24338-513383
 job_title                      | Director, Center for Applied Economic Research
 employer_name                  | Oklahoma State University
@@ -2406,6 +2373,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 19-3011
+h_1b_dependent                 | No
+-[ RECORD 73 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25049-702651
+job_title                      | Assistant Professor of Professional Practice
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2025-06-01
+end_date                       | 2028-05-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1122
 h_1b_dependent                 | No
 -[ RECORD 74 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25127-951360
@@ -2507,39 +2507,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1199
 h_1b_dependent                 | No
 -[ RECORD 77 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-25057-726822
-job_title                      | System Analyst
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-04-21
-end_date                       | 2028-04-20
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 15-2031
-h_1b_dependent                 | No
--[ RECORD 78 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-25048-700609
 job_title                      | System Analyst
 employer_name                  | Oklahoma State University
@@ -2566,6 +2533,39 @@ total_worker_positions         | 1
 new_employment                 | 0
 continued_employment           | 1
 change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 15-2031
+h_1b_dependent                 | No
+-[ RECORD 78 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-25057-726822
+job_title                      | System Analyst
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2025-04-21
+end_date                       | 2028-04-20
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
@@ -2903,39 +2903,6 @@ employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 89 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24170-123379
-job_title                      | Post-Doctoral Fellow
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2024-12-01
-end_date                       | 2027-11-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 90 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-24268-361154
 job_title                      | Application Developer
 employer_name                  | Oklahoma State University
@@ -2967,6 +2934,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 90 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-24170-123379
+job_title                      | Post-Doctoral Fellow
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2024-12-01
+end_date                       | 2027-11-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 91 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-24226-264826
@@ -3134,39 +3134,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 96 ]-----------------+----------------------------------------------------------
-case_number                    | I-200-24229-272920
-job_title                      | Director of Digital Innovation Commercialization
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2024-09-01
-end_date                       | 2027-08-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Oklahoma State University
-soc_code                       | 11-2021.00
-h_1b_dependent                 | No
--[ RECORD 97 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-24220-252441
 job_title                      | Assistant Sports Psychology/Mental Toughness Tennis Coach
 employer_name                  | Oklahoma State University
@@ -3198,6 +3165,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 27-2022.00
+h_1b_dependent                 | No
+-[ RECORD 97 ]-----------------+----------------------------------------------------------
+case_number                    | I-200-24229-272920
+job_title                      | Director of Digital Innovation Commercialization
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2024-09-01
+end_date                       | 2027-08-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Oklahoma State University
+soc_code                       | 11-2021.00
 h_1b_dependent                 | No
 -[ RECORD 98 ]-----------------+----------------------------------------------------------
 case_number                    | I-200-24220-251374
@@ -3332,39 +3332,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1022.00
 h_1b_dependent                 | No
 -[ RECORD 102 ]----------------+----------------------------------------------------------
-case_number                    | I-200-24081-819212
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2024-08-15
-end_date                       | 2027-08-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1063.00
-h_1b_dependent                 | No
--[ RECORD 103 ]----------------+----------------------------------------------------------
 case_number                    | I-200-24169-119196
 job_title                      | Post-Doctoral Fellow
 employer_name                  | Oklahoma State University
@@ -3396,6 +3363,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 19-4021.00
+h_1b_dependent                 | No
+-[ RECORD 103 ]----------------+----------------------------------------------------------
+case_number                    | I-200-24081-819212
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2024-08-15
+end_date                       | 2027-08-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1063.00
 h_1b_dependent                 | No
 -[ RECORD 104 ]----------------+----------------------------------------------------------
 case_number                    | I-200-24204-212631
@@ -3431,39 +3431,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 105 ]----------------+----------------------------------------------------------
-case_number                    | I-200-24169-118719
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2024-08-05
-end_date                       | 2027-08-04
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1066.00
-h_1b_dependent                 | No
--[ RECORD 106 ]----------------+----------------------------------------------------------
 case_number                    | I-200-24149-040988
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -3496,7 +3463,7 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1199.00
 h_1b_dependent                 | No
--[ RECORD 107 ]----------------+----------------------------------------------------------
+-[ RECORD 106 ]----------------+----------------------------------------------------------
 case_number                    | I-200-24138-009851
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -3528,6 +3495,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1199.00
+h_1b_dependent                 | No
+-[ RECORD 107 ]----------------+----------------------------------------------------------
+case_number                    | I-200-24169-118719
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 201 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Matthew D. Stump PC
+employer_address1              | 201 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2024-08-05
+end_date                       | 2027-08-04
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1066.00
 h_1b_dependent                 | No
 -[ RECORD 108 ]----------------+----------------------------------------------------------
 case_number                    | I-200-24141-014068
@@ -3629,8 +3629,8 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 111 ]----------------+----------------------------------------------------------
-case_number                    | I-200-24078-808444
-job_title                      | Assistant Professor
+case_number                    | I-200-24123-951483
+job_title                      | Assistant Professor - TT
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
 employer_phone                 | 14057445459
@@ -3695,8 +3695,8 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 113 ]----------------+----------------------------------------------------------
-case_number                    | I-200-24123-951483
-job_title                      | Assistant Professor - TT
+case_number                    | I-200-24179-153305
+job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
 employer_phone                 | 14057445459
@@ -3728,7 +3728,7 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 114 ]----------------+----------------------------------------------------------
-case_number                    | I-200-24179-153305
+case_number                    | I-200-24078-808444
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -3794,7 +3794,7 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1022.00
 h_1b_dependent                 | No
 -[ RECORD 116 ]----------------+----------------------------------------------------------
-case_number                    | I-200-24051-733145
+case_number                    | I-200-24169-120713
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -3804,12 +3804,12 @@ employer_poc_last_name         | Scott
 employer_poc_email             | elizabeth.scott@okstate.edu
 employer_poc_phone             | 14057443205
 employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
+worksite_address1              | 201 General Academic Building
 worksite_address2              | 
 worksite_city                  | Stillwater
 worksite_county                | PAYNE
 lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 401 General Academic Building
+employer_address1              | 201 General Academic Building
 employer_address2              | 
 employer_city                  | Stillwater
 employer_state                 | OK
@@ -3824,7 +3824,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
-soc_code                       | 19-1042.00
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 117 ]----------------+----------------------------------------------------------
 case_number                    | I-200-24165-106993
@@ -3860,7 +3860,7 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 118 ]----------------+----------------------------------------------------------
-case_number                    | I-200-24169-120713
+case_number                    | I-200-24051-733145
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -3870,12 +3870,12 @@ employer_poc_last_name         | Scott
 employer_poc_email             | elizabeth.scott@okstate.edu
 employer_poc_phone             | 14057443205
 employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
+worksite_address1              | 401 General Academic Building
 worksite_address2              | 
 worksite_city                  | Stillwater
 worksite_county                | PAYNE
 lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
+employer_address1              | 401 General Academic Building
 employer_address2              | 
 employer_city                  | Stillwater
 employer_state                 | OK
@@ -3890,7 +3890,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
-soc_code                       | 25-1011.00
+soc_code                       | 19-1042.00
 h_1b_dependent                 | No
 -[ RECORD 119 ]----------------+----------------------------------------------------------
 case_number                    | I-200-24057-748014
@@ -4751,39 +4751,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 19-4021.00
 h_1b_dependent                 | No
 -[ RECORD 145 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23240-300105
-job_title                      | Technology and Business Development Manager
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2024-01-15
-end_date                       | 2027-01-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 11-2021.00
-h_1b_dependent                 | No
--[ RECORD 146 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23262-357847
 job_title                      | Technology and Business Development Manager
 employer_name                  | Oklahoma State University
@@ -4813,6 +4780,39 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
+employer_name                  | Oklahoma State University
+soc_code                       | 11-2021.00
+h_1b_dependent                 | No
+-[ RECORD 146 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23240-300105
+job_title                      | Technology and Business Development Manager
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2024-01-15
+end_date                       | 2027-01-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 11-2021.00
 h_1b_dependent                 | No
@@ -4850,39 +4850,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 15-1244.00
 h_1b_dependent                 | No
 -[ RECORD 148 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23298-455182
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2024-01-01
-end_date                       | 2026-12-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 149 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23306-473839
 job_title                      | Assistant Professor (Small Grains Extension Specialist)
 employer_name                  | Oklahoma State University
@@ -4915,41 +4882,8 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
--[ RECORD 150 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23310-480106
-job_title                      | Post-Doctoral Fellow
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2024-01-01
-end_date                       | 2026-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 17-2144.00
-h_1b_dependent                 | No
--[ RECORD 151 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23193-182705
+-[ RECORD 149 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23298-455182
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -4973,15 +4907,15 @@ begin_date                     | 2024-01-01
 end_date                       | 2026-12-31
 total_worker_positions         | 1
 new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
+continued_employment           | 0
+change_previous_employment     | 1
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
-soc_code                       | 19-2042.00
+soc_code                       | 19-1013.00
 h_1b_dependent                 | No
--[ RECORD 152 ]----------------+----------------------------------------------------------
+-[ RECORD 150 ]----------------+----------------------------------------------------------
 case_number                    | I-200-24155-062902
 job_title                      | Post-Doctoral Fellow
 employer_name                  | Oklahoma State University
@@ -5014,7 +4948,7 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 17-2041.00
 h_1b_dependent                 | No
--[ RECORD 153 ]----------------+----------------------------------------------------------
+-[ RECORD 151 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23318-500276
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -5046,6 +4980,72 @@ change_employer                | 1
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1054.00
+h_1b_dependent                 | No
+-[ RECORD 152 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23310-480106
+job_title                      | Post-Doctoral Fellow
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2024-01-01
+end_date                       | 2026-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 17-2144.00
+h_1b_dependent                 | No
+-[ RECORD 153 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23193-182705
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2024-01-01
+end_date                       | 2026-12-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 19-2042.00
 h_1b_dependent                 | No
 -[ RECORD 154 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23312-486200
@@ -5081,7 +5081,7 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 -[ RECORD 155 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23265-371489
+case_number                    | I-200-23313-491877
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -5104,11 +5104,11 @@ employer_postal_code           | 74078
 begin_date                     | 2023-12-31
 end_date                       | 2026-12-30
 total_worker_positions         | 1
-new_employment                 | 1
+new_employment                 | 0
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
-change_employer                | 0
+change_employer                | 1
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
@@ -5147,7 +5147,7 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 157 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23313-491877
+case_number                    | I-200-23265-371489
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -5170,39 +5170,6 @@ employer_postal_code           | 74078
 begin_date                     | 2023-12-31
 end_date                       | 2026-12-30
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 158 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23193-182698
-job_title                      | Research Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-12-15
-end_date                       | 2026-12-14
-total_worker_positions         | 1
 new_employment                 | 1
 continued_employment           | 0
 change_previous_employment     | 0
@@ -5210,9 +5177,9 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
-soc_code                       | 25-1031.00
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 159 ]----------------+----------------------------------------------------------
+-[ RECORD 158 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23282-417960
 job_title                      | Research Assistant Professor
 employer_name                  | Oklahoma State University
@@ -5245,7 +5212,73 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1041.00
 h_1b_dependent                 | No
+-[ RECORD 159 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23193-182698
+job_title                      | Research Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-12-15
+end_date                       | 2026-12-14
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1031.00
+h_1b_dependent                 | No
 -[ RECORD 160 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23286-429847
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-12-04
+end_date                       | 2026-12-03
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1011.00
+h_1b_dependent                 | No
+-[ RECORD 161 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23313-489889
 job_title                      | Research Lab Manager
 employer_name                  | Oklahoma State University
@@ -5278,41 +5311,8 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 19-4021.00
 h_1b_dependent                 | No
--[ RECORD 161 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23283-421825
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-12-04
-end_date                       | 2026-12-03
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
 -[ RECORD 162 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23286-429847
+case_number                    | I-200-23283-421825
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -5378,39 +5378,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 29-1131.00
 h_1b_dependent                 | No
 -[ RECORD 164 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23276-406631
-job_title                      | Academic Advisor, III
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-12-01
-end_date                       | 2026-11-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 21-1012.00
-h_1b_dependent                 | No
--[ RECORD 165 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23292-444439
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -5442,6 +5409,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 165 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23276-406631
+job_title                      | Academic Advisor, III
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-12-01
+end_date                       | 2026-11-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 21-1012.00
 h_1b_dependent                 | No
 -[ RECORD 166 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23279-415698
@@ -5642,38 +5642,38 @@ employer_name                  | Oklahoma State University
 soc_code                       | 19-4021.00
 h_1b_dependent                 | No
 -[ RECORD 172 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23111-956262
-job_title                      | Lead Software Developer
-employer_name                  | Orion Systems Integrators LLC
-secondary_entity_business_name | Oklahoma Department of Career and Technology Education
-employer_phone                 | 17323846101
-employer_poc_first_name        | Saloni
-employer_poc_last_name         | Mishra
-employer_poc_email             | LCAH1@ORIONINC.COM
-employer_poc_phone             | 17323846101
+case_number                    | I-200-23220-247691
+job_title                      | Research Associate
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
 employer_poc_phone_ext         | 
-worksite_address1              | 1500 West 7th Avenue
+worksite_address1              | 401 General Academic Building
 worksite_address2              | 
 worksite_city                  | Stillwater
 worksite_county                | PAYNE
-lawfirm_name_business_name     | 
-employer_address1              | 333 Thornall Street
-employer_address2              | Suite 703
-employer_city                  | Edison
-employer_state                 | NJ
-employer_postal_code           | 08837
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
 begin_date                     | 2023-10-16
 end_date                       | 2026-10-15
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Orion Systems Integrators LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
+employer_name                  | Oklahoma State University
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
 -[ RECORD 173 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23255-340409
 job_title                      | Assistant Professor
@@ -5708,38 +5708,38 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1042.00
 h_1b_dependent                 | No
 -[ RECORD 174 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23220-247691
-job_title                      | Research Associate
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
+case_number                    | I-200-23111-956262
+job_title                      | Lead Software Developer
+employer_name                  | Orion Systems Integrators LLC
+secondary_entity_business_name | Oklahoma Department of Career and Technology Education
+employer_phone                 | 17323846101
+employer_poc_first_name        | Saloni
+employer_poc_last_name         | Mishra
+employer_poc_email             | LCAH1@ORIONINC.COM
+employer_poc_phone             | 17323846101
 employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
+worksite_address1              | 1500 West 7th Avenue
 worksite_address2              | 
 worksite_city                  | Stillwater
 worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
+lawfirm_name_business_name     | 
+employer_address1              | 333 Thornall Street
+employer_address2              | Suite 703
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08837
 begin_date                     | 2023-10-16
 end_date                       | 2026-10-15
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
+employer_name                  | Orion Systems Integrators LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 175 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23223-259299
 job_title                      | Physician
@@ -6005,39 +6005,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1022.00
 h_1b_dependent                 | No
 -[ RECORD 183 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23200-200828
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-08-21
-end_date                       | 2026-08-20
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 184 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23159-091751
 job_title                      | Laboratory Manager
 employer_name                  | Oklahoma State University
@@ -6070,8 +6037,8 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 19-4021.00
 h_1b_dependent                 | No
--[ RECORD 185 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23080-866858
+-[ RECORD 184 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23200-200828
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -6091,19 +6058,19 @@ employer_address2              |
 employer_city                  | Stillwater
 employer_state                 | OK
 employer_postal_code           | 74078
-begin_date                     | 2023-08-17
-end_date                       | 2026-08-16
+begin_date                     | 2023-08-21
+end_date                       | 2026-08-20
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
-soc_code                       | 25-1042.00
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 186 ]----------------+----------------------------------------------------------
+-[ RECORD 185 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23061-817448
 job_title                      | Lecturer
 employer_name                  | Oklahoma State University
@@ -6136,7 +6103,7 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1121.00
 h_1b_dependent                 | No
--[ RECORD 187 ]----------------+----------------------------------------------------------
+-[ RECORD 186 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23083-876206
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -6168,6 +6135,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1066.00
+h_1b_dependent                 | No
+-[ RECORD 187 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23080-866858
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-08-17
+end_date                       | 2026-08-16
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1042.00
 h_1b_dependent                 | No
 -[ RECORD 188 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23102-925122
@@ -6203,39 +6203,6 @@ employer_name                  | Southwestern Oklahoma State University
 soc_code                       | 25-1042.00
 h_1b_dependent                 | No
 -[ RECORD 189 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23157-083511
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-08-16
-end_date                       | 2026-08-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1122.00
-h_1b_dependent                 | No
--[ RECORD 190 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23065-826587
 job_title                      | Teaching Assistant Professor
 employer_name                  | Oklahoma State University
@@ -6267,6 +6234,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 190 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23157-083511
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-08-16
+end_date                       | 2026-08-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1122.00
 h_1b_dependent                 | No
 -[ RECORD 191 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23214-231593
@@ -6434,39 +6434,6 @@ employer_name                  | Southwestern Oklahoma State University
 soc_code                       | 25-1121.00
 h_1b_dependent                 | No
 -[ RECORD 196 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23146-056787
-job_title                      | Assistant Professor of Professional Practice
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-08-10
-end_date                       | 2026-08-09
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1063.00
-h_1b_dependent                 | No
--[ RECORD 197 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23103-930205
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -6499,7 +6466,7 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1063.00
 h_1b_dependent                 | No
--[ RECORD 198 ]----------------+----------------------------------------------------------
+-[ RECORD 197 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23087-882716
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -6531,6 +6498,39 @@ change_employer                | 1
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1011.00
+h_1b_dependent                 | No
+-[ RECORD 198 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23146-056787
+job_title                      | Assistant Professor of Professional Practice
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-08-10
+end_date                       | 2026-08-09
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1063.00
 h_1b_dependent                 | No
 -[ RECORD 199 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23117-971276
@@ -6566,7 +6566,7 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 200 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23125-998486
+case_number                    | I-200-23083-876148
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -6578,7 +6578,7 @@ employer_poc_phone             | 14057443205
 employer_poc_phone_ext         | 
 worksite_address1              | 401 General Academic Building
 worksite_address2              | 
-worksite_city                  | Oklahoma City
+worksite_city                  | Stillwater
 worksite_county                | PAYNE
 lawfirm_name_business_name     | Stump & Associates PC
 employer_address1              | 401 General Academic Building
@@ -6589,14 +6589,14 @@ employer_postal_code           | 74078
 begin_date                     | 2023-08-07
 end_date                       | 2026-08-06
 total_worker_positions         | 1
-new_employment                 | 1
+new_employment                 | 0
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
-change_employer                | 0
+change_employer                | 1
 amended_petition               | 0
 employer_name                  | Oklahoma State University
-soc_code                       | 25-1126.00
+soc_code                       | 25-1051.00
 h_1b_dependent                 | No
 -[ RECORD 201 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23153-075022
@@ -6632,39 +6632,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1031.00
 h_1b_dependent                 | No
 -[ RECORD 202 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23083-876148
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-08-07
-end_date                       | 2026-08-06
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1051.00
-h_1b_dependent                 | No
--[ RECORD 203 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23164-105261
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -6696,6 +6663,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1031.00
+h_1b_dependent                 | No
+-[ RECORD 203 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23125-998486
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Oklahoma City
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-08-07
+end_date                       | 2026-08-06
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1126.00
 h_1b_dependent                 | No
 -[ RECORD 204 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23145-053757
@@ -6731,72 +6731,6 @@ employer_name                  | Oklahoma State University
 soc_code                       | 25-1065.00
 h_1b_dependent                 | No
 -[ RECORD 205 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23158-086285
-job_title                      | Research Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Oklahoma State University
-soc_code                       | 19-3099.00
-h_1b_dependent                 | No
--[ RECORD 206 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23153-075038
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1054.00
-h_1b_dependent                 | No
--[ RECORD 207 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23129-004774
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -6829,8 +6763,41 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1042.00
 h_1b_dependent                 | No
--[ RECORD 208 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23095-905644
+-[ RECORD 206 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23158-086285
+job_title                      | Research Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Oklahoma State University
+soc_code                       | 19-3099.00
+h_1b_dependent                 | No
+-[ RECORD 207 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23153-075038
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
 secondary_entity_business_name | 
@@ -6860,9 +6827,9 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
-soc_code                       | 25-1064.00
+soc_code                       | 25-1054.00
 h_1b_dependent                 | No
--[ RECORD 209 ]----------------+----------------------------------------------------------
+-[ RECORD 208 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23046-774656
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -6895,205 +6862,40 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
+-[ RECORD 209 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23095-905644
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1064.00
+h_1b_dependent                 | No
 -[ RECORD 210 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23121-980324
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057445469
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-07-31
-end_date                       | 2026-07-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1042.00
-h_1b_dependent                 | No
--[ RECORD 211 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23138-035568
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-07-31
-end_date                       | 2026-07-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 212 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23047-780354
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-07-31
-end_date                       | 2026-07-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 213 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23039-759180
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Trisha
-employer_poc_last_name         | Iyonsi
-employer_poc_email             | trisha.iyonsi@okstate.edu
-employer_poc_phone             | 14057445469
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-07-31
-end_date                       | 2026-07-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 214 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23172-133792
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-07-31
-end_date                       | 2026-07-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 215 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23153-075032
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-07-31
-end_date                       | 2026-07-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 216 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23095-905660
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -7126,7 +6928,106 @@ amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 217 ]----------------+----------------------------------------------------------
+-[ RECORD 211 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23047-780354
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-07-31
+end_date                       | 2026-07-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 212 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23172-133792
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-07-31
+end_date                       | 2026-07-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 213 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23121-980324
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057445469
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-07-31
+end_date                       | 2026-07-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1042.00
+h_1b_dependent                 | No
+-[ RECORD 214 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23104-933552
 job_title                      | Assistant Professor
 employer_name                  | Oklahoma State University
@@ -7158,6 +7059,105 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1031.00
+h_1b_dependent                 | No
+-[ RECORD 215 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23039-759180
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Trisha
+employer_poc_last_name         | Iyonsi
+employer_poc_email             | trisha.iyonsi@okstate.edu
+employer_poc_phone             | 14057445469
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-07-31
+end_date                       | 2026-07-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 216 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23153-075032
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-07-31
+end_date                       | 2026-07-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 217 ]----------------+----------------------------------------------------------
+case_number                    | I-200-23138-035568
+job_title                      | Assistant Professor
+employer_name                  | Oklahoma State University
+secondary_entity_business_name | 
+employer_phone                 | 14057445459
+employer_poc_first_name        | Elizabeth
+employer_poc_last_name         | Scott
+employer_poc_email             | elizabeth.scott@okstate.edu
+employer_poc_phone             | 14057443205
+employer_poc_phone_ext         | 
+worksite_address1              | 401 General Academic Building
+worksite_address2              | 
+worksite_city                  | Stillwater
+worksite_county                | PAYNE
+lawfirm_name_business_name     | Stump & Associates PC
+employer_address1              | 401 General Academic Building
+employer_address2              | 
+employer_city                  | Stillwater
+employer_state                 | OK
+employer_postal_code           | 74078
+begin_date                     | 2023-07-31
+end_date                       | 2026-07-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Oklahoma State University
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 218 ]----------------+----------------------------------------------------------
 case_number                    | I-200-23117-973275
@@ -7224,566 +7224,5 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Oklahoma State University
 soc_code                       | 25-1022.00
-h_1b_dependent                 | No
--[ RECORD 220 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23130-008742
-job_title                      | Clinical Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Scott
-employer_poc_last_name         | Elizabeth
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 5310 E. 31st Street
-worksite_address2              | Lower Level
-worksite_city                  | Tulsa
-worksite_county                | TULSA
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-07-17
-end_date                       | 2026-07-16
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 29-1223.00
-h_1b_dependent                 | No
--[ RECORD 221 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23138-035576
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-07-14
-end_date                       | 2026-07-13
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1122.00
-h_1b_dependent                 | No
--[ RECORD 222 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23188-172373
-job_title                      | Computer and Information Systems Managers - KBGFJG22337-9
-employer_name                  | Ernst & Young U.S. LLP
-secondary_entity_business_name | State of Oklahoma
-employer_phone                 | 12018722200
-employer_poc_first_name        | Shakeria
-employer_poc_last_name         | Collie-Charlton
-employer_poc_email             | US.Visaimmigrationsupport@ey.com
-employer_poc_phone             | 12018723003
-employer_poc_phone_ext         | 0
-worksite_address1              | 2400 N Lincoln Blvd
-worksite_address2              | 
-worksite_city                  | Oklahoma City
-worksite_county                | OKLAHOMA
-lawfirm_name_business_name     | EY Law LLP
-employer_address1              | 200 Plaza Drive
-employer_address2              | 
-employer_city                  | Secaucus
-employer_state                 | NJ
-employer_postal_code           | 07094
-begin_date                     | 2023-07-13
-end_date                       | 2026-07-12
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Ernst & Young U.S. LLP
-soc_code                       | 11-3021.00
-h_1b_dependent                 | No
--[ RECORD 223 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23123-989240
-job_title                      | Psychiatrist
-employer_name                  | Department of Veterans Affairs Medical Center
-secondary_entity_business_name | 
-employer_phone                 | 14054565745
-employer_poc_first_name        | Kellie
-employer_poc_last_name         | Nevel
-employer_poc_email             | kellie.nevel@va.gov
-employer_poc_phone             | 14054563609
-employer_poc_phone_ext         | 
-worksite_address1              | 921 NE 13th Street
-worksite_address2              | 
-worksite_city                  | Oklahoma City
-worksite_county                | OKLAHOMA
-lawfirm_name_business_name     | 
-employer_address1              | 921 NE 13th Street
-employer_address2              | 
-employer_city                  | Oklahoma City
-employer_state                 | OK
-employer_postal_code           | 73104
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Department of Veterans Affairs Medical Center
-soc_code                       | 29-1223.00
-h_1b_dependent                 | No
--[ RECORD 224 ]----------------+----------------------------------------------------------
-case_number                    | I-200-25122-930519
-job_title                      | Mixed Animal Rotating Service Intern
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-06-15
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 19-1011
-h_1b_dependent                 | No
--[ RECORD 225 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23121-979276
-job_title                      | Research Professional
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-06-29
-end_date                       | 2026-06-28
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 15-1255.00
-h_1b_dependent                 | No
--[ RECORD 226 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23145-055550
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 371 Agricultural Hall
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-06-26
-end_date                       | 2026-06-25
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 227 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23159-091998
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-06-26
-end_date                       | 2026-06-25
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 228 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23065-826591
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1021
-h_1b_dependent                 | No
--[ RECORD 229 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23065-826591
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 230 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23130-010483
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-05-31
-end_date                       | 2026-05-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1031.00
-h_1b_dependent                 | No
--[ RECORD 231 ]----------------+----------------------------------------------------------
-case_number                    | I-200-24138-009940
-job_title                      | Visiting Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2024-08-16
-end_date                       | 2026-05-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1121.00
-h_1b_dependent                 | No
--[ RECORD 232 ]----------------+----------------------------------------------------------
-case_number                    | I-200-22322-595400
-job_title                      | Utilities Engineer IV
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Trisha
-employer_poc_last_name         | Iyonsi
-employer_poc_email             | trisha.iyonsi@okstate.edu
-employer_poc_phone             | 14057445469
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-05-09
-end_date                       | 2026-05-08
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 17-2052.00
-h_1b_dependent                 | No
--[ RECORD 233 ]----------------+----------------------------------------------------------
-case_number                    | I-200-22354-652640
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Trisha
-employer_poc_last_name         | Iyonsi
-employer_poc_email             | trisha.iyonsi@okstate.edu
-employer_poc_phone             | 14057445469
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Buidling
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-05-01
-end_date                       | 2026-04-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 234 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23059-809190
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-03-31
-end_date                       | 2026-03-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 29-1131.00
-h_1b_dependent                 | No
--[ RECORD 235 ]----------------+----------------------------------------------------------
-case_number                    | I-200-23059-809194
-job_title                      | Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 401 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | PAYNE
-lawfirm_name_business_name     | Stump & Associates PC
-employer_address1              | 401 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2023-03-31
-end_date                       | 2026-03-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 29-1131.00
-h_1b_dependent                 | No
--[ RECORD 236 ]----------------+----------------------------------------------------------
-case_number                    | I-200-25217-223261
-job_title                      | Teaching Assistant Professor
-employer_name                  | Oklahoma State University
-secondary_entity_business_name | 
-employer_phone                 | 14057445459
-employer_poc_first_name        | Elizabeth
-employer_poc_last_name         | Scott
-employer_poc_email             | elizabeth.scott@okstate.edu
-employer_poc_phone             | 14057443205
-employer_poc_phone_ext         | 
-worksite_address1              | 201 General Academic Building
-worksite_address2              | 
-worksite_city                  | Stillwater
-worksite_county                | 
-lawfirm_name_business_name     | Matthew D. Stump PC
-employer_address1              | 201 General Academic Building
-employer_address2              | 
-employer_city                  | Stillwater
-employer_state                 | OK
-employer_postal_code           | 74078
-begin_date                     | 2025-08-16
-end_date                       | 2026-03-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Oklahoma State University
-soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 

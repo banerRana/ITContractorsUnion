@@ -1,0 +1,63 @@
+-[ RECORD 1 ]------------------+------------------------------------------------------------------------------
+case_number                    | I-200-23088-886362
+job_title                      | NETWORK SECURITY ENGINEER
+full_time_position             | Y
+employer_name                  | HCL GLOBAL SYSTEMS INC
+secondary_entity_business_name | STATE OF CONNECTICUT - BOITS/DAS (REMOTE)
+employer_poc_email             | GADDE@HCLGLOBAL.COM
+employer_poc_phone             | 12484730720
+employer_poc_first_name        | DURGA PRASAD
+employer_poc_last_name         | GADDE
+worksite_address1              | 3 MURTHAS WAY,
+worksite_address2              | APT  429
+worksite_city                  | GRANBY
+worksite_county                | EAST HARTFORD
+lawfirm_name_business_name     | 
+employer_address1              | 24543 INDOPLEX CIRCLE
+employer_address2              | SUITE 220
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2023-07-06
+end_date                       | 2026-07-05
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1212.00
+h_1b_dependent                 | Yes
+-[ RECORD 2 ]------------------+------------------------------------------------------------------------------
+case_number                    | I-200-25246-284356
+job_title                      | SQL Server Database Administrator
+full_time_position             | Y
+employer_name                  | SAGARSOFT INC
+secondary_entity_business_name | Virginia Department of Transportation (working from Employer office remotely)
+employer_poc_email             | Selva@sagarsoft.com
+employer_poc_phone             | 18606332025
+employer_poc_first_name        | Selvanaigam
+employer_poc_last_name         | Subramaniam
+worksite_address1              | 200 Glastonbury Boulevard
+worksite_address2              | Suite 304
+worksite_city                  | Glastonbury
+worksite_county                | 
+lawfirm_name_business_name     | Lamboley Law Firm
+employer_address1              | 200 Glastonbury Boulevard
+employer_address2              | Suite 304
+employer_city                  | Glastonbury
+employer_state                 | CT
+employer_postal_code           | 06033
+begin_date                     | 2025-09-03
+end_date                       | 2028-08-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+

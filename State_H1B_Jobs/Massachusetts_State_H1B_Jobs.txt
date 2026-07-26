@@ -80,7 +80,7 @@ worksite_address2              |
 worksite_city                  | Chelsea
 worksite_county                | 
 lawfirm_name_business_name     | Graham & Ketkar PLLC
-employer_address1              | 1224  Hammond Drive
+employer_address1              | 1224 Hammond Drive
 employer_address2              | STE 1500
 employer_city                  | Atlanta
 employer_state                 | GA
@@ -164,7 +164,7 @@ employer_name                  | Riverside Community Care Inc
 soc_code                       | 21-1014
 h_1b_dependent                 | No
 -[ RECORD 6 ]------------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25172-118535
+case_number                    | I-200-25174-118976
 job_title                      | BI Analyst
 employer_name                  | Spark Technologies Inc
 secondary_entity_business_name | State of Massachusetts
@@ -197,7 +197,7 @@ employer_name                  | Spark Technologies Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 7 ]------------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25174-118976
+case_number                    | I-200-25172-118535
 job_title                      | BI Analyst
 employer_name                  | Spark Technologies Inc
 secondary_entity_business_name | State of Massachusetts
@@ -824,72 +824,6 @@ employer_name                  | Digit Outsource Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 26 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24270-365826
-job_title                      | Tableau Developer
-employer_name                  | Cognowiz LLC
-secondary_entity_business_name | Commonwealth of MA - the Department of Public Health
-employer_phone                 | 12024654858
-employer_poc_first_name        | Isha
-employer_poc_last_name         | Shah
-employer_poc_email             | ishashah@cognowiz.com
-employer_poc_phone             | 12024654858
-employer_poc_phone_ext         | 
-worksite_address1              | 250 Washington St
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | International Legal & Business Services Group LLP
-employer_address1              | 44679 Endicott Drive
-employer_address2              | Suite 300-778
-employer_city                  | Ashburn
-employer_state                 | VA
-employer_postal_code           | 20147
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Cognowiz LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24122-945698
-job_title                      | Java Developer
-employer_name                  | Prime Software Technologies Inc
-secondary_entity_business_name | State Of Massachusetts
-employer_phone                 | 17819353135
-employer_poc_first_name        | Preeti
-employer_poc_last_name         | Gurtata
-employer_poc_email             | pgurtata@primesofttech.com
-employer_poc_phone             | 17819353135
-employer_poc_phone_ext         | 
-worksite_address1              | 600 Washington Street
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | BBI Law Group P.C
-employer_address1              | 155U New Boston
-employer_address2              | St 181
-employer_city                  | Woburn
-employer_state                 | MA
-employer_postal_code           | 01801
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Prime Software Technologies Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 28 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24169-119735
 job_title                      | Software Developer
 employer_name                  | DATICS INC
@@ -922,6 +856,72 @@ amended_petition               | 0
 employer_name                  | DATICS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
+-[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24270-365826
+job_title                      | Tableau Developer
+employer_name                  | Cognowiz LLC
+secondary_entity_business_name | Commonwealth of MA - the Department of Public Health
+employer_phone                 | 12024654858
+employer_poc_first_name        | Isha
+employer_poc_last_name         | Shah
+employer_poc_email             | ishashah@cognowiz.com
+employer_poc_phone             | 12024654858
+employer_poc_phone_ext         | 
+worksite_address1              | 250 Washington St
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 44679 Endicott Drive
+employer_address2              | Suite 300-778
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Cognowiz LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 28 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24122-945698
+job_title                      | Java Developer
+employer_name                  | Prime Software Technologies Inc
+secondary_entity_business_name | State Of Massachusetts
+employer_phone                 | 17819353135
+employer_poc_first_name        | Preeti
+employer_poc_last_name         | Gurtata
+employer_poc_email             | pgurtata@primesofttech.com
+employer_poc_phone             | 17819353135
+employer_poc_phone_ext         | 
+worksite_address1              | 600 Washington Street
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | BBI Law Group P.C
+employer_address1              | 155U New Boston
+employer_address2              | St 181
+employer_city                  | Woburn
+employer_state                 | MA
+employer_postal_code           | 01801
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Prime Software Technologies Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 29 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24172-131516
 job_title                      | Full-stack Developer
@@ -1103,7 +1103,7 @@ worksite_address2              |
 worksite_city                  | Boston
 worksite_county                | BOSTON CITY
 lawfirm_name_business_name     | Piston & Carpenter PC
-employer_address1              | 2121  Cooperative Way
+employer_address1              | 2121 Cooperative Way
 employer_address2              | Suite 130
 employer_city                  | Herndon
 employer_state                 | VA
@@ -1682,7 +1682,7 @@ employer_name                  | Socotra Tech Services LLC
 soc_code                       | 15-1299.05
 h_1b_dependent                 | Yes
 -[ RECORD 52 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23094-901089
+case_number                    | I-200-23107-937085
 job_title                      | Software Developer - KBGFJG190550-2
 employer_name                  | KBR Wyle Services LLC
 secondary_entity_business_name | US Department of Transportation
@@ -1715,7 +1715,7 @@ employer_name                  | KBR Wyle Services LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 53 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23107-937085
+case_number                    | I-200-23094-901089
 job_title                      | Software Developer - KBGFJG190550-2
 employer_name                  | KBR Wyle Services LLC
 secondary_entity_business_name | US Department of Transportation
@@ -1879,235 +1879,4 @@ amended_petition               | 0
 employer_name                  | Noblesoft Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 58 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23200-199362
-job_title                      | Business System Analyst
-employer_name                  | Conflux Systems Inc
-secondary_entity_business_name | State of Massachusetts
-employer_phone                 | 16783199818
-employer_poc_first_name        | Gowthami
-employer_poc_last_name         | Donthi
-employer_poc_email             | immigration@confluxsystems.com
-employer_poc_phone             | 16783199818
-employer_poc_phone_ext         | 
-worksite_address1              | 100 Cambridge Street
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 11539 Park Woods Circle
-employer_address2              | Suite 302
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 2023-07-27
-end_date                       | 2026-07-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Conflux Systems Inc
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 59 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23026-729176
-job_title                      | Data Warehousing Developer/Software Engineer
-employer_name                  | Morlogic Inc
-secondary_entity_business_name | DEPARTMENT OF PUBLIC HEALTH
-employer_phone                 | 17379292151
-employer_poc_first_name        | Chamu
-employer_poc_last_name         | Pammi
-employer_poc_email             | accounts@morlogic.com
-employer_poc_phone             | 17349292151
-employer_poc_phone_ext         | 
-worksite_address1              | 250 Washington St,
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 2500 Packard Street
-employer_address2              | Suite 201
-employer_city                  | Ann Arbor
-employer_state                 | MI
-employer_postal_code           | 48104
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Morlogic Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 60 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23096-910125
-job_title                      | .Net Developer
-employer_name                  | Quest IT Solutions Inc
-secondary_entity_business_name | State of Massachusetts
-employer_phone                 | 18325328877
-employer_poc_first_name        | Sunil Kumar
-employer_poc_last_name         | Gandhe
-employer_poc_email             | legal@questits.com
-employer_poc_phone             | 18325328877
-employer_poc_phone_ext         | 
-worksite_address1              | 100 cambridge st
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 122 Venice St
-employer_address2              | 
-employer_city                  | Sugar Land
-employer_state                 | TX
-employer_postal_code           | 77478
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Quest IT Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 61 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23107-937544
-job_title                      | Software Developer
-employer_name                  | Cogent Infotech Corporation
-secondary_entity_business_name | Massachusetts Department of Transportation
-employer_phone                 | 14128352700
-employer_poc_first_name        | Nandan
-employer_poc_last_name         | Banerjee
-employer_poc_email             | nandan@cogentinfo.com
-employer_poc_phone             | 14128352700
-employer_poc_phone_ext         | 
-worksite_address1              | 10 Park Plaza
-worksite_address2              | Room 8350
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | Law Offices of Kamlesh Tewary PC
-employer_address1              | 1035 Boyce Road, Suite 108
-employer_address2              | 
-employer_city                  | Pittsburgh
-employer_state                 | PA
-employer_postal_code           | 15241
-begin_date                     | 2023-06-15
-end_date                       | 2026-06-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Cogent Infotech Corporation
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 62 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23166-115834
-job_title                      | QA Analyst
-employer_name                  | Acadia Technologies Inc
-secondary_entity_business_name | State of Massachusetts / EOE (Executive Office of Education)
-employer_phone                 | 16786884891
-employer_poc_first_name        | MITALI
-employer_poc_last_name         | DESAI
-employer_poc_email             | mitali@acadiatechnologies.com
-employer_poc_phone             | 16786884891
-employer_poc_phone_ext         | 
-worksite_address1              | 75 Pleasant Street
-worksite_address2              | 
-worksite_city                  | Malden,
-worksite_county                | MIDDLETON
-lawfirm_name_business_name     | LAW OFFICE OF KAVITHA RAMASAMI
-employer_address1              | 2250 Satellite Blvd.,
-employer_address2              | Ste 115
-employer_city                  | Duluth
-employer_state                 | GA
-employer_postal_code           | 30097
-begin_date                     | 2023-06-15
-end_date                       | 2026-06-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Acadia Technologies Inc
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 63 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23128-001786
-job_title                      | Tableau Developer
-employer_name                  | Imetris Corporation
-secondary_entity_business_name | State of Massachusetts (EOHHS)
-employer_phone                 | 17344706819
-employer_poc_first_name        | Carol
-employer_poc_last_name         | Sperr
-employer_poc_email             | carol@imetris.com
-employer_poc_phone             | 17344706819
-employer_poc_phone_ext         | 
-worksite_address1              | 250 Washington Street
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | NORFOLK
-lawfirm_name_business_name     | 
-employer_address1              | 162 S. Industrial Drive
-employer_address2              | 
-employer_city                  | Saline
-employer_state                 | MI
-employer_postal_code           | 48176
-begin_date                     | 2023-06-05
-end_date                       | 2026-06-04
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Imetris Corporation
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 64 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23101-923432
-job_title                      | LEAD ANALYST II
-employer_name                  | APPLICATIONS SOFTWARE TECHNOLOGY LLC
-secondary_entity_business_name | MASSACHUSETTS DEPARTMENT OF TRANSPORTATION
-employer_phone                 | 16307781180
-employer_poc_first_name        | JILL
-employer_poc_last_name         | LAHANIS
-employer_poc_email             | JLAHANIS@ASTCOROPORATION.COM
-employer_poc_phone             | 16307781180
-employer_poc_phone_ext         | 
-worksite_address1              | 25 NEWPORT AVENUE EXT
-worksite_address2              | 
-worksite_city                  | QUINCY
-worksite_county                | QUINCY CITY
-lawfirm_name_business_name     | Masuda Funai Eifert & Mitchell Ltd.
-employer_address1              | 4343 COMMERCE COURT
-employer_address2              | SUITE 701
-employer_city                  | LISLE
-employer_state                 | IL
-employer_postal_code           | 60532
-begin_date                     | 2023-04-12
-end_date                       | 2026-04-11
-total_worker_positions         | 5
-new_employment                 | 1
-continued_employment           | 1
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 1
-employer_name                  | APPLICATIONS SOFTWARE TECHNOLOGY LLC
-soc_code                       | 15-2031.00
-h_1b_dependent                 | Yes
 

@@ -1,4 +1,4 @@
--[ RECORD 1 ]------------------+----------------------------------------------------------------------
+-[ RECORD 1 ]------------------+---------------------------------------------------------
 case_number                    | I-200-25308-367106
 job_title                      | Java Full Stack Developer
 employer_name                  | XENONINFOTEK INC
@@ -31,7 +31,7 @@ amended_petition               | 1
 employer_name                  | XENONINFOTEK INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 2 ]------------------+----------------------------------------------------------------------
+-[ RECORD 2 ]------------------+---------------------------------------------------------
 case_number                    | I-200-25274-351709
 job_title                      | Clinical Fellow
 employer_name                  | The Stepping Stones Group LLC
@@ -64,7 +64,7 @@ amended_petition               | 0
 employer_name                  | The Stepping Stones Group LLC
 soc_code                       | 29-1127.00
 h_1b_dependent                 | No
--[ RECORD 3 ]------------------+----------------------------------------------------------------------
+-[ RECORD 3 ]------------------+---------------------------------------------------------
 case_number                    | I-200-25122-929503
 job_title                      | Speech Language Pathologist
 employer_name                  | The Stepping Stones Group LLC
@@ -97,7 +97,7 @@ amended_petition               | 0
 employer_name                  | The Stepping Stones Group LLC
 soc_code                       | 29-1127
 h_1b_dependent                 | No
--[ RECORD 4 ]------------------+----------------------------------------------------------------------
+-[ RECORD 4 ]------------------+---------------------------------------------------------
 case_number                    | I-200-25070-765654
 job_title                      | Systems Analyst
 employer_name                  | TEK GIGZ LLC
@@ -113,7 +113,7 @@ worksite_address2              |
 worksite_city                  | Honolulu
 worksite_county                | HONOLULU
 lawfirm_name_business_name     | 
-employer_address1              | 4461 Alma Road, Unit  600
+employer_address1              | 4461 Alma Road, Unit 600
 employer_address2              | 
 employer_city                  | McKinney
 employer_state                 | TX
@@ -130,7 +130,7 @@ amended_petition               | 0
 employer_name                  | TEK GIGZ LLC
 soc_code                       | 15-1211
 h_1b_dependent                 | Yes
--[ RECORD 5 ]------------------+----------------------------------------------------------------------
+-[ RECORD 5 ]------------------+---------------------------------------------------------
 case_number                    | I-200-24331-502640
 job_title                      | Software Developer
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -162,71 +162,5 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 6 ]------------------+----------------------------------------------------------------------
-case_number                    | I-200-23199-197856
-job_title                      | Business IT Consultant
-employer_name                  | Adroix Corp
-secondary_entity_business_name | State of Hawaii Department of Human Services Social Services Division
-employer_phone                 | 14705521724
-employer_poc_first_name        | Sapna
-employer_poc_last_name         | Reddimachu
-employer_poc_email             | legal@codeforce.com
-employer_poc_phone             | 14705521724
-employer_poc_phone_ext         | 
-worksite_address1              | 1010 Richards Street
-worksite_address2              | Suite 216
-worksite_city                  | Honolulu
-worksite_county                | HONOLULU
-lawfirm_name_business_name     | 
-employer_address1              | 3970 Old Milton Parkway
-employer_address2              | Suite 200
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 2023-07-25
-end_date                       | 2026-07-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Adroix Corp
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+----------------------------------------------------------------------
-case_number                    | I-200-23011-696408
-job_title                      | SAP Consultant - IM/MM/PM
-employer_name                  | NITEOSOFT INC
-secondary_entity_business_name | Hawaii Department of Transportation
-employer_phone                 | 16092970517
-employer_poc_first_name        | SHANKER
-employer_poc_last_name         | BABU
-employer_poc_email             | SHANKER@COMPWORLDWIDE.COM
-employer_poc_phone             | 16092970517
-employer_poc_phone_ext         | 
-worksite_address1              | 869 Punchbowl St
-worksite_address2              | Room 202
-worksite_city                  | Honolulu
-worksite_county                | HONOLULU
-lawfirm_name_business_name     | LAW OFFICE OF KESHAB RAJ SEADIE PC
-employer_address1              | 103 CARNEGIE CENTER DR
-employer_address2              | SUITE 300
-employer_city                  | PRINCETON
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-07-13
-end_date                       | 2026-07-12
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NITEOSOFT INC
-soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 

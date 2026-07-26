@@ -131,39 +131,6 @@ employer_name                  | INVICTUS INFOTECH LLC
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+-----------------------------------------------------
-case_number                    | I-200-24092-845833
-job_title                      | Senior Technical and Application Support Specialist
-employer_name                  | VERMONT STATE COLLEGES, Community College of Vermont
-secondary_entity_business_name | 
-employer_phone                 | 18026540527
-employer_poc_first_name        | Mary
-employer_poc_last_name         | Brodsky
-employer_poc_email             | Mary.Brodsky@ccv.edu
-employer_poc_phone             | 18026540527
-employer_poc_phone_ext         | 
-worksite_address1              | 1 Abenaki Way
-worksite_address2              | 
-worksite_city                  | Winooski
-worksite_county                | CHITTENDEN
-lawfirm_name_business_name     | DINSE PC
-employer_address1              | 1 Abenaki Way
-employer_address2              | Winooski Campus
-employer_city                  | Winooski
-employer_state                 | VT
-employer_postal_code           | 05404
-begin_date                     | 2024-05-24
-end_date                       | 2027-05-23
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | VERMONT STATE COLLEGES, Community College of Vermont
-soc_code                       | 15-1244.00
-h_1b_dependent                 | No
--[ RECORD 6 ]------------------+-----------------------------------------------------
 case_number                    | I-200-24101-875332
 job_title                      | Senior Technical and Application Support Specialist
 employer_name                  | VERMONT STATE COLLEGES
@@ -194,6 +161,39 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | VERMONT STATE COLLEGES
+soc_code                       | 15-1244.00
+h_1b_dependent                 | No
+-[ RECORD 6 ]------------------+-----------------------------------------------------
+case_number                    | I-200-24092-845833
+job_title                      | Senior Technical and Application Support Specialist
+employer_name                  | VERMONT STATE COLLEGES, Community College of Vermont
+secondary_entity_business_name | 
+employer_phone                 | 18026540527
+employer_poc_first_name        | Mary
+employer_poc_last_name         | Brodsky
+employer_poc_email             | Mary.Brodsky@ccv.edu
+employer_poc_phone             | 18026540527
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Abenaki Way
+worksite_address2              | 
+worksite_city                  | Winooski
+worksite_county                | CHITTENDEN
+lawfirm_name_business_name     | DINSE PC
+employer_address1              | 1 Abenaki Way
+employer_address2              | Winooski Campus
+employer_city                  | Winooski
+employer_state                 | VT
+employer_postal_code           | 05404
+begin_date                     | 2024-05-24
+end_date                       | 2027-05-23
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | VERMONT STATE COLLEGES, Community College of Vermont
 soc_code                       | 15-1244.00
 h_1b_dependent                 | No
 -[ RECORD 7 ]------------------+-----------------------------------------------------
@@ -295,37 +295,4 @@ amended_petition               | 0
 employer_name                  | Vermont State University
 soc_code                       | 25-1072
 h_1b_dependent                 | No
--[ RECORD 10 ]-----------------+-----------------------------------------------------
-case_number                    | I-200-23132-016753
-job_title                      | Software Developer, Systems Software
-employer_name                  | TECH MAHINDRA (AMERICAS) INC
-secondary_entity_business_name | Department of Liquor and Lottery State of Vermont
-employer_phone                 | 19732169008
-employer_poc_first_name        | ULPA
-employer_poc_last_name         | SHUKLA
-employer_poc_email             | LCAMOVEMENT@TECHMAHINDRA.COM
-employer_poc_phone             | 19732169008
-employer_poc_phone_ext         | 
-worksite_address1              | 1311 US Route 302, Suite 100
-worksite_address2              | 
-worksite_city                  | BARRE
-worksite_county                | WASHINGTON
-lawfirm_name_business_name     | 
-employer_address1              | 500 HILLS DRIVE
-employer_address2              | SUITE 200A
-employer_city                  | BEDMINSTER
-employer_state                 | NJ
-employer_postal_code           | 07921
-begin_date                     | 2023-05-12
-end_date                       | 2026-05-11
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | TECH MAHINDRA (AMERICAS) INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
 

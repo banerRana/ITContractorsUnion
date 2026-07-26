@@ -362,39 +362,6 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1031.00
 h_1b_dependent                 | No
 -[ RECORD 12 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25181-141996
-job_title                      | RESEARCH ASSISTANT PROFESSOR
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, AGRIBUSINESS & APPLIED ECONOMICS - ARPC
-worksite_address2              | 811 2nd AVENUE N, BARRY HALL
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-12-29
-end_date                       | 2028-12-28
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-3011.00
-h_1b_dependent                 | No
--[ RECORD 13 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25181-142209
 job_title                      | CLOUD SYSTEM ADMINISTRATOR, VOICE/ZOOM
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -426,6 +393,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 15-1244.00
+h_1b_dependent                 | No
+-[ RECORD 13 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25181-141996
+job_title                      | RESEARCH ASSISTANT PROFESSOR
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, AGRIBUSINESS & APPLIED ECONOMICS - ARPC
+worksite_address2              | 811 2nd AVENUE N, BARRY HALL
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-12-29
+end_date                       | 2028-12-28
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 19-3011.00
 h_1b_dependent                 | No
 -[ RECORD 14 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25178-134364
@@ -659,39 +659,6 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-4061
 h_1b_dependent                 | No
 -[ RECORD 21 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25225-240166
-job_title                      | RESEARCH SPECIALIST
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU COLLEGE OF BUSINESS - CHALLEY INSTITUTE
-worksite_address2              | 811 2nd AVENUE N,  RH BARRY HALL
-worksite_city                  | FARGO
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-3011.00
-h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25192-168496
 job_title                      | TRAFFIC SAFETY RESEARCH FELLOW
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -723,6 +690,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 15-2041.00
+h_1b_dependent                 | No
+-[ RECORD 22 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25225-240166
+job_title                      | RESEARCH SPECIALIST
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU COLLEGE OF BUSINESS - CHALLEY INSTITUTE
+worksite_address2              | 811 2nd AVENUE N,  RH BARRY HALL
+worksite_city                  | FARGO
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 19-3011.00
 h_1b_dependent                 | No
 -[ RECORD 23 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25102-858449
@@ -824,105 +824,6 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1011
 h_1b_dependent                 | No
 -[ RECORD 26 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25101-857994
-job_title                      | ASST. PROESSOR, MICROBIAL ECOLOGY
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPT. OF MICROBIOLOGICAL SCIENCES
-worksite_address2              | 1523 CENTENNIAL BLVD, VAN ESS HALL
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-09-01
-end_date                       | 2028-08-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1042
-h_1b_dependent                 | No
--[ RECORD 27 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25106-870381
-job_title                      | RESEARCH ASSISTANT PROFESSOR
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012319486
-employer_poc_first_name        | AMY
-employer_poc_last_name         | KNUDSON
-employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
-employer_poc_phone             | 17012319486
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU DEPARTMENT OF MECHANICAL ENGINEERING
-worksite_address2              | 1319 CENTENNIAL BLVD, DOLVE HALL 111
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-09-01
-end_date                       | 2028-08-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-2032
-h_1b_dependent                 | No
--[ RECORD 28 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25099-848519
-job_title                      | ASST. PROFESSOR, SOIL HEALTH
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, SCHOOL OF NATURAL RESOURCE SCIENCES
-worksite_address2              | 1402 ALBRECHT BLVD,  WALSTER HALL
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-09-01
-end_date                       | 2028-08-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1041
-h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25181-139703
 job_title                      | SOFTWARE DEVELOPER- UAV AG DATA
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -955,19 +856,19 @@ amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25168-101020
-job_title                      | BIG DATA SOFTWARE ENGINEER
+-[ RECORD 27 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25099-848519
+job_title                      | ASST. PROFESSOR, SOIL HEALTH
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
-employer_phone                 | 17012319486
-employer_poc_first_name        | AMY
-employer_poc_last_name         | KNUDSON
-employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
-employer_poc_phone             | 17012319486
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | 1360 BOLLEY DRIVE
-worksite_address2              | WALDRON HALL 201H
+worksite_address1              | NDSU, SCHOOL OF NATURAL RESOURCE SCIENCES
+worksite_address2              | 1402 ALBRECHT BLVD,  WALSTER HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -986,9 +887,42 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 15-1243
+soc_code                       | 25-1041
 h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+------------------------------------------------------------
+-[ RECORD 28 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25101-857994
+job_title                      | ASST. PROESSOR, MICROBIAL ECOLOGY
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, DEPT. OF MICROBIOLOGICAL SCIENCES
+worksite_address2              | 1523 CENTENNIAL BLVD, VAN ESS HALL
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-09-01
+end_date                       | 2028-08-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 25-1042
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25168-101021
 job_title                      | SOFTWARE APPLICATION & ANALYTICS ENGINEER
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -1021,141 +955,9 @@ amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 15-1296
 h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25066-758497
-job_title                      | SENIOR RESEARCH ECONOMIST
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | DEPT OF AGRIBUSINESS & APPLIED ECON - AG RISK POLICY CENTER
-worksite_address2              | 811 2ND AVENUE NORTH, BARRY HALL
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-08-16
-end_date                       | 2028-08-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-3011
-h_1b_dependent                 | No
--[ RECORD 33 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25118-913369
-job_title                      | LECTURER - MARKETING
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPARTMENT OF MANAGEMENT & MARKETING
-worksite_address2              | 811 2ND AVENUE N,  BARRY HALL
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-08-16
-end_date                       | 2028-08-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1011
-h_1b_dependent                 | No
--[ RECORD 34 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25132-965502
-job_title                      | ASSISTANT PROFESSOR - MATHEMATICS
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPARTMENT OF MATHEMATICS
-worksite_address2              | 1210 ALBRECHT BLVD, MINARD HALL
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-08-16
-end_date                       | 2028-08-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1022
-h_1b_dependent                 | No
--[ RECORD 35 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25176-128568
-job_title                      | ASST. PROFESSOR, COMPUTER ENGINEERING
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPT. OF ELECTRICAL & COMPUTER ENGINEERING
-worksite_address2              | 1411 CENTENNIAL BLVD, OFFERDAHL WEST
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-08-16
-end_date                       | 2028-08-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25066-756513
-job_title                      | ASSISTANT PROFESSOR, IND & MANUF ENGINEERING
+-[ RECORD 30 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25106-870381
+job_title                      | RESEARCH ASSISTANT PROFESSOR
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012319486
@@ -1164,8 +966,8 @@ employer_poc_last_name         | KNUDSON
 employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
 employer_poc_phone             | 17012319486
 employer_poc_phone_ext         | 
-worksite_address1              | 1315 CENTENNIAL BLVD
-worksite_address2              | OFFERDAHL EAST, ROOM 106
+worksite_address1              | NDSU DEPARTMENT OF MECHANICAL ENGINEERING
+worksite_address2              | 1319 CENTENNIAL BLVD, DOLVE HALL 111
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -1174,8 +976,8 @@ employer_address2              | HASTINGS HALL
 employer_city                  | FARGO
 employer_state                 | ND
 employer_postal_code           | 58102
-begin_date                     | 2025-08-16
-end_date                       | 2028-08-15
+begin_date                     | 2025-09-01
+end_date                       | 2028-08-31
 total_worker_positions         | 1
 new_employment                 | 0
 continued_employment           | 1
@@ -1184,9 +986,42 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1032
+soc_code                       | 19-2032
 h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+------------------------------------------------------------
+-[ RECORD 31 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25168-101020
+job_title                      | BIG DATA SOFTWARE ENGINEER
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012319486
+employer_poc_first_name        | AMY
+employer_poc_last_name         | KNUDSON
+employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
+employer_poc_phone             | 17012319486
+employer_poc_phone_ext         | 
+worksite_address1              | 1360 BOLLEY DRIVE
+worksite_address2              | WALDRON HALL 201H
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-09-01
+end_date                       | 2028-08-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 15-1243
+h_1b_dependent                 | No
+-[ RECORD 32 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25049-702841
 job_title                      | ASST PROFESSOR - MARKETING
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -1219,7 +1054,7 @@ amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1011
 h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+------------------------------------------------------------
+-[ RECORD 33 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25049-702802
 job_title                      | ASST PROF, AGRONOMIST - BROADLEAF CROPS
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -1252,9 +1087,9 @@ amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1041
 h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25049-702283
-job_title                      | ASSISTANT PROFESSOR OF ELECTRICAL & COMPUTER ENGINEERING
+-[ RECORD 34 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25066-756513
+job_title                      | ASSISTANT PROFESSOR, IND & MANUF ENGINEERING
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012319486
@@ -1263,8 +1098,173 @@ employer_poc_last_name         | KNUDSON
 employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
 employer_poc_phone             | 17012319486
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING
-worksite_address2              | 1411 CENTENNIAL BLVD.
+worksite_address1              | 1315 CENTENNIAL BLVD
+worksite_address2              | OFFERDAHL EAST, ROOM 106
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-08-16
+end_date                       | 2028-08-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 35 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25118-913369
+job_title                      | LECTURER - MARKETING
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, DEPARTMENT OF MANAGEMENT & MARKETING
+worksite_address2              | 811 2ND AVENUE N,  BARRY HALL
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-08-16
+end_date                       | 2028-08-15
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 25-1011
+h_1b_dependent                 | No
+-[ RECORD 36 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25132-965502
+job_title                      | ASSISTANT PROFESSOR - MATHEMATICS
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, DEPARTMENT OF MATHEMATICS
+worksite_address2              | 1210 ALBRECHT BLVD, MINARD HALL
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-08-16
+end_date                       | 2028-08-15
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 25-1022
+h_1b_dependent                 | No
+-[ RECORD 37 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25176-128568
+job_title                      | ASST. PROFESSOR, COMPUTER ENGINEERING
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, DEPT. OF ELECTRICAL & COMPUTER ENGINEERING
+worksite_address2              | 1411 CENTENNIAL BLVD, OFFERDAHL WEST
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-08-16
+end_date                       | 2028-08-15
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 38 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25066-758497
+job_title                      | SENIOR RESEARCH ECONOMIST
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | DEPT OF AGRIBUSINESS & APPLIED ECON - AG RISK POLICY CENTER
+worksite_address2              | 811 2ND AVENUE NORTH, BARRY HALL
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-08-16
+end_date                       | 2028-08-15
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 19-3011
+h_1b_dependent                 | No
+-[ RECORD 39 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-25066-758609
+job_title                      | POSTDOCTORAL RESEARCH FELLOW
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, DEPARTMENT OF BIOLOGICAL SCIENCES
+worksite_address2              | 1340 BOLLEY DRIVE, STEVENS HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -1276,14 +1276,14 @@ employer_postal_code           | 58102
 begin_date                     | 2025-08-15
 end_date                       | 2028-08-14
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1032
+soc_code                       | 19-1029.04
 h_1b_dependent                 | No
 -[ RECORD 40 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25079-790544
@@ -1319,18 +1319,18 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013
 h_1b_dependent                 | No
 -[ RECORD 41 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25066-758609
-job_title                      | POSTDOCTORAL RESEARCH FELLOW
+case_number                    | I-200-25049-702283
+job_title                      | ASSISTANT PROFESSOR OF ELECTRICAL & COMPUTER ENGINEERING
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
+employer_phone                 | 17012319486
+employer_poc_first_name        | AMY
+employer_poc_last_name         | KNUDSON
+employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
+employer_poc_phone             | 17012319486
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPARTMENT OF BIOLOGICAL SCIENCES
-worksite_address2              | 1340 BOLLEY DRIVE, STEVENS HALL
+worksite_address1              | NDSU DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING
+worksite_address2              | 1411 CENTENNIAL BLVD.
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -1342,14 +1342,14 @@ employer_postal_code           | 58102
 begin_date                     | 2025-08-15
 end_date                       | 2028-08-14
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1029.04
+soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 42 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25066-758609
@@ -1451,8 +1451,8 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1031
 h_1b_dependent                 | No
 -[ RECORD 45 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25002-589585
-job_title                      | LECTURER - MANAGEMENT
+case_number                    | I-200-25031-658872
+job_title                      | RESEARCH SPECIALIST
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
@@ -1461,8 +1461,8 @@ employer_poc_last_name         | THOMAS
 employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPARTMENT OF MANAGEMENT & MARKETING
-worksite_address2              | 811 2ND AVENUE N, BARRY HALL
+worksite_address1              | NDSU, DEPARTMENT OF PLANT SCIENCES
+worksite_address2              | 1360 BOLLEY DRIVE,  WALDRON HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -1481,7 +1481,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1011
+soc_code                       | 19-1013
 h_1b_dependent                 | No
 -[ RECORD 46 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25002-589585
@@ -1514,11 +1514,11 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1011.00
+soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 47 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25031-658872
-job_title                      | RESEARCH SPECIALIST
+case_number                    | I-200-25002-589585
+job_title                      | LECTURER - MANAGEMENT
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
@@ -1527,8 +1527,8 @@ employer_poc_last_name         | THOMAS
 employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPARTMENT OF PLANT SCIENCES
-worksite_address2              | 1360 BOLLEY DRIVE,  WALDRON HALL
+worksite_address1              | NDSU, DEPARTMENT OF MANAGEMENT & MARKETING
+worksite_address2              | 811 2ND AVENUE N, BARRY HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -1547,7 +1547,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 48 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25099-848576
@@ -1679,7 +1679,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 17-2051
+soc_code                       | 17-2051.00
 h_1b_dependent                 | No
 -[ RECORD 52 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25021-631758
@@ -1712,7 +1712,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 17-2051.00
+soc_code                       | 17-2051
 h_1b_dependent                 | No
 -[ RECORD 53 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24345-532139
@@ -1880,8 +1880,8 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1029.02
 h_1b_dependent                 | No
 -[ RECORD 58 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-25034-660829
-job_title                      | RESEARCH SPECIALIST
+case_number                    | I-200-24257-337176
+job_title                      | ASST PROFESSOR, AG & BIOSYSTEMS ENGINEERING
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
@@ -1890,8 +1890,8 @@ employer_poc_last_name         | THOMAS
 employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPARTMENT OF PLANT SCIENCES
-worksite_address2              | 1360 BOLLEY DRIVE,  WALDRON HALL
+worksite_address1              | NDSU, DEPT OF AGRICULTURAL & BIOSYSTEMS ENGINEERING
+worksite_address2              | 1231 ALBRECHT BLVD, LADD HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -1903,14 +1903,14 @@ employer_postal_code           | 58102
 begin_date                     | 2025-03-01
 end_date                       | 2028-02-29
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 59 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25034-660829
@@ -1946,8 +1946,8 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 60 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24257-337176
-job_title                      | ASST PROFESSOR, AG & BIOSYSTEMS ENGINEERING
+case_number                    | I-200-25034-660829
+job_title                      | RESEARCH SPECIALIST
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
@@ -1956,8 +1956,8 @@ employer_poc_last_name         | THOMAS
 employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPT OF AGRICULTURAL & BIOSYSTEMS ENGINEERING
-worksite_address2              | 1231 ALBRECHT BLVD, LADD HALL
+worksite_address1              | NDSU, DEPARTMENT OF PLANT SCIENCES
+worksite_address2              | 1360 BOLLEY DRIVE,  WALDRON HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -1969,14 +1969,14 @@ employer_postal_code           | 58102
 begin_date                     | 2025-03-01
 end_date                       | 2028-02-29
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1032.00
+soc_code                       | 19-1013
 h_1b_dependent                 | No
 -[ RECORD 61 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25049-702760
@@ -2045,39 +2045,6 @@ employer_name                  | Generic Solutions Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 63 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24341-523920
-job_title                      | POSTDOCTORAL RESEARCH ASSOCIATE
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012319486
-employer_poc_first_name        | AMY
-employer_poc_last_name         | KNUDSON
-employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
-employer_poc_phone             | 17012319486
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU DEPARTMENT OF MECHANICAL ENGINEERING
-worksite_address2              | 1319 CENTENNIAL BLVD, DOLVE HALL 111
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-02-01
-end_date                       | 2028-01-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-2032
-h_1b_dependent                 | No
--[ RECORD 64 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24348-542374
 job_title                      | POSTDOCTORAL RESEARCH ASSOCIATE
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -2109,6 +2076,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 17-2021
+h_1b_dependent                 | No
+-[ RECORD 64 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-24341-523920
+job_title                      | POSTDOCTORAL RESEARCH ASSOCIATE
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012319486
+employer_poc_first_name        | AMY
+employer_poc_last_name         | KNUDSON
+employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
+employer_poc_phone             | 17012319486
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU DEPARTMENT OF MECHANICAL ENGINEERING
+worksite_address2              | 1319 CENTENNIAL BLVD, DOLVE HALL 111
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-02-01
+end_date                       | 2028-01-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 19-2032
 h_1b_dependent                 | No
 -[ RECORD 65 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25028-648822
@@ -2243,39 +2243,6 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1052.00
 h_1b_dependent                 | No
 -[ RECORD 69 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24260-339553
-job_title                      | ASST PROF OF PRACTICE, ENVIRONMENTAL ENGINEERING
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPT OF CIVIL & INDUSTRIAL ENGINEERING
-worksite_address2              | 1410 14TH AVENUE N, CIE BUILDING
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-01-01
-end_date                       | 2027-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 70 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24199-201848
 job_title                      | POSTDOCTORAL RESEARCH FELLOW
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -2308,7 +2275,7 @@ amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 17-2053.00
 h_1b_dependent                 | No
--[ RECORD 71 ]-----------------+------------------------------------------------------------
+-[ RECORD 70 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24241-299366
 job_title                      | RESEARCH SPECIALIST
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -2340,6 +2307,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 71 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-24260-339553
+job_title                      | ASST PROF OF PRACTICE, ENVIRONMENTAL ENGINEERING
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, DEPT OF CIVIL & INDUSTRIAL ENGINEERING
+worksite_address2              | 1410 14TH AVENUE N, CIE BUILDING
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-01-01
+end_date                       | 2027-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 72 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24257-335946
@@ -2408,8 +2408,8 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 74 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24166-111734
-job_title                      | RESEARCH SPECIALIST
+case_number                    | I-200-24180-160064
+job_title                      | ASST BREEDER - DRY BEAN EDIBLE BEAN BREEDING
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
@@ -2418,8 +2418,8 @@ employer_poc_last_name         | THOMAS
 employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU DEPT. OF PHARMACEUTICAL SCIENCES
-worksite_address2              | 1401 ALBRECHT BLVD, SUDRO HALL
+worksite_address1              | NDSU, DEPARTMENT OF PLANT SCIENCES
+worksite_address2              | 1360 BOLLEY DRIVE, WALDRON HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -2431,14 +2431,14 @@ employer_postal_code           | 58102
 begin_date                     | 2024-12-01
 end_date                       | 2027-11-30
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1029.02
+soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 75 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24166-111734
@@ -2474,8 +2474,8 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1029.02
 h_1b_dependent                 | No
 -[ RECORD 76 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24180-160064
-job_title                      | ASST BREEDER - DRY BEAN EDIBLE BEAN BREEDING
+case_number                    | I-200-24166-111734
+job_title                      | RESEARCH SPECIALIST
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
@@ -2484,8 +2484,8 @@ employer_poc_last_name         | THOMAS
 employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPARTMENT OF PLANT SCIENCES
-worksite_address2              | 1360 BOLLEY DRIVE, WALDRON HALL
+worksite_address1              | NDSU DEPT. OF PHARMACEUTICAL SCIENCES
+worksite_address2              | 1401 ALBRECHT BLVD, SUDRO HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -2497,14 +2497,14 @@ employer_postal_code           | 58102
 begin_date                     | 2024-12-01
 end_date                       | 2027-11-30
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013.00
+soc_code                       | 19-1029.02
 h_1b_dependent                 | No
 -[ RECORD 77 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24299-433491
@@ -2573,6 +2573,39 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 79 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-24257-337442
+job_title                      | RESEARCH ASSISTANT PROFESSOR
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, CIVIL & INDUSTRIAL ENGINEERING DEPT.
+worksite_address2              | 1410 14TH AVENUE N, CIE BUILDING
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2024-11-01
+end_date                       | 2027-10-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 17-2053.00
+h_1b_dependent                 | No
+-[ RECORD 80 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24123-949547
 job_title                      | RESEARCH ASSISTANT PROFESSOR
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -2604,39 +2637,6 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-2031.00
-h_1b_dependent                 | No
--[ RECORD 80 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24255-330767
-job_title                      | POSTDOCTORAL RESEARCH FELLOW
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012319486
-employer_poc_first_name        | AMY
-employer_poc_last_name         | KNUDSON
-employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
-employer_poc_phone             | 17012319486
-employer_poc_phone_ext         | 
-worksite_address1              | 1360 ALBRECHT BLVD N
-worksite_address2              | LOFTSGARD HALL 166
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2024-11-01
-end_date                       | 2027-10-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013
 h_1b_dependent                 | No
 -[ RECORD 81 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24255-330767
@@ -2672,18 +2672,18 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 82 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24257-337442
-job_title                      | RESEARCH ASSISTANT PROFESSOR
+case_number                    | I-200-24255-330767
+job_title                      | POSTDOCTORAL RESEARCH FELLOW
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
+employer_phone                 | 17012319486
+employer_poc_first_name        | AMY
+employer_poc_last_name         | KNUDSON
+employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
+employer_poc_phone             | 17012319486
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU, CIVIL & INDUSTRIAL ENGINEERING DEPT.
-worksite_address2              | 1410 14TH AVENUE N, CIE BUILDING
+worksite_address1              | 1360 ALBRECHT BLVD N
+worksite_address2              | LOFTSGARD HALL 166
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -2702,7 +2702,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 17-2053.00
+soc_code                       | 19-1013
 h_1b_dependent                 | No
 -[ RECORD 83 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24250-320351
@@ -2969,39 +2969,6 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 91 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24065-770912
-job_title                      | ASSOCIATE RESEARCH FELLOW
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012319486
-employer_poc_first_name        | AMY
-employer_poc_last_name         | KNUDSON
-employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
-employer_poc_phone             | 17012319486
-employer_poc_phone_ext         | 
-worksite_address1              | 1320 ALBRECHT BLVD, ROOM 418
-worksite_address2              | QUENTIN BURDICK BUILDING
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2024-09-01
-end_date                       | 2027-08-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 17-2051.00
-h_1b_dependent                 | No
--[ RECORD 92 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24065-771048
 job_title                      | ASST. PROFESSOR, MICROBIOLOGICAL SCIENCES
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -3034,7 +3001,7 @@ amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1042.00
 h_1b_dependent                 | No
--[ RECORD 93 ]-----------------+------------------------------------------------------------
+-[ RECORD 92 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24081-820338
 job_title                      | RESEARCH LABORATORY MANAGER
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -3066,6 +3033,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 93 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-24065-770912
+job_title                      | ASSOCIATE RESEARCH FELLOW
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012319486
+employer_poc_first_name        | AMY
+employer_poc_last_name         | KNUDSON
+employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
+employer_poc_phone             | 17012319486
+employer_poc_phone_ext         | 
+worksite_address1              | 1320 ALBRECHT BLVD, ROOM 418
+worksite_address2              | QUENTIN BURDICK BUILDING
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2024-09-01
+end_date                       | 2027-08-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 17-2051.00
 h_1b_dependent                 | No
 -[ RECORD 94 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24169-119564
@@ -3101,8 +3101,8 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1042.00
 h_1b_dependent                 | No
 -[ RECORD 95 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24051-732569
-job_title                      | ASSOCIATE PROFESSOR, ORGANIZATIONAL COMMUNICATION
+case_number                    | I-200-24092-843390
+job_title                      | ASST PROFESSOR, EXTENSION WATER ENGINEER
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
@@ -3111,8 +3111,8 @@ employer_poc_last_name         | THOMAS
 employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU DEPARTMENT OF COMMUNICATION
-worksite_address2              | 1210 ALBRECHT BLVD, MINARD HALL
+worksite_address1              | DEPT OF AGRICULTURAL & BIOSYSTEMS ENGINEERING
+worksite_address2              | 1231 ALBRECHT BLVD, LADD HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -3124,14 +3124,14 @@ employer_postal_code           | 58102
 begin_date                     | 2024-08-16
 end_date                       | 2027-08-15
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1122.00
+soc_code                       | 25-1041.00
 h_1b_dependent                 | No
 -[ RECORD 96 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24166-111796
@@ -3233,8 +3233,8 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1022.00
 h_1b_dependent                 | No
 -[ RECORD 99 ]-----------------+------------------------------------------------------------
-case_number                    | I-200-24092-843390
-job_title                      | ASST PROFESSOR, EXTENSION WATER ENGINEER
+case_number                    | I-200-24051-732569
+job_title                      | ASSOCIATE PROFESSOR, ORGANIZATIONAL COMMUNICATION
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
@@ -3243,8 +3243,8 @@ employer_poc_last_name         | THOMAS
 employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | DEPT OF AGRICULTURAL & BIOSYSTEMS ENGINEERING
-worksite_address2              | 1231 ALBRECHT BLVD, LADD HALL
+worksite_address1              | NDSU DEPARTMENT OF COMMUNICATION
+worksite_address2              | 1210 ALBRECHT BLVD, MINARD HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -3256,14 +3256,14 @@ employer_postal_code           | 58102
 begin_date                     | 2024-08-16
 end_date                       | 2027-08-15
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1041.00
+soc_code                       | 25-1122.00
 h_1b_dependent                 | No
 -[ RECORD 100 ]----------------+------------------------------------------------------------
 case_number                    | I-200-24156-069142
@@ -3530,18 +3530,18 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 108 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23264-366175
-job_title                      | SENIOR POSTDOCTORAL ASSOCIATE
+case_number                    | I-200-24260-341339
+job_title                      | ASST PROF OF PRACTICE, ENVIRONMENTAL ENGINEERING
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
 employer_poc_first_name        | TABITHA
 employer_poc_last_name         | THOMAS
-employer_poc_email             | Tabitha.Thomas@ndsu.edu
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU DEPT. OF PHARMACEUTICAL SCIENCES
-worksite_address2              | 1401 ALBRECHT BLVD, SUDRO HALL
+worksite_address1              | NDSU, DEPT. OF CIVIL & INDUSTRIAL ENGINEERING
+worksite_address2              | 1410 14TH AVENUE N, CIE BUILDING
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -3550,7 +3550,7 @@ employer_address2              | HASTINGS HALL
 employer_city                  | FARGO
 employer_state                 | ND
 employer_postal_code           | 58102
-begin_date                     | 2024-01-01
+begin_date                     | 2025-01-01
 end_date                       | 2026-12-31
 total_worker_positions         | 1
 new_employment                 | 1
@@ -3560,42 +3560,9 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1029.02
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 109 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23324-514218
-job_title                      | RESEARCH SCIENTIST
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012319486
-employer_poc_first_name        | AMY
-employer_poc_last_name         | KNUDSON
-employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
-employer_poc_phone             | 17012319486
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU Department of Plant Sciences
-worksite_address2              | 1420 Bolley Dr
-worksite_city                  | Fargo
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2024-01-01
-end_date                       | 2026-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 110 ]----------------+------------------------------------------------------------
 case_number                    | I-200-23334-533581
 job_title                      | Postdoctoral Research Fellow
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -3628,7 +3595,73 @@ amended_petition               | 1
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
+-[ RECORD 110 ]----------------+------------------------------------------------------------
+case_number                    | I-200-24260-341339
+job_title                      | ASST PROF OF PRACTICE, ENVIRONMENTAL ENGINEERING
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, DEPT. OF CIVIL & INDUSTRIAL ENGINEERING
+worksite_address2              | 1410 14TH AVENUE N, CIE BUILDING
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2025-01-01
+end_date                       | 2026-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
 -[ RECORD 111 ]----------------+------------------------------------------------------------
+case_number                    | I-200-23324-514218
+job_title                      | RESEARCH SCIENTIST
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012319486
+employer_poc_first_name        | AMY
+employer_poc_last_name         | KNUDSON
+employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
+employer_poc_phone             | 17012319486
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU Department of Plant Sciences
+worksite_address2              | 1420 Bolley Dr
+worksite_city                  | Fargo
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2024-01-01
+end_date                       | 2026-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 112 ]----------------+------------------------------------------------------------
 case_number                    | I-200-23264-366175
 job_title                      | SENIOR POSTDOCTORAL ASSOCIATE
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -3661,52 +3694,19 @@ amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1029.02
 h_1b_dependent                 | No
--[ RECORD 112 ]----------------+------------------------------------------------------------
-case_number                    | I-200-24260-341339
-job_title                      | ASST PROF OF PRACTICE, ENVIRONMENTAL ENGINEERING
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPT. OF CIVIL & INDUSTRIAL ENGINEERING
-worksite_address2              | 1410 14TH AVENUE N, CIE BUILDING
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-01-01
-end_date                       | 2026-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
 -[ RECORD 113 ]----------------+------------------------------------------------------------
-case_number                    | I-200-24260-341339
-job_title                      | ASST PROF OF PRACTICE, ENVIRONMENTAL ENGINEERING
+case_number                    | I-200-23264-366175
+job_title                      | SENIOR POSTDOCTORAL ASSOCIATE
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 17012318052
 employer_poc_first_name        | TABITHA
 employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_email             | Tabitha.Thomas@ndsu.edu
 employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPT. OF CIVIL & INDUSTRIAL ENGINEERING
-worksite_address2              | 1410 14TH AVENUE N, CIE BUILDING
+worksite_address1              | NDSU DEPT. OF PHARMACEUTICAL SCIENCES
+worksite_address2              | 1401 ALBRECHT BLVD, SUDRO HALL
 worksite_city                  | FARGO
 worksite_county                | CASS
 lawfirm_name_business_name     | 
@@ -3715,7 +3715,7 @@ employer_address2              | HASTINGS HALL
 employer_city                  | FARGO
 employer_state                 | ND
 employer_postal_code           | 58102
-begin_date                     | 2025-01-01
+begin_date                     | 2024-01-01
 end_date                       | 2026-12-31
 total_worker_positions         | 1
 new_employment                 | 1
@@ -3725,7 +3725,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1032.00
+soc_code                       | 19-1029.02
 h_1b_dependent                 | No
 -[ RECORD 114 ]----------------+------------------------------------------------------------
 case_number                    | I-200-23163-100079
@@ -3827,39 +3827,6 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 117 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23334-533470
-job_title                      | RESEARCH ASSISTANT PROFESSOR
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | Tabitha.Thomas@ndsu.edu
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, DEPT. OF AGRIBUSINESS & APPLIED ECONOMICS
-worksite_address2              | 811 2ND AVENUE N, BARRY HALL
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-12-01
-end_date                       | 2026-08-21
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-3011.00
-h_1b_dependent                 | No
--[ RECORD 118 ]----------------+------------------------------------------------------------
 case_number                    | I-200-23156-079938
 job_title                      | RESEARCH ASSISTANT PROFESSOR
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -3886,6 +3853,39 @@ total_worker_positions         | 1
 new_employment                 | 1
 continued_employment           | 0
 change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 19-3011.00
+h_1b_dependent                 | No
+-[ RECORD 118 ]----------------+------------------------------------------------------------
+case_number                    | I-200-23334-533470
+job_title                      | RESEARCH ASSISTANT PROFESSOR
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | Tabitha.Thomas@ndsu.edu
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, DEPT. OF AGRIBUSINESS & APPLIED ECONOMICS
+worksite_address2              | 811 2ND AVENUE N, BARRY HALL
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2023-12-01
+end_date                       | 2026-08-21
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
@@ -3959,39 +3959,6 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1071.00
 h_1b_dependent                 | No
 -[ RECORD 121 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23066-829047
-job_title                      | IT PROJECT MANAGER & INTERN INSTRUCTOR
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, UPPER GREAT PLAINS TRANSPORTATION INSTITUTE
-worksite_address2              | 1320 ALBRECHT BLVD, QUENTIN BURDICK BUILDING
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-08-16
-end_date                       | 2026-08-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 15-1299.09
-h_1b_dependent                 | No
--[ RECORD 122 ]----------------+------------------------------------------------------------
 case_number                    | I-200-23065-824896
 job_title                      | Assistant Professor
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -4023,6 +3990,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 122 ]----------------+------------------------------------------------------------
+case_number                    | I-200-23066-829047
+job_title                      | IT PROJECT MANAGER & INTERN INSTRUCTOR
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU, UPPER GREAT PLAINS TRANSPORTATION INSTITUTE
+worksite_address2              | 1320 ALBRECHT BLVD, QUENTIN BURDICK BUILDING
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1301 12TH AVENUE N
+employer_address2              | 
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2023-08-16
+end_date                       | 2026-08-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 123 ]----------------+------------------------------------------------------------
 case_number                    | I-200-23066-829047
@@ -4058,27 +4058,27 @@ employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 124 ]----------------+------------------------------------------------------------
-case_number                    | I-200-24099-865298
-job_title                      | POSTDOCTORAL RESEARCH FELLOW
+case_number                    | I-200-23030-736716
+job_title                      | Food Technologist Specialist
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 secondary_entity_business_name | 
-employer_phone                 | 17012319486
-employer_poc_first_name        | AMY
-employer_poc_last_name         | KNUDSON
-employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
-employer_poc_phone             | 17012319486
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | Tabitha.Thomas@ndsu.edu
+employer_poc_phone             | 17012318052
 employer_poc_phone_ext         | 
-worksite_address1              | NDSU DEPARTMENT OF PLANT SCIENCES
-worksite_address2              | 1420 BOLLEY DRIVE, LOFTSGARD HALL 166
-worksite_city                  | FARGO
+worksite_address1              | NDSU Department of Plant Sciences
+worksite_address2              | 1360 Albrecht Blvd. N., Loftsgard Hall 166
+worksite_city                  | Fargo
 worksite_county                | CASS
 lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
+employer_address1              | 1301 12TH AVENUE N
+employer_address2              | 
 employer_city                  | FARGO
 employer_state                 | ND
 employer_postal_code           | 58102
-begin_date                     | 2024-08-01
+begin_date                     | 2023-08-01
 end_date                       | 2026-07-31
 total_worker_positions         | 1
 new_employment                 | 1
@@ -4088,9 +4088,42 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013.00
+soc_code                       | 19-1012.00
 h_1b_dependent                 | No
 -[ RECORD 125 ]----------------+------------------------------------------------------------
+case_number                    | I-200-23030-736716
+job_title                      | Food Technologist Specialist
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012318052
+employer_poc_first_name        | TABITHA
+employer_poc_last_name         | THOMAS
+employer_poc_email             | Tabitha.Thomas@ndsu.edu
+employer_poc_phone             | 17012318052
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU Department of Plant Sciences
+worksite_address2              | 1360 Albrecht Blvd. N., Loftsgard Hall 166
+worksite_city                  | Fargo
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1301 12TH AVENUE N
+employer_address2              | 
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 19-1012.00
+h_1b_dependent                 | No
+-[ RECORD 126 ]----------------+------------------------------------------------------------
 case_number                    | I-200-23079-862662
 job_title                      | RESEARCH SPECIALIST
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -4123,7 +4156,40 @@ amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
--[ RECORD 126 ]----------------+------------------------------------------------------------
+-[ RECORD 127 ]----------------+------------------------------------------------------------
+case_number                    | I-200-24099-865298
+job_title                      | POSTDOCTORAL RESEARCH FELLOW
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 17012319486
+employer_poc_first_name        | AMY
+employer_poc_last_name         | KNUDSON
+employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
+employer_poc_phone             | 17012319486
+employer_poc_phone_ext         | 
+worksite_address1              | NDSU DEPARTMENT OF PLANT SCIENCES
+worksite_address2              | 1420 BOLLEY DRIVE, LOFTSGARD HALL 166
+worksite_city                  | FARGO
+worksite_county                | CASS
+lawfirm_name_business_name     | 
+employer_address1              | 1320 BOLLEY DRIVE
+employer_address2              | HASTINGS HALL
+employer_city                  | FARGO
+employer_state                 | ND
+employer_postal_code           | 58102
+begin_date                     | 2024-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NORTH DAKOTA STATE UNIVERSITY
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 128 ]----------------+------------------------------------------------------------
 case_number                    | I-200-23065-824668
 job_title                      | ASST PROFESSOR, OMICS & PREDICTIVE MODELING IN PLANTS
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
@@ -4155,72 +4221,6 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 127 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23030-736716
-job_title                      | Food Technologist Specialist
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | Tabitha.Thomas@ndsu.edu
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU Department of Plant Sciences
-worksite_address2              | 1360 Albrecht Blvd. N., Loftsgard Hall 166
-worksite_city                  | Fargo
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1012.00
-h_1b_dependent                 | No
--[ RECORD 128 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23030-736716
-job_title                      | Food Technologist Specialist
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | Tabitha.Thomas@ndsu.edu
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU Department of Plant Sciences
-worksite_address2              | 1360 Albrecht Blvd. N., Loftsgard Hall 166
-worksite_city                  | Fargo
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1012.00
 h_1b_dependent                 | No
 -[ RECORD 129 ]----------------+------------------------------------------------------------
 case_number                    | I-200-23080-866045
@@ -4254,368 +4254,5 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | NORTH DAKOTA STATE UNIVERSITY
 soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 130 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23164-106588
-job_title                      | IT PROJECT MANAGER & INTERN INSTRUCTOR
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | TABITHA.THOMAS@NDSU.EDU
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, UPPER GREAT PLAINS TRANSPORTATION INSTITUTE
-worksite_address2              | 1320 ALBRECHT BLVD, QUENTIN BURDICK BLDG
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 15-1299.09
-h_1b_dependent                 | No
--[ RECORD 131 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23027-733469
-job_title                      | EXTENSION SPECIALIST/ CROPPING SYSTEMS
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | Tabitha.Thomas@ndsu.edu
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, NORTH CENTRAL RESEARCH EXTENSION CENTER
-worksite_address2              | 5400 HIGHWAY 83 SOUTH
-worksite_city                  | MINOT
-worksite_county                | WARD
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 132 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23101-923687
-job_title                      | DRYLAND AGRONOMY RESEARCH SPECIALIST
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | Tabitha.Thomas@ndsu.edu
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, WILLISTON RESEARCH EXTENSION CENTER
-worksite_address2              | 14120 HIGHWAY 2
-worksite_city                  | WILLISTON
-worksite_county                | WILLIAMS
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-06-16
-end_date                       | 2026-06-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 133 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23101-923687
-job_title                      | DRYLAND AGRONOMY RESEARCH SPECIALIST
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | Tabitha.Thomas@ndsu.edu
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU, WILLISTON RESEARCH EXTENSION CENTER
-worksite_address2              | 14120 HIGHWAY 2
-worksite_city                  | WILLISTON
-worksite_county                | WILLIAMS
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-06-16
-end_date                       | 2026-06-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 134 ]----------------+------------------------------------------------------------
-case_number                    | I-200-22356-656785
-job_title                      | Java Developer
-employer_name                  | GENERIC SOLUTIONS INC
-secondary_entity_business_name | State of North Dakota - Information Technology Department
-employer_phone                 | 12143891528
-employer_poc_first_name        | RAVISHANKER
-employer_poc_last_name         | PATEL
-employer_poc_email             | ravi@gensolinc.com
-employer_poc_phone             | 12143891528
-employer_poc_phone_ext         | 
-worksite_address1              | 4201 Normandy St
-worksite_address2              | 
-worksite_city                  | Bismarck
-worksite_county                | BURLEIGH
-lawfirm_name_business_name     | Sethi-Wadhwa Law PLLC
-employer_address1              | 12200 FORD ROAD
-employer_address2              | SUITE 486
-employer_city                  | DALLAS
-employer_state                 | TX
-employer_postal_code           | 75234
-begin_date                     | 2023-06-15
-end_date                       | 2026-06-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | GENERIC SOLUTIONS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 135 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23114-958884
-job_title                      | RESEARCH SPECIALIST
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012319486
-employer_poc_first_name        | AMY
-employer_poc_last_name         | KNUDSON
-employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
-employer_poc_phone             | 17012319486
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU Department of Plant Sciences
-worksite_address2              | 1420 Bolley Dr
-worksite_city                  | Fargo
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1012.00
-h_1b_dependent                 | No
--[ RECORD 136 ]----------------+------------------------------------------------------------
-case_number                    | I-200-24325-487411
-job_title                      | LECTURER, CIVIL ENGINEERING
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012319486
-employer_poc_first_name        | AMY
-employer_poc_last_name         | KNUDSON
-employer_poc_email             | AMY.KNUDSON.1@NDSU.EDU
-employer_poc_phone             | 17012319486
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU DEPARTMENT OF CIVIL & INDUSTRIAL ENGINEERING
-worksite_address2              | 1410 14TH AVE N
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1320 BOLLEY DRIVE
-employer_address2              | HASTINGS HALL
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2025-01-01
-end_date                       | 2026-05-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 1
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 137 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23048-784101
-job_title                      | Research Scientist
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | Tabitha.Thomas@ndsu.edu
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU DEPT OF PLANT SCIENCES
-worksite_address2              | 1360 ALBRECHT BLVD, LOFTSGARD HALL
-worksite_city                  | FARGO
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-05-13
-end_date                       | 2026-05-12
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 138 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23059-810390
-job_title                      | Enterprise Network Administrator
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 17012318052
-employer_poc_first_name        | TABITHA
-employer_poc_last_name         | THOMAS
-employer_poc_email             | Tabitha.Thomas@ndsu.edu
-employer_poc_phone             | 17012318052
-employer_poc_phone_ext         | 
-worksite_address1              | NDSU Enterprise Computing & Infrastructure
-worksite_address2              | 1320 Albrecht Boulevard
-worksite_city                  | Fargo
-worksite_county                | CASS
-lawfirm_name_business_name     | 
-employer_address1              | 1301 12TH AVENUE N
-employer_address2              | 
-employer_city                  | FARGO
-employer_state                 | ND
-employer_postal_code           | 58102
-begin_date                     | 2023-05-01
-end_date                       | 2026-04-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NORTH DAKOTA STATE UNIVERSITY
-soc_code                       | 15-1244.00
-h_1b_dependent                 | No
--[ RECORD 139 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23107-939006
-job_title                      | Network Engineer
-employer_name                  | TRUSOFT SOLUTIONS LLC
-secondary_entity_business_name | STATE OF NORTH DAKOTA
-employer_phone                 | 19047359891
-employer_poc_first_name        | Sandeep
-employer_poc_last_name         | Jangiti
-employer_poc_email             | sj@trusoftsolutions.com
-employer_poc_phone             | 19047359891
-employer_poc_phone_ext         | 
-worksite_address1              | 4201 Normandy St
-worksite_address2              | 
-worksite_city                  | Bismarck
-worksite_county                | BURLEIGH
-lawfirm_name_business_name     | Akula & Associates PC
-employer_address1              | 2180 SATELLITE BLVD
-employer_address2              | SUITE 400
-employer_city                  | DULUTH
-employer_state                 | GA
-employer_postal_code           | 30097
-begin_date                     | 2023-04-24
-end_date                       | 2026-04-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | TRUSOFT SOLUTIONS LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 140 ]----------------+------------------------------------------------------------
-case_number                    | I-200-23089-890871
-job_title                      | Network Engineer
-employer_name                  | TRUSOFT SOLUTIONS LLC
-secondary_entity_business_name | STATE OF NORTH DAKOTA
-employer_phone                 | 19047359891
-employer_poc_first_name        | Sandeep
-employer_poc_last_name         | Jangiti
-employer_poc_email             | sj@trusoftsolutions.com
-employer_poc_phone             | 19047359891
-employer_poc_phone_ext         | 
-worksite_address1              | 4201 Normandy St
-worksite_address2              | 
-worksite_city                  | Bismarck
-worksite_county                | BURLEIGH
-lawfirm_name_business_name     | Akula & Associates PC
-employer_address1              | 2180 SATELLITE BLVD
-employer_address2              | SUITE 400
-employer_city                  | DULUTH
-employer_state                 | GA
-employer_postal_code           | 30097
-begin_date                     | 2023-04-06
-end_date                       | 2026-04-05
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | TRUSOFT SOLUTIONS LLC
-soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 

@@ -593,7 +593,7 @@ employer_name                  | SERENITY INFOTECH INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 19 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-25122-933191
+case_number                    | I-200-25122-932131
 job_title                      | Business Analyst
 employer_name                  | DIGIPULSE TECHNOLOGIES INC
 secondary_entity_business_name | Department of Health and Human Services - State of Nebraska
@@ -626,7 +626,7 @@ employer_name                  | DIGIPULSE TECHNOLOGIES INC
 soc_code                       | 15-1211
 h_1b_dependent                 | Yes
 -[ RECORD 20 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-25122-932131
+case_number                    | I-200-25122-933191
 job_title                      | Business Analyst
 employer_name                  | DIGIPULSE TECHNOLOGIES INC
 secondary_entity_business_name | Department of Health and Human Services - State of Nebraska
@@ -1154,59 +1154,59 @@ employer_name                  | Nebraska Department of Education
 soc_code                       | 25-9031.00
 h_1b_dependent                 | No
 -[ RECORD 36 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-24137-001548
+case_number                    | I-200-24358-568817
 job_title                      | Software Developer
-employer_name                  | Capital Soft Tech INC
-secondary_entity_business_name | State of Nebraska – Office of the CIO
-employer_phone                 | 19452680363
-employer_poc_first_name        | Sateesh
-employer_poc_last_name         | Male
-employer_poc_email             | immigration@capitalsoft-tech.com
-employer_poc_phone             | 19452680363
+employer_name                  | VIACORE TECHNOLOGIES INC
+secondary_entity_business_name | State of Nebraska - Office of the CIO
+employer_phone                 | 19455271917
+employer_poc_first_name        | Mitesh
+employer_poc_last_name         | Chheda
+employer_poc_email             | Immigration@viacoreinc.com
+employer_poc_phone             | 19455271917
 employer_poc_phone_ext         | 
 worksite_address1              | 501 S 14th St
 worksite_address2              | 
 worksite_city                  | Lincoln
 worksite_county                | LANCASTER
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 1925 E Belt Line Road
-employer_address2              | STE 276
-employer_city                  | Carrollton
-employer_state                 | TX
-employer_postal_code           | 75006
-begin_date                     | 2024-10-01
+lawfirm_name_business_name     | 
+employer_address1              | 4525 ROUTE 27
+employer_address2              | 
+employer_city                  | PRINCETON
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2024-12-30
 end_date                       | 2027-09-30
 total_worker_positions         | 1
-new_employment                 | 1
+new_employment                 | 0
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 0
-employer_name                  | Capital Soft Tech INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
+amended_petition               | 1
+employer_name                  | VIACORE TECHNOLOGIES INC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
 -[ RECORD 37 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-24144-028424
-job_title                      | Software Developer
-employer_name                  | Capital Soft Tech INC
-secondary_entity_business_name | State of Nebraska – Office of the CIO
-employer_phone                 | 19452680363
-employer_poc_first_name        | Sateesh
-employer_poc_last_name         | Male
-employer_poc_email             | immigration@capitalsoft-tech.com
-employer_poc_phone             | 19452680363
+case_number                    | I-200-24128-968030
+job_title                      | JAVA DEVELOPER
+employer_name                  | INNOVATION SQUAD INC
+secondary_entity_business_name | STATE OF NEBRASKA-OFFICE OF THE CIO
+employer_phone                 | 14699564556
+employer_poc_first_name        | PURNIMA
+employer_poc_last_name         | PANCHUMARTHY
+employer_poc_email             | ITEAM@ISQUADINC.COM
+employer_poc_phone             | 14699564556
 employer_poc_phone_ext         | 
-worksite_address1              | 501 S 14th St
+worksite_address1              | 501 S 14TH STREET
 worksite_address2              | 
-worksite_city                  | Lincoln
+worksite_city                  | LINCOLN
 worksite_county                | LANCASTER
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 1925 E Belt Line Road
-employer_address2              | STE 276
-employer_city                  | Carrollton
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 16135 PRESTON ROAD
+employer_address2              | SUITE 212
+employer_city                  | DALLAS
 employer_state                 | TX
-employer_postal_code           | 75006
+employer_postal_code           | 75248
 begin_date                     | 2024-10-01
 end_date                       | 2027-09-30
 total_worker_positions         | 1
@@ -1216,7 +1216,7 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Capital Soft Tech INC
+employer_name                  | INNOVATION SQUAD INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 38 ]-----------------+--------------------------------------------------------------------------------------
@@ -1253,26 +1253,26 @@ employer_name                  | Capital Soft Tech INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 39 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-24128-968030
-job_title                      | JAVA DEVELOPER
-employer_name                  | INNOVATION SQUAD INC
-secondary_entity_business_name | STATE OF NEBRASKA-OFFICE OF THE CIO
-employer_phone                 | 14699564556
-employer_poc_first_name        | PURNIMA
-employer_poc_last_name         | PANCHUMARTHY
-employer_poc_email             | ITEAM@ISQUADINC.COM
-employer_poc_phone             | 14699564556
+case_number                    | I-200-24137-001548
+job_title                      | Software Developer
+employer_name                  | Capital Soft Tech INC
+secondary_entity_business_name | State of Nebraska – Office of the CIO
+employer_phone                 | 19452680363
+employer_poc_first_name        | Sateesh
+employer_poc_last_name         | Male
+employer_poc_email             | immigration@capitalsoft-tech.com
+employer_poc_phone             | 19452680363
 employer_poc_phone_ext         | 
-worksite_address1              | 501 S 14TH STREET
+worksite_address1              | 501 S 14th St
 worksite_address2              | 
-worksite_city                  | LINCOLN
+worksite_city                  | Lincoln
 worksite_county                | LANCASTER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 16135 PRESTON ROAD
-employer_address2              | SUITE 212
-employer_city                  | DALLAS
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 1925 E Belt Line Road
+employer_address2              | STE 276
+employer_city                  | Carrollton
 employer_state                 | TX
-employer_postal_code           | 75248
+employer_postal_code           | 75006
 begin_date                     | 2024-10-01
 end_date                       | 2027-09-30
 total_worker_positions         | 1
@@ -1282,11 +1282,11 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | INNOVATION SQUAD INC
+employer_name                  | Capital Soft Tech INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 40 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-24155-061453
+case_number                    | I-200-24144-028424
 job_title                      | Software Developer
 employer_name                  | Capital Soft Tech INC
 secondary_entity_business_name | State of Nebraska – Office of the CIO
@@ -1319,38 +1319,38 @@ employer_name                  | Capital Soft Tech INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 41 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-24358-568817
+case_number                    | I-200-24155-061453
 job_title                      | Software Developer
-employer_name                  | VIACORE TECHNOLOGIES INC
-secondary_entity_business_name | State of Nebraska - Office of the CIO
-employer_phone                 | 19455271917
-employer_poc_first_name        | Mitesh
-employer_poc_last_name         | Chheda
-employer_poc_email             | Immigration@viacoreinc.com
-employer_poc_phone             | 19455271917
+employer_name                  | Capital Soft Tech INC
+secondary_entity_business_name | State of Nebraska – Office of the CIO
+employer_phone                 | 19452680363
+employer_poc_first_name        | Sateesh
+employer_poc_last_name         | Male
+employer_poc_email             | immigration@capitalsoft-tech.com
+employer_poc_phone             | 19452680363
 employer_poc_phone_ext         | 
 worksite_address1              | 501 S 14th St
 worksite_address2              | 
 worksite_city                  | Lincoln
 worksite_county                | LANCASTER
-lawfirm_name_business_name     | 
-employer_address1              | 4525 ROUTE 27
-employer_address2              | 
-employer_city                  | PRINCETON
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2024-12-30
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 1925 E Belt Line Road
+employer_address2              | STE 276
+employer_city                  | Carrollton
+employer_state                 | TX
+employer_postal_code           | 75006
+begin_date                     | 2024-10-01
 end_date                       | 2027-09-30
 total_worker_positions         | 1
-new_employment                 | 0
+new_employment                 | 1
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 1
-employer_name                  | VIACORE TECHNOLOGIES INC
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
+amended_petition               | 0
+employer_name                  | Capital Soft Tech INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
 -[ RECORD 42 ]-----------------+--------------------------------------------------------------------------------------
 case_number                    | I-200-24155-062315
 job_title                      | Epidemiologist
@@ -2241,434 +2241,5 @@ change_employer                | 0
 amended_petition               | 1
 employer_name                  | ESYSTEMS INC
 soc_code                       | 15-1299.09
-h_1b_dependent                 | Yes
--[ RECORD 69 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23135-020177
-job_title                      | Epidemiologist
-employer_name                  | National Foundation for the Centers for Disease Control and Prevention
-secondary_entity_business_name | Nebraska Department of Health and Human Services
-employer_phone                 | 14045233490
-employer_poc_first_name        | Helen
-employer_poc_last_name         | Tovar
-employer_poc_email             | htovar@cdcfoundation.org
-employer_poc_phone             | 14045233511
-employer_poc_phone_ext         | 
-worksite_address1              | 301 Centennial Mall South
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Jackson Lewis PC
-employer_address1              | 600 Peachtree St. NE
-employer_address2              | Suite 1000
-employer_city                  | Atlanta
-employer_state                 | GA
-employer_postal_code           | 30308
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | National Foundation for the Centers for Disease Control and Prevention
-soc_code                       | 19-1041.00
-h_1b_dependent                 | No
--[ RECORD 70 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23075-853331
-job_title                      | Software Engineer
-employer_name                  | COOLSOFT LLC
-secondary_entity_business_name | State of Nebraska - Department of Health & Human Services (DHHS)
-employer_phone                 | 15023279805
-employer_poc_first_name        | Roger
-employer_poc_last_name         | Natarajan
-employer_poc_email             | roger@coolsofttech.com
-employer_poc_phone             | 15023279805
-employer_poc_phone_ext         | 5003
-worksite_address1              | 301 Centennial Mall S
-worksite_address2              | 3rd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | 
-employer_address1              | 3240 OFFICE POINTE PLACE
-employer_address2              | SUITE 200
-employer_city                  | LOUISVILLE
-employer_state                 | KY
-employer_postal_code           | 40220
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | COOLSOFT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 71 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23011-695359
-job_title                      | Software Engineer
-employer_name                  | COOLSOFT LLC
-secondary_entity_business_name | State of Nebraska - Department of Health & Human Services - OCIO
-employer_phone                 | 15023279805
-employer_poc_first_name        | Roger
-employer_poc_last_name         | Natarajan
-employer_poc_email             | roger@coolsofttech.com
-employer_poc_phone             | 15023279805
-employer_poc_phone_ext         | 5003
-worksite_address1              | 301 Centennial Mall South
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | 
-employer_address1              | 3240 OFFICE POINTE PLACE
-employer_address2              | SUITE 200
-employer_city                  | LOUISVILLE
-employer_state                 | KY
-employer_postal_code           | 40220
-begin_date                     | 2023-06-30
-end_date                       | 2026-06-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | COOLSOFT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 72 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23023-719725
-job_title                      | SENIOR SOFTWARE DEVELOPER
-employer_name                  | SARKIT INC
-secondary_entity_business_name | State of Nebraska
-employer_phone                 | 14024934091
-employer_poc_first_name        | Pavan
-employer_poc_last_name         | Kotta
-employer_poc_email             | pkotta@SARKIT.COM
-employer_poc_phone             | 15157080921
-employer_poc_phone_ext         | 
-worksite_address1              | 1033 O Street
-worksite_address2              | Suite 130
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | CURLEY IMMIGRATION LAW PC LLO
-employer_address1              | 3913 S 184th ST
-employer_address2              | 
-employer_city                  | OMAHA
-employer_state                 | NE
-employer_postal_code           | 68130
-begin_date                     | 2023-06-15
-end_date                       | 2026-06-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SARKIT INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 73 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23080-866034
-job_title                      | IT Data/Database Analyst Lead
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_phone                 | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_phone_ext         | 
-worksite_address1              | 500 S. 84th, Street
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Jackson Lewis PC
-employer_address1              | 500 S. 84th St
-employer_address2              | 2nd Floor
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 2023-06-12
-end_date                       | 2026-06-11
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Nebraska Department of Education
-soc_code                       | 15-1243.00
-h_1b_dependent                 | No
--[ RECORD 74 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23041-765316
-job_title                      | Data Architect/Business Intelligence Lead
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_phone                 | 14023102517
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_phone_ext         | 
-worksite_address1              | 500 South 84th Street
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Nebraska Department of Education
-employer_address1              | 500 South 84th Street
-employer_address2              | 2nd Floor
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 2023-06-12
-end_date                       | 2026-06-11
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Nebraska Department of Education
-soc_code                       | 15-1243.00
-h_1b_dependent                 | No
--[ RECORD 75 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23152-071754
-job_title                      | Workfront Project Manager/SME
-employer_name                  | Isolve Technology Inc
-secondary_entity_business_name | Nebraska Department of Health and Human  Services
-employer_phone                 | 17035160433
-employer_poc_first_name        | Sivarama
-employer_poc_last_name         | Sunkara
-employer_poc_email             | hr.@isolvtechnolgy.com
-employer_poc_phone             | 17035160433
-employer_poc_phone_ext         | 
-worksite_address1              | 301 Centennial Mall S
-worksite_address2              | 
-worksite_city                  | Lincoln,
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | BBI Law Group PC
-employer_address1              | 462 Herndon Pkwy
-employer_address2              | Suite 205
-employer_city                  | Herndon
-employer_state                 | VA
-employer_postal_code           | 20170
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Isolve Technology Inc
-soc_code                       | 15-1299.09
-h_1b_dependent                 | Yes
--[ RECORD 76 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23073-846123
-job_title                      | NETWORK ENGINEER
-employer_name                  | INNOVA SOLUTIONS INC
-secondary_entity_business_name | STATE OF NEBRASKA
-employer_phone                 | 16148159095
-employer_poc_first_name        | ANA CRISTINA
-employer_poc_last_name         | SANTIESTEBAN GUTIERREZ
-employer_poc_email             | IMMIGRATION@ACSICORP.COM
-employer_poc_phone             | 16148159095
-employer_poc_phone_ext         | 
-worksite_address1              | 1033 O STREET
-worksite_address2              | 
-worksite_city                  | LINCOLN
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | 
-employer_address1              | 2400 MEADOWBROOK PARKWAY
-employer_address2              | 
-employer_city                  | DULUTH
-employer_state                 | GA
-employer_postal_code           | 30096
-begin_date                     | 2023-04-10
-end_date                       | 2026-04-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | INNOVA SOLUTIONS INC
-soc_code                       | 15-1244.00
-h_1b_dependent                 | No
--[ RECORD 77 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23090-894300
-job_title                      | .Net Developer
-employer_name                  | SOHANIT INC
-secondary_entity_business_name | State of Nebraska Department of Transportation
-employer_phone                 | 14026175717
-employer_poc_first_name        | MANOJA
-employer_poc_last_name         | SAVARAM
-employer_poc_email             | MANOJA.SAVARAM@SOHANIT.COM
-employer_poc_phone             | 14026175717
-employer_poc_phone_ext         | 
-worksite_address1              | 1500 Hwy 2
-worksite_address2              | NA
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
-employer_address1              | 425 E Crossville Road
-employer_address2              | Unit201
-employer_city                  | Roswell
-employer_state                 | GA
-employer_postal_code           | 30075
-begin_date                     | 2023-04-07
-end_date                       | 2026-04-06
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | SOHANIT INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 78 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23087-883078
-job_title                      | IT Applications Developer Sr.
-employer_name                  | Nebraska Department of Education
-secondary_entity_business_name | 
-employer_phone                 | 14024715027
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Spellman
-employer_poc_email             | amy.spellman@nebraska.gov
-employer_poc_phone             | 14024715027
-employer_poc_phone_ext         | 
-worksite_address1              | 500 S. 84th Street
-worksite_address2              | 2nd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Jackson Lewis PC
-employer_address1              | 500 S. 84th St
-employer_address2              | 2nd Floor
-employer_city                  | Lincoln
-employer_state                 | NE
-employer_postal_code           | 68510
-begin_date                     | 2023-04-01
-end_date                       | 2026-03-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Nebraska Department of Education
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 79 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23082-871145
-job_title                      | Business Analyst
-employer_name                  | emaestro Technologies Inc
-secondary_entity_business_name | state of Nebraska
-employer_phone                 | 16787997615
-employer_poc_first_name        | mythilli
-employer_poc_last_name         | raghupathy
-employer_poc_email             | info@emaestrotech.com
-employer_poc_phone             | 16787997615
-employer_poc_phone_ext         | 
-worksite_address1              | 301 centennial Mall south
-worksite_address2              | 
-worksite_city                  | lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | 
-employer_address1              | 141 New road
-employer_address2              | suite 205
-employer_city                  | parsippany
-employer_state                 | NJ
-employer_postal_code           | 07054
-begin_date                     | 2023-04-01
-end_date                       | 2026-03-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | emaestro Technologies Inc
-soc_code                       | 13-1199.00
-h_1b_dependent                 | Yes
--[ RECORD 80 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-22276-507717
-job_title                      | Software Engineer
-employer_name                  | SA Technologies Inc
-secondary_entity_business_name | State of Nebraska
-employer_phone                 | 14083296911
-employer_poc_first_name        | Manoj
-employer_poc_last_name         | Joshi
-employer_poc_email             | manoj@satechglobal.com
-employer_poc_phone             | 14083296911
-employer_poc_phone_ext         | 
-worksite_address1              | 301 Centennial Mall S
-worksite_address2              | 
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | Law Office of Sharon Lue
-employer_address1              | 3031 Tisch Way, 110 Plaza West
-employer_address2              | 
-employer_city                  | San Jose
-employer_state                 | CA
-employer_postal_code           | 95128
-begin_date                     | 2023-04-01
-end_date                       | 2026-03-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SA Technologies Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 81 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-22263-482619
-job_title                      | Software Engineer
-employer_name                  | COOLSOFT LLC
-secondary_entity_business_name | State of Nebraska - OCIO
-employer_phone                 | 15023279805
-employer_poc_first_name        | Roger
-employer_poc_last_name         | Natarajan
-employer_poc_email             | roger@coolsofttech.com
-employer_poc_phone             | 15023279805
-employer_poc_phone_ext         | 5003
-worksite_address1              | 301 Centennial Mall S
-worksite_address2              | 3rd Floor
-worksite_city                  | Lincoln
-worksite_county                | LANCASTER
-lawfirm_name_business_name     | 
-employer_address1              | 3240 OFFICE POINTE PLACE
-employer_address2              | SUITE 200
-employer_city                  | LOUISVILLE
-employer_state                 | KY
-employer_postal_code           | 40220
-begin_date                     | 2023-03-19
-end_date                       | 2026-03-18
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | COOLSOFT LLC
-soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 

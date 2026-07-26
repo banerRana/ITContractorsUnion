@@ -230,39 +230,6 @@ employer_name                  | Zume IT Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+-------------------------------------------------------------
-case_number                    | I-200-25163-087223
-job_title                      | Data Scientist
-employer_name                  | Idaho Department of Correction
-secondary_entity_business_name | 
-employer_phone                 | 12086582000
-employer_poc_first_name        | Whitney
-employer_poc_last_name         | Ascuena-Bolt
-employer_poc_email             | wascuena@idoc.idaho.gov
-employer_poc_phone             | 12086582154
-employer_poc_phone_ext         | 
-worksite_address1              | 1299 N. Orchard St., Suite 110
-worksite_address2              | 
-worksite_city                  | Boise
-worksite_county                | ADA
-lawfirm_name_business_name     | 
-employer_address1              | 1299 N. Orchard St. Suite 110
-employer_address2              | 
-employer_city                  | Boise
-employer_state                 | ID
-employer_postal_code           | 83706
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Idaho Department of Correction
-soc_code                       | 15-2051
-h_1b_dependent                 | No
--[ RECORD 9 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-25169-106365
 job_title                      | Software Developer(CRM Developer)
 employer_name                  | Merit American Technologies Inc
@@ -295,7 +262,7 @@ amended_petition               | 0
 employer_name                  | Merit American Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+-------------------------------------------------------------
+-[ RECORD 9 ]------------------+-------------------------------------------------------------
 case_number                    | I-200-25169-106633
 job_title                      | Software Developer(CRM Developer)
 employer_name                  | Merit American Technologies Inc
@@ -328,6 +295,39 @@ amended_petition               | 0
 employer_name                  | Merit American Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
+-[ RECORD 10 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-25163-087223
+job_title                      | Data Scientist
+employer_name                  | Idaho Department of Correction
+secondary_entity_business_name | 
+employer_phone                 | 12086582000
+employer_poc_first_name        | Whitney
+employer_poc_last_name         | Ascuena-Bolt
+employer_poc_email             | wascuena@idoc.idaho.gov
+employer_poc_phone             | 12086582154
+employer_poc_phone_ext         | 
+worksite_address1              | 1299 N. Orchard St., Suite 110
+worksite_address2              | 
+worksite_city                  | Boise
+worksite_county                | ADA
+lawfirm_name_business_name     | 
+employer_address1              | 1299 N. Orchard St. Suite 110
+employer_address2              | 
+employer_city                  | Boise
+employer_state                 | ID
+employer_postal_code           | 83706
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Idaho Department of Correction
+soc_code                       | 15-2051
+h_1b_dependent                 | No
 -[ RECORD 11 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-25141-002689
 job_title                      | Software Developer
@@ -1121,39 +1121,6 @@ employer_name                  | Idaho State University
 soc_code                       | 13-2011.00
 h_1b_dependent                 | No
 -[ RECORD 35 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24024-662108
-job_title                      | Software Engineer
-employer_name                  | Pike Solutions Inc
-secondary_entity_business_name | Idaho Transportation Department
-employer_phone                 | 19083462429
-employer_poc_first_name        | CHANDRA
-employer_poc_last_name         | KALARI
-employer_poc_email             | hr@pikesol.com
-employer_poc_phone             | 19083462429
-employer_poc_phone_ext         | 
-worksite_address1              | 11331 W. Chinden Boulevard
-worksite_address2              | 
-worksite_city                  | Boise
-worksite_county                | ADA
-lawfirm_name_business_name     | 
-employer_address1              | 53 Knightsbridge Road
-employer_address2              | Suite 299
-employer_city                  | Piscataway
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2024-07-01
-end_date                       | 2027-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Pike Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 36 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24136-997158
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | TEKNATIO INC
@@ -1184,6 +1151,39 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | TEKNATIO INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 36 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24024-662108
+job_title                      | Software Engineer
+employer_name                  | Pike Solutions Inc
+secondary_entity_business_name | Idaho Transportation Department
+employer_phone                 | 19083462429
+employer_poc_first_name        | CHANDRA
+employer_poc_last_name         | KALARI
+employer_poc_email             | hr@pikesol.com
+employer_poc_phone             | 19083462429
+employer_poc_phone_ext         | 
+worksite_address1              | 11331 W. Chinden Boulevard
+worksite_address2              | 
+worksite_city                  | Boise
+worksite_county                | ADA
+lawfirm_name_business_name     | 
+employer_address1              | 53 Knightsbridge Road
+employer_address2              | Suite 299
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2024-07-01
+end_date                       | 2027-06-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Pike Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 37 ]-----------------+-------------------------------------------------------------
@@ -1352,7 +1352,7 @@ employer_name                  | Idaho State University
 soc_code                       | 47-4041.00
 h_1b_dependent                 | No
 -[ RECORD 42 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23276-407141
+case_number                    | I-200-23277-409301
 job_title                      | Business Systems Consultant
 employer_name                  | Acro Service Corporation
 secondary_entity_business_name | State of Idaho
@@ -1385,7 +1385,7 @@ employer_name                  | Acro Service Corporation
 soc_code                       | 13-1111.00
 h_1b_dependent                 | No
 -[ RECORD 43 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23277-409301
+case_number                    | I-200-23276-407141
 job_title                      | Business Systems Consultant
 employer_name                  | Acro Service Corporation
 secondary_entity_business_name | State of Idaho
@@ -1714,334 +1714,4 @@ amended_petition               | 0
 employer_name                  | Idaho State University
 soc_code                       | 27-2022.00
 h_1b_dependent                 | N/A
--[ RECORD 53 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23087-884015
-job_title                      | POWER BI DEVELOPER
-employer_name                  | TECHSMART GLOBAL INC
-secondary_entity_business_name | STATE OF IDAHO TRANSPORTATION DEPARTMENT
-employer_phone                 | 16095893999
-employer_poc_first_name        | ARAVIND
-employer_poc_last_name         | DARUVURU
-employer_poc_email             | HR@TECHSMARTGLOBAL.COM
-employer_poc_phone             | 16095893999
-employer_poc_phone_ext         | 
-worksite_address1              | 11311 WEST CHINDEN BLVD.
-worksite_address2              | 
-worksite_city                  | BOISE
-worksite_county                | ADA
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 666 PLAINSBORO ROAD
-employer_address2              | SUITE 1116
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 2023-07-14
-end_date                       | 2026-07-13
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | TECHSMART GLOBAL INC
-soc_code                       | 15-2051.01
-h_1b_dependent                 | Yes
--[ RECORD 54 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23178-147424
-job_title                      | Software Developer
-employer_name                  | 9to9 Software Solutions LLC
-secondary_entity_business_name | Idaho Transportation Department
-employer_phone                 | 18609908610
-employer_poc_first_name        | Ashok
-employer_poc_last_name         | Sukumaran
-employer_poc_email             | ashok@9to9soft.com
-employer_poc_phone             | 18609908610
-employer_poc_phone_ext         | 
-worksite_address1              | 11331 W. Chinden Blvd.
-worksite_address2              | 
-worksite_city                  | Boise
-worksite_county                | ADA
-lawfirm_name_business_name     | Credence Support Services Inc
-employer_address1              | 1224 MILL ST, Bldg B
-employer_address2              | Suite 124
-employer_city                  | EAST BERLIN
-employer_state                 | CT
-employer_postal_code           | 06023
-begin_date                     | 2023-07-10
-end_date                       | 2026-07-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | 9to9 Software Solutions LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 55 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23136-026213
-job_title                      | Professor and Department Chair
-employer_name                  | Idaho State University
-secondary_entity_business_name | 
-employer_phone                 | 12082822963
-employer_poc_first_name        | Abdul
-employer_poc_last_name         | Azizi
-employer_poc_email             | khalilazizi@isu.edu
-employer_poc_phone             | 12082822963
-employer_poc_phone_ext         | 2963
-worksite_address1              | 921 S 8th Ave, Stop 8055
-worksite_address2              | 
-worksite_city                  | Pocatello
-worksite_county                | BANNOCK
-lawfirm_name_business_name     | 
-employer_address1              | 921 S 8th Ave
-employer_address2              | 
-employer_city                  | Pocatello
-employer_state                 | ID
-employer_postal_code           | 83201
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Idaho State University
-soc_code                       | 25-1071.00
-h_1b_dependent                 | No
--[ RECORD 56 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23004-679347
-job_title                      | Software Architect
-employer_name                  | ERP Analysts Inc
-secondary_entity_business_name | Idaho Transportation Department
-employer_phone                 | 16147189222
-employer_poc_first_name        | Manjusha
-employer_poc_last_name         | Akkapeddi
-employer_poc_email             | manjusha.akkapeddi@erpa.com
-employer_poc_phone             | 16146954283
-employer_poc_phone_ext         | 7007
-worksite_address1              | 11331 W. Chinden Blvd
-worksite_address2              | 
-worksite_city                  | Boise
-worksite_county                | ADA
-lawfirm_name_business_name     | Chugh LLP
-employer_address1              | 425 Metro Place N
-employer_address2              | SUITE 510
-employer_city                  | Dublin
-employer_state                 | OH
-employer_postal_code           | 43017
-begin_date                     | 2023-06-30
-end_date                       | 2026-06-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ERP Analysts Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 57 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23153-071990
-job_title                      | Software Architect
-employer_name                  | 9to9 Software Solutions LLC
-secondary_entity_business_name | Idaho Transportation Department
-employer_phone                 | 18609908610
-employer_poc_first_name        | Ashok
-employer_poc_last_name         | Sukumaran
-employer_poc_email             | ashok@9to9soft.com
-employer_poc_phone             | 18609908610
-employer_poc_phone_ext         | 
-worksite_address1              | 1131 W Chinden Blvd
-worksite_address2              | 
-worksite_city                  | Boise
-worksite_county                | ADA
-lawfirm_name_business_name     | Credence Support Services Inc
-employer_address1              | 1224 MILL ST, Bldg B
-employer_address2              | Suite 124
-employer_city                  | EAST BERLIN
-employer_state                 | CT
-employer_postal_code           | 06023
-begin_date                     | 2023-06-19
-end_date                       | 2026-06-18
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | 9to9 Software Solutions LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 58 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23090-894139
-job_title                      | Marketing, Communication, and Web Specialist
-employer_name                  | Idaho State University
-secondary_entity_business_name | 
-employer_phone                 | 12082822963
-employer_poc_first_name        | Abdul
-employer_poc_last_name         | Azizi
-employer_poc_email             | khalilazizi@isu.edu
-employer_poc_phone             | 12082822963
-employer_poc_phone_ext         | 2963
-worksite_address1              | 921 S 8th Ave, Stop 8108
-worksite_address2              | 
-worksite_city                  | Pocatello
-worksite_county                | BANNOCK
-lawfirm_name_business_name     | 
-employer_address1              | 921 S 8th Ave, Stop 8038
-employer_address2              | 
-employer_city                  | Pocatello
-employer_state                 | ID
-employer_postal_code           | 83209
-begin_date                     | 2023-05-15
-end_date                       | 2026-05-14
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Idaho State University
-soc_code                       | 13-1161.00
-h_1b_dependent                 | No
--[ RECORD 59 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-22342-629380
-job_title                      | Assistant Womens Basketball Coach
-employer_name                  | Idaho State University
-secondary_entity_business_name | 
-employer_phone                 | 12082822963
-employer_poc_first_name        | Abdul
-employer_poc_last_name         | Azizi
-employer_poc_email             | khalilazizi@isu.edu
-employer_poc_phone             | 12082822963
-employer_poc_phone_ext         | 2963
-worksite_address1              | 921 S 8th Ave, Stop 8173
-worksite_address2              | 
-worksite_city                  | Pocatello
-worksite_county                | BANNOCK
-lawfirm_name_business_name     | 
-employer_address1              | 921 S 8th Ave
-employer_address2              | 
-employer_city                  | Pocagtello
-employer_state                 | ID
-employer_postal_code           | 83209
-begin_date                     | 2023-05-09
-end_date                       | 2026-05-08
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Idaho State University
-soc_code                       | 27-2022
-h_1b_dependent                 | No
--[ RECORD 60 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-22342-629380
-job_title                      | Assistant Womens Basketball Coach
-employer_name                  | Idaho State University
-secondary_entity_business_name | 
-employer_phone                 | 12082822963
-employer_poc_first_name        | Abdul
-employer_poc_last_name         | Azizi
-employer_poc_email             | khalilazizi@isu.edu
-employer_poc_phone             | 12082822963
-employer_poc_phone_ext         | 2963
-worksite_address1              | 921 S 8th Ave, Stop 8173
-worksite_address2              | 
-worksite_city                  | Pocatello
-worksite_county                | BANNOCK
-lawfirm_name_business_name     | 
-employer_address1              | 921 S 8th Ave
-employer_address2              | 
-employer_city                  | Pocagtello
-employer_state                 | ID
-employer_postal_code           | 83209
-begin_date                     | 2023-05-09
-end_date                       | 2026-05-08
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Idaho State University
-soc_code                       | 27-2022.00
-h_1b_dependent                 | No
--[ RECORD 61 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23062-822532
-job_title                      | QA Automation Engineer
-employer_name                  | FRIENDLY CONSULTANTS INC
-secondary_entity_business_name | State of Idaho, Dept of Health and Welfare
-employer_phone                 | 16097509157
-employer_poc_first_name        | Hari
-employer_poc_last_name         | Musali
-employer_poc_email             | hrd@friendlyconsultants.com
-employer_poc_phone             | 16097509157
-employer_poc_phone_ext         | 
-worksite_address1              | 450 W. State Street
-worksite_address2              | 
-worksite_city                  | Boise
-worksite_county                | ADA
-lawfirm_name_business_name     | ?Law Office of Marta Cruz Gold
-employer_address1              | 742 Alexander Road
-employer_address2              | Suite 104
-employer_city                  | Princeton
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-05-01
-end_date                       | 2026-04-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | FRIENDLY CONSULTANTS INC
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 62 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23059-809412
-job_title                      | Trio Advisor/Planner
-employer_name                  | Idaho State University
-secondary_entity_business_name | 
-employer_phone                 | 12082822963
-employer_poc_first_name        | Abdul
-employer_poc_last_name         | Azizi
-employer_poc_email             | khalilazizi@isu.edu
-employer_poc_phone             | 12082822963
-employer_poc_phone_ext         | 2963
-worksite_address1              | 315 Falls Ave
-worksite_address2              | 
-worksite_city                  | Twin Falls
-worksite_county                | TWIN FALLS
-lawfirm_name_business_name     | 
-employer_address1              | 921 S 8th Ave
-employer_address2              | 
-employer_city                  | Pocatello
-employer_state                 | ID
-employer_postal_code           | 83209
-begin_date                     | 2023-04-03
-end_date                       | 2026-04-02
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Idaho State University
-soc_code                       | 21-1012.00
-h_1b_dependent                 | No
 

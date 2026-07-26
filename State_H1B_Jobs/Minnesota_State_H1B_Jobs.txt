@@ -329,39 +329,6 @@ employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 11 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-25118-911128
-job_title                      | Business Systems Analyst
-employer_name                  | Genius Minds LLC
-secondary_entity_business_name | State of Minnesota - Department of Human Services
-employer_phone                 | 17029004698
-employer_poc_first_name        | Amber
-employer_poc_last_name         | Primm
-employer_poc_email             | amber@genminds.com
-employer_poc_phone             | 17029004698
-employer_poc_phone_ext         | 
-worksite_address1              | 444 Lafayette Rd
-worksite_address2              | 
-worksite_city                  | St. Paul
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | Rajan Law LLC
-employer_address1              | 1201 Pacific Avenue
-employer_address2              | Suite 600
-employer_city                  | Tacoma
-employer_state                 | WA
-employer_postal_code           | 98402
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Genius Minds LLC
-soc_code                       | 13-1111
-h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-25139-991881
 job_title                      | QA Automation Engineer
 employer_name                  | Ardor IT Solutions Inc
@@ -393,6 +360,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Ardor IT Solutions Inc
 soc_code                       | 15-1253
+h_1b_dependent                 | Yes
+-[ RECORD 12 ]-----------------+-------------------------------------------------------------------------------------------
+case_number                    | I-200-25118-911128
+job_title                      | Business Systems Analyst
+employer_name                  | Genius Minds LLC
+secondary_entity_business_name | State of Minnesota - Department of Human Services
+employer_phone                 | 17029004698
+employer_poc_first_name        | Amber
+employer_poc_last_name         | Primm
+employer_poc_email             | amber@genminds.com
+employer_poc_phone             | 17029004698
+employer_poc_phone_ext         | 
+worksite_address1              | 444 Lafayette Rd
+worksite_address2              | 
+worksite_city                  | St. Paul
+worksite_county                | RAMSEY
+lawfirm_name_business_name     | Rajan Law LLC
+employer_address1              | 1201 Pacific Avenue
+employer_address2              | Suite 600
+employer_city                  | Tacoma
+employer_state                 | WA
+employer_postal_code           | 98402
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Genius Minds LLC
+soc_code                       | 13-1111
 h_1b_dependent                 | Yes
 -[ RECORD 13 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-25258-309622
@@ -626,39 +626,6 @@ employer_name                  | Minnesota State University, Mankato
 soc_code                       | 25-1022
 h_1b_dependent                 | No
 -[ RECORD 20 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-25051-711836
-job_title                      | Assistant Professor, Mathematics and Statistics
-employer_name                  | Minnesota State University, Mankato
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 600 South Road
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | FordMurray
-employer_address1              | 336 Wigley Administration Center, 600 S Road
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2025-08-16
-end_date                       | 2028-08-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State University, Mankato
-soc_code                       | 25-1022
-h_1b_dependent                 | No
--[ RECORD 21 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-25048-700868
 job_title                      | Assistant Professor of Mathematics and Statistics
 employer_name                  | Minnesota State Colleges and Universities
@@ -691,29 +658,29 @@ amended_petition               | 0
 employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1022
 h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-25217-222380
-job_title                      | Integrated Engineering Assistant Professor
+-[ RECORD 21 ]-----------------+-------------------------------------------------------------------------------------------
+case_number                    | I-200-25051-711836
+job_title                      | Assistant Professor, Mathematics and Statistics
 employer_name                  | Minnesota State University, Mankato
 secondary_entity_business_name | 
-employer_phone                 | 15073892015
-employer_poc_first_name        | Frederickson-Kratze
-employer_poc_last_name         | Jill
+employer_phone                 | 15073892017
+employer_poc_first_name        | Jill
+employer_poc_last_name         | Frederickson-Kratzke
 employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
 employer_poc_phone             | 15073892017
 employer_poc_phone_ext         | 
-worksite_address1              | 1001 Chestnut Street
+worksite_address1              | 600 South Road
 worksite_address2              | 
-worksite_city                  | Virginia
-worksite_county                | 
+worksite_city                  | Mankato
+worksite_county                | BLUE EARTH
 lawfirm_name_business_name     | FordMurray
-employer_address1              | 336 Wigley Administration Ctr, 600 S Road
+employer_address1              | 336 Wigley Administration Center, 600 S Road
 employer_address2              | 
 employer_city                  | Mankato
 employer_state                 | MN
 employer_postal_code           | 56001
-begin_date                     | 2025-08-15
-end_date                       | 2028-08-14
+begin_date                     | 2025-08-16
+end_date                       | 2028-08-15
 total_worker_positions         | 1
 new_employment                 | 1
 continued_employment           | 0
@@ -722,9 +689,9 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Minnesota State University, Mankato
-soc_code                       | 25-1032.00
+soc_code                       | 25-1022
 h_1b_dependent                 | No
--[ RECORD 23 ]-----------------+-------------------------------------------------------------------------------------------
+-[ RECORD 22 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-25209-203404
 job_title                      | Assistant Professor, Computer Information Systems
 employer_name                  | Minnesota State University, Mankato
@@ -756,6 +723,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Minnesota State University, Mankato
 soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 23 ]-----------------+-------------------------------------------------------------------------------------------
+case_number                    | I-200-25217-222380
+job_title                      | Integrated Engineering Assistant Professor
+employer_name                  | Minnesota State University, Mankato
+secondary_entity_business_name | 
+employer_phone                 | 15073892015
+employer_poc_first_name        | Frederickson-Kratze
+employer_poc_last_name         | Jill
+employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
+employer_poc_phone             | 15073892017
+employer_poc_phone_ext         | 
+worksite_address1              | 1001 Chestnut Street
+worksite_address2              | 
+worksite_city                  | Virginia
+worksite_county                | 
+lawfirm_name_business_name     | FordMurray
+employer_address1              | 336 Wigley Administration Ctr, 600 S Road
+employer_address2              | 
+employer_city                  | Mankato
+employer_state                 | MN
+employer_postal_code           | 56001
+begin_date                     | 2025-08-15
+end_date                       | 2028-08-14
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Minnesota State University, Mankato
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 24 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-25052-714884
@@ -1286,7 +1286,7 @@ employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 40 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-25042-684241
+case_number                    | I-200-25036-669302
 job_title                      | Assistant Professor of Integrated Engineering
 employer_name                  | Minnesota State Colleges and Universities
 secondary_entity_business_name | 
@@ -1319,7 +1319,7 @@ employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 41 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-25036-669302
+case_number                    | I-200-25042-684241
 job_title                      | Assistant Professor of Integrated Engineering
 employer_name                  | Minnesota State Colleges and Universities
 secondary_entity_business_name | 
@@ -1484,6 +1484,39 @@ employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1199
 h_1b_dependent                 | No
 -[ RECORD 46 ]-----------------+-------------------------------------------------------------------------------------------
+case_number                    | I-200-25059-734844
+job_title                      | Network Administrator
+employer_name                  | SAPPHIRE SOFTWARE SOLUTIONS INC
+secondary_entity_business_name | Minnesota Department of IT Services
+employer_phone                 | 17035760612
+employer_poc_first_name        | JAHANGEER
+employer_poc_last_name         | MOHAMMED
+employer_poc_email             | Immigration@sapphiresoftwaresolutions.com
+employer_poc_phone             | 17035760612
+employer_poc_phone_ext         | 
+worksite_address1              | 600 N. Robert St.
+worksite_address2              | Suite 2800
+worksite_city                  | Minneapolis
+worksite_county                | RAMSEY
+lawfirm_name_business_name     | 
+employer_address1              | 20130 LAKEVIEW CENTER PLAZA
+employer_address2              | SUITE 400
+employer_city                  | ASHBURN
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2025-03-10
+end_date                       | 2028-03-09
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | SAPPHIRE SOFTWARE SOLUTIONS INC
+soc_code                       | 15-1244
+h_1b_dependent                 | Yes
+-[ RECORD 47 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-25059-734802
 job_title                      | Network Administrator
 employer_name                  | SAPPHIRE SOFTWARE SOLUTIONS INC
@@ -1516,7 +1549,7 @@ amended_petition               | 0
 employer_name                  | SAPPHIRE SOFTWARE SOLUTIONS INC
 soc_code                       | 15-1244
 h_1b_dependent                 | Yes
--[ RECORD 47 ]-----------------+-------------------------------------------------------------------------------------------
+-[ RECORD 48 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-25059-734745
 job_title                      | Network Administrator
 employer_name                  | Elite IT Technologies LLC
@@ -1547,39 +1580,6 @@ new_concurrent_employment      | 0
 change_employer                | 1
 amended_petition               | 0
 employer_name                  | Elite IT Technologies LLC
-soc_code                       | 15-1244
-h_1b_dependent                 | Yes
--[ RECORD 48 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-25059-734844
-job_title                      | Network Administrator
-employer_name                  | SAPPHIRE SOFTWARE SOLUTIONS INC
-secondary_entity_business_name | Minnesota Department of IT Services
-employer_phone                 | 17035760612
-employer_poc_first_name        | JAHANGEER
-employer_poc_last_name         | MOHAMMED
-employer_poc_email             | Immigration@sapphiresoftwaresolutions.com
-employer_poc_phone             | 17035760612
-employer_poc_phone_ext         | 
-worksite_address1              | 600 N. Robert St.
-worksite_address2              | Suite 2800
-worksite_city                  | Minneapolis
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | 
-employer_address1              | 20130 LAKEVIEW CENTER PLAZA
-employer_address2              | SUITE 400
-employer_city                  | ASHBURN
-employer_state                 | VA
-employer_postal_code           | 20147
-begin_date                     | 2025-03-10
-end_date                       | 2028-03-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | SAPPHIRE SOFTWARE SOLUTIONS INC
 soc_code                       | 15-1244
 h_1b_dependent                 | Yes
 -[ RECORD 49 ]-----------------+-------------------------------------------------------------------------------------------
@@ -1979,39 +1979,6 @@ employer_name                  | Minnesota State Colleges & Universities
 soc_code                       | 25-1022.00
 h_1b_dependent                 | No
 -[ RECORD 61 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-24047-726351
-job_title                      | Assistant Professor of Finance
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Center
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 336 Wigley Administration Center
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2024-08-16
-end_date                       | 2027-08-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 62 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-24078-809210
 job_title                      | Assistant Professor of Marketing
 employer_name                  | Minnesota State Colleges and Universities
@@ -2044,9 +2011,9 @@ amended_petition               | 0
 employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 63 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-24145-037104
-job_title                      | Academic Advisor
+-[ RECORD 62 ]-----------------+-------------------------------------------------------------------------------------------
+case_number                    | I-200-24047-726351
+job_title                      | Assistant Professor of Finance
 employer_name                  | Minnesota State Colleges and Universities
 secondary_entity_business_name | 
 employer_phone                 | 15073892017
@@ -2068,16 +2035,16 @@ employer_postal_code           | 56001
 begin_date                     | 2024-08-16
 end_date                       | 2027-08-15
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 21-1012.00
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 64 ]-----------------+-------------------------------------------------------------------------------------------
+-[ RECORD 63 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-24215-242345
 job_title                      | Assistant Professor of Mechanical Engineering
 employer_name                  | Minnesota State Colleges and Universities
@@ -2110,7 +2077,7 @@ amended_petition               | 0
 employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 65 ]-----------------+-------------------------------------------------------------------------------------------
+-[ RECORD 64 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-24047-727534
 job_title                      | Associate Professor of Geography
 employer_name                  | Minnesota State Colleges and Universities
@@ -2142,6 +2109,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1064.00
+h_1b_dependent                 | No
+-[ RECORD 65 ]-----------------+-------------------------------------------------------------------------------------------
+case_number                    | I-200-24145-037104
+job_title                      | Academic Advisor
+employer_name                  | Minnesota State Colleges and Universities
+secondary_entity_business_name | 
+employer_phone                 | 15073892017
+employer_poc_first_name        | Jill
+employer_poc_last_name         | Frederickson-Kratzke
+employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
+employer_poc_phone             | 15073892017
+employer_poc_phone_ext         | 
+worksite_address1              | 336 Wigley Administration Center
+worksite_address2              | 
+worksite_city                  | Mankato
+worksite_county                | BLUE EARTH
+lawfirm_name_business_name     | Perman Law Firm PLLC
+employer_address1              | 336 Wigley Administration Center
+employer_address2              | 
+employer_city                  | Mankato
+employer_state                 | MN
+employer_postal_code           | 56001
+begin_date                     | 2024-08-16
+end_date                       | 2027-08-15
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Minnesota State Colleges and Universities
+soc_code                       | 21-1012.00
 h_1b_dependent                 | No
 -[ RECORD 66 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-24080-814097
@@ -2276,7 +2276,7 @@ employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1199.00
 h_1b_dependent                 | No
 -[ RECORD 70 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-24213-233855
+case_number                    | I-200-24213-234038
 job_title                      | .Net Developer
 employer_name                  | HighCloud Solutions Inc
 secondary_entity_business_name | STATE OF MINNESOTA
@@ -2309,12 +2309,12 @@ employer_name                  | HighCloud Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 71 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-24214-236940
+case_number                    | I-200-24213-233855
 job_title                      | .Net Developer
 employer_name                  | HighCloud Solutions Inc
 secondary_entity_business_name | STATE OF MINNESOTA
 employer_phone                 | 16124793333
-employer_poc_first_name        | Raghu Rama Raju
+employer_poc_first_name        | Raghu
 employer_poc_last_name         | Chejarla
 employer_poc_email             | raghu@highcloudsolutions.com
 employer_poc_phone             | 16124793333
@@ -2342,12 +2342,12 @@ employer_name                  | HighCloud Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 72 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-24213-234038
+case_number                    | I-200-24214-236940
 job_title                      | .Net Developer
 employer_name                  | HighCloud Solutions Inc
 secondary_entity_business_name | STATE OF MINNESOTA
 employer_phone                 | 16124793333
-employer_poc_first_name        | Raghu
+employer_poc_first_name        | Raghu Rama Raju
 employer_poc_last_name         | Chejarla
 employer_poc_email             | raghu@highcloudsolutions.com
 employer_poc_phone             | 16124793333
@@ -2474,39 +2474,6 @@ employer_name                  | Northstar Group Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 76 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23355-586234
-job_title                      | Assistant Professor of Elementary & Literacy Education
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Center
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 336 Wigley Administration Center
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2024-06-21
-end_date                       | 2027-06-20
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 25-1081.00
-h_1b_dependent                 | No
--[ RECORD 77 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-24087-834334
 job_title                      | Assistant Professor of Elementary & Literacy Education
 employer_name                  | Minnesota State Colleges and Universities
@@ -2528,6 +2495,39 @@ employer_city                  | Mankato
 employer_state                 | MN
 employer_postal_code           | 56001
 begin_date                     | 2024-08-16
+end_date                       | 2027-06-20
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Minnesota State Colleges and Universities
+soc_code                       | 25-1081.00
+h_1b_dependent                 | No
+-[ RECORD 77 ]-----------------+-------------------------------------------------------------------------------------------
+case_number                    | I-200-23355-586234
+job_title                      | Assistant Professor of Elementary & Literacy Education
+employer_name                  | Minnesota State Colleges and Universities
+secondary_entity_business_name | 
+employer_phone                 | 15073892017
+employer_poc_first_name        | Jill
+employer_poc_last_name         | Frederickson-Kratzke
+employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
+employer_poc_phone             | 15073892017
+employer_poc_phone_ext         | 
+worksite_address1              | 336 Wigley Administration Center
+worksite_address2              | 
+worksite_city                  | Mankato
+worksite_county                | BLUE EARTH
+lawfirm_name_business_name     | Perman Law Firm PLLC
+employer_address1              | 336 Wigley Administration Center
+employer_address2              | 
+employer_city                  | Mankato
+employer_state                 | MN
+employer_postal_code           | 56001
+begin_date                     | 2024-06-21
 end_date                       | 2027-06-20
 total_worker_positions         | 1
 new_employment                 | 1
@@ -2606,8 +2606,8 @@ employer_name                  | GDN Infotech Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 80 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-24047-727563
-job_title                      | Associate Professor of Mechanical Engineering
+case_number                    | I-200-24017-646775
+job_title                      | Assistant Professor of Mechanical Engineering
 employer_name                  | Minnesota State Colleges and Universities
 secondary_entity_business_name | 
 employer_phone                 | 15073892017
@@ -2616,7 +2616,7 @@ employer_poc_last_name         | Frederickson-Kratzke
 employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
 employer_poc_phone             | 15073892017
 employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Building
+worksite_address1              | 336 Wigley Administration Center
 worksite_address2              | 
 worksite_city                  | Mankato
 worksite_county                | BLUE EARTH
@@ -2672,8 +2672,8 @@ employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 82 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-24017-646775
-job_title                      | Assistant Professor of Mechanical Engineering
+case_number                    | I-200-24047-727563
+job_title                      | Associate Professor of Mechanical Engineering
 employer_name                  | Minnesota State Colleges and Universities
 secondary_entity_business_name | 
 employer_phone                 | 15073892017
@@ -2682,7 +2682,7 @@ employer_poc_last_name         | Frederickson-Kratzke
 employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
 employer_poc_phone             | 15073892017
 employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Center
+worksite_address1              | 336 Wigley Administration Building
 worksite_address2              | 
 worksite_city                  | Mankato
 worksite_county                | BLUE EARTH
@@ -2804,39 +2804,6 @@ employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 15-1242
 h_1b_dependent                 | No
 -[ RECORD 86 ]-----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-24064-766873
-job_title                      | IT Project Manager
-employer_name                  | AVERON SOLUTIONS INC
-secondary_entity_business_name | State of MN - Minnesota IT Services at the Department of Human Services (Work From Home)
-employer_phone                 | 18482051357
-employer_poc_first_name        | NAGA DEEPTHI
-employer_poc_last_name         | NANDIGUM
-employer_poc_email             | HR@AVERONSOLUTIONS.COM
-employer_poc_phone             | 18482051357
-employer_poc_phone_ext         | 
-worksite_address1              | 1681 Brueberry Ln
-worksite_address2              | 
-worksite_city                  | Arden Hills
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | 
-employer_address1              | 1 ETHEL ROAD
-employer_address2              | SUITE 102-D1
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 2024-03-25
-end_date                       | 2027-03-18
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | AVERON SOLUTIONS INC
-soc_code                       | 15-1299.09
-h_1b_dependent                 | Yes
--[ RECORD 87 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-24078-808542
 job_title                      | IT Project Manager
 employer_name                  | AVERON SOLUTIONS INC
@@ -2869,7 +2836,7 @@ amended_petition               | 1
 employer_name                  | AVERON SOLUTIONS INC
 soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
--[ RECORD 88 ]-----------------+-------------------------------------------------------------------------------------------
+-[ RECORD 87 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-24078-808589
 job_title                      | IT Project Manager
 employer_name                  | AVERON SOLUTIONS INC
@@ -2902,7 +2869,7 @@ amended_petition               | 1
 employer_name                  | AVERON SOLUTIONS INC
 soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
--[ RECORD 89 ]-----------------+-------------------------------------------------------------------------------------------
+-[ RECORD 88 ]-----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-24267-358302
 job_title                      | Project Manager
 employer_name                  | AVERON SOLUTIONS INC
@@ -2924,6 +2891,39 @@ employer_city                  | EDISON
 employer_state                 | NJ
 employer_postal_code           | 08817
 begin_date                     | 2024-10-02
+end_date                       | 2027-03-18
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | AVERON SOLUTIONS INC
+soc_code                       | 15-1299.09
+h_1b_dependent                 | Yes
+-[ RECORD 89 ]-----------------+-------------------------------------------------------------------------------------------
+case_number                    | I-200-24064-766873
+job_title                      | IT Project Manager
+employer_name                  | AVERON SOLUTIONS INC
+secondary_entity_business_name | State of MN - Minnesota IT Services at the Department of Human Services (Work From Home)
+employer_phone                 | 18482051357
+employer_poc_first_name        | NAGA DEEPTHI
+employer_poc_last_name         | NANDIGUM
+employer_poc_email             | HR@AVERONSOLUTIONS.COM
+employer_poc_phone             | 18482051357
+employer_poc_phone_ext         | 
+worksite_address1              | 1681 Brueberry Ln
+worksite_address2              | 
+worksite_city                  | Arden Hills
+worksite_county                | RAMSEY
+lawfirm_name_business_name     | 
+employer_address1              | 1 ETHEL ROAD
+employer_address2              | SUITE 102-D1
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 2024-03-25
 end_date                       | 2027-03-18
 total_worker_positions         | 1
 new_employment                 | 0
@@ -3794,39 +3794,6 @@ employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 116 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23046-777394
-job_title                      | Assistant Professor of Accounting & Business Law
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Center
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 336 Wigley Administration Center
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2023-08-05
-end_date                       | 2026-08-04
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 117 ]----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-23039-759767
 job_title                      | Assistant Professor of Accounting & Business Law
 employer_name                  | Minnesota State Colleges and Universities
@@ -3858,6 +3825,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 13-1011.00
+h_1b_dependent                 | No
+-[ RECORD 117 ]----------------+-------------------------------------------------------------------------------------------
+case_number                    | I-200-23046-777394
+job_title                      | Assistant Professor of Accounting & Business Law
+employer_name                  | Minnesota State Colleges and Universities
+secondary_entity_business_name | 
+employer_phone                 | 15073892017
+employer_poc_first_name        | Jill
+employer_poc_last_name         | Frederickson-Kratzke
+employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
+employer_poc_phone             | 15073892017
+employer_poc_phone_ext         | 
+worksite_address1              | 336 Wigley Administration Center
+worksite_address2              | 
+worksite_city                  | Mankato
+worksite_county                | BLUE EARTH
+lawfirm_name_business_name     | Perman Law Firm PLLC
+employer_address1              | 336 Wigley Administration Center
+employer_address2              | 
+employer_city                  | Mankato
+employer_state                 | MN
+employer_postal_code           | 56001
+begin_date                     | 2023-08-05
+end_date                       | 2026-08-04
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Minnesota State Colleges and Universities
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 118 ]----------------+-------------------------------------------------------------------------------------------
 case_number                    | I-200-23151-067297
@@ -3891,599 +3891,5 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Minnesota State Colleges and Universities
 soc_code                       | 25-1199.00
-h_1b_dependent                 | No
--[ RECORD 119 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23201-202716
-job_title                      | Software Engineer
-employer_name                  | Zenith Software Solutions Inc
-secondary_entity_business_name | State of Minnesota - MNIT
-employer_phone                 | 15719338060
-employer_poc_first_name        | Kamal
-employer_poc_last_name         | Karnati
-employer_poc_email             | kamal@zensoftusa.com
-employer_poc_phone             | 15719338060
-employer_poc_phone_ext         | 
-worksite_address1              | 658 Cedar St.
-worksite_address2              | 
-worksite_city                  | St. Paul
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | Chugh LLP
-employer_address1              | 21785 Filigree Ct
-employer_address2              | Unit 211
-employer_city                  | Ashburn
-employer_state                 | VA
-employer_postal_code           | 20147
-begin_date                     | 2023-07-24
-end_date                       | 2026-07-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Zenith Software Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 120 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23122-985796
-job_title                      | Assistant Professor, Counseling Center
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Center
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 336 Wigley Administration Center
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2023-07-08
-end_date                       | 2026-07-07
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 25-1066.00
-h_1b_dependent                 | No
--[ RECORD 121 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23004-682186
-job_title                      | Residential Hall Director
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Center
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 336 Wigley Administration Center
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 21-1019.00
-h_1b_dependent                 | No
--[ RECORD 122 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-25177-133177
-job_title                      | Database Administrator
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 16518461348
-employer_poc_first_name        | Sonya
-employer_poc_last_name         | Zuker
-employer_poc_email             | sonya.zuker@saintpaul.edu
-employer_poc_phone             | 16518461324
-employer_poc_phone_ext         | 
-worksite_address1              | Saint Paul College, 235 Marshall Avenue
-worksite_address2              | 
-worksite_city                  | Saint Paul
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 235 Marshall Avenue
-employer_address2              | 
-employer_city                  | Saint Paul
-employer_state                 | MN
-employer_postal_code           | 55102
-begin_date                     | 2025-11-09
-end_date                       | 2026-06-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 15-1242.00
-h_1b_dependent                 | No
--[ RECORD 123 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-25177-133102
-job_title                      | Database Administrator
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 16518461348
-employer_poc_first_name        | Sonya
-employer_poc_last_name         | Zuker
-employer_poc_email             | sonya.zuker@saintpaul.edu
-employer_poc_phone             | 16518461324
-employer_poc_phone_ext         | 
-worksite_address1              | Saint Paul College, 235 Marshall Avenue
-worksite_address2              | 
-worksite_city                  | Saint Paul
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 235 Marshall Avenue
-employer_address2              | 
-employer_city                  | Saint Paul
-employer_state                 | MN
-employer_postal_code           | 55102
-begin_date                     | 2025-11-09
-end_date                       | 2026-06-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 15-1242.00
-h_1b_dependent                 | No
--[ RECORD 124 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-22357-659387
-job_title                      | Technical Architect
-employer_name                  | Diona (US) Inc
-secondary_entity_business_name | Minnesota Department of Human Services
-employer_phone                 | 15126926817
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Glezos
-employer_poc_email             | maria.glezos@diona.com
-employer_poc_phone             | 13017747350
-employer_poc_phone_ext         | 
-worksite_address1              | 540 Cedar St
-worksite_address2              | 
-worksite_city                  | St. Paul
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | Brown Immigration Law PC L.L.O.
-employer_address1              | 925 S. Capital of Texas Highway
-employer_address2              | Suite B-110
-employer_city                  | Austin
-employer_state                 | TX
-employer_postal_code           | 78746
-begin_date                     | 2023-06-03
-end_date                       | 2026-06-02
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Diona (US) Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 125 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23062-822461
-job_title                      | Speech-Language  Pathologist/Clinical Instructor
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Center
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 336 Wigley Administration Center
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 29-1127.00
-h_1b_dependent                 | No
--[ RECORD 126 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23069-840172
-job_title                      | Speech-Language  Pathologist/Clinical Instructor
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 150 South Road
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 336 Wigley Administration Center
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 29-1127.00
-h_1b_dependent                 | No
--[ RECORD 127 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23074-849586
-job_title                      | SENIOR TECHNICAL CONSULTANT
-employer_name                  | GLOBALPOINT INC
-secondary_entity_business_name | STATE OF MINNESOTA
-employer_phone                 | 17326131124
-employer_poc_first_name        | SRINIVASULU
-employer_poc_last_name         | UNNAM
-employer_poc_email             | SRINI@GLOBALPOINTINC.COM
-employer_poc_phone             | 17326131124
-employer_poc_phone_ext         | 
-worksite_address1              | 540 CEDAR ST.
-worksite_address2              | 
-worksite_city                  | ST. PAUL
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 850 CAROLIER LANE
-employer_address2              | SUITE 301
-employer_city                  | NORTH BRUNSWICK
-employer_state                 | NJ
-employer_postal_code           | 08902
-begin_date                     | 2023-05-25
-end_date                       | 2026-05-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | GLOBALPOINT INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 128 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23116-968478
-job_title                      | QA AUTOMATION ENGINEER
-employer_name                  | TECHNODEED LLC
-secondary_entity_business_name | STATE OF MINNESOTA
-employer_phone                 | 19193363030
-employer_poc_first_name        | VENKAT PAVAN GANESH
-employer_poc_last_name         | PINAPATI
-employer_poc_email             | IMMIGRATION@TECHNODEED.COM
-employer_poc_phone             | 19193363030
-employer_poc_phone_ext         | 
-worksite_address1              | 540 CEDAR STREET
-worksite_address2              | 
-worksite_city                  | ST PAUL
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | 
-employer_address1              | 10404 CHAPEL HILL ROAD
-employer_address2              | SUITE 106
-employer_city                  | MORRISVILLE
-employer_state                 | NC
-employer_postal_code           | 27560
-begin_date                     | 2023-05-10
-end_date                       | 2026-05-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | TECHNODEED LLC
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 129 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-22313-577109
-job_title                      | Academic  Advisor (Allied Health)
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Center
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 336 Wigley Administration Center
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2023-05-09
-end_date                       | 2026-05-08
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 21-1012.00
-h_1b_dependent                 | No
--[ RECORD 130 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-22312-576360
-job_title                      | Academic  Advisor (Health Sciences)
-employer_name                  | Minnesota State Colleges and Universities
-secondary_entity_business_name | 
-employer_phone                 | 15073892017
-employer_poc_first_name        | Jill
-employer_poc_last_name         | Frederickson-Kratzke
-employer_poc_email             | jill.frederickson-kratzke@mnsu.edu
-employer_poc_phone             | 15073892017
-employer_poc_phone_ext         | 
-worksite_address1              | 336 Wigley Administration Center
-worksite_address2              | 
-worksite_city                  | Mankato
-worksite_county                | BLUE EARTH
-lawfirm_name_business_name     | Perman Law Firm PLLC
-employer_address1              | 336 Wigley Administration Center
-employer_address2              | 
-employer_city                  | Mankato
-employer_state                 | MN
-employer_postal_code           | 56001
-begin_date                     | 2023-05-09
-end_date                       | 2026-05-08
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Minnesota State Colleges and Universities
-soc_code                       | 21-1012.00
-h_1b_dependent                 | No
--[ RECORD 131 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23118-974581
-job_title                      | Software Developer
-employer_name                  | Raas Infotek LLC
-secondary_entity_business_name | US Department of Veteran Affairs
-employer_phone                 | 13028943184
-employer_poc_first_name        | Nelly
-employer_poc_last_name         | Muamba
-employer_poc_email             | nelly@raasinfotek.com
-employer_poc_phone             | 13028944170
-employer_poc_phone_ext         | 
-worksite_address1              | 1 Federal Drive
-worksite_address2              | 
-worksite_city                  | St. Paul
-worksite_county                | HENNEPIN
-lawfirm_name_business_name     | 
-employer_address1              | 262 Chapman Road
-employer_address2              | Suite 105A
-employer_city                  | Newark
-employer_state                 | DE
-employer_postal_code           | 19702
-begin_date                     | 2023-05-08
-end_date                       | 2026-05-07
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Raas Infotek LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 132 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23108-944989
-job_title                      | Software Developer
-employer_name                  | Meritious Services Inc
-secondary_entity_business_name | NYSDOL (New York State Department of Labor)
-employer_phone                 | 19169170034
-employer_poc_first_name        | Praveen
-employer_poc_last_name         | Nalla
-employer_poc_email             | hr@meritious.com
-employer_poc_phone             | 19169170034
-employer_poc_phone_ext         | 
-worksite_address1              | 7610 York Ave South
-worksite_address2              | Apt 3309
-worksite_city                  | Minneapolis
-worksite_county                | HENNEPIN
-lawfirm_name_business_name     | Burgos & Garritson Law
-employer_address1              | 6900 Alma Dr.
-employer_address2              | Suite 180
-employer_city                  | Plano
-employer_state                 | TX
-employer_postal_code           | 75023
-begin_date                     | 2023-04-25
-end_date                       | 2026-04-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Meritious Services Inc
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 133 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-22298-549203
-job_title                      | WAS Administrator
-employer_name                  | Orpine Inc
-secondary_entity_business_name | Minnesota Department of Human Services
-employer_phone                 | 14703001072
-employer_poc_first_name        | Ashwini
-employer_poc_last_name         | Songyan
-employer_poc_email             | immigration@orpine.com
-employer_poc_phone             | 14703001072
-employer_poc_phone_ext         | 
-worksite_address1              | 540 Cedar St
-worksite_address2              | 
-worksite_city                  | Saint Paul
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | 
-employer_address1              | 5865 North Point Parkway
-employer_address2              | Ste 250
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30022
-begin_date                     | 2023-04-24
-end_date                       | 2026-04-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Orpine Inc
-soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 134 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23101-920927
-job_title                      | Senior Curam Developer
-employer_name                  | D2Sol Inc
-secondary_entity_business_name | Department of Human Services (DHS)- State of Minnesota
-employer_phone                 | 19193385553
-employer_poc_first_name        | Rajashri
-employer_poc_last_name         | Kale
-employer_poc_email             | rashi@d2sol.com
-employer_poc_phone             | 15182569699
-employer_poc_phone_ext         | 
-worksite_address1              | 540 Cedar ST
-worksite_address2              | 
-worksite_city                  | St. Paul
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | Law Office of Aparna Dave
-employer_address1              | 5920 S Miami Blvd
-employer_address2              | Suite 101
-employer_city                  | Morrisville
-employer_state                 | NC
-employer_postal_code           | 27560
-begin_date                     | 2023-04-24
-end_date                       | 2026-04-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | D2Sol Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 135 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23102-927985
-job_title                      | Software Developer
-employer_name                  | Meritious Services Inc
-secondary_entity_business_name | NYSDOL (New York State Department of Labor)
-employer_phone                 | 19169170034
-employer_poc_first_name        | Praveen
-employer_poc_last_name         | Nalla
-employer_poc_email             | hr@meritious.com
-employer_poc_phone             | 19169170034
-employer_poc_phone_ext         | 
-worksite_address1              | 7610 York Ave South
-worksite_address2              | Apt 3309
-worksite_city                  | Minneapolis
-worksite_county                | HENNEPIN
-lawfirm_name_business_name     | Burgos & Garritson Law
-employer_address1              | 6900 Alma Dr.
-employer_address2              | Suite 180
-employer_city                  | Plano
-employer_state                 | TX
-employer_postal_code           | 75023
-begin_date                     | 2023-04-19
-end_date                       | 2026-04-18
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Meritious Services Inc
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 136 ]----------------+-------------------------------------------------------------------------------------------
-case_number                    | I-200-23068-834564
-job_title                      | ORACLE DATABASE ADMINISTRATOR
-employer_name                  | SFORCE TECHNOLOGIES LLC
-secondary_entity_business_name | Minnesota Department of Human services ( State of Minnesoata)
-employer_phone                 | 19728320756
-employer_poc_first_name        | Viswanath
-employer_poc_last_name         | Palepu
-employer_poc_email             | accounts@sforcetechllc.com
-employer_poc_phone             | 19728320756
-employer_poc_phone_ext         | 
-worksite_address1              | 540 Cedar St
-worksite_address2              | 
-worksite_city                  | St.Paul
-worksite_county                | RAMSEY
-lawfirm_name_business_name     | 
-employer_address1              | 9001 E VALLEY RANCH PKWY
-employer_address2              | suite 1030
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75063
-begin_date                     | 2023-03-20
-end_date                       | 2026-03-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | SFORCE TECHNOLOGIES LLC
-soc_code                       | 15-1242.00
 h_1b_dependent                 | No
 

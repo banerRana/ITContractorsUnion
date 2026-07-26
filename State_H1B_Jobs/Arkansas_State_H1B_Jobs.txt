@@ -98,39 +98,6 @@ employer_name                  | Arkansas State University
 soc_code                       | 19-4021.00
 h_1b_dependent                 | No
 -[ RECORD 4 ]------------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25233-257949
-job_title                      | Instructor
-employer_name                  | Arkansas State University
-secondary_entity_business_name | 
-employer_phone                 | 18709723454
-employer_poc_first_name        | Michelle
-employer_poc_last_name         | Summers
-employer_poc_email             | msummers@astate.edu
-employer_poc_phone             | 18709723454
-employer_poc_phone_ext         | 
-worksite_address1              | 2407 Quapaw Way
-worksite_address2              | 
-worksite_city                  | Jonesboro
-worksite_county                | 
-lawfirm_name_business_name     | McCandlish Holton PC
-employer_address1              | 2105 Aggie Road
-employer_address2              | 
-employer_city                  | Jonesboro
-employer_state                 | AR
-employer_postal_code           | 72401
-begin_date                     | 2026-01-01
-end_date                       | 2028-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 5 ]------------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25204-194463
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | OPENWAVE COMPUTING LLC
@@ -162,6 +129,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | OPENWAVE COMPUTING LLC
 soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 5 ]------------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25233-257949
+job_title                      | Instructor
+employer_name                  | Arkansas State University
+secondary_entity_business_name | 
+employer_phone                 | 18709723454
+employer_poc_first_name        | Michelle
+employer_poc_last_name         | Summers
+employer_poc_email             | msummers@astate.edu
+employer_poc_phone             | 18709723454
+employer_poc_phone_ext         | 
+worksite_address1              | 2407 Quapaw Way
+worksite_address2              | 
+worksite_city                  | Jonesboro
+worksite_county                | 
+lawfirm_name_business_name     | McCandlish Holton PC
+employer_address1              | 2105 Aggie Road
+employer_address2              | 
+employer_city                  | Jonesboro
+employer_state                 | AR
+employer_postal_code           | 72401
+begin_date                     | 2026-01-01
+end_date                       | 2028-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas State University
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 6 ]------------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25247-285908
@@ -296,7 +296,7 @@ employer_name                  | ITSyntax Inc
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25134-975137
+case_number                    | I-200-25154-047812
 job_title                      | Senior Database Administrator
 employer_name                  | Inteliblue LLC
 secondary_entity_business_name | Arkansas Department of Education
@@ -306,8 +306,8 @@ employer_poc_last_name         | Kothakanti
 employer_poc_email             | priya@inteliblue.com
 employer_poc_phone             | 15012518918
 employer_poc_phone_ext         | 
-worksite_address1              | 101 E Capitol Ave
-worksite_address2              | Ste. 212
+worksite_address1              | 4 Capitol Mall
+worksite_address2              | 
 worksite_city                  | Little Rock
 worksite_county                | PULASKI
 lawfirm_name_business_name     | Global Immigration Partners Inc
@@ -329,7 +329,7 @@ employer_name                  | Inteliblue LLC
 soc_code                       | 15-1242
 h_1b_dependent                 | No
 -[ RECORD 11 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25154-047812
+case_number                    | I-200-25134-975137
 job_title                      | Senior Database Administrator
 employer_name                  | Inteliblue LLC
 secondary_entity_business_name | Arkansas Department of Education
@@ -339,8 +339,8 @@ employer_poc_last_name         | Kothakanti
 employer_poc_email             | priya@inteliblue.com
 employer_poc_phone             | 15012518918
 employer_poc_phone_ext         | 
-worksite_address1              | 4 Capitol Mall
-worksite_address2              | 
+worksite_address1              | 101 E Capitol Ave
+worksite_address2              | Ste. 212
 worksite_city                  | Little Rock
 worksite_county                | PULASKI
 lawfirm_name_business_name     | Global Immigration Partners Inc
@@ -461,55 +461,22 @@ employer_name                  | Arkansas Department of Transportation
 soc_code                       | 17-2051
 h_1b_dependent                 | No
 -[ RECORD 15 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25115-904462
-job_title                      | Sr. Accounting Business Analyst
-employer_name                  | Arkansas Department of Transportation
+case_number                    | I-200-25157-063957
+job_title                      | Law Clerk
+employer_name                  | State of Arkansas, Department of Inspector General
 secondary_entity_business_name | 
-employer_phone                 | 15015692458
-employer_poc_first_name        | Alicia
-employer_poc_last_name         | Hunt
-employer_poc_email             | alicia.hunt@ardot.gov
-employer_poc_phone             | 15015692458
+employer_phone                 | 15016828349
+employer_poc_first_name        | LINDSEY
+employer_poc_last_name         | MATHIS
+employer_poc_email             | lindsey.mathis@arkansas.gov
+employer_poc_phone             | 15016828349
 employer_poc_phone_ext         | 
-worksite_address1              | 10324 Interstate 30
+worksite_address1              | 900 West Capitol Avenue, Suite 310
 worksite_address2              | 
 worksite_city                  | Little Rock
 worksite_county                | PULASKI
 lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 10324 Interstate 30
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72209
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas Department of Transportation
-soc_code                       | 15-2041
-h_1b_dependent                 | No
--[ RECORD 16 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25132-963510
-job_title                      | State IT Security Specialist
-employer_name                  | Arkansas Department of Transformation and Shared Services
-secondary_entity_business_name | 
-employer_phone                 | 15013196565
-employer_poc_first_name        | Jennifer
-employer_poc_last_name         | Davis
-employer_poc_email             | jennifer.davis@arkansas.gov
-employer_poc_phone             | 15016831672
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Woodlane
-worksite_address2              | Suite 200
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | The Hernandez Law Firm PLLC
-employer_address1              | 501 Woodlane Suite 201
+employer_address1              | 900 WEST CAPITOL AVENUE. Suite 310
 employer_address2              | 
 employer_city                  | Little Rock
 employer_state                 | AR
@@ -523,208 +490,10 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Arkansas Department of Transformation and Shared Services
-soc_code                       | 15-1299.05
+employer_name                  | State of Arkansas, Department of Inspector General
+soc_code                       | 23-1011
 h_1b_dependent                 | No
--[ RECORD 17 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25115-904464
-job_title                      | Transportation Planner - Air Quality
-employer_name                  | Arkansas Department of Transportation
-secondary_entity_business_name | 
-employer_phone                 | 15015692458
-employer_poc_first_name        | Alicia
-employer_poc_last_name         | Hunt
-employer_poc_email             | alicia.hunt@ardot.gov
-employer_poc_phone             | 15015692458
-employer_poc_phone_ext         | 
-worksite_address1              | 10324 Interstate 30
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 10324 Interstate 30
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72209
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas Department of Transportation
-soc_code                       | 19-2041
-h_1b_dependent                 | No
--[ RECORD 18 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25115-904467
-job_title                      | Traffic Safety Engineer
-employer_name                  | Arkansas Department of Transportation
-secondary_entity_business_name | 
-employer_phone                 | 15015692458
-employer_poc_first_name        | Alicia
-employer_poc_last_name         | Hunt
-employer_poc_email             | alicia.hunt@ardot.gov
-employer_poc_phone             | 15015692458
-employer_poc_phone_ext         | 
-worksite_address1              | 10324 Interstate 30
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 10324 Interstate 30
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72209
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas Department of Transportation
-soc_code                       | 17-2051
-h_1b_dependent                 | No
--[ RECORD 19 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25115-904468
-job_title                      | Geospatial Data Specialist
-employer_name                  | Arkansas Department of Transportation
-secondary_entity_business_name | 
-employer_phone                 | 15015692458
-employer_poc_first_name        | Alicia
-employer_poc_last_name         | Hunt
-employer_poc_email             | alicia.hunt@ardot.gov
-employer_poc_phone             | 15015692458
-employer_poc_phone_ext         | 
-worksite_address1              | 10324 Interstate 30
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 10324 Interstate 30
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72209
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas Department of Transportation
-soc_code                       | 19-2042
-h_1b_dependent                 | No
--[ RECORD 20 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25115-904473
-job_title                      | Sr. Accounting Business Analyst
-employer_name                  | Arkansas Department of Transportation
-secondary_entity_business_name | 
-employer_phone                 | 15015692458
-employer_poc_first_name        | Alicia
-employer_poc_last_name         | Hunt
-employer_poc_email             | alicia.hunt@ardot.gov
-employer_poc_phone             | 15015692458
-employer_poc_phone_ext         | 
-worksite_address1              | 10324 Interstate 30
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 10324 Interstate 30
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72209
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas Department of Transportation
-soc_code                       | 15-2041
-h_1b_dependent                 | No
--[ RECORD 21 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25115-904463
-job_title                      | Civil Engineer (EI)
-employer_name                  | Arkansas Department of Transportation
-secondary_entity_business_name | 
-employer_phone                 | 15015692458
-employer_poc_first_name        | Alicia
-employer_poc_last_name         | Hunt
-employer_poc_email             | alicia.hunt@ardot.gov
-employer_poc_phone             | 15015692458
-employer_poc_phone_ext         | 
-worksite_address1              | 10324 Interstate 30
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 10324 Interstate 30
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72209
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas Department of Transportation
-soc_code                       | 17-2051
-h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25148-027025
-job_title                      | SAP BTP Development Lead Consultant
-employer_name                  | Phoenix Business Inc
-secondary_entity_business_name | State of Arkansas, Department of Finance and Accounting (DFA)
-employer_phone                 | 15125574731
-employer_poc_first_name        | Hanif
-employer_poc_last_name         | SARANGI
-employer_poc_email             | hsarangi@phoenixteam.com
-employer_poc_phone             | 15125574731
-employer_poc_phone_ext         | 
-worksite_address1              | 1515 W. 7th St.
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | ENG & NISHIMURA
-employer_address1              | 6021 Midnight Pass Road
-employer_address2              | Unit 3
-employer_city                  | Sarasota
-employer_state                 | FL
-employer_postal_code           | 34242
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Phoenix Business Inc
-soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 23 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 16 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25134-977233
 job_title                      | Sr. Accounting Business Analyst
 employer_name                  | Arkansas Department of Transportation
@@ -757,7 +526,7 @@ amended_petition               | 0
 employer_name                  | Arkansas Department of Transportation
 soc_code                       | 15-1243
 h_1b_dependent                 | No
--[ RECORD 24 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 17 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25134-977042
 job_title                      | Sr. Accounting Business Analyst
 employer_name                  | Arkansas Department of Transportation
@@ -790,139 +559,7 @@ amended_petition               | 0
 employer_name                  | Arkansas Department of Transportation
 soc_code                       | 15-1243
 h_1b_dependent                 | No
--[ RECORD 25 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25167-097200
-job_title                      | Software Engineer
-employer_name                  | ORIGINTEK SOLUTIONS LLC
-secondary_entity_business_name | State of Arkansas (AOC)
-employer_phone                 | 19803701371
-employer_poc_first_name        | Anagha
-employer_poc_last_name         | Mandayam
-employer_poc_email             | immigration@originteksolutions.com
-employer_poc_phone             | 19803701371
-employer_poc_phone_ext         | 
-worksite_address1              | 625 Marshal St
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 9700 Research Drive
-employer_address2              | Suite 122
-employer_city                  | Charlotte
-employer_state                 | NC
-employer_postal_code           | 28262
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ORIGINTEK SOLUTIONS LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25128-956333
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | SVK TECHNOLOGY SOLUTIONS INC
-secondary_entity_business_name | STATE OF ARKANSAS
-employer_phone                 | 16099040040
-employer_poc_first_name        | MOUNIKA
-employer_poc_last_name         | MEDISHETTY
-employer_poc_email             | HR@SVKTECHINC.COM
-employer_poc_phone             | 16099040040
-employer_poc_phone_ext         | 
-worksite_address1              | 625 MARSHALL ST.
-worksite_address2              | 
-worksite_city                  | LITTLE ROCK
-worksite_county                | PULASKI
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 51 CRAGWOOD ROAD
-employer_address2              | SUITE 301
-employer_city                  | SOUTH PLAINFIELD
-employer_state                 | NJ
-employer_postal_code           | 07080
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SVK TECHNOLOGY SOLUTIONS INC
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25167-097355
-job_title                      | Software Engineer
-employer_name                  | ORIGINTEK SOLUTIONS LLC
-secondary_entity_business_name | State of Arkansas (AOC)
-employer_phone                 | 19803701371
-employer_poc_first_name        | Anagha
-employer_poc_last_name         | Mandayam
-employer_poc_email             | immigration@originteksolutions.com
-employer_poc_phone             | 19803701371
-employer_poc_phone_ext         | 
-worksite_address1              | 625 Marshall St
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 9700 Research Drive
-employer_address2              | Suite 122
-employer_city                  | Charlotte
-employer_state                 | NC
-employer_postal_code           | 28262
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ORIGINTEK SOLUTIONS LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 28 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25101-856487
-job_title                      | AOC Technical Architect Specialist
-employer_name                  | Apex IT Systems Global USA LLC
-secondary_entity_business_name | State of Arkansas Administrative Office of Courts
-employer_phone                 | 14699358758
-employer_poc_first_name        | Jesse
-employer_poc_last_name         | Tuttle
-employer_poc_email             | jesse@apexglobalusa.com
-employer_poc_phone             | 14699358758
-employer_poc_phone_ext         | 
-worksite_address1              | 625 Marshall St
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | 
-employer_address1              | 3721 S Stonebridge Drive
-employer_address2              | Suite 401
-employer_city                  | McKinney
-employer_state                 | TX
-employer_postal_code           | 75070
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Apex IT Systems Global USA LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 29 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 18 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25111-884284
 job_title                      | Junior Programmer (Computer Programmer)
 employer_name                  | State of Arkansas - Administrative Office of the Courts
@@ -955,7 +592,403 @@ amended_petition               | 0
 employer_name                  | State of Arkansas - Administrative Office of the Courts
 soc_code                       | 15-1251
 h_1b_dependent                 | No
+-[ RECORD 19 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25115-904462
+job_title                      | Sr. Accounting Business Analyst
+employer_name                  | Arkansas Department of Transportation
+secondary_entity_business_name | 
+employer_phone                 | 15015692458
+employer_poc_first_name        | Alicia
+employer_poc_last_name         | Hunt
+employer_poc_email             | alicia.hunt@ardot.gov
+employer_poc_phone             | 15015692458
+employer_poc_phone_ext         | 
+worksite_address1              | 10324 Interstate 30
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Hall Booth Smith PC
+employer_address1              | 10324 Interstate 30
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72209
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas Department of Transportation
+soc_code                       | 15-2041
+h_1b_dependent                 | No
+-[ RECORD 20 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25115-904463
+job_title                      | Civil Engineer (EI)
+employer_name                  | Arkansas Department of Transportation
+secondary_entity_business_name | 
+employer_phone                 | 15015692458
+employer_poc_first_name        | Alicia
+employer_poc_last_name         | Hunt
+employer_poc_email             | alicia.hunt@ardot.gov
+employer_poc_phone             | 15015692458
+employer_poc_phone_ext         | 
+worksite_address1              | 10324 Interstate 30
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Hall Booth Smith PC
+employer_address1              | 10324 Interstate 30
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72209
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas Department of Transportation
+soc_code                       | 17-2051
+h_1b_dependent                 | No
+-[ RECORD 21 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25115-904464
+job_title                      | Transportation Planner - Air Quality
+employer_name                  | Arkansas Department of Transportation
+secondary_entity_business_name | 
+employer_phone                 | 15015692458
+employer_poc_first_name        | Alicia
+employer_poc_last_name         | Hunt
+employer_poc_email             | alicia.hunt@ardot.gov
+employer_poc_phone             | 15015692458
+employer_poc_phone_ext         | 
+worksite_address1              | 10324 Interstate 30
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Hall Booth Smith PC
+employer_address1              | 10324 Interstate 30
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72209
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas Department of Transportation
+soc_code                       | 19-2041
+h_1b_dependent                 | No
+-[ RECORD 22 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25115-904467
+job_title                      | Traffic Safety Engineer
+employer_name                  | Arkansas Department of Transportation
+secondary_entity_business_name | 
+employer_phone                 | 15015692458
+employer_poc_first_name        | Alicia
+employer_poc_last_name         | Hunt
+employer_poc_email             | alicia.hunt@ardot.gov
+employer_poc_phone             | 15015692458
+employer_poc_phone_ext         | 
+worksite_address1              | 10324 Interstate 30
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Hall Booth Smith PC
+employer_address1              | 10324 Interstate 30
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72209
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas Department of Transportation
+soc_code                       | 17-2051
+h_1b_dependent                 | No
+-[ RECORD 23 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25115-904468
+job_title                      | Geospatial Data Specialist
+employer_name                  | Arkansas Department of Transportation
+secondary_entity_business_name | 
+employer_phone                 | 15015692458
+employer_poc_first_name        | Alicia
+employer_poc_last_name         | Hunt
+employer_poc_email             | alicia.hunt@ardot.gov
+employer_poc_phone             | 15015692458
+employer_poc_phone_ext         | 
+worksite_address1              | 10324 Interstate 30
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Hall Booth Smith PC
+employer_address1              | 10324 Interstate 30
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72209
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas Department of Transportation
+soc_code                       | 19-2042
+h_1b_dependent                 | No
+-[ RECORD 24 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25115-904473
+job_title                      | Sr. Accounting Business Analyst
+employer_name                  | Arkansas Department of Transportation
+secondary_entity_business_name | 
+employer_phone                 | 15015692458
+employer_poc_first_name        | Alicia
+employer_poc_last_name         | Hunt
+employer_poc_email             | alicia.hunt@ardot.gov
+employer_poc_phone             | 15015692458
+employer_poc_phone_ext         | 
+worksite_address1              | 10324 Interstate 30
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Hall Booth Smith PC
+employer_address1              | 10324 Interstate 30
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72209
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas Department of Transportation
+soc_code                       | 15-2041
+h_1b_dependent                 | No
+-[ RECORD 25 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25128-956333
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | SVK TECHNOLOGY SOLUTIONS INC
+secondary_entity_business_name | STATE OF ARKANSAS
+employer_phone                 | 16099040040
+employer_poc_first_name        | MOUNIKA
+employer_poc_last_name         | MEDISHETTY
+employer_poc_email             | HR@SVKTECHINC.COM
+employer_poc_phone             | 16099040040
+employer_poc_phone_ext         | 
+worksite_address1              | 625 MARSHALL ST.
+worksite_address2              | 
+worksite_city                  | LITTLE ROCK
+worksite_county                | PULASKI
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 51 CRAGWOOD ROAD
+employer_address2              | SUITE 301
+employer_city                  | SOUTH PLAINFIELD
+employer_state                 | NJ
+employer_postal_code           | 07080
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SVK TECHNOLOGY SOLUTIONS INC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 26 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25167-097355
+job_title                      | Software Engineer
+employer_name                  | ORIGINTEK SOLUTIONS LLC
+secondary_entity_business_name | State of Arkansas (AOC)
+employer_phone                 | 19803701371
+employer_poc_first_name        | Anagha
+employer_poc_last_name         | Mandayam
+employer_poc_email             | immigration@originteksolutions.com
+employer_poc_phone             | 19803701371
+employer_poc_phone_ext         | 
+worksite_address1              | 625 Marshall St
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
+employer_address1              | 9700 Research Drive
+employer_address2              | Suite 122
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28262
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ORIGINTEK SOLUTIONS LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 27 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25167-097200
+job_title                      | Software Engineer
+employer_name                  | ORIGINTEK SOLUTIONS LLC
+secondary_entity_business_name | State of Arkansas (AOC)
+employer_phone                 | 19803701371
+employer_poc_first_name        | Anagha
+employer_poc_last_name         | Mandayam
+employer_poc_email             | immigration@originteksolutions.com
+employer_poc_phone             | 19803701371
+employer_poc_phone_ext         | 
+worksite_address1              | 625 Marshal St
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
+employer_address1              | 9700 Research Drive
+employer_address2              | Suite 122
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28262
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ORIGINTEK SOLUTIONS LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 28 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25132-963510
+job_title                      | State IT Security Specialist
+employer_name                  | Arkansas Department of Transformation and Shared Services
+secondary_entity_business_name | 
+employer_phone                 | 15013196565
+employer_poc_first_name        | Jennifer
+employer_poc_last_name         | Davis
+employer_poc_email             | jennifer.davis@arkansas.gov
+employer_poc_phone             | 15016831672
+employer_poc_phone_ext         | 
+worksite_address1              | 501 Woodlane
+worksite_address2              | Suite 200
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | The Hernandez Law Firm PLLC
+employer_address1              | 501 Woodlane Suite 201
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72201
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas Department of Transformation and Shared Services
+soc_code                       | 15-1299.05
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25101-856487
+job_title                      | AOC Technical Architect Specialist
+employer_name                  | Apex IT Systems Global USA LLC
+secondary_entity_business_name | State of Arkansas Administrative Office of Courts
+employer_phone                 | 14699358758
+employer_poc_first_name        | Jesse
+employer_poc_last_name         | Tuttle
+employer_poc_email             | jesse@apexglobalusa.com
+employer_poc_phone             | 14699358758
+employer_poc_phone_ext         | 
+worksite_address1              | 625 Marshall St
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | 
+employer_address1              | 3721 S Stonebridge Drive
+employer_address2              | Suite 401
+employer_city                  | McKinney
+employer_state                 | TX
+employer_postal_code           | 75070
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Apex IT Systems Global USA LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
 -[ RECORD 30 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25148-027025
+job_title                      | SAP BTP Development Lead Consultant
+employer_name                  | Phoenix Business Inc
+secondary_entity_business_name | State of Arkansas, Department of Finance and Accounting (DFA)
+employer_phone                 | 15125574731
+employer_poc_first_name        | Hanif
+employer_poc_last_name         | SARANGI
+employer_poc_email             | hsarangi@phoenixteam.com
+employer_poc_phone             | 15125574731
+employer_poc_phone_ext         | 
+worksite_address1              | 1515 W. 7th St.
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | ENG & NISHIMURA
+employer_address1              | 6021 Midnight Pass Road
+employer_address2              | Unit 3
+employer_city                  | Sarasota
+employer_state                 | FL
+employer_postal_code           | 34242
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Phoenix Business Inc
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 31 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25149-029353
 job_title                      | SAP BTP Developer
 employer_name                  | Phoenix Business Inc
@@ -987,39 +1020,6 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Phoenix Business Inc
 soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25157-063957
-job_title                      | Law Clerk
-employer_name                  | State of Arkansas, Department of Inspector General
-secondary_entity_business_name | 
-employer_phone                 | 15016828349
-employer_poc_first_name        | LINDSEY
-employer_poc_last_name         | MATHIS
-employer_poc_email             | lindsey.mathis@arkansas.gov
-employer_poc_phone             | 15016828349
-employer_poc_phone_ext         | 
-worksite_address1              | 900 West Capitol Avenue, Suite 310
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 900 WEST CAPITOL AVENUE. Suite 310
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72201
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | State of Arkansas, Department of Inspector General
-soc_code                       | 23-1011
 h_1b_dependent                 | No
 -[ RECORD 32 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25265-325631
@@ -1121,72 +1121,6 @@ employer_name                  | Arkansas State University
 soc_code                       | 27-2022
 h_1b_dependent                 | No
 -[ RECORD 35 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25056-721498
-job_title                      | Assistant Professor
-employer_name                  | Arkansas State University
-secondary_entity_business_name | 
-employer_phone                 | 18709723454
-employer_poc_first_name        | Todd
-employer_poc_last_name         | Shields
-employer_poc_email             | toddshields@astate.edu
-employer_poc_phone             | 18709723030
-employer_poc_phone_ext         | 
-worksite_address1              | 300 University Loop
-worksite_address2              | 
-worksite_city                  | Jonesboro
-worksite_county                | CRAIGHEAD
-lawfirm_name_business_name     | McCandlish Holton PC
-employer_address1              | 2105 Aggie Road
-employer_address2              | 
-employer_city                  | Jonesboro
-employer_state                 | AR
-employer_postal_code           | 72401
-begin_date                     | 2025-08-16
-end_date                       | 2028-08-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas State University
-soc_code                       | 25-1066
-h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25147-019301
-job_title                      | Assistant Professor
-employer_name                  | Arkansas State University
-secondary_entity_business_name | 
-employer_phone                 | 18709723454
-employer_poc_first_name        | Michelle
-employer_poc_last_name         | Summers
-employer_poc_email             | msummers@astate.edu
-employer_poc_phone             | 18709723454
-employer_poc_phone_ext         | 
-worksite_address1              | 2405 Quapaw Trail
-worksite_address2              | 
-worksite_city                  | Jonesboro
-worksite_county                | CRAIGHEAD
-lawfirm_name_business_name     | McCandlish Holton PC
-employer_address1              | 2105 Aggie Road
-employer_address2              | 
-employer_city                  | Jonesboro
-employer_state                 | AR
-employer_postal_code           | 72401
-begin_date                     | 2025-08-16
-end_date                       | 2028-08-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas State University
-soc_code                       | 25-1022
-h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25175-125091
 job_title                      | Instructor
 employer_name                  | Arkansas State University
@@ -1219,7 +1153,40 @@ amended_petition               | 0
 employer_name                  | Arkansas State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 36 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25056-721498
+job_title                      | Assistant Professor
+employer_name                  | Arkansas State University
+secondary_entity_business_name | 
+employer_phone                 | 18709723454
+employer_poc_first_name        | Todd
+employer_poc_last_name         | Shields
+employer_poc_email             | toddshields@astate.edu
+employer_poc_phone             | 18709723030
+employer_poc_phone_ext         | 
+worksite_address1              | 300 University Loop
+worksite_address2              | 
+worksite_city                  | Jonesboro
+worksite_county                | CRAIGHEAD
+lawfirm_name_business_name     | McCandlish Holton PC
+employer_address1              | 2105 Aggie Road
+employer_address2              | 
+employer_city                  | Jonesboro
+employer_state                 | AR
+employer_postal_code           | 72401
+begin_date                     | 2025-08-16
+end_date                       | 2028-08-15
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas State University
+soc_code                       | 25-1066
+h_1b_dependent                 | No
+-[ RECORD 37 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25049-702430
 job_title                      | Assistant Professor
 employer_name                  | Arkansas State University
@@ -1251,6 +1218,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Arkansas State University
 soc_code                       | 25-1011
+h_1b_dependent                 | No
+-[ RECORD 38 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25147-019301
+job_title                      | Assistant Professor
+employer_name                  | Arkansas State University
+secondary_entity_business_name | 
+employer_phone                 | 18709723454
+employer_poc_first_name        | Michelle
+employer_poc_last_name         | Summers
+employer_poc_email             | msummers@astate.edu
+employer_poc_phone             | 18709723454
+employer_poc_phone_ext         | 
+worksite_address1              | 2405 Quapaw Trail
+worksite_address2              | 
+worksite_city                  | Jonesboro
+worksite_county                | CRAIGHEAD
+lawfirm_name_business_name     | McCandlish Holton PC
+employer_address1              | 2105 Aggie Road
+employer_address2              | 
+employer_city                  | Jonesboro
+employer_state                 | AR
+employer_postal_code           | 72401
+begin_date                     | 2025-08-16
+end_date                       | 2028-08-15
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas State University
+soc_code                       | 25-1022
 h_1b_dependent                 | No
 -[ RECORD 39 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25034-662367
@@ -1319,7 +1319,7 @@ employer_name                  | Arkansas State University
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 41 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25008-603170
+case_number                    | I-200-25009-607730
 job_title                      | Research Assistant
 employer_name                  | Arkansas State University
 secondary_entity_business_name | 
@@ -1352,7 +1352,7 @@ employer_name                  | Arkansas State University
 soc_code                       | 19-4061
 h_1b_dependent                 | No
 -[ RECORD 42 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25009-607730
+case_number                    | I-200-25008-603170
 job_title                      | Research Assistant
 employer_name                  | Arkansas State University
 secondary_entity_business_name | 
@@ -1550,39 +1550,6 @@ employer_name                  | M9 Consulting Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 48 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24330-497529
-job_title                      | Instructor, Game Design
-employer_name                  | Arkansas State University
-secondary_entity_business_name | 
-employer_phone                 | 18709723454
-employer_poc_first_name        | Todd
-employer_poc_last_name         | Shields
-employer_poc_email             | toddshields@astate.edu
-employer_poc_phone             | 18709723030
-employer_poc_phone_ext         | 
-worksite_address1              | Humanities and Social Sciences Bldg Rm. 3097
-worksite_address2              | 2401 Aggie Road
-worksite_city                  | Jonesboro
-worksite_county                | CRAIGHEAD
-lawfirm_name_business_name     | McCandlish Holton PC
-employer_address1              | 2105 Aggie Road
-employer_address2              | 
-employer_city                  | Jonesboro
-employer_state                 | AR
-employer_postal_code           | 72401
-begin_date                     | 2025-04-20
-end_date                       | 2028-04-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas State University
-soc_code                       | 25-1021
-h_1b_dependent                 | No
--[ RECORD 49 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24341-523286
 job_title                      | Assistant Professor
 employer_name                  | Arkansas State University
@@ -1609,6 +1576,39 @@ total_worker_positions         | 1
 new_employment                 | 0
 continued_employment           | 0
 change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas State University
+soc_code                       | 25-1021
+h_1b_dependent                 | No
+-[ RECORD 49 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24330-497529
+job_title                      | Instructor, Game Design
+employer_name                  | Arkansas State University
+secondary_entity_business_name | 
+employer_phone                 | 18709723454
+employer_poc_first_name        | Todd
+employer_poc_last_name         | Shields
+employer_poc_email             | toddshields@astate.edu
+employer_poc_phone             | 18709723030
+employer_poc_phone_ext         | 
+worksite_address1              | Humanities and Social Sciences Bldg Rm. 3097
+worksite_address2              | 2401 Aggie Road
+worksite_city                  | Jonesboro
+worksite_county                | CRAIGHEAD
+lawfirm_name_business_name     | McCandlish Holton PC
+employer_address1              | 2105 Aggie Road
+employer_address2              | 
+employer_city                  | Jonesboro
+employer_state                 | AR
+employer_postal_code           | 72401
+begin_date                     | 2025-04-20
+end_date                       | 2028-04-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
@@ -2078,39 +2078,6 @@ employer_name                  | Arkansas State University
 soc_code                       | 15-2051.00
 h_1b_dependent                 | No
 -[ RECORD 64 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24135-992503
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | DIGITAL DATUM INC
-secondary_entity_business_name | STATE OF ARKANSAS
-employer_phone                 | 17327979795
-employer_poc_first_name        | NAGARAJU
-employer_poc_last_name         | NETTEM
-employer_poc_email             | HR@DIGITALDATUM.AI
-employer_poc_phone             | 17327979795
-employer_poc_phone_ext         | 
-worksite_address1              | 105 WEST CAPITOL AVE.
-worksite_address2              | SUITE 101
-worksite_city                  | LITTLE ROCK
-worksite_county                | PULASKI
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 5 INDEPENDENCE WAY
-employer_address2              | SUITE 220
-employer_city                  | PRINCETON
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | DIGITAL DATUM INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 65 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24120-934371
 job_title                      | AOC Software Engineer
 employer_name                  | State of Arkansas - Administrative Office of the Courts
@@ -2143,40 +2110,7 @@ amended_petition               | 0
 employer_name                  | State of Arkansas - Administrative Office of the Courts
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 66 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24121-939395
-job_title                      | Civil Engineer (EI)
-employer_name                  | Arkansas Department of Transportation
-secondary_entity_business_name | 
-employer_phone                 | 15015692458
-employer_poc_first_name        | Alicia
-employer_poc_last_name         | Hunt
-employer_poc_email             | alicia.hunt@ardot.gov
-employer_poc_phone             | 15015692458
-employer_poc_phone_ext         | 
-worksite_address1              | 11300 West Baseline Road
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 10324 Interstate 30
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72209
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas Department of Transportation
-soc_code                       | 17-2051.00
-h_1b_dependent                 | No
--[ RECORD 67 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 65 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24122-945415
 job_title                      | Software Engineer
 employer_name                  | Rapido Technologies LLC
@@ -2209,7 +2143,7 @@ amended_petition               | 0
 employer_name                  | Rapido Technologies LLC
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
--[ RECORD 68 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 66 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24114-917631
 job_title                      | Business Intelligence Specialist
 employer_name                  | Arkansas Department of Transformation and Shared Services
@@ -2242,7 +2176,7 @@ amended_petition               | 0
 employer_name                  | Arkansas Department of Transformation and Shared Services
 soc_code                       | 15-1211.00
 h_1b_dependent                 | No
--[ RECORD 69 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 67 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24164-100684
 job_title                      | Software Analyst
 employer_name                  | Staffbee Solutions Inc
@@ -2275,40 +2209,7 @@ amended_petition               | 0
 employer_name                  | Staffbee Solutions Inc
 soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
--[ RECORD 70 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24108-895343
-job_title                      | Civil Engineer
-employer_name                  | Arkansas Department of Transportation
-secondary_entity_business_name | 
-employer_phone                 | 15015692458
-employer_poc_first_name        | Alicia
-employer_poc_last_name         | Hunt
-employer_poc_email             | alicia.hunt@ardot.gov
-employer_poc_phone             | 15015692458
-employer_poc_phone_ext         | 
-worksite_address1              | 11300 West Baseline Road
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 10324 Interstate 30
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72209
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas Department of Transportation
-soc_code                       | 17-2051.00
-h_1b_dependent                 | No
--[ RECORD 71 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 68 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24152-056815
 job_title                      | Software Analyst
 employer_name                  | Staffbee Solutions Inc
@@ -2341,7 +2242,40 @@ amended_petition               | 0
 employer_name                  | Staffbee Solutions Inc
 soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
--[ RECORD 72 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 69 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24135-992503
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | DIGITAL DATUM INC
+secondary_entity_business_name | STATE OF ARKANSAS
+employer_phone                 | 17327979795
+employer_poc_first_name        | NAGARAJU
+employer_poc_last_name         | NETTEM
+employer_poc_email             | HR@DIGITALDATUM.AI
+employer_poc_phone             | 17327979795
+employer_poc_phone_ext         | 
+worksite_address1              | 105 WEST CAPITOL AVE.
+worksite_address2              | SUITE 101
+worksite_city                  | LITTLE ROCK
+worksite_county                | PULASKI
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 5 INDEPENDENCE WAY
+employer_address2              | SUITE 220
+employer_city                  | PRINCETON
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | DIGITAL DATUM INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 70 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24123-952158
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | DIGITAL DATUM INC
@@ -2374,6 +2308,72 @@ amended_petition               | 0
 employer_name                  | DIGITAL DATUM INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
+-[ RECORD 71 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24121-939395
+job_title                      | Civil Engineer (EI)
+employer_name                  | Arkansas Department of Transportation
+secondary_entity_business_name | 
+employer_phone                 | 15015692458
+employer_poc_first_name        | Alicia
+employer_poc_last_name         | Hunt
+employer_poc_email             | alicia.hunt@ardot.gov
+employer_poc_phone             | 15015692458
+employer_poc_phone_ext         | 
+worksite_address1              | 11300 West Baseline Road
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Hall Booth Smith PC
+employer_address1              | 10324 Interstate 30
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72209
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas Department of Transportation
+soc_code                       | 17-2051.00
+h_1b_dependent                 | No
+-[ RECORD 72 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24108-895343
+job_title                      | Civil Engineer
+employer_name                  | Arkansas Department of Transportation
+secondary_entity_business_name | 
+employer_phone                 | 15015692458
+employer_poc_first_name        | Alicia
+employer_poc_last_name         | Hunt
+employer_poc_email             | alicia.hunt@ardot.gov
+employer_poc_phone             | 15015692458
+employer_poc_phone_ext         | 
+worksite_address1              | 11300 West Baseline Road
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Hall Booth Smith PC
+employer_address1              | 10324 Interstate 30
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72209
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas Department of Transportation
+soc_code                       | 17-2051.00
+h_1b_dependent                 | No
 -[ RECORD 73 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24194-192793
 job_title                      | System Administrator - IT
@@ -2639,40 +2639,7 @@ employer_name                  | LUCID TECHNOLOGIES INC
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 81 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24054-742960
-job_title                      | Assistant Professor of Finance
-employer_name                  | Arkansas State University
-secondary_entity_business_name | 
-employer_phone                 | 18709723454
-employer_poc_first_name        | Todd
-employer_poc_last_name         | Shields
-employer_poc_email             | toddshields@astate.edu
-employer_poc_phone             | 18709723030
-employer_poc_phone_ext         | 
-worksite_address1              | Neil Griffin College of Business
-worksite_address2              | 2007 Aggie Road
-worksite_city                  | Jonesboro
-worksite_county                | CRAIGHEAD
-lawfirm_name_business_name     | McCandlish Holton PC
-employer_address1              | 2105 Aggie Road
-employer_address2              | 
-employer_city                  | Jonesboro
-employer_state                 | AR
-employer_postal_code           | 72401
-begin_date                     | 2024-08-16
-end_date                       | 2027-08-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas State University
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 82 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24054-742965
+case_number                    | I-200-24047-724636
 job_title                      | Assistant Professor
 employer_name                  | Arkansas State University
 secondary_entity_business_name | 
@@ -2704,7 +2671,7 @@ amended_petition               | 0
 employer_name                  | Arkansas State University
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 83 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 82 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24155-064036
 job_title                      | Assistant Professor
 employer_name                  | Arkansas State University
@@ -2737,9 +2704,42 @@ amended_petition               | 0
 employer_name                  | Arkansas State University
 soc_code                       | 25-1066.00
 h_1b_dependent                 | No
--[ RECORD 84 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24047-724636
+-[ RECORD 83 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24054-742965
 job_title                      | Assistant Professor
+employer_name                  | Arkansas State University
+secondary_entity_business_name | 
+employer_phone                 | 18709723454
+employer_poc_first_name        | Todd
+employer_poc_last_name         | Shields
+employer_poc_email             | toddshields@astate.edu
+employer_poc_phone             | 18709723030
+employer_poc_phone_ext         | 
+worksite_address1              | Neil Griffin College of Business
+worksite_address2              | 2007 Aggie Road
+worksite_city                  | Jonesboro
+worksite_county                | CRAIGHEAD
+lawfirm_name_business_name     | McCandlish Holton PC
+employer_address1              | 2105 Aggie Road
+employer_address2              | 
+employer_city                  | Jonesboro
+employer_state                 | AR
+employer_postal_code           | 72401
+begin_date                     | 2024-08-16
+end_date                       | 2027-08-15
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Arkansas State University
+soc_code                       | 25-1011.00
+h_1b_dependent                 | No
+-[ RECORD 84 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24054-742960
+job_title                      | Assistant Professor of Finance
 employer_name                  | Arkansas State University
 secondary_entity_business_name | 
 employer_phone                 | 18709723454
@@ -2969,39 +2969,6 @@ employer_name                  | PYRAMID TECHNOLOGY SOLUTIONS INC
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 91 ]-----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24124-953667
-job_title                      | AOC Senior Experience Designer
-employer_name                  | State of Arkansas - Administrative Office of the Courts
-secondary_entity_business_name | 
-employer_phone                 | 15016876799
-employer_poc_first_name        | Samuel
-employer_poc_last_name         | Kauffman
-employer_poc_email             | sam.kauffman@arcourts.gov
-employer_poc_phone             | 15014101921
-employer_poc_phone_ext         | 
-worksite_address1              | 625 Marshall St
-worksite_address2              | 
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 625 Marshall St
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72201
-begin_date                     | 2024-05-13
-end_date                       | 2027-05-12
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | State of Arkansas - Administrative Office of the Courts
-soc_code                       | 15-1255.00
-h_1b_dependent                 | No
--[ RECORD 92 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24124-953666
 job_title                      | AOC Senior Experience Designer (Computer Programmer)
 employer_name                  | State of Arkansas - Administrative Office of the Courts
@@ -3033,6 +3000,39 @@ change_employer                | 1
 amended_petition               | 0
 employer_name                  | State of Arkansas - Administrative Office of the Courts
 soc_code                       | 15-1251.00
+h_1b_dependent                 | No
+-[ RECORD 92 ]-----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24124-953667
+job_title                      | AOC Senior Experience Designer
+employer_name                  | State of Arkansas - Administrative Office of the Courts
+secondary_entity_business_name | 
+employer_phone                 | 15016876799
+employer_poc_first_name        | Samuel
+employer_poc_last_name         | Kauffman
+employer_poc_email             | sam.kauffman@arcourts.gov
+employer_poc_phone             | 15014101921
+employer_poc_phone_ext         | 
+worksite_address1              | 625 Marshall St
+worksite_address2              | 
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Hall Booth Smith PC
+employer_address1              | 625 Marshall St
+employer_address2              | 
+employer_city                  | Little Rock
+employer_state                 | AR
+employer_postal_code           | 72201
+begin_date                     | 2024-05-13
+end_date                       | 2027-05-12
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | State of Arkansas - Administrative Office of the Courts
+soc_code                       | 15-1255.00
 h_1b_dependent                 | No
 -[ RECORD 93 ]-----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24024-663454
@@ -3530,72 +3530,6 @@ employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 108 ]----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23163-100847
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | DIGITAL DATUM INC
-secondary_entity_business_name | STATE OF ARKANSAS, DFA-OIS
-employer_phone                 | 17327979795
-employer_poc_first_name        | NAGARAJU
-employer_poc_last_name         | NETTEM
-employer_poc_email             | INFO@DIGITALDATUM.AI
-employer_poc_phone             | 17327979795
-employer_poc_phone_ext         | 
-worksite_address1              | 105 WEST CAPITOL AVENUE
-worksite_address2              | SUIT   101
-worksite_city                  | LITTLE ROCK
-worksite_county                | PULASKI
-lawfirm_name_business_name     | 
-employer_address1              | 5 INDEPENDENCE WAY
-employer_address2              | SUITE 220
-employer_city                  | PRINCETON
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | DIGITAL DATUM INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 109 ]----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23144-051334
-job_title                      | Senior Database Administrator
-employer_name                  | NUANZA INC
-secondary_entity_business_name | State of Arkansas Department of Finance & Administration
-employer_phone                 | 14693016300
-employer_poc_first_name        | KEERTI
-employer_poc_last_name         | VEDIRE
-employer_poc_email             | LCA@NUANZA.COM
-employer_poc_phone             | 14693016300
-employer_poc_phone_ext         | 
-worksite_address1              | 13500 Chenal Pkwy
-worksite_address2              | Apt 1201
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Tadmor & Tadmor LLP
-employer_address1              | 3900 S Stonebridge Dr.
-employer_address2              | SUITE 1502
-employer_city                  | MCKINNEY
-employer_state                 | TX
-employer_postal_code           | 75070
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NUANZA INC
-soc_code                       | 15-1242.00
-h_1b_dependent                 | Yes
--[ RECORD 110 ]----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23166-116464
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | DIGITAL DATUM INC
@@ -3628,40 +3562,7 @@ amended_petition               | 0
 employer_name                  | DIGITAL DATUM INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 111 ]----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23130-009285
-job_title                      | Web Developer
-employer_name                  | Department of Energy and Environment Arkansas Geological Survey
-secondary_entity_business_name | 
-employer_phone                 | 15016820744
-employer_poc_first_name        | Stacie
-employer_poc_last_name         | Wassell
-employer_poc_email             | wassell@adeq.state.ar.us
-employer_poc_phone             | 15016820744
-employer_poc_phone_ext         | 
-worksite_address1              | 5301 Northshore Drive
-worksite_address2              | 
-worksite_city                  | North Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | Department of Energy & Environment
-employer_address1              | 5301 Northshore Drive
-employer_address2              | 
-employer_city                  | North Little Rock
-employer_state                 | AR
-employer_postal_code           | 72118
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Department of Energy and Environment Arkansas Geological Survey
-soc_code                       | 15-1254.00
-h_1b_dependent                 | No
--[ RECORD 112 ]----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 109 ]----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23221-251957
 job_title                      | TSS STATE IT SECURITY ANALYST
 employer_name                  | Arkansas Department of Transformation and Shared Services
@@ -3694,7 +3595,7 @@ amended_petition               | 0
 employer_name                  | Arkansas Department of Transformation and Shared Services
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
--[ RECORD 113 ]----------------+-------------------------------------------------------------------------------------------------------------------
+-[ RECORD 110 ]----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23215-237913
 job_title                      | Oracle Business Intelligence Developer
 employer_name                  | Business Intelligence Solutions Inc
@@ -3727,6 +3628,105 @@ amended_petition               | 0
 employer_name                  | Business Intelligence Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
+-[ RECORD 111 ]----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23144-051334
+job_title                      | Senior Database Administrator
+employer_name                  | NUANZA INC
+secondary_entity_business_name | State of Arkansas Department of Finance & Administration
+employer_phone                 | 14693016300
+employer_poc_first_name        | KEERTI
+employer_poc_last_name         | VEDIRE
+employer_poc_email             | LCA@NUANZA.COM
+employer_poc_phone             | 14693016300
+employer_poc_phone_ext         | 
+worksite_address1              | 13500 Chenal Pkwy
+worksite_address2              | Apt 1201
+worksite_city                  | Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Tadmor & Tadmor LLP
+employer_address1              | 3900 S Stonebridge Dr.
+employer_address2              | SUITE 1502
+employer_city                  | MCKINNEY
+employer_state                 | TX
+employer_postal_code           | 75070
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NUANZA INC
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 112 ]----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23130-009285
+job_title                      | Web Developer
+employer_name                  | Department of Energy and Environment Arkansas Geological Survey
+secondary_entity_business_name | 
+employer_phone                 | 15016820744
+employer_poc_first_name        | Stacie
+employer_poc_last_name         | Wassell
+employer_poc_email             | wassell@adeq.state.ar.us
+employer_poc_phone             | 15016820744
+employer_poc_phone_ext         | 
+worksite_address1              | 5301 Northshore Drive
+worksite_address2              | 
+worksite_city                  | North Little Rock
+worksite_county                | PULASKI
+lawfirm_name_business_name     | Department of Energy & Environment
+employer_address1              | 5301 Northshore Drive
+employer_address2              | 
+employer_city                  | North Little Rock
+employer_state                 | AR
+employer_postal_code           | 72118
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Department of Energy and Environment Arkansas Geological Survey
+soc_code                       | 15-1254.00
+h_1b_dependent                 | No
+-[ RECORD 113 ]----------------+-------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23163-100847
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | DIGITAL DATUM INC
+secondary_entity_business_name | STATE OF ARKANSAS, DFA-OIS
+employer_phone                 | 17327979795
+employer_poc_first_name        | NAGARAJU
+employer_poc_last_name         | NETTEM
+employer_poc_email             | INFO@DIGITALDATUM.AI
+employer_poc_phone             | 17327979795
+employer_poc_phone_ext         | 
+worksite_address1              | 105 WEST CAPITOL AVENUE
+worksite_address2              | SUIT   101
+worksite_city                  | LITTLE ROCK
+worksite_county                | PULASKI
+lawfirm_name_business_name     | 
+employer_address1              | 5 INDEPENDENCE WAY
+employer_address2              | SUITE 220
+employer_city                  | PRINCETON
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | DIGITAL DATUM INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 114 ]----------------+-------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23221-251893
 job_title                      | Business Intelligence Specialist
@@ -3825,104 +3825,5 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Arkansas State University
 soc_code                       | 25-1193.00
-h_1b_dependent                 | No
--[ RECORD 117 ]----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23198-192289
-job_title                      | Software Developer
-employer_name                  | Federal Soft Systems Inc
-secondary_entity_business_name | State of Arkansas Division of Information Systems
-employer_phone                 | 12017169222
-employer_poc_first_name        | Sarika
-employer_poc_last_name         | Batte
-employer_poc_email             | HR4@FEDERALSOFTSYSTEMS.COM
-employer_poc_phone             | 12017169222
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Woodlane St
-worksite_address2              | N/A
-worksite_city                  | Little Rock
-worksite_county                | PULASKI
-lawfirm_name_business_name     | 
-employer_address1              | 3101 SW I St
-employer_address2              | Suite 31
-employer_city                  | Bentonville
-employer_state                 | AR
-employer_postal_code           | 72712
-begin_date                     | 2023-07-17
-end_date                       | 2026-07-16
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Federal Soft Systems Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 118 ]----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23009-689956
-job_title                      | Instructor
-employer_name                  | Arkansas State University
-secondary_entity_business_name | 
-employer_phone                 | 18709723454
-employer_poc_first_name        | Michelle
-employer_poc_last_name         | Summers
-employer_poc_email             | msummers@astate.edu
-employer_poc_phone             | 18709723454
-employer_poc_phone_ext         | 
-worksite_address1              | 2401 Aggie Rd.
-worksite_address2              | Humanities & Social Sciences Building
-worksite_city                  | Jonesboro
-worksite_county                | CRAIGHEAD
-lawfirm_name_business_name     | McCandlish Holton PC
-employer_address1              | 2105 Aggie Road
-employer_address2              | 
-employer_city                  | Jonesboro
-employer_state                 | AR
-employer_postal_code           | 72401
-begin_date                     | 2023-07-05
-end_date                       | 2026-07-04
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas State University
-soc_code                       | 25-1111.00
-h_1b_dependent                 | No
--[ RECORD 119 ]----------------+-------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23131-012672
-job_title                      | Network Support Specialist
-employer_name                  | Arkansas Department of Public Safety
-secondary_entity_business_name | 
-employer_phone                 | 15016188529
-employer_poc_first_name        | Hugh
-employer_poc_last_name         | Finkelstein
-employer_poc_email             | hugh.finkelstein@asp.arkansas.gov
-employer_poc_phone             | 15016188167
-employer_poc_phone_ext         | 
-worksite_address1              | 1120 W Monroe
-worksite_address2              | 
-worksite_city                  | Lowell
-worksite_county                | BENTON
-lawfirm_name_business_name     | Hall Booth Smith PC
-employer_address1              | 1 State Police Plaza Drive
-employer_address2              | 
-employer_city                  | Little Rock
-employer_state                 | AR
-employer_postal_code           | 72209
-begin_date                     | 2023-06-04
-end_date                       | 2026-06-03
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Arkansas Department of Public Safety
-soc_code                       | 15-1231.00
 h_1b_dependent                 | No
 

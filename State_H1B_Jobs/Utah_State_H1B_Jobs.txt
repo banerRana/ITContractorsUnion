@@ -164,72 +164,6 @@ employer_name                  | Utah State University
 soc_code                       | 17-2051.00
 h_1b_dependent                 | No
 -[ RECORD 6 ]------------------+---------------------------------------------------------------
-case_number                    | I-200-25226-242325
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357979144
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357979144
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2026-01-01
-end_date                       | 2028-12-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1051.00
-h_1b_dependent                 | No
--[ RECORD 7 ]------------------+---------------------------------------------------------------
-case_number                    | I-200-25188-155545
-job_title                      | SOFTWARE DEVELOPER/ ENGINEER
-employer_name                  | CORPORATE COMPUTER SERVICES
-secondary_entity_business_name | STATE OF UTAH (DEPARTMENT OF TECHNOLOGY SERVICE)
-employer_phone                 | 12488880444
-employer_poc_first_name        | DEEPIKA
-employer_poc_last_name         | KUCHIPUDI
-employer_poc_email             | hr@ccsiusa.net
-employer_poc_phone             | 12488880444
-employer_poc_phone_ext         | 109
-worksite_address1              | 140 E, 300S
-worksite_address2              | 6TH FLOOR
-worksite_city                  | SALT LAKE CITY
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 24155 DRAKE ROAD, SUITE 110
-employer_address2              | SUITE 110
-employer_city                  | FARMINGTON HILLS
-employer_state                 | MI
-employer_postal_code           | 48335
-begin_date                     | 2026-01-01
-end_date                       | 2028-12-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | CORPORATE COMPUTER SERVICES
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+---------------------------------------------------------------
 case_number                    | I-200-25310-384355
 job_title                      | Postdoctoral Fellow III
 employer_name                  | Utah State University
@@ -262,6 +196,72 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 17-2051.00
 h_1b_dependent                 | No
+-[ RECORD 7 ]------------------+---------------------------------------------------------------
+case_number                    | I-200-25226-242325
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357979144
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357979144
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2026-01-01
+end_date                       | 2028-12-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1051.00
+h_1b_dependent                 | No
+-[ RECORD 8 ]------------------+---------------------------------------------------------------
+case_number                    | I-200-25188-155545
+job_title                      | SOFTWARE DEVELOPER/ ENGINEER
+employer_name                  | CORPORATE COMPUTER SERVICES
+secondary_entity_business_name | STATE OF UTAH (DEPARTMENT OF TECHNOLOGY SERVICE)
+employer_phone                 | 12488880444
+employer_poc_first_name        | DEEPIKA
+employer_poc_last_name         | KUCHIPUDI
+employer_poc_email             | hr@ccsiusa.net
+employer_poc_phone             | 12488880444
+employer_poc_phone_ext         | 109
+worksite_address1              | 140 E, 300S
+worksite_address2              | 6TH FLOOR
+worksite_city                  | SALT LAKE CITY
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 24155 DRAKE ROAD, SUITE 110
+employer_address2              | SUITE 110
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2026-01-01
+end_date                       | 2028-12-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CORPORATE COMPUTER SERVICES
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+---------------------------------------------------------------
 case_number                    | I-200-25356-503225
 job_title                      | BUSINESS ANALYST
@@ -692,8 +692,8 @@ employer_name                  | Utah Department of Public Safety Bureau of Fore
 soc_code                       | 19-4092
 h_1b_dependent                 | No
 -[ RECORD 22 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25105-864067
-job_title                      | SR. BUSINESS ANALYST
+case_number                    | I-200-25094-831899
+job_title                      | SHAREPOINT BSA
 employer_name                  | HEXACORP LLC
 secondary_entity_business_name | STATE OF UTAH - DEPARTMENT OF HUMAN SERVICES
 employer_phone                 | 16784908178
@@ -725,8 +725,8 @@ employer_name                  | HEXACORP LLC
 soc_code                       | 15-1251
 h_1b_dependent                 | Yes
 -[ RECORD 23 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25094-831899
-job_title                      | SHAREPOINT BSA
+case_number                    | I-200-25105-864067
+job_title                      | SR. BUSINESS ANALYST
 employer_name                  | HEXACORP LLC
 secondary_entity_business_name | STATE OF UTAH - DEPARTMENT OF HUMAN SERVICES
 employer_phone                 | 16784908178
@@ -890,138 +890,6 @@ employer_name                  | Deloitte Consulting LLP
 soc_code                       | 11-3021.00
 h_1b_dependent                 | No
 -[ RECORD 28 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25076-781423
-job_title                      | Senior Scientist
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 19-1029
-h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25092-823014
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25056-723943
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1122
-h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25141-005004
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-25160-071427
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
@@ -1054,106 +922,7 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1052
 h_1b_dependent                 | No
--[ RECORD 33 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25034-661165
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1022
-h_1b_dependent                 | No
--[ RECORD 34 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25115-907480
-job_title                      | Temporary Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1021
-h_1b_dependent                 | No
--[ RECORD 35 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25128-953698
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+---------------------------------------------------------------
+-[ RECORD 29 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-25090-815372
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
@@ -1186,7 +955,40 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1041
 h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+---------------------------------------------------------------
+-[ RECORD 30 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25141-005004
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 31 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-25093-830585
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
@@ -1219,8 +1021,206 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1125
 h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+---------------------------------------------------------------
+-[ RECORD 32 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25115-907480
+job_title                      | Temporary Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1021
+h_1b_dependent                 | No
+-[ RECORD 33 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25128-953698
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 34 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-25132-963893
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 35 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25076-781423
+job_title                      | Senior Scientist
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 19-1029
+h_1b_dependent                 | No
+-[ RECORD 36 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25034-661165
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1022
+h_1b_dependent                 | No
+-[ RECORD 37 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25056-723943
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1122
+h_1b_dependent                 | No
+-[ RECORD 38 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25092-823014
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
 secondary_entity_business_name | 
@@ -1319,72 +1319,6 @@ employer_name                  | Utah State University
 soc_code                       | 25-1124
 h_1b_dependent                 | No
 -[ RECORD 41 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25035-664129
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-07-01
-end_date                       | 2028-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 42 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25132-965099
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-07-01
-end_date                       | 2028-06-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1081
-h_1b_dependent                 | No
--[ RECORD 43 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-25115-907342
 job_title                      | Temporary Assistant Professor
 employer_name                  | Utah State University
@@ -1417,7 +1351,7 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1021
 h_1b_dependent                 | No
--[ RECORD 44 ]-----------------+---------------------------------------------------------------
+-[ RECORD 42 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-25148-023689
 job_title                      | Adjunct Instructor
 employer_name                  | Utah State University
@@ -1449,6 +1383,72 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1124
+h_1b_dependent                 | No
+-[ RECORD 43 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25132-965099
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-07-01
+end_date                       | 2028-06-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1081
+h_1b_dependent                 | No
+-[ RECORD 44 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25035-664129
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-07-01
+end_date                       | 2028-06-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 45 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-25015-620153
@@ -1583,72 +1583,6 @@ employer_name                  | University of Utah
 soc_code                       | 19-4061
 h_1b_dependent                 | No
 -[ RECORD 49 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25029-651900
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-06-01
-end_date                       | 2028-05-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1199
-h_1b_dependent                 | No
--[ RECORD 50 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25099-848228
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-06-01
-end_date                       | 2028-05-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1053
-h_1b_dependent                 | No
--[ RECORD 51 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24340-520166
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
@@ -1681,7 +1615,40 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1042
 h_1b_dependent                 | No
--[ RECORD 52 ]-----------------+---------------------------------------------------------------
+-[ RECORD 50 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25029-651900
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-06-01
+end_date                       | 2028-05-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1199
+h_1b_dependent                 | No
+-[ RECORD 51 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-25071-770327
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
@@ -1714,7 +1681,7 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1081
 h_1b_dependent                 | No
--[ RECORD 53 ]-----------------+---------------------------------------------------------------
+-[ RECORD 52 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24339-517949
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
@@ -1746,6 +1713,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 53 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25099-848228
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-06-01
+end_date                       | 2028-05-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1053
 h_1b_dependent                 | No
 -[ RECORD 54 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-25148-025910
@@ -2045,9 +2045,9 @@ employer_name                  | CONNVERTEX TECHNOLOGIES INC
 soc_code                       | 15-1211
 h_1b_dependent                 | Yes
 -[ RECORD 63 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24261-342769
+case_number                    | I-200-24311-456788
 job_title                      | Assistant Professor
-employer_name                  | UTAH STATE UNIVERSITY
+employer_name                  | Utah State University
 secondary_entity_business_name | 
 employer_phone                 | 14357971902
 employer_poc_first_name        | Yulese
@@ -2074,19 +2074,19 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | UTAH STATE UNIVERSITY
-soc_code                       | 25-1124.00
+employer_name                  | Utah State University
+soc_code                       | 25-1042
 h_1b_dependent                 | No
 -[ RECORD 64 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24185-173684
-job_title                      | Professional Practice Assistant Professor
+case_number                    | I-200-24318-472693
+job_title                      | Assistant Professor
 employer_name                  | Utah State University
 secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
+employer_phone                 | 14537970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
 employer_poc_phone_ext         | 
 worksite_address1              | 8800 Old Main Hill
 worksite_address2              | 
@@ -2108,7 +2108,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
-soc_code                       | 25-1081.00
+soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 65 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24319-474844
@@ -2144,9 +2144,9 @@ employer_name                  | Utah State University
 soc_code                       | 25-1042
 h_1b_dependent                 | No
 -[ RECORD 66 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24311-456788
+case_number                    | I-200-24261-342769
 job_title                      | Assistant Professor
-employer_name                  | Utah State University
+employer_name                  | UTAH STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 14357971902
 employer_poc_first_name        | Yulese
@@ -2173,19 +2173,19 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1042
+employer_name                  | UTAH STATE UNIVERSITY
+soc_code                       | 25-1124.00
 h_1b_dependent                 | No
 -[ RECORD 67 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24263-350300
-job_title                      | Assistant Professor
+case_number                    | I-200-24347-540111
+job_title                      | Postdoctoral Fellow
 employer_name                  | Utah State University
 secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
+employer_phone                 | 14357971902
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
 employer_poc_phone_ext         | 
 worksite_address1              | 8800 Old Main Hill
 worksite_address2              | 
@@ -2197,7 +2197,7 @@ employer_address2              |
 employer_city                  | Logan
 employer_state                 | UT
 employer_postal_code           | 84322
-begin_date                     | 2025-01-01
+begin_date                     | 2025-01-06
 end_date                       | 2027-12-31
 total_worker_positions         | 1
 new_employment                 | 1
@@ -2207,7 +2207,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
-soc_code                       | 19-1013.00
+soc_code                       | 19-1011
 h_1b_dependent                 | No
 -[ RECORD 68 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24269-363517
@@ -2243,7 +2243,7 @@ employer_name                  | Utah State University
 soc_code                       | 25-1051
 h_1b_dependent                 | No
 -[ RECORD 69 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24197-196168
+case_number                    | I-200-24185-173684
 job_title                      | Professional Practice Assistant Professor
 employer_name                  | Utah State University
 secondary_entity_business_name | 
@@ -2276,15 +2276,15 @@ employer_name                  | Utah State University
 soc_code                       | 25-1081.00
 h_1b_dependent                 | No
 -[ RECORD 70 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24347-540111
-job_title                      | Postdoctoral Fellow
+case_number                    | I-200-24263-350300
+job_title                      | Assistant Professor
 employer_name                  | Utah State University
 secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
 employer_poc_phone_ext         | 
 worksite_address1              | 8800 Old Main Hill
 worksite_address2              | 
@@ -2296,7 +2296,7 @@ employer_address2              |
 employer_city                  | Logan
 employer_state                 | UT
 employer_postal_code           | 84322
-begin_date                     | 2025-01-06
+begin_date                     | 2025-01-01
 end_date                       | 2027-12-31
 total_worker_positions         | 1
 new_employment                 | 1
@@ -2306,18 +2306,18 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
-soc_code                       | 19-1011
+soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 71 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24318-472693
-job_title                      | Assistant Professor
+case_number                    | I-200-24197-196168
+job_title                      | Professional Practice Assistant Professor
 employer_name                  | Utah State University
 secondary_entity_business_name | 
-employer_phone                 | 14537970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
+employer_phone                 | 14357971902
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
 employer_poc_phone_ext         | 
 worksite_address1              | 8800 Old Main Hill
 worksite_address2              | 
@@ -2339,7 +2339,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
-soc_code                       | 25-1032
+soc_code                       | 25-1081.00
 h_1b_dependent                 | No
 -[ RECORD 72 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24199-202090
@@ -2705,39 +2705,6 @@ employer_name                  | KESH TEC INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 83 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24116-927812
-job_title                      | JAVA DEVELOPER
-employer_name                  | LEARNBEYOND CONSULTING LLC
-secondary_entity_business_name | STATE OF UTAH
-employer_phone                 | 17324797002
-employer_poc_first_name        | KUMAR
-employer_poc_last_name         | GANESAN
-employer_poc_email             | KUMAR@LEARNBEYONDCONSULTING.COM
-employer_poc_phone             | 17324797002
-employer_poc_phone_ext         | 
-worksite_address1              | 195 N 1950 W.
-worksite_address2              | 
-worksite_city                  | SALT LAKE CITY
-worksite_county                | SALT LAKE
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 15 CORPORATE PLACE SOUTH
-employer_address2              | SUITE 345
-employer_city                  | PISCATAWAY
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | LEARNBEYOND CONSULTING LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 84 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24093-848868
 job_title                      | Software Developer
 employer_name                  | TECHMYNDS INC
@@ -2770,7 +2737,7 @@ amended_petition               | 0
 employer_name                  | TECHMYNDS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 85 ]-----------------+---------------------------------------------------------------
+-[ RECORD 84 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24101-875189
 job_title                      | Software Developer
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -2801,6 +2768,39 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 85 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-24116-927812
+job_title                      | JAVA DEVELOPER
+employer_name                  | LEARNBEYOND CONSULTING LLC
+secondary_entity_business_name | STATE OF UTAH
+employer_phone                 | 17324797002
+employer_poc_first_name        | KUMAR
+employer_poc_last_name         | GANESAN
+employer_poc_email             | KUMAR@LEARNBEYONDCONSULTING.COM
+employer_poc_phone             | 17324797002
+employer_poc_phone_ext         | 
+worksite_address1              | 195 N 1950 W.
+worksite_address2              | 
+worksite_city                  | SALT LAKE CITY
+worksite_county                | SALT LAKE
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 15 CORPORATE PLACE SOUTH
+employer_address2              | SUITE 345
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | LEARNBEYOND CONSULTING LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 86 ]-----------------+---------------------------------------------------------------
@@ -2837,15 +2837,15 @@ employer_name                  | Utah State University
 soc_code                       | 15-1242.00
 h_1b_dependent                 | No
 -[ RECORD 87 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24219-247837
-job_title                      | Post-Doctoral Fellow
+case_number                    | I-200-25106-870573
+job_title                      | Postdoctoral Fellow II
 employer_name                  | Utah State University
 secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
 employer_poc_phone_ext         | 
 worksite_address1              | 8800 Old Main Hill
 worksite_address2              | 
@@ -2857,52 +2857,19 @@ employer_address2              |
 employer_city                  | Logan
 employer_state                 | UT
 employer_postal_code           | 84322
-begin_date                     | 2024-09-01
-end_date                       | 2027-08-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 88 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25155-053889
-job_title                      | Postdoctoral Research Fellow
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | Office of Human Resources
-worksite_address2              | 8800 Old Main Hill
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
 begin_date                     | 2025-09-01
 end_date                       | 2027-08-31
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
-soc_code                       | 19-2099.01
+soc_code                       | 17-2051
 h_1b_dependent                 | No
--[ RECORD 89 ]-----------------+---------------------------------------------------------------
+-[ RECORD 88 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24226-264289
 job_title                      | Post-Doctoral Fellow
 employer_name                  | Utah State University
@@ -2935,16 +2902,16 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 19-1012.00
 h_1b_dependent                 | No
--[ RECORD 90 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25106-870573
-job_title                      | Postdoctoral Fellow II
+-[ RECORD 89 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-24219-247837
+job_title                      | Post-Doctoral Fellow
 employer_name                  | Utah State University
 secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
+employer_phone                 | 14357971902
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
 employer_poc_phone_ext         | 
 worksite_address1              | 8800 Old Main Hill
 worksite_address2              | 
@@ -2956,17 +2923,50 @@ employer_address2              |
 employer_city                  | Logan
 employer_state                 | UT
 employer_postal_code           | 84322
-begin_date                     | 2025-09-01
+begin_date                     | 2024-09-01
 end_date                       | 2027-08-31
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
-soc_code                       | 17-2051
+soc_code                       | 25-1041.00
+h_1b_dependent                 | No
+-[ RECORD 90 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-25155-053889
+job_title                      | Postdoctoral Research Fellow
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | Office of Human Resources
+worksite_address2              | 8800 Old Main Hill
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-09-01
+end_date                       | 2027-08-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 19-2099.01
 h_1b_dependent                 | No
 -[ RECORD 91 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24225-261183
@@ -3068,138 +3068,6 @@ employer_name                  | Utah State University
 soc_code                       | 25-1041.00
 h_1b_dependent                 | No
 -[ RECORD 94 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24302-437709
-job_title                      | Assistant Professor of Portuguese
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2024-11-01
-end_date                       | 2027-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1124
-h_1b_dependent                 | No
--[ RECORD 95 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-25121-925496
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-08-01
-end_date                       | 2027-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1022
-h_1b_dependent                 | No
--[ RECORD 96 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24150-046555
-job_title                      | ASSISTANT PROFESSOR
-employer_name                  | UTAH STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | YULESE
-employer_poc_last_name         | LINCOLN
-employer_poc_email             | JOBS@USU.EDU
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 OLD MAIN HILL
-worksite_address2              | 
-worksite_city                  | LOGAN
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 OLD MAIN HILL
-employer_address2              | 
-employer_city                  | LOGAN
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2024-08-01
-end_date                       | 2027-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | UTAH STATE UNIVERSITY
-soc_code                       | 25-1192.00
-h_1b_dependent                 | No
--[ RECORD 97 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24037-697201
-job_title                      | Assistant Professor of Psychology
-employer_name                  | Utah State University - Logan, UT
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Yulese
-employer_poc_last_name         | Lincoln
-employer_poc_email             | jobs@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322-8800
-begin_date                     | 2024-08-01
-end_date                       | 2027-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University - Logan, UT
-soc_code                       | 25-1066.00
-h_1b_dependent                 | No
--[ RECORD 98 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24037-697241
 job_title                      | Assistant Professor of Psychology
 employer_name                  | Utah State University - Logan, UT
@@ -3232,16 +3100,16 @@ amended_petition               | 0
 employer_name                  | Utah State University - Logan, UT
 soc_code                       | 25-1066.00
 h_1b_dependent                 | No
--[ RECORD 99 ]-----------------+---------------------------------------------------------------
-case_number                    | I-200-24143-025486
-job_title                      | Assistant Professor and State Extension Specialist
+-[ RECORD 95 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-24302-437709
+job_title                      | Assistant Professor of Portuguese
 employer_name                  | Utah State University
 secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.m.anderson@usu.edu
-employer_poc_phone             | 14357970207
+employer_phone                 | 14357971902
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
 employer_poc_phone_ext         | 
 worksite_address1              | 8800 Old Main Hill
 worksite_address2              | 
@@ -3253,7 +3121,7 @@ employer_address2              |
 employer_city                  | Logan
 employer_state                 | UT
 employer_postal_code           | 84322
-begin_date                     | 2024-08-01
+begin_date                     | 2024-11-01
 end_date                       | 2027-07-31
 total_worker_positions         | 1
 new_employment                 | 1
@@ -3263,9 +3131,9 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
-soc_code                       | 25-1041.00
+soc_code                       | 25-1124
 h_1b_dependent                 | No
--[ RECORD 100 ]----------------+---------------------------------------------------------------
+-[ RECORD 96 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24144-030780
 job_title                      | ASSISTANT PROFESSOR
 employer_name                  | UTAH STATE UNIVERSITY
@@ -3298,40 +3166,7 @@ amended_petition               | 0
 employer_name                  | UTAH STATE UNIVERSITY
 soc_code                       | 25-1192.00
 h_1b_dependent                 | No
--[ RECORD 101 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-24171-130963
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2024-08-01
-end_date                       | 2027-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 102 ]----------------+---------------------------------------------------------------
+-[ RECORD 97 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24130-977973
 job_title                      | Assistant Professor and State Extension Specialist
 employer_name                  | Utah State University
@@ -3364,40 +3199,40 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1199.00
 h_1b_dependent                 | No
--[ RECORD 103 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-24058-752182
-job_title                      | Assistant Professor
-employer_name                  | UTAH STATE UNIVERSITY
+-[ RECORD 98 ]-----------------+---------------------------------------------------------------
+case_number                    | I-200-24037-697201
+job_title                      | Assistant Professor of Psychology
+employer_name                  | Utah State University - Logan, UT
 secondary_entity_business_name | 
 employer_phone                 | 14357971902
-employer_poc_first_name        | YULESE
-employer_poc_last_name         | LINCOLN
-employer_poc_email             | JOBS@USU.EDU
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
 employer_poc_phone             | 14357971902
 employer_poc_phone_ext         | 
-worksite_address1              | 8800 OLD MAIN HILL
+worksite_address1              | 8800 Old Main Hill
 worksite_address2              | 
-worksite_city                  | LOGAN
+worksite_city                  | Logan
 worksite_county                | CACHE
 lawfirm_name_business_name     | 
-employer_address1              | 8800 OLD MAIN HILL
+employer_address1              | 8800 Old Main Hill
 employer_address2              | 
-employer_city                  | LOGAN
+employer_city                  | Logan
 employer_state                 | UT
-employer_postal_code           | 84322
+employer_postal_code           | 84322-8800
 begin_date                     | 2024-08-01
 end_date                       | 2027-07-31
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | UTAH STATE UNIVERSITY
-soc_code                       | 25-1032.00
+employer_name                  | Utah State University - Logan, UT
+soc_code                       | 25-1066.00
 h_1b_dependent                 | No
--[ RECORD 104 ]----------------+---------------------------------------------------------------
+-[ RECORD 99 ]-----------------+---------------------------------------------------------------
 case_number                    | I-200-24086-830726
 job_title                      | Assistant Professor
 employer_name                  | UTAH STATE UNIVERSITY
@@ -3430,7 +3265,7 @@ amended_petition               | 0
 employer_name                  | UTAH STATE UNIVERSITY
 soc_code                       | 25-1081.00
 h_1b_dependent                 | No
--[ RECORD 105 ]----------------+---------------------------------------------------------------
+-[ RECORD 100 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-24162-092159
 job_title                      | Assistant Professor
 employer_name                  | UTAH STATE UNIVERSITY
@@ -3463,7 +3298,73 @@ amended_petition               | 0
 employer_name                  | UTAH STATE UNIVERSITY
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 106 ]----------------+---------------------------------------------------------------
+-[ RECORD 101 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-25121-925496
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Yulese
+employer_poc_last_name         | Lincoln
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2025-08-01
+end_date                       | 2027-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1022
+h_1b_dependent                 | No
+-[ RECORD 102 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-24171-130963
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2024-08-01
+end_date                       | 2027-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 103 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-24172-133153
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
@@ -3495,6 +3396,105 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1042.00
+h_1b_dependent                 | No
+-[ RECORD 104 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-24150-046555
+job_title                      | ASSISTANT PROFESSOR
+employer_name                  | UTAH STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | YULESE
+employer_poc_last_name         | LINCOLN
+employer_poc_email             | JOBS@USU.EDU
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 OLD MAIN HILL
+worksite_address2              | 
+worksite_city                  | LOGAN
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 OLD MAIN HILL
+employer_address2              | 
+employer_city                  | LOGAN
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2024-08-01
+end_date                       | 2027-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | UTAH STATE UNIVERSITY
+soc_code                       | 25-1192.00
+h_1b_dependent                 | No
+-[ RECORD 105 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-24143-025486
+job_title                      | Assistant Professor and State Extension Specialist
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.m.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2024-08-01
+end_date                       | 2027-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1041.00
+h_1b_dependent                 | No
+-[ RECORD 106 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-24058-752182
+job_title                      | Assistant Professor
+employer_name                  | UTAH STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | YULESE
+employer_poc_last_name         | LINCOLN
+employer_poc_email             | JOBS@USU.EDU
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 OLD MAIN HILL
+worksite_address2              | 
+worksite_city                  | LOGAN
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 OLD MAIN HILL
+employer_address2              | 
+employer_city                  | LOGAN
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2024-08-01
+end_date                       | 2027-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | UTAH STATE UNIVERSITY
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 107 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-25015-620303
@@ -3695,6 +3695,39 @@ employer_name                  | Utah State University
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 -[ RECORD 113 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-24142-021746
+job_title                      | Assistant Professor
+employer_name                  | UTAH STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 14357979144
+employer_poc_first_name        | AVERY
+employer_poc_last_name         | MERRELL
+employer_poc_email             | AVERY.MERRELL@USU.EDU
+employer_poc_phone             | 14357979144
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 OLD MAIN HILL
+worksite_address2              | 
+worksite_city                  | LOGAN
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 OLD MAIN HILL
+employer_address2              | 
+employer_city                  | LOGAN
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2024-07-01
+end_date                       | 2027-06-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | UTAH STATE UNIVERSITY
+soc_code                       | 25-1052.00
+h_1b_dependent                 | No
+-[ RECORD 114 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-24074-799989
 job_title                      | Assistant Professor
 employer_name                  | UTAH STATE UNIVERSITY
@@ -3727,7 +3760,7 @@ amended_petition               | 0
 employer_name                  | UTAH STATE UNIVERSITY
 soc_code                       | 25-1123.00
 h_1b_dependent                 | No
--[ RECORD 114 ]----------------+---------------------------------------------------------------
+-[ RECORD 115 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-24172-133103
 job_title                      | Postdoctoral Fellow
 employer_name                  | Utah State University
@@ -3759,39 +3792,6 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 19-4061.00
-h_1b_dependent                 | No
--[ RECORD 115 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-24142-021746
-job_title                      | Assistant Professor
-employer_name                  | UTAH STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 14357979144
-employer_poc_first_name        | AVERY
-employer_poc_last_name         | MERRELL
-employer_poc_email             | AVERY.MERRELL@USU.EDU
-employer_poc_phone             | 14357979144
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 OLD MAIN HILL
-worksite_address2              | 
-worksite_city                  | LOGAN
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 OLD MAIN HILL
-employer_address2              | 
-employer_city                  | LOGAN
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2024-07-01
-end_date                       | 2027-06-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | UTAH STATE UNIVERSITY
-soc_code                       | 25-1052.00
 h_1b_dependent                 | No
 -[ RECORD 116 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-24192-185303
@@ -4124,7 +4124,7 @@ employer_name                  | Populus Group LLC
 soc_code                       | 15-1251.00
 h_1b_dependent                 | No
 -[ RECORD 126 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-24068-784142
+case_number                    | I-200-24067-780138
 job_title                      | System Administrator
 employer_name                  | IPIVOT LLC
 secondary_entity_business_name | State of Utah
@@ -4157,7 +4157,7 @@ employer_name                  | IPIVOT LLC
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
 -[ RECORD 127 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-24067-780138
+case_number                    | I-200-24068-784142
 job_title                      | System Administrator
 employer_name                  | IPIVOT LLC
 secondary_entity_business_name | State of Utah
@@ -4520,14 +4520,14 @@ employer_name                  | UTAH STATE UNIVERSITY
 soc_code                       | 21-1012.00
 h_1b_dependent                 | No
 -[ RECORD 138 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23268-378988
+case_number                    | I-200-23270-385414
 job_title                      | Assistant Professor
 employer_name                  | UTAH STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 14357971902
 employer_poc_first_name        | YULESE
 employer_poc_last_name         | LINCOLN
-employer_poc_email             | jobs@usu.edu
+employer_poc_email             | JOBS@USU.EDU
 employer_poc_phone             | 14357971902
 employer_poc_phone_ext         | 
 worksite_address1              | 8800 OLD MAIN HILL
@@ -4550,7 +4550,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | UTAH STATE UNIVERSITY
-soc_code                       | 25-1032.00
+soc_code                       | 25-1022.00
 h_1b_dependent                 | No
 -[ RECORD 139 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23226-261450
@@ -4586,105 +4586,6 @@ employer_name                  | Utah State University
 soc_code                       | 25-1071.00
 h_1b_dependent                 | No
 -[ RECORD 140 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23298-455809
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2024-01-01
-end_date                       | 2026-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1199.00
-h_1b_dependent                 | No
--[ RECORD 141 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23242-309605
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971888
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971888
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2024-01-01
-end_date                       | 2026-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1042.00
-h_1b_dependent                 | No
--[ RECORD 142 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23270-385414
-job_title                      | Assistant Professor
-employer_name                  | UTAH STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | YULESE
-employer_poc_last_name         | LINCOLN
-employer_poc_email             | JOBS@USU.EDU
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 OLD MAIN HILL
-worksite_address2              | 
-worksite_city                  | LOGAN
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 OLD MAIN HILL
-employer_address2              | 
-employer_city                  | LOGAN
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2024-01-01
-end_date                       | 2026-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | UTAH STATE UNIVERSITY
-soc_code                       | 25-1022.00
-h_1b_dependent                 | No
--[ RECORD 143 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23234-286395
 job_title                      | Postdoctoral Fellow I
 employer_name                  | Utah State University
@@ -4717,40 +4618,106 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 19-2043.00
 h_1b_dependent                 | No
--[ RECORD 144 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23179-149647
-job_title                      | Business Analyst, Specialist Lead
-employer_name                  | Client Network Services LLC
-secondary_entity_business_name | Utah Department of Health
-employer_phone                 | 13016344605
-employer_poc_first_name        | Kim
-employer_poc_last_name         | Uppal
-employer_poc_email             | Kim.Uppal@cns-inc.com
-employer_poc_phone             | 13016344605
+-[ RECORD 141 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23298-455809
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
 employer_poc_phone_ext         | 
-worksite_address1              | 515 East 100 South
+worksite_address1              | 8800 Old Main Hill
 worksite_address2              | 
-worksite_city                  | Salt Lake City
-worksite_county                | SALT LAKE
-lawfirm_name_business_name     | FRAGOMEN DEL REY BERNSEN & LOEWY LLP
-employer_address1              | 2277 Research Blvd
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
 employer_address2              | 
-employer_city                  | Rockville
-employer_state                 | MD
-employer_postal_code           | 20850
-begin_date                     | 2023-12-28
-end_date                       | 2026-12-27
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2024-01-01
+end_date                       | 2026-12-31
 total_worker_positions         | 1
-new_employment                 | 0
+new_employment                 | 1
 continued_employment           | 0
-change_previous_employment     | 1
+change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Client Network Services LLC
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 145 ]----------------+---------------------------------------------------------------
+employer_name                  | Utah State University
+soc_code                       | 25-1199.00
+h_1b_dependent                 | No
+-[ RECORD 142 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23268-378988
+job_title                      | Assistant Professor
+employer_name                  | UTAH STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | YULESE
+employer_poc_last_name         | LINCOLN
+employer_poc_email             | jobs@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 OLD MAIN HILL
+worksite_address2              | 
+worksite_city                  | LOGAN
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 OLD MAIN HILL
+employer_address2              | 
+employer_city                  | LOGAN
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2024-01-01
+end_date                       | 2026-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | UTAH STATE UNIVERSITY
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 143 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23242-309605
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971888
+employer_poc_first_name        | Garrett
+employer_poc_last_name         | Johnson
+employer_poc_email             | garrett.johnson@usu.edu
+employer_poc_phone             | 14357971888
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2024-01-01
+end_date                       | 2026-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1042.00
+h_1b_dependent                 | No
+-[ RECORD 144 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23205-210349
 job_title                      | Business Analyst, Specialist Lead
 employer_name                  | Acentra Health LLC
@@ -4783,6 +4750,39 @@ amended_petition               | 0
 employer_name                  | Acentra Health LLC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | No
+-[ RECORD 145 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23179-149647
+job_title                      | Business Analyst, Specialist Lead
+employer_name                  | Client Network Services LLC
+secondary_entity_business_name | Utah Department of Health
+employer_phone                 | 13016344605
+employer_poc_first_name        | Kim
+employer_poc_last_name         | Uppal
+employer_poc_email             | Kim.Uppal@cns-inc.com
+employer_poc_phone             | 13016344605
+employer_poc_phone_ext         | 
+worksite_address1              | 515 East 100 South
+worksite_address2              | 
+worksite_city                  | Salt Lake City
+worksite_county                | SALT LAKE
+lawfirm_name_business_name     | FRAGOMEN DEL REY BERNSEN & LOEWY LLP
+employer_address1              | 2277 Research Blvd
+employer_address2              | 
+employer_city                  | Rockville
+employer_state                 | MD
+employer_postal_code           | 20850
+begin_date                     | 2023-12-28
+end_date                       | 2026-12-27
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Client Network Services LLC
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
 -[ RECORD 146 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23283-421008
 job_title                      | Postdoctoral Fellow I
@@ -4916,39 +4916,6 @@ employer_name                  | Utah State University
 soc_code                       | 21-1012.00
 h_1b_dependent                 | No
 -[ RECORD 150 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23263-362273
-job_title                      | LEAD ANALYST
-employer_name                  | APPLICATIONS SOFTWARE TECHNOLOGY LLC
-secondary_entity_business_name | UTAH DEPARTMENT OF AGRICULTURE AND FOODS
-employer_phone                 | 16307781180
-employer_poc_first_name        | JILL
-employer_poc_last_name         | LAHANIS
-employer_poc_email             | JLAHANIS@ASTCOROPORATION.COM
-employer_poc_phone             | 16307781180
-employer_poc_phone_ext         | 
-worksite_address1              | 4315 S 2700 WEST
-worksite_address2              | TSOB SOUTH BLDG, FLOOR 2
-worksite_city                  | TAYLORSVILLE
-worksite_county                | SALT LAKE
-lawfirm_name_business_name     | Masuda Funai Eifert & Mitchell Ltd.
-employer_address1              | 4343 COMMERCE COURT
-employer_address2              | SUITE 701
-employer_city                  | LISLE
-employer_state                 | IL
-employer_postal_code           | 60532
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 5
-new_employment                 | 1
-continued_employment           | 1
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 1
-employer_name                  | APPLICATIONS SOFTWARE TECHNOLOGY LLC
-soc_code                       | 15-2031.00
-h_1b_dependent                 | Yes
--[ RECORD 151 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23262-356989
 job_title                      | Software Engineer
 employer_name                  | Dabbigodla IT Services Inc/ (DBA) Vitharka
@@ -4981,7 +4948,7 @@ amended_petition               | 0
 employer_name                  | Dabbigodla IT Services Inc/ (DBA) Vitharka
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 152 ]----------------+---------------------------------------------------------------
+-[ RECORD 151 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23165-109194
 job_title                      | Technical Project Manager/Scrum Master
 employer_name                  | HSK TECHNOLOGIES INC
@@ -5014,8 +4981,41 @@ amended_petition               | 0
 employer_name                  | HSK TECHNOLOGIES INC
 soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
+-[ RECORD 152 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23263-362273
+job_title                      | LEAD ANALYST
+employer_name                  | APPLICATIONS SOFTWARE TECHNOLOGY LLC
+secondary_entity_business_name | UTAH DEPARTMENT OF AGRICULTURE AND FOODS
+employer_phone                 | 16307781180
+employer_poc_first_name        | JILL
+employer_poc_last_name         | LAHANIS
+employer_poc_email             | JLAHANIS@ASTCOROPORATION.COM
+employer_poc_phone             | 16307781180
+employer_poc_phone_ext         | 
+worksite_address1              | 4315 S 2700 WEST
+worksite_address2              | TSOB SOUTH BLDG, FLOOR 2
+worksite_city                  | TAYLORSVILLE
+worksite_county                | SALT LAKE
+lawfirm_name_business_name     | Masuda Funai Eifert & Mitchell Ltd.
+employer_address1              | 4343 COMMERCE COURT
+employer_address2              | SUITE 701
+employer_city                  | LISLE
+employer_state                 | IL
+employer_postal_code           | 60532
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 5
+new_employment                 | 1
+continued_employment           | 1
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 1
+employer_name                  | APPLICATIONS SOFTWARE TECHNOLOGY LLC
+soc_code                       | 15-2031.00
+h_1b_dependent                 | Yes
 -[ RECORD 153 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23271-389042
+case_number                    | I-200-23273-403393
 job_title                      | Software Developer
 employer_name                  | GENPX INC
 secondary_entity_business_name | Utah State Board of Education
@@ -5046,7 +5046,7 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | GENPX INC
 soc_code                       | 15-1252.00
-h_1b_dependent                 | No
+h_1b_dependent                 | Yes
 -[ RECORD 154 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23157-083462
 job_title                      | Software Developer
@@ -5081,7 +5081,7 @@ employer_name                  | Ignite Innovationz Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 155 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23273-403393
+case_number                    | I-200-23271-389042
 job_title                      | Software Developer
 employer_name                  | GENPX INC
 secondary_entity_business_name | Utah State Board of Education
@@ -5112,7 +5112,7 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | GENPX INC
 soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
+h_1b_dependent                 | No
 -[ RECORD 156 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23136-025444
 job_title                      | SOFTWARE APPLICATION DEVELOPER
@@ -5477,270 +5477,6 @@ employer_name                  | INTELI PLATFORMS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 167 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23184-165362
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 168 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23037-753448
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357979144
-employer_poc_first_name        | Carli
-employer_poc_last_name         | Neugebauer
-employer_poc_email             | carli.neugebauer@usu.edu
-employer_poc_phone             | 14357979144
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 OLD MAIN HILL
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1022.00
-h_1b_dependent                 | No
--[ RECORD 169 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23037-753957
-job_title                      | Computer Systems Analysts R&D
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357979144
-employer_poc_first_name        | Carli
-employer_poc_last_name         | Neugebauer
-employer_poc_email             | carli.neugebauer@usu.edu
-employer_poc_phone             | 14357979144
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 OLD MAIN HILL
-worksite_address2              | 
-worksite_city                  | LOGAN
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 15-1211.00
-h_1b_dependent                 | No
--[ RECORD 170 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23095-906060
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1066.00
-h_1b_dependent                 | No
--[ RECORD 171 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23130-011221
-job_title                      | Instructor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1121.00
-h_1b_dependent                 | No
--[ RECORD 172 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23179-151338
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 173 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23067-834057
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1066.00
-h_1b_dependent                 | No
--[ RECORD 174 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23062-822045
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 175 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23068-837655
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
@@ -5773,7 +5509,238 @@ amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1065.00
 h_1b_dependent                 | No
--[ RECORD 176 ]----------------+---------------------------------------------------------------
+-[ RECORD 168 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23095-906060
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Garrett
+employer_poc_last_name         | Johnson
+employer_poc_email             | garrett.johnson@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1066.00
+h_1b_dependent                 | No
+-[ RECORD 169 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23067-834057
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Garrett
+employer_poc_last_name         | Johnson
+employer_poc_email             | garrett.johnson@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1066.00
+h_1b_dependent                 | No
+-[ RECORD 170 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23062-822045
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Garrett
+employer_poc_last_name         | Johnson
+employer_poc_email             | garrett.johnson@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 171 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23037-753957
+job_title                      | Computer Systems Analysts R&D
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357979144
+employer_poc_first_name        | Carli
+employer_poc_last_name         | Neugebauer
+employer_poc_email             | carli.neugebauer@usu.edu
+employer_poc_phone             | 14357979144
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 OLD MAIN HILL
+worksite_address2              | 
+worksite_city                  | LOGAN
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 15-1211.00
+h_1b_dependent                 | No
+-[ RECORD 172 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23037-753448
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357979144
+employer_poc_first_name        | Carli
+employer_poc_last_name         | Neugebauer
+employer_poc_email             | carli.neugebauer@usu.edu
+employer_poc_phone             | 14357979144
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 OLD MAIN HILL
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1022.00
+h_1b_dependent                 | No
+-[ RECORD 173 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23179-151338
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Garrett
+employer_poc_last_name         | Johnson
+employer_poc_email             | garrett.johnson@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 174 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23130-011221
+job_title                      | Instructor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357970207
+employer_poc_first_name        | Danielle
+employer_poc_last_name         | Anderson
+employer_poc_email             | danielle.anderson@usu.edu
+employer_poc_phone             | 14357970207
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1121.00
+h_1b_dependent                 | No
+-[ RECORD 175 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23166-114307
 job_title                      | Assistant Professor
 employer_name                  | Utah State University
@@ -5805,6 +5772,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1199.00
+h_1b_dependent                 | No
+-[ RECORD 176 ]----------------+---------------------------------------------------------------
+case_number                    | I-200-23184-165362
+job_title                      | Assistant Professor
+employer_name                  | Utah State University
+secondary_entity_business_name | 
+employer_phone                 | 14357971902
+employer_poc_first_name        | Garrett
+employer_poc_last_name         | Johnson
+employer_poc_email             | garrett.johnson@usu.edu
+employer_poc_phone             | 14357971902
+employer_poc_phone_ext         | 
+worksite_address1              | 8800 Old Main Hill
+worksite_address2              | 
+worksite_city                  | Logan
+worksite_county                | CACHE
+lawfirm_name_business_name     | 
+employer_address1              | 8800 Old Main Hill
+employer_address2              | 
+employer_city                  | Logan
+employer_state                 | UT
+employer_postal_code           | 84322
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Utah State University
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 177 ]----------------+---------------------------------------------------------------
 case_number                    | I-200-23097-915439
@@ -5871,632 +5871,5 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Utah State University
 soc_code                       | 25-1071.00
-h_1b_dependent                 | No
--[ RECORD 179 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23171-129331
-job_title                      | Database Administrator
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-07-15
-end_date                       | 2026-07-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 15-1242.00
-h_1b_dependent                 | No
--[ RECORD 180 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23157-084561
-job_title                      | Postdoctoral Fellow II
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-07-15
-end_date                       | 2026-07-14
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 19-4061.00
-h_1b_dependent                 | No
--[ RECORD 181 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23054-797886
-job_title                      | Computer Systems Analysts R&D
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357979144
-employer_poc_first_name        | Carli
-employer_poc_last_name         | Neugebauer
-employer_poc_email             | carli.neugebauer@usu.edu
-employer_poc_phone             | 14357979144
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-07-15
-end_date                       | 2026-07-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 15-1211.00
-h_1b_dependent                 | No
--[ RECORD 182 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23040-762571
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1065.00
-h_1b_dependent                 | No
--[ RECORD 183 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-25132-964067
-job_title                      | Temporary Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-08-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1065
-h_1b_dependent                 | No
--[ RECORD 184 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-25016-622811
-job_title                      | Professional Practice Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2025-02-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1064
-h_1b_dependent                 | No
--[ RECORD 185 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23136-027429
-job_title                      | Instructional Designer II
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-06-15
-end_date                       | 2026-06-14
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-9031.00
-h_1b_dependent                 | No
--[ RECORD 186 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23124-994620
-job_title                      | Post-Doctoral Fellow I
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 19-4061.00
-h_1b_dependent                 | No
--[ RECORD 187 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-24145-036991
-job_title                      | Temporary Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2024-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Utah State University
-soc_code                       | 25-1042.00
-h_1b_dependent                 | No
--[ RECORD 188 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23062-822275
-job_title                      | Oracle Maintenance Support Engineer
-employer_name                  | Smith Johnson Group Inc
-secondary_entity_business_name | State of Utah, Dept. of  Health
-employer_phone                 | 18019844700
-employer_poc_first_name        | Sue
-employer_poc_last_name         | Anderton
-employer_poc_email             | sanderton@smithjohnson.com
-employer_poc_phone             | 18016767722
-employer_poc_phone_ext         | 
-worksite_address1              | 288 North 1460 West
-worksite_address2              | 
-worksite_city                  | Salt Lake City
-worksite_county                | SALT LAKE
-lawfirm_name_business_name     | Littlefield & Peterson
-employer_address1              | 8899 S. 700 E., Suite 275
-employer_address2              | 
-employer_city                  | Sandy
-employer_state                 | UT
-employer_postal_code           | 84070
-begin_date                     | 2023-05-31
-end_date                       | 2026-05-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Smith Johnson Group Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 189 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23018-710598
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357970207
-employer_poc_first_name        | Danielle
-employer_poc_last_name         | Anderson
-employer_poc_email             | danielle.anderson@usu.edu
-employer_poc_phone             | 14357970207
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-05-30
-end_date                       | 2026-05-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1042.00
-h_1b_dependent                 | No
--[ RECORD 190 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23139-038912
-job_title                      | DATA ENGINEER
-employer_name                  | CREAMOS SOLUTIONS INC
-secondary_entity_business_name | UTAH STATE BOARD OF EDUCATION
-employer_phone                 | 14086893944
-employer_poc_first_name        | VENKATA SRIKANTH
-employer_poc_last_name         | MANNAVA
-employer_poc_email             | INFO@CREAMOSSOLUTIONS.COM
-employer_poc_phone             | 14086893944
-employer_poc_phone_ext         | 
-worksite_address1              | 250 E 500 S
-worksite_address2              | 
-worksite_city                  | SALT LAKE CITY
-worksite_county                | SALT LAKE
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 43195 MISSION BLVD.
-employer_address2              | SUITE A1
-employer_city                  | FREMONT
-employer_state                 | CA
-employer_postal_code           | 94539-5339
-begin_date                     | 2023-05-30
-end_date                       | 2026-05-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | CREAMOS SOLUTIONS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 191 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23138-034142
-job_title                      | SYSTEMS ENGINEER
-employer_name                  | ONLY IT CONSULTING LLC
-secondary_entity_business_name | STATE OF UTAH
-employer_phone                 | 18479294488
-employer_poc_first_name        | SANTOSH
-employer_poc_last_name         | SRIVASTAVA
-employer_poc_email             | HR@ONLYITCONSULTING.COM
-employer_poc_phone             | 18479294488
-employer_poc_phone_ext         | 104
-worksite_address1              | 4315 S  2700 W
-worksite_address2              | 
-worksite_city                  | TAYLORSVILLE
-worksite_county                | SALT LAKE
-lawfirm_name_business_name     | 
-employer_address1              | 2200 W HIGGINS ROAD
-employer_address2              | STE 315
-employer_city                  | HOFFMAN ESTATES
-employer_state                 | IL
-employer_postal_code           | 60169
-begin_date                     | 2023-05-30
-end_date                       | 2026-05-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | ONLY IT CONSULTING LLC
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 192 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23135-023424
-job_title                      | JAVA DEVELOPER
-employer_name                  | LEARNBEYOND CONSULTING LLC
-secondary_entity_business_name | STATE OF UTAH
-employer_phone                 | 17324797002
-employer_poc_first_name        | KUMAR
-employer_poc_last_name         | GANESAN
-employer_poc_email             | KUMAR@LEARNBEYONDCONSULTING.COM
-employer_poc_phone             | 17324797002
-employer_poc_phone_ext         | 
-worksite_address1              | 195 N 1950 W
-worksite_address2              | 
-worksite_city                  | SALT LAKE CITY
-worksite_county                | SALT LAKE
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 15 CORPORATE PLACE SOUTH
-employer_address2              | SUITE 345
-employer_city                  | PISCATAWAY
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2023-05-29
-end_date                       | 2026-05-28
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | LEARNBEYOND CONSULTING LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 193 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23048-784455
-job_title                      | Post-Doctoral Fellow I
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-04-17
-end_date                       | 2026-04-16
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 19-4061.00
-h_1b_dependent                 | No
--[ RECORD 194 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23095-907726
-job_title                      | Temporary Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-04-05
-end_date                       | 2026-04-04
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 1
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1052.00
-h_1b_dependent                 | No
--[ RECORD 195 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23012-699754
-job_title                      | Assistant Professor
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-04-01
-end_date                       | 2026-03-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 196 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23075-855488
-job_title                      | Software Development Engineer in Test (SDET)
-employer_name                  | Prophecy Consulting Inc
-secondary_entity_business_name | State of Utah
-employer_phone                 | 15516894006
-employer_poc_first_name        | Senthil
-employer_poc_last_name         | Marimuthu
-employer_poc_email             | abarna.sankar@prophecyconsulting.com
-employer_poc_phone             | 15516894006
-employer_poc_phone_ext         | 
-worksite_address1              | 140 East 300 South (Broadway)
-worksite_address2              | 
-worksite_city                  | Salt Lake City
-worksite_county                | SALT LAKE
-lawfirm_name_business_name     | The Law Office of Luke Bowman
-employer_address1              | 7545 Irvine Center Drive Suite 200
-employer_address2              | 
-employer_city                  | Irvine
-employer_state                 | CA
-employer_postal_code           | 92618
-begin_date                     | 2023-03-27
-end_date                       | 2026-03-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Prophecy Consulting Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 197 ]----------------+---------------------------------------------------------------
-case_number                    | I-200-23045-773620
-job_title                      | Web Developer
-employer_name                  | Utah State University
-secondary_entity_business_name | 
-employer_phone                 | 14357971902
-employer_poc_first_name        | Garrett
-employer_poc_last_name         | Johnson
-employer_poc_email             | garrett.johnson@usu.edu
-employer_poc_phone             | 14357971902
-employer_poc_phone_ext         | 
-worksite_address1              | 8800 Old Main Hill
-worksite_address2              | 
-worksite_city                  | Logan
-worksite_county                | CACHE
-lawfirm_name_business_name     | 
-employer_address1              | 8800 Old Main Hill
-employer_address2              | 
-employer_city                  | Logan
-employer_state                 | UT
-employer_postal_code           | 84322
-begin_date                     | 2023-03-24
-end_date                       | 2026-03-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 1
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Utah State University
-soc_code                       | 15-1254.00
 h_1b_dependent                 | No
 

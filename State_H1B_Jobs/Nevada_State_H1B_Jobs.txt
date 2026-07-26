@@ -164,8 +164,8 @@ employer_name                  | KBTS Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 6 ]------------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25106-872556
-job_title                      | BUSINESS ANALYST 3
+case_number                    | I-200-25106-870493
+job_title                      | BUSINESS PROCESS ANALYST
 employer_name                  | TECH SMART SOLUTIONS LLC
 secondary_entity_business_name | Nevada Department of Transportation
 employer_phone                 | 15512270336
@@ -174,9 +174,9 @@ employer_poc_last_name         | ODEDARA
 employer_poc_email             | ITEAM@TSSUS.NET
 employer_poc_phone             | 15512270336
 employer_poc_phone_ext         | 
-worksite_address1              | 1263 S Stewart St
+worksite_address1              | 1263 S Stewart St,
 worksite_address2              | 
-worksite_city                  | CARSON CITY
+worksite_city                  | Carson
 worksite_county                | WASHOE
 lawfirm_name_business_name     | 
 employer_address1              | 190 ROUTE 27 SUITE 107
@@ -197,8 +197,8 @@ employer_name                  | TECH SMART SOLUTIONS LLC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 7 ]------------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25106-870493
-job_title                      | BUSINESS PROCESS ANALYST
+case_number                    | I-200-25106-872556
+job_title                      | BUSINESS ANALYST 3
 employer_name                  | TECH SMART SOLUTIONS LLC
 secondary_entity_business_name | Nevada Department of Transportation
 employer_phone                 | 15512270336
@@ -207,9 +207,9 @@ employer_poc_last_name         | ODEDARA
 employer_poc_email             | ITEAM@TSSUS.NET
 employer_poc_phone             | 15512270336
 employer_poc_phone_ext         | 
-worksite_address1              | 1263 S Stewart St,
+worksite_address1              | 1263 S Stewart St
 worksite_address2              | 
-worksite_city                  | Carson
+worksite_city                  | CARSON CITY
 worksite_county                | WASHOE
 lawfirm_name_business_name     | 
 employer_address1              | 190 ROUTE 27 SUITE 107
@@ -692,39 +692,6 @@ employer_name                  | U.S. Department of Veterans Affairs, Veterans H
 soc_code                       | 29-1229.00
 h_1b_dependent                 | No
 -[ RECORD 22 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24150-045620
-job_title                      | Network Engineer
-employer_name                  | SWANKTEK INC
-secondary_entity_business_name | Nevada Department of Transportation
-employer_phone                 | 19735428326
-employer_poc_first_name        | RAHUL
-employer_poc_last_name         | KUNDAVARAM
-employer_poc_email             | RAHUL@SWANKTEK.COM
-employer_poc_phone             | 19735428326
-employer_poc_phone_ext         | 
-worksite_address1              | 1301 Old Hot Springs Rd.
-worksite_address2              | 
-worksite_city                  | Carson City
-worksite_county                | CARSON CITY
-lawfirm_name_business_name     | JOHN J. BOUDIA & ASSOCIATES PLC
-employer_address1              | 510 FRANKLIN AVENUE
-employer_address2              | SUITE 6,7 & 8
-employer_city                  | NUTLEY
-employer_state                 | NJ
-employer_postal_code           | 07110
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SWANKTEK INC
-soc_code                       | 15-1241.00
-h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24123-951293
 job_title                      | Business Data Analyst
 employer_name                  | RS Consulting Services LLC
@@ -757,40 +724,40 @@ amended_petition               | 0
 employer_name                  | RS Consulting Services LLC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24150-048472
-job_title                      | Staff Physician (Pulmonary/Critical Care)
-employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
-secondary_entity_business_name | 
-employer_phone                 | 17027919000
-employer_poc_first_name        | Kristen
-employer_poc_last_name         | Banks
-employer_poc_email             | kristen.banks@va.gov
-employer_poc_phone             | 12023523964
+-[ RECORD 23 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24150-045620
+job_title                      | Network Engineer
+employer_name                  | SWANKTEK INC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_phone                 | 19735428326
+employer_poc_first_name        | RAHUL
+employer_poc_last_name         | KUNDAVARAM
+employer_poc_email             | RAHUL@SWANKTEK.COM
+employer_poc_phone             | 19735428326
 employer_poc_phone_ext         | 
-worksite_address1              | 6900 North Pecos Road
+worksite_address1              | 1301 Old Hot Springs Rd.
 worksite_address2              | 
-worksite_city                  | Las Vegas
-worksite_county                | CLARK
-lawfirm_name_business_name     | 
-employer_address1              | 6900 North Pecos Road
-employer_address2              | c/o Triny Cooper, Human Resources
-employer_city                  | Las Vegas
-employer_state                 | NV
-employer_postal_code           | 89086-4400
-begin_date                     | 2024-08-11
-end_date                       | 2027-08-10
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | JOHN J. BOUDIA & ASSOCIATES PLC
+employer_address1              | 510 FRANKLIN AVENUE
+employer_address2              | SUITE 6,7 & 8
+employer_city                  | NUTLEY
+employer_state                 | NJ
+employer_postal_code           | 07110
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
-soc_code                       | 29-1229.00
-h_1b_dependent                 | No
--[ RECORD 25 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+employer_name                  | SWANKTEK INC
+soc_code                       | 15-1241.00
+h_1b_dependent                 | Yes
+-[ RECORD 24 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24150-048459
 job_title                      | Staff Physician (Oncologist)
 employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
@@ -823,40 +790,40 @@ amended_petition               | 0
 employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
 soc_code                       | 29-1229.00
 h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24051-732104
-job_title                      | System Administrator 4
-employer_name                  | USM Business Sytems Inc
-secondary_entity_business_name | Nevada Department of Transportation
-employer_phone                 | 17032630855
-employer_poc_first_name        | Asha
-employer_poc_last_name         | Haridas
-employer_poc_email             | immigration@usmsystems.com
-employer_poc_phone             | 17032630855
+-[ RECORD 25 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24150-048472
+job_title                      | Staff Physician (Pulmonary/Critical Care)
+employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
+secondary_entity_business_name | 
+employer_phone                 | 17027919000
+employer_poc_first_name        | Kristen
+employer_poc_last_name         | Banks
+employer_poc_email             | kristen.banks@va.gov
+employer_poc_phone             | 12023523964
 employer_poc_phone_ext         | 
-worksite_address1              | 1301 Old Hot Springs Road
+worksite_address1              | 6900 North Pecos Road
 worksite_address2              | 
-worksite_city                  | Carson City
-worksite_county                | CARSON CITY
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
 lawfirm_name_business_name     | 
-employer_address1              | 44320 Premier Plaza
-employer_address2              | Suite 210
-employer_city                  | Ashburn
-employer_state                 | VA
-employer_postal_code           | 20147
-begin_date                     | 2024-08-01
-end_date                       | 2027-07-31
+employer_address1              | 6900 North Pecos Road
+employer_address2              | c/o Triny Cooper, Human Resources
+employer_city                  | Las Vegas
+employer_state                 | NV
+employer_postal_code           | 89086-4400
+begin_date                     | 2024-08-11
+end_date                       | 2027-08-10
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | USM Business Sytems Inc
-soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
+soc_code                       | 29-1229.00
+h_1b_dependent                 | No
+-[ RECORD 26 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24060-757834
 job_title                      | Technical Architect 3
 employer_name                  | USM Business Sytems Inc
@@ -888,6 +855,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | USM Business Sytems Inc
 soc_code                       | 15-1241.00
+h_1b_dependent                 | Yes
+-[ RECORD 27 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24051-732104
+job_title                      | System Administrator 4
+employer_name                  | USM Business Sytems Inc
+secondary_entity_business_name | Nevada Department of Transportation
+employer_phone                 | 17032630855
+employer_poc_first_name        | Asha
+employer_poc_last_name         | Haridas
+employer_poc_email             | immigration@usmsystems.com
+employer_poc_phone             | 17032630855
+employer_poc_phone_ext         | 
+worksite_address1              | 1301 Old Hot Springs Road
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 44320 Premier Plaza
+employer_address2              | Suite 210
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2024-08-01
+end_date                       | 2027-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | USM Business Sytems Inc
+soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
 -[ RECORD 28 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24095-854409
@@ -1317,104 +1317,5 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | IT IDEOLOGY LLC
 soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 41 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23206-212750
-job_title                      | Technical Analyst
-employer_name                  | Lorven Group Inc
-secondary_entity_business_name | Caesars Digital Marketing Department
-employer_phone                 | 17048995240
-employer_poc_first_name        | Dilip Kumar
-employer_poc_last_name         | Thotakuri
-employer_poc_email             | dilip@lorvengroupinc.com
-employer_poc_phone             | 17048995240
-employer_poc_phone_ext         | 
-worksite_address1              | 6385 S. Rainbow Blvd., Suite 700
-worksite_address2              | 
-worksite_city                  | Las Vegas
-worksite_county                | CLARK
-lawfirm_name_business_name     | Malik & Popiel PC
-employer_address1              | 11006 Rushmore Dr, Suite 175
-employer_address2              | 
-employer_city                  | Charlotte
-employer_state                 | NC
-employer_postal_code           | 28277
-begin_date                     | 2023-07-25
-end_date                       | 2026-07-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Lorven Group Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 42 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23059-808858
-job_title                      | Software Quality Assurance Analysts and Testers
-employer_name                  | HTC GLOBAL SERVICES INC
-secondary_entity_business_name | State of Nevada
-employer_phone                 | 12487862500
-employer_poc_first_name        | SURESH
-employer_poc_last_name         | SUBRAMANIAN
-employer_poc_email             | IMMIGRATION@HTCINC.COM
-employer_poc_phone             | 12487862500
-employer_poc_phone_ext         | 109
-worksite_address1              | 1919 East College Parkway
-worksite_address2              | 
-worksite_city                  | Carson City
-worksite_county                | CARSON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 3270 WEST BIG BEAVER ROAD
-employer_address2              | 
-employer_city                  | TROY
-employer_state                 | MI
-employer_postal_code           | 48084
-begin_date                     | 2023-07-09
-end_date                       | 2026-07-08
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | HTC GLOBAL SERVICES INC
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 43 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23096-911531
-job_title                      | DATAWAREHOUSE ENGINEER
-employer_name                  | Sysintelli Inc
-secondary_entity_business_name | Department of Veterans Affairs
-employer_phone                 | 15714587810
-employer_poc_first_name        | Ravi
-employer_poc_last_name         | Hanumara
-employer_poc_email             | PANNY@SYSINTELLI.COM
-employer_poc_phone             | 15714587810
-employer_poc_phone_ext         | 1001
-worksite_address1              | 501 E LAKE MEAD PKWY
-worksite_address2              | UNIT 1124
-worksite_city                  | HENDERSON
-worksite_county                | CLARK
-lawfirm_name_business_name     | Sysintelli Inc
-employer_address1              | 1775 TYSONS BLVD
-employer_address2              | Suite 05124
-employer_city                  | TYSONS
-employer_state                 | VA
-employer_postal_code           | 22102
-begin_date                     | 2023-04-13
-end_date                       | 2026-04-12
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Sysintelli Inc
-soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 

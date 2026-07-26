@@ -1,0 +1,435 @@
+-[ RECORD 1 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-24346-535767
+job_title                      | Business Analyst
+full_time_position             | Y
+employer_name                  | DPR Solutions Inc
+secondary_entity_business_name | Delaware Department of Transportation / Remote
+employer_poc_email             | lalitha@dprsolutionsinc.com
+employer_poc_phone             | 17037261654
+employer_poc_first_name        | Lalithambica
+employer_poc_last_name         | Dokku
+worksite_address1              | 1162 Sycamore Drive
+worksite_address2              | 
+worksite_city                  | Lake Zurich
+worksite_county                | LAKE
+lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
+employer_address1              | 20130 Lakeview Center Plaza
+employer_address2              | Suite 140
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2024-12-11
+end_date                       | 2027-12-10
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 13-1111
+h_1b_dependent                 | Yes
+-[ RECORD 2 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-22283-521156
+job_title                      | Power BI developer
+full_time_position             | Y
+employer_name                  | Tech IT Solutions Inc
+secondary_entity_business_name | Department of Veteran Affairs/Working Remotely From Home
+employer_poc_email             | hr@techitsol.net
+employer_poc_phone             | 18324328942
+employer_poc_first_name        | Mohan
+employer_poc_last_name         | Manukonda
+worksite_address1              | 161 Gregory Street
+worksite_address2              | Apt 16
+worksite_city                  | Aurora
+worksite_county                | DUPAGE
+lawfirm_name_business_name     | 
+employer_address1              | 10998 S Wilcrest Dr
+employer_address2              | STE 290
+employer_city                  | Houston
+employer_state                 | TX
+employer_postal_code           | 77099
+begin_date                     | 2022-10-11
+end_date                       | 2025-10-10
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 3 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-25176-128600
+job_title                      | Senior Developer
+full_time_position             | Y
+employer_name                  | Marucco, Stoddard, Ferenbach & Walsh Inc
+secondary_entity_business_name | Home Office, performing services for State of Illinois
+employer_poc_email             | gmsimmons@msfw.com
+employer_poc_phone             | 12176983535
+employer_poc_first_name        | Gia
+employer_poc_last_name         | Simmons
+worksite_address1              | 2155 Greenbriar Road
+worksite_address2              | 
+worksite_city                  | Springfield
+worksite_county                | SANGAMON
+lawfirm_name_business_name     | Mintz
+employer_address1              | 3445 Liberty Drive
+employer_address2              | 
+employer_city                  | Springfield
+employer_state                 | IL
+employer_postal_code           | 62704
+begin_date                     | 2025-09-09
+end_date                       | 2028-09-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 4 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-22292-540005
+job_title                      | Senior Software Developer
+full_time_position             | Y
+employer_name                  | HCL GLOBAL SYSTEMS INC
+secondary_entity_business_name | ILLINOIS STATE BOARD OF EDUCATION (REMOTE)
+employer_poc_email             | GADDE@HCLGLOBAL.COM
+employer_poc_phone             | 12484730720
+employer_poc_first_name        | DURGA PRASAD
+employer_poc_last_name         | GADDE
+worksite_address1              | 1904 West Road Drive
+worksite_address2              | 
+worksite_city                  | Springfield
+worksite_county                | SANGAMON
+lawfirm_name_business_name     | 
+employer_address1              | 24543 INDOPLEX CIRCLE
+employer_address2              | SUITE 220
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2023-03-15
+end_date                       | 2026-03-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 5 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-23167-120040
+job_title                      | Software Research Scientist/Software Engineer
+full_time_position             | Y
+employer_name                  | TEK AI LLC
+secondary_entity_business_name | Illinois Department of Aging/ Remote
+employer_poc_email             | hr@tek-ai.com
+employer_poc_phone             | 16098516559
+employer_poc_first_name        | Kevin
+employer_poc_last_name         | B.
+worksite_address1              | 632 E. Pennsylvania Ct
+worksite_address2              | 
+worksite_city                  | Arlington Heights
+worksite_county                | COOK
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 1 Overlook Pt
+employer_address2              | Ste 522
+employer_city                  | Lincolnshire
+employer_state                 | IL
+employer_postal_code           | 60069
+begin_date                     | 2023-06-16
+end_date                       | 2026-06-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1221.00
+h_1b_dependent                 | No
+-[ RECORD 6 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-22115-101978
+job_title                      | Java Developer
+full_time_position             | Y
+employer_name                  | SOFTSTANDARD SOLUTIONS LLC
+secondary_entity_business_name | Newyork State department-DOL (Telecommuting From)
+employer_poc_email             | HR@SOFTSTANDARD.COM
+employer_poc_phone             | 13477547143
+employer_poc_first_name        | Glory Varghese
+employer_poc_last_name         | Edappara
+worksite_address1              | 6301 N Artesian Ave
+worksite_address2              | 
+worksite_city                  | Chicago
+worksite_county                | COOK
+lawfirm_name_business_name     | 
+employer_address1              | 239 US-22
+employer_address2              | 201
+employer_city                  | GREEN BROOK TOWNSHIP
+employer_state                 | NJ
+employer_postal_code           | 08812
+begin_date                     | 2022-10-01
+end_date                       | 2025-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-22027-858702
+job_title                      | Quality Analyst
+full_time_position             | Y
+employer_name                  | Intone Networks Inc
+secondary_entity_business_name | North Carolina Department of Health and Human Services (DHHS) (Working Remotely)
+employer_poc_email             | legalteam@intonenetworks.com
+employer_poc_phone             | 17327213002
+employer_poc_first_name        | Sailaja
+employer_poc_last_name         | Allu
+worksite_address1              | 8422 Lamon Avenue
+worksite_address2              | Apartment 2A
+worksite_city                  | Skokie
+worksite_county                | COOK
+lawfirm_name_business_name     | Ramineni & Shepard LLC
+employer_address1              | 10 Austin Avenue
+employer_address2              | 
+employer_city                  | Iselin
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2022-02-02
+end_date                       | 2025-02-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1199.01
+h_1b_dependent                 | Yes
+-[ RECORD 8 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-22034-875592
+job_title                      | Quality Analyst
+full_time_position             | Y
+employer_name                  | Intone Networks Inc
+secondary_entity_business_name | North Carolina Department of Health and Human Services (DHHS) (Working Remotely)
+employer_poc_email             | legalteam@intonenetworks.com
+employer_poc_phone             | 17327213002
+employer_poc_first_name        | Sailaja
+employer_poc_last_name         | Allu
+worksite_address1              | 8944 Lamon Avenue
+worksite_address2              | Apartment 2N
+worksite_city                  | Skokie
+worksite_county                | COOK
+lawfirm_name_business_name     | Ramineni & Shepard LLC
+employer_address1              | 10 Austin Avenue
+employer_address2              | 
+employer_city                  | Iselin
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2022-02-10
+end_date                       | 2025-02-09
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1199.01
+h_1b_dependent                 | Yes
+-[ RECORD 9 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-21344-758804
+job_title                      | Quality Analyst
+full_time_position             | Y
+employer_name                  | Intone Networks Inc
+secondary_entity_business_name | North Carolina Department of Health and Human Services (DHHS)(Working Remotely)
+employer_poc_email             | legalteam@intonenetworks.com
+employer_poc_phone             | 17327213002
+employer_poc_first_name        | Sailaja
+employer_poc_last_name         | Allu
+worksite_address1              | 8422 Lamon Avenue
+worksite_address2              | Apartment 2A
+worksite_city                  | Skokie
+worksite_county                | COOK
+lawfirm_name_business_name     | Ramineni & Shepard LLC
+employer_address1              | 10 Austin Avenue
+employer_address2              | 
+employer_city                  | Iselin
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2021-12-20
+end_date                       | 2022-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1199.01
+h_1b_dependent                 | Yes
+-[ RECORD 10 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-25104-861523
+job_title                      | Systems Engineer
+full_time_position             | Y
+employer_name                  | Sapphire Software Solutions Inc
+secondary_entity_business_name | Remote for Mississippi Department of Human Services
+employer_poc_email             | immigration@sapphiresoftwaresolutions.com
+employer_poc_phone             | 17035760612
+employer_poc_first_name        | Jahangeer
+employer_poc_last_name         | Mohammed
+worksite_address1              | 984 WESTCHESTER CIR
+worksite_address2              | 
+worksite_city                  | SCHAUMBURG
+worksite_county                | COOK
+lawfirm_name_business_name     | 
+employer_address1              | 20130 Lakeview Center Plz
+employer_address2              | Ste 400
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2025-09-15
+end_date                       | 2028-09-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-23114-958120
+job_title                      | Application Developer/Java Developer
+full_time_position             | Y
+employer_name                  | Avco Consulting Inc
+secondary_entity_business_name | State of North Dakota – IT Department of Transportation(Remote Work Location)
+employer_poc_email             | sudhir@avcoconsulting.com
+employer_poc_phone             | 15082924795
+employer_poc_first_name        | Sudhir Reddy
+employer_poc_last_name         | Prodduturi
+worksite_address1              | 1125 Miller Ln
+worksite_address2              | Apt  102
+worksite_city                  | Buffalo Grove
+worksite_county                | COOK
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 38 FRONT ST
+employer_address2              | FL 4
+employer_city                  | WORCESTER
+employer_state                 | MA
+employer_postal_code           | 01608
+begin_date                     | 2023-09-09
+end_date                       | 2026-09-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-23150-063663
+job_title                      | COMPUTER SYSTEMS ANALYST
+full_time_position             | Y
+employer_name                  | STARTEKK LLC
+secondary_entity_business_name | State of Ohio-Department of Administrative Services- home address due to Covid 19
+employer_poc_email             | srikanth@startekk.net
+employer_poc_phone             | 14697133993
+employer_poc_first_name        | SRIKANTH
+employer_poc_last_name         | MERIANDA
+worksite_address1              | 1632 Sheldrake DR
+worksite_address2              | Apt 1C
+worksite_city                  | Wheeling
+worksite_county                | COOK
+lawfirm_name_business_name     | BHATIA PROFESSIONAL LAW CORPORATION
+employer_address1              | 5465 Legacy Dr
+employer_address2              | Suite 650
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75024
+begin_date                     | 2023-06-01
+end_date                       | 2025-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1211.00
+h_1b_dependent                 | No
+-[ RECORD 13 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-22279-513489
+job_title                      | Dot Net Developer
+full_time_position             | Y
+employer_name                  | Avco Consulting Inc
+secondary_entity_business_name | State of Texas(Department of Medicaid Health Partnership) (Remote Work Location)
+employer_poc_email             | sudhir@avcoconsulting.com
+employer_poc_phone             | 15082924795
+employer_poc_first_name        | Sudhir Reddy
+employer_poc_last_name         | Prodduturi
+worksite_address1              | 1109 3rd St
+worksite_address2              | Unit 3
+worksite_city                  | Charleston
+worksite_county                | COLES
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 38 Front St
+employer_address2              | FL 4
+employer_city                  | Worcester
+employer_state                 | MA
+employer_postal_code           | 01608
+begin_date                     | 2022-10-10
+end_date                       | 2025-10-09
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-23069-838064
+job_title                      | SharePoint Developer
+full_time_position             | Y
+employer_name                  | SDH Systems LLC
+secondary_entity_business_name | U S Department of Veterans Affairs (Remote - work from home)
+employer_poc_email             | hr@sdhsystems.com
+employer_poc_phone             | 18129634734
+employer_poc_first_name        | JhansiRani
+employer_poc_last_name         | Konda
+worksite_address1              | 3656 Old Bridge Ln
+worksite_address2              | 
+worksite_city                  | Elgin
+worksite_county                | KANE
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 14 Inverness Dr E
+employer_address2              | Suite H-220
+employer_city                  | Englewood
+employer_state                 | CO
+employer_postal_code           | 80112
+begin_date                     | 2023-03-10
+end_date                       | 2026-03-09
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+

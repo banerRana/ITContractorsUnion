@@ -1,0 +1,683 @@
+-[ RECORD 1 ]------------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22284-523778
+job_title                      | Technical Project Manager
+full_time_position             | Y
+employer_name                  | Satcon Inc
+secondary_entity_business_name | (Remote) California Department of Technology
+employer_poc_email             | pmutyala@satconus.com
+employer_poc_phone             | 19492593696
+employer_poc_first_name        | Phani
+employer_poc_last_name         | Mutyala
+worksite_address1              | 479 Ridgecrest Cir
+worksite_address2              | 
+worksite_city                  | Livermore
+worksite_county                | ALAMEDA
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 5601 Executive Dr
+employer_address2              | STE 475
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75038
+begin_date                     | 2022-10-17
+end_date                       | 2025-10-16
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1299.09
+h_1b_dependent                 | Yes
+-[ RECORD 2 ]------------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22315-583220
+job_title                      | Salesforce Developer
+full_time_position             | Y
+employer_name                  | MELLOW SOFT INC
+secondary_entity_business_name | (Remote) State of California
+employer_poc_email             | venkat@mellowsoftinc.com
+employer_poc_phone             | 15016503603
+employer_poc_first_name        | VENKAT
+employer_poc_last_name         | TUNGALA
+worksite_address1              | 24 Falcon Ridge Dr
+worksite_address2              | 
+worksite_city                  | Pomona
+worksite_county                | LOS ANGELES
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 6335 Camp Bullis Road
+employer_address2              | STE A0018C
+employer_city                  | San Antonio
+employer_state                 | TX
+employer_postal_code           | 78257
+begin_date                     | 2022-11-15
+end_date                       | 2025-11-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 3 ]------------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22313-576389
+job_title                      | Senior Salesforce Developer
+full_time_position             | Y
+employer_name                  | MELLOW SOFT INC
+secondary_entity_business_name | (Remote) State of California
+employer_poc_email             | venkat@mellowsoftinc.com
+employer_poc_phone             | 15016503603
+employer_poc_first_name        | VENKAT
+employer_poc_last_name         | TUNGALA
+worksite_address1              | 24 Falcon Ridge Dr
+worksite_address2              | 
+worksite_city                  | Pomona
+worksite_county                | LOS ANGELES
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 6335 Camp Bullis Road
+employer_address2              | STE A0018C
+employer_city                  | San Antonio
+employer_state                 | TX
+employer_postal_code           | 78257
+begin_date                     | 2022-11-15
+end_date                       | 2025-11-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 4 ]------------------+------------------------------------------------------------------------------------
+case_number                    | I-200-25165-093372
+job_title                      | Senior DevSecops Engineer
+full_time_position             | Y
+employer_name                  | Tek Yantra Inc
+secondary_entity_business_name | California Department Of Child Support Services/Remote
+employer_poc_email             | swapna@tekyantra.com
+employer_poc_phone             | 16283335543
+employer_poc_first_name        | Swapna
+employer_poc_last_name         | Narla
+worksite_address1              | 240 Natoma Station, Unit 131
+worksite_address2              | 
+worksite_city                  | Folsom
+worksite_county                | SACRAMENTO
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 101 Parkshore Dr
+employer_address2              | Suite 100
+employer_city                  | Folsom
+employer_state                 | CA
+employer_postal_code           | 95630
+begin_date                     | 2025-06-13
+end_date                       | 2028-06-12
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1212
+h_1b_dependent                 | Yes
+-[ RECORD 5 ]------------------+------------------------------------------------------------------------------------
+case_number                    | I-200-23214-232489
+job_title                      | Software Developer
+full_time_position             | Y
+employer_name                  | Optiwise
+secondary_entity_business_name | California Department of Justice / Remote
+employer_poc_email             | srini@optiwise.us
+employer_poc_phone             | 19168462375
+employer_poc_first_name        | Srinivasan
+employer_poc_last_name         | Ramanujam
+worksite_address1              | 1501 Secret Ravine Pkwy
+worksite_address2              | 1214
+worksite_city                  | Roseville
+worksite_county                | PLACER
+lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
+employer_address1              | 1687 Eureka Road
+employer_address2              | Suite 201
+employer_city                  | Roseville
+employer_state                 | CA
+employer_postal_code           | 95661
+begin_date                     | 2023-08-02
+end_date                       | 2026-08-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 6 ]------------------+------------------------------------------------------------------------------------
+case_number                    | I-200-24166-115025
+job_title                      | Software Developer
+full_time_position             | Y
+employer_name                  | Infinite Solutions
+secondary_entity_business_name | California Department of Motor Vehicles/ Remote/ Infinite Solutions Inc
+employer_poc_email             | gmurugesh@4infinitesolutions.com
+employer_poc_phone             | 19166410500
+employer_poc_first_name        | Ganapathy
+employer_poc_last_name         | Murugesh
+worksite_address1              | 1687 Eureka Road
+worksite_address2              | Ste 200
+worksite_city                  | Roseville
+worksite_county                | PLACER
+lawfirm_name_business_name     | Law Offices Of Mary Kennedy LLC
+employer_address1              | 1687 Eureka Road
+employer_address2              | Ste 200
+employer_city                  | Roseville
+employer_state                 | CA
+employer_postal_code           | 95661
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 7 ]------------------+------------------------------------------------------------------------------------
+case_number                    | I-200-23171-126228
+job_title                      | Software Developer
+full_time_position             | Y
+employer_name                  | Infinite Solutions Inc
+secondary_entity_business_name | California Department of Motor Vehicles/Remote/Infinite Solutions Inc
+employer_poc_email             | gmurugesh@4infinitesolutions.com
+employer_poc_phone             | 19166410500
+employer_poc_first_name        | Ganapathy
+employer_poc_last_name         | Murugesh
+worksite_address1              | 1687 Eureka Road
+worksite_address2              | Ste 200
+worksite_city                  | Roseville
+worksite_county                | PLACER
+lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
+employer_address1              | 1687 Eureka Road
+employer_address2              | Ste 200
+employer_city                  | Roseville
+employer_state                 | CA
+employer_postal_code           | 95661
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 8 ]------------------+------------------------------------------------------------------------------------
+case_number                    | I-200-23171-126230
+job_title                      | Software Developer
+full_time_position             | Y
+employer_name                  | Infinite Solutions Inc
+secondary_entity_business_name | California Department of Motor Vehicles/Remote/Infinite Solutions Inc
+employer_poc_email             | gmurugesh@4infinitesolutions.com
+employer_poc_phone             | 19166410500
+employer_poc_first_name        | Ganapathy
+employer_poc_last_name         | Murugesh
+worksite_address1              | 1687 Eureka Road
+worksite_address2              | Ste 200
+worksite_city                  | Roseville
+worksite_county                | PLACER
+lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
+employer_address1              | 1687 Eureka Road
+employer_address2              | Ste 200
+employer_city                  | Roseville
+employer_state                 | CA
+employer_postal_code           | 95661
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 9 ]------------------+------------------------------------------------------------------------------------
+case_number                    | I-200-24325-487035
+job_title                      | Software Developer
+full_time_position             | Y
+employer_name                  | Estrada Consulting Inc
+secondary_entity_business_name | California Department of Water Resources(Remote Work Location)
+employer_poc_email             | rafael@estradaci.com
+employer_poc_phone             | 12065886008
+employer_poc_first_name        | Estrada
+employer_poc_last_name         | Rafael
+worksite_address1              | 4413 Lilac Way
+worksite_address2              | 
+worksite_city                  | Folsom
+worksite_county                | SACRAMENTO
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 1221 18th Street
+employer_address2              | 
+employer_city                  | Sacramento
+employer_state                 | CA
+employer_postal_code           | 95811
+begin_date                     | 2024-11-20
+end_date                       | 2027-11-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 10 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-25135-978276
+job_title                      | Sr. DevOps engineer
+full_time_position             | Y
+employer_name                  | Tek Yantra Inc
+secondary_entity_business_name | DCS (department of child support services)/Remote
+employer_poc_email             | swapna@tekyantra.com
+employer_poc_phone             | 16283335543
+employer_poc_first_name        | Swapna
+employer_poc_last_name         | Narla
+worksite_address1              | 3332 Harvest Gate Wy
+worksite_address2              | 
+worksite_city                  | Folsom
+worksite_county                | SACRAMENTO
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 101 Parkshore Dr
+employer_address2              | Suite 100
+employer_city                  | Folsom
+employer_state                 | CA
+employer_postal_code           | 95630
+begin_date                     | 2025-05-14
+end_date                       | 2028-05-13
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 11 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22200-361125
+job_title                      | .NET DEVELOPER
+full_time_position             | Y
+employer_name                  | HCL GLOBAL SYSTEMS INC
+secondary_entity_business_name | DEPARTMENT OF HEALTH CARE SERVICES (REMOTE)
+employer_poc_email             | GADDE@HCLGLOBAL.COM
+employer_poc_phone             | 12484730720
+employer_poc_first_name        | DURGA PRASAD
+employer_poc_last_name         | GADDE
+worksite_address1              | 1325 ORCHID COURT
+worksite_address2              | 
+worksite_city                  | ROCKLIN
+worksite_county                | PLACER
+lawfirm_name_business_name     | 
+employer_address1              | 24543 INDOPLEX CIRCLE
+employer_address2              | SUITE 220
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2022-07-27
+end_date                       | 2025-07-26
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 1
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 12 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22200-361431
+job_title                      | .NET DEVELOPER
+full_time_position             | Y
+employer_name                  | HCL GLOBAL SYSTEMS INC
+secondary_entity_business_name | DEPARTMENT OF HEALTH CARE SERVICES (REMOTE)
+employer_poc_email             | GADDE@HCLGLOBAL.COM
+employer_poc_phone             | 12484730720
+employer_poc_first_name        | DURGA PRASAD
+employer_poc_last_name         | GADDE
+worksite_address1              | 1325 ORCHID COURT
+worksite_address2              | 
+worksite_city                  | ROCKLIN
+worksite_county                | PLACER
+lawfirm_name_business_name     | 
+employer_address1              | 24543 INDOPLEX CIRCLE
+employer_address2              | SUITE 220
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2022-07-25
+end_date                       | 2025-07-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 1
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-25064-744546
+job_title                      | Sr Cloud DevOps Engineer
+full_time_position             | Y
+employer_name                  | Tek Yantra Inc
+secondary_entity_business_name | Department of Child Support Services/Remote
+employer_poc_email             | vishal.pradhan@tekyantra.com
+employer_poc_phone             | 16283335543
+employer_poc_first_name        | Swapna
+employer_poc_last_name         | Narla
+worksite_address1              | 3642 Barton St,
+worksite_address2              | 
+worksite_city                  | Tracy
+worksite_county                | SAN JOAQUIN
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 101 Parkshore Dr
+employer_address2              | Suite 100
+employer_city                  | Folsom
+employer_state                 | CA
+employer_postal_code           | 95630
+begin_date                     | 2025-03-04
+end_date                       | 2028-03-03
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-25064-746190
+job_title                      | Sr Cloud DevOps Engineer
+full_time_position             | Y
+employer_name                  | Tek Yantra Inc
+secondary_entity_business_name | Department of Child Support Services/Remote
+employer_poc_email             | vishal.pradhan@tekyantra.com
+employer_poc_phone             | 16283335543
+employer_poc_first_name        | Swapna
+employer_poc_last_name         | Narla
+worksite_address1              | 3642 Barton St,
+worksite_address2              | 
+worksite_city                  | Tracy
+worksite_county                | SAN JOAQUIN
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 101 Parkshore Dr
+employer_address2              | Suite 100
+employer_city                  | Folsom
+employer_state                 | CA
+employer_postal_code           | 95630
+begin_date                     | 2025-03-05
+end_date                       | 2028-03-04
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 15 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22298-548160
+job_title                      | Data Governance Analyst
+full_time_position             | N
+employer_name                  | DATA AFFECT LLC
+secondary_entity_business_name | Maryland Department of Human Services (TELECOMMUTING FROM)
+employer_poc_email             | UJWALA@DATAAFFECT.COM
+employer_poc_phone             | 17039992269
+employer_poc_first_name        | UJWALA
+employer_poc_last_name         | PULAMARASETTI
+worksite_address1              | 1940 WEBSTER ST
+worksite_address2              | SUITE 526
+worksite_city                  | OAKLAND
+worksite_county                | ALAMEDA
+lawfirm_name_business_name     | 
+employer_address1              | 20130 Lakeview Center Plaza, Suite 400
+employer_address2              | 
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2022-10-25
+end_date                       | 2025-10-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 1
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 16 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-25170-110310
+job_title                      | IT Project Manager
+full_time_position             | Y
+employer_name                  | Peer Consulting Resources Inc
+secondary_entity_business_name | NYC Health Department/Remote
+employer_poc_email             | accounts@peer-consulting.com
+employer_poc_phone             | 17328027033
+employer_poc_first_name        | Vivek
+employer_poc_last_name         | Philar
+worksite_address1              | 252 Woodcreek Terrace
+worksite_address2              | 
+worksite_city                  | Fremont
+worksite_county                | ALAMEDA
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 20 Jefferson Plz
+employer_address2              | 
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1299.09
+h_1b_dependent                 | No
+-[ RECORD 17 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22118-114949
+job_title                      | SOFTWARE (DEVOPS) ENGINEER
+full_time_position             | Y
+employer_name                  | HS SOLUTIONS INC
+secondary_entity_business_name | Office of System Integration, State of California (Telecommuting  From)
+employer_poc_email             | H1@HSSOLUTION.COM
+employer_poc_phone             | 19254871237
+employer_poc_first_name        | VENU
+employer_poc_last_name         | ATLURI
+worksite_address1              | 2085 Tamie lane
+worksite_address2              | 
+worksite_city                  | San Jose
+worksite_county                | SANTA CLARA
+lawfirm_name_business_name     | 
+employer_address1              | 6101 Bollinger canyon
+employer_address2              | Suite 351
+employer_city                  | SAN RAMON
+employer_state                 | CA
+employer_postal_code           | 94583
+begin_date                     | 2022-04-28
+end_date                       | 2025-04-27
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1142.00
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-25248-291235
+job_title                      | ServiceNow Developer
+full_time_position             | Y
+employer_name                  | SRIVEN INFO INC
+secondary_entity_business_name | Remote (Work from Home) for Department of General Services
+employer_poc_email             | INFO@SRIVENINFOSYS.COM
+employer_poc_phone             | 17183210299
+employer_poc_first_name        | IV
+employer_poc_last_name         | REDDY
+worksite_address1              | 1712, Brodea Ln
+worksite_address2              | 
+worksite_city                  | Rocklin
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 400 S OYSTER BAY ROAD
+employer_address2              | SUITE 303A
+employer_city                  | HICKSVILLE
+employer_state                 | NY
+employer_postal_code           | 11801
+begin_date                     | 2025-09-05
+end_date                       | 2028-09-04
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 19 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-25143-010755
+job_title                      | Cloud Architect
+full_time_position             | Y
+employer_name                  | Vscore Inc
+secondary_entity_business_name | State of California (CA) - State Controllers Office (SCO)/Remote/Vscore Inc
+employer_poc_email             | krishna@vscoreinc.com
+employer_poc_phone             | 15515805510
+employer_poc_first_name        | Sowmya Sree
+employer_poc_last_name         | Veeravatnam
+worksite_address1              | 5716 Lonetree blvd
+worksite_address2              | Floor 2
+worksite_city                  | Rocklin
+worksite_county                | PLACER
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 915 Highland Pointe Dr
+employer_address2              | Suite 250
+employer_city                  | Roseville
+employer_state                 | CA
+employer_postal_code           | 95678
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1243
+h_1b_dependent                 | No
+-[ RECORD 20 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22300-554507
+job_title                      | SENIOR BUSINESS ANALYST
+full_time_position             | Y
+employer_name                  | DATA AFFECT LLC
+secondary_entity_business_name | State of California (Telecommuting From)
+employer_poc_email             | UJWALA@DATAAFFECT.COM
+employer_poc_phone             | 17039992269
+employer_poc_first_name        | UJWALA
+employer_poc_last_name         | PULAMARASETTI
+worksite_address1              | 1250 Beethoven Common
+worksite_address2              | Unit 300
+worksite_city                  | Fremont
+worksite_county                | ALAMEDA
+lawfirm_name_business_name     | 
+employer_address1              | 20130 Lakeview Center Plaza, Suite 400
+employer_address2              | 
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2022-10-27
+end_date                       | 2025-10-26
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 13-1111.00
+h_1b_dependent                 | Yes
+-[ RECORD 21 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22201-366120
+job_title                      | Software Engineer
+full_time_position             | Y
+employer_name                  | Speridian Technologies LLC
+secondary_entity_business_name | State of Hawaii Department of Human Services, Med-QUEST Division (Working Remotely)
+employer_poc_email             | Renea.gonzales@speridian.com
+employer_poc_phone             | 15052173725
+employer_poc_first_name        | Renea
+employer_poc_last_name         | Gonzales
+worksite_address1              | 10319 Azuaga Street
+worksite_address2              | Unit 301
+worksite_city                  | San Diego
+worksite_county                | SAN DIEGO
+lawfirm_name_business_name     | Ramineni & Shepard LLC
+employer_address1              | 2400 Louisiana Boulevard Northeast
+employer_address2              | Building 3
+employer_city                  | Albuquerque
+employer_state                 | NM
+employer_postal_code           | 87110
+begin_date                     | 2022-07-20
+end_date                       | 2025-07-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+------------------------------------------------------------------------------------
+case_number                    | I-200-22033-872783
+job_title                      | Devops Engineer
+full_time_position             | Y
+employer_name                  | TEK LEADERS INC
+secondary_entity_business_name | Working Remotely for California Department of Technology
+employer_poc_email             | HR@TEKLEADERS.COM
+employer_poc_phone             | 19169170040
+employer_poc_first_name        | Seema
+employer_poc_last_name         | Singh
+worksite_address1              | 14951 Amber grove Drv
+worksite_address2              | 
+worksite_city                  | Folsom
+worksite_county                | SACRAMENTO
+lawfirm_name_business_name     | Immlaws
+employer_address1              | 9300 John Hickman Parkway
+employer_address2              | Suite 801
+employer_city                  | Frisco
+employer_state                 | TX
+employer_postal_code           | 75035
+begin_date                     | 2022-06-15
+end_date                       | 2025-06-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+

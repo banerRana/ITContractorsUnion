@@ -395,39 +395,6 @@ employer_name                  | Connecticut Department of Transportation
 soc_code                       | 17-2051.01
 h_1b_dependent                 | No
 -[ RECORD 13 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25316-400742
-job_title                      | Developer
-employer_name                  | TATA CONSULTANCY SERVICES LIMITED
-secondary_entity_business_name | Connecticut Department of Labor
-employer_phone                 | 13012319083
-employer_poc_first_name        | AMIT
-employer_poc_last_name         | JINDAL
-employer_poc_email             | AMIT1.JINDAL@TCS.COM
-employer_poc_phone             | 13012319083
-employer_poc_phone_ext         | 
-worksite_address1              | 200 Folly Brook Blvd.
-worksite_address2              | 
-worksite_city                  | Wethersfield
-worksite_county                | 
-lawfirm_name_business_name     | USILAW INC
-employer_address1              | 9201 CORPORATE BOULEVARD
-employer_address2              | SUITE 320
-employer_city                  | ROCKVILLE
-employer_state                 | MD
-employer_postal_code           | 20850
-begin_date                     | 2025-11-12
-end_date                       | 2028-11-11
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | TATA CONSULTANCY SERVICES LIMITED
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25310-380874
 job_title                      | Custom Software Engineering Senior Mgr
 employer_name                  | Accenture LLP
@@ -460,6 +427,39 @@ amended_petition               | 1
 employer_name                  | Accenture LLP
 soc_code                       | 13-1111
 h_1b_dependent                 | No
+-[ RECORD 14 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-25316-400742
+job_title                      | Developer
+employer_name                  | TATA CONSULTANCY SERVICES LIMITED
+secondary_entity_business_name | Connecticut Department of Labor
+employer_phone                 | 13012319083
+employer_poc_first_name        | AMIT
+employer_poc_last_name         | JINDAL
+employer_poc_email             | AMIT1.JINDAL@TCS.COM
+employer_poc_phone             | 13012319083
+employer_poc_phone_ext         | 
+worksite_address1              | 200 Folly Brook Blvd.
+worksite_address2              | 
+worksite_city                  | Wethersfield
+worksite_county                | 
+lawfirm_name_business_name     | USILAW INC
+employer_address1              | 9201 CORPORATE BOULEVARD
+employer_address2              | SUITE 320
+employer_city                  | ROCKVILLE
+employer_state                 | MD
+employer_postal_code           | 20850
+begin_date                     | 2025-11-12
+end_date                       | 2028-11-11
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | TATA CONSULTANCY SERVICES LIMITED
+soc_code                       | 15-1251.00
+h_1b_dependent                 | Yes
 -[ RECORD 15 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25121-927017
 job_title                      | Senior .Net Software Engineer
@@ -494,8 +494,8 @@ employer_name                  | V.L.S Systems Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 16 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25128-955036
-job_title                      | IT Business Analyst
+case_number                    | I-200-25113-895983
+job_title                      | Business Analyst
 employer_name                  | CORPORATE SOLUTIONS GENERAL INC
 secondary_entity_business_name | DCF Connecticut (Dept. of Children and Families, State of Connecticut)
 employer_phone                 | 19547985472
@@ -560,8 +560,8 @@ employer_name                  | SprintPark LLC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 18 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25113-895983
-job_title                      | Business Analyst
+case_number                    | I-200-25114-899200
+job_title                      | IT Business Analyst
 employer_name                  | CORPORATE SOLUTIONS GENERAL INC
 secondary_entity_business_name | DCF Connecticut (Dept. of Children and Families, State of Connecticut)
 employer_phone                 | 19547985472
@@ -626,39 +626,6 @@ employer_name                  | CORPORATE SOLUTIONS GENERAL INC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
 -[ RECORD 20 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25114-899200
-job_title                      | IT Business Analyst
-employer_name                  | CORPORATE SOLUTIONS GENERAL INC
-secondary_entity_business_name | DCF Connecticut (Dept. of Children and Families, State of Connecticut)
-employer_phone                 | 19547985472
-employer_poc_first_name        | NETHRA
-employer_poc_last_name         | KURUVU MANOHAR
-employer_poc_email             | NETHRA@CORSOGEN.COM
-employer_poc_phone             | 19547985472
-employer_poc_phone_ext         | 
-worksite_address1              | 505 Hudson St
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 6201 BONHOMME ROAD
-employer_address2              | STE 290N-H
-employer_city                  | HOUSTON
-employer_state                 | TX
-employer_postal_code           | 77036
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | CORPORATE SOLUTIONS GENERAL INC
-soc_code                       | 15-2051.01
-h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25114-902650
 job_title                      | Information Technology Analyst
 employer_name                  | CORPORATE SOLUTIONS GENERAL INC
@@ -691,8 +658,41 @@ amended_petition               | 0
 employer_name                  | CORPORATE SOLUTIONS GENERAL INC
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
+-[ RECORD 21 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-25128-955036
+job_title                      | IT Business Analyst
+employer_name                  | CORPORATE SOLUTIONS GENERAL INC
+secondary_entity_business_name | DCF Connecticut (Dept. of Children and Families, State of Connecticut)
+employer_phone                 | 19547985472
+employer_poc_first_name        | NETHRA
+employer_poc_last_name         | KURUVU MANOHAR
+employer_poc_email             | NETHRA@CORSOGEN.COM
+employer_poc_phone             | 19547985472
+employer_poc_phone_ext         | 
+worksite_address1              | 505 Hudson St
+worksite_address2              | 
+worksite_city                  | Hartford
+worksite_county                | HARTFORD CITY
+lawfirm_name_business_name     | 
+employer_address1              | 6201 BONHOMME ROAD
+employer_address2              | STE 290N-H
+employer_city                  | HOUSTON
+employer_state                 | TX
+employer_postal_code           | 77036
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CORPORATE SOLUTIONS GENERAL INC
+soc_code                       | 15-2051.01
+h_1b_dependent                 | Yes
 -[ RECORD 22 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25143-012646
+case_number                    | I-200-25143-012704
 job_title                      | Transportation Engineer 1
 employer_name                  | Connecticut Department of Transportation
 secondary_entity_business_name | 
@@ -725,8 +725,8 @@ employer_name                  | Connecticut Department of Transportation
 soc_code                       | 17-2051.01
 h_1b_dependent                 | No
 -[ RECORD 23 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25143-012749
-job_title                      | Transportation Engineer 2
+case_number                    | I-200-25143-014207
+job_title                      | Transportation Engineer 1
 employer_name                  | Connecticut Department of Transportation
 secondary_entity_business_name | 
 employer_phone                 | 18605943010
@@ -758,7 +758,7 @@ employer_name                  | Connecticut Department of Transportation
 soc_code                       | 17-2051.01
 h_1b_dependent                 | No
 -[ RECORD 24 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25143-012704
+case_number                    | I-200-25143-014052
 job_title                      | Transportation Engineer 1
 employer_name                  | Connecticut Department of Transportation
 secondary_entity_business_name | 
@@ -824,8 +824,8 @@ employer_name                  | Connecticut Department of Transportation
 soc_code                       | 17-2051.01
 h_1b_dependent                 | No
 -[ RECORD 26 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25143-014044
-job_title                      | Transportation Engineer 1
+case_number                    | I-200-25143-012749
+job_title                      | Transportation Engineer 2
 employer_name                  | Connecticut Department of Transportation
 secondary_entity_business_name | 
 employer_phone                 | 18605943010
@@ -857,72 +857,6 @@ employer_name                  | Connecticut Department of Transportation
 soc_code                       | 17-2051.01
 h_1b_dependent                 | No
 -[ RECORD 27 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25143-014207
-job_title                      | Transportation Engineer 1
-employer_name                  | Connecticut Department of Transportation
-secondary_entity_business_name | 
-employer_phone                 | 18605943010
-employer_poc_first_name        | Michelle
-employer_poc_last_name         | Miller
-employer_poc_email             | michelle.miller@ct.gov
-employer_poc_phone             | 18605943010
-employer_poc_phone_ext         | 
-worksite_address1              | 2800 Berlin Turnpike
-worksite_address2              | 
-worksite_city                  | Newington
-worksite_county                | NEWINGTON
-lawfirm_name_business_name     | Harris Beach Murtha Cullina PLLC
-employer_address1              | 2800 Berlin Turnpike
-employer_address2              | 
-employer_city                  | Newington
-employer_state                 | CT
-employer_postal_code           | 06111
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Connecticut Department of Transportation
-soc_code                       | 17-2051.01
-h_1b_dependent                 | No
--[ RECORD 28 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25143-014052
-job_title                      | Transportation Engineer 1
-employer_name                  | Connecticut Department of Transportation
-secondary_entity_business_name | 
-employer_phone                 | 18605943010
-employer_poc_first_name        | Michelle
-employer_poc_last_name         | Miller
-employer_poc_email             | michelle.miller@ct.gov
-employer_poc_phone             | 18605943010
-employer_poc_phone_ext         | 
-worksite_address1              | 2800 Berlin Turnpike
-worksite_address2              | 
-worksite_city                  | Newington
-worksite_county                | NEWINGTON
-lawfirm_name_business_name     | Harris Beach Murtha Cullina PLLC
-employer_address1              | 2800 Berlin Turnpike
-employer_address2              | 
-employer_city                  | Newington
-employer_state                 | CT
-employer_postal_code           | 06111
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Connecticut Department of Transportation
-soc_code                       | 17-2051.01
-h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25143-014045
 job_title                      | Transportation Engineer 1
 employer_name                  | Connecticut Department of Transportation
@@ -955,27 +889,27 @@ amended_petition               | 0
 employer_name                  | Connecticut Department of Transportation
 soc_code                       | 17-2051.01
 h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25239-270512
-job_title                      | ASSISTANT PROFESSOR,
-employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
+-[ RECORD 28 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-25143-014044
+job_title                      | Transportation Engineer 1
+employer_name                  | Connecticut Department of Transportation
 secondary_entity_business_name | 
-employer_phone                 | 18608322052
-employer_poc_first_name        | OLUWATOYIN
-employer_poc_last_name         | AWODERU
-employer_poc_email             | AWODERUO@CCSU.EDU
-employer_poc_phone             | 18608322052
+employer_phone                 | 18605943010
+employer_poc_first_name        | Michelle
+employer_poc_last_name         | Miller
+employer_poc_email             | michelle.miller@ct.gov
+employer_poc_phone             | 18605943010
 employer_poc_phone_ext         | 
-worksite_address1              | 1615 STANLEY STREET
+worksite_address1              | 2800 Berlin Turnpike
 worksite_address2              | 
-worksite_city                  | NEW BRITAIN
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 1615 STANLEY STREET
-employer_address2              | 1615 STANLEY STREET
-employer_city                  | NEW BRITAIN
+worksite_city                  | Newington
+worksite_county                | NEWINGTON
+lawfirm_name_business_name     | Harris Beach Murtha Cullina PLLC
+employer_address1              | 2800 Berlin Turnpike
+employer_address2              | 
+employer_city                  | Newington
 employer_state                 | CT
-employer_postal_code           | 06050
+employer_postal_code           | 06111
 begin_date                     | 2025-10-01
 end_date                       | 2028-09-30
 total_worker_positions         | 1
@@ -985,10 +919,43 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
-soc_code                       | 25-1021.00
+employer_name                  | Connecticut Department of Transportation
+soc_code                       | 17-2051.01
 h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 29 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-25143-012646
+job_title                      | Transportation Engineer 1
+employer_name                  | Connecticut Department of Transportation
+secondary_entity_business_name | 
+employer_phone                 | 18605943010
+employer_poc_first_name        | Michelle
+employer_poc_last_name         | Miller
+employer_poc_email             | michelle.miller@ct.gov
+employer_poc_phone             | 18605943010
+employer_poc_phone_ext         | 
+worksite_address1              | 2800 Berlin Turnpike
+worksite_address2              | 
+worksite_city                  | Newington
+worksite_county                | NEWINGTON
+lawfirm_name_business_name     | Harris Beach Murtha Cullina PLLC
+employer_address1              | 2800 Berlin Turnpike
+employer_address2              | 
+employer_city                  | Newington
+employer_state                 | CT
+employer_postal_code           | 06111
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Connecticut Department of Transportation
+soc_code                       | 17-2051.01
+h_1b_dependent                 | No
+-[ RECORD 30 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25237-264255
 job_title                      | ASSISTANT PROFESSOR,
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
@@ -1020,6 +987,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 soc_code                       | 11-3021.00
+h_1b_dependent                 | No
+-[ RECORD 31 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-25239-270512
+job_title                      | ASSISTANT PROFESSOR,
+employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 18608322052
+employer_poc_first_name        | OLUWATOYIN
+employer_poc_last_name         | AWODERU
+employer_poc_email             | AWODERUO@CCSU.EDU
+employer_poc_phone             | 18608322052
+employer_poc_phone_ext         | 
+worksite_address1              | 1615 STANLEY STREET
+worksite_address2              | 
+worksite_city                  | NEW BRITAIN
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 1615 STANLEY STREET
+employer_address2              | 1615 STANLEY STREET
+employer_city                  | NEW BRITAIN
+employer_state                 | CT
+employer_postal_code           | 06050
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
+soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 -[ RECORD 32 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25148-026849
@@ -1253,39 +1253,6 @@ employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 39 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25197-178637
-job_title                      | Assistant Professor of Finance
-employer_name                  | Eastern Connecticut State University
-secondary_entity_business_name | 
-employer_phone                 | 18604655344
-employer_poc_first_name        | Cheryl
-employer_poc_last_name         | Wilson
-employer_poc_email             | wilsoncher@easternct.edu
-employer_poc_phone             | 18604655344
-employer_poc_phone_ext         | 
-worksite_address1              | 83 Windham Street
-worksite_address2              | 
-worksite_city                  | Willimantic
-worksite_county                | 
-lawfirm_name_business_name     | Sun & Ren PLLC
-employer_address1              | 83 Windham Street
-employer_address2              | 
-employer_city                  | Willimantic
-employer_state                 | CT
-employer_postal_code           | 06226
-begin_date                     | 2025-08-25
-end_date                       | 2028-08-24
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Eastern Connecticut State University
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 40 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25189-158561
 job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
@@ -1318,7 +1285,7 @@ amended_petition               | 0
 employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
--[ RECORD 41 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 40 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25190-162120
 job_title                      | Assistant Professor of Atmospheric & Climate Sciences
 employer_name                  | Western Connecticut State University
@@ -1351,29 +1318,29 @@ amended_petition               | 0
 employer_name                  | Western Connecticut State University
 soc_code                       | 25-1051.00
 h_1b_dependent                 | No
--[ RECORD 42 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25084-801787
-job_title                      | ASSISTANT PROFESSOR,
-employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
+-[ RECORD 41 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-25197-178637
+job_title                      | Assistant Professor of Finance
+employer_name                  | Eastern Connecticut State University
 secondary_entity_business_name | 
-employer_phone                 | 18608322052
-employer_poc_first_name        | OLUWATOYIN
-employer_poc_last_name         | AWODERU
-employer_poc_email             | AWODERUO@CCSU.EDU
-employer_poc_phone             | 18608322052
+employer_phone                 | 18604655344
+employer_poc_first_name        | Cheryl
+employer_poc_last_name         | Wilson
+employer_poc_email             | wilsoncher@easternct.edu
+employer_poc_phone             | 18604655344
 employer_poc_phone_ext         | 
-worksite_address1              | 1615 STANLEY STREET
+worksite_address1              | 83 Windham Street
 worksite_address2              | 
-worksite_city                  | NEW BRITAIN
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 1615 STANLEY STREET
-employer_address2              | 1615 STANLEY STREET
-employer_city                  | NEW BRITAIN
+worksite_city                  | Willimantic
+worksite_county                | 
+lawfirm_name_business_name     | Sun & Ren PLLC
+employer_address1              | 83 Windham Street
+employer_address2              | 
+employer_city                  | Willimantic
 employer_state                 | CT
-employer_postal_code           | 06053
-begin_date                     | 2025-08-22
-end_date                       | 2028-08-21
+employer_postal_code           | 06226
+begin_date                     | 2025-08-25
+end_date                       | 2028-08-24
 total_worker_positions         | 1
 new_employment                 | 1
 continued_employment           | 0
@@ -1381,10 +1348,10 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
-soc_code                       | 25-1011
+employer_name                  | Eastern Connecticut State University
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 43 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 42 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25164-091073
 job_title                      | ASSISTANT PROFESSOR,
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
@@ -1410,6 +1377,39 @@ end_date                       | 2028-08-21
 total_worker_positions         | 1
 new_employment                 | 0
 continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
+soc_code                       | 25-1011
+h_1b_dependent                 | No
+-[ RECORD 43 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-25084-801787
+job_title                      | ASSISTANT PROFESSOR,
+employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 18608322052
+employer_poc_first_name        | OLUWATOYIN
+employer_poc_last_name         | AWODERU
+employer_poc_email             | AWODERUO@CCSU.EDU
+employer_poc_phone             | 18608322052
+employer_poc_phone_ext         | 
+worksite_address1              | 1615 STANLEY STREET
+worksite_address2              | 
+worksite_city                  | NEW BRITAIN
+worksite_county                | HARTFORD CITY
+lawfirm_name_business_name     | 
+employer_address1              | 1615 STANLEY STREET
+employer_address2              | 1615 STANLEY STREET
+employer_city                  | NEW BRITAIN
+employer_state                 | CT
+employer_postal_code           | 06053
+begin_date                     | 2025-08-22
+end_date                       | 2028-08-21
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
@@ -1484,7 +1484,7 @@ employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 46 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25059-733230
+case_number                    | I-200-25059-732923
 job_title                      | ASSISTANT PROFESSOR
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 secondary_entity_business_name | 
@@ -1517,7 +1517,7 @@ employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 soc_code                       | 25-1123
 h_1b_dependent                 | No
 -[ RECORD 47 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25059-732923
+case_number                    | I-200-25059-733230
 job_title                      | ASSISTANT PROFESSOR
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 secondary_entity_business_name | 
@@ -1583,11 +1583,11 @@ employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 49 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25050-708021
-job_title                      | Assistant Professor of Business Administration
+case_number                    | I-200-25071-769898
+job_title                      | Assistant Professor of Finance
 employer_name                  | Eastern Connecticut State University
 secondary_entity_business_name | 
-employer_phone                 | 18604654650
+employer_phone                 | 18604654574
 employer_poc_first_name        | Jay
 employer_poc_last_name         | Zhu
 employer_poc_email             | zhuj@easternct.edu
@@ -1616,11 +1616,11 @@ employer_name                  | Eastern Connecticut State University
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 50 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25071-769898
-job_title                      | Assistant Professor of Finance
+case_number                    | I-200-25050-708021
+job_title                      | Assistant Professor of Business Administration
 employer_name                  | Eastern Connecticut State University
 secondary_entity_business_name | 
-employer_phone                 | 18604654574
+employer_phone                 | 18604654650
 employer_poc_first_name        | Jay
 employer_poc_last_name         | Zhu
 employer_poc_email             | zhuj@easternct.edu
@@ -1847,11 +1847,11 @@ employer_name                  | RELIABLE SOFTWARE RESOURCES
 soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
 -[ RECORD 57 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25071-769824
+case_number                    | I-200-25050-708305
 job_title                      | Assistant Professor of  Computer Science
 employer_name                  | Eastern Connecticut State University
 secondary_entity_business_name | 
-employer_phone                 | 18604654574
+employer_phone                 | 18604654650
 employer_poc_first_name        | Jay
 employer_poc_last_name         | Zhu
 employer_poc_email             | zhuj@easternct.edu
@@ -1880,11 +1880,11 @@ employer_name                  | Eastern Connecticut State University
 soc_code                       | 25-1021
 h_1b_dependent                 | No
 -[ RECORD 58 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25050-708305
+case_number                    | I-200-25071-769824
 job_title                      | Assistant Professor of  Computer Science
 employer_name                  | Eastern Connecticut State University
 secondary_entity_business_name | 
-employer_phone                 | 18604654650
+employer_phone                 | 18604654574
 employer_poc_first_name        | Jay
 employer_poc_last_name         | Zhu
 employer_poc_email             | zhuj@easternct.edu
@@ -2207,7 +2207,7 @@ new_concurrent_employment      | 0
 change_employer                | 1
 amended_petition               | 0
 employer_name                  | The Tri-Com Consulting Group LLC
-soc_code                       | 15-1252
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 68 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-25036-669241
@@ -2240,7 +2240,7 @@ new_concurrent_employment      | 0
 change_employer                | 1
 amended_petition               | 0
 employer_name                  | The Tri-Com Consulting Group LLC
-soc_code                       | 15-1252.00
+soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 69 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24292-417806
@@ -2276,7 +2276,7 @@ employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 70 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24330-497926
+case_number                    | I-200-24285-402353
 job_title                      | ASSISTANT PROFESSOR, DEPARTMENT OF MARKETING
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 secondary_entity_business_name | 
@@ -2309,7 +2309,7 @@ employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 71 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24285-402353
+case_number                    | I-200-24330-497926
 job_title                      | ASSISTANT PROFESSOR, DEPARTMENT OF MARKETING
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 secondary_entity_business_name | 
@@ -2507,8 +2507,8 @@ employer_name                  | TATA CONSULTANCY SERVICES LIMITED
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 77 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25003-593191
-job_title                      | Software QA Analyst
+case_number                    | I-200-25006-598038
+job_title                      | Sr. Software QA Analyst
 employer_name                  | Kollasoft Inc
 secondary_entity_business_name | State of Connecticut, Criminal Justice Information System(CJIS)
 employer_phone                 | 14802520210
@@ -2540,8 +2540,8 @@ employer_name                  | Kollasoft Inc
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
 -[ RECORD 78 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25006-598038
-job_title                      | Sr. Software QA Analyst
+case_number                    | I-200-25003-593191
+job_title                      | Software QA Analyst
 employer_name                  | Kollasoft Inc
 secondary_entity_business_name | State of Connecticut, Criminal Justice Information System(CJIS)
 employer_phone                 | 14802520210
@@ -2837,39 +2837,6 @@ employer_name                  | Intellect Business Solutions LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 87 ]-----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24164-099981
-job_title                      | Salesforce Engineer
-employer_name                  | SprintPark LLC
-secondary_entity_business_name | Connecticut Department of Motor Vehicles
-employer_phone                 | 18605669894
-employer_poc_first_name        | Venkata Maruthi Ramu
-employer_poc_last_name         | Chinthapalli
-employer_poc_email             | immigration@sprintpark.net
-employer_poc_phone             | 18605669894
-employer_poc_phone_ext         | 
-worksite_address1              | 60 State St
-worksite_address2              | 
-worksite_city                  | Wethersfield
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | International Legal & Business Services Group LLP
-employer_address1              | 85 Felt Road
-employer_address2              | Ste 604
-employer_city                  | South Windsor
-employer_state                 | CT
-employer_postal_code           | 06074
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SprintPark LLC
-soc_code                       | 15-1251.00
-h_1b_dependent                 | No
--[ RECORD 88 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24124-953606
 job_title                      | Software Developer
 employer_name                  | Raas Infotek LLC
@@ -2902,9 +2869,42 @@ amended_petition               | 0
 employer_name                  | Raas Infotek LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 89 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 88 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24156-066621
 job_title                      | Salesforce Analyst
+employer_name                  | SprintPark LLC
+secondary_entity_business_name | Connecticut Department of Motor Vehicles
+employer_phone                 | 18605669894
+employer_poc_first_name        | Venkata Maruthi Ramu
+employer_poc_last_name         | Chinthapalli
+employer_poc_email             | immigration@sprintpark.net
+employer_poc_phone             | 18605669894
+employer_poc_phone_ext         | 
+worksite_address1              | 60 State St
+worksite_address2              | 
+worksite_city                  | Wethersfield
+worksite_county                | HARTFORD CITY
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 85 Felt Road
+employer_address2              | Ste 604
+employer_city                  | South Windsor
+employer_state                 | CT
+employer_postal_code           | 06074
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SprintPark LLC
+soc_code                       | 15-1251.00
+h_1b_dependent                 | No
+-[ RECORD 89 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24164-099981
+job_title                      | Salesforce Engineer
 employer_name                  | SprintPark LLC
 secondary_entity_business_name | Connecticut Department of Motor Vehicles
 employer_phone                 | 18605669894
@@ -3200,6 +3200,39 @@ employer_name                  | Deloitte Consulting LLP
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
 -[ RECORD 98 ]-----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24060-759340
+job_title                      | Assistant Professor
+employer_name                  | Southern Connecticut State University
+secondary_entity_business_name | 
+employer_phone                 | 12033926617
+employer_poc_first_name        | Catherine
+employer_poc_last_name         | Ortegon
+employer_poc_email             | ortegonc1@southernct.edu
+employer_poc_phone             | 12033926617
+employer_poc_phone_ext         | 
+worksite_address1              | 501 Crescent Street
+worksite_address2              | 
+worksite_city                  | New Haven
+worksite_county                | NEW HAVEN CITY
+lawfirm_name_business_name     | 
+employer_address1              | 501 Crescent Street
+employer_address2              | 
+employer_city                  | New Haven
+employer_state                 | CT
+employer_postal_code           | 06515
+begin_date                     | 2024-08-28
+end_date                       | 2027-08-27
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Southern Connecticut State University
+soc_code                       | 25-1065.00
+h_1b_dependent                 | No
+-[ RECORD 99 ]-----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24088-836146
 job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
@@ -3232,7 +3265,7 @@ amended_petition               | 0
 employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1065.00
 h_1b_dependent                 | No
--[ RECORD 99 ]-----------------+------------------------------------------------------------------------------
+-[ RECORD 100 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24061-762902
 job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
@@ -3264,39 +3297,6 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 100 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24060-759340
-job_title                      | Assistant Professor
-employer_name                  | Southern Connecticut State University
-secondary_entity_business_name | 
-employer_phone                 | 12033926617
-employer_poc_first_name        | Catherine
-employer_poc_last_name         | Ortegon
-employer_poc_email             | ortegonc1@southernct.edu
-employer_poc_phone             | 12033926617
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Crescent Street
-worksite_address2              | 
-worksite_city                  | New Haven
-worksite_county                | NEW HAVEN CITY
-lawfirm_name_business_name     | 
-employer_address1              | 501 Crescent Street
-employer_address2              | 
-employer_city                  | New Haven
-employer_state                 | CT
-employer_postal_code           | 06515
-begin_date                     | 2024-08-28
-end_date                       | 2027-08-27
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Southern Connecticut State University
-soc_code                       | 25-1065.00
 h_1b_dependent                 | No
 -[ RECORD 101 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24078-808808
@@ -3398,40 +3398,7 @@ employer_name                  | Western Connecticut State University
 soc_code                       | 25-1081.00
 h_1b_dependent                 | No
 -[ RECORD 104 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24152-056055
-job_title                      | Assistant Professor
-employer_name                  | Southern Connecticut State University
-secondary_entity_business_name | 
-employer_phone                 | 12033926617
-employer_poc_first_name        | Catherine
-employer_poc_last_name         | Ortegon
-employer_poc_email             | ortegonc1@southernct.edu
-employer_poc_phone             | 12033926617
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Crescent Street
-worksite_address2              | 
-worksite_city                  | New Haven
-worksite_county                | NEW HAVEN CITY
-lawfirm_name_business_name     | 
-employer_address1              | 501 Crescent Street
-employer_address2              | 
-employer_city                  | New Haven
-employer_state                 | CT
-employer_postal_code           | 06515
-begin_date                     | 2024-08-26
-end_date                       | 2027-08-25
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Southern Connecticut State University
-soc_code                       | 25-1082.00
-h_1b_dependent                 | No
--[ RECORD 105 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24081-818687
+case_number                    | I-200-24079-812794
 job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
 secondary_entity_business_name | 
@@ -3462,6 +3429,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1011.00
+h_1b_dependent                 | No
+-[ RECORD 105 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24198-200476
+job_title                      | Assistant Professor
+employer_name                  | Southern Connecticut State University
+secondary_entity_business_name | 
+employer_phone                 | 12033926617
+employer_poc_first_name        | Catherine
+employer_poc_last_name         | Ortegon
+employer_poc_email             | ortegonc1@southernct.edu
+employer_poc_phone             | 12033926617
+employer_poc_phone_ext         | 
+worksite_address1              | 501 Crescent Street
+worksite_address2              | 
+worksite_city                  | New Haven
+worksite_county                | NEW HAVEN CITY
+lawfirm_name_business_name     | 
+employer_address1              | 501 Crescent Street
+employer_address2              | 
+employer_city                  | New Haven
+employer_state                 | CT
+employer_postal_code           | 06515
+begin_date                     | 2024-08-26
+end_date                       | 2027-08-25
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Southern Connecticut State University
+soc_code                       | 25-1113.00
 h_1b_dependent                 | No
 -[ RECORD 106 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24198-199703
@@ -3497,39 +3497,6 @@ employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1081.00
 h_1b_dependent                 | No
 -[ RECORD 107 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24166-111169
-job_title                      | Assistant Professor
-employer_name                  | Southern Connecticut State University
-secondary_entity_business_name | 
-employer_phone                 | 12033926617
-employer_poc_first_name        | Catherine
-employer_poc_last_name         | Ortegon
-employer_poc_email             | ortegonc1@southernct.edu
-employer_poc_phone             | 12033926617
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Crescent Street
-worksite_address2              | 
-worksite_city                  | New Haven
-worksite_county                | NEW HAVEN CITY
-lawfirm_name_business_name     | 
-employer_address1              | 501 Crescent Street
-employer_address2              | 
-employer_city                  | New Haven
-employer_state                 | CT
-employer_postal_code           | 06515
-begin_date                     | 2024-08-26
-end_date                       | 2027-08-25
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Southern Connecticut State University
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 108 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24184-169119
 job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
@@ -3562,8 +3529,8 @@ amended_petition               | 0
 employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1199.00
 h_1b_dependent                 | No
--[ RECORD 109 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24198-200476
+-[ RECORD 108 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24166-111169
 job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
 secondary_entity_business_name | 
@@ -3578,7 +3545,7 @@ worksite_address2              |
 worksite_city                  | New Haven
 worksite_county                | NEW HAVEN CITY
 lawfirm_name_business_name     | 
-employer_address1              | 501  Crescent Street
+employer_address1              | 501 Crescent Street
 employer_address2              | 
 employer_city                  | New Haven
 employer_state                 | CT
@@ -3586,17 +3553,17 @@ employer_postal_code           | 06515
 begin_date                     | 2024-08-26
 end_date                       | 2027-08-25
 total_worker_positions         | 1
-new_employment                 | 1
+new_employment                 | 0
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
-change_employer                | 0
+change_employer                | 1
 amended_petition               | 0
 employer_name                  | Southern Connecticut State University
-soc_code                       | 25-1113.00
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 110 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24079-812794
+-[ RECORD 109 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24081-818687
 job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
 secondary_entity_business_name | 
@@ -3628,7 +3595,73 @@ amended_petition               | 0
 employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
+-[ RECORD 110 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24152-056055
+job_title                      | Assistant Professor
+employer_name                  | Southern Connecticut State University
+secondary_entity_business_name | 
+employer_phone                 | 12033926617
+employer_poc_first_name        | Catherine
+employer_poc_last_name         | Ortegon
+employer_poc_email             | ortegonc1@southernct.edu
+employer_poc_phone             | 12033926617
+employer_poc_phone_ext         | 
+worksite_address1              | 501 Crescent Street
+worksite_address2              | 
+worksite_city                  | New Haven
+worksite_county                | NEW HAVEN CITY
+lawfirm_name_business_name     | 
+employer_address1              | 501 Crescent Street
+employer_address2              | 
+employer_city                  | New Haven
+employer_state                 | CT
+employer_postal_code           | 06515
+begin_date                     | 2024-08-26
+end_date                       | 2027-08-25
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Southern Connecticut State University
+soc_code                       | 25-1082.00
+h_1b_dependent                 | No
 -[ RECORD 111 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24282-392719
+job_title                      | Associate Professor, Management Information Systems
+employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 18608322052
+employer_poc_first_name        | OLUWATOYIN
+employer_poc_last_name         | AWODERU
+employer_poc_email             | AYENIO@CCSU.EDU
+employer_poc_phone             | 18608322052
+employer_poc_phone_ext         | 
+worksite_address1              | 1615 Stanley Street
+worksite_address2              | 
+worksite_city                  | New Britain
+worksite_county                | HARTFORD CITY
+lawfirm_name_business_name     | 
+employer_address1              | 1615 STANLEY STREET
+employer_address2              | 1615 STANLEY STREET
+employer_city                  | NEW BRITAIN
+employer_state                 | CT
+employer_postal_code           | 06050
+begin_date                     | 2025-01-22
+end_date                       | 2027-08-22
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
+soc_code                       | 25-1011
+h_1b_dependent                 | No
+-[ RECORD 112 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24179-155435
 job_title                      | ASSISTANT PROFESSOR ACCOUNTING
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
@@ -3661,7 +3694,7 @@ amended_petition               | 0
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
--[ RECORD 112 ]----------------+------------------------------------------------------------------------------
+-[ RECORD 113 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24179-155414
 job_title                      | Associate Professor, Management Information Systems
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
@@ -3693,39 +3726,6 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 113 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24282-392719
-job_title                      | Associate Professor, Management Information Systems
-employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
-secondary_entity_business_name | 
-employer_phone                 | 18608322052
-employer_poc_first_name        | OLUWATOYIN
-employer_poc_last_name         | AWODERU
-employer_poc_email             | AYENIO@CCSU.EDU
-employer_poc_phone             | 18608322052
-employer_poc_phone_ext         | 
-worksite_address1              | 1615 Stanley Street
-worksite_address2              | 
-worksite_city                  | New Britain
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 1615 STANLEY STREET
-employer_address2              | 1615 STANLEY STREET
-employer_city                  | NEW BRITAIN
-employer_state                 | CT
-employer_postal_code           | 06050
-begin_date                     | 2025-01-22
-end_date                       | 2027-08-22
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
-soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 114 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24128-967078
@@ -3761,7 +3761,7 @@ employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 115 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24128-967078
+case_number                    | I-200-24086-830376
 job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
 secondary_entity_business_name | 
@@ -3794,7 +3794,7 @@ employer_name                  | Southern Connecticut State University
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 116 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24086-830376
+case_number                    | I-200-24128-967078
 job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
 secondary_entity_business_name | 
@@ -4124,39 +4124,6 @@ employer_name                  | AADVA LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 126 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-24116-927841
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | COMPUNNEL SOFTWARE GROUP INC
-secondary_entity_business_name | OFFICE OF HEALTH STRATEGY – STATE OF CONNECTICUT
-employer_phone                 | 16096069010
-employer_poc_first_name        | STEVE
-employer_poc_last_name         | MONTELEONE
-employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
-employer_poc_phone             | 16096069010
-employer_poc_phone_ext         | 1249
-worksite_address1              | 450 CAPITOL AVENUE
-worksite_address2              | FIRST FLOOR
-worksite_city                  | HARTFORD
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 103 MORGAN LANE
-employer_address2              | SUITE 102
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 2024-05-02
-end_date                       | 2027-05-01
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | COMPUNNEL SOFTWARE GROUP INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 127 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24101-873326
 job_title                      | Software Developer
 employer_name                  | DATAMETRICS SOFTWARE SYSTEMS INC
@@ -4188,6 +4155,39 @@ change_employer                | 0
 amended_petition               | 1
 employer_name                  | DATAMETRICS SOFTWARE SYSTEMS INC
 soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 127 ]----------------+------------------------------------------------------------------------------
+case_number                    | I-200-24116-927841
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+secondary_entity_business_name | OFFICE OF HEALTH STRATEGY – STATE OF CONNECTICUT
+employer_phone                 | 16096069010
+employer_poc_first_name        | STEVE
+employer_poc_last_name         | MONTELEONE
+employer_poc_email             | IMMIGRATION@COMPUNNEL.COM
+employer_poc_phone             | 16096069010
+employer_poc_phone_ext         | 1249
+worksite_address1              | 450 CAPITOL AVENUE
+worksite_address2              | FIRST FLOOR
+worksite_city                  | HARTFORD
+worksite_county                | HARTFORD CITY
+lawfirm_name_business_name     | 
+employer_address1              | 103 MORGAN LANE
+employer_address2              | SUITE 102
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 2024-05-02
+end_date                       | 2027-05-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | COMPUNNEL SOFTWARE GROUP INC
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 128 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-24100-870563
@@ -4322,12 +4322,12 @@ employer_name                  | Department of Mental Health and Addiction Servi
 soc_code                       | 29-1223.00
 h_1b_dependent                 | No
 -[ RECORD 132 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23220-246495
-job_title                      | ASSOCIATE PROFESSOR
+case_number                    | I-200-23220-246717
+job_title                      | ASSISTANT PROFESSOR
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 18608322052
-employer_poc_first_name        | OLIUWATOYIN
+employer_poc_first_name        | OLUWATOYIN
 employer_poc_last_name         | AWODERU
 employer_poc_email             | AYENIO@CCSU.EDU
 employer_poc_phone             | 18608322052
@@ -4355,12 +4355,12 @@ employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 133 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23220-246717
-job_title                      | ASSISTANT PROFESSOR
+case_number                    | I-200-23220-246495
+job_title                      | ASSOCIATE PROFESSOR
 employer_name                  | CENTRAL CONNECTICUT STATE UNIVERSITY
 secondary_entity_business_name | 
 employer_phone                 | 18608322052
-employer_poc_first_name        | OLUWATOYIN
+employer_poc_first_name        | OLIUWATOYIN
 employer_poc_last_name         | AWODERU
 employer_poc_email             | AYENIO@CCSU.EDU
 employer_poc_phone             | 18608322052
@@ -4436,7 +4436,7 @@ worksite_address2              |
 worksite_city                  | East Hartford
 worksite_county                | HARTFORD CITY
 lawfirm_name_business_name     | 
-employer_address1              | 3535 VICTORY GROUP WAY  4
+employer_address1              | 3535 VICTORY GROUP WAY 4
 employer_address2              | 
 employer_city                  | FRISCO
 employer_state                 | TX
@@ -4718,37 +4718,37 @@ employer_name                  | BVM Technology Associates Inc
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 144 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23104-936086
-job_title                      | Programmer Analyst
-employer_name                  | Orion Systems Integrators LLC
-secondary_entity_business_name | Judicial Department, State of Connecticut
-employer_phone                 | 17323846101
-employer_poc_first_name        | Saloni
-employer_poc_last_name         | Mishra
-employer_poc_email             | LCAH1@ORIONINC.COM
-employer_poc_phone             | 17323846101
+case_number                    | I-200-23124-994557
+job_title                      | Software Engineer
+employer_name                  | Thought Circuits Services LLC
+secondary_entity_business_name | State of Connecticut
+employer_phone                 | 14698709418
+employer_poc_first_name        | Revathy
+employer_poc_last_name         | Mumaneni
+employer_poc_email             | Revathym@thoughtcircuits.com
+employer_poc_phone             | 14698709418
 employer_poc_phone_ext         | 
-worksite_address1              | 99 East River Drive
-worksite_address2              | 6th Floor
-worksite_city                  | East Harford
+worksite_address1              | 55 Farmington Ave
+worksite_address2              | 11th Floor
+worksite_city                  | Hartford
 worksite_county                | HARTFORD CITY
 lawfirm_name_business_name     | 
-employer_address1              | 333 Thornall Street
-employer_address2              | Suite 703
-employer_city                  | Edison
-employer_state                 | NJ
-employer_postal_code           | 08837
+employer_address1              | 1300 W Walnut Hill LN
+employer_address2              | STE 148
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75038
 begin_date                     | 2023-10-01
 end_date                       | 2026-09-30
 total_worker_positions         | 1
-new_employment                 | 0
+new_employment                 | 1
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 1
-employer_name                  | Orion Systems Integrators LLC
-soc_code                       | 15-1251.00
+amended_petition               | 0
+employer_name                  | Thought Circuits Services LLC
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 145 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23107-938618
@@ -4784,37 +4784,37 @@ employer_name                  | Orion Systems Integrators LLC
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 146 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23124-994557
-job_title                      | Software Engineer
-employer_name                  | Thought Circuits Services LLC
-secondary_entity_business_name | State of Connecticut
-employer_phone                 | 14698709418
-employer_poc_first_name        | Revathy
-employer_poc_last_name         | Mumaneni
-employer_poc_email             | Revathym@thoughtcircuits.com
-employer_poc_phone             | 14698709418
+case_number                    | I-200-23104-936086
+job_title                      | Programmer Analyst
+employer_name                  | Orion Systems Integrators LLC
+secondary_entity_business_name | Judicial Department, State of Connecticut
+employer_phone                 | 17323846101
+employer_poc_first_name        | Saloni
+employer_poc_last_name         | Mishra
+employer_poc_email             | LCAH1@ORIONINC.COM
+employer_poc_phone             | 17323846101
 employer_poc_phone_ext         | 
-worksite_address1              | 55 Farmington Ave
-worksite_address2              | 11th Floor
-worksite_city                  | Hartford
+worksite_address1              | 99 East River Drive
+worksite_address2              | 6th Floor
+worksite_city                  | East Harford
 worksite_county                | HARTFORD CITY
 lawfirm_name_business_name     | 
-employer_address1              | 1300 W Walnut Hill LN
-employer_address2              | STE 148
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75038
+employer_address1              | 333 Thornall Street
+employer_address2              | Suite 703
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08837
 begin_date                     | 2023-10-01
 end_date                       | 2026-09-30
 total_worker_positions         | 1
-new_employment                 | 1
+new_employment                 | 0
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 0
-employer_name                  | Thought Circuits Services LLC
-soc_code                       | 15-1252.00
+amended_petition               | 1
+employer_name                  | Orion Systems Integrators LLC
+soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 147 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23257-345676
@@ -5312,8 +5312,8 @@ employer_name                  | Eastern Connecticut State University
 soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 162 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23135-021603
-job_title                      | Associate Professor
+case_number                    | I-200-23220-247643
+job_title                      | Assistant Professor
 employer_name                  | Southern Connecticut State University
 secondary_entity_business_name | 
 employer_phone                 | 12033926617
@@ -5342,7 +5342,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Southern Connecticut State University
-soc_code                       | 25-1082
+soc_code                       | 25-3099.00
 h_1b_dependent                 | No
 -[ RECORD 163 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23135-021603
@@ -5375,11 +5375,11 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Southern Connecticut State University
-soc_code                       | 25-1082.00
+soc_code                       | 25-1082
 h_1b_dependent                 | No
 -[ RECORD 164 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23220-247643
-job_title                      | Assistant Professor
+case_number                    | I-200-23135-021603
+job_title                      | Associate Professor
 employer_name                  | Southern Connecticut State University
 secondary_entity_business_name | 
 employer_phone                 | 12033926617
@@ -5408,7 +5408,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Southern Connecticut State University
-soc_code                       | 25-3099.00
+soc_code                       | 25-1082.00
 h_1b_dependent                 | No
 -[ RECORD 165 ]----------------+------------------------------------------------------------------------------
 case_number                    | I-200-23206-212498
@@ -5606,765 +5606,6 @@ new_concurrent_employment      | 1
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | AROHAK INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 171 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23163-099981
-job_title                      | Software Engineer
-employer_name                  | OPTIMUS UNIT LLC
-secondary_entity_business_name | The State of Connecticut, Department of Social Services
-employer_phone                 | 16307790006
-employer_poc_first_name        | CHITRA
-employer_poc_last_name         | PREMKUMAR
-employer_poc_email             | CHITRA@OPTIMUSUNIT.COM
-employer_poc_phone             | 16307790006
-employer_poc_phone_ext         | 
-worksite_address1              | 55 Farmington Ave
-worksite_address2              | 3rd Floor
-worksite_city                  | Hartford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | Azhar & Azhar PLLC
-employer_address1              | 14109 DOONAN CROSSING
-employer_address2              | 
-employer_city                  | FRISCO
-employer_state                 | TX
-employer_postal_code           | 75035
-begin_date                     | 2023-07-10
-end_date                       | 2026-07-09
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | OPTIMUS UNIT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 172 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23088-886362
-job_title                      | NETWORK SECURITY ENGINEER
-employer_name                  | HCL GLOBAL SYSTEMS INC
-secondary_entity_business_name | STATE OF CONNECTICUT - BOITS/DAS (REMOTE)
-employer_phone                 | 12484730720
-employer_poc_first_name        | DURGA PRASAD
-employer_poc_last_name         | GADDE
-employer_poc_email             | GADDE@HCLGLOBAL.COM
-employer_poc_phone             | 12484730720
-employer_poc_phone_ext         | 200
-worksite_address1              | 3 MURTHAS WAY,
-worksite_address2              | APT   429
-worksite_city                  | GRANBY
-worksite_county                | EAST HARTFORD
-lawfirm_name_business_name     | 
-employer_address1              | 24543 INDOPLEX CIRCLE
-employer_address2              | SUITE 220
-employer_city                  | FARMINGTON HILLS
-employer_state                 | MI
-employer_postal_code           | 48335
-begin_date                     | 2023-07-06
-end_date                       | 2026-07-05
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | HCL GLOBAL SYSTEMS INC
-soc_code                       | 15-1212.00
-h_1b_dependent                 | Yes
--[ RECORD 173 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23151-065817
-job_title                      | Teacher  Grade 7
-employer_name                  | Town of Mansfield, Department of Education
-secondary_entity_business_name | 
-employer_phone                 | 18604293350
-employer_poc_first_name        | Peter
-employer_poc_last_name         | Dart
-employer_poc_email             | dartp@mansfieldct.org
-employer_poc_phone             | 18604293350
-employer_poc_phone_ext         | 
-worksite_address1              | Mansfield Middle School
-worksite_address2              | 205 Spring Hill Road
-worksite_city                  | Storrs
-worksite_county                | MANSFIELD
-lawfirm_name_business_name     | Shipman & Goodwin LLP
-employer_address1              | 4 South Eagleville Road
-employer_address2              | 
-employer_city                  | Storrs-Mansfield
-employer_state                 | CT
-employer_postal_code           | 06268
-begin_date                     | 2023-07-05
-end_date                       | 2026-07-04
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Town of Mansfield, Department of Education
-soc_code                       | 25-2022.00
-h_1b_dependent                 | No
--[ RECORD 174 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23145-053860
-job_title                      | Teacher  Grade 7 Math and Mandarin Chinese
-employer_name                  | Town of Mansfield, Department of Education
-secondary_entity_business_name | 
-employer_phone                 | 18604293350
-employer_poc_first_name        | Peter
-employer_poc_last_name         | Dart
-employer_poc_email             | dartp@mansfieldct.org
-employer_poc_phone             | 18604293350
-employer_poc_phone_ext         | 
-worksite_address1              | Mansfield Middle School
-worksite_address2              | 205 Spring Hill Road
-worksite_city                  | Storrs
-worksite_county                | MANSFIELD
-lawfirm_name_business_name     | Shipman & Goodwin LLP
-employer_address1              | 4 South Eagleville Road
-employer_address2              | 
-employer_city                  | Storrs-Mansfield
-employer_state                 | CT
-employer_postal_code           | 06268
-begin_date                     | 2023-07-05
-end_date                       | 2026-07-04
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Town of Mansfield, Department of Education
-soc_code                       | 25-2022.00
-h_1b_dependent                 | No
--[ RECORD 175 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23184-162884
-job_title                      | Software Developer
-employer_name                  | HR Pundits Inc
-secondary_entity_business_name | State of Connecticut, Department of Administrative Services
-employer_phone                 | 18476100255
-employer_poc_first_name        | Krishna K
-employer_poc_last_name         | Reddy
-employer_poc_email             | kkreddy@hrpundits.com
-employer_poc_phone             | 18476100255
-employer_poc_phone_ext         | 
-worksite_address1              | 55 Farmington Avenue
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | INTERNATIONAL LEGAL & BUSINESS SERVICES GROUP LLP
-employer_address1              | 1827 Walden Office Sq
-employer_address2              | Suite 260
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60173
-begin_date                     | 2023-07-03
-end_date                       | 2026-07-02
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | HR Pundits Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 176 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23167-116916
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | NEONSOFT INC
-secondary_entity_business_name | STATE OF CONNECTICUT
-employer_phone                 | 18153213748
-employer_poc_first_name        | SUNEEL
-employer_poc_last_name         | KATAKAM
-employer_poc_email             | INFO@NEONSOFT-INC.COM
-employer_poc_phone             | 18153213748
-employer_poc_phone_ext         | 
-worksite_address1              | 99 EAST RIVER DRIVE
-worksite_address2              | 7TH FLOOR
-worksite_city                  | EAST HARTFORD
-worksite_county                | EAST HARTFORD
-lawfirm_name_business_name     | 
-employer_address1              | 777 LAKE ZURICH ROAD
-employer_address2              | STE 125I
-employer_city                  | BARRINGTON
-employer_state                 | IL
-employer_postal_code           | 60010
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | NEONSOFT INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 177 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23024-722509
-job_title                      | SAS Developer
-employer_name                  | ITAMERICA INC
-secondary_entity_business_name | Connecticut State Department of Education
-employer_phone                 | 17329855100
-employer_poc_first_name        | PRAVEEN
-employer_poc_last_name         | THADAKAMALLA
-employer_poc_email             | Immigration@itamerica.com
-employer_poc_phone             | 17329855100
-employer_poc_phone_ext         | 204
-worksite_address1              | 450 Columbus Blvd
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 100 METROPLEX DR SUITE 207
-employer_address2              | 
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ITAMERICA INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 178 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23024-722351
-job_title                      | SAS Developer
-employer_name                  | ITAMERICA INC
-secondary_entity_business_name | Connecticut State Department of Education
-employer_phone                 | 17329855100
-employer_poc_first_name        | PRAVEEN
-employer_poc_last_name         | THADAKAMALLA
-employer_poc_email             | Immigration@itamerica.com
-employer_poc_phone             | 17329855100
-employer_poc_phone_ext         | 204
-worksite_address1              | 450 Columbus Blvd
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 100 METROPLEX DR SUITE 207
-employer_address2              | 
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | ITAMERICA INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 179 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23086-880278
-job_title                      | Software Engineer Level 4
-employer_name                  | Interpro Inc
-secondary_entity_business_name | State of Connecticuts Criminal Justice Information Systems
-employer_phone                 | 12487381590
-employer_poc_first_name        | John
-employer_poc_last_name         | Alexander
-employer_poc_email             | john.alexander@interpro-inc.com
-employer_poc_phone             | 12486361192
-employer_poc_phone_ext         | 
-worksite_address1              | 55 Farmington Ave
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | Joseph Kallabat & Associates PC
-employer_address1              | 3265 Orchard Lake Road
-employer_address2              | 
-employer_city                  | Keego Harbor
-employer_state                 | MI
-employer_postal_code           | 48320
-begin_date                     | 2023-06-30
-end_date                       | 2026-06-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Interpro Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 180 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23157-082347
-job_title                      | .NET DEVELOPER
-employer_name                  | INNOVA SOLUTIONS INC
-secondary_entity_business_name | STATE OF CONNECTICUT- JUDICIAL BRANCH- COURT SUPPORT SERVICES DIVISION
-employer_phone                 | 16148159095
-employer_poc_first_name        | ANA CRISTINA
-employer_poc_last_name         | SANTIESTEBAN GUTIERREZ
-employer_poc_email             | IMMIGRATION@INNOVASOLUTIONS.COM
-employer_poc_phone             | 16148159095
-employer_poc_phone_ext         | 
-worksite_address1              | 455 WINDING BROOK DR
-worksite_address2              | 
-worksite_city                  | GLASTONBURY
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 2400 MEADOWBROOK PARKWAY
-employer_address2              | 
-employer_city                  | DULUTH
-employer_state                 | GA
-employer_postal_code           | 30096
-begin_date                     | 2023-06-26
-end_date                       | 2026-06-25
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | INNOVA SOLUTIONS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 181 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23027-732543
-job_title                      | Software Engineer
-employer_name                  | Technovators INC
-secondary_entity_business_name | State of Connecticut-Department of labor
-employer_phone                 | 16094478065
-employer_poc_first_name        | Venkat
-employer_poc_last_name         | Guntupalli
-employer_poc_email             | hr@technovatorsinc.com
-employer_poc_phone             | 16094478065
-employer_poc_phone_ext         | 
-worksite_address1              | 200 Folly Brook Blvd
-worksite_address2              | 
-worksite_city                  | Wethersfield
-worksite_county                | WETHERSFIELD
-lawfirm_name_business_name     | Law Offices of Kamlesh Tewary PC
-employer_address1              | 4390 Route 1 North
-employer_address2              | Suite 310
-employer_city                  | Princeton
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-06-04
-end_date                       | 2026-06-03
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Technovators INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 182 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-25322-418853
-job_title                      | Assistant Professor of Comp Sci- Artificial Intelligence
-employer_name                  | Central Connecticut State University
-secondary_entity_business_name | 
-employer_phone                 | 18608322052
-employer_poc_first_name        | Oluwatoyin
-employer_poc_last_name         | Awoderu
-employer_poc_email             | ayeino@ccsu.edu
-employer_poc_phone             | 18608322052
-employer_poc_phone_ext         | 
-worksite_address1              | 1615 Stanley Street
-worksite_address2              | 
-worksite_city                  | New Britain
-worksite_county                | 
-lawfirm_name_business_name     | Green & Spiegel LLC
-employer_address1              | 1615 Stanley Street
-employer_address2              | 
-employer_city                  | New Britain
-employer_state                 | CT
-employer_postal_code           | 06050
-begin_date                     | 2026-01-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Central Connecticut State University
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 183 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22349-641843
-job_title                      | Sr. SOFTWARE DEVELOPER
-employer_name                  | PARAMOUNT SOFTWARE SOLUTIONS INC
-secondary_entity_business_name | State of Connecticut - Dept. of Social Services
-employer_phone                 | 17708578348
-employer_poc_first_name        | PRAMOD
-employer_poc_last_name         | SAJJA
-employer_poc_email             | sajja@paramountsoft.net
-employer_poc_phone             | 17708578348
-employer_poc_phone_ext         | 
-worksite_address1              | 55 Farmington Avenue
-worksite_address2              | 
-worksite_city                  | HARTFORD
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | THE IMMANUEL LAW FIRM LLC
-employer_address1              | 4030 Old Milton Parkway
-employer_address2              | 
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 2023-05-22
-end_date                       | 2026-05-21
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | PARAMOUNT SOFTWARE SOLUTIONS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 184 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23131-013391
-job_title                      | Programmer Analyst
-employer_name                  | Orion Systems Integrators LLC
-secondary_entity_business_name | Judicial Department, State of Connecticut
-employer_phone                 | 17323846101
-employer_poc_first_name        | Saloni
-employer_poc_last_name         | Mishra
-employer_poc_email             | LCAH1@ORIONINC.COM
-employer_poc_phone             | 17323846101
-employer_poc_phone_ext         | 
-worksite_address1              | 99 East River Drive, 6th Floor
-worksite_address2              | 
-worksite_city                  | East Harford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 333 Thornall Street
-employer_address2              | Suite 703
-employer_city                  | Edison
-employer_state                 | NJ
-employer_postal_code           | 08837
-begin_date                     | 2023-05-22
-end_date                       | 2026-05-21
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Orion Systems Integrators LLC
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 185 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23093-899782
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | NEONSOFT INC
-secondary_entity_business_name | STATE OF CONNECTICUT
-employer_phone                 | 18153213748
-employer_poc_first_name        | SUNEEL
-employer_poc_last_name         | KATAKAM
-employer_poc_email             | INFO@NEONSOFT-INC.COM
-employer_poc_phone             | 18153213748
-employer_poc_phone_ext         | 
-worksite_address1              | 99 EAST RIVER DRIVE
-worksite_address2              | 7TH FLOOR
-worksite_city                  | EAST HARTFORD
-worksite_county                | EAST HARTFORD
-lawfirm_name_business_name     | 
-employer_address1              | 777 LAKE ZURICH ROAD
-employer_address2              | STE 125I
-employer_city                  | BARRINGTON
-employer_state                 | IL
-employer_postal_code           | 60010
-begin_date                     | 2023-04-11
-end_date                       | 2026-04-10
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | NEONSOFT INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 186 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22318-584544
-job_title                      | Automation TestScript Developer
-employer_name                  | IPIVOT LLC
-secondary_entity_business_name | CT Department of Social Services
-employer_phone                 | 17322742802
-employer_poc_first_name        | SATHYANARAYANA
-employer_poc_last_name         | KATAKAM
-employer_poc_email             | HR@IPIVOT.IO
-employer_poc_phone             | 17322742802
-employer_poc_phone_ext         | 
-worksite_address1              | 55 Farmington Ave
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | EAST HARTFORD
-lawfirm_name_business_name     | 
-employer_address1              | 405 RIDGE ROAD
-employer_address2              | 
-employer_city                  | DAYTON
-employer_state                 | NJ
-employer_postal_code           | 08810
-begin_date                     | 2023-03-31
-end_date                       | 2026-03-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | IPIVOT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 187 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22299-552622
-job_title                      | Automation TestScript Developer
-employer_name                  | IPIVOT LLC
-secondary_entity_business_name | CT Department of Social Services
-employer_phone                 | 17322742802
-employer_poc_first_name        | SATHYANARAYANA
-employer_poc_last_name         | KATAKAM
-employer_poc_email             | HR@IPIVOT.IO
-employer_poc_phone             | 17322742802
-employer_poc_phone_ext         | 
-worksite_address1              | 55 Farmington Ave
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | EAST HARTFORD
-lawfirm_name_business_name     | 
-employer_address1              | 405 RIDGE ROAD
-employer_address2              | 
-employer_city                  | DAYTON
-employer_state                 | NJ
-employer_postal_code           | 08810
-begin_date                     | 2023-03-31
-end_date                       | 2026-03-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | IPIVOT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 188 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22318-584810
-job_title                      | Automation TestScript Developer
-employer_name                  | IPIVOT LLC
-secondary_entity_business_name | CT Department of Social Services
-employer_phone                 | 17322742802
-employer_poc_first_name        | SATHYANARAYANA
-employer_poc_last_name         | KATAKAM
-employer_poc_email             | HR@IPIVOT.IO
-employer_poc_phone             | 17322742802
-employer_poc_phone_ext         | 
-worksite_address1              | 55 Farmington Ave
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | EAST HARTFORD
-lawfirm_name_business_name     | 
-employer_address1              | 405 RIDGE ROAD
-employer_address2              | 
-employer_city                  | DAYTON
-employer_state                 | NJ
-employer_postal_code           | 08810
-begin_date                     | 2023-03-31
-end_date                       | 2026-03-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | IPIVOT LLC
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 189 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23052-790571
-job_title                      | Software Engineer
-employer_name                  | Allied Informatics Inc
-secondary_entity_business_name | Department of Children and Families (DCF)
-employer_phone                 | 17702469800
-employer_poc_first_name        | Kris
-employer_poc_last_name         | Gadde
-employer_poc_email             | immigration@alliedinformatics.com
-employer_poc_phone             | 17702469800
-employer_poc_phone_ext         | 101
-worksite_address1              | 505 Hudson Street,
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 1815 Satellite Blvd.,
-employer_address2              | Suite 302
-employer_city                  | Duluth
-employer_state                 | GA
-employer_postal_code           | 30097
-begin_date                     | 2023-03-27
-end_date                       | 2026-03-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Allied Informatics Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 190 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-22291-535770
-job_title                      | OBIEE Developer
-employer_name                  | Kanap Systems LLC
-secondary_entity_business_name | State of Connecticut
-employer_phone                 | 15159745604
-employer_poc_first_name        | Farman
-employer_poc_last_name         | Ellahi
-employer_poc_email             | kanaph1s@kanapsystems.com
-employer_poc_phone             | 15159745604
-employer_poc_phone_ext         | 
-worksite_address1              | 165 Capital Ave
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | 
-employer_address1              | 4949 Pleasant Street
-employer_address2              | Suite 200
-employer_city                  | West Des Moines
-employer_state                 | IA
-employer_postal_code           | 50266
-begin_date                     | 2023-03-24
-end_date                       | 2026-03-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kanap Systems LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 191 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23082-873557
-job_title                      | Application Software Developer/Architect
-employer_name                  | The Tri-Com Consulting Group LLC
-secondary_entity_business_name | The State of CT Department of Children and Families
-employer_phone                 | 18606359600
-employer_poc_first_name        | Douglas
-employer_poc_last_name         | Tringali
-employer_poc_email             | dtringali@tricomgroup.com
-employer_poc_phone             | 18606359600
-employer_poc_phone_ext         | 
-worksite_address1              | 505 Hudson street
-worksite_address2              | 
-worksite_city                  | Hartford
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | Lamboley Law FIrm LLC
-employer_address1              | 333 Industrial Park Road
-employer_address2              | 
-employer_city                  | Middletown
-employer_state                 | CT
-employer_postal_code           | 06457
-begin_date                     | 2023-03-23
-end_date                       | 2026-03-22
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | The Tri-Com Consulting Group LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 192 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23069-840612
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | NEONSOFT INC
-secondary_entity_business_name | STATE OF CONNECTICUT
-employer_phone                 | 18153213748
-employer_poc_first_name        | SUNEEL
-employer_poc_last_name         | KATAKAM
-employer_poc_email             | INFO@NEONSOFT-INC.COM
-employer_poc_phone             | 18153213748
-employer_poc_phone_ext         | 
-worksite_address1              | 99 EAST RIVER DRIVE
-worksite_address2              | 7TH FLOOR
-worksite_city                  | EAST HARTFORD
-worksite_county                | EAST HARTFORD
-lawfirm_name_business_name     | 
-employer_address1              | 777 LAKE ZURICH ROAD
-employer_address2              | STE 125I
-employer_city                  | BARRINGTON
-employer_state                 | IL
-employer_postal_code           | 60010
-begin_date                     | 2023-03-20
-end_date                       | 2026-03-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | NEONSOFT INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 193 ]----------------+------------------------------------------------------------------------------
-case_number                    | I-200-23068-837618
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | LOTUSDATA, LLP.
-secondary_entity_business_name | STATE OF CONNECTICUT (DEPARTMENT OF SOCIAL SERVICES)
-employer_phone                 | 16094360108
-employer_poc_first_name        | LAKSHMI
-employer_poc_last_name         | SINGARAJU
-employer_poc_email             | IMMIGRATION@LOTUSDATA.NET
-employer_poc_phone             | 16094360108
-employer_poc_phone_ext         | 
-worksite_address1              | 55 FARMINGTON AVE.
-worksite_address2              | 
-worksite_city                  | HARTFORD
-worksite_county                | HARTFORD CITY
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 475 WALL STREET
-employer_address2              | 
-employer_city                  | PRINCETON
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-03-10
-end_date                       | 2026-03-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | LOTUSDATA, LLP.
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 

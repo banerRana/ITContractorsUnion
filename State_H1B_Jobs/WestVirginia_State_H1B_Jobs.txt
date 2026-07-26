@@ -626,18 +626,18 @@ employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 soc_code                       | 13-2011.00
 h_1b_dependent                 | No
 -[ RECORD 20 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-24023-659493
+case_number                    | I-200-24054-742181
 job_title                      | Testing Manager
 employer_name                  | Gantec Corporation
-secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)
+secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)/Berry Dunn
 employer_phone                 | 18478857655
 employer_poc_first_name        | Venkat
 employer_poc_last_name         | Ravilla
 employer_poc_email             | vr@gantecusa.com
 employer_poc_phone             | 18478857655
 employer_poc_phone_ext         | 
-worksite_address1              | 300 Capitol Street
-worksite_address2              | suite    1610
+worksite_address1              | 300 Capitol Street (Berry Dunn address)
+worksite_address2              | suite   1610
 worksite_city                  | Charleston
 worksite_county                | KANAWHA
 lawfirm_name_business_name     | International Legal & Business Services Group LLP
@@ -659,18 +659,18 @@ employer_name                  | Gantec Corporation
 soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 -[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-24054-742181
+case_number                    | I-200-24023-659493
 job_title                      | Testing Manager
 employer_name                  | Gantec Corporation
-secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)/Berry Dunn
+secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)
 employer_phone                 | 18478857655
 employer_poc_first_name        | Venkat
 employer_poc_last_name         | Ravilla
 employer_poc_email             | vr@gantecusa.com
 employer_poc_phone             | 18478857655
 employer_poc_phone_ext         | 
-worksite_address1              | 300 Capitol Street (Berry Dunn address)
-worksite_address2              | suite   1610
+worksite_address1              | 300 Capitol Street
+worksite_address2              | suite    1610
 worksite_city                  | Charleston
 worksite_county                | KANAWHA
 lawfirm_name_business_name     | International Legal & Business Services Group LLP
@@ -954,71 +954,5 @@ change_employer                | 1
 amended_petition               | 0
 employer_name                  | Leidos Inc
 soc_code                       | 19-2032.00
-h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23128-003081
-job_title                      | Systems Engineer Senior
-employer_name                  | Spartan Solutions Inc
-secondary_entity_business_name | Department of Veteran Affairs
-employer_phone                 | 19012135255
-employer_poc_first_name        | Tracy
-employer_poc_last_name         | Thompson
-employer_poc_email             | tracypeters@spartansolutions.net
-employer_poc_phone             | 19012135255
-employer_poc_phone_ext         | 
-worksite_address1              | 221 Butler Avenue, Building 511
-worksite_address2              | 
-worksite_city                  | Martinsburg
-worksite_county                | BERKELEY
-lawfirm_name_business_name     | The Law Office of Luke Bowman
-employer_address1              | 338 New Byhalia Road, Suite 1
-employer_address2              | 
-employer_city                  | Collierville
-employer_state                 | TN
-employer_postal_code           | 38017
-begin_date                     | 2023-05-18
-end_date                       | 2026-05-17
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Spartan Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 31 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-23086-880234
-job_title                      | Polymer/Organic Chemist
-employer_name                  | Leidos Inc
-secondary_entity_business_name | U.S. Department of Energy, National Energy Technology Laboratory
-employer_phone                 | 17032310939
-employer_poc_first_name        | Jodi
-employer_poc_last_name         | Wright
-employer_poc_email             | Jodi.L.Wright@leidos.com
-employer_poc_phone             | 13106259863
-employer_poc_phone_ext         | 
-worksite_address1              | 3610 Collins Ferry Rd.
-worksite_address2              | 
-worksite_city                  | Morgantown
-worksite_county                | MONONGALIA
-lawfirm_name_business_name     | Morgan Lewis & Bockius LLP
-employer_address1              | 1750 Presidents Street
-employer_address2              | 
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 2023-05-01
-end_date                       | 2026-04-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Leidos Inc
-soc_code                       | 19-2031.00
 h_1b_dependent                 | No
 

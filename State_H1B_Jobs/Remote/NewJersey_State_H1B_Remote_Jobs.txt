@@ -1,0 +1,621 @@
+-[ RECORD 1 ]------------------+---------------------------------------------------------------------------------
+case_number                    | I-200-24003-612924
+job_title                      | Salesforce Developer
+full_time_position             | Y
+employer_name                  | Excelon Solutions LLC
+secondary_entity_business_name | (Work from Home) Department of Veterans Affairs
+employer_poc_email             | immigration@excelonsolutions.com
+employer_poc_phone             | 19895280914
+employer_poc_first_name        | Chandhana
+employer_poc_last_name         | Busireddy
+worksite_address1              | 510 Memorial Blvd
+worksite_address2              | Apt 3
+worksite_city                  | Bayonne
+worksite_county                | HUDSON
+lawfirm_name_business_name     | 
+employer_address1              | 2625 N Josey Ln
+employer_address2              | Ste 322
+employer_city                  | Carrollton
+employer_state                 | TX
+employer_postal_code           | 75007
+begin_date                     | 2024-02-01
+end_date                       | 2027-01-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 2 ]------------------+---------------------------------------------------------------------------------
+case_number                    | I-200-23235-289058
+job_title                      | FULL STACK DEVELOPER
+full_time_position             | Y
+employer_name                  | HCL GLOBAL SYSTEMS INC
+secondary_entity_business_name | DEPARTMENT OF SOCIAL SERVICES - NYC (REMOTE)
+employer_poc_email             | GADDE@HCLGLOBAL.COM
+employer_poc_phone             | 12484730720
+employer_poc_first_name        | DURGA PRASAD
+employer_poc_last_name         | GADDE
+worksite_address1              | 30 REDSTONE DRIVE
+worksite_address2              | 
+worksite_city                  | PARSIPPANY
+worksite_county                | MORRIS
+lawfirm_name_business_name     | 
+employer_address1              | 24543 INDOPLEX CIRCLE
+employer_address2              | SUITE 220
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2023-08-31
+end_date                       | 2026-08-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 3 ]------------------+---------------------------------------------------------------------------------
+case_number                    | I-200-24229-273570
+job_title                      | SOFTWARE DEVELOPER
+full_time_position             | Y
+employer_name                  | HIGHDATA SOFTWARE CORPORATION
+secondary_entity_business_name | DMHAS, DOH STATE OF NEW JERSEY (REMOTE)
+employer_poc_email             | ANISH@HIGHDATA.COM
+employer_poc_phone             | 16036852300
+employer_poc_first_name        | SUBRAMANIYAM
+employer_poc_last_name         | SEETHA RAMAN
+worksite_address1              | 53 NORTH MILL ROAD
+worksite_address2              | 
+worksite_city                  | PRINCETON
+worksite_county                | MERCER
+lawfirm_name_business_name     | 
+employer_address1              | 45 STILES ROAD
+employer_address2              | SUITE 212
+employer_city                  | SALEM
+employer_state                 | NH
+employer_postal_code           | 03079
+begin_date                     | 2024-08-16
+end_date                       | 2025-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1299.00
+h_1b_dependent                 | Yes
+-[ RECORD 4 ]------------------+---------------------------------------------------------------------------------
+case_number                    | I-200-22309-571429
+job_title                      | Business Analyst
+full_time_position             | Y
+employer_name                  | ECCLESIASTES INC
+secondary_entity_business_name | Department of Education, NYC (remotely from home office)
+employer_poc_email             | hr@eccles.digital
+employer_poc_phone             | 13024708343
+employer_poc_first_name        | Venkat
+employer_poc_last_name         | MANDA
+worksite_address1              | 210 Hopkins Avenue
+worksite_address2              | Apt 2
+worksite_city                  | Jersey City
+worksite_county                | HUDSON
+lawfirm_name_business_name     | LAW OFFICES OF MADHAVI SAMUDRALA,P.C.
+employer_address1              | 200 CONTINENTAL DR.
+employer_address2              | SUITE 401
+employer_city                  | NEWARK
+employer_state                 | DE
+employer_postal_code           | 19713-4337
+begin_date                     | 2022-11-14
+end_date                       | 2025-11-13
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-2031.00
+h_1b_dependent                 | Yes
+-[ RECORD 5 ]------------------+---------------------------------------------------------------------------------
+case_number                    | I-200-25189-157456
+job_title                      | Dot .Net Developer
+full_time_position             | Y
+employer_name                  | Aroopa Inc
+secondary_entity_business_name | Louisiana Department of Public Safety /Remote
+employer_poc_email             | srini@aroopatech.com
+employer_poc_phone             | 17325820699
+employer_poc_first_name        | Srinivasan
+employer_poc_last_name         | Radhakrishnan
+worksite_address1              | 46 Dennis Court
+worksite_address2              | 
+worksite_city                  | Hightstown
+worksite_county                | 
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 7 Centre Dr
+employer_address2              | Suite 12
+employer_city                  | Monroe
+employer_state                 | NJ
+employer_postal_code           | 08831
+begin_date                     | 2025-07-07
+end_date                       | 2028-07-06
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1251.00
+h_1b_dependent                 | No
+-[ RECORD 6 ]------------------+---------------------------------------------------------------------------------
+case_number                    | I-200-25189-157514
+job_title                      | Computer Programmer
+full_time_position             | Y
+employer_name                  | Aroopa Inc
+secondary_entity_business_name | Louisiana Department of Public Safety /Remote
+employer_poc_email             | srini@aroopatech.com
+employer_poc_phone             | 17325820699
+employer_poc_first_name        | Srinivasan
+employer_poc_last_name         | Radhakrishnan
+worksite_address1              | 46 Dennis Ct
+worksite_address2              | 
+worksite_city                  | Hightstown
+worksite_county                | 
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 7 Centre Dr
+employer_address2              | Suite 12
+employer_city                  | Monroe
+employer_state                 | NJ
+employer_postal_code           | 08831
+begin_date                     | 2025-07-07
+end_date                       | 2028-07-06
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1251.00
+h_1b_dependent                 | No
+-[ RECORD 7 ]------------------+---------------------------------------------------------------------------------
+case_number                    | I-200-25099-848071
+job_title                      | Salesforce Developer
+full_time_position             | Y
+employer_name                  | AJACE Inc
+secondary_entity_business_name | MD  Department     of Health / Telecommute
+employer_poc_email             | isaac@ajace.com
+employer_poc_phone             | 17035624959
+employer_poc_first_name        | Vallabai
+employer_poc_last_name         | Isaac
+worksite_address1              | 49 Valentino Drive
+worksite_address2              | 
+worksite_city                  | Old Bridge
+worksite_county                | MIDDLESEX
+lawfirm_name_business_name     | 
+employer_address1              | 14159 Robert Paris CT
+employer_address2              | Suite A
+employer_city                  | Chantilly
+employer_state                 | VA
+employer_postal_code           | 20151
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1299
+h_1b_dependent                 | Yes
+-[ RECORD 8 ]------------------+---------------------------------------------------------------------------------
+case_number                    | I-200-24232-277398
+job_title                      | Software Enginner
+full_time_position             | Y
+employer_name                  | Sonus Software Solutions Inc
+secondary_entity_business_name | NYS Department of Labor (working remotely)
+employer_poc_email             | info@sonussoftwareinc.com
+employer_poc_phone             | 18017703133
+employer_poc_first_name        | Sonica
+employer_poc_last_name         | Kommu
+worksite_address1              | 32 Cinder Road
+worksite_address2              | 9
+worksite_city                  | Edison
+worksite_county                | MIDDLESEX
+lawfirm_name_business_name     | 
+employer_address1              | 504 W 800 N
+employer_address2              | 
+employer_city                  | Orem
+employer_state                 | UT
+employer_postal_code           | 84057
+begin_date                     | 2024-08-19
+end_date                       | 2027-08-18
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 9 ]------------------+---------------------------------------------------------------------------------
+case_number                    | I-200-24101-871291
+job_title                      | Management Analyst/Business Analyst
+full_time_position             | Y
+employer_name                  | Inrika Inc
+secondary_entity_business_name | New York City Department of Education (Remote Work Location)
+employer_poc_email             | immigration@inrika.com
+employer_poc_phone             | 13476841902
+employer_poc_first_name        | Ajit
+employer_poc_last_name         | Kumar
+worksite_address1              | 134 Beach Street
+worksite_address2              | 
+worksite_city                  | Jersey City
+worksite_county                | HUDSON
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 3759 US Highway 1
+employer_address2              | Suite 103
+employer_city                  | Monmouth Junction
+employer_state                 | NJ
+employer_postal_code           | 08852
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 13-1111.00
+h_1b_dependent                 | Yes
+-[ RECORD 10 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-24101-871298
+job_title                      | Management Analyst/Business Analyst
+full_time_position             | Y
+employer_name                  | Inrika Inc
+secondary_entity_business_name | New York City Department of Education (Remote Work Location)
+employer_poc_email             | immigration@inrika.com
+employer_poc_phone             | 13476841902
+employer_poc_first_name        | Ajit
+employer_poc_last_name         | Kumar
+worksite_address1              | 134 Beach Street
+worksite_address2              | 
+worksite_city                  | Jersey City
+worksite_county                | HUDSON
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 3759 US Highway 1
+employer_address2              | Suite 103
+employer_city                  | Monmouth Junction
+employer_state                 | NJ
+employer_postal_code           | 08852
+begin_date                     | 2024-04-10
+end_date                       | 2027-04-09
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 13-1111.00
+h_1b_dependent                 | Yes
+-[ RECORD 11 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-23261-354221
+job_title                      | SOFTWARE APPLICATIONS DEVELOPER
+full_time_position             | Y
+employer_name                  | NIHA TECHNOLOGIES INC
+secondary_entity_business_name | STATE OF NEW JERSEY (TELECOMMUTING)
+employer_poc_email             | H1B@NIHATECH.COM
+employer_poc_phone             | 17034639263
+employer_poc_first_name        | DEVI
+employer_poc_last_name         | MANDA
+worksite_address1              | 43 SCHERER COURT, BUILDING NO 29
+worksite_address2              | 
+worksite_city                  | LAWRENCE TOWNSHIP
+worksite_county                | MERCER
+lawfirm_name_business_name     | MADAN & SAIGAL LLC
+employer_address1              | 13221 WOODLAND PARK ROAD, SUITE 420
+employer_address2              | 
+employer_city                  | HERNDON
+employer_state                 | VA
+employer_postal_code           | 20171
+begin_date                     | 2023-09-18
+end_date                       | 2026-09-17
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 12 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-23124-991611
+job_title                      | Business Analyst / Management Analyst
+full_time_position             | Y
+employer_name                  | Dynasticx LLC
+secondary_entity_business_name | State of New Jersey (Remote Work Location)
+employer_poc_email             | contracts@dynasticx.com
+employer_poc_phone             | 13472809658
+employer_poc_first_name        | Anand
+employer_poc_last_name         | Deepu
+worksite_address1              | 38 SkillMan Ave
+worksite_address2              | 
+worksite_city                  | Jersey City
+worksite_county                | MERCER
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 695 Hamilton Street
+employer_address2              | Suite 422
+employer_city                  | Somerset
+employer_state                 | NJ
+employer_postal_code           | 08874
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 13 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-23226-261308
+job_title                      | Pega Developer
+full_time_position             | Y
+employer_name                  | Regal IT Services Inc
+secondary_entity_business_name | State of New Jersey Judiciary/Working Remotely
+employer_poc_email             | hr@regalitservices.com
+employer_poc_phone             | 18322661599
+employer_poc_first_name        | Maliza
+employer_poc_last_name         | Flores
+worksite_address1              | 25 Market Street
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | 
+employer_address1              | 633 E Fernhurst Dr
+employer_address2              | Ste 904
+employer_city                  | Katy
+employer_state                 | TX
+employer_postal_code           | 77450
+begin_date                     | 2023-08-21
+end_date                       | 2026-08-20
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-25164-087860
+job_title                      | Software Programmer
+full_time_position             | Y
+employer_name                  | IRIS INFOTECH INC
+secondary_entity_business_name | State of New Jersey/Remote
+employer_poc_email             | hr@irisinfotechinc.com
+employer_poc_phone             | 19042945655
+employer_poc_first_name        | Sirisha
+employer_poc_last_name         | Tunuguntla
+worksite_address1              | 50 Roberta Way
+worksite_address2              | 
+worksite_city                  | Medford
+worksite_county                | BURLINGTON
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 9140 Baymeadows Park Drive
+employer_address2              | Suite 9S
+employer_city                  | Jacksonville
+employer_state                 | FL
+employer_postal_code           | 32256
+begin_date                     | 2025-06-12
+end_date                       | 2028-06-11
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1251
+h_1b_dependent                 | Yes
+-[ RECORD 15 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-22325-599162
+job_title                      | QA ANALYST/TESTER
+full_time_position             | Y
+employer_name                  | ARCANE SYSTEMS INC
+secondary_entity_business_name | THE NEW YORK STATE EDUCATION DEPARTMENT (TELECOMMUTING)
+employer_poc_email             | LEGAL@ARCANEITSYS.COM
+employer_poc_phone             | 14302153456
+employer_poc_first_name        | SATISH
+employer_poc_last_name         | KANTHETI
+worksite_address1              | 118 COUNTRY VILLAGE ROAD, APT 2
+worksite_address2              | 
+worksite_city                  | JERSEY CITY
+worksite_county                | HUDSON
+lawfirm_name_business_name     | MADAN & SAIGAL LLC
+employer_address1              | 4102 SOUTH 31ST STREET
+employer_address2              | SUITE 500
+employer_city                  | TEMPLE
+employer_state                 | TX
+employer_postal_code           | 76502
+begin_date                     | 2022-11-21
+end_date                       | 2025-11-20
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1253.00
+h_1b_dependent                 | No
+-[ RECORD 16 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-22117-113031
+job_title                      | PROJECT MANAGER
+full_time_position             | Y
+employer_name                  | Software People Inc
+secondary_entity_business_name | Telecommuter to Mississippi Department of Education
+employer_poc_email             | sandeep.jain@softwarepeople.us
+employer_poc_phone             | 16318630299
+employer_poc_first_name        | SANDEEP
+employer_poc_last_name         | JAIN
+worksite_address1              | 1315 Oaktree Road
+worksite_address2              | Apt B
+worksite_city                  | Iselin
+worksite_county                | MIDDLESEX
+lawfirm_name_business_name     | JOHN J. BOUDIA & ASSOCIATES PLC
+employer_address1              | 738 Smithtown Bypass
+employer_address2              | Suite 102
+employer_city                  | Smithtown
+employer_state                 | NY
+employer_postal_code           | 11780
+begin_date                     | 2022-05-02
+end_date                       | 2025-05-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 1
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1199.09
+h_1b_dependent                 | No
+-[ RECORD 17 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-22117-112317
+job_title                      | DIRECTOR- PROJECT MANAGEMENT OFFICE
+full_time_position             | Y
+employer_name                  | Software People Inc
+secondary_entity_business_name | Telecommuter to Mississippi Department of Education
+employer_poc_email             | sandeep.jain@softwarepeople.us
+employer_poc_phone             | 16318630299
+employer_poc_first_name        | SANDEEP
+employer_poc_last_name         | JAIN
+worksite_address1              | 1315 Oaktree Road
+worksite_address2              | Apt B
+worksite_city                  | Iselin
+worksite_county                | MIDDLESEX
+lawfirm_name_business_name     | JOHN J. BOUDIA & ASSOCIATES PLC
+employer_address1              | 738 Smithtown Bypass
+employer_address2              | Suite 102
+employer_city                  | Smithtown
+employer_state                 | NY
+employer_postal_code           | 11780
+begin_date                     | 2022-05-02
+end_date                       | 2025-05-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 1
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1199.09
+h_1b_dependent                 | No
+-[ RECORD 18 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-24115-919994
+job_title                      | Qlik Systems Engineer
+full_time_position             | Y
+employer_name                  | SWANKTEK INC
+secondary_entity_business_name | Telecommuter to State of Maryland, Department of Human Services
+employer_poc_email             | RAHUL@SWANKTEK.COM
+employer_poc_phone             | 19735428326
+employer_poc_first_name        | RAHUL
+employer_poc_last_name         | KUNDAVARAM
+worksite_address1              | 23 Estate Rd.
+worksite_address2              | 
+worksite_city                  | Hillsborough Township
+worksite_county                | SOMERSET
+lawfirm_name_business_name     | JOHN J. BOUDIA & ASSOCIATES PLC
+employer_address1              | 510 FRANKLIN AVENUE
+employer_address2              | SUITE 6,7 & 8
+employer_city                  | NUTLEY
+employer_state                 | NJ
+employer_postal_code           | 07110
+begin_date                     | 2024-05-06
+end_date                       | 2027-05-05
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 19 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-23180-155157
+job_title                      | SR. BUSINESS SYSTEMS ANALYST
+full_time_position             | Y
+employer_name                  | GO8 IT INC
+secondary_entity_business_name | The City of New York Department of Housing Preservation and Development (REMOTE)
+employer_poc_email             | HR@GO8IT.COM
+employer_poc_phone             | 16098531082
+employer_poc_first_name        | ARTHI
+employer_poc_last_name         | KOMANDUR JANARDHANAN
+worksite_address1              | 342 SIP AVENUE
+worksite_address2              | FLOOR - 1
+worksite_city                  | JERSEY CITY
+worksite_county                | HUDSON
+lawfirm_name_business_name     | 
+employer_address1              | 8000 CORPORATE CENTER DRIVE
+employer_address2              | SUITE 104
+employer_city                  | CHARLOTTE
+employer_state                 | NC
+employer_postal_code           | 28226
+begin_date                     | 2023-06-30
+end_date                       | 2024-06-13
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 20 ]-----------------+---------------------------------------------------------------------------------
+case_number                    | I-200-23353-578966
+job_title                      | SR. BUSINESS SYSTEMS ANALYST
+full_time_position             | Y
+employer_name                  | GO8 IT INC
+secondary_entity_business_name | The City of New York Department of Housing Preservation and Development (REMOTE)
+employer_poc_email             | HR@GO8IT.COM
+employer_poc_phone             | 16098531082
+employer_poc_first_name        | ARTHI
+employer_poc_last_name         | KOMANDUR JANARDHANAN
+worksite_address1              | 930 AVENUE C
+worksite_address2              | APARTMENT - 4C
+worksite_city                  | BAYONNE
+worksite_county                | HUDSON
+lawfirm_name_business_name     | 
+employer_address1              | 8000 CORPORATE CENTER DRIVE
+employer_address2              | SUITE 104
+employer_city                  | CHARLOTTE
+employer_state                 | NC
+employer_postal_code           | 28226
+begin_date                     | 2024-06-13
+end_date                       | 2027-06-12
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+

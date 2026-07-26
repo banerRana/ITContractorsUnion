@@ -1,0 +1,63 @@
+-[ RECORD 1 ]------------------+---------------------------------------------------------------
+case_number                    | I-200-22138-185077
+job_title                      | SALESFORCE DEVELOPER
+full_time_position             | Y
+employer_name                  | ENIAC SYSTEMS INC
+secondary_entity_business_name | DC DEPARTMENT  OF  HEALTH CITO OFFICE (WORK FROM  HOME HYBRID)
+employer_poc_email             | HR@ENIACSYS.COM
+employer_poc_phone             | 18482051358
+employer_poc_first_name        | SAKUNTALA DEVI
+employer_poc_last_name         | SONTI
+worksite_address1              | 905 Pennsylvania Ave
+worksite_address2              | 
+worksite_city                  | New Castle
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | 
+employer_address1              | 1 ETHEL ROAD
+employer_address2              | SUITE 102 D-2
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 2022-05-31
+end_date                       | 2025-05-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+soc_code                       | 15-1132.00
+h_1b_dependent                 | Yes
+-[ RECORD 2 ]------------------+---------------------------------------------------------------
+case_number                    | I-200-24022-656259
+job_title                      | SALESFORCE DEVELOPER
+full_time_position             | Y
+employer_name                  | ENIAC SYSTEMS INC
+secondary_entity_business_name | DC DEPARTMENT OF HEALTH (CITO) (WORK FROM HOME)
+employer_poc_email             | HR@ENIACSYS.COM
+employer_poc_phone             | 18482051358
+employer_poc_first_name        | LALITHA
+employer_poc_last_name         | SUBRAMANIAN
+worksite_address1              | 23 GOLF VIEW DR
+worksite_address2              | APT D4
+worksite_city                  | NEWARK
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | 
+employer_address1              | 1 ETHEL ROAD
+employer_address2              | SUITE 102 D-2
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 2024-01-30
+end_date                       | 2025-06-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+

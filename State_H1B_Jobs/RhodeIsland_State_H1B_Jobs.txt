@@ -1,4 +1,4 @@
--[ RECORD 1 ]------------------+-------------------------------------------------------------
+-[ RECORD 1 ]------------------+------------------------------------------------------------
 case_number                    | I-200-25315-398894
 job_title                      | Senior Programmer
 employer_name                  | Hire IT people Inc
@@ -31,7 +31,7 @@ amended_petition               | 0
 employer_name                  | Hire IT people Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 2 ]------------------+-------------------------------------------------------------
+-[ RECORD 2 ]------------------+------------------------------------------------------------
 case_number                    | I-200-25352-494257
 job_title                      | Sr. Software Engineer
 employer_name                  | Kloudhive LLC
@@ -64,7 +64,7 @@ amended_petition               | 0
 employer_name                  | Kloudhive LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 3 ]------------------+-------------------------------------------------------------
+-[ RECORD 3 ]------------------+------------------------------------------------------------
 case_number                    | I-200-25317-405891
 job_title                      | Senior SQL Server DBA
 employer_name                  | Galax-Esystems Corporation
@@ -97,7 +97,7 @@ amended_petition               | 0
 employer_name                  | Galax-Esystems Corporation
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 4 ]------------------+-------------------------------------------------------------
+-[ RECORD 4 ]------------------+------------------------------------------------------------
 case_number                    | I-200-25318-409744
 job_title                      | Senior SQL Server DBA
 employer_name                  | Galax-Esystems Corporation
@@ -130,7 +130,7 @@ amended_petition               | 0
 employer_name                  | Galax-Esystems Corporation
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 5 ]------------------+-------------------------------------------------------------
+-[ RECORD 5 ]------------------+------------------------------------------------------------
 case_number                    | I-200-25206-201625
 job_title                      | Front End Developer
 employer_name                  | SolutionSoft Inc
@@ -163,7 +163,7 @@ amended_petition               | 0
 employer_name                  | SolutionSoft Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 6 ]------------------+-------------------------------------------------------------
+-[ RECORD 6 ]------------------+------------------------------------------------------------
 case_number                    | I-200-25237-263468
 job_title                      | Business Systems Analyst
 employer_name                  | Altair Technologies Inc
@@ -196,7 +196,7 @@ amended_petition               | 0
 employer_name                  | Altair Technologies Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+-------------------------------------------------------------
+-[ RECORD 7 ]------------------+------------------------------------------------------------
 case_number                    | I-200-25105-867606
 job_title                      | Health Economics Specialist
 employer_name                  | State of Rhode Island
@@ -229,7 +229,7 @@ amended_petition               | 0
 employer_name                  | State of Rhode Island
 soc_code                       | 19-3011
 h_1b_dependent                 | No
--[ RECORD 8 ]------------------+-------------------------------------------------------------
+-[ RECORD 8 ]------------------+------------------------------------------------------------
 case_number                    | I-200-25115-903958
 job_title                      | Packaged App Development Manager
 employer_name                  | Accenture LLP
@@ -262,7 +262,7 @@ amended_petition               | 1
 employer_name                  | Accenture LLP
 soc_code                       | 15-1211
 h_1b_dependent                 | No
--[ RECORD 9 ]------------------+-------------------------------------------------------------
+-[ RECORD 9 ]------------------+------------------------------------------------------------
 case_number                    | I-200-25108-878832
 job_title                      | Senior Software Data Engineer
 employer_name                  | Source Cloud Technologies Inc
@@ -295,7 +295,7 @@ amended_petition               | 0
 employer_name                  | Source Cloud Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+-------------------------------------------------------------
+-[ RECORD 10 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25100-853368
 job_title                      | IAM Analyst
 employer_name                  | Cloudbridge Solutions Inc
@@ -328,7 +328,7 @@ amended_petition               | 0
 employer_name                  | Cloudbridge Solutions Inc
 soc_code                       | 15-1212
 h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+-------------------------------------------------------------
+-[ RECORD 11 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24340-521896
 job_title                      | Systems Analyst
 employer_name                  | Stonewall Solutions Inc
@@ -361,7 +361,7 @@ amended_petition               | 0
 employer_name                  | Stonewall Solutions Inc
 soc_code                       | 15-1253
 h_1b_dependent                 | No
--[ RECORD 12 ]-----------------+-------------------------------------------------------------
+-[ RECORD 12 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24361-571552
 job_title                      | Senior Public Health Epidemiologist
 employer_name                  | State of Rhode Island
@@ -394,7 +394,7 @@ amended_petition               | 0
 employer_name                  | State of Rhode Island
 soc_code                       | 19-1041
 h_1b_dependent                 | No
--[ RECORD 13 ]-----------------+-------------------------------------------------------------
+-[ RECORD 13 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24310-454425
 job_title                      | Senior Public Health Epidemiologist
 employer_name                  | State of Rhode Island
@@ -427,7 +427,7 @@ amended_petition               | 0
 employer_name                  | State of Rhode Island
 soc_code                       | 19-1041
 h_1b_dependent                 | No
--[ RECORD 14 ]-----------------+-------------------------------------------------------------
+-[ RECORD 14 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24153-060066
 job_title                      | IT Analyst
 employer_name                  | VSQUARE INFOTECH INC
@@ -460,7 +460,7 @@ amended_petition               | 0
 employer_name                  | VSQUARE INFOTECH INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 15 ]-----------------+-------------------------------------------------------------
+-[ RECORD 15 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24267-355774
 job_title                      | Packaged App Development Manager
 employer_name                  | Accenture LLP
@@ -493,7 +493,7 @@ amended_petition               | 1
 employer_name                  | Accenture LLP
 soc_code                       | 15-1211
 h_1b_dependent                 | No
--[ RECORD 16 ]-----------------+-------------------------------------------------------------
+-[ RECORD 16 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24255-331716
 job_title                      | Software Engineer
 employer_name                  | NobleSoft Solutions Inc
@@ -526,7 +526,7 @@ amended_petition               | 1
 employer_name                  | NobleSoft Solutions Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+-------------------------------------------------------------
+-[ RECORD 17 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24092-845372
 job_title                      | Sr Business Analyst
 employer_name                  | DPR SOLUTIONS INC
@@ -559,7 +559,7 @@ amended_petition               | 0
 employer_name                  | DPR SOLUTIONS INC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 18 ]-----------------+-------------------------------------------------------------
+-[ RECORD 18 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24100-869276
 job_title                      | Sr. Systems Analyst
 employer_name                  | ORASYS LLC
@@ -592,7 +592,7 @@ amended_petition               | 0
 employer_name                  | ORASYS LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 19 ]-----------------+-------------------------------------------------------------
+-[ RECORD 19 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24131-980723
 job_title                      | Dynamic 365 Developer
 employer_name                  | Syscons Corporation
@@ -625,7 +625,7 @@ amended_petition               | 0
 employer_name                  | Syscons Corporation
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 20 ]-----------------+-------------------------------------------------------------
+-[ RECORD 20 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24143-027502
 job_title                      | Front End Developer
 employer_name                  | SolutionSoft Inc
@@ -658,7 +658,7 @@ amended_petition               | 1
 employer_name                  | SolutionSoft Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+-------------------------------------------------------------
+-[ RECORD 21 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24129-971204
 job_title                      | Software QA Engineer
 employer_name                  | RICEFW Technologies Inc
@@ -691,7 +691,7 @@ amended_petition               | 1
 employer_name                  | RICEFW Technologies Inc
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+-------------------------------------------------------------
+-[ RECORD 22 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24052-735581
 job_title                      | Program Manager II
 employer_name                  | Information Resource Group Inc
@@ -724,40 +724,7 @@ amended_petition               | 0
 employer_name                  | Information Resource Group Inc
 soc_code                       | 11-3021.00
 h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24047-725259
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | MAHAUGHA LLC
-secondary_entity_business_name | Rhode Island Department of Administration
-employer_phone                 | 16092354355
-employer_poc_first_name        | ARCHANA
-employer_poc_last_name         | CHOPADA
-employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
-employer_poc_phone             | 16092354355
-employer_poc_phone_ext         | 
-worksite_address1              | 1 CAPITOL HILL
-worksite_address2              | 
-worksite_city                  | PROVIDENCE
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 2650 ROUTE 130
-employer_address2              | SUITE K
-employer_city                  | CRANBURY
-employer_state                 | NJ
-employer_postal_code           | 08512
-begin_date                     | 2024-02-26
-end_date                       | 2027-02-25
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | MAHAUGHA LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+-------------------------------------------------------------
+-[ RECORD 23 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24047-726360
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | MAHAUGHA LLC
@@ -790,7 +757,40 @@ amended_petition               | 1
 employer_name                  | MAHAUGHA LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 25 ]-----------------+-------------------------------------------------------------
+-[ RECORD 24 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-24047-725259
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | MAHAUGHA LLC
+secondary_entity_business_name | Rhode Island Department of Administration
+employer_phone                 | 16092354355
+employer_poc_first_name        | ARCHANA
+employer_poc_last_name         | CHOPADA
+employer_poc_email             | IMMIGRATION@MAHAUGHA.COM
+employer_poc_phone             | 16092354355
+employer_poc_phone_ext         | 
+worksite_address1              | 1 CAPITOL HILL
+worksite_address2              | 
+worksite_city                  | PROVIDENCE
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2650 ROUTE 130
+employer_address2              | SUITE K
+employer_city                  | CRANBURY
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 2024-02-26
+end_date                       | 2027-02-25
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | MAHAUGHA LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 25 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-24015-640556
 job_title                      | Business Analyst
 employer_name                  | Devansee Analytics LLC
@@ -823,7 +823,7 @@ amended_petition               | 0
 employer_name                  | Devansee Analytics LLC
 soc_code                       | 13-1111.00
 h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+-------------------------------------------------------------
+-[ RECORD 26 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-23340-547793
 job_title                      | Software Engineer
 employer_name                  | COOLSOFT LLC
@@ -856,7 +856,7 @@ amended_petition               | 0
 employer_name                  | COOLSOFT LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+-------------------------------------------------------------
+-[ RECORD 27 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-23327-521664
 job_title                      | Front End Developer
 employer_name                  | SolutionSoft Inc
@@ -889,7 +889,7 @@ amended_petition               | 1
 employer_name                  | SolutionSoft Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 28 ]-----------------+-------------------------------------------------------------
+-[ RECORD 28 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-23272-400497
 job_title                      | Software Engineer
 employer_name                  | VALUEPRO INC
@@ -922,40 +922,7 @@ amended_petition               | 1
 employer_name                  | VALUEPRO INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 29 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23153-075137
-job_title                      | Project Manager
-employer_name                  | V-Soft Consulting Group INC
-secondary_entity_business_name | State of RI (DHS- Department of Human Services)
-employer_phone                 | 15024258425
-employer_poc_first_name        | TANYA
-employer_poc_last_name         | BLOCKER
-employer_poc_email             | tanya@vsoftconsulting.com
-employer_poc_phone             | 15024258425
-employer_poc_phone_ext         | 
-worksite_address1              | 25 Howard Ave, Louis Pasteur Building 57
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 101 Bullitt Lane
-employer_address2              | Suite 205
-employer_city                  | Louisville
-employer_state                 | KY
-employer_postal_code           | 40222
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | V-Soft Consulting Group INC
-soc_code                       | 15-1299.09
-h_1b_dependent                 | Yes
--[ RECORD 30 ]-----------------+-------------------------------------------------------------
+-[ RECORD 29 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-23163-102105
 job_title                      | Senior QA Analyst
 employer_name                  | SAAP Tech Solutions LLC
@@ -988,7 +955,40 @@ amended_petition               | 0
 employer_name                  | SAAP Tech Solutions LLC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+-------------------------------------------------------------
+-[ RECORD 30 ]-----------------+------------------------------------------------------------
+case_number                    | I-200-23153-075137
+job_title                      | Project Manager
+employer_name                  | V-Soft Consulting Group INC
+secondary_entity_business_name | State of RI (DHS- Department of Human Services)
+employer_phone                 | 15024258425
+employer_poc_first_name        | TANYA
+employer_poc_last_name         | BLOCKER
+employer_poc_email             | tanya@vsoftconsulting.com
+employer_poc_phone             | 15024258425
+employer_poc_phone_ext         | 
+worksite_address1              | 25 Howard Ave, Louis Pasteur Building 57
+worksite_address2              | 
+worksite_city                  | Cranston
+worksite_county                | PROVIDENCE CITY
+lawfirm_name_business_name     | 
+employer_address1              | 101 Bullitt Lane
+employer_address2              | Suite 205
+employer_city                  | Louisville
+employer_state                 | KY
+employer_postal_code           | 40222
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | V-Soft Consulting Group INC
+soc_code                       | 15-1299.09
+h_1b_dependent                 | Yes
+-[ RECORD 31 ]-----------------+------------------------------------------------------------
 case_number                    | I-200-25218-224088
 job_title                      | Full Stack Developer
 employer_name                  | Syscons Corporation
@@ -1019,138 +1019,6 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Syscons Corporation
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 32 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23097-915392
-job_title                      | Software Applications Developer
-employer_name                  | Webject Systems Inc
-secondary_entity_business_name | State of Rhode Island, Department of Motor Vehicles (RI DMV)
-employer_phone                 | 15082796562
-employer_poc_first_name        | Madhu
-employer_poc_last_name         | Rao
-employer_poc_email             | madhu@webject.com
-employer_poc_phone             | 15082796562
-employer_poc_phone_ext         | 
-worksite_address1              | 600 New London Ave
-worksite_address2              | 
-worksite_city                  | Cranston
-worksite_county                | CRANSTON CITY
-lawfirm_name_business_name     | 
-employer_address1              | 25 Central Square
-employer_address2              | Suite 2
-employer_city                  | Bridgewater
-employer_state                 | MA
-employer_postal_code           | 02324
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Webject Systems Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 33 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23109-948002
-job_title                      | Senior Programmer
-employer_name                  | Hire IT people Inc
-secondary_entity_business_name | State of Rhode Island DOA (Department of Administration)
-employer_phone                 | 12025881841
-employer_poc_first_name        | Dan
-employer_poc_last_name         | Nandan
-employer_poc_email             | dan@hireitpeople.com
-employer_poc_phone             | 12025881841
-employer_poc_phone_ext         | 
-worksite_address1              | 1 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 15 Corporate Pl S
-employer_address2              | STE 145
-employer_city                  | Piscataway
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2023-05-01
-end_date                       | 2026-04-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Hire IT people Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 34 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23107-939579
-job_title                      | Senior Programmer
-employer_name                  | Hire IT people Inc
-secondary_entity_business_name | State of Rhode Island DOA (Department of Administration)
-employer_phone                 | 12025881841
-employer_poc_first_name        | Dan
-employer_poc_last_name         | Nandan
-employer_poc_email             | dan@hireitpeople.com
-employer_poc_phone             | 12025881841
-employer_poc_phone_ext         | 
-worksite_address1              | 1 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | 
-employer_address1              | 15 Corporate Pl S
-employer_address2              | STE 145
-employer_city                  | Piscataway
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2023-05-01
-end_date                       | 2026-04-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Hire IT people Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 35 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23069-839381
-job_title                      | Sr Software Developer
-employer_name                  | Kloudhive LLC
-secondary_entity_business_name | State of Rhode Island
-employer_phone                 | 19144494483
-employer_poc_first_name        | Poorna
-employer_poc_last_name         | Chanubala
-employer_poc_email             | pchanubala@kloudhive.com
-employer_poc_phone             | 17139270457
-employer_poc_phone_ext         | 
-worksite_address1              | 1 Capitol Hill
-worksite_address2              | 
-worksite_city                  | Providence
-worksite_county                | PROVIDENCE CITY
-lawfirm_name_business_name     | HALLETT MCCANN LAW GROUP LTD.
-employer_address1              | 1 Barney Road
-employer_address2              | Suite 248
-employer_city                  | Clifton Park
-employer_state                 | NY
-employer_postal_code           | 12065
-begin_date                     | 2023-03-20
-end_date                       | 2026-03-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Kloudhive LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 

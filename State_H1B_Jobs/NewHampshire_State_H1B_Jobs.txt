@@ -164,39 +164,6 @@ employer_name                  | State of New Hampshire, Department of Administr
 soc_code                       | 15-1299.01
 h_1b_dependent                 | No
 -[ RECORD 6 ]------------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25147-020692
-job_title                      | Planning Business Systems Manager
-employer_name                  | State of New Hampshire, Department of Safety
-secondary_entity_business_name | 
-employer_phone                 | 16032713088
-employer_poc_first_name        | Amy
-employer_poc_last_name         | Newbury
-employer_poc_email             | Amy.L.Newbury@dos.nh.gov
-employer_poc_phone             | 16032238020
-employer_poc_phone_ext         | 
-worksite_address1              | 7 Hazen Drive
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | Fisher & Phillips LLP
-employer_address1              | 33 Hazen Drive
-employer_address2              | 
-employer_city                  | Concord
-employer_state                 | NH
-employer_postal_code           | 03305
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | State of New Hampshire, Department of Safety
-soc_code                       | 17-1021
-h_1b_dependent                 | No
--[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25119-915879
 job_title                      | Data and Digital Analyst
 employer_name                  | State of New Hampshire, New Hampshire Lottery Commission
@@ -229,7 +196,7 @@ amended_petition               | 0
 employer_name                  | State of New Hampshire, New Hampshire Lottery Commission
 soc_code                       | 15-2031
 h_1b_dependent                 | No
--[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25147-020471
 job_title                      | COMP & INFORMATION ANALYST 4
 employer_name                  | State of New Hampshire, Department of Administrative Services,
@@ -262,7 +229,7 @@ amended_petition               | 0
 employer_name                  | State of New Hampshire, Department of Administrative Services,
 soc_code                       | 15-1299.01
 h_1b_dependent                 | No
--[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25147-020586
 job_title                      | COMP & INFORMATION ANALYST 4
 employer_name                  | State of New Hampshire, Department of Administrative Services,
@@ -294,6 +261,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | State of New Hampshire, Department of Administrative Services,
 soc_code                       | 15-1299.01
+h_1b_dependent                 | No
+-[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25147-020692
+job_title                      | Planning Business Systems Manager
+employer_name                  | State of New Hampshire, Department of Safety
+secondary_entity_business_name | 
+employer_phone                 | 16032713088
+employer_poc_first_name        | Amy
+employer_poc_last_name         | Newbury
+employer_poc_email             | Amy.L.Newbury@dos.nh.gov
+employer_poc_phone             | 16032238020
+employer_poc_phone_ext         | 
+worksite_address1              | 7 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 33 Hazen Drive
+employer_address2              | 
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03305
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of New Hampshire, Department of Safety
+soc_code                       | 17-1021
 h_1b_dependent                 | No
 -[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25154-044593
@@ -656,105 +656,6 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
 employer_name                  | Primesoft Technologies Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22361-661861
-job_title                      | Systems Analyst
-employer_name                  | Coforge Limited
-secondary_entity_business_name | State of New Hampshire, Department of Information Technology
-employer_phone                 | 17702906191
-employer_poc_first_name        | Luka
-employer_poc_last_name         | Poulton
-employer_poc_email             | luka.poulton@coforge.com
-employer_poc_phone             | 17702906191
-employer_poc_phone_ext         | 
-worksite_address1              | 33 Hazen Drive
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | Greenberg Traurig LLP
-employer_address1              | 502 Carnegie Center Drive
-employer_address2              | Suite 301
-employer_city                  | Princeton
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-05-25
-end_date                       | 2026-05-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Coforge Limited
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23108-943708
-job_title                      | Systems Analyst
-employer_name                  | Coforge DPA NA Inc
-secondary_entity_business_name | New Hampshire Department of Information Technology
-employer_phone                 | 17702906191
-employer_poc_first_name        | Luka
-employer_poc_last_name         | Poulton
-employer_poc_email             | luka.poulton@coforge.com
-employer_poc_phone             | 17702906191
-employer_poc_phone_ext         | 
-worksite_address1              | 33 Hazen Dr
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | Greenberg Traurig LLP
-employer_address1              | 502 Carnegie Center Drive
-employer_address2              | Suite 301
-employer_city                  | Princeton
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-04-25
-end_date                       | 2026-04-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Coforge DPA NA Inc
-soc_code                       | 15-1211.00
-h_1b_dependent                 | No
--[ RECORD 23 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23066-830487
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | CONCH TECHNOLOGIES INC
-secondary_entity_business_name | State of New Hampshire
-employer_phone                 | 19017546870
-employer_poc_first_name        | MADHU
-employer_poc_last_name         | MAREDU
-employer_poc_email             | MAREDU@CONCHTECH.COM
-employer_poc_phone             | 19017546870
-employer_poc_phone_ext         | 
-worksite_address1              | 64 South Street
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | 
-employer_address1              | 6750 POPLAR AVE
-employer_address2              | SUITE 711
-employer_city                  | MEMPHIS
-employer_state                 | TN
-employer_postal_code           | 38138
-begin_date                     | 2023-03-13
-end_date                       | 2026-03-12
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | CONCH TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 

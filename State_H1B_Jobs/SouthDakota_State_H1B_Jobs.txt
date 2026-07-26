@@ -296,7 +296,7 @@ employer_name                  | Moxie IT Solutions Inc
 soc_code                       | 15-2051
 h_1b_dependent                 | Yes
 -[ RECORD 10 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25156-056383
+case_number                    | I-200-25156-056325
 job_title                      | Data Analyst
 employer_name                  | Moxie IT Solutions Inc
 secondary_entity_business_name | North Dakota Department of Health
@@ -329,7 +329,7 @@ employer_name                  | Moxie IT Solutions Inc
 soc_code                       | 15-2051
 h_1b_dependent                 | Yes
 -[ RECORD 11 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25156-056325
+case_number                    | I-200-25156-056383
 job_title                      | Data Analyst
 employer_name                  | Moxie IT Solutions Inc
 secondary_entity_business_name | North Dakota Department of Health
@@ -395,39 +395,6 @@ employer_name                  | South Dakota State University
 soc_code                       | 25-1041
 h_1b_dependent                 | No
 -[ RECORD 13 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25168-103451
-job_title                      | ASSISTANT PROFESSOR - ARCHITECTURE
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | SCHOOL OF DESIGN
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2025-08-18
-end_date                       | 2028-08-17
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1031
-h_1b_dependent                 | No
--[ RECORD 14 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-25114-901786
 job_title                      | ASSISTANT PROFESSOR - STATISTICS
 employer_name                  | South Dakota State University
@@ -460,9 +427,9 @@ amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1022
 h_1b_dependent                 | No
--[ RECORD 15 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25050-706854
-job_title                      | ASSISTANT PROFESSOR - MARKETING
+-[ RECORD 14 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-25168-103451
+job_title                      | ASSISTANT PROFESSOR - ARCHITECTURE
 employer_name                  | South Dakota State University
 secondary_entity_business_name | 
 employer_phone                 | 16056885948
@@ -472,7 +439,7 @@ employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
 employer_poc_phone             | 16056886050
 employer_poc_phone_ext         | 
 worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | NESS SCHOOL OF MANAGEMENT AND ECONOMICS
+worksite_address2              | SCHOOL OF DESIGN
 worksite_city                  | BROOKINGS
 worksite_county                | BROOKINGS
 lawfirm_name_business_name     | 
@@ -481,19 +448,19 @@ employer_address2              |
 employer_city                  | Brookings
 employer_state                 | SD
 employer_postal_code           | 57007
-begin_date                     | 2025-08-15
-end_date                       | 2028-08-14
+begin_date                     | 2025-08-18
+end_date                       | 2028-08-17
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 25-1011
+soc_code                       | 25-1031
 h_1b_dependent                 | No
--[ RECORD 16 ]-----------------+-------------------------------------------------------------
+-[ RECORD 15 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-25050-706896
 job_title                      | ASSISTANT PROFESSOR - REPRODUCTIVE PHYSIOLOGY
 employer_name                  | South Dakota State University
@@ -525,6 +492,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1041
+h_1b_dependent                 | No
+-[ RECORD 16 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-25050-706854
+job_title                      | ASSISTANT PROFESSOR - MARKETING
+employer_name                  | South Dakota State University
+secondary_entity_business_name | 
+employer_phone                 | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
+employer_poc_phone_ext         | 
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | NESS SCHOOL OF MANAGEMENT AND ECONOMICS
+worksite_city                  | BROOKINGS
+worksite_county                | BROOKINGS
+lawfirm_name_business_name     | 
+employer_address1              | Morrill Hall 315, Box 2201
+employer_address2              | 
+employer_city                  | Brookings
+employer_state                 | SD
+employer_postal_code           | 57007
+begin_date                     | 2025-08-15
+end_date                       | 2028-08-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Dakota State University
+soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 17 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-25223-233520
@@ -725,39 +725,6 @@ employer_name                  | BMR INFOTEK INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 23 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-25006-596932
-job_title                      | ASSISTANT PROFESSOR - PLANT PATHOLOGY
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | AGRONOMY, HORTICULTURE, AND PLANT SCIENCE DEPARTMENT
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2025-05-22
-end_date                       | 2028-05-21
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1041
-h_1b_dependent                 | No
--[ RECORD 24 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24326-490938
 job_title                      | ASSISTANT PROFESSOR - PRECISION AGRICULTURE AI ENGINEERING
 employer_name                  | South Dakota State University
@@ -790,7 +757,7 @@ amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1032
 h_1b_dependent                 | No
--[ RECORD 25 ]-----------------+-------------------------------------------------------------
+-[ RECORD 24 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24327-494028
 job_title                      | Assistant Professor of Management
 employer_name                  | South Dakota State University
@@ -823,7 +790,7 @@ amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1011
 h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+-------------------------------------------------------------
+-[ RECORD 25 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24327-494071
 job_title                      | Assistant Professor of Applied Economics
 employer_name                  | South Dakota State University
@@ -856,7 +823,7 @@ amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 19-3011.00
 h_1b_dependent                 | No
--[ RECORD 27 ]-----------------+-------------------------------------------------------------
+-[ RECORD 26 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24327-494071
 job_title                      | Assistant Professor of Applied Economics
 employer_name                  | South Dakota State University
@@ -889,20 +856,20 @@ amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 19-3011
 h_1b_dependent                 | No
--[ RECORD 28 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24361-571927
-job_title                      | Assistant Professor/Land Valuation Extension Specialist
+-[ RECORD 27 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-25006-596932
+job_title                      | ASSISTANT PROFESSOR - PLANT PATHOLOGY
 employer_name                  | South Dakota State University
 secondary_entity_business_name | 
 employer_phone                 | 16056885948
-employer_poc_first_name        | COLLEEN
-employer_poc_last_name         | BUTLER
-employer_poc_email             | COLLEEN.BUTLER@SDSTATE.EDU
-employer_poc_phone             | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
 employer_poc_phone_ext         | 
-worksite_address1              | South Dakota State University
-worksite_address2              | Department of Management and Economics
-worksite_city                  | Brookings
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | AGRONOMY, HORTICULTURE, AND PLANT SCIENCE DEPARTMENT
+worksite_city                  | BROOKINGS
 worksite_county                | BROOKINGS
 lawfirm_name_business_name     | 
 employer_address1              | Morrill Hall 315, Box 2201
@@ -913,16 +880,16 @@ employer_postal_code           | 57007
 begin_date                     | 2025-05-22
 end_date                       | 2028-05-21
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 19-3011
+soc_code                       | 25-1041
 h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+-------------------------------------------------------------
+-[ RECORD 28 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-25055-718755
 job_title                      | ASSISTANT PROFESSOR - CROP PHYSIOLOGY
 employer_name                  | South Dakota State University
@@ -954,6 +921,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1041
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24361-571927
+job_title                      | Assistant Professor/Land Valuation Extension Specialist
+employer_name                  | South Dakota State University
+secondary_entity_business_name | 
+employer_phone                 | 16056885948
+employer_poc_first_name        | COLLEEN
+employer_poc_last_name         | BUTLER
+employer_poc_email             | COLLEEN.BUTLER@SDSTATE.EDU
+employer_poc_phone             | 16056885948
+employer_poc_phone_ext         | 
+worksite_address1              | South Dakota State University
+worksite_address2              | Department of Management and Economics
+worksite_city                  | Brookings
+worksite_county                | BROOKINGS
+lawfirm_name_business_name     | 
+employer_address1              | Morrill Hall 315, Box 2201
+employer_address2              | 
+employer_city                  | Brookings
+employer_state                 | SD
+employer_postal_code           | 57007
+begin_date                     | 2025-05-22
+end_date                       | 2028-05-21
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Dakota State University
+soc_code                       | 19-3011
 h_1b_dependent                 | No
 -[ RECORD 30 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24309-450841
@@ -1055,39 +1055,6 @@ employer_name                  | South Dakota State University
 soc_code                       | 25-1041.00
 h_1b_dependent                 | No
 -[ RECORD 33 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24283-395309
-job_title                      | ASSISTANT PROFESSOR - CONTROLLED ENVIRONMENT AGRIGULTURE
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | DEPARTMENT OF AGRONOMY, HORTICULTURE & PLANT SCIENCE
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2025-01-06
-end_date                       | 2028-01-05
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1041
-h_1b_dependent                 | No
--[ RECORD 34 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24250-321331
 job_title                      | ASSISTANT PROFESSOR - DAIRY PRODUCTION
 employer_name                  | South Dakota State University
@@ -1119,6 +1086,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1041.00
+h_1b_dependent                 | No
+-[ RECORD 34 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24283-395309
+job_title                      | ASSISTANT PROFESSOR - CONTROLLED ENVIRONMENT AGRIGULTURE
+employer_name                  | South Dakota State University
+secondary_entity_business_name | 
+employer_phone                 | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
+employer_poc_phone_ext         | 
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | DEPARTMENT OF AGRONOMY, HORTICULTURE & PLANT SCIENCE
+worksite_city                  | BROOKINGS
+worksite_county                | BROOKINGS
+lawfirm_name_business_name     | 
+employer_address1              | Morrill Hall 315, Box 2201
+employer_address2              | 
+employer_city                  | Brookings
+employer_state                 | SD
+employer_postal_code           | 57007
+begin_date                     | 2025-01-06
+end_date                       | 2028-01-05
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | South Dakota State University
+soc_code                       | 25-1041
 h_1b_dependent                 | No
 -[ RECORD 35 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24234-282834
@@ -1220,39 +1220,6 @@ employer_name                  | South Dakota State University
 soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 38 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24164-100950
-job_title                      | ASSISTANT PROFESSOR - VETERINARY MED & DIAGNOSTIC PATHOLOGY
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | ANIMAL DISEASE RESEARCH AND DIAGNOSTIC LABORATORY
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2024-10-22
-end_date                       | 2027-10-21
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1071.00
-h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24247-309387
 job_title                      | ASSISTANT PROFESSOR - CONSTRUCTION MANAGEMENT
 employer_name                  | South Dakota State University
@@ -1284,6 +1251,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 39 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24164-100950
+job_title                      | ASSISTANT PROFESSOR - VETERINARY MED & DIAGNOSTIC PATHOLOGY
+employer_name                  | South Dakota State University
+secondary_entity_business_name | 
+employer_phone                 | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
+employer_poc_phone_ext         | 
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | ANIMAL DISEASE RESEARCH AND DIAGNOSTIC LABORATORY
+worksite_city                  | BROOKINGS
+worksite_county                | BROOKINGS
+lawfirm_name_business_name     | 
+employer_address1              | Morrill Hall 315, Box 2201
+employer_address2              | 
+employer_city                  | Brookings
+employer_state                 | SD
+employer_postal_code           | 57007
+begin_date                     | 2024-10-22
+end_date                       | 2027-10-21
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Dakota State University
+soc_code                       | 25-1071.00
 h_1b_dependent                 | No
 -[ RECORD 40 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24248-314717
@@ -1418,72 +1418,6 @@ employer_name                  | South Dakota State University
 soc_code                       | 19-2099.01
 h_1b_dependent                 | No
 -[ RECORD 44 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24122-947176
-job_title                      | Assistant Professor of Architecture
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | COLLEEN
-employer_poc_last_name         | BUTLER
-employer_poc_email             | COLLEEN.BUTLER@SDSTATE.EDU
-employer_poc_phone             | 16056885948
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | SCHOOL OF DESIGN
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2024-08-19
-end_date                       | 2027-08-18
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1031.00
-h_1b_dependent                 | No
--[ RECORD 45 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24155-062222
-job_title                      | ASSISTANT PROFESSOR - ELEMENTARY EDUCATION IN LITERACY
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | SCHOOL OF EDUCATION, COUNSELING & HUMAN DEVELOPMENT
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2024-08-19
-end_date                       | 2027-08-18
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1081.00
-h_1b_dependent                 | No
--[ RECORD 46 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24079-812019
 job_title                      | ASSISTANT PROFESSOR - ECONOMICS
 employer_name                  | South Dakota State University
@@ -1516,19 +1450,19 @@ amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1063.00
 h_1b_dependent                 | No
--[ RECORD 47 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24051-732816
-job_title                      | ASSISTANT PROFESSOR - ACCOUNTING
+-[ RECORD 45 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24122-947176
+job_title                      | Assistant Professor of Architecture
 employer_name                  | South Dakota State University
 secondary_entity_business_name | 
 employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
+employer_poc_first_name        | COLLEEN
+employer_poc_last_name         | BUTLER
+employer_poc_email             | COLLEEN.BUTLER@SDSTATE.EDU
+employer_poc_phone             | 16056885948
 employer_poc_phone_ext         | 
 worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | NESS SCHOOL OF MANAGEMENT AND ECONOMICS
+worksite_address2              | SCHOOL OF DESIGN
 worksite_city                  | BROOKINGS
 worksite_county                | BROOKINGS
 lawfirm_name_business_name     | 
@@ -1547,9 +1481,42 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 25-1011.00
+soc_code                       | 25-1031.00
 h_1b_dependent                 | No
--[ RECORD 48 ]-----------------+-------------------------------------------------------------
+-[ RECORD 46 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24155-062222
+job_title                      | ASSISTANT PROFESSOR - ELEMENTARY EDUCATION IN LITERACY
+employer_name                  | South Dakota State University
+secondary_entity_business_name | 
+employer_phone                 | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
+employer_poc_phone_ext         | 
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | SCHOOL OF EDUCATION, COUNSELING & HUMAN DEVELOPMENT
+worksite_city                  | BROOKINGS
+worksite_county                | BROOKINGS
+lawfirm_name_business_name     | 
+employer_address1              | Morrill Hall 315, Box 2201
+employer_address2              | 
+employer_city                  | Brookings
+employer_state                 | SD
+employer_postal_code           | 57007
+begin_date                     | 2024-08-19
+end_date                       | 2027-08-18
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | South Dakota State University
+soc_code                       | 25-1081.00
+h_1b_dependent                 | No
+-[ RECORD 47 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24051-732623
 job_title                      | ASSISTANT PROFESSOR - APPLIED ECONOMICS
 employer_name                  | South Dakota State University
@@ -1581,6 +1548,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1063.00
+h_1b_dependent                 | No
+-[ RECORD 48 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-24051-732816
+job_title                      | ASSISTANT PROFESSOR - ACCOUNTING
+employer_name                  | South Dakota State University
+secondary_entity_business_name | 
+employer_phone                 | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
+employer_poc_phone_ext         | 
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | NESS SCHOOL OF MANAGEMENT AND ECONOMICS
+worksite_city                  | BROOKINGS
+worksite_county                | BROOKINGS
+lawfirm_name_business_name     | 
+employer_address1              | Morrill Hall 315, Box 2201
+employer_address2              | 
+employer_city                  | Brookings
+employer_state                 | SD
+employer_postal_code           | 57007
+begin_date                     | 2024-08-19
+end_date                       | 2027-08-18
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Dakota State University
+soc_code                       | 25-1011.00
 h_1b_dependent                 | No
 -[ RECORD 49 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24051-732816
@@ -1715,8 +1715,8 @@ employer_name                  | South Dakota State University
 soc_code                       | 25-1122.00
 h_1b_dependent                 | No
 -[ RECORD 53 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23356-588082
-job_title                      | ASSISTANT PROFESSOR OF PRACTICE - INTERIOR DESIGN
+case_number                    | I-200-24127-960557
+job_title                      | RESEARCH ASSOCIATE
 employer_name                  | South Dakota State University
 secondary_entity_business_name | 
 employer_phone                 | 16056885948
@@ -1726,7 +1726,7 @@ employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
 employer_poc_phone             | 16056886050
 employer_poc_phone_ext         | 
 worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | SCHOOL OF DESIGN
+worksite_address2              | GEOSPATIAL SCIENCES CENTER OF EXCELLENCE (GSCE)
 worksite_city                  | BROOKINGS
 worksite_county                | BROOKINGS
 lawfirm_name_business_name     | 
@@ -1745,7 +1745,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 25-1031.00
+soc_code                       | 19-2099.01
 h_1b_dependent                 | No
 -[ RECORD 54 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23356-587993
@@ -1781,8 +1781,8 @@ employer_name                  | South Dakota State University
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
 -[ RECORD 55 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-24127-960557
-job_title                      | RESEARCH ASSOCIATE
+case_number                    | I-200-23356-588082
+job_title                      | ASSISTANT PROFESSOR OF PRACTICE - INTERIOR DESIGN
 employer_name                  | South Dakota State University
 secondary_entity_business_name | 
 employer_phone                 | 16056885948
@@ -1792,7 +1792,7 @@ employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
 employer_poc_phone             | 16056886050
 employer_poc_phone_ext         | 
 worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | GEOSPATIAL SCIENCES CENTER OF EXCELLENCE (GSCE)
+worksite_address2              | SCHOOL OF DESIGN
 worksite_city                  | BROOKINGS
 worksite_county                | BROOKINGS
 lawfirm_name_business_name     | 
@@ -1811,7 +1811,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 19-2099.01
+soc_code                       | 25-1031.00
 h_1b_dependent                 | No
 -[ RECORD 56 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-24011-633943
@@ -1880,19 +1880,19 @@ employer_name                  | South Dakota State University
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 58 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23188-173627
-job_title                      | ASSISTANT PROFESSOR - GEOGRAPHY
+case_number                    | I-200-23223-259388
+job_title                      | Postdoctoral Research Associate - Remote Sensing/GSCE
 employer_name                  | South Dakota State University
 secondary_entity_business_name | 
 employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
+employer_poc_first_name        | COLLEEN
+employer_poc_last_name         | BUTLER
+employer_poc_email             | COLLEEN.BUTLER@SDSTATE.EDU
+employer_poc_phone             | 16056885948
 employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | DEPARTMENT OF GEOGRAPHY & GEOSPATIAL SCIENCES
-worksite_city                  | BROOKINGS
+worksite_address1              | South Dakota State University
+worksite_address2              | Department of Geography and Geospatial Sciences, GSCE
+worksite_city                  | Brookings
 worksite_county                | BROOKINGS
 lawfirm_name_business_name     | 
 employer_address1              | Morrill Hall 315, Box 2201
@@ -1903,14 +1903,14 @@ employer_postal_code           | 57007
 begin_date                     | 2023-12-22
 end_date                       | 2026-12-21
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 25-1064.00
+soc_code                       | 19-2099.01
 h_1b_dependent                 | No
 -[ RECORD 59 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23223-259388
@@ -1946,19 +1946,19 @@ employer_name                  | South Dakota State University
 soc_code                       | 19-2099.01
 h_1b_dependent                 | No
 -[ RECORD 60 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23223-259388
-job_title                      | Postdoctoral Research Associate - Remote Sensing/GSCE
+case_number                    | I-200-23188-173627
+job_title                      | ASSISTANT PROFESSOR - GEOGRAPHY
 employer_name                  | South Dakota State University
 secondary_entity_business_name | 
 employer_phone                 | 16056885948
-employer_poc_first_name        | COLLEEN
-employer_poc_last_name         | BUTLER
-employer_poc_email             | COLLEEN.BUTLER@SDSTATE.EDU
-employer_poc_phone             | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
 employer_poc_phone_ext         | 
-worksite_address1              | South Dakota State University
-worksite_address2              | Department of Geography and Geospatial Sciences, GSCE
-worksite_city                  | Brookings
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | DEPARTMENT OF GEOGRAPHY & GEOSPATIAL SCIENCES
+worksite_city                  | BROOKINGS
 worksite_county                | BROOKINGS
 lawfirm_name_business_name     | 
 employer_address1              | Morrill Hall 315, Box 2201
@@ -1969,14 +1969,14 @@ employer_postal_code           | 57007
 begin_date                     | 2023-12-22
 end_date                       | 2026-12-21
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 19-2099.01
+soc_code                       | 25-1064.00
 h_1b_dependent                 | No
 -[ RECORD 61 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23256-343189
@@ -2009,7 +2009,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 19-1011.00
+soc_code                       | 19-1011
 h_1b_dependent                 | No
 -[ RECORD 62 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23256-343189
@@ -2042,7 +2042,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 19-1011
+soc_code                       | 19-1011.00
 h_1b_dependent                 | No
 -[ RECORD 63 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23223-259687
@@ -2240,7 +2240,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
 employer_name                  | South Dakota State University
-soc_code                       | 25-1041.00
+soc_code                       | 25-1041
 h_1b_dependent                 | No
 -[ RECORD 69 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23171-128100
@@ -2273,75 +2273,9 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
 employer_name                  | South Dakota State University
-soc_code                       | 25-1041
+soc_code                       | 25-1041.00
 h_1b_dependent                 | No
 -[ RECORD 70 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23152-068968
-job_title                      | ASSISTANT PROFESSOR - CIVIL ENGINEERING
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | DEPARTMENT OF CIVIL AND ENVIRONMENTAL ENGINEERING
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2023-08-14
-end_date                       | 2026-08-13
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 71 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23129-005556
-job_title                      | ASSISTANT PROFESSOR - CONSTRUCTION AND OPERATIONS MANAGEMENT
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | DEPARTMENT OF CONSTRUCTION AND OPERATIONS MANAGEMENT
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2023-08-14
-end_date                       | 2026-08-13
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 72 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23131-013879
 job_title                      | Assistant Professor - Economics
 employer_name                  | South Dakota State University
@@ -2374,7 +2308,40 @@ amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1063.00
 h_1b_dependent                 | No
--[ RECORD 73 ]-----------------+-------------------------------------------------------------
+-[ RECORD 71 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23214-233549
+job_title                      | ASSISTANT PROFESSOR - MAMMALIAN PHYSIOLOGY
+employer_name                  | South Dakota State University
+secondary_entity_business_name | 
+employer_phone                 | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
+employer_poc_phone_ext         | 
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | DEPARTMENT OF VETERINARY AND BIOMEDICAL SCIENCES
+worksite_city                  | BROOKINGS
+worksite_county                | BROOKINGS
+lawfirm_name_business_name     | 
+employer_address1              | Morrill Hall 315, Box 2201
+employer_address2              | 
+employer_city                  | Brookings
+employer_state                 | SD
+employer_postal_code           | 57007
+begin_date                     | 2023-08-14
+end_date                       | 2026-08-13
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Dakota State University
+soc_code                       | 25-1041.00
+h_1b_dependent                 | No
+-[ RECORD 72 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23131-013879
 job_title                      | Assistant Professor - Economics
 employer_name                  | South Dakota State University
@@ -2407,9 +2374,9 @@ amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1063
 h_1b_dependent                 | No
--[ RECORD 74 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23090-894181
-job_title                      | ASSISTANT PROFESSOR - EDUCATIONAL LEADERSHIP
+-[ RECORD 73 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23152-068968
+job_title                      | ASSISTANT PROFESSOR - CIVIL ENGINEERING
 employer_name                  | South Dakota State University
 secondary_entity_business_name | 
 employer_phone                 | 16056885948
@@ -2419,40 +2386,7 @@ employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
 employer_poc_phone             | 16056886050
 employer_poc_phone_ext         | 
 worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | SCHOOL OF EDUCATION, COUNSELING AND HUMAN DEVELOPMENT
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2023-08-14
-end_date                       | 2026-08-13
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1081.00
-h_1b_dependent                 | No
--[ RECORD 75 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23102-925560
-job_title                      | ASSISTANT PROFESSOR - COMMUNICATION AND MEDIA STUDIES
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | SCHOOL OF COMMUNICATION AND JOURNALISM
+worksite_address2              | DEPARTMENT OF CIVIL AND ENVIRONMENTAL ENGINEERING
 worksite_city                  | BROOKINGS
 worksite_county                | BROOKINGS
 lawfirm_name_business_name     | 
@@ -2471,9 +2405,9 @@ new_concurrent_employment      | 0
 change_employer                | 1
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 25-1122.00
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 76 ]-----------------+-------------------------------------------------------------
+-[ RECORD 74 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23129-007035
 job_title                      | Assistant Professor - Computer Science
 employer_name                  | South Dakota State University
@@ -2506,9 +2440,9 @@ amended_petition               | 0
 employer_name                  | South Dakota State University
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
--[ RECORD 77 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23214-233549
-job_title                      | ASSISTANT PROFESSOR - MAMMALIAN PHYSIOLOGY
+-[ RECORD 75 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23129-005556
+job_title                      | ASSISTANT PROFESSOR - CONSTRUCTION AND OPERATIONS MANAGEMENT
 employer_name                  | South Dakota State University
 secondary_entity_business_name | 
 employer_phone                 | 16056885948
@@ -2518,7 +2452,7 @@ employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
 employer_poc_phone             | 16056886050
 employer_poc_phone_ext         | 
 worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | DEPARTMENT OF VETERINARY AND BIOMEDICAL SCIENCES
+worksite_address2              | DEPARTMENT OF CONSTRUCTION AND OPERATIONS MANAGEMENT
 worksite_city                  | BROOKINGS
 worksite_county                | BROOKINGS
 lawfirm_name_business_name     | 
@@ -2537,7 +2471,73 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Dakota State University
-soc_code                       | 25-1041.00
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 76 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23102-925560
+job_title                      | ASSISTANT PROFESSOR - COMMUNICATION AND MEDIA STUDIES
+employer_name                  | South Dakota State University
+secondary_entity_business_name | 
+employer_phone                 | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
+employer_poc_phone_ext         | 
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | SCHOOL OF COMMUNICATION AND JOURNALISM
+worksite_city                  | BROOKINGS
+worksite_county                | BROOKINGS
+lawfirm_name_business_name     | 
+employer_address1              | Morrill Hall 315, Box 2201
+employer_address2              | 
+employer_city                  | Brookings
+employer_state                 | SD
+employer_postal_code           | 57007
+begin_date                     | 2023-08-14
+end_date                       | 2026-08-13
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | South Dakota State University
+soc_code                       | 25-1122.00
+h_1b_dependent                 | No
+-[ RECORD 77 ]-----------------+-------------------------------------------------------------
+case_number                    | I-200-23090-894181
+job_title                      | ASSISTANT PROFESSOR - EDUCATIONAL LEADERSHIP
+employer_name                  | South Dakota State University
+secondary_entity_business_name | 
+employer_phone                 | 16056885948
+employer_poc_first_name        | JILENA
+employer_poc_last_name         | FAITH
+employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
+employer_poc_phone             | 16056886050
+employer_poc_phone_ext         | 
+worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
+worksite_address2              | SCHOOL OF EDUCATION, COUNSELING AND HUMAN DEVELOPMENT
+worksite_city                  | BROOKINGS
+worksite_county                | BROOKINGS
+lawfirm_name_business_name     | 
+employer_address1              | Morrill Hall 315, Box 2201
+employer_address2              | 
+employer_city                  | Brookings
+employer_state                 | SD
+employer_postal_code           | 57007
+begin_date                     | 2023-08-14
+end_date                       | 2026-08-13
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Dakota State University
+soc_code                       | 25-1081.00
 h_1b_dependent                 | No
 -[ RECORD 78 ]-----------------+-------------------------------------------------------------
 case_number                    | I-200-23214-233477
@@ -2572,202 +2572,4 @@ amended_petition               | 1
 employer_name                  | Spartan Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 79 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23179-152037
-job_title                      | Assistant Professor of Graphic Design
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | COLLEEN
-employer_poc_last_name         | BUTLER
-employer_poc_email             | COLLEEN.BUTLER@SDSTATE.EDU
-employer_poc_phone             | 16056885948
-employer_poc_phone_ext         | 
-worksite_address1              | South Dakota State University
-worksite_address2              | School of Design
-worksite_city                  | Brookings
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2023-07-11
-end_date                       | 2026-07-10
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1121.00
-h_1b_dependent                 | No
--[ RECORD 80 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-22343-632392
-job_title                      | Assistant Professor - Ruminant Nutrition
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | Jilena
-employer_poc_last_name         | Faith
-employer_poc_email             | jilena.faith@sdstate.edu
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | South Dakota State University
-worksite_address2              | Department of Animal Science
-worksite_city                  | Brookings
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2023-05-22
-end_date                       | 2026-05-21
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 81 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-22355-654881
-job_title                      | ASSISTANT PROFESSOR - GEOGRAPHY
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | SOUTH DAKOTA STATE UNIVERSITY
-worksite_address2              | DEPARTMENT OF GEOGRAPHY & GEOSPATIAL SCIENCES
-worksite_city                  | BROOKINGS
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2023-05-22
-end_date                       | 2026-05-21
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1064.00
-h_1b_dependent                 | No
--[ RECORD 82 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23104-935112
-job_title                      | Assistant Professor - Plant Pathology
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | South Dakota State University
-worksite_address2              | Agronomy, Horticulture and Plant Science Department
-worksite_city                  | Brookings
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2023-04-24
-end_date                       | 2026-04-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | South Dakota State University
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 83 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23031-739512
-job_title                      | Assistant Professor - Architecture
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | South Dakota State University
-worksite_address2              | Department of Architecture
-worksite_city                  | Brookings
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2023-04-17
-end_date                       | 2026-04-16
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1031.00
-h_1b_dependent                 | No
--[ RECORD 84 ]-----------------+-------------------------------------------------------------
-case_number                    | I-200-23096-911404
-job_title                      | Assistant Professor - Plant Pathology
-employer_name                  | South Dakota State University
-secondary_entity_business_name | 
-employer_phone                 | 16056885948
-employer_poc_first_name        | JILENA
-employer_poc_last_name         | FAITH
-employer_poc_email             | JILENA.FAITH@SDSTATE.EDU
-employer_poc_phone             | 16056886050
-employer_poc_phone_ext         | 
-worksite_address1              | South Dakota State University
-worksite_address2              | Agronomy, Horticulture and Plant Science
-worksite_city                  | Brookings
-worksite_county                | BROOKINGS
-lawfirm_name_business_name     | 
-employer_address1              | Morrill Hall 315, Box 2201
-employer_address2              | 
-employer_city                  | Brookings
-employer_state                 | SD
-employer_postal_code           | 57007
-begin_date                     | 2023-04-17
-end_date                       | 2026-04-16
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Dakota State University
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
 

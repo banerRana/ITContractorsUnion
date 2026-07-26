@@ -65,39 +65,6 @@ employer_name                  | NEO TECH SOLUTIONS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 3 ]------------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25314-392343
-job_title                      | SALESFORCE DEVELOPER
-employer_name                  | GREENBYTE TECHNOLOGIES LLC
-secondary_entity_business_name | STATE OF NEW JERSEY- DEPARTMENT OF EDUCATION
-employer_phone                 | 12489875700
-employer_poc_first_name        | AMANDA
-employer_poc_last_name         | VANHOOSER
-employer_poc_email             | HR@GREENBYTEIT.COM
-employer_poc_phone             | 12489875700
-employer_poc_phone_ext         | 
-worksite_address1              | 200 RIVERVIEW PLAZA
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 22710 HAGGERTY ROAD
-employer_address2              | SUITE 100
-employer_city                  | FARMINGTON HILLS
-employer_state                 | MI
-employer_postal_code           | 48335
-begin_date                     | 2026-04-10
-end_date                       | 2029-04-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | GREENBYTE TECHNOLOGIES LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 4 ]------------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25346-477289
 job_title                      | Application Developer
 employer_name                  | Bluestar Systems Inc
@@ -130,6 +97,39 @@ amended_petition               | 0
 employer_name                  | Bluestar Systems Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
+-[ RECORD 4 ]------------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25314-392343
+job_title                      | SALESFORCE DEVELOPER
+employer_name                  | GREENBYTE TECHNOLOGIES LLC
+secondary_entity_business_name | STATE OF NEW JERSEY- DEPARTMENT OF EDUCATION
+employer_phone                 | 12489875700
+employer_poc_first_name        | AMANDA
+employer_poc_last_name         | VANHOOSER
+employer_poc_email             | HR@GREENBYTEIT.COM
+employer_poc_phone             | 12489875700
+employer_poc_phone_ext         | 
+worksite_address1              | 200 RIVERVIEW PLAZA
+worksite_address2              | 
+worksite_city                  | TRENTON
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 22710 HAGGERTY ROAD
+employer_address2              | SUITE 100
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2026-04-10
+end_date                       | 2029-04-09
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | GREENBYTE TECHNOLOGIES LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25336-449236
 job_title                      | IT Analyst
@@ -593,26 +593,26 @@ employer_name                  | SAGARSOFT INC
 soc_code                       | 15-1299.00
 h_1b_dependent                 | Yes
 -[ RECORD 19 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25092-824355
-job_title                      | SOFTWARE QUALITY ASSURANCE ANALYST AND TESTER
-employer_name                  | CRYSTAL DATA LLC
-secondary_entity_business_name | STATE OF NJ, DEPARTMENT OF EDUCATION
-employer_phone                 | 18662370101
-employer_poc_first_name        | MONIKA
-employer_poc_last_name         | ANAND
-employer_poc_email             | CRYSTALDATALLC@GMAIL.COM
-employer_poc_phone             | 18662370101
+case_number                    | I-200-25164-091773
+job_title                      | Transportation-Roadway Safety Expert
+employer_name                  | T.Y. Lin International
+secondary_entity_business_name | New Jersey Department of Transportation
+employer_phone                 | 14152913700
+employer_poc_first_name        | Barbara
+employer_poc_last_name         | Gorman
+employer_poc_email             | barbara.gorman@tylin.com
+employer_poc_phone             | 14152913700
 employer_poc_phone_ext         | 
-worksite_address1              | 200 RIVER VIEW PLAZA
+worksite_address1              | 1035 Parkway Avenue
 worksite_address2              | 
-worksite_city                  | TRENTON
+worksite_city                  | Ewing
 worksite_county                | MERCER
-lawfirm_name_business_name     | MADAN & SAIGAL LLC
-employer_address1              | 1 EVES DRIVE, SUITE 145
-employer_address2              | 
-employer_city                  | MARLTON
-employer_state                 | NJ
-employer_postal_code           | 08053
+lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
+employer_address1              | 345 California St.
+employer_address2              | Suite 2300
+employer_city                  | San Francisco
+employer_state                 | CA
+employer_postal_code           | 94104
 begin_date                     | 2025-10-01
 end_date                       | 2028-09-30
 total_worker_positions         | 1
@@ -622,8 +622,8 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | CRYSTAL DATA LLC
-soc_code                       | 15-1253
+employer_name                  | T.Y. Lin International
+soc_code                       | 17-2051.01
 h_1b_dependent                 | No
 -[ RECORD 20 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25097-838747
@@ -659,39 +659,6 @@ employer_name                  | BNS INTERNATIONAL INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 21 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25164-089575
-job_title                      | Senior UX Consultant
-employer_name                  | Noveltek Systems Inc
-secondary_entity_business_name | NJ Courts - State of New Jersey
-employer_phone                 | 17325763100
-employer_poc_first_name        | Muralidhar
-employer_poc_last_name         | Mupparaju
-employer_poc_email             | hr@novelteksystems.com
-employer_poc_phone             | 17325763100
-employer_poc_phone_ext         | 
-worksite_address1              | 25 Market St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | BBI Law Group
-employer_address1              | 15 Corporate Place South
-employer_address2              | Suite 234
-employer_city                  | Piscataway
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Noveltek Systems Inc
-soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25169-108293
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | LAK SOFTWARE SOLUTIONS INC
@@ -724,40 +691,7 @@ amended_petition               | 0
 employer_name                  | LAK SOFTWARE SOLUTIONS INC
 soc_code                       | 15-1299.05
 h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25099-844788
-job_title                      | Application Developer
-employer_name                  | IBM Corporation
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 19192541493
-employer_poc_first_name        | Andrea
-employer_poc_last_name         | Lammonds
-employer_poc_email             | Andrea.Lammonds1@ibm.com
-employer_poc_phone             | 19192541493
-employer_poc_phone_ext         | 
-worksite_address1              | 101 South Broad Street
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | Fakhoury Global Immigration USA PC
-employer_address1              | 3039 Cornwallis Road, PO Box 12195
-employer_address2              | 
-employer_city                  | Durham
-employer_state                 | NC
-employer_postal_code           | 27709
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | IBM Corporation
-soc_code                       | 15-1211
-h_1b_dependent                 | No
--[ RECORD 24 ]-----------------+------------------------------------------------------------------------------------------------------
+-[ RECORD 22 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25151-038341
 job_title                      | Business Systems Analyst
 employer_name                  | CGI Technologies and Solutions Inc
@@ -790,27 +724,27 @@ amended_petition               | 0
 employer_name                  | CGI Technologies and Solutions Inc
 soc_code                       | 15-1299.09
 h_1b_dependent                 | No
--[ RECORD 25 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25164-091773
-job_title                      | Transportation-Roadway Safety Expert
-employer_name                  | T.Y. Lin International
-secondary_entity_business_name | New Jersey Department of Transportation
-employer_phone                 | 14152913700
-employer_poc_first_name        | Barbara
-employer_poc_last_name         | Gorman
-employer_poc_email             | barbara.gorman@tylin.com
-employer_poc_phone             | 14152913700
+-[ RECORD 23 ]-----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25164-089575
+job_title                      | Senior UX Consultant
+employer_name                  | Noveltek Systems Inc
+secondary_entity_business_name | NJ Courts - State of New Jersey
+employer_phone                 | 17325763100
+employer_poc_first_name        | Muralidhar
+employer_poc_last_name         | Mupparaju
+employer_poc_email             | hr@novelteksystems.com
+employer_poc_phone             | 17325763100
 employer_poc_phone_ext         | 
-worksite_address1              | 1035 Parkway Avenue
+worksite_address1              | 25 Market St
 worksite_address2              | 
-worksite_city                  | Ewing
+worksite_city                  | Trenton
 worksite_county                | MERCER
-lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
-employer_address1              | 345 California St.
-employer_address2              | Suite 2300
-employer_city                  | San Francisco
-employer_state                 | CA
-employer_postal_code           | 94104
+lawfirm_name_business_name     | BBI Law Group
+employer_address1              | 15 Corporate Place South
+employer_address2              | Suite 234
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
 begin_date                     | 2025-10-01
 end_date                       | 2028-09-30
 total_worker_positions         | 1
@@ -820,8 +754,74 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | T.Y. Lin International
-soc_code                       | 17-2051.01
+employer_name                  | Noveltek Systems Inc
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 24 ]-----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25092-824355
+job_title                      | SOFTWARE QUALITY ASSURANCE ANALYST AND TESTER
+employer_name                  | CRYSTAL DATA LLC
+secondary_entity_business_name | STATE OF NJ, DEPARTMENT OF EDUCATION
+employer_phone                 | 18662370101
+employer_poc_first_name        | MONIKA
+employer_poc_last_name         | ANAND
+employer_poc_email             | CRYSTALDATALLC@GMAIL.COM
+employer_poc_phone             | 18662370101
+employer_poc_phone_ext         | 
+worksite_address1              | 200 RIVER VIEW PLAZA
+worksite_address2              | 
+worksite_city                  | TRENTON
+worksite_county                | MERCER
+lawfirm_name_business_name     | MADAN & SAIGAL LLC
+employer_address1              | 1 EVES DRIVE, SUITE 145
+employer_address2              | 
+employer_city                  | MARLTON
+employer_state                 | NJ
+employer_postal_code           | 08053
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CRYSTAL DATA LLC
+soc_code                       | 15-1253
+h_1b_dependent                 | No
+-[ RECORD 25 ]-----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25099-844788
+job_title                      | Application Developer
+employer_name                  | IBM Corporation
+secondary_entity_business_name | State of New Jersey
+employer_phone                 | 19192541493
+employer_poc_first_name        | Andrea
+employer_poc_last_name         | Lammonds
+employer_poc_email             | Andrea.Lammonds1@ibm.com
+employer_poc_phone             | 19192541493
+employer_poc_phone_ext         | 
+worksite_address1              | 101 South Broad Street
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | Fakhoury Global Immigration USA PC
+employer_address1              | 3039 Cornwallis Road, PO Box 12195
+employer_address2              | 
+employer_city                  | Durham
+employer_state                 | NC
+employer_postal_code           | 27709
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | IBM Corporation
+soc_code                       | 15-1211
 h_1b_dependent                 | No
 -[ RECORD 26 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25099-848071
@@ -857,39 +857,6 @@ employer_name                  | AJACE Inc
 soc_code                       | 15-1299
 h_1b_dependent                 | Yes
 -[ RECORD 27 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25203-191056
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | NATSOFT CORPORATION
-secondary_entity_business_name | STATE OF NEW JERSEY
-employer_phone                 | 17327260593
-employer_poc_first_name        | TIRUMALA
-employer_poc_last_name         | CHEEDALA
-employer_poc_email             | TIMMY@NATSOFT.US
-employer_poc_phone             | 17327260593
-employer_poc_phone_ext         | 
-worksite_address1              | RICHARD J. HUGHES JUSTICE COMPLEX, 25 MARKET STREET
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 27 WORLDS FAIR DR
-employer_address2              | 
-employer_city                  | SOMERSET
-employer_state                 | NJ
-employer_postal_code           | 08873
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NATSOFT CORPORATION
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 28 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25190-161726
 job_title                      | JAVA DEVELOPER
 employer_name                  | BRILLIANT INFOTECH INC
@@ -922,8 +889,41 @@ amended_petition               | 0
 employer_name                  | BRILLIANT INFOTECH INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
+-[ RECORD 28 ]-----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25203-191056
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | NATSOFT CORPORATION
+secondary_entity_business_name | STATE OF NEW JERSEY
+employer_phone                 | 17327260593
+employer_poc_first_name        | TIRUMALA
+employer_poc_last_name         | CHEEDALA
+employer_poc_email             | TIMMY@NATSOFT.US
+employer_poc_phone             | 17327260593
+employer_poc_phone_ext         | 
+worksite_address1              | RICHARD J. HUGHES JUSTICE COMPLEX, 25 MARKET STREET
+worksite_address2              | 
+worksite_city                  | TRENTON
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 27 WORLDS FAIR DR
+employer_address2              | 
+employer_city                  | SOMERSET
+employer_state                 | NJ
+employer_postal_code           | 08873
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NATSOFT CORPORATION
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 29 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25206-201585
+case_number                    | I-200-25206-201484
 job_title                      | Computer Programmer
 employer_name                  | iTech US Inc
 secondary_entity_business_name | Department of Human Services (State of NJ)
@@ -956,7 +956,7 @@ employer_name                  | iTech US Inc
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 30 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25206-201484
+case_number                    | I-200-25206-201585
 job_title                      | Computer Programmer
 employer_name                  | iTech US Inc
 secondary_entity_business_name | Department of Human Services (State of NJ)
@@ -1022,17 +1022,17 @@ employer_name                  | Insight Data LLC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
 -[ RECORD 32 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25262-322590
-job_title                      | Java Developer (Application Sys Analysis-Programming Mgr4)
+case_number                    | I-200-25262-322813
+job_title                      | Software Developer (Senior Consultant -PEGA LSA)
 employer_name                  | Taproot Solutions Inc
-secondary_entity_business_name | State of New Jersey Department of Labor
+secondary_entity_business_name | State Of New Jersey Judiciary
 employer_phone                 | 14082167968
 employer_poc_first_name        | Purnima
 employer_poc_last_name         | Govada
 employer_poc_email             | info@taproot-solutions.com
 employer_poc_phone             | 14082167968
 employer_poc_phone_ext         | 
-worksite_address1              | 1 John Fitch Plaza
+worksite_address1              | 25 Market Street
 worksite_address2              | 
 worksite_city                  | Trenton
 worksite_county                | 
@@ -1055,17 +1055,17 @@ employer_name                  | Taproot Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 33 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25262-322813
-job_title                      | Software Developer (Senior Consultant -PEGA LSA)
+case_number                    | I-200-25262-322590
+job_title                      | Java Developer (Application Sys Analysis-Programming Mgr4)
 employer_name                  | Taproot Solutions Inc
-secondary_entity_business_name | State Of New Jersey Judiciary
+secondary_entity_business_name | State of New Jersey Department of Labor
 employer_phone                 | 14082167968
 employer_poc_first_name        | Purnima
 employer_poc_last_name         | Govada
 employer_poc_email             | info@taproot-solutions.com
 employer_poc_phone             | 14082167968
 employer_poc_phone_ext         | 
-worksite_address1              | 25 Market Street
+worksite_address1              | 1 John Fitch Plaza
 worksite_address2              | 
 worksite_city                  | Trenton
 worksite_county                | 
@@ -1385,39 +1385,6 @@ employer_name                  | K-MAKIN TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 43 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25237-266134
-job_title                      | Pega Business Analyst/Architect
-employer_name                  | Eclat Solutions LLC
-secondary_entity_business_name | State of New Jersey - Judiciary IT
-employer_phone                 | 17372021918
-employer_poc_first_name        | Sridhar
-employer_poc_last_name         | Chava
-employer_poc_email             | hr@eclatprosolutions.com
-employer_poc_phone             | 17372021918
-employer_poc_phone_ext         | 
-worksite_address1              | 25 Market St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | 
-lawfirm_name_business_name     | BBI Law Group PC
-employer_address1              | 325 RR 620 South
-employer_address2              | Suite 102A
-employer_city                  | Lakeway
-employer_state                 | TX
-employer_postal_code           | 78734
-begin_date                     | 2025-08-25
-end_date                       | 2028-08-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Eclat Solutions LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 44 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25227-245292
 job_title                      | LEAD ARCHITECT
 employer_name                  | K-MAKIN TECHNOLOGIES INC
@@ -1450,7 +1417,7 @@ amended_petition               | 1
 employer_name                  | K-MAKIN TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 45 ]-----------------+------------------------------------------------------------------------------------------------------
+-[ RECORD 44 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25237-266168
 job_title                      | Pega Business Analyst/Architect
 employer_name                  | Taproot Solutions Inc
@@ -1481,6 +1448,39 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
 employer_name                  | Taproot Solutions Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 45 ]-----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25237-266134
+job_title                      | Pega Business Analyst/Architect
+employer_name                  | Eclat Solutions LLC
+secondary_entity_business_name | State of New Jersey - Judiciary IT
+employer_phone                 | 17372021918
+employer_poc_first_name        | Sridhar
+employer_poc_last_name         | Chava
+employer_poc_email             | hr@eclatprosolutions.com
+employer_poc_phone             | 17372021918
+employer_poc_phone_ext         | 
+worksite_address1              | 25 Market St
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | 
+lawfirm_name_business_name     | BBI Law Group PC
+employer_address1              | 325 RR 620 South
+employer_address2              | Suite 102A
+employer_city                  | Lakeway
+employer_state                 | TX
+employer_postal_code           | 78734
+begin_date                     | 2025-08-25
+end_date                       | 2028-08-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Eclat Solutions LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 46 ]-----------------+------------------------------------------------------------------------------------------------------
@@ -1583,39 +1583,6 @@ employer_name                  | FIRST TEK INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 49 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25219-228246
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | TEKBASIC LLC
-secondary_entity_business_name | NEW JERSEY DEPARTMENT OF HUMAN SERVICES
-employer_phone                 | 17324193026
-employer_poc_first_name        | ANUPAM
-employer_poc_last_name         | GOSWAMI
-employer_poc_email             | ADMIN@TEKBASIC.COM
-employer_poc_phone             | 17324193026
-employer_poc_phone_ext         | 
-worksite_address1              | 12A QUAKERBRIDGE PLAZA
-worksite_address2              | 
-worksite_city                  | HAMILTON TOWNSHIP
-worksite_county                | 
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 1100 CORNWALL ROAD
-employer_address2              | SUITE 213
-employer_city                  | MONMOUTH JUNCTION
-employer_state                 | NJ
-employer_postal_code           | 08852
-begin_date                     | 2025-08-15
-end_date                       | 2028-08-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | TEKBASIC LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 50 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25188-157332
 job_title                      | SOFTWARE DEVELOPER II
 employer_name                  | QUALITY IT SOURCE LLC
@@ -1648,6 +1615,39 @@ amended_petition               | 0
 employer_name                  | QUALITY IT SOURCE LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
+-[ RECORD 50 ]-----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25219-228246
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | TEKBASIC LLC
+secondary_entity_business_name | NEW JERSEY DEPARTMENT OF HUMAN SERVICES
+employer_phone                 | 17324193026
+employer_poc_first_name        | ANUPAM
+employer_poc_last_name         | GOSWAMI
+employer_poc_email             | ADMIN@TEKBASIC.COM
+employer_poc_phone             | 17324193026
+employer_poc_phone_ext         | 
+worksite_address1              | 12A QUAKERBRIDGE PLAZA
+worksite_address2              | 
+worksite_city                  | HAMILTON TOWNSHIP
+worksite_county                | 
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 1100 CORNWALL ROAD
+employer_address2              | SUITE 213
+employer_city                  | MONMOUTH JUNCTION
+employer_state                 | NJ
+employer_postal_code           | 08852
+begin_date                     | 2025-08-15
+end_date                       | 2028-08-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | TEKBASIC LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 51 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25220-231936
 job_title                      | Senior Managing Director of Facilities & Operations
@@ -1913,7 +1913,7 @@ employer_name                  | ADVANCED TECHNOLOGY GROUP USA INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 59 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25108-878852
+case_number                    | I-200-25099-844731
 job_title                      | UI Developer
 employer_name                  | eBS-Minds IT Inc
 secondary_entity_business_name | State of New Jersey Department of Health
@@ -1925,7 +1925,7 @@ employer_poc_phone             | 19728766485
 employer_poc_phone_ext         | 
 worksite_address1              | 1 Peregrine Way
 worksite_address2              | 
-worksite_city                  | Burlington
+worksite_city                  | Willingboro
 worksite_county                | BURLINGTON
 lawfirm_name_business_name     | Kodem Law Firm PLLC
 employer_address1              | 833 E Northside Dr
@@ -1946,7 +1946,7 @@ employer_name                  | eBS-Minds IT Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 60 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25099-844731
+case_number                    | I-200-25108-878852
 job_title                      | UI Developer
 employer_name                  | eBS-Minds IT Inc
 secondary_entity_business_name | State of New Jersey Department of Health
@@ -1958,7 +1958,7 @@ employer_poc_phone             | 19728766485
 employer_poc_phone_ext         | 
 worksite_address1              | 1 Peregrine Way
 worksite_address2              | 
-worksite_city                  | Willingboro
+worksite_city                  | Burlington
 worksite_county                | BURLINGTON
 lawfirm_name_business_name     | Kodem Law Firm PLLC
 employer_address1              | 833 E Northside Dr
@@ -2177,39 +2177,6 @@ employer_name                  | IBM Corporation
 soc_code                       | 15-1211
 h_1b_dependent                 | No
 -[ RECORD 67 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25028-648425
-job_title                      | COMPUTER SYSTEMS ENGINEER (DATA)
-employer_name                  | INTERNATIONAL INFORMATION TECHNOLOGY TEAM INC
-secondary_entity_business_name | STATE OF NEW JERSEY-DEPARTMENT OF HEALTH (DOH)
-employer_phone                 | 17322418390
-employer_poc_first_name        | BALAJI
-employer_poc_last_name         | RAVI
-employer_poc_email             | BALAJI.RAVI@I2T2.COM
-employer_poc_phone             | 17322418390
-employer_poc_phone_ext         | 
-worksite_address1              | 55 N WILLOW STREET
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICES OF SUSHEELA VERMA
-employer_address1              | 331 NEWMAN SPRINGS ROAD
-employer_address2              | SUITE 143, BLDG. 1
-employer_city                  | RED BANK
-employer_state                 | NJ
-employer_postal_code           | 07701
-begin_date                     | 2025-07-01
-end_date                       | 2028-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | INTERNATIONAL INFORMATION TECHNOLOGY TEAM INC
-soc_code                       | 15-1299.08
-h_1b_dependent                 | No
--[ RECORD 68 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25167-098919
 job_title                      | Software Developer
 employer_name                  | Techno Tek Inc
@@ -2241,6 +2208,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Techno Tek Inc
 soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 68 ]-----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25028-648425
+job_title                      | COMPUTER SYSTEMS ENGINEER (DATA)
+employer_name                  | INTERNATIONAL INFORMATION TECHNOLOGY TEAM INC
+secondary_entity_business_name | STATE OF NEW JERSEY-DEPARTMENT OF HEALTH (DOH)
+employer_phone                 | 17322418390
+employer_poc_first_name        | BALAJI
+employer_poc_last_name         | RAVI
+employer_poc_email             | BALAJI.RAVI@I2T2.COM
+employer_poc_phone             | 17322418390
+employer_poc_phone_ext         | 
+worksite_address1              | 55 N WILLOW STREET
+worksite_address2              | 
+worksite_city                  | TRENTON
+worksite_county                | MERCER
+lawfirm_name_business_name     | LAW OFFICES OF SUSHEELA VERMA
+employer_address1              | 331 NEWMAN SPRINGS ROAD
+employer_address2              | SUITE 143, BLDG. 1
+employer_city                  | RED BANK
+employer_state                 | NJ
+employer_postal_code           | 07701
+begin_date                     | 2025-07-01
+end_date                       | 2028-06-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | INTERNATIONAL INFORMATION TECHNOLOGY TEAM INC
+soc_code                       | 15-1299.08
 h_1b_dependent                 | No
 -[ RECORD 69 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25056-723475
@@ -2342,39 +2342,6 @@ employer_name                  | QUALITY IT SOURCE LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 72 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25157-064200
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | INVERTIS IT SOLUTIONS LLC
-secondary_entity_business_name | STATE OF NEW JERSEY
-employer_phone                 | 19452362460
-employer_poc_first_name        | USHA
-employer_poc_last_name         | MANEPALLI
-employer_poc_email             | USHA@INVERTISIT.COM
-employer_poc_phone             | 19452362460
-employer_poc_phone_ext         | 
-worksite_address1              | 25 MARKET ST
-worksite_address2              | 
-worksite_city                  | TENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | VELIE LAW FIRM PLLC
-employer_address1              | 8105 RASOR BOULEVARD
-employer_address2              | 
-employer_city                  | PLANO
-employer_state                 | TX
-employer_postal_code           | 75024
-begin_date                     | 2025-06-16
-end_date                       | 2028-06-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | INVERTIS IT SOLUTIONS LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 73 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25157-062826
 job_title                      | Software Developer
 employer_name                  | AK Systems Inc
@@ -2405,6 +2372,39 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
 employer_name                  | AK Systems Inc
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 73 ]-----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25157-064200
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | INVERTIS IT SOLUTIONS LLC
+secondary_entity_business_name | STATE OF NEW JERSEY
+employer_phone                 | 19452362460
+employer_poc_first_name        | USHA
+employer_poc_last_name         | MANEPALLI
+employer_poc_email             | USHA@INVERTISIT.COM
+employer_poc_phone             | 19452362460
+employer_poc_phone_ext         | 
+worksite_address1              | 25 MARKET ST
+worksite_address2              | 
+worksite_city                  | TENTON
+worksite_county                | MERCER
+lawfirm_name_business_name     | VELIE LAW FIRM PLLC
+employer_address1              | 8105 RASOR BOULEVARD
+employer_address2              | 
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75024
+begin_date                     | 2025-06-16
+end_date                       | 2028-06-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | INVERTIS IT SOLUTIONS LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 74 ]-----------------+------------------------------------------------------------------------------------------------------
@@ -2969,38 +2969,38 @@ employer_name                  | Taproot Solutions Inc
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 91 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24344-529026
-job_title                      | SOFTWARE DEVELOPER II
-employer_name                  | QUALITY IT SOURCE LLC
-secondary_entity_business_name | RUTGERS STATE UNIVERSITY (DIVISION OF MENTAL HEALTH AND ADDICTION SERVICES, DOH, STATE OF NEW JERSEY)
-employer_phone                 | 17329621587
-employer_poc_first_name        | MUKESH
-employer_poc_last_name         | SHAH
-employer_poc_email             | MSHAH@QUALITYITSOURCE.COM
-employer_poc_phone             | 17329621587
+case_number                    | I-200-25087-811870
+job_title                      | Systems Engineer
+employer_name                  | DigitalTree LLC
+secondary_entity_business_name | New Jersey department of Health
+employer_phone                 | 14842835530
+employer_poc_first_name        | Laxmi Narasimha Reddy
+employer_poc_last_name         | Konda
+employer_poc_email             | Hr@digitaltreellc.com
+employer_poc_phone             | 14842835530
 employer_poc_phone_ext         | 
-worksite_address1              | 5 COMMERCE WAY
+worksite_address1              | 55 N Willow St
 worksite_address2              | 
-worksite_city                  | HAMILTON
+worksite_city                  | Trenton
 worksite_county                | MERCER
-lawfirm_name_business_name     | Jethmalani & Nallaseth PLLC
-employer_address1              | 9 AUER CT
-employer_address2              | SUITE H
-employer_city                  | EAST BRUNSWICK
-employer_state                 | NJ
-employer_postal_code           | 08816
+lawfirm_name_business_name     | BBI Law Group PC
+employer_address1              | 6081 Hamilton Blvd
+employer_address2              | Suite 600
+employer_city                  | Allentown
+employer_state                 | PA
+employer_postal_code           | 18106
 begin_date                     | 2025-03-28
 end_date                       | 2028-03-27
 total_worker_positions         | 1
 new_employment                 | 0
-continued_employment           | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 0
-employer_name                  | QUALITY IT SOURCE LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | No
+amended_petition               | 1
+employer_name                  | DigitalTree LLC
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
 -[ RECORD 92 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24290-412108
 job_title                      | PEGA CERTIFIED SENIOR SYSTEM ARCHITECT
@@ -3035,38 +3035,38 @@ employer_name                  | LAK SOFTWARE SOLUTIONS INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 93 ]-----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25087-811870
-job_title                      | Systems Engineer
-employer_name                  | DigitalTree LLC
-secondary_entity_business_name | New Jersey department of Health
-employer_phone                 | 14842835530
-employer_poc_first_name        | Laxmi Narasimha Reddy
-employer_poc_last_name         | Konda
-employer_poc_email             | Hr@digitaltreellc.com
-employer_poc_phone             | 14842835530
+case_number                    | I-200-24344-529026
+job_title                      | SOFTWARE DEVELOPER II
+employer_name                  | QUALITY IT SOURCE LLC
+secondary_entity_business_name | RUTGERS STATE UNIVERSITY (DIVISION OF MENTAL HEALTH AND ADDICTION SERVICES, DOH, STATE OF NEW JERSEY)
+employer_phone                 | 17329621587
+employer_poc_first_name        | MUKESH
+employer_poc_last_name         | SHAH
+employer_poc_email             | MSHAH@QUALITYITSOURCE.COM
+employer_poc_phone             | 17329621587
 employer_poc_phone_ext         | 
-worksite_address1              | 55 N Willow St
+worksite_address1              | 5 COMMERCE WAY
 worksite_address2              | 
-worksite_city                  | Trenton
+worksite_city                  | HAMILTON
 worksite_county                | MERCER
-lawfirm_name_business_name     | BBI Law Group PC
-employer_address1              | 6081 Hamilton Blvd
-employer_address2              | Suite 600
-employer_city                  | Allentown
-employer_state                 | PA
-employer_postal_code           | 18106
+lawfirm_name_business_name     | Jethmalani & Nallaseth PLLC
+employer_address1              | 9 AUER CT
+employer_address2              | SUITE H
+employer_city                  | EAST BRUNSWICK
+employer_state                 | NJ
+employer_postal_code           | 08816
 begin_date                     | 2025-03-28
 end_date                       | 2028-03-27
 total_worker_positions         | 1
 new_employment                 | 0
-continued_employment           | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 1
-employer_name                  | DigitalTree LLC
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
+amended_petition               | 0
+employer_name                  | QUALITY IT SOURCE LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | No
 -[ RECORD 94 ]-----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25074-779390
 job_title                      | DEVOPS ENGINEER
@@ -3248,7 +3248,7 @@ worksite_address2              | The DCA Building, 8th Floor
 worksite_city                  | Trenton
 worksite_county                | MERCER
 lawfirm_name_business_name     | Piston & Carpenter PC
-employer_address1              | 2121  Cooperative Way
+employer_address1              | 2121 Cooperative Way
 employer_address2              | Suite 130
 employer_city                  | Herndon
 employer_state                 | VA
@@ -4124,72 +4124,6 @@ employer_name                  | Inrika Inc
 soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
 -[ RECORD 126 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24192-187449
-job_title                      | Java Developer
-employer_name                  | Orrba Systems LLC
-secondary_entity_business_name | New Jersey Department of Labor
-employer_phone                 | 12196542125
-employer_poc_first_name        | MOUNIKA
-employer_poc_last_name         | NEELAM
-employer_poc_email             | immigration@orrbasystems.com
-employer_poc_phone             | 12196542125
-employer_poc_phone_ext         | 
-worksite_address1              | 1 John Fitch Plaza
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 775 Addison Avenue
-employer_address2              | Suite 202
-employer_city                  | Rock Hill
-employer_state                 | SC
-employer_postal_code           | 29730
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Orrba Systems LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 127 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25156-056821
-job_title                      | JAVA DEVELOPER
-employer_name                  | UNICORN TECHNOLOGIES LLC
-secondary_entity_business_name | New Jersey state police
-employer_phone                 | 18558446880
-employer_poc_first_name        | SUNIL
-employer_poc_last_name         | SAVILI
-employer_poc_email             | HR@UNICORNTEK.COM
-employer_poc_phone             | 18558446880
-employer_poc_phone_ext         | 
-worksite_address1              | 1040 Upper River Road, Ewing Township
-worksite_address2              | 
-worksite_city                  | New Jersey
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 4080 MCGINNIS FERRY ROAD
-employer_address2              | SUITE 1305
-employer_city                  | ALPHARETTA
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 2025-06-15
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | UNICORN TECHNOLOGIES LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 128 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24130-977588
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | NESTOR TECHNOLOGIES INC
@@ -4222,139 +4156,7 @@ amended_petition               | 0
 employer_name                  | NESTOR TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 129 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24128-964797
-job_title                      | Sr. Dynamics CRM Developer
-employer_name                  | Saduptech Inc
-secondary_entity_business_name | New Jersey Department of Health
-employer_phone                 | 17328127517
-employer_poc_first_name        | Eva
-employer_poc_last_name         | SHAH
-employer_poc_email             | eva@saduptech.com
-employer_poc_phone             | 17328127517
-employer_poc_phone_ext         | 
-worksite_address1              | 55 North Willow Street
-worksite_address2              | N/A
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES LLP
-employer_address1              | 2695 Villa Creek Dr
-employer_address2              | Suite 175
-employer_city                  | Dallas
-employer_state                 | TX
-employer_postal_code           | 75234
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Saduptech Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 130 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24232-275998
-job_title                      | Policy Analyst
-employer_name                  | K2 Environmental Consulting LLC
-secondary_entity_business_name | New Jersey Department of Environmental Protection
-employer_phone                 | 12673941329
-employer_poc_first_name        | Khawar
-employer_poc_last_name         | Kalim
-employer_poc_email             | khawar.kalim@k2ec.net
-employer_poc_phone             | 12673941329
-employer_poc_phone_ext         | 
-worksite_address1              | 401 E State St.
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | SHANKAR NINAN & CO. LLP
-employer_address1              | 2110 S Eagle Road
-employer_address2              | PMB 421
-employer_city                  | Newtown
-employer_state                 | PA
-employer_postal_code           | 18940
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | K2 Environmental Consulting LLC
-soc_code                       | 19-2041.01
-h_1b_dependent                 | No
--[ RECORD 131 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24099-863103
-job_title                      | QA Lead
-employer_name                  | Intone Networks Inc
-secondary_entity_business_name | State of New Jersey Department of Health
-employer_phone                 | 17327213002
-employer_poc_first_name        | Sailaja
-employer_poc_last_name         | Allu
-employer_poc_email             | sailaja@intonenetworks.com
-employer_poc_phone             | 17327213002
-employer_poc_phone_ext         | 
-worksite_address1              | 55 North Willow Street
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
-employer_address1              | 10 Austin Avenue
-employer_address2              | 
-employer_city                  | Iselin
-employer_state                 | NJ
-employer_postal_code           | 08830
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Intone Networks Inc
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 132 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24156-069311
-job_title                      | Business Analyst
-employer_name                  | Isite Technologies Inc
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 14845851203
-employer_poc_first_name        | VENKATA
-employer_poc_last_name         | INDUKURI
-employer_poc_email             | LCA@ISITEINFO.COM
-employer_poc_phone             | 14845851203
-employer_poc_phone_ext         | 
-worksite_address1              | Richard J. Hughes Justice Complex, 25 Market St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | FELDMAN & BOSSERT LLC
-employer_address1              | 379 PRINCETON HIGHTSTOWN ROAD
-employer_address2              | BUILDING 3 SECOND FLOOR
-employer_city                  | EAST WINDSOR
-employer_state                 | NJ
-employer_postal_code           | 08512
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Isite Technologies Inc
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 133 ]----------------+------------------------------------------------------------------------------------------------------
+-[ RECORD 127 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25167-094763
 job_title                      | Software Developer
 employer_name                  | UNICORN TECHNOLOGIES LLC
@@ -4387,6 +4189,204 @@ amended_petition               | 1
 employer_name                  | UNICORN TECHNOLOGIES LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
+-[ RECORD 128 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24099-863103
+job_title                      | QA Lead
+employer_name                  | Intone Networks Inc
+secondary_entity_business_name | State of New Jersey Department of Health
+employer_phone                 | 17327213002
+employer_poc_first_name        | Sailaja
+employer_poc_last_name         | Allu
+employer_poc_email             | sailaja@intonenetworks.com
+employer_poc_phone             | 17327213002
+employer_poc_phone_ext         | 
+worksite_address1              | 55 North Willow Street
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
+employer_address1              | 10 Austin Avenue
+employer_address2              | 
+employer_city                  | Iselin
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Intone Networks Inc
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 129 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25156-056821
+job_title                      | JAVA DEVELOPER
+employer_name                  | UNICORN TECHNOLOGIES LLC
+secondary_entity_business_name | New Jersey state police
+employer_phone                 | 18558446880
+employer_poc_first_name        | SUNIL
+employer_poc_last_name         | SAVILI
+employer_poc_email             | HR@UNICORNTEK.COM
+employer_poc_phone             | 18558446880
+employer_poc_phone_ext         | 
+worksite_address1              | 1040 Upper River Road, Ewing Township
+worksite_address2              | 
+worksite_city                  | New Jersey
+worksite_county                | MERCER
+lawfirm_name_business_name     | 
+employer_address1              | 4080 MCGINNIS FERRY ROAD
+employer_address2              | SUITE 1305
+employer_city                  | ALPHARETTA
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 2025-06-15
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | UNICORN TECHNOLOGIES LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 130 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24192-187449
+job_title                      | Java Developer
+employer_name                  | Orrba Systems LLC
+secondary_entity_business_name | New Jersey Department of Labor
+employer_phone                 | 12196542125
+employer_poc_first_name        | MOUNIKA
+employer_poc_last_name         | NEELAM
+employer_poc_email             | immigration@orrbasystems.com
+employer_poc_phone             | 12196542125
+employer_poc_phone_ext         | 
+worksite_address1              | 1 John Fitch Plaza
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | 
+employer_address1              | 775 Addison Avenue
+employer_address2              | Suite 202
+employer_city                  | Rock Hill
+employer_state                 | SC
+employer_postal_code           | 29730
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Orrba Systems LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 131 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24156-069311
+job_title                      | Business Analyst
+employer_name                  | Isite Technologies Inc
+secondary_entity_business_name | State of New Jersey
+employer_phone                 | 14845851203
+employer_poc_first_name        | VENKATA
+employer_poc_last_name         | INDUKURI
+employer_poc_email             | LCA@ISITEINFO.COM
+employer_poc_phone             | 14845851203
+employer_poc_phone_ext         | 
+worksite_address1              | Richard J. Hughes Justice Complex, 25 Market St
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | FELDMAN & BOSSERT LLC
+employer_address1              | 379 PRINCETON HIGHTSTOWN ROAD
+employer_address2              | BUILDING 3 SECOND FLOOR
+employer_city                  | EAST WINDSOR
+employer_state                 | NJ
+employer_postal_code           | 08512
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Isite Technologies Inc
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 132 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24128-964797
+job_title                      | Sr. Dynamics CRM Developer
+employer_name                  | Saduptech Inc
+secondary_entity_business_name | New Jersey Department of Health
+employer_phone                 | 17328127517
+employer_poc_first_name        | Eva
+employer_poc_last_name         | SHAH
+employer_poc_email             | eva@saduptech.com
+employer_poc_phone             | 17328127517
+employer_poc_phone_ext         | 
+worksite_address1              | 55 North Willow Street
+worksite_address2              | N/A
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES LLP
+employer_address1              | 2695 Villa Creek Dr
+employer_address2              | Suite 175
+employer_city                  | Dallas
+employer_state                 | TX
+employer_postal_code           | 75234
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Saduptech Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 133 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24232-275998
+job_title                      | Policy Analyst
+employer_name                  | K2 Environmental Consulting LLC
+secondary_entity_business_name | New Jersey Department of Environmental Protection
+employer_phone                 | 12673941329
+employer_poc_first_name        | Khawar
+employer_poc_last_name         | Kalim
+employer_poc_email             | khawar.kalim@k2ec.net
+employer_poc_phone             | 12673941329
+employer_poc_phone_ext         | 
+worksite_address1              | 401 E State St.
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | SHANKAR NINAN & CO. LLP
+employer_address1              | 2110 S Eagle Road
+employer_address2              | PMB 421
+employer_city                  | Newtown
+employer_state                 | PA
+employer_postal_code           | 18940
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | K2 Environmental Consulting LLC
+soc_code                       | 19-2041.01
+h_1b_dependent                 | No
 -[ RECORD 134 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25337-453659
 job_title                      | Microsoft Dynamics 365 Analyst
@@ -4700,7 +4700,7 @@ worksite_address2              |
 worksite_city                  | Trenton
 worksite_county                | MERCER
 lawfirm_name_business_name     | 
-employer_address1              | 295 DURHAM AVENUE SUITE  102
+employer_address1              | 295 DURHAM AVENUE SUITE 102
 employer_address2              | 
 employer_city                  | SOUTH PLAINFIELD
 employer_state                 | NJ
@@ -4718,39 +4718,6 @@ employer_name                  | Cloud5 Solutions Inc
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
 -[ RECORD 144 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24232-276535
-job_title                      | UNIX ADMIN
-employer_name                  | ENVISION INFOSOLUTIONS INC
-secondary_entity_business_name | New Jersey State Police Division
-employer_phone                 | 13025654289
-employer_poc_first_name        | ASWITHA
-employer_poc_last_name         | VEMPATI
-employer_poc_email             | ASWITHA@ENVISIONINFOSOLUTIONS.COM
-employer_poc_phone             | 13025654289
-employer_poc_phone_ext         | 
-worksite_address1              | 1040 River Rd
-worksite_address2              | 
-worksite_city                  | Ewing Township
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
-employer_address1              | 260 CHAPMAN ROAD
-employer_address2              | SUITE 204D
-employer_city                  | NEWARK
-employer_state                 | DE
-employer_postal_code           | 19702
-begin_date                     | 2024-08-19
-end_date                       | 2027-08-18
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ENVISION INFOSOLUTIONS INC
-soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 145 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24199-202300
 job_title                      | Database Administrator / Project Manager
 employer_name                  | i5 TECH INC
@@ -4782,6 +4749,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | i5 TECH INC
 soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 145 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24232-276535
+job_title                      | UNIX ADMIN
+employer_name                  | ENVISION INFOSOLUTIONS INC
+secondary_entity_business_name | New Jersey State Police Division
+employer_phone                 | 13025654289
+employer_poc_first_name        | ASWITHA
+employer_poc_last_name         | VEMPATI
+employer_poc_email             | ASWITHA@ENVISIONINFOSOLUTIONS.COM
+employer_poc_phone             | 13025654289
+employer_poc_phone_ext         | 
+worksite_address1              | 1040 River Rd
+worksite_address2              | 
+worksite_city                  | Ewing Township
+worksite_county                | MERCER
+lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
+employer_address1              | 260 CHAPMAN ROAD
+employer_address2              | SUITE 204D
+employer_city                  | NEWARK
+employer_state                 | DE
+employer_postal_code           | 19702
+begin_date                     | 2024-08-19
+end_date                       | 2027-08-18
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ENVISION INFOSOLUTIONS INC
+soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
 -[ RECORD 146 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24232-277398
@@ -4817,6 +4817,39 @@ employer_name                  | Sonus Software Solutions Inc
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 147 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24208-226198
+job_title                      | Network Engineer
+employer_name                  | Cloud5 Solutions Inc
+secondary_entity_business_name | State of New Jersey Office of Information Technology
+employer_phone                 | 12012904385
+employer_poc_first_name        | Milind
+employer_poc_last_name         | Wagh
+employer_poc_email             | hr@cloud5.ai
+employer_poc_phone             | 12012904385
+employer_poc_phone_ext         | 
+worksite_address1              | 300 Riverview Plaza
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | 
+employer_address1              | 295 DURHAM AVENUE SUITE 102
+employer_address2              | 
+employer_city                  | SOUTH PLAINFIELD
+employer_state                 | NJ
+employer_postal_code           | 07080
+begin_date                     | 2024-08-05
+end_date                       | 2027-08-04
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Cloud5 Solutions Inc
+soc_code                       | 15-1244.00
+h_1b_dependent                 | No
+-[ RECORD 148 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24200-207163
 job_title                      | Dot Net Developer
 employer_name                  | Dataquad Inc
@@ -4849,39 +4882,6 @@ amended_petition               | 1
 employer_name                  | Dataquad Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 148 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24208-226198
-job_title                      | Network Engineer
-employer_name                  | Cloud5 Solutions Inc
-secondary_entity_business_name | State of New Jersey Office of Information Technology
-employer_phone                 | 12012904385
-employer_poc_first_name        | Milind
-employer_poc_last_name         | Wagh
-employer_poc_email             | hr@cloud5.ai
-employer_poc_phone             | 12012904385
-employer_poc_phone_ext         | 
-worksite_address1              | 300 Riverview Plaza
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 295 DURHAM AVENUE SUITE  102
-employer_address2              | 
-employer_city                  | SOUTH PLAINFIELD
-employer_state                 | NJ
-employer_postal_code           | 07080
-begin_date                     | 2024-08-05
-end_date                       | 2027-08-04
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Cloud5 Solutions Inc
-soc_code                       | 15-1244.00
-h_1b_dependent                 | No
 -[ RECORD 149 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24201-207711
 job_title                      | Full Stack Developer
@@ -5543,39 +5543,6 @@ employer_name                  | SOFTWARE TECHNOLOGY INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 169 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24128-963736
-job_title                      | Application Consultant
-employer_name                  | IBM Corporation
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 19192541493
-employer_poc_first_name        | Andrea
-employer_poc_last_name         | Lammonds
-employer_poc_email             | Andrea.Lammonds1@ibm.com
-employer_poc_phone             | 19192541493
-employer_poc_phone_ext         | 
-worksite_address1              | 1040 River Road
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | Fakhoury Global Immigration USA PC
-employer_address1              | 3039 Cornwallis Road, PO Box 12195
-employer_address2              | 
-employer_city                  | Durham
-employer_state                 | NC
-employer_postal_code           | 27709
-begin_date                     | 2024-05-07
-end_date                       | 2027-05-06
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | IBM Corporation
-soc_code                       | 15-1211.00
-h_1b_dependent                 | No
--[ RECORD 170 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24128-967245
 job_title                      | Software Developer
 employer_name                  | GB Tech Inc
@@ -5608,6 +5575,39 @@ amended_petition               | 1
 employer_name                  | GB Tech Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
+-[ RECORD 170 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24128-963736
+job_title                      | Application Consultant
+employer_name                  | IBM Corporation
+secondary_entity_business_name | State of New Jersey
+employer_phone                 | 19192541493
+employer_poc_first_name        | Andrea
+employer_poc_last_name         | Lammonds
+employer_poc_email             | Andrea.Lammonds1@ibm.com
+employer_poc_phone             | 19192541493
+employer_poc_phone_ext         | 
+worksite_address1              | 1040 River Road
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | Fakhoury Global Immigration USA PC
+employer_address1              | 3039 Cornwallis Road, PO Box 12195
+employer_address2              | 
+employer_city                  | Durham
+employer_state                 | NC
+employer_postal_code           | 27709
+begin_date                     | 2024-05-07
+end_date                       | 2027-05-06
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | IBM Corporation
+soc_code                       | 15-1211.00
+h_1b_dependent                 | No
 -[ RECORD 171 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24117-929941
 job_title                      | SR. CONSULTANT
@@ -6500,37 +6500,37 @@ employer_name                  | Hire IT people Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 198 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25073-776921
-job_title                      | JAVA DEVELOPER
-employer_name                  | KSM TECHNOLOGIES LLC
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 19739360107
-employer_poc_first_name        | SHEBA
-employer_poc_last_name         | KANCHARLAPALLI
-employer_poc_email             | HR@KSMTECHNOLOGIES.NET
-employer_poc_phone             | 19739360107
+case_number                    | I-200-23160-096549
+job_title                      | PEGA CERTIFIED SENIOR SYSTEM ARCHITECT
+employer_name                  | LAK SOFTWARE SOLUTIONS INC
+secondary_entity_business_name | STATE OF NEW JERSEY
+employer_phone                 | 16173208984
+employer_poc_first_name        | LAKSHMI
+employer_poc_last_name         | RAVIPATI
+employer_poc_email             | LAKS@LAKSOFTWARESOLUTIONS.COM
+employer_poc_phone             | 16173208984
 employer_poc_phone_ext         | 
-worksite_address1              | 55 N Willow St
+worksite_address1              | 25 MARKET ST.
 worksite_address2              | 
-worksite_city                  | Trenton
+worksite_city                  | TRENTON
 worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 2001 US ROUTE 46E
-employer_address2              | SUITE 310
-employer_city                  | PARSIPPANY
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 103 CARNEGIE CENTER
+employer_address2              | SUITE 300
+employer_city                  | PRINCETON
 employer_state                 | NJ
-employer_postal_code           | 07054
-begin_date                     | 2025-03-14
+employer_postal_code           | 08540
+begin_date                     | 2023-11-01
 end_date                       | 2026-10-31
 total_worker_positions         | 1
 new_employment                 | 0
-continued_employment           | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 1
-employer_name                  | KSM TECHNOLOGIES LLC
-soc_code                       | 15-1251
+amended_petition               | 0
+employer_name                  | LAK SOFTWARE SOLUTIONS INC
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 199 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25063-743443
@@ -6566,37 +6566,37 @@ employer_name                  | KSM TECHNOLOGIES LLC
 soc_code                       | 15-1251
 h_1b_dependent                 | Yes
 -[ RECORD 200 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23160-096549
-job_title                      | PEGA CERTIFIED SENIOR SYSTEM ARCHITECT
-employer_name                  | LAK SOFTWARE SOLUTIONS INC
-secondary_entity_business_name | STATE OF NEW JERSEY
-employer_phone                 | 16173208984
-employer_poc_first_name        | LAKSHMI
-employer_poc_last_name         | RAVIPATI
-employer_poc_email             | LAKS@LAKSOFTWARESOLUTIONS.COM
-employer_poc_phone             | 16173208984
+case_number                    | I-200-25073-776921
+job_title                      | JAVA DEVELOPER
+employer_name                  | KSM TECHNOLOGIES LLC
+secondary_entity_business_name | State of New Jersey
+employer_phone                 | 19739360107
+employer_poc_first_name        | SHEBA
+employer_poc_last_name         | KANCHARLAPALLI
+employer_poc_email             | HR@KSMTECHNOLOGIES.NET
+employer_poc_phone             | 19739360107
 employer_poc_phone_ext         | 
-worksite_address1              | 25 MARKET ST.
+worksite_address1              | 55 N Willow St
 worksite_address2              | 
-worksite_city                  | TRENTON
+worksite_city                  | Trenton
 worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 103 CARNEGIE CENTER
-employer_address2              | SUITE 300
-employer_city                  | PRINCETON
+lawfirm_name_business_name     | 
+employer_address1              | 2001 US ROUTE 46E
+employer_address2              | SUITE 310
+employer_city                  | PARSIPPANY
 employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-11-01
+employer_postal_code           | 07054
+begin_date                     | 2025-03-14
 end_date                       | 2026-10-31
 total_worker_positions         | 1
 new_employment                 | 0
-continued_employment           | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 0
-employer_name                  | LAK SOFTWARE SOLUTIONS INC
-soc_code                       | 15-1252.00
+amended_petition               | 1
+employer_name                  | KSM TECHNOLOGIES LLC
+soc_code                       | 15-1251
 h_1b_dependent                 | Yes
 -[ RECORD 201 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23292-444667
@@ -6764,38 +6764,38 @@ employer_name                  | ABAL TECHNOLOGIES INC
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 206 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23123-986700
-job_title                      | Business Analyst
-employer_name                  | Dynasticx LLC
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 1472809658
-employer_poc_first_name        | Anand
-employer_poc_last_name         | Deepu
-employer_poc_email             | contracts@dynasticx.com
-employer_poc_phone             | 13472809658
+case_number                    | I-200-23129-006605
+job_title                      | PEGA SYSTEM ARCHITECT
+employer_name                  | HSK TECHNOLOGIES INC
+secondary_entity_business_name | NEW JERSEY JUDICIARY DEPARTMENT
+employer_phone                 | 17325106661
+employer_poc_first_name        | MANJULA
+employer_poc_last_name         | NALAJALLA
+employer_poc_email             | HR@HSKTECHNOLOGIES.NET
+employer_poc_phone             | 17325106661
 employer_poc_phone_ext         | 
-worksite_address1              | Richard J Hughes Justice Complex
+worksite_address1              | RICHARD J HUGHES JUSTICE COMPLEX, 25 MARKET STREET
 worksite_address2              | 
-worksite_city                  | 25 Market St
+worksite_city                  | TRENTON
 worksite_county                | MERCER
-lawfirm_name_business_name     | International Legal & Business Services Group LLP
-employer_address1              | 695 Hamilton Street
-employer_address2              | Suite 422
-employer_city                  | Somerset
+lawfirm_name_business_name     | MARKAN LAW PLLC
+employer_address1              | 15 CORPORATE PL S
+employer_address2              | STE 213 B
+employer_city                  | PISCATAWAY
 employer_state                 | NJ
-employer_postal_code           | 08874
+employer_postal_code           | 08854
 begin_date                     | 2023-10-01
 end_date                       | 2026-09-30
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Dynasticx LLC
-soc_code                       | 13-1111.00
-h_1b_dependent                 | No
+employer_name                  | HSK TECHNOLOGIES INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 207 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23173-136947
 job_title                      | AWS Cloud Engineer
@@ -6830,59 +6830,26 @@ employer_name                  | LETHYA GROUP INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 208 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23124-991611
-job_title                      | Business Analyst / Management Analyst
-employer_name                  | Dynasticx LLC
-secondary_entity_business_name | State of New Jersey (Remote Work Location)
-employer_phone                 | 1472809658
-employer_poc_first_name        | Anand
-employer_poc_last_name         | Deepu
-employer_poc_email             | contracts@dynasticx.com
-employer_poc_phone             | 13472809658
+case_number                    | I-200-23115-962227
+job_title                      | Business Analyst
+employer_name                  | Inrika Inc
+secondary_entity_business_name | State of New Jersey Judiciary Department
+employer_phone                 | 13476841902
+employer_poc_first_name        | Ajit
+employer_poc_last_name         | Kumar
+employer_poc_email             | immigration@inrika.com
+employer_poc_phone             | 13476841902
 employer_poc_phone_ext         | 
-worksite_address1              | 38 SkillMan Ave
-worksite_address2              | 
-worksite_city                  | Jersey City
-worksite_county                | MERCER
-lawfirm_name_business_name     | International Legal & Business Services Group LLP
-employer_address1              | 695 Hamilton Street
-employer_address2              | Suite 422
-employer_city                  | Somerset
-employer_state                 | NJ
-employer_postal_code           | 08874
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Dynasticx LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 209 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23166-115197
-job_title                      | AWS Cloud Administrator
-employer_name                  | LETHYA GROUP INC
-secondary_entity_business_name | NJDOH (New Jersey Department of Health)
-employer_phone                 | 15165002428
-employer_poc_first_name        | SRINIVASA
-employer_poc_last_name         | CHAVA
-employer_poc_email             | srini@lethyagroupinc.com
-employer_poc_phone             | 15165002428
-employer_poc_phone_ext         | 
-worksite_address1              | 55 N Willow St
+worksite_address1              | 25 Market Street
 worksite_address2              | 
 worksite_city                  | Trenton
 worksite_county                | MERCER
-lawfirm_name_business_name     | Ishar Law Firm PC
-employer_address1              | 116 New South Road
-employer_address2              | 
-employer_city                  | Hicksville
-employer_state                 | NY
-employer_postal_code           | 11801
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 3759 US Highway 1
+employer_address2              | Suite 103
+employer_city                  | Monmouth Junction
+employer_state                 | NJ
+employer_postal_code           | 08852
 begin_date                     | 2023-10-01
 end_date                       | 2026-09-30
 total_worker_positions         | 1
@@ -6892,9 +6859,42 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | LETHYA GROUP INC
-soc_code                       | 15-1242.00
-h_1b_dependent                 | No
+employer_name                  | Inrika Inc
+soc_code                       | 13-1111.00
+h_1b_dependent                 | Yes
+-[ RECORD 209 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23188-175066
+job_title                      | SALESFORCE DEVELOPER
+employer_name                  | TECHMINDS GROUP LLC
+secondary_entity_business_name | NEW JERSEY DEPARTMENT OF HUMAN SERVICES, DIVISION OF AGING SERVICES (DIVISION)
+employer_phone                 | 12018363200
+employer_poc_first_name        | MANIKANTH
+employer_poc_last_name         | SUBRAHMANYAM
+employer_poc_email             | HR@TECHMINDSLLC.COM
+employer_poc_phone             | 12018363200
+employer_poc_phone_ext         | 
+worksite_address1              | 12 QUAKERBRIDGE PLAZA
+worksite_address2              | 
+worksite_city                  | HAMILTON TOWNSHIP
+worksite_county                | MERCER
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 101 MORGAN LANE
+employer_address2              | SUITE 210
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | TECHMINDS GROUP LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 210 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23275-404515
 job_title                      | SOFTWARE DEVELOPER
@@ -6929,6 +6929,105 @@ employer_name                  | GAIT SOLUTIONS LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 211 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23123-986700
+job_title                      | Business Analyst
+employer_name                  | Dynasticx LLC
+secondary_entity_business_name | State of New Jersey
+employer_phone                 | 1472809658
+employer_poc_first_name        | Anand
+employer_poc_last_name         | Deepu
+employer_poc_email             | contracts@dynasticx.com
+employer_poc_phone             | 13472809658
+employer_poc_phone_ext         | 
+worksite_address1              | Richard J Hughes Justice Complex
+worksite_address2              | 
+worksite_city                  | 25 Market St
+worksite_county                | MERCER
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 695 Hamilton Street
+employer_address2              | Suite 422
+employer_city                  | Somerset
+employer_state                 | NJ
+employer_postal_code           | 08874
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Dynasticx LLC
+soc_code                       | 13-1111.00
+h_1b_dependent                 | No
+-[ RECORD 212 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23166-115197
+job_title                      | AWS Cloud Administrator
+employer_name                  | LETHYA GROUP INC
+secondary_entity_business_name | NJDOH (New Jersey Department of Health)
+employer_phone                 | 15165002428
+employer_poc_first_name        | SRINIVASA
+employer_poc_last_name         | CHAVA
+employer_poc_email             | srini@lethyagroupinc.com
+employer_poc_phone             | 15165002428
+employer_poc_phone_ext         | 
+worksite_address1              | 55 N Willow St
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | Ishar Law Firm PC
+employer_address1              | 116 New South Road
+employer_address2              | 
+employer_city                  | Hicksville
+employer_state                 | NY
+employer_postal_code           | 11801
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | LETHYA GROUP INC
+soc_code                       | 15-1242.00
+h_1b_dependent                 | No
+-[ RECORD 213 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23121-978466
+job_title                      | PEGA SYSTEM ARCHITECT
+employer_name                  | HSK TECHNOLOGIES INC
+secondary_entity_business_name | NEW JERSEY JUDICIARY DEPARTMENT
+employer_phone                 | 17325106661
+employer_poc_first_name        | MANJULA
+employer_poc_last_name         | NALAJALLA
+employer_poc_email             | HR@HSKTECHNOLOGIES.NET
+employer_poc_phone             | 17325106661
+employer_poc_phone_ext         | 
+worksite_address1              | RICHARD J HUGHES JUSTICE COMPLEX ,  25 MARKET STREET
+worksite_address2              | 
+worksite_city                  | TRENTON
+worksite_county                | MERCER
+lawfirm_name_business_name     | MARKAN LAW PLLC
+employer_address1              | 15 CORPORATE PL S
+employer_address2              | STE 213 B
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | HSK TECHNOLOGIES INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 214 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23249-324586
 job_title                      | Software Engineer
 employer_name                  | Technipros LLC
@@ -6961,7 +7060,7 @@ amended_petition               | 0
 employer_name                  | Technipros LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 212 ]----------------+------------------------------------------------------------------------------------------------------
+-[ RECORD 215 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23143-045753
 job_title                      | Software Developer
 employer_name                  | IRIS INFOTECH INC
@@ -6994,40 +7093,7 @@ amended_petition               | 0
 employer_name                  | IRIS INFOTECH INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 213 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23115-962227
-job_title                      | Business Analyst
-employer_name                  | Inrika Inc
-secondary_entity_business_name | State of New Jersey Judiciary Department
-employer_phone                 | 13476841902
-employer_poc_first_name        | Ajit
-employer_poc_last_name         | Kumar
-employer_poc_email             | immigration@inrika.com
-employer_poc_phone             | 13476841902
-employer_poc_phone_ext         | 
-worksite_address1              | 25 Market Street
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | International Legal & Business Services Group LLP
-employer_address1              | 3759 US Highway 1
-employer_address2              | Suite 103
-employer_city                  | Monmouth Junction
-employer_state                 | NJ
-employer_postal_code           | 08852
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Inrika Inc
-soc_code                       | 13-1111.00
-h_1b_dependent                 | Yes
--[ RECORD 214 ]----------------+------------------------------------------------------------------------------------------------------
+-[ RECORD 216 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23128-001487
 job_title                      | Software Developer
 employer_name                  | IRIS INFOTECH INC
@@ -7060,73 +7126,40 @@ amended_petition               | 0
 employer_name                  | IRIS INFOTECH INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 215 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23188-175066
-job_title                      | SALESFORCE DEVELOPER
-employer_name                  | TECHMINDS GROUP LLC
-secondary_entity_business_name | NEW JERSEY DEPARTMENT OF HUMAN SERVICES, DIVISION OF AGING SERVICES (DIVISION)
-employer_phone                 | 12018363200
-employer_poc_first_name        | MANIKANTH
-employer_poc_last_name         | SUBRAHMANYAM
-employer_poc_email             | HR@TECHMINDSLLC.COM
-employer_poc_phone             | 12018363200
-employer_poc_phone_ext         | 
-worksite_address1              | 12 QUAKERBRIDGE PLAZA
-worksite_address2              | 
-worksite_city                  | HAMILTON TOWNSHIP
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 101 MORGAN LANE
-employer_address2              | SUITE 210
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | TECHMINDS GROUP LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 216 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23129-006605
-job_title                      | PEGA SYSTEM ARCHITECT
-employer_name                  | HSK TECHNOLOGIES INC
-secondary_entity_business_name | NEW JERSEY JUDICIARY DEPARTMENT
-employer_phone                 | 17325106661
-employer_poc_first_name        | MANJULA
-employer_poc_last_name         | NALAJALLA
-employer_poc_email             | HR@HSKTECHNOLOGIES.NET
-employer_poc_phone             | 17325106661
-employer_poc_phone_ext         | 
-worksite_address1              | RICHARD J HUGHES JUSTICE COMPLEX, 25 MARKET STREET
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | MARKAN LAW PLLC
-employer_address1              | 15 CORPORATE PL S
-employer_address2              | STE 213 B
-employer_city                  | PISCATAWAY
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | HSK TECHNOLOGIES INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
 -[ RECORD 217 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23124-991611
+job_title                      | Business Analyst / Management Analyst
+employer_name                  | Dynasticx LLC
+secondary_entity_business_name | State of New Jersey (Remote Work Location)
+employer_phone                 | 1472809658
+employer_poc_first_name        | Anand
+employer_poc_last_name         | Deepu
+employer_poc_email             | contracts@dynasticx.com
+employer_poc_phone             | 13472809658
+employer_poc_phone_ext         | 
+worksite_address1              | 38 SkillMan Ave
+worksite_address2              | 
+worksite_city                  | Jersey City
+worksite_county                | MERCER
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 695 Hamilton Street
+employer_address2              | Suite 422
+employer_city                  | Somerset
+employer_state                 | NJ
+employer_postal_code           | 08874
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Dynasticx LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 218 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23121-979409
 job_title                      | JAVA DEVELOPER
 employer_name                  | DSSC CONSULTING LLC
@@ -7157,39 +7190,6 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | DSSC CONSULTING LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 218 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23121-978466
-job_title                      | PEGA SYSTEM ARCHITECT
-employer_name                  | HSK TECHNOLOGIES INC
-secondary_entity_business_name | NEW JERSEY JUDICIARY DEPARTMENT
-employer_phone                 | 17325106661
-employer_poc_first_name        | MANJULA
-employer_poc_last_name         | NALAJALLA
-employer_poc_email             | HR@HSKTECHNOLOGIES.NET
-employer_poc_phone             | 17325106661
-employer_poc_phone_ext         | 
-worksite_address1              | RICHARD J HUGHES JUSTICE COMPLEX ,  25 MARKET STREET
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | MARKAN LAW PLLC
-employer_address1              | 15 CORPORATE PL S
-employer_address2              | STE 213 B
-employer_city                  | PISCATAWAY
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | HSK TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 219 ]----------------+------------------------------------------------------------------------------------------------------
@@ -7259,7 +7259,7 @@ employer_name                  | L Soft Corporation
 soc_code                       | 15-1251.00
 h_1b_dependent                 | No
 -[ RECORD 221 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23167-119513
+case_number                    | I-200-23181-158734
 job_title                      | Salesforce Developer
 employer_name                  | NuVision Inc
 secondary_entity_business_name | State of New Jersey, Department of Human Services
@@ -7292,7 +7292,7 @@ employer_name                  | NuVision Inc
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
 -[ RECORD 222 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23181-158734
+case_number                    | I-200-23167-119513
 job_title                      | Salesforce Developer
 employer_name                  | NuVision Inc
 secondary_entity_business_name | State of New Jersey, Department of Human Services
@@ -7523,39 +7523,6 @@ employer_name                  | Mindteck Inc
 soc_code                       | 15-1243.00
 h_1b_dependent                 | Yes
 -[ RECORD 229 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23251-331773
-job_title                      | Sr. QA Tester
-employer_name                  | Tek Tree LLC
-secondary_entity_business_name | New Jersey Police Department
-employer_phone                 | 16154917378
-employer_poc_first_name        | Raghuveer
-employer_poc_last_name         | Bandi
-employer_poc_email             | raghu@tektreeinc.com
-employer_poc_phone             | 16154917378
-employer_poc_phone_ext         | 
-worksite_address1              | 300 Riverview Plaza
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 1106 Drummond Plaza
-employer_address2              | 
-employer_city                  | Newark
-employer_state                 | DE
-employer_postal_code           | 19711
-begin_date                     | 2023-09-18
-end_date                       | 2026-09-17
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Tek Tree LLC
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 230 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23261-354221
 job_title                      | SOFTWARE APPLICATIONS DEVELOPER
 employer_name                  | NIHA TECHNOLOGIES INC
@@ -7588,7 +7555,7 @@ amended_petition               | 1
 employer_name                  | NIHA TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 231 ]----------------+------------------------------------------------------------------------------------------------------
+-[ RECORD 230 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23248-319258
 job_title                      | MZ Azure Cloud Solutions Architect/Engineer
 employer_name                  | Mindteck Inc
@@ -7620,6 +7587,39 @@ change_employer                | 1
 amended_petition               | 0
 employer_name                  | Mindteck Inc
 soc_code                       | 15-1243.00
+h_1b_dependent                 | Yes
+-[ RECORD 231 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23251-331773
+job_title                      | Sr. QA Tester
+employer_name                  | Tek Tree LLC
+secondary_entity_business_name | New Jersey Police Department
+employer_phone                 | 16154917378
+employer_poc_first_name        | Raghuveer
+employer_poc_last_name         | Bandi
+employer_poc_email             | raghu@tektreeinc.com
+employer_poc_phone             | 16154917378
+employer_poc_phone_ext         | 
+worksite_address1              | 300 Riverview Plaza
+worksite_address2              | 
+worksite_city                  | Trenton
+worksite_county                | MERCER
+lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
+employer_address1              | 1106 Drummond Plaza
+employer_address2              | 
+employer_city                  | Newark
+employer_state                 | DE
+employer_postal_code           | 19711
+begin_date                     | 2023-09-18
+end_date                       | 2026-09-17
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Tek Tree LLC
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
 -[ RECORD 232 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23248-319359
@@ -7853,26 +7853,26 @@ employer_name                  | HCL GLOBAL SYSTEMS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 239 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23240-302405
-job_title                      | Technical Architect
-employer_name                  | HD Consulting DBA Hanzo Labs
-secondary_entity_business_name | State Of New Jersey
-employer_phone                 | 18478842594
-employer_poc_first_name        | Preeteshkumar
-employer_poc_last_name         | Patel
-employer_poc_email             | raj@hanzolabs.com
-employer_poc_phone             | 18478842594
+case_number                    | I-200-23230-278038
+job_title                      | DotNet Developer
+employer_name                  | Technodrive Business Solutions Inc
+secondary_entity_business_name | State of New Jersey
+employer_phone                 | 12483403180
+employer_poc_first_name        | Vasu
+employer_poc_last_name         | Gannamaneni
+employer_poc_email             | vasu@technodriveinc.com
+employer_poc_phone             | 12483403180
 employer_poc_phone_ext         | 
-worksite_address1              | 222 South Warren Street
+worksite_address1              | 5 Commerce Way
 worksite_address2              | 
 worksite_city                  | Trenton
 worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
-employer_address1              | 830 E. Higgins Road
-employer_address2              | Ste 111-E
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60173
+lawfirm_name_business_name     | Joseph Kallabat & Associates PC
+employer_address1              | 22710 Haggerty Road
+employer_address2              | Suite 198
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48335
 begin_date                     | 2023-08-28
 end_date                       | 2026-08-27
 total_worker_positions         | 1
@@ -7882,7 +7882,7 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 1
 amended_petition               | 0
-employer_name                  | HD Consulting DBA Hanzo Labs
+employer_name                  | Technodrive Business Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 240 ]----------------+------------------------------------------------------------------------------------------------------
@@ -7952,26 +7952,26 @@ employer_name                  | Hire IT people Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 242 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23230-278038
-job_title                      | DotNet Developer
-employer_name                  | Technodrive Business Solutions Inc
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 12483403180
-employer_poc_first_name        | Vasu
-employer_poc_last_name         | Gannamaneni
-employer_poc_email             | vasu@technodriveinc.com
-employer_poc_phone             | 12483403180
+case_number                    | I-200-23240-302405
+job_title                      | Technical Architect
+employer_name                  | HD Consulting DBA Hanzo Labs
+secondary_entity_business_name | State Of New Jersey
+employer_phone                 | 18478842594
+employer_poc_first_name        | Preeteshkumar
+employer_poc_last_name         | Patel
+employer_poc_email             | raj@hanzolabs.com
+employer_poc_phone             | 18478842594
 employer_poc_phone_ext         | 
-worksite_address1              | 5 Commerce Way
+worksite_address1              | 222 South Warren Street
 worksite_address2              | 
 worksite_city                  | Trenton
 worksite_county                | MERCER
-lawfirm_name_business_name     | Joseph Kallabat & Associates PC
-employer_address1              | 22710 Haggerty Road
-employer_address2              | Suite 198
-employer_city                  | Farmington Hills
-employer_state                 | MI
-employer_postal_code           | 48335
+lawfirm_name_business_name     | LAW OFFICES OF MARY KENNEDY LLC
+employer_address1              | 830 E. Higgins Road
+employer_address2              | Ste 111-E
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60173
 begin_date                     | 2023-08-28
 end_date                       | 2026-08-27
 total_worker_positions         | 1
@@ -7981,7 +7981,7 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 1
 amended_petition               | 0
-employer_name                  | Technodrive Business Solutions Inc
+employer_name                  | HD Consulting DBA Hanzo Labs
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 243 ]----------------+------------------------------------------------------------------------------------------------------
@@ -8183,39 +8183,6 @@ employer_name                  | Mitra Capital Group LLC
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
 -[ RECORD 249 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23116-969524
-job_title                      | Sr Software Developer
-employer_name                  | Tekxel LLC
-secondary_entity_business_name | NJDOA State of New Jersey for Agriculture Department
-employer_phone                 | 17477779139
-employer_poc_first_name        | Naviteja
-employer_poc_last_name         | Nagilla
-employer_poc_email             | hr@tekxel.com
-employer_poc_phone             | 17477779139
-employer_poc_phone_ext         | 
-worksite_address1              | 22 S Clinton Ave
-worksite_address2              | Building 4 3rd floor
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 3442 Francis Road
-employer_address2              | St 160
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30004
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Tekxel LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 250 ]----------------+------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23201-203465
 job_title                      | Sr DevOps Engineer
 employer_name                  | AB TECHNOLOGIES INC
@@ -8248,95 +8215,29 @@ amended_petition               | 0
 employer_name                  | AB TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 251 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23073-846692
-job_title                      | USER INTERFACE DEVELOPER
-employer_name                  | PRO-TEK CONSULTING
-secondary_entity_business_name | STATE OF NEW JERSEY, DEPARTMENT OF HEALTH
-employer_phone                 | 18183246686
-employer_poc_first_name        | RAJ
-employer_poc_last_name         | KESSIREDDY
-employer_poc_email             | ANOOP@PRO-TEKCONSULTING.COM
-employer_poc_phone             | 18183246686
+-[ RECORD 250 ]----------------+------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23116-969524
+job_title                      | Sr Software Developer
+employer_name                  | Tekxel LLC
+secondary_entity_business_name | NJDOA State of New Jersey for Agriculture Department
+employer_phone                 | 17477779139
+employer_poc_first_name        | Naviteja
+employer_poc_last_name         | Nagilla
+employer_poc_email             | hr@tekxel.com
+employer_poc_phone             | 17477779139
 employer_poc_phone_ext         | 
-worksite_address1              | 55 N WILLOW STREET
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | EMANDI LAW FIRM PC
-employer_address1              | 21300 VICTORY BLVD
-employer_address2              | SUITE 240
-employer_city                  | WOODLAND HILLS
-employer_state                 | CA
-employer_postal_code           | 91367
-begin_date                     | 2023-07-27
-end_date                       | 2026-07-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | PRO-TEK CONSULTING
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 252 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23186-166404
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | RAPIDIT INC
-secondary_entity_business_name | State of New Jersey/DHS-DoAS
-employer_phone                 | 16783663820
-employer_poc_first_name        | SAI K K
-employer_poc_last_name         | VEMULAPALLI
-employer_poc_email             | HRADMIN@RAPIDITINC.COM
-employer_poc_phone             | 16783663820
-employer_poc_phone_ext         | 27
-worksite_address1              | 3444 Quakerbridge Rd.
-worksite_address2              | Building 12
-worksite_city                  | Hamilton Township
+worksite_address1              | 22 S Clinton Ave
+worksite_address2              | Building 4 3rd floor
+worksite_city                  | Trenton
 worksite_county                | MERCER
 lawfirm_name_business_name     | 
-employer_address1              | 4080 McGINNIS FERRY ROAD
-employer_address2              | SUITE 1206
-employer_city                  | ALPHARETTA
+employer_address1              | 3442 Francis Road
+employer_address2              | St 160
+employer_city                  | Alpharetta
 employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 2023-07-17
-end_date                       | 2026-07-16
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | RAPIDIT INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 253 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23177-144450
-job_title                      | BUSINESS ANALYST
-employer_name                  | INTELLECTT INC
-secondary_entity_business_name | STATE OF NEW JERSEY
-employer_phone                 | 17324126999
-employer_poc_first_name        | SANGEETA
-employer_poc_last_name         | TRIVEDI
-employer_poc_email             | HR@INTELLECTT.COM
-employer_poc_phone             | 17324126999
-employer_poc_phone_ext         | 
-worksite_address1              | 25 MARKET ST.
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 517 ROUTE 1 S.
-employer_address2              | SUITE 1115
-employer_city                  | ISELIN
-employer_state                 | NJ
-employer_postal_code           | 08830
-begin_date                     | 2023-07-05
-end_date                       | 2026-07-04
+employer_postal_code           | 30004
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
 total_worker_positions         | 1
 new_employment                 | 0
 continued_employment           | 0
@@ -8344,964 +8245,7 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
-employer_name                  | INTELLECTT INC
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 254 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23089-888672
-job_title                      | Business Systems Analyst
-employer_name                  | New York Technology Partners Inc
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 12015210300
-employer_poc_first_name        | Deepa
-employer_poc_last_name         | Srikumar
-employer_poc_email             | deepa@nytp.com
-employer_poc_phone             | 12015210300
-employer_poc_phone_ext         | 
-worksite_address1              | 25 West Market Street
-worksite_address2              | 7th FL
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | New York Technology Partners Inc
-employer_address1              | 120 Wood Avenue S.
-employer_address2              | Suite 504
-employer_city                  | Iselin
-employer_state                 | NJ
-employer_postal_code           | 08830
-begin_date                     | 2023-07-03
-end_date                       | 2026-07-02
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New York Technology Partners Inc
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 255 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23160-096416
-job_title                      | .Net Developer
-employer_name                  | Logicgate Technologies Inc
-secondary_entity_business_name | State of New Jersey / Division of Developmental Disability
-employer_phone                 | 17324071972
-employer_poc_first_name        | Shahena
-employer_poc_last_name         | Mohammed
-employer_poc_email             | hr@logicg.com
-employer_poc_phone             | 17324071972
-employer_poc_phone_ext         | 
-worksite_address1              | 222 South Warren Street
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | Siegel Gross & Tou PC
-employer_address1              | 166 Bunn Dr.
-employer_address2              | Suite 106
-employer_city                  | Princeton
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-06-26
-end_date                       | 2026-06-25
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Logicgate Technologies Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 256 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23034-749843
-job_title                      | INFORMATION SECURITY SPECIALIST
-employer_name                  | 3i INFOTECH INC
-secondary_entity_business_name | STATE OF NEW JERSEY - DEPARTMENT OF HUMAN SERVICES
-employer_phone                 | 17327104444
-employer_poc_first_name        | RAVIKUMAR
-employer_poc_last_name         | CHOKKAPU
-employer_poc_email             | IMMIGRATION.US@3I-INFOTECH.COM
-employer_poc_phone             | 17327104444
-employer_poc_phone_ext         | 
-worksite_address1              | 222 S. WARREN ST.
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 110 FIELDCREST AVENUE
-employer_address2              | SUITE 25
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08837
-begin_date                     | 2023-06-22
-end_date                       | 2026-06-21
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | 3i INFOTECH INC
-soc_code                       | 15-1212.00
-h_1b_dependent                 | Yes
--[ RECORD 257 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23032-743355
-job_title                      | INFORMATION SECURITY SPECIALIST
-employer_name                  | 3i INFOTECH INC
-secondary_entity_business_name | STATE OF NEW JERSEY -  DEPARTMENT OF HUMAN SERVICES
-employer_phone                 | 17327104444
-employer_poc_first_name        | RAVIKUMAR
-employer_poc_last_name         | CHOKKAPU
-employer_poc_email             | IMMIGRATION.US@3I-INFOTECH.COM
-employer_poc_phone             | 17327104444
-employer_poc_phone_ext         | 
-worksite_address1              | 222 S. WARREN ST.
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 110 FIELDCREST AVENUE
-employer_address2              | SUITE 22
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08837
-begin_date                     | 2023-06-22
-end_date                       | 2026-06-21
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | 3i INFOTECH INC
-soc_code                       | 15-1212.00
-h_1b_dependent                 | Yes
--[ RECORD 258 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23164-107225
-job_title                      | Java Developer
-employer_name                  | BRILLIUS TECHNOLOGIES INC
-secondary_entity_business_name | NJ - Department of Judiciary
-employer_phone                 | 15103799024
-employer_poc_first_name        | Ram Naresh
-employer_poc_last_name         | Danda
-employer_poc_email             | immigration@brillius.com
-employer_poc_phone             | 15103799024
-employer_poc_phone_ext         | 
-worksite_address1              | Richard J. Hughes Justice Complex 25 Market Street
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | REDDY & NEUMANN PC
-employer_address1              | 4305 Hacienda Drive, Suite 465
-employer_address2              | 
-employer_city                  | Pleasanton
-employer_state                 | CA
-employer_postal_code           | 94588
-begin_date                     | 2023-06-20
-end_date                       | 2026-06-19
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | BRILLIUS TECHNOLOGIES INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 259 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23032-741122
-job_title                      | Software Developer
-employer_name                  | Anveta Inc
-secondary_entity_business_name | Motor Vehicle Commission State of New Jersey
-employer_phone                 | 14697132615
-employer_poc_first_name        | Latha
-employer_poc_last_name         | Sha
-employer_poc_email             | hr1@anveta.com
-employer_poc_phone             | 14697132615
-employer_poc_phone_ext         | 
-worksite_address1              | 225 E State St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 1333 Corporate Dr
-employer_address2              | STE 108
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75038
-begin_date                     | 2023-06-08
-end_date                       | 2026-06-07
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Anveta Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 260 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23034-747384
-job_title                      | Senior Consultant 1
-employer_name                  | Anveta Inc
-secondary_entity_business_name | Motor Vehicle Commission State of New Jersey
-employer_phone                 | 14697132615
-employer_poc_first_name        | Latha
-employer_poc_last_name         | Sha
-employer_poc_email             | hr1@anveta.com
-employer_poc_phone             | 14697132615
-employer_poc_phone_ext         | 
-worksite_address1              | 225 E State St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 1333 Corporate Dr
-employer_address2              | STE 108
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75038
-begin_date                     | 2023-06-08
-end_date                       | 2026-06-07
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Anveta Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 261 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23157-084956
-job_title                      | Software Engineer
-employer_name                  | Cyber Infotech LLC
-secondary_entity_business_name | State of New Jersey Department of Education
-employer_phone                 | 17342626138
-employer_poc_first_name        | Vishnu
-employer_poc_last_name         | Polagani
-employer_poc_email             | vishnu.@cyberinfotek.com
-employer_poc_phone             | 17342626138
-employer_poc_phone_ext         | 
-worksite_address1              | 100 Riverview Plaza
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | BBI LAW GROUP PC
-employer_address1              | 438 North Frederick Ave
-employer_address2              | STE 455
-employer_city                  | Gaithersburg
-employer_state                 | MD
-employer_postal_code           | 20877
-begin_date                     | 2023-06-06
-end_date                       | 2026-06-05
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Cyber Infotech LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 262 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23145-055438
-job_title                      | Java Developer
-employer_name                  | Hire IT people Inc
-secondary_entity_business_name | Department of Health, State of New Jersey
-employer_phone                 | 12025881841
-employer_poc_first_name        | Dan
-employer_poc_last_name         | Nandan
-employer_poc_email             | dan@hireitpeople.com
-employer_poc_phone             | 12025881841
-employer_poc_phone_ext         | 
-worksite_address1              | 55 North Willow St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 15 Corporate Pl S
-employer_address2              | STE 145
-employer_city                  | Piscataway
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2023-06-05
-end_date                       | 2026-06-04
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Hire IT people Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 263 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23145-055438
-job_title                      | Java Developer
-employer_name                  | Hire IT people Inc
-secondary_entity_business_name | Department of Health, State of New Jersey
-employer_phone                 | 12025881841
-employer_poc_first_name        | Dan
-employer_poc_last_name         | Nandan
-employer_poc_email             | dan@hireitpeople.com
-employer_poc_phone             | 12025881841
-employer_poc_phone_ext         | 
-worksite_address1              | 55 North Willow St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 15 Corporate Pl S
-employer_address2              | STE 145
-employer_city                  | Piscataway
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2023-06-05
-end_date                       | 2026-06-04
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Hire IT people Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 264 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23031-739280
-job_title                      | Siebel Solutions Architect
-employer_name                  | Tek Tree LLC
-secondary_entity_business_name | State of New Jersey – Department of Treasury, Division of Pensions and Benefits (NJDPB)
-employer_phone                 | 16154917378
-employer_poc_first_name        | Raghuveer
-employer_poc_last_name         | Bandi
-employer_poc_email             | raghu@tektreeinc.com
-employer_poc_phone             | 16154917378
-employer_poc_phone_ext         | 
-worksite_address1              | 50 West State St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 1106 Drummond Plaza
-employer_address2              | 
-employer_city                  | Newark
-employer_state                 | DE
-employer_postal_code           | 19711
-begin_date                     | 2023-06-03
-end_date                       | 2026-06-02
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Tek Tree LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 265 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23124-992906
-job_title                      | PEGA CERTIFIED SYSTEM ARCHITECT
-employer_name                  | LAK SOFTWARE SOLUTIONS INC
-secondary_entity_business_name | STATE OF NEW JERSEY
-employer_phone                 | 16173208984
-employer_poc_first_name        | LAKSHMI
-employer_poc_last_name         | RAVIPATI
-employer_poc_email             | LAKS@LAKSOFTWARESOLUTIONS.COM
-employer_poc_phone             | 16173208984
-employer_poc_phone_ext         | 
-worksite_address1              | 25 MARKET ST.
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 103 CARNEGIE CENTER
-employer_address2              | SUITE 300
-employer_city                  | PRINCETON
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-05-12
-end_date                       | 2026-05-11
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | LAK SOFTWARE SOLUTIONS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 266 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23118-976155
-job_title                      | SYSTEM ARCHITECT (PEGA)
-employer_name                  | ALTEXT INC
-secondary_entity_business_name | STATE OF NEW JERSEY – NJAOC
-employer_phone                 | 19175905060
-employer_poc_first_name        | SHYLU
-employer_poc_last_name         | SANTHOSH
-employer_poc_email             | IMMIGRATION@ALTEXTINC.COM
-employer_poc_phone             | 19175905060
-employer_poc_phone_ext         | 
-worksite_address1              | 25 MARKET ST
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | REGENCY PLACE, 2310 E OAKLAND AVE
-employer_address2              | SUITE 3
-employer_city                  | BLOOMINGTON
-employer_state                 | IL
-employer_postal_code           | 61701
-begin_date                     | 2023-05-08
-end_date                       | 2026-05-07
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | ALTEXT INC
-soc_code                       | 15-1299.08
-h_1b_dependent                 | No
--[ RECORD 267 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23118-976132
-job_title                      | SYSTEM ARCHITECT (PEGA)
-employer_name                  | ALTEXT INC
-secondary_entity_business_name | STATE OF NEW JERSEY – NJAOC
-employer_phone                 | 19175905060
-employer_poc_first_name        | SHYLU
-employer_poc_last_name         | SANTHOSH
-employer_poc_email             | IMMIGRATION@ALTEXTINC.COM
-employer_poc_phone             | 19175905060
-employer_poc_phone_ext         | 
-worksite_address1              | 25 MARKET ST
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | REGENCY PLACE, 2310 E OAKLAND AVE
-employer_address2              | SUITE 3
-employer_city                  | BLOOMINGTON
-employer_state                 | IL
-employer_postal_code           | 61701
-begin_date                     | 2023-05-08
-end_date                       | 2026-05-07
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | ALTEXT INC
-soc_code                       | 15-1299.08
-h_1b_dependent                 | No
--[ RECORD 268 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23116-965886
-job_title                      | Software Engineer
-employer_name                  | 9M Solutions Inc
-secondary_entity_business_name | New Jersey State Division of Medical Assistance
-employer_phone                 | 13109189589
-employer_poc_first_name        | Madhava
-employer_poc_last_name         | Mareddy
-employer_poc_email             | madhava@9m-solutions.com
-employer_poc_phone             | 13109189589
-employer_poc_phone_ext         | 
-worksite_address1              | 5 Quakerbridge Plaza
-worksite_address2              | 
-worksite_city                  | Hamilton Township
-worksite_county                | MERCER
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 756 Tyvola Road
-employer_address2              | STE 143
-employer_city                  | Charlotte
-employer_state                 | NC
-employer_postal_code           | 28217
-begin_date                     | 2023-05-05
-end_date                       | 2026-05-04
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | 9M Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 269 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23110-951083
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | NEO TECH SOLUTIONS INC
-secondary_entity_business_name | STATE OF NEW JERSEY
-employer_phone                 | 19082423682
-employer_poc_first_name        | KRISHNA
-employer_poc_last_name         | REDDY
-employer_poc_email             | KRISHNA@NEOTECHUSA.COM
-employer_poc_phone             | 19082423682
-employer_poc_phone_ext         | 
-worksite_address1              | 25 MARKET STREET
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 515 PLAINFIELD AVENUE
-employer_address2              | SUITE 204
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 2023-04-28
-end_date                       | 2026-04-27
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | NEO TECH SOLUTIONS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 270 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23109-945194
-job_title                      | MAINFRAME DOCUMENTATION
-employer_name                  | DVG TECH SOLUTIONS LLC
-secondary_entity_business_name | STATE OF NJ-(DEPARTMENT OF JUDICIARY)
-employer_phone                 | 16098886198
-employer_poc_first_name        | NAGABHUSHANA
-employer_poc_last_name         | GEEDHARA
-employer_poc_email             | NAG@DVGTS.COM
-employer_poc_phone             | 16098886198
-employer_poc_phone_ext         | 
-worksite_address1              | 25 MARKET STREET
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 666 PLAINSBORO ROAD
-employer_address2              | SUITE 1010
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 2023-04-26
-end_date                       | 2026-04-25
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | DVG TECH SOLUTIONS LLC
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 271 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23110-953330
-job_title                      | Software Engineer
-employer_name                  | Cyber Infotech LLC
-secondary_entity_business_name | Sate of New Jersey Department of Education
-employer_phone                 | 17342626138
-employer_poc_first_name        | Vishnu
-employer_poc_last_name         | Polagani
-employer_poc_email             | vishnu.@cyberinfotek.com
-employer_poc_phone             | 17342626138
-employer_poc_phone_ext         | 
-worksite_address1              | 100 Riverview Plaza
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | BBI LAW GROUP PC
-employer_address1              | 438 North Frederick Ave
-employer_address2              | STE 455
-employer_city                  | Gaithersburg
-employer_state                 | MD
-employer_postal_code           | 20877
-begin_date                     | 2023-04-20
-end_date                       | 2026-04-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Cyber Infotech LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 272 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23103-931537
-job_title                      | Network Engineer
-employer_name                  | Insight Data LLC
-secondary_entity_business_name | New Jersey Department of Human Services Central Office
-employer_phone                 | 15168842499
-employer_poc_first_name        | Anjan
-employer_poc_last_name         | MANDALA
-employer_poc_email             | kumar@insightdatausa.com
-employer_poc_phone             | 15168842499
-employer_poc_phone_ext         | 
-worksite_address1              | 222 S Warren St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
-employer_address1              | 8106 Normandy Dr
-employer_address2              | 
-employer_city                  | Mount Laurel
-employer_state                 | NJ
-employer_postal_code           | 08054
-begin_date                     | 2023-04-20
-end_date                       | 2026-04-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Insight Data LLC
-soc_code                       | 15-1241.00
-h_1b_dependent                 | No
--[ RECORD 273 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25056-722122
-job_title                      | SALESFORCE DEVELOPER
-employer_name                  | GREENBYTE TECHNOLOGIES LLC
-secondary_entity_business_name | STATE OF NEW JERSEY
-employer_phone                 | 12489875700
-employer_poc_first_name        | AMANDA
-employer_poc_last_name         | VANHOOSER
-employer_poc_email             | HR@GREENBYTEIT.COM
-employer_poc_phone             | 12489875700
-employer_poc_phone_ext         | 
-worksite_address1              | 200 RIVERVIEW PLAZA
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 22710 HAGGERTY ROAD
-employer_address2              | SUITE 100
-employer_city                  | FARMINGTON HILLS
-employer_state                 | MI
-employer_postal_code           | 48335
-begin_date                     | 2025-03-03
-end_date                       | 2026-04-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | GREENBYTE TECHNOLOGIES LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 274 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23087-884664
-job_title                      | PEGA CERTIFIED SYSTEM ARCHITECT
-employer_name                  | LAK SOFTWARE SOLUTIONS INC
-secondary_entity_business_name | STATE OF NEW JERSEY
-employer_phone                 | 16173208984
-employer_poc_first_name        | LAKSHMI
-employer_poc_last_name         | RAVIPATI
-employer_poc_email             | LAKS@LAKSOFTWARESOLUTIONS.COM
-employer_poc_phone             | 16173208984
-employer_poc_phone_ext         | 
-worksite_address1              | 25 MARKET ST.
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 103 CARNEGIE CENTER
-employer_address2              | SUITE 300
-employer_city                  | PRINCETON
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2023-04-05
-end_date                       | 2026-04-04
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | LAK SOFTWARE SOLUTIONS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 275 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23038-754867
-job_title                      | Siebel Administrator
-employer_name                  | INTERNATIONAL BUSINESS MACHINES CORPORATION
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 18004264968
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | Boynton-Hedrick
-employer_poc_email             | Jessica.Boynton-Hedrick@ibm.com
-employer_poc_phone             | 19195430507
-employer_poc_phone_ext         | 
-worksite_address1              | 50 West State Street
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 3039 CORNWALLIS ROAD
-employer_address2              | BUILDING 002
-employer_city                  | DURHAM
-employer_state                 | NC
-employer_postal_code           | 27709-2195
-begin_date                     | 2023-04-03
-end_date                       | 2026-04-02
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | INTERNATIONAL BUSINESS MACHINES CORPORATION
-soc_code                       | 15-1211.00
-h_1b_dependent                 | No
--[ RECORD 276 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23083-877303
-job_title                      | Software Developer
-employer_name                  | FIRST TEK INC
-secondary_entity_business_name | New Jersey Department of Human Services
-employer_phone                 | 17327450107
-employer_poc_first_name        | Doreen
-employer_poc_last_name         | Villaverde
-employer_poc_email             | hr@first-tek.com
-employer_poc_phone             | 17327450107
-employer_poc_phone_ext         | 
-worksite_address1              | 8 Chamberlin Ct,
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 371 Hoes Lane
-employer_address2              | Suite 201
-employer_city                  | Piscataway,
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2023-04-03
-end_date                       | 2026-04-02
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | FIRST TEK INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 277 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23364-599981
-job_title                      | SQL Server Developer
-employer_name                  | ISQUAREINFO LLC
-secondary_entity_business_name | VDH (Virginia Department of Health)
-employer_phone                 | 19176775553
-employer_poc_first_name        | Puja
-employer_poc_last_name         | Sonawane
-employer_poc_email             | hr@isquareinfo.com
-employer_poc_phone             | 19176775553
-employer_poc_phone_ext         | 
-worksite_address1              | 194 ZABRISKIE ST
-worksite_address2              | 
-worksite_city                  | JERSEY CITY
-worksite_county                | HUDSON
-lawfirm_name_business_name     | 
-employer_address1              | 411 Hackensack Avenue
-employer_address2              | SUITE 200
-employer_city                  | Hackensack
-employer_state                 | NJ
-employer_postal_code           | 07601
-begin_date                     | 2023-12-30
-end_date                       | 2026-03-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | ISQUAREINFO LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 278 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24012-636591
-job_title                      | SQL Server Developer
-employer_name                  | ISQUAREINFO LLC
-secondary_entity_business_name | VDH (Virginia Department of Health)
-employer_phone                 | 19176775553
-employer_poc_first_name        | Puja
-employer_poc_last_name         | Sonawane
-employer_poc_email             | hr@isquareinfo.com
-employer_poc_phone             | 19176775553
-employer_poc_phone_ext         | 
-worksite_address1              | 194 ZABRISKIE ST
-worksite_address2              | 
-worksite_city                  | JERSEY CITY
-worksite_county                | HUDSON
-lawfirm_name_business_name     | 
-employer_address1              | 411 Hackensack Avenue
-employer_address2              | SUITE 200
-employer_city                  | Hackensack
-employer_state                 | NJ
-employer_postal_code           | 07601
-begin_date                     | 2024-01-12
-end_date                       | 2026-03-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | ISQUAREINFO LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 279 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22348-638954
-job_title                      | Software Developer
-employer_name                  | Softcom Systems Inc
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 16093339000
-employer_poc_first_name        | Satyam
-employer_poc_last_name         | YALALA
-employer_poc_email             | softcom-hr@softcomsystems.com
-employer_poc_phone             | 16093339000
-employer_poc_phone_ext         | 
-worksite_address1              | 25 Market Street
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 104 Tamarack Circle
-employer_address2              | 
-employer_city                  | Skillman
-employer_state                 | NJ
-employer_postal_code           | 08558
-begin_date                     | 2023-03-25
-end_date                       | 2026-03-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Softcom Systems Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 280 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22331-606357
-job_title                      | Software Developer
-employer_name                  | Softcom Systems Inc
-secondary_entity_business_name | State of New Jersey
-employer_phone                 | 16093339000
-employer_poc_first_name        | Satyam
-employer_poc_last_name         | YALALA
-employer_poc_email             | softcom-hr@softcomsystems.com
-employer_poc_phone             | 16093339000
-employer_poc_phone_ext         | 
-worksite_address1              | 25 Market Street
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 104 Tamarack Circle
-employer_address2              | 
-employer_city                  | Skillman
-employer_state                 | NJ
-employer_postal_code           | 08558
-begin_date                     | 2023-03-25
-end_date                       | 2026-03-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Softcom Systems Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 281 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23074-851822
-job_title                      | Network Engineer
-employer_name                  | Insight Data LLC
-secondary_entity_business_name | New Jersey Department of Human Services Central Office
-employer_phone                 | 15168842499
-employer_poc_first_name        | Anjan
-employer_poc_last_name         | MANDALA
-employer_poc_email             | kumar@insightdatausa.com
-employer_poc_phone             | 15168842499
-employer_poc_phone_ext         | 
-worksite_address1              | 222 S Warren St
-worksite_address2              | 
-worksite_city                  | Trenton
-worksite_county                | MERCER
-lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
-employer_address1              | 8106 Normandy Dr
-employer_address2              | 
-employer_city                  | Mount Laurel
-employer_state                 | NJ
-employer_postal_code           | 08054
-begin_date                     | 2023-03-22
-end_date                       | 2026-03-21
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Insight Data LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 282 ]----------------+------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22319-588900
-job_title                      | CRM DEVELOPER/ANALYST
-employer_name                  | CINERGY TECHNOLOGY INC
-secondary_entity_business_name | NEW JERSEY DEPARTMENT OF HEALTH (NJ DOH)
-employer_phone                 | 17326483577
-employer_poc_first_name        | SAIBABA
-employer_poc_last_name         | NANDURI
-employer_poc_email             | SAI@CINERGYTECH.COM
-employer_poc_phone             | 17326483577
-employer_poc_phone_ext         | 
-worksite_address1              | 55 N Willow Street
-worksite_address2              | 
-worksite_city                  | TRENTON
-worksite_county                | MERCER
-lawfirm_name_business_name     | 
-employer_address1              | 100 PLAINFIELD AVENUE
-employer_address2              | SUITE 7
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 2023-03-15
-end_date                       | 2026-03-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | CINERGY TECHNOLOGY INC
+employer_name                  | Tekxel LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 

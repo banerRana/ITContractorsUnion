@@ -164,26 +164,59 @@ employer_name                  | Strategic Resources International Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+--------------------------------------------------------------------
-case_number                    | I-200-25143-015070
-job_title                      | DATA ANALYST
-employer_name                  | SPARK TEK INC
-secondary_entity_business_name | INDIANA DEPARTMENT OF HEALTH
-employer_phone                 | 19726668356
-employer_poc_first_name        | NAGARAJU
-employer_poc_last_name         | PERNI
-employer_poc_email             | RAJ.PERNI@SPARKTEKUSA.COM
-employer_poc_phone             | 19726668356
+case_number                    | I-200-25111-885915
+job_title                      | Business Analyst
+employer_name                  | Altair Technologies Inc
+secondary_entity_business_name | State of Indiana - Department of Health
+employer_phone                 | 17206753656
+employer_poc_first_name        | Surya
+employer_poc_last_name         | Booragadda
+employer_poc_email             | immigration@altairtechnologiesinc.com
+employer_poc_phone             | 17206753656
 employer_poc_phone_ext         | 
-worksite_address1              | 2 N MERIDIAN STREET
+worksite_address1              | North Meridian Street
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 11675 Century dr
+employer_address2              | STE A
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30009
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Altair Technologies Inc
+soc_code                       | 15-2051.01
+h_1b_dependent                 | No
+-[ RECORD 7 ]------------------+--------------------------------------------------------------------
+case_number                    | I-200-25128-956292
+job_title                      | SALESFORCE DEVELOPER
+employer_name                  | VIACORE TECHNOLOGIES INC
+secondary_entity_business_name | STATE OF INDIANA
+employer_phone                 | 19455271936
+employer_poc_first_name        | MITESH
+employer_poc_last_name         | CHHEDA
+employer_poc_email             | IMMIGRATION@VIACOREINC.COM
+employer_poc_phone             | 19455271936
+employer_poc_phone_ext         | 
+worksite_address1              | 1 N CAPITOL AVE.
 worksite_address2              | 
 worksite_city                  | INDIANAPOLIS
 worksite_county                | MARION
 lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 10045 RED RUN BLVD.
-employer_address2              | SUITE 115
-employer_city                  | OWINGS MILLS
-employer_state                 | MD
-employer_postal_code           | 21117
+employer_address1              | 666 PLAINSBORO ROAD
+employer_address2              | SUITE 1018
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
 begin_date                     | 2025-10-01
 end_date                       | 2028-09-30
 total_worker_positions         | 1
@@ -193,41 +226,8 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | SPARK TEK INC
-soc_code                       | 15-2051
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+--------------------------------------------------------------------
-case_number                    | I-200-25169-108674
-job_title                      | Program Manager
-employer_name                  | Hydrozn LLC
-secondary_entity_business_name | Indiana Department of Health
-employer_phone                 | 13615226762
-employer_poc_first_name        | Prakash Reddy
-employer_poc_last_name         | Katanguri
-employer_poc_email             | hr@hydrozn.com
-employer_poc_phone             | 13615226762
-employer_poc_phone_ext         | 
-worksite_address1              | 2N Meridian St
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | PATEL LAW GROUP PLLC
-employer_address1              | 8526 Bay Colony Dr
-employer_address2              | 
-employer_city                  | Indianapolis
-employer_state                 | IN
-employer_postal_code           | 46234
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Hydrozn LLC
-soc_code                       | 15-1299.09
+employer_name                  | VIACORE TECHNOLOGIES INC
+soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 8 ]------------------+--------------------------------------------------------------------
 case_number                    | I-200-25121-928628
@@ -263,72 +263,6 @@ employer_name                  | GDN Infotech Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 9 ]------------------+--------------------------------------------------------------------
-case_number                    | I-200-25128-956292
-job_title                      | SALESFORCE DEVELOPER
-employer_name                  | VIACORE TECHNOLOGIES INC
-secondary_entity_business_name | STATE OF INDIANA
-employer_phone                 | 19455271936
-employer_poc_first_name        | MITESH
-employer_poc_last_name         | CHHEDA
-employer_poc_email             | IMMIGRATION@VIACOREINC.COM
-employer_poc_phone             | 19455271936
-employer_poc_phone_ext         | 
-worksite_address1              | 1 N CAPITOL AVE.
-worksite_address2              | 
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 666 PLAINSBORO ROAD
-employer_address2              | SUITE 1018
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | VIACORE TECHNOLOGIES INC
-soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 10 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-25126-945177
-job_title                      | Data Scientist
-employer_name                  | Saipro Systems LLC
-secondary_entity_business_name | Indiana Department of Transportation
-employer_phone                 | 13172221048
-employer_poc_first_name        | Padmanabha Reddy
-employer_poc_last_name         | Pothireddy
-employer_poc_email             | reddy@saipros.com
-employer_poc_phone             | 13176030270
-employer_poc_phone_ext         | 
-worksite_address1              | 100 N Senate Avenue
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Murthy Law Firm
-employer_address1              | 14384 Chariots Whisper Drive
-employer_address2              | 
-employer_city                  | Carmel
-employer_state                 | IN
-employer_postal_code           | 46074
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Saipro Systems LLC
-soc_code                       | 15-2051
-h_1b_dependent                 | No
--[ RECORD 11 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25169-107403
 job_title                      | Data Analyst
 employer_name                  | Vignesh Technological Solutions Inc
@@ -361,8 +295,8 @@ amended_petition               | 0
 employer_name                  | Vignesh Technological Solutions Inc
 soc_code                       | 15-2051
 h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-25143-013369
+-[ RECORD 10 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-25143-015070
 job_title                      | DATA ANALYST
 employer_name                  | SPARK TEK INC
 secondary_entity_business_name | INDIANA DEPARTMENT OF HEALTH
@@ -372,41 +306,8 @@ employer_poc_last_name         | PERNI
 employer_poc_email             | RAJ.PERNI@SPARKTEKUSA.COM
 employer_poc_phone             | 19726668356
 employer_poc_phone_ext         | 
-worksite_address1              | 2 N. MERIDIAN ST.
-worksite_address2              | 
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 10045 RED RUN BLVD.
-employer_address2              | SUITE 115
-employer_city                  | OWINGS MILLS
-employer_state                 | MD
-employer_postal_code           | 21117
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SPARK TEK INC
-soc_code                       | 15-2051
-h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-25139-993563
-job_title                      | DATA ANALYST
-employer_name                  | SPARK TEK INC
-secondary_entity_business_name | INDIANA DEPARTMENT OF HEALTH (IDOH)
-employer_phone                 | 19726668356
-employer_poc_first_name        | NAGARAJU
-employer_poc_last_name         | PERNI
-employer_poc_email             | RAJ.PERNI@SPARKTEKUSA.COM
-employer_poc_phone             | 19726668356
-employer_poc_phone_ext         | 
 worksite_address1              | 2 N MERIDIAN STREET
-worksite_address2              | FLR. 7TH
+worksite_address2              | 
 worksite_city                  | INDIANAPOLIS
 worksite_county                | MARION
 lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
@@ -427,40 +328,7 @@ amended_petition               | 0
 employer_name                  | SPARK TEK INC
 soc_code                       | 15-2051
 h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-25111-885915
-job_title                      | Business Analyst
-employer_name                  | Altair Technologies Inc
-secondary_entity_business_name | State of Indiana - Department of Health
-employer_phone                 | 17206753656
-employer_poc_first_name        | Surya
-employer_poc_last_name         | Booragadda
-employer_poc_email             | immigration@altairtechnologiesinc.com
-employer_poc_phone             | 17206753656
-employer_poc_phone_ext         | 
-worksite_address1              | North Meridian Street
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 11675 Century dr
-employer_address2              | STE A
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30009
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Altair Technologies Inc
-soc_code                       | 15-2051.01
-h_1b_dependent                 | No
--[ RECORD 15 ]-----------------+--------------------------------------------------------------------
+-[ RECORD 11 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25154-046445
 job_title                      | DATA ANALYST
 employer_name                  | SPARK TEK INC
@@ -493,27 +361,27 @@ amended_petition               | 0
 employer_name                  | SPARK TEK INC
 soc_code                       | 15-2051.02
 h_1b_dependent                 | Yes
--[ RECORD 16 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-25098-844205
-job_title                      | .NET DEVELOPER
-employer_name                  | DALLASTEK SOFTWARE SOLUTIONS LLC
-secondary_entity_business_name | INDIANA DEPARTMENT OF HEALTH - IDOH
-employer_phone                 | 13177744377
-employer_poc_first_name        | CHANDRA
-employer_poc_last_name         | CHITIBOMMA
-employer_poc_email             | CHANDRA@DALLASTEKSOL.COM
-employer_poc_phone             | 13177744377
+-[ RECORD 12 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-25169-108674
+job_title                      | Program Manager
+employer_name                  | Hydrozn LLC
+secondary_entity_business_name | Indiana Department of Health
+employer_phone                 | 13615226762
+employer_poc_first_name        | Prakash Reddy
+employer_poc_last_name         | Katanguri
+employer_poc_email             | hr@hydrozn.com
+employer_poc_phone             | 13615226762
 employer_poc_phone_ext         | 
-worksite_address1              | 2 N MERIDIAN ST.
+worksite_address1              | 2N Meridian St
 worksite_address2              | 
-worksite_city                  | INDIANAPOLIS
+worksite_city                  | Indianapolis
 worksite_county                | MARION
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 3900 S STONEBRIDGE DR.
-employer_address2              | SUITE 901
-employer_city                  | MCKINNEY
-employer_state                 | TX
-employer_postal_code           | 75070
+lawfirm_name_business_name     | PATEL LAW GROUP PLLC
+employer_address1              | 8526 Bay Colony Dr
+employer_address2              | 
+employer_city                  | Indianapolis
+employer_state                 | IN
+employer_postal_code           | 46234
 begin_date                     | 2025-10-01
 end_date                       | 2028-09-30
 total_worker_positions         | 1
@@ -523,10 +391,10 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | DALLASTEK SOFTWARE SOLUTIONS LLC
-soc_code                       | 15-1252
+employer_name                  | Hydrozn LLC
+soc_code                       | 15-1299.09
 h_1b_dependent                 | No
--[ RECORD 17 ]-----------------+--------------------------------------------------------------------
+-[ RECORD 13 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25107-875050
 job_title                      | Applications Systems Programmer
 employer_name                  | App Dynamic Systems LLC
@@ -559,6 +427,138 @@ amended_petition               | 0
 employer_name                  | App Dynamic Systems LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | No
+-[ RECORD 14 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-25126-945177
+job_title                      | Data Scientist
+employer_name                  | Saipro Systems LLC
+secondary_entity_business_name | Indiana Department of Transportation
+employer_phone                 | 13172221048
+employer_poc_first_name        | Padmanabha Reddy
+employer_poc_last_name         | Pothireddy
+employer_poc_email             | reddy@saipros.com
+employer_poc_phone             | 13176030270
+employer_poc_phone_ext         | 
+worksite_address1              | 100 N Senate Avenue
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Murthy Law Firm
+employer_address1              | 14384 Chariots Whisper Drive
+employer_address2              | 
+employer_city                  | Carmel
+employer_state                 | IN
+employer_postal_code           | 46074
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Saipro Systems LLC
+soc_code                       | 15-2051
+h_1b_dependent                 | No
+-[ RECORD 15 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-25098-844205
+job_title                      | .NET DEVELOPER
+employer_name                  | DALLASTEK SOFTWARE SOLUTIONS LLC
+secondary_entity_business_name | INDIANA DEPARTMENT OF HEALTH - IDOH
+employer_phone                 | 13177744377
+employer_poc_first_name        | CHANDRA
+employer_poc_last_name         | CHITIBOMMA
+employer_poc_email             | CHANDRA@DALLASTEKSOL.COM
+employer_poc_phone             | 13177744377
+employer_poc_phone_ext         | 
+worksite_address1              | 2 N MERIDIAN ST.
+worksite_address2              | 
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 3900 S STONEBRIDGE DR.
+employer_address2              | SUITE 901
+employer_city                  | MCKINNEY
+employer_state                 | TX
+employer_postal_code           | 75070
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | DALLASTEK SOFTWARE SOLUTIONS LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 16 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-25139-993563
+job_title                      | DATA ANALYST
+employer_name                  | SPARK TEK INC
+secondary_entity_business_name | INDIANA DEPARTMENT OF HEALTH (IDOH)
+employer_phone                 | 19726668356
+employer_poc_first_name        | NAGARAJU
+employer_poc_last_name         | PERNI
+employer_poc_email             | RAJ.PERNI@SPARKTEKUSA.COM
+employer_poc_phone             | 19726668356
+employer_poc_phone_ext         | 
+worksite_address1              | 2 N MERIDIAN STREET
+worksite_address2              | FLR. 7TH
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 10045 RED RUN BLVD.
+employer_address2              | SUITE 115
+employer_city                  | OWINGS MILLS
+employer_state                 | MD
+employer_postal_code           | 21117
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SPARK TEK INC
+soc_code                       | 15-2051
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-25143-013369
+job_title                      | DATA ANALYST
+employer_name                  | SPARK TEK INC
+secondary_entity_business_name | INDIANA DEPARTMENT OF HEALTH
+employer_phone                 | 19726668356
+employer_poc_first_name        | NAGARAJU
+employer_poc_last_name         | PERNI
+employer_poc_email             | RAJ.PERNI@SPARKTEKUSA.COM
+employer_poc_phone             | 19726668356
+employer_poc_phone_ext         | 
+worksite_address1              | 2 N. MERIDIAN ST.
+worksite_address2              | 
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 10045 RED RUN BLVD.
+employer_address2              | SUITE 115
+employer_city                  | OWINGS MILLS
+employer_state                 | MD
+employer_postal_code           | 21117
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SPARK TEK INC
+soc_code                       | 15-2051
+h_1b_dependent                 | Yes
 -[ RECORD 18 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25105-865004
 job_title                      | DATABASE ANALYST
@@ -641,7 +641,7 @@ worksite_address2              | Ste W
 worksite_city                  | Indianapolis
 worksite_county                | MARION
 lawfirm_name_business_name     | BBI Law Group PC
-employer_address1              | 200  East Campus View Blvd.,
+employer_address1              | 200 East Campus View Blvd.,
 employer_address2              | Suite 200
 employer_city                  | Columbus
 employer_state                 | OH
@@ -890,39 +890,6 @@ employer_name                  | Indiana State University
 soc_code                       | 25-1032
 h_1b_dependent                 | No
 -[ RECORD 28 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-25139-992966
-job_title                      | Assistant Professor of Earth and Environmental Systems
-employer_name                  | Indiana State University
-secondary_entity_business_name | 
-employer_phone                 | 18122378775
-employer_poc_first_name        | Susan
-employer_poc_last_name         | Powers
-employer_poc_email             | Susan.Powers@indstate.edu
-employer_poc_phone             | 18122378775
-employer_poc_phone_ext         | 
-worksite_address1              | Indiana State University
-worksite_address2              | 200 North 7th Street
-worksite_city                  | Terre Haute
-worksite_county                | VIGO
-lawfirm_name_business_name     | Lewis Kappes PC
-employer_address1              | 200 North 7th Street
-employer_address2              | 
-employer_city                  | Terre Haute
-employer_state                 | IN
-employer_postal_code           | 47809
-begin_date                     | 2025-05-28
-end_date                       | 2028-05-27
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Indiana State University
-soc_code                       | 25-1053
-h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25139-993738
 job_title                      | Assistant Professor of Earth and Environmental Systems
 employer_name                  | Indiana State University
@@ -954,6 +921,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Indiana State University
 soc_code                       | 25-1051
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-25139-992966
+job_title                      | Assistant Professor of Earth and Environmental Systems
+employer_name                  | Indiana State University
+secondary_entity_business_name | 
+employer_phone                 | 18122378775
+employer_poc_first_name        | Susan
+employer_poc_last_name         | Powers
+employer_poc_email             | Susan.Powers@indstate.edu
+employer_poc_phone             | 18122378775
+employer_poc_phone_ext         | 
+worksite_address1              | Indiana State University
+worksite_address2              | 200 North 7th Street
+worksite_city                  | Terre Haute
+worksite_county                | VIGO
+lawfirm_name_business_name     | Lewis Kappes PC
+employer_address1              | 200 North 7th Street
+employer_address2              | 
+employer_city                  | Terre Haute
+employer_state                 | IN
+employer_postal_code           | 47809
+begin_date                     | 2025-05-28
+end_date                       | 2028-05-27
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Indiana State University
+soc_code                       | 25-1053
 h_1b_dependent                 | No
 -[ RECORD 30 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25134-976860
@@ -1385,39 +1385,6 @@ employer_name                  | IT VISION INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 43 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24136-997678
-job_title                      | Data Scientist
-employer_name                  | RAD CUBE LLC
-secondary_entity_business_name | State of Indiana (Indiana Department Of Transportation)
-employer_phone                 | 16176395750
-employer_poc_first_name        | Feroz
-employer_poc_last_name         | Syed
-employer_poc_email             | immigration@radcube.com
-employer_poc_phone             | 13178636387
-employer_poc_phone_ext         | 
-worksite_address1              | 15575 Desert Rose Dr
-worksite_address2              | 
-worksite_city                  | Fishers
-worksite_county                | HAMILTON
-lawfirm_name_business_name     | Tadmor & Tadmor LLP
-employer_address1              | 1119 KEYSTONE WAY
-employer_address2              | SUITE 302
-employer_city                  | CARMEL
-employer_state                 | IN
-employer_postal_code           | 46032
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | RAD CUBE LLC
-soc_code                       | 15-2051.00
-h_1b_dependent                 | Yes
--[ RECORD 44 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24165-106384
 job_title                      | Data Scientist
 employer_name                  | RAD CUBE LLC
@@ -1450,7 +1417,7 @@ amended_petition               | 0
 employer_name                  | RAD CUBE LLC
 soc_code                       | 15-2051.00
 h_1b_dependent                 | No
--[ RECORD 45 ]-----------------+--------------------------------------------------------------------
+-[ RECORD 44 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24218-243925
 job_title                      | Software Developer
 employer_name                  | RAD CUBE LLC
@@ -1483,238 +1450,40 @@ amended_petition               | 0
 employer_name                  | RAD CUBE LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
+-[ RECORD 45 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24136-997678
+job_title                      | Data Scientist
+employer_name                  | RAD CUBE LLC
+secondary_entity_business_name | State of Indiana (Indiana Department Of Transportation)
+employer_phone                 | 16176395750
+employer_poc_first_name        | Feroz
+employer_poc_last_name         | Syed
+employer_poc_email             | immigration@radcube.com
+employer_poc_phone             | 13178636387
+employer_poc_phone_ext         | 
+worksite_address1              | 15575 Desert Rose Dr
+worksite_address2              | 
+worksite_city                  | Fishers
+worksite_county                | HAMILTON
+lawfirm_name_business_name     | Tadmor & Tadmor LLP
+employer_address1              | 1119 KEYSTONE WAY
+employer_address2              | SUITE 302
+employer_city                  | CARMEL
+employer_state                 | IN
+employer_postal_code           | 46032
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | RAD CUBE LLC
+soc_code                       | 15-2051.00
+h_1b_dependent                 | Yes
 -[ RECORD 46 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24138-007508
-job_title                      | Senior Resident Engineer
-employer_name                  | WSP USA Inc
-secondary_entity_business_name | Indiana Department of Transportation (INDOT)
-employer_phone                 | 12124655000
-employer_poc_first_name        | Julia
-employer_poc_last_name         | Savaneli
-employer_poc_email             | Julia.Savaneli@wsp.com
-employer_poc_phone             | 17704961893
-employer_poc_phone_ext         | 
-worksite_address1              | 6410 Castle Way W Dr.
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | FISHER & PHILLIPS LLP
-employer_address1              | One Penn Plaza, 4th Floor
-employer_address2              | 250 West 34th Street
-employer_city                  | New York
-employer_state                 | NY
-employer_postal_code           | 10119
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | WSP USA Inc
-soc_code                       | 17-2051.00
-h_1b_dependent                 | No
--[ RECORD 47 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24138-007971
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | EIA TECHNOLOGIES INC
-secondary_entity_business_name | DEPARTMENT OF CHILD SERVICES - CHILD SUPPORT BUREAU
-employer_phone                 | 17328101013
-employer_poc_first_name        | LAKSHMI PRATHYUSHA
-employer_poc_last_name         | SAKHAMURI
-employer_poc_email             | HR@EIATECHINC.COM
-employer_poc_phone             | 17328101013
-employer_poc_phone_ext         | 
-worksite_address1              | 500 N MERIDIAN ST.
-worksite_address2              | 
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 1000 ROUTE 9N.
-employer_address2              | SUITE 102 A
-employer_city                  | WOODBRIDGE
-employer_state                 | NJ
-employer_postal_code           | 07095
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | EIA TECHNOLOGIES INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 48 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24150-049090
-job_title                      | Application Developer
-employer_name                  | Core IT Tech INC
-secondary_entity_business_name | STATE OF INDIANA - IOT DEPARTMENT
-employer_phone                 | 19452680358
-employer_poc_first_name        | Sateesh
-employer_poc_last_name         | MALE
-employer_poc_email             | immigration@coreit-tech.com
-employer_poc_phone             | 19452680358
-employer_poc_phone_ext         | 
-worksite_address1              | 100 N SENATE AVE N551
-worksite_address2              | 
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | Somireddy Law Group PLLC
-employer_address1              | 5353 Alpha Road
-employer_address2              | Suite 108A
-employer_city                  | Dallas
-employer_state                 | TX
-employer_postal_code           | 75240
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Core IT Tech INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 49 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24129-970411
-job_title                      | DotNet Developer
-employer_name                  | DATICS INC
-secondary_entity_business_name | State of Indiana - Indiana Department of Health
-employer_phone                 | 17044538128
-employer_poc_first_name        | Shraddha Reddy
-employer_poc_last_name         | Aileni
-employer_poc_email             | immigration@daticsinc.com
-employer_poc_phone             | 17044538128
-employer_poc_phone_ext         | 
-worksite_address1              | 2 N Meridian St
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 1315 Macom Drive
-employer_address2              | Suite 004
-employer_city                  | Naperville
-employer_state                 | IL
-employer_postal_code           | 60564
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | DATICS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 50 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24354-557185
-job_title                      | Application Developer
-employer_name                  | Kingston Technologies Inc
-secondary_entity_business_name | State of Indiana
-employer_phone                 | 19455271917
-employer_poc_first_name        | Mitesh
-employer_poc_last_name         | Chheda
-employer_poc_email             | Immigration@kingstont.com
-employer_poc_phone             | 19455271917
-employer_poc_phone_ext         | 
-worksite_address1              | 100 N senate Ave
-worksite_address2              | N551
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 2300 Valley View Lane
-employer_address2              | Suite 539
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75062
-begin_date                     | 2024-12-26
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Kingston Technologies Inc
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 51 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24152-056183
-job_title                      | Software Engineer
-employer_name                  | CapSquare Systems Inc
-secondary_entity_business_name | State of Indiana
-employer_phone                 | 12485776050
-employer_poc_first_name        | Anila
-employer_poc_last_name         | Throvagunta
-employer_poc_email             | anila@capsquaresys.com
-employer_poc_phone             | 12485776050
-employer_poc_phone_ext         | 3
-worksite_address1              | 100 N Senate Ave.
-worksite_address2              | 5th Floor
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Joseph Kallabat & Associates PC
-employer_address1              | 1000 John R. Road
-employer_address2              | Suite 200
-employer_city                  | Troy
-employer_state                 | MI
-employer_postal_code           | 48083
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | CapSquare Systems Inc
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 52 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24152-056183
-job_title                      | Software Engineer
-employer_name                  | CapSquare Systems Inc
-secondary_entity_business_name | State of Indiana
-employer_phone                 | 12485776050
-employer_poc_first_name        | Anila
-employer_poc_last_name         | Throvagunta
-employer_poc_email             | anila@capsquaresys.com
-employer_poc_phone             | 12485776050
-employer_poc_phone_ext         | 3
-worksite_address1              | 100 N Senate Ave.
-worksite_address2              | 5th Floor
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Joseph Kallabat & Associates PC
-employer_address1              | 1000 John R. Road
-employer_address2              | Suite 200
-employer_city                  | Troy
-employer_state                 | MI
-employer_postal_code           | 48083
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | CapSquare Systems Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 53 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24131-979861
 job_title                      | Application Developer
 employer_name                  | Core IT Tech Inc
@@ -1747,6 +1516,237 @@ amended_petition               | 0
 employer_name                  | Core IT Tech Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
+-[ RECORD 47 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24136-997567
+job_title                      | Software Developer
+employer_name                  | SNG Infotech Inc
+secondary_entity_business_name | Indiana Department of Health
+employer_phone                 | 18632165717
+employer_poc_first_name        | Barb
+employer_poc_last_name         | Elkins
+employer_poc_email             | barb.elkins@snginfo.net
+employer_poc_phone             | 18632165717
+employer_poc_phone_ext         | 
+worksite_address1              | 2 N Meridian St.
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Corporate Immigration Partners PC
+employer_address1              | 524 U.S. Highway 17/ 92 North
+employer_address2              | 
+employer_city                  | Haines City
+employer_state                 | FL
+employer_postal_code           | 33844
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SNG Infotech Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 48 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24151-053904
+job_title                      | Data Engineer
+employer_name                  | Mirage Software Inc dba Bourntec Solutions
+secondary_entity_business_name | Indiana Department of Health
+employer_phone                 | 18478930520
+employer_poc_first_name        | Srujana
+employer_poc_last_name         | Gudur
+employer_poc_email             | hr@bourntec.com
+employer_poc_phone             | 18478930520
+employer_poc_phone_ext         | 
+worksite_address1              | 2 North Meridian Street
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Global Immigration Partners Inc
+employer_address1              | 1701 East Woodfield Road,
+employer_address2              | Suite 200
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60173
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Mirage Software Inc dba Bourntec Solutions
+soc_code                       | 15-1243.00
+h_1b_dependent                 | Yes
+-[ RECORD 49 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24138-007971
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | EIA TECHNOLOGIES INC
+secondary_entity_business_name | DEPARTMENT OF CHILD SERVICES - CHILD SUPPORT BUREAU
+employer_phone                 | 17328101013
+employer_poc_first_name        | LAKSHMI PRATHYUSHA
+employer_poc_last_name         | SAKHAMURI
+employer_poc_email             | HR@EIATECHINC.COM
+employer_poc_phone             | 17328101013
+employer_poc_phone_ext         | 
+worksite_address1              | 500 N MERIDIAN ST.
+worksite_address2              | 
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 1000 ROUTE 9N.
+employer_address2              | SUITE 102 A
+employer_city                  | WOODBRIDGE
+employer_state                 | NJ
+employer_postal_code           | 07095
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | EIA TECHNOLOGIES INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 50 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24150-049090
+job_title                      | Application Developer
+employer_name                  | Core IT Tech INC
+secondary_entity_business_name | STATE OF INDIANA - IOT DEPARTMENT
+employer_phone                 | 19452680358
+employer_poc_first_name        | Sateesh
+employer_poc_last_name         | MALE
+employer_poc_email             | immigration@coreit-tech.com
+employer_poc_phone             | 19452680358
+employer_poc_phone_ext         | 
+worksite_address1              | 100 N SENATE AVE N551
+worksite_address2              | 
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | Somireddy Law Group PLLC
+employer_address1              | 5353 Alpha Road
+employer_address2              | Suite 108A
+employer_city                  | Dallas
+employer_state                 | TX
+employer_postal_code           | 75240
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Core IT Tech INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 51 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24138-007508
+job_title                      | Senior Resident Engineer
+employer_name                  | WSP USA Inc
+secondary_entity_business_name | Indiana Department of Transportation (INDOT)
+employer_phone                 | 12124655000
+employer_poc_first_name        | Julia
+employer_poc_last_name         | Savaneli
+employer_poc_email             | Julia.Savaneli@wsp.com
+employer_poc_phone             | 17704961893
+employer_poc_phone_ext         | 
+worksite_address1              | 6410 Castle Way W Dr.
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | FISHER & PHILLIPS LLP
+employer_address1              | One Penn Plaza, 4th Floor
+employer_address2              | 250 West 34th Street
+employer_city                  | New York
+employer_state                 | NY
+employer_postal_code           | 10119
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WSP USA Inc
+soc_code                       | 17-2051.00
+h_1b_dependent                 | No
+-[ RECORD 52 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24143-024375
+job_title                      | Senior Resident Engineer
+employer_name                  | WSP USA Inc
+secondary_entity_business_name | Indiana Department of Transportation (INDOT)
+employer_phone                 | 12124655000
+employer_poc_first_name        | Julia
+employer_poc_last_name         | Savaneli
+employer_poc_email             | Julia.Savaneli@wsp.com
+employer_poc_phone             | 17704961893
+employer_poc_phone_ext         | 
+worksite_address1              | 6410 Castle Way W Dr.
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | FISHER & PHILLIPS LLP
+employer_address1              | One Penn Plaza, 4th Floor
+employer_address2              | 250 West 34th Street
+employer_city                  | New York
+employer_state                 | NY
+employer_postal_code           | 10119
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WSP USA Inc
+soc_code                       | 11-9021.00
+h_1b_dependent                 | No
+-[ RECORD 53 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24354-557185
+job_title                      | Application Developer
+employer_name                  | Kingston Technologies Inc
+secondary_entity_business_name | State of Indiana
+employer_phone                 | 19455271917
+employer_poc_first_name        | Mitesh
+employer_poc_last_name         | Chheda
+employer_poc_email             | Immigration@kingstont.com
+employer_poc_phone             | 19455271917
+employer_poc_phone_ext         | 
+worksite_address1              | 100 N senate Ave
+worksite_address2              | N551
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 2300 Valley View Lane
+employer_address2              | Suite 539
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75062
+begin_date                     | 2024-12-26
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Kingston Technologies Inc
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
 -[ RECORD 54 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24108-898943
 job_title                      | Epidemiologists
@@ -1781,92 +1781,26 @@ employer_name                  | GSK Solutions Inc
 soc_code                       | 19-1041.00
 h_1b_dependent                 | Yes
 -[ RECORD 55 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24170-121896
-job_title                      | Data Developer
-employer_name                  | APPTRICS LLC
-secondary_entity_business_name | INDOT (Indiana Department of Transportation)
-employer_phone                 | 14044000740
-employer_poc_first_name        | Nataraj
-employer_poc_last_name         | CHIDARABOYINA
-employer_poc_email             | Natraj@apptricus.com
-employer_poc_phone             | 14044000740
+case_number                    | I-200-24129-970411
+job_title                      | DotNet Developer
+employer_name                  | DATICS INC
+secondary_entity_business_name | State of Indiana - Indiana Department of Health
+employer_phone                 | 17044538128
+employer_poc_first_name        | Shraddha Reddy
+employer_poc_last_name         | Aileni
+employer_poc_email             | immigration@daticsinc.com
+employer_poc_phone             | 17044538128
 employer_poc_phone_ext         | 
-worksite_address1              | 100 N Senate Ave
+worksite_address1              | 2 N Meridian St
 worksite_address2              | 
 worksite_city                  | Indianapolis
 worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 4555 MANSELL ROAD
-employer_address2              | Suite 300
-employer_city                  | ALPHARETTA
-employer_state                 | GA
-employer_postal_code           | 30022
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | APPTRICS LLC
-soc_code                       | 15-1243.00
-h_1b_dependent                 | Yes
--[ RECORD 56 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24164-100879
-job_title                      | Civil Engineer III
-employer_name                  | AECOM Technical Services Inc
-secondary_entity_business_name | Indiana Department of Transportation
-employer_phone                 | 16196107596
-employer_poc_first_name        | Al, Renee
-employer_poc_last_name         | Fuciarelli, Moran
-employer_poc_email             | Immigration@AECOM.com
-employer_poc_phone             | 16196107596
-employer_poc_phone_ext         | 
-worksite_address1              | 8620 East 21st Street
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 13355 Noel Road
-employer_address2              | 400
-employer_city                  | Dallas
-employer_state                 | TX
-employer_postal_code           | 75240
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | AECOM Technical Services Inc
-soc_code                       | 17-2051.00
-h_1b_dependent                 | No
--[ RECORD 57 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24151-053904
-job_title                      | Data Engineer
-employer_name                  | Mirage Software Inc dba Bourntec Solutions
-secondary_entity_business_name | Indiana Department of Health
-employer_phone                 | 18478930520
-employer_poc_first_name        | Srujana
-employer_poc_last_name         | Gudur
-employer_poc_email             | hr@bourntec.com
-employer_poc_phone             | 18478930520
-employer_poc_phone_ext         | 
-worksite_address1              | 2 North Meridian Street
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Global Immigration Partners Inc
-employer_address1              | 1701 East Woodfield Road,
-employer_address2              | Suite 200
-employer_city                  | Schaumburg
+lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
+employer_address1              | 1315 Macom Drive
+employer_address2              | Suite 004
+employer_city                  | Naperville
 employer_state                 | IL
-employer_postal_code           | 60173
+employer_postal_code           | 60564
 begin_date                     | 2024-10-01
 end_date                       | 2027-09-30
 total_worker_positions         | 1
@@ -1876,43 +1810,10 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Mirage Software Inc dba Bourntec Solutions
-soc_code                       | 15-1243.00
-h_1b_dependent                 | Yes
--[ RECORD 58 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24143-024375
-job_title                      | Senior Resident Engineer
-employer_name                  | WSP USA Inc
-secondary_entity_business_name | Indiana Department of Transportation (INDOT)
-employer_phone                 | 12124655000
-employer_poc_first_name        | Julia
-employer_poc_last_name         | Savaneli
-employer_poc_email             | Julia.Savaneli@wsp.com
-employer_poc_phone             | 17704961893
-employer_poc_phone_ext         | 
-worksite_address1              | 6410 Castle Way W Dr.
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | FISHER & PHILLIPS LLP
-employer_address1              | One Penn Plaza, 4th Floor
-employer_address2              | 250 West 34th Street
-employer_city                  | New York
-employer_state                 | NY
-employer_postal_code           | 10119
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | WSP USA Inc
-soc_code                       | 11-9021.00
+employer_name                  | DATICS INC
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 59 ]-----------------+--------------------------------------------------------------------
+-[ RECORD 56 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24131-981791
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | EIA TECHNOLOGIES INC
@@ -1945,40 +1846,7 @@ amended_petition               | 0
 employer_name                  | EIA TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 60 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24136-997567
-job_title                      | Software Developer
-employer_name                  | SNG Infotech Inc
-secondary_entity_business_name | Indiana Department of Health
-employer_phone                 | 18632165717
-employer_poc_first_name        | Barb
-employer_poc_last_name         | Elkins
-employer_poc_email             | barb.elkins@snginfo.net
-employer_poc_phone             | 18632165717
-employer_poc_phone_ext         | 
-worksite_address1              | 2 N Meridian St.
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Corporate Immigration Partners PC
-employer_address1              | 524 U.S. Highway 17/ 92 North
-employer_address2              | 
-employer_city                  | Haines City
-employer_state                 | FL
-employer_postal_code           | 33844
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SNG Infotech Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 61 ]-----------------+--------------------------------------------------------------------
+-[ RECORD 57 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24135-993570
 job_title                      | Data Scientist
 employer_name                  | RAD CUBE LLC
@@ -2011,6 +1879,138 @@ amended_petition               | 0
 employer_name                  | RAD CUBE LLC
 soc_code                       | 15-2051.00
 h_1b_dependent                 | No
+-[ RECORD 58 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24152-056183
+job_title                      | Software Engineer
+employer_name                  | CapSquare Systems Inc
+secondary_entity_business_name | State of Indiana
+employer_phone                 | 12485776050
+employer_poc_first_name        | Anila
+employer_poc_last_name         | Throvagunta
+employer_poc_email             | anila@capsquaresys.com
+employer_poc_phone             | 12485776050
+employer_poc_phone_ext         | 3
+worksite_address1              | 100 N Senate Ave.
+worksite_address2              | 5th Floor
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Joseph Kallabat & Associates PC
+employer_address1              | 1000 John R. Road
+employer_address2              | Suite 200
+employer_city                  | Troy
+employer_state                 | MI
+employer_postal_code           | 48083
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CapSquare Systems Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 59 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24152-056183
+job_title                      | Software Engineer
+employer_name                  | CapSquare Systems Inc
+secondary_entity_business_name | State of Indiana
+employer_phone                 | 12485776050
+employer_poc_first_name        | Anila
+employer_poc_last_name         | Throvagunta
+employer_poc_email             | anila@capsquaresys.com
+employer_poc_phone             | 12485776050
+employer_poc_phone_ext         | 3
+worksite_address1              | 100 N Senate Ave.
+worksite_address2              | 5th Floor
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Joseph Kallabat & Associates PC
+employer_address1              | 1000 John R. Road
+employer_address2              | Suite 200
+employer_city                  | Troy
+employer_state                 | MI
+employer_postal_code           | 48083
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CapSquare Systems Inc
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 60 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24164-100879
+job_title                      | Civil Engineer III
+employer_name                  | AECOM Technical Services Inc
+secondary_entity_business_name | Indiana Department of Transportation
+employer_phone                 | 16196107596
+employer_poc_first_name        | Al, Renee
+employer_poc_last_name         | Fuciarelli, Moran
+employer_poc_email             | Immigration@AECOM.com
+employer_poc_phone             | 16196107596
+employer_poc_phone_ext         | 
+worksite_address1              | 8620 East 21st Street
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Berry Appleman & Leiden LLP
+employer_address1              | 13355 Noel Road
+employer_address2              | 400
+employer_city                  | Dallas
+employer_state                 | TX
+employer_postal_code           | 75240
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | AECOM Technical Services Inc
+soc_code                       | 17-2051.00
+h_1b_dependent                 | No
+-[ RECORD 61 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24170-121896
+job_title                      | Data Developer
+employer_name                  | APPTRICS LLC
+secondary_entity_business_name | INDOT (Indiana Department of Transportation)
+employer_phone                 | 14044000740
+employer_poc_first_name        | Nataraj
+employer_poc_last_name         | CHIDARABOYINA
+employer_poc_email             | Natraj@apptricus.com
+employer_poc_phone             | 14044000740
+employer_poc_phone_ext         | 
+worksite_address1              | 100 N Senate Ave
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 4555 MANSELL ROAD
+employer_address2              | Suite 300
+employer_city                  | ALPHARETTA
+employer_state                 | GA
+employer_postal_code           | 30022
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | APPTRICS LLC
+soc_code                       | 15-1243.00
+h_1b_dependent                 | Yes
 -[ RECORD 62 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24149-042924
 job_title                      | Software Developer
@@ -2375,39 +2375,6 @@ employer_name                  | IT Transformers Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 73 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24193-188947
-job_title                      | Assistant Professor of Mechanical Engineering Technology
-employer_name                  | Indiana State University
-secondary_entity_business_name | 
-employer_phone                 | 18122378775
-employer_poc_first_name        | Susan
-employer_poc_last_name         | Powers
-employer_poc_email             | Susan.Powers@indstate.edu
-employer_poc_phone             | 18122378775
-employer_poc_phone_ext         | 
-worksite_address1              | Indiana State University
-worksite_address2              | 200 North 7th Street
-worksite_city                  | Terre Haute
-worksite_county                | VIGO
-lawfirm_name_business_name     | Lewis Kappes PC
-employer_address1              | 200 North 7th Street
-employer_address2              | 
-employer_city                  | Terre Haute
-employer_state                 | IN
-employer_postal_code           | 47809
-begin_date                     | 2024-08-01
-end_date                       | 2027-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Indiana State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 74 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24193-188948
 job_title                      | Assistant Professor of Computer Science
 employer_name                  | Indiana State University
@@ -2439,6 +2406,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Indiana State University
 soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 74 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-24193-188947
+job_title                      | Assistant Professor of Mechanical Engineering Technology
+employer_name                  | Indiana State University
+secondary_entity_business_name | 
+employer_phone                 | 18122378775
+employer_poc_first_name        | Susan
+employer_poc_last_name         | Powers
+employer_poc_email             | Susan.Powers@indstate.edu
+employer_poc_phone             | 18122378775
+employer_poc_phone_ext         | 
+worksite_address1              | Indiana State University
+worksite_address2              | 200 North 7th Street
+worksite_city                  | Terre Haute
+worksite_county                | VIGO
+lawfirm_name_business_name     | Lewis Kappes PC
+employer_address1              | 200 North 7th Street
+employer_address2              | 
+employer_city                  | Terre Haute
+employer_state                 | IN
+employer_postal_code           | 47809
+begin_date                     | 2024-08-01
+end_date                       | 2027-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Indiana State University
+soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 75 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24053-737972
@@ -2540,8 +2540,8 @@ employer_name                  | PYRAMID TECHNOLOGY SOLUTIONS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 78 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24176-143877
-job_title                      | Software Developer
+case_number                    | I-200-24176-143910
+job_title                      | DevOps Engineer
 employer_name                  | Cyber Infotech LLC
 secondary_entity_business_name | STATE OF INDIANA
 employer_phone                 | 17342626138
@@ -2573,8 +2573,8 @@ employer_name                  | Cyber Infotech LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 79 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24176-143910
-job_title                      | DevOps Engineer
+case_number                    | I-200-24176-143877
+job_title                      | Software Developer
 employer_name                  | Cyber Infotech LLC
 secondary_entity_business_name | STATE OF INDIANA
 employer_phone                 | 17342626138
@@ -3248,7 +3248,7 @@ worksite_address2              |
 worksite_city                  | Indianapolis
 worksite_county                | MARION
 lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 1000 Heritage Center Circle  332
+employer_address1              | 1000 Heritage Center Circle 332
 employer_address2              | 
 employer_city                  | Round Rock
 employer_state                 | TX
@@ -3299,105 +3299,6 @@ employer_name                  | SAHASRA TECHNOLOGIES CORPORATION
 soc_code                       | 15-1251.00
 h_1b_dependent                 | No
 -[ RECORD 101 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23157-084684
-job_title                      | Software Development Engineer & Tester (SDET)
-employer_name                  | SSTech LLC
-secondary_entity_business_name | Indiana Department of Child Services
-employer_phone                 | 17034391113
-employer_poc_first_name        | Srikant
-employer_poc_last_name         | Veluvolu
-employer_poc_email             | srikant@ss-tech.us
-employer_poc_phone             | 17034391113
-employer_poc_phone_ext         | 1
-worksite_address1              | 500 N. Meridian Street
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | BBI Law Group PC
-employer_address1              | 21135 Whitfield Pl
-employer_address2              | STE 206
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20165
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SSTech LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 102 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23201-202942
-job_title                      | Senior .Net/Database Developer
-employer_name                  | Sondhi Solutions LLC
-secondary_entity_business_name | Indiana Department of Health Laboratories
-employer_phone                 | 13172923059
-employer_poc_first_name        | Lindsay
-employer_poc_last_name         | Szostak
-employer_poc_email             | lszostak@sondhisolutions.com
-employer_poc_phone             | 13172923059
-employer_poc_phone_ext         | 
-worksite_address1              | 550 W 16th St
-worksite_address2              | Suite B
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Ostrom Law Office LLC
-employer_address1              | 47 S Pennsylvania St
-employer_address2              | Suite 400
-employer_city                  | Indianapolis
-employer_state                 | IN
-employer_postal_code           | 46204
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Sondhi Solutions LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 103 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23225-260446
-job_title                      | Application Systems Analyst/Programmer – Supervisor
-employer_name                  | State of Indiana-Department of Local Government Finance
-secondary_entity_business_name | 
-employer_phone                 | 13172323777
-employer_poc_first_name        | Emily
-employer_poc_last_name         | Crisler
-employer_poc_email             | emcrisler@dlgf.in.gov
-employer_poc_phone             | 13172348624
-employer_poc_phone_ext         | 
-worksite_address1              | 100 N. Senate Ave.
-worksite_address2              | Ste. N-1058B
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Barnes & Thornburg LLP
-employer_address1              | 100 N. Senate Ave, N-1058B
-employer_address2              | 
-employer_city                  | Indianapolis
-employer_state                 | IN
-employer_postal_code           | 46204
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | State of Indiana-Department of Local Government Finance
-soc_code                       | 11-3021.00
-h_1b_dependent                 | No
--[ RECORD 104 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23114-959814
 job_title                      | Data Engineer
 employer_name                  | Vtechinfo Inc
@@ -3430,7 +3331,40 @@ amended_petition               | 0
 employer_name                  | Vtechinfo Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 105 ]----------------+--------------------------------------------------------------------
+-[ RECORD 102 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23225-260446
+job_title                      | Application Systems Analyst/Programmer – Supervisor
+employer_name                  | State of Indiana-Department of Local Government Finance
+secondary_entity_business_name | 
+employer_phone                 | 13172323777
+employer_poc_first_name        | Emily
+employer_poc_last_name         | Crisler
+employer_poc_email             | emcrisler@dlgf.in.gov
+employer_poc_phone             | 13172348624
+employer_poc_phone_ext         | 
+worksite_address1              | 100 N. Senate Ave.
+worksite_address2              | Ste. N-1058B
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Barnes & Thornburg LLP
+employer_address1              | 100 N. Senate Ave, N-1058B
+employer_address2              | 
+employer_city                  | Indianapolis
+employer_state                 | IN
+employer_postal_code           | 46204
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | State of Indiana-Department of Local Government Finance
+soc_code                       | 11-3021.00
+h_1b_dependent                 | No
+-[ RECORD 103 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23234-286922
 job_title                      | WEB DEVELOPER
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -3463,40 +3397,7 @@ amended_petition               | 0
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 soc_code                       | 15-1254.00
 h_1b_dependent                 | Yes
--[ RECORD 106 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23229-273164
-job_title                      | BUSINESS SYSTEMS ANALYST
-employer_name                  | ACEINTEGRATOR INC
-secondary_entity_business_name | INDIANA  DEPARTMENT OF WORKFORCE  DEVELOPMENT
-employer_phone                 | 15408952485
-employer_poc_first_name        | AVANTHI
-employer_poc_last_name         | VEERANNAGARI
-employer_poc_email             | HR@ACEINTEGRATOR.COM
-employer_poc_phone             | 15408952485
-employer_poc_phone_ext         | 
-worksite_address1              | 10 NORTH  SENATE  AVENUE
-worksite_address2              | STE 3
-worksite_city                  | INDIANAPOLIS
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 4455 BROOKFIELD CORPORATE DR
-employer_address2              | SUITE 102B
-employer_city                  | CHANTILLY
-employer_state                 | VA
-employer_postal_code           | 20151
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ACEINTEGRATOR INC
-soc_code                       | 15-1211.00
-h_1b_dependent                 | No
--[ RECORD 107 ]----------------+--------------------------------------------------------------------
+-[ RECORD 104 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23122-984350
 job_title                      | Dot Net Developer
 employer_name                  | GDN Infotech Inc
@@ -3529,8 +3430,107 @@ amended_petition               | 0
 employer_name                  | GDN Infotech Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
+-[ RECORD 105 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23229-273164
+job_title                      | BUSINESS SYSTEMS ANALYST
+employer_name                  | ACEINTEGRATOR INC
+secondary_entity_business_name | INDIANA  DEPARTMENT OF WORKFORCE  DEVELOPMENT
+employer_phone                 | 15408952485
+employer_poc_first_name        | AVANTHI
+employer_poc_last_name         | VEERANNAGARI
+employer_poc_email             | HR@ACEINTEGRATOR.COM
+employer_poc_phone             | 15408952485
+employer_poc_phone_ext         | 
+worksite_address1              | 10 NORTH  SENATE  AVENUE
+worksite_address2              | STE 3
+worksite_city                  | INDIANAPOLIS
+worksite_county                | MARION
+lawfirm_name_business_name     | 
+employer_address1              | 4455 BROOKFIELD CORPORATE DR
+employer_address2              | SUITE 102B
+employer_city                  | CHANTILLY
+employer_state                 | VA
+employer_postal_code           | 20151
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ACEINTEGRATOR INC
+soc_code                       | 15-1211.00
+h_1b_dependent                 | No
+-[ RECORD 106 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23157-084684
+job_title                      | Software Development Engineer & Tester (SDET)
+employer_name                  | SSTech LLC
+secondary_entity_business_name | Indiana Department of Child Services
+employer_phone                 | 17034391113
+employer_poc_first_name        | Srikant
+employer_poc_last_name         | Veluvolu
+employer_poc_email             | srikant@ss-tech.us
+employer_poc_phone             | 17034391113
+employer_poc_phone_ext         | 1
+worksite_address1              | 500 N. Meridian Street
+worksite_address2              | 
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | BBI Law Group PC
+employer_address1              | 21135 Whitfield Pl
+employer_address2              | STE 206
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20165
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SSTech LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 107 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23201-202942
+job_title                      | Senior .Net/Database Developer
+employer_name                  | Sondhi Solutions LLC
+secondary_entity_business_name | Indiana Department of Health Laboratories
+employer_phone                 | 13172923059
+employer_poc_first_name        | Lindsay
+employer_poc_last_name         | Szostak
+employer_poc_email             | lszostak@sondhisolutions.com
+employer_poc_phone             | 13172923059
+employer_poc_phone_ext         | 
+worksite_address1              | 550 W 16th St
+worksite_address2              | Suite B
+worksite_city                  | Indianapolis
+worksite_county                | MARION
+lawfirm_name_business_name     | Ostrom Law Office LLC
+employer_address1              | 47 S Pennsylvania St
+employer_address2              | Suite 400
+employer_city                  | Indianapolis
+employer_state                 | IN
+employer_postal_code           | 46204
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Sondhi Solutions LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
 -[ RECORD 108 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23146-056738
+case_number                    | I-200-23130-008442
 job_title                      | Software Developer
 employer_name                  | HTC GLOBAL SERVICES INC
 secondary_entity_business_name | State of Indiana
@@ -3563,7 +3563,7 @@ employer_name                  | HTC GLOBAL SERVICES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 109 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23130-008442
+case_number                    | I-200-23146-056738
 job_title                      | Software Developer
 employer_name                  | HTC GLOBAL SERVICES INC
 secondary_entity_business_name | State of Indiana
@@ -3794,8 +3794,8 @@ employer_name                  | Brite Systems Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 116 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23121-978631
-job_title                      | MuleSoft Developer
+case_number                    | I-200-23128-000151
+job_title                      | CRM Developer
 employer_name                  | CORE SOFTWARE TECHNOLOGIES INC
 secondary_entity_business_name | Indiana Department of Child Services
 employer_phone                 | 16092568005
@@ -3827,8 +3827,8 @@ employer_name                  | CORE SOFTWARE TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 117 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23128-000151
-job_title                      | CRM Developer
+case_number                    | I-200-23121-978631
+job_title                      | MuleSoft Developer
 employer_name                  | CORE SOFTWARE TECHNOLOGIES INC
 secondary_entity_business_name | Indiana Department of Child Services
 employer_phone                 | 16092568005
@@ -4023,533 +4023,5 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Indiana State University
 soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 123 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23208-219291
-job_title                      | Senior Dot Net Developer
-employer_name                  | ALREK BUSINESS SOLUTIONS INC
-secondary_entity_business_name | Indiana Department Of Health
-employer_phone                 | 18474138292
-employer_poc_first_name        | Paulina
-employer_poc_last_name         | Mitta
-employer_poc_email             | hr@absli.com
-employer_poc_phone             | 18474138292
-employer_poc_phone_ext         | 
-worksite_address1              | 2 N Meridian St
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
-employer_address1              | 890 E HIGGINS ROAD
-employer_address2              | SUITE 148
-employer_city                  | SCHAUMBURG
-employer_state                 | IL
-employer_postal_code           | 60173
-begin_date                     | 2023-07-27
-end_date                       | 2026-07-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ALREK BUSINESS SOLUTIONS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 124 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23027-731970
-job_title                      | Project Program Mgmt Senior Specialist
-employer_name                  | NTT DATA Americas Inc
-secondary_entity_business_name | State of Indiana
-employer_phone                 | 18007453263
-employer_poc_first_name        | Rachna
-employer_poc_last_name         | Jalota
-employer_poc_email             | Rachna.Jalota@nttdata.com
-employer_poc_phone             | 18007453263
-employer_poc_phone_ext         | 
-worksite_address1              | 402 West Washington St.
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Berry Appleman & Leiden LLP
-employer_address1              | 7950 Legacy Drive
-employer_address2              | 11th Floor
-employer_city                  | Plano
-employer_state                 | TX
-employer_postal_code           | 75024
-begin_date                     | 2023-07-23
-end_date                       | 2026-07-22
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NTT DATA Americas Inc
-soc_code                       | 15-1299.09
-h_1b_dependent                 | No
--[ RECORD 125 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23023-719719
-job_title                      | Web Application Administrator
-employer_name                  | New York Global Consultants Inc
-secondary_entity_business_name | State of Indiana FSSA
-employer_phone                 | 18886626888
-employer_poc_first_name        | Mukesh
-employer_poc_last_name         | Molugu
-employer_poc_email             | mukesh@nygci.com
-employer_poc_phone             | 18886626888
-employer_poc_phone_ext         | 
-worksite_address1              | 402 W Washington Street
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | John Clement PLC
-employer_address1              | 626 RXR Plaza
-employer_address2              | Suite 668
-employer_city                  | Uniondale
-employer_state                 | NY
-employer_postal_code           | 11556
-begin_date                     | 2023-07-23
-end_date                       | 2026-07-22
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New York Global Consultants Inc
-soc_code                       | 15-1299.01
-h_1b_dependent                 | Yes
--[ RECORD 126 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23187-172149
-job_title                      | Senior .Net Developer
-employer_name                  | Prospance Inc
-secondary_entity_business_name | Indiana Department of Child Services
-employer_phone                 | 15106512045
-employer_poc_first_name        | Manish
-employer_poc_last_name         | Bhardwaj
-employer_poc_email             | Immigration@prospanceinc.com
-employer_poc_phone             | 15106512045
-employer_poc_phone_ext         | 
-worksite_address1              | 500 N Meridian St
-worksite_address2              | Flr. 7
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Credence Support Services Inc
-employer_address1              | 5600 Mowry School Road,
-employer_address2              | Suite 140
-employer_city                  | Newark
-employer_state                 | CA
-employer_postal_code           | 94560
-begin_date                     | 2023-07-10
-end_date                       | 2026-07-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Prospance Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 127 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23187-172164
-job_title                      | Senior Software Architect
-employer_name                  | Prospance Inc
-secondary_entity_business_name | Indiana Department of Child Services
-employer_phone                 | 15106512045
-employer_poc_first_name        | Manish
-employer_poc_last_name         | Bhardwaj
-employer_poc_email             | Immigration@prospanceinc.com
-employer_poc_phone             | 15106512045
-employer_poc_phone_ext         | 
-worksite_address1              | 500 N Meridian St
-worksite_address2              | Flr. 7
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Credence Support Services Inc
-employer_address1              | 5600 Mowry School Road,
-employer_address2              | Suite 140
-employer_city                  | Newark
-employer_state                 | CA
-employer_postal_code           | 94560
-begin_date                     | 2023-07-10
-end_date                       | 2026-07-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Prospance Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 128 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23173-135625
-job_title                      | Programmer Analyst
-employer_name                  | RELIABLE SOFTWARE RESOURCES
-secondary_entity_business_name | DCS, State of Indiana
-employer_phone                 | 12489126819
-employer_poc_first_name        | VENKAT
-employer_poc_last_name         | VINUTHA
-employer_poc_email             | HR@RSRIT.COM
-employer_poc_phone             | 12389126819
-employer_poc_phone_ext         | 
-worksite_address1              | 500 N. Meridian Street
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 22260 HAGGERTY ROAD
-employer_address2              | SUITE 285
-employer_city                  | NORTHVILLE
-employer_state                 | MI
-employer_postal_code           | 48167
-begin_date                     | 2023-07-05
-end_date                       | 2026-07-04
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | RELIABLE SOFTWARE RESOURCES
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 129 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23013-702909
-job_title                      | Application Developer - Senior
-employer_name                  | ERP Analysts Inc
-secondary_entity_business_name | State of Indiana
-employer_phone                 | 16147189222
-employer_poc_first_name        | Manjusha
-employer_poc_last_name         | Akkapeddi
-employer_poc_email             | erpaimmigration@erpa.com
-employer_poc_phone             | 16147189222
-employer_poc_phone_ext         | 
-worksite_address1              | 100 N Senate Avenue, 5th Floor
-worksite_address2              | Indiana Government Center North
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Sam Shihab & Associates LLC
-employer_address1              | 425 Metro Place North
-employer_address2              | Suite 510
-employer_city                  | Dublin
-employer_state                 | OH
-employer_postal_code           | 43017
-begin_date                     | 2023-06-29
-end_date                       | 2026-06-28
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ERP Analysts Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 130 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23083-875718
-job_title                      | Assistant Professor of Computer Science
-employer_name                  | Indiana State University
-secondary_entity_business_name | 
-employer_phone                 | 18122378775
-employer_poc_first_name        | Susan
-employer_poc_last_name         | Powers
-employer_poc_email             | Susan.Powers@indstate.edu
-employer_poc_phone             | 18122378775
-employer_poc_phone_ext         | 
-worksite_address1              | Indiana State University
-worksite_address2              | 200 North 7th Street
-worksite_city                  | Terre Haute
-worksite_county                | VIGO
-lawfirm_name_business_name     | Lewis Kappes PC
-employer_address1              | 200 North 7th Street
-employer_address2              | 
-employer_city                  | Terre Haute
-employer_state                 | IN
-employer_postal_code           | 47809
-begin_date                     | 2023-06-29
-end_date                       | 2026-06-28
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Indiana State University
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 131 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23083-875718
-job_title                      | Assistant Professor of Computer Science
-employer_name                  | Indiana State University
-secondary_entity_business_name | 
-employer_phone                 | 18122378775
-employer_poc_first_name        | Susan
-employer_poc_last_name         | Powers
-employer_poc_email             | Susan.Powers@indstate.edu
-employer_poc_phone             | 18122378775
-employer_poc_phone_ext         | 
-worksite_address1              | Indiana State University
-worksite_address2              | 200 North 7th Street
-worksite_city                  | Terre Haute
-worksite_county                | VIGO
-lawfirm_name_business_name     | Lewis Kappes PC
-employer_address1              | 200 North 7th Street
-employer_address2              | 
-employer_city                  | Terre Haute
-employer_state                 | IN
-employer_postal_code           | 47809
-begin_date                     | 2023-06-29
-end_date                       | 2026-06-28
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Indiana State University
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 132 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23137-029890
-job_title                      | Database Administrator
-employer_name                  | Computer Aid Inc
-secondary_entity_business_name | State of Indiana Family and Social Services Administration
-employer_phone                 | 16105305202
-employer_poc_first_name        | Melanie
-employer_poc_last_name         | Vandegrift
-employer_poc_email             | melanie.vandegrift@cai.io
-employer_poc_phone             | 16105305202
-employer_poc_phone_ext         | 
-worksite_address1              | 402 W. Washington Street
-worksite_address2              | Suite W353
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Meltzer Hellrung LLC
-employer_address1              | 1390 Ridgeview Dr.
-employer_address2              | Suite 300
-employer_city                  | Allentown
-employer_state                 | PA
-employer_postal_code           | 18104
-begin_date                     | 2023-05-27
-end_date                       | 2026-05-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Computer Aid Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 133 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23306-472955
-job_title                      | Software Engineer
-employer_name                  | Divis Solutions Inc
-secondary_entity_business_name | State of Indiana
-employer_phone                 | 16148056929
-employer_poc_first_name        | Prasad
-employer_poc_last_name         | Kandru
-employer_poc_email             | pkandru@divissolutions.com
-employer_poc_phone             | 16148056929
-employer_poc_phone_ext         | 
-worksite_address1              | 100 N Senate Ave
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 565 South Metro Place
-employer_address2              | Suite 3430
-employer_city                  | Dublin
-employer_state                 | OH
-employer_postal_code           | 43017
-begin_date                     | 2023-11-16
-end_date                       | 2026-05-07
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Divis Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 134 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23095-907282
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | NATSOFT CORPORATION
-secondary_entity_business_name | CONNECTICUT DEPARTMENT OF LABOR
-employer_phone                 | 17327260593
-employer_poc_first_name        | TIRUMALA
-employer_poc_last_name         | CHEEDALA
-employer_poc_email             | TIMMY@NATSOFT.US
-employer_poc_phone             | 17327260593
-employer_poc_phone_ext         | 
-worksite_address1              | 5363 NOBLE CROSSING PKWY W
-worksite_address2              | 
-worksite_city                  | NOBLESVILLE
-worksite_county                | HAMILTON
-lawfirm_name_business_name     | 
-employer_address1              | 27 WORLDS FAIR DR
-employer_address2              | 
-employer_city                  | SOMERSET
-employer_state                 | NJ
-employer_postal_code           | 08873
-begin_date                     | 2023-04-12
-end_date                       | 2026-04-11
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | NATSOFT CORPORATION
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 135 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23087-881592
-job_title                      | Java Developer
-employer_name                  | SysPro IT Solutions Inc
-secondary_entity_business_name | State of Indiana
-employer_phone                 | 14707841512
-employer_poc_first_name        | Hanuman
-employer_poc_last_name         | Nandanampati
-employer_poc_email             | hanuman@sysproinc.com
-employer_poc_phone             | 14707841512
-employer_poc_phone_ext         | 
-worksite_address1              | Salesforce Tower, 111 Monument Cir
-worksite_address2              | Suite 4200
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | 
-employer_address1              | 3057 Peachtree Industrial Boulevard
-employer_address2              | Suite 200
-employer_city                  | Duluth
-employer_state                 | GA
-employer_postal_code           | 30097
-begin_date                     | 2023-04-04
-end_date                       | 2026-04-03
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | SysPro IT Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 136 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23088-887317
-job_title                      | ETL Developer
-employer_name                  | DallasTek Software Solutions LLC
-secondary_entity_business_name | State of Indiana  Indiana Dept of Homeland Security
-employer_phone                 | 13177744377
-employer_poc_first_name        | Chandra
-employer_poc_last_name         | Chitibomma
-employer_poc_email             | chandra@dallasteksol.com
-employer_poc_phone             | 13177744377
-employer_poc_phone_ext         | 
-worksite_address1              | 302 West Washington Street
-worksite_address2              | 
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | LAW OFFICES OF JANETHA R. KANCHARLA
-employer_address1              | 6800 Weiskopf Avenue
-employer_address2              | Ste 150
-employer_city                  | McKinney
-employer_state                 | TX
-employer_postal_code           | 75070
-begin_date                     | 2023-04-03
-end_date                       | 2026-04-02
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | DallasTek Software Solutions LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 137 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23076-858081
-job_title                      | Quality Assurance Engineer
-employer_name                  | Brite Systems Inc
-secondary_entity_business_name | Indiana Department of Workforce Development
-employer_phone                 | 13172221977
-employer_poc_first_name        | Dhivya Charumathi
-employer_poc_last_name         | Swamidass
-employer_poc_email             | dhivya.swamidass@britesys.com
-employer_poc_phone             | 13172221977
-employer_poc_phone_ext         | 
-worksite_address1              | 10 N Senate Avenue
-worksite_address2              | N/A
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | Malik & Popiel PC
-employer_address1              | 101 W. Ohio Street, Suite 2000
-employer_address2              | N/A
-employer_city                  | Indianapolis
-employer_state                 | IN
-employer_postal_code           | 46204
-begin_date                     | 2023-03-20
-end_date                       | 2026-03-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Brite Systems Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 138 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23058-805726
-job_title                      | Business And Integration Architecture Manager
-employer_name                  | Accenture LLP
-secondary_entity_business_name | State of Indiana office
-employer_phone                 | 13126930161
-employer_poc_first_name        | Stacy
-employer_poc_last_name         | Gonzales
-employer_poc_email             | AccentureSiteVisits@accenture.com
-employer_poc_phone             | 13126934108
-employer_poc_phone_ext         | 
-worksite_address1              | 100 N. Senate Ave.
-worksite_address2              | RM 801
-worksite_city                  | Indianapolis
-worksite_county                | MARION
-lawfirm_name_business_name     | EY Law LLP
-employer_address1              | 500 West Madison Street
-employer_address2              | 
-employer_city                  | Chicago
-employer_state                 | IL
-employer_postal_code           | 60661
-begin_date                     | 2023-03-08
-end_date                       | 2026-03-07
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Accenture LLP
-soc_code                       | 15-1299.09
 h_1b_dependent                 | No
 

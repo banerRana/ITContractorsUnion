@@ -230,39 +230,6 @@ employer_name                  | New Mexico State University
 soc_code                       | 13-1121.00
 h_1b_dependent                 | No
 -[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25325-428820
-job_title                      | Assistant Professor Biology
-employer_name                  | New Mexico State University Grants Community College
-secondary_entity_business_name | 
-employer_phone                 | 15052876625
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | Natural Sciences, NMSU Grants Community College
-worksite_address2              | 1500 N. Third Street
-worksite_city                  | Grants
-worksite_county                | 
-lawfirm_name_business_name     | Maney Gordon Zeller P.A.
-employer_address1              | 1500 N. Third Street
-employer_address2              | 
-employer_city                  | Grants
-employer_state                 | NM
-employer_postal_code           | 87020
-begin_date                     | 2026-01-01
-end_date                       | 2028-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University Grants Community College
-soc_code                       | 25-1042.00
-h_1b_dependent                 | No
--[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25311-388404
 job_title                      | Research Scientist, Intermediate
 employer_name                  | New Mexico State University
@@ -295,7 +262,7 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 17-2073.00
 h_1b_dependent                 | No
--[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25337-455093
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
@@ -328,29 +295,29 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25311-388514
-job_title                      | Post Doctoral
-employer_name                  | New Mexico State University
+-[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25325-428820
+job_title                      | Assistant Professor Biology
+employer_name                  | New Mexico State University Grants Community College
 secondary_entity_business_name | 
-employer_phone                 | 15756462808
+employer_phone                 | 15052876625
 employer_poc_first_name        | Joyce
 employer_poc_last_name         | Rindner
 employer_poc_email             | teamHRS@nmsu.edu
 employer_poc_phone             | 15756462808
 employer_poc_phone_ext         | 
-worksite_address1              | NMSU ACES Plant & Environmental Sciences
-worksite_address2              | Skeen Hall
-worksite_city                  | Las Cruces
+worksite_address1              | Natural Sciences, NMSU Grants Community College
+worksite_address2              | 1500 N. Third Street
+worksite_city                  | Grants
 worksite_county                | 
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
+lawfirm_name_business_name     | Maney Gordon Zeller P.A.
+employer_address1              | 1500 N. Third Street
+employer_address2              | 
+employer_city                  | Grants
 employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-12-31
-end_date                       | 2028-12-30
+employer_postal_code           | 87020
+begin_date                     | 2026-01-01
+end_date                       | 2028-12-31
 total_worker_positions         | 1
 new_employment                 | 1
 continued_employment           | 0
@@ -358,10 +325,10 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 19-2099.01
+employer_name                  | New Mexico State University Grants Community College
+soc_code                       | 25-1042.00
 h_1b_dependent                 | No
--[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25262-321153
 job_title                      | Post Doctoral
 employer_name                  | New Mexico State University
@@ -393,6 +360,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 19-2031.00
+h_1b_dependent                 | No
+-[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25311-388514
+job_title                      | Post Doctoral
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | NMSU ACES Plant & Environmental Sciences
+worksite_address2              | Skeen Hall
+worksite_city                  | Las Cruces
+worksite_county                | 
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2025-12-31
+end_date                       | 2028-12-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 19-2099.01
 h_1b_dependent                 | No
 -[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25153-042252
@@ -428,39 +428,6 @@ employer_name                  | Technology Consultants Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25319-411220
-job_title                      | Support Astronomer
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Astronomy
-worksite_address2              | 1320 Frenger Mall
-worksite_city                  | LAS CRUCES
-worksite_county                | 
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-11-15
-end_date                       | 2028-11-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 19-2011.00
-h_1b_dependent                 | No
--[ RECORD 15 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25310-381998
 job_title                      | Support Astronomer
 employer_name                  | New Mexico State University
@@ -489,6 +456,39 @@ continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 19-2011.00
+h_1b_dependent                 | No
+-[ RECORD 15 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25319-411220
+job_title                      | Support Astronomer
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | Department of Astronomy
+worksite_address2              | 1320 Frenger Mall
+worksite_city                  | LAS CRUCES
+worksite_county                | 
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2025-11-15
+end_date                       | 2028-11-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
 amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 19-2011.00
@@ -626,39 +626,6 @@ employer_name                  | State of New Mexico
 soc_code                       | 15-1252
 h_1b_dependent                 | No
 -[ RECORD 20 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25163-085139
-job_title                      | .NET Developer
-employer_name                  | Euniverse Technologies LLC
-secondary_entity_business_name | State of New Mexico (Taxation & Revenue Department)
-employer_phone                 | 15182247333
-employer_poc_first_name        | Rajani Priya
-employer_poc_last_name         | Challa
-employer_poc_email             | immigration@euniversetechnologies.com
-employer_poc_phone             | 15182247333
-employer_poc_phone_ext         | 
-worksite_address1              | 1100 S Saint Francis Dr
-worksite_address2              | 
-worksite_city                  | Santa Fe
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 1300 W. Walnut Hill Ln
-employer_address2              | STE 107
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75038
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Euniverse Technologies LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25106-869910
 job_title                      | Economist III
 employer_name                  | State of New Mexico Economic Development Department
@@ -691,40 +658,40 @@ amended_petition               | 0
 employer_name                  | State of New Mexico Economic Development Department
 soc_code                       | 19-3011
 h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25101-853853
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | MSRCOSMOS LLC
-secondary_entity_business_name | NEW MEXICO DEPARTMENT OF INFORMATION TECHNOLOGY
-employer_phone                 | 19252186919
-employer_poc_first_name        | TIFFANY
-employer_poc_last_name         | MCGRAW
-employer_poc_email             | IMMIGRATION@MSRCOSMOS.COM
-employer_poc_phone             | 19252186919
+-[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25163-085139
+job_title                      | .NET Developer
+employer_name                  | Euniverse Technologies LLC
+secondary_entity_business_name | State of New Mexico (Taxation & Revenue Department)
+employer_phone                 | 15182247333
+employer_poc_first_name        | Rajani Priya
+employer_poc_last_name         | Challa
+employer_poc_email             | immigration@euniversetechnologies.com
+employer_poc_phone             | 15182247333
 employer_poc_phone_ext         | 
-worksite_address1              | 715 ALTA VISTA STREET
+worksite_address1              | 1100 S Saint Francis Dr
 worksite_address2              | 
-worksite_city                  | SANTA FE
+worksite_city                  | Santa Fe
 worksite_county                | SANTA FE
-lawfirm_name_business_name     | 
-employer_address1              | 5250 CLAREMONT AVENUE
-employer_address2              | SUITE 249
-employer_city                  | STOCKTON
-employer_state                 | CA
-employer_postal_code           | 95207
+lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
+employer_address1              | 1300 W. Walnut Hill Ln
+employer_address2              | STE 107
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75038
 begin_date                     | 2025-10-01
 end_date                       | 2028-09-30
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | MSRCOSMOS LLC
+employer_name                  | Euniverse Technologies LLC
 soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+--------------------------------------------------------------------------------------------------------
+h_1b_dependent                 | No
+-[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25105-865882
 job_title                      | Economist III
 employer_name                  | State of New Mexico Economic Development Department
@@ -757,6 +724,39 @@ amended_petition               | 0
 employer_name                  | State of New Mexico Economic Development Department
 soc_code                       | 19-3011
 h_1b_dependent                 | No
+-[ RECORD 23 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25101-853853
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | MSRCOSMOS LLC
+secondary_entity_business_name | NEW MEXICO DEPARTMENT OF INFORMATION TECHNOLOGY
+employer_phone                 | 19252186919
+employer_poc_first_name        | TIFFANY
+employer_poc_last_name         | MCGRAW
+employer_poc_email             | IMMIGRATION@MSRCOSMOS.COM
+employer_poc_phone             | 19252186919
+employer_poc_phone_ext         | 
+worksite_address1              | 715 ALTA VISTA STREET
+worksite_address2              | 
+worksite_city                  | SANTA FE
+worksite_county                | SANTA FE
+lawfirm_name_business_name     | 
+employer_address1              | 5250 CLAREMONT AVENUE
+employer_address2              | SUITE 249
+employer_city                  | STOCKTON
+employer_state                 | CA
+employer_postal_code           | 95207
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | MSRCOSMOS LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
 -[ RECORD 24 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25247-286169
 job_title                      | Assistant Professor
@@ -791,9 +791,9 @@ employer_name                  | New Mexico State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
 -[ RECORD 25 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25240-273543
+case_number                    | I-200-25241-277732
 job_title                      | Computer Specialist II
-employer_name                  | New Mexico State Senate - Office of the Chief Clerk
+employer_name                  | State of New Mexico
 secondary_entity_business_name | 
 employer_phone                 | 15059864714
 employer_poc_first_name        | Cheri
@@ -820,7 +820,7 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | New Mexico State Senate - Office of the Chief Clerk
+employer_name                  | State of New Mexico
 soc_code                       | 15-1244.00
 h_1b_dependent                 | No
 -[ RECORD 26 ]-----------------+--------------------------------------------------------------------------------------------------------
@@ -857,9 +857,9 @@ employer_name                  | New Mexico State Senate - Office of the Chief C
 soc_code                       | 15-1244.00
 h_1b_dependent                 | No
 -[ RECORD 27 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25241-277732
+case_number                    | I-200-25240-273543
 job_title                      | Computer Specialist II
-employer_name                  | State of New Mexico
+employer_name                  | New Mexico State Senate - Office of the Chief Clerk
 secondary_entity_business_name | 
 employer_phone                 | 15059864714
 employer_poc_first_name        | Cheri
@@ -886,7 +886,7 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | State of New Mexico
+employer_name                  | New Mexico State Senate - Office of the Chief Clerk
 soc_code                       | 15-1244.00
 h_1b_dependent                 | No
 -[ RECORD 28 ]-----------------+--------------------------------------------------------------------------------------------------------
@@ -1088,39 +1088,6 @@ employer_name                  | New Mexico Regulation & Licensing Department
 soc_code                       | 15-1211.00
 h_1b_dependent                 | No
 -[ RECORD 34 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25150-035304
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | Marketing Department Business Complex, Room 209
-worksite_address2              | 1320 East University Ave.
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-08-18
-end_date                       | 2028-08-17
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1011
-h_1b_dependent                 | No
--[ RECORD 35 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25051-710256
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
@@ -1153,9 +1120,9 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 25-1011
 h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25162-080135
-job_title                      | Assistant  Professor
+-[ RECORD 35 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25139-991819
+job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
 secondary_entity_business_name | 
 employer_phone                 | 15756462808
@@ -1164,8 +1131,8 @@ employer_poc_last_name         | Rindner
 employer_poc_email             | teamHRS@nmsu.edu
 employer_poc_phone             | 15756462808
 employer_poc_phone_ext         | 
-worksite_address1              | NMSU Department of Astronomy
-worksite_address2              | 1320 Frenger Mall
+worksite_address1              | NMSU College of Business, Marketing Department
+worksite_address2              | Business Complex, Room 209, 1320 East University Ave.
 worksite_city                  | Las Cruces
 worksite_county                | DONA ANA
 lawfirm_name_business_name     | Maney Gordon Zeller PA
@@ -1184,42 +1151,9 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
-soc_code                       | 25-1051
+soc_code                       | 25-1011
 h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25121-926228
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Economics, Applied Statistics, & International Business
-worksite_address2              | Business Complex, 127
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller P.A.
-employer_address1              | P.O. Box 30001 MSC 3HRS
-employer_address2              | 
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-08-18
-end_date                       | 2028-08-17
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1063
-h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 36 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25155-051595
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
@@ -1252,7 +1186,40 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 25-1021
 h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 37 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25150-035304
+job_title                      | Assistant Professor
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | Marketing Department Business Complex, Room 209
+worksite_address2              | 1320 East University Ave.
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2025-08-18
+end_date                       | 2028-08-17
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 25-1011
+h_1b_dependent                 | No
+-[ RECORD 38 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25156-056353
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
@@ -1284,6 +1251,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 25-1032
+h_1b_dependent                 | No
+-[ RECORD 39 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25121-926228
+job_title                      | Assistant Professor
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | NMSU Economics, Applied Statistics, & International Business
+worksite_address2              | Business Complex, 127
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller P.A.
+employer_address1              | P.O. Box 30001 MSC 3HRS
+employer_address2              | 
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2025-08-18
+end_date                       | 2028-08-17
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 25-1063
 h_1b_dependent                 | No
 -[ RECORD 40 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25076-780674
@@ -1319,8 +1319,8 @@ employer_name                  | New Mexico State University
 soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 41 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25139-991819
-job_title                      | Assistant Professor
+case_number                    | I-200-25162-080135
+job_title                      | Assistant  Professor
 employer_name                  | New Mexico State University
 secondary_entity_business_name | 
 employer_phone                 | 15756462808
@@ -1329,8 +1329,8 @@ employer_poc_last_name         | Rindner
 employer_poc_email             | teamHRS@nmsu.edu
 employer_poc_phone             | 15756462808
 employer_poc_phone_ext         | 
-worksite_address1              | NMSU College of Business, Marketing Department
-worksite_address2              | Business Complex, Room 209, 1320 East University Ave.
+worksite_address1              | NMSU Department of Astronomy
+worksite_address2              | 1320 Frenger Mall
 worksite_city                  | Las Cruces
 worksite_county                | DONA ANA
 lawfirm_name_business_name     | Maney Gordon Zeller PA
@@ -1349,7 +1349,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
-soc_code                       | 25-1011
+soc_code                       | 25-1051
 h_1b_dependent                 | No
 -[ RECORD 42 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25199-185371
@@ -1484,72 +1484,6 @@ employer_name                  | New Mexico State University
 soc_code                       | 13-1111.00
 h_1b_dependent                 | No
 -[ RECORD 46 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25070-765522
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Department of Government, 1525 Stewart St.
-worksite_address2              | 
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1065
-h_1b_dependent                 | No
--[ RECORD 47 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25050-707030
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU DEPARTMENT OF GOVERNMENT
-worksite_address2              | 1525 Stewart St.
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1065
-h_1b_dependent                 | No
--[ RECORD 48 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25070-765545
 job_title                      | Bridge Inspector
 employer_name                  | New Mexico State University
@@ -1582,7 +1516,40 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 17-2052
 h_1b_dependent                 | No
--[ RECORD 49 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 47 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25070-765522
+job_title                      | Assistant Professor
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | NMSU Department of Government, 1525 Stewart St.
+worksite_address2              | 
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 25-1065
+h_1b_dependent                 | No
+-[ RECORD 48 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25076-780814
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
@@ -1614,6 +1581,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 25-1122
+h_1b_dependent                 | No
+-[ RECORD 49 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25050-707030
+job_title                      | Assistant Professor
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | NMSU DEPARTMENT OF GOVERNMENT
+worksite_address2              | 1525 Stewart St.
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 25-1065
 h_1b_dependent                 | No
 -[ RECORD 50 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25192-169680
@@ -1781,39 +1781,6 @@ employer_name                  | New Mexico State University
 soc_code                       | 19-2021
 h_1b_dependent                 | No
 -[ RECORD 55 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25153-041156
-job_title                      | Extension Specialist/Food & Nutrition
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU ACES Extension Family & Consumer Sciences
-worksite_address2              | Gerald Thomas Hall Room 308
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-06-15
-end_date                       | 2028-06-14
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 29-1031
-h_1b_dependent                 | No
--[ RECORD 56 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25153-040955
 job_title                      | Research Scientist, Sr.
 employer_name                  | New Mexico State University
@@ -1845,6 +1812,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 15-2051
+h_1b_dependent                 | No
+-[ RECORD 56 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25153-041156
+job_title                      | Extension Specialist/Food & Nutrition
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | NMSU ACES Extension Family & Consumer Sciences
+worksite_address2              | Gerald Thomas Hall Room 308
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2025-06-15
+end_date                       | 2028-06-14
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 29-1031
 h_1b_dependent                 | No
 -[ RECORD 57 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24353-555722
@@ -2012,39 +2012,6 @@ employer_name                  | COVANT SOLUTIONS INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 62 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24348-542196
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU ACES Agricultural Economics and Agricultural Business
-worksite_address2              | Gerald Thomas Hall, Room 387
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-05-01
-end_date                       | 2028-04-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1011
-h_1b_dependent                 | No
--[ RECORD 63 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25049-702138
 job_title                      | Research Scientist, Associate
 employer_name                  | New Mexico State University
@@ -2076,6 +2043,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 19-3092
+h_1b_dependent                 | No
+-[ RECORD 63 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24348-542196
+job_title                      | Assistant Professor
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | NMSU ACES Agricultural Economics and Agricultural Business
+worksite_address2              | Gerald Thomas Hall, Room 387
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2025-05-01
+end_date                       | 2028-04-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 25-1011
 h_1b_dependent                 | No
 -[ RECORD 64 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25107-876696
@@ -2243,8 +2243,8 @@ employer_name                  | New Mexico State University
 soc_code                       | 19-1013
 h_1b_dependent                 | No
 -[ RECORD 69 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25042-682964
-job_title                      | Extension Viticulturist Specialist
+case_number                    | I-200-25016-622947
+job_title                      | Post Doctoral
 employer_name                  | New Mexico State University
 secondary_entity_business_name | 
 employer_phone                 | 15756462808
@@ -2253,8 +2253,8 @@ employer_poc_last_name         | Rindner
 employer_poc_email             | teamHRS@nmsu.edu
 employer_poc_phone             | 15756462808
 employer_poc_phone_ext         | 
-worksite_address1              | NMSU ACES Plant & Environmental Sciences
-worksite_address2              | Skeen Hall Room N127
+worksite_address1              | NMSU Wooton HAll
+worksite_address2              | 2995 Knox St.
 worksite_city                  | Las Cruces
 worksite_county                | DONA ANA
 lawfirm_name_business_name     | Maney Gordon Zeller PA
@@ -2276,8 +2276,8 @@ employer_name                  | New Mexico State University
 soc_code                       | 19-1013
 h_1b_dependent                 | No
 -[ RECORD 70 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25016-622947
-job_title                      | Post Doctoral
+case_number                    | I-200-25042-682964
+job_title                      | Extension Viticulturist Specialist
 employer_name                  | New Mexico State University
 secondary_entity_business_name | 
 employer_phone                 | 15756462808
@@ -2286,8 +2286,8 @@ employer_poc_last_name         | Rindner
 employer_poc_email             | teamHRS@nmsu.edu
 employer_poc_phone             | 15756462808
 employer_poc_phone_ext         | 
-worksite_address1              | NMSU Wooton HAll
-worksite_address2              | 2995 Knox St.
+worksite_address1              | NMSU ACES Plant & Environmental Sciences
+worksite_address2              | Skeen Hall Room N127
 worksite_city                  | Las Cruces
 worksite_county                | DONA ANA
 lawfirm_name_business_name     | Maney Gordon Zeller PA
@@ -2606,10 +2606,10 @@ employer_name                  | New Mexico State University
 soc_code                       | 15-2051
 h_1b_dependent                 | No
 -[ RECORD 80 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24219-249171
+case_number                    | I-200-24218-245714
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | ARISTON TEK INC
-secondary_entity_business_name | REMOTE(DEPARTMENT OFHUMAN SERVICES-MDTHINK)
+secondary_entity_business_name | REMOTE (DEPARTMENT OF HUMAN SERVICES-MDTHINK)
 employer_phone                 | 12122179525
 employer_poc_first_name        | SUBRAMANIYAM
 employer_poc_last_name         | SEETHA RAMAN
@@ -2636,7 +2636,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | ARISTON TEK INC
-soc_code                       | 15-1252.00
+soc_code                       | 15-1299.05
 h_1b_dependent                 | Yes
 -[ RECORD 81 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24218-245891
@@ -2672,10 +2672,10 @@ employer_name                  | ARISTON TEK INC
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 82 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24218-245714
+case_number                    | I-200-24219-249171
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | ARISTON TEK INC
-secondary_entity_business_name | REMOTE (DEPARTMENT OF HUMAN SERVICES-MDTHINK)
+secondary_entity_business_name | REMOTE(DEPARTMENT OFHUMAN SERVICES-MDTHINK)
 employer_phone                 | 12122179525
 employer_poc_first_name        | SUBRAMANIYAM
 employer_poc_last_name         | SEETHA RAMAN
@@ -2702,7 +2702,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | ARISTON TEK INC
-soc_code                       | 15-1299.05
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 83 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24129-972341
@@ -2903,39 +2903,6 @@ employer_name                  | KET SOFTWARE SERVICES LLC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 89 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24109-902277
-job_title                      | APPLICATION DEVELOPER
-employer_name                  | TECHSMART GLOBAL INC
-secondary_entity_business_name | STATE OF NEW MEXICO, DEPARTMENT OF HEALTH
-employer_phone                 | 16095893999
-employer_poc_first_name        | ARAVIND
-employer_poc_last_name         | DARUVURU
-employer_poc_email             | HR@TECHSMARTGLOBAL.COM
-employer_poc_phone             | 16095893999
-employer_poc_phone_ext         | 
-worksite_address1              | 1190 S ST. FRANCIS DRIVE
-worksite_address2              | S3251
-worksite_city                  | SANTA FE
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 666 PLAINSBORO ROAD
-employer_address2              | SUITE 1116
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | TECHSMART GLOBAL INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 90 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24137-005898
 job_title                      | JAVA DEVELOPER
 employer_name                  | MIIT SOLUTIONS INC
@@ -2968,6 +2935,39 @@ amended_petition               | 0
 employer_name                  | MIIT SOLUTIONS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
+-[ RECORD 90 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24109-902277
+job_title                      | APPLICATION DEVELOPER
+employer_name                  | TECHSMART GLOBAL INC
+secondary_entity_business_name | STATE OF NEW MEXICO, DEPARTMENT OF HEALTH
+employer_phone                 | 16095893999
+employer_poc_first_name        | ARAVIND
+employer_poc_last_name         | DARUVURU
+employer_poc_email             | HR@TECHSMARTGLOBAL.COM
+employer_poc_phone             | 16095893999
+employer_poc_phone_ext         | 
+worksite_address1              | 1190 S ST. FRANCIS DRIVE
+worksite_address2              | S3251
+worksite_city                  | SANTA FE
+worksite_county                | SANTA FE
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 666 PLAINSBORO ROAD
+employer_address2              | SUITE 1116
+employer_city                  | PLAINSBORO
+employer_state                 | NJ
+employer_postal_code           | 08536
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | TECHSMART GLOBAL INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 91 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24114-916916
 job_title                      | Water Resources Professional III
@@ -3035,7 +3035,7 @@ employer_name                  | Marlabs LLC
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
 -[ RECORD 93 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24142-018568
+case_number                    | I-200-24080-817250
 job_title                      | Business Analyst
 employer_name                  | Acro Service Corporation
 secondary_entity_business_name | State of New Mexico
@@ -3045,7 +3045,7 @@ employer_poc_last_name         | Downey
 employer_poc_email             | immigrationservices@acrocorp.com
 employer_poc_phone             | 17345911100
 employer_poc_phone_ext         | 
-worksite_address1              | 4665 Indian School Rd. NE
+worksite_address1              | 300 San Mateo Blvd. NE
 worksite_address2              | 
 worksite_city                  | Albuquerque
 worksite_county                | BERNALILLO
@@ -3068,7 +3068,7 @@ employer_name                  | Acro Service Corporation
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 94 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24080-817250
+case_number                    | I-200-24142-018568
 job_title                      | Business Analyst
 employer_name                  | Acro Service Corporation
 secondary_entity_business_name | State of New Mexico
@@ -3078,7 +3078,7 @@ employer_poc_last_name         | Downey
 employer_poc_email             | immigrationservices@acrocorp.com
 employer_poc_phone             | 17345911100
 employer_poc_phone_ext         | 
-worksite_address1              | 300 San Mateo Blvd. NE
+worksite_address1              | 4665 Indian School Rd. NE
 worksite_address2              | 
 worksite_city                  | Albuquerque
 worksite_county                | BERNALILLO
@@ -3134,72 +3134,6 @@ employer_name                  | New Mexico State University
 soc_code                       | 19-3022.00
 h_1b_dependent                 | No
 -[ RECORD 96 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24150-046278
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Counseling & Educational Psychology 1220 Stewart St
-worksite_address2              | ODonnell Hall, Suite 222
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2024-08-19
-end_date                       | 2027-08-18
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1066
-h_1b_dependent                 | No
--[ RECORD 97 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24150-046278
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Counseling & Educational Psychology 1220 Stewart St
-worksite_address2              | ODonnell Hall, Suite 222
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2024-08-19
-end_date                       | 2027-08-18
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1066.00
-h_1b_dependent                 | No
--[ RECORD 98 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24220-251364
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
@@ -3232,7 +3166,7 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 99 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 97 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24109-900896
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
@@ -3264,6 +3198,72 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 25-1011.00
+h_1b_dependent                 | No
+-[ RECORD 98 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24150-046278
+job_title                      | Assistant Professor
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | NMSU Counseling & Educational Psychology 1220 Stewart St
+worksite_address2              | ODonnell Hall, Suite 222
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2024-08-19
+end_date                       | 2027-08-18
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 25-1066
+h_1b_dependent                 | No
+-[ RECORD 99 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24150-046278
+job_title                      | Assistant Professor
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | NMSU Counseling & Educational Psychology 1220 Stewart St
+worksite_address2              | ODonnell Hall, Suite 222
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2024-08-19
+end_date                       | 2027-08-18
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 25-1066.00
 h_1b_dependent                 | No
 -[ RECORD 100 ]----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24088-836615
@@ -3695,39 +3695,6 @@ employer_name                  | New Mexico Regulation & Licensing Department
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 113 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25206-201408
-job_title                      | IT Application Developer
-employer_name                  | New Mexico Regulation & Licensing Department
-secondary_entity_business_name | 
-employer_phone                 | 15054876763
-employer_poc_first_name        | Leslie
-employer_poc_last_name         | Garcia
-employer_poc_email             | leslie.garcia@rld.nm.gov
-employer_poc_phone             | 15054876763
-employer_poc_phone_ext         | 
-worksite_address1              | 2550 Cerillos Rd.
-worksite_address2              | 
-worksite_city                  | Santa Fe
-worksite_county                | 
-lawfirm_name_business_name     | New Mexico Regulation & Licensing Department
-employer_address1              | 2550 Cerillos Road
-employer_address2              | 
-employer_city                  | Santa Fe
-employer_state                 | NM
-employer_postal_code           | 87505
-begin_date                     | 2025-08-02
-end_date                       | 2027-06-12
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | New Mexico Regulation & Licensing Department
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 114 ]----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25195-173758
 job_title                      | IT APPLICATION DEVELOPER II
 employer_name                  | New Mexico Regulation & Licensing Department
@@ -3749,6 +3716,39 @@ employer_city                  | Santa Fe
 employer_state                 | NM
 employer_postal_code           | 87505
 begin_date                     | 2025-07-14
+end_date                       | 2027-06-12
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | New Mexico Regulation & Licensing Department
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 114 ]----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25206-201408
+job_title                      | IT Application Developer
+employer_name                  | New Mexico Regulation & Licensing Department
+secondary_entity_business_name | 
+employer_phone                 | 15054876763
+employer_poc_first_name        | Leslie
+employer_poc_last_name         | Garcia
+employer_poc_email             | leslie.garcia@rld.nm.gov
+employer_poc_phone             | 15054876763
+employer_poc_phone_ext         | 
+worksite_address1              | 2550 Cerillos Rd.
+worksite_address2              | 
+worksite_city                  | Santa Fe
+worksite_county                | 
+lawfirm_name_business_name     | New Mexico Regulation & Licensing Department
+employer_address1              | 2550 Cerillos Road
+employer_address2              | 
+employer_city                  | Santa Fe
+employer_state                 | NM
+employer_postal_code           | 87505
+begin_date                     | 2025-08-02
 end_date                       | 2027-06-12
 total_worker_positions         | 1
 new_employment                 | 0
@@ -3794,39 +3794,6 @@ employer_name                  | New Mexico State University
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
 -[ RECORD 116 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24101-871164
-job_title                      | Data Analyst
-employer_name                  | BVM Technology Associates Inc
-secondary_entity_business_name | PED, State of New Mexico
-employer_phone                 | 18885012286
-employer_poc_first_name        | Murali
-employer_poc_last_name         | Makani
-employer_poc_email             | immsupport@bvmtechnology.com
-employer_poc_phone             | 18885012286
-employer_poc_phone_ext         | 
-worksite_address1              | 300 Don Gasper Ave
-worksite_address2              | 
-worksite_city                  | Santa Fe
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | 
-employer_address1              | 7460 Warren Parkway
-employer_address2              | Suite 100
-employer_city                  | Frisco
-employer_state                 | TX
-employer_postal_code           | 75034
-begin_date                     | 2024-06-01
-end_date                       | 2027-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | BVM Technology Associates Inc
-soc_code                       | 15-2051.00
-h_1b_dependent                 | Yes
--[ RECORD 117 ]----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24099-865532
 job_title                      | Educational Accountabily Data Analyst
 employer_name                  | BVM Technology Associates Inc
@@ -3858,6 +3825,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | BVM Technology Associates Inc
 soc_code                       | 11-9039.00
+h_1b_dependent                 | Yes
+-[ RECORD 117 ]----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24101-871164
+job_title                      | Data Analyst
+employer_name                  | BVM Technology Associates Inc
+secondary_entity_business_name | PED, State of New Mexico
+employer_phone                 | 18885012286
+employer_poc_first_name        | Murali
+employer_poc_last_name         | Makani
+employer_poc_email             | immsupport@bvmtechnology.com
+employer_poc_phone             | 18885012286
+employer_poc_phone_ext         | 
+worksite_address1              | 300 Don Gasper Ave
+worksite_address2              | 
+worksite_city                  | Santa Fe
+worksite_county                | SANTA FE
+lawfirm_name_business_name     | 
+employer_address1              | 7460 Warren Parkway
+employer_address2              | Suite 100
+employer_city                  | Frisco
+employer_state                 | TX
+employer_postal_code           | 75034
+begin_date                     | 2024-06-01
+end_date                       | 2027-05-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | BVM Technology Associates Inc
+soc_code                       | 15-2051.00
 h_1b_dependent                 | Yes
 -[ RECORD 118 ]----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24135-994797
@@ -4256,39 +4256,6 @@ employer_name                  | New Mexico Corrections Department
 soc_code                       | 15-1253.00
 h_1b_dependent                 | No
 -[ RECORD 130 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-203-24304-442675
-job_title                      | Assistant Coach
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | New Mexico State University Athletics
-worksite_address2              | Fulton Center, 1815 Wells Street
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2024-11-01
-end_date                       | 2026-10-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 27-2022
-h_1b_dependent                 | N/A
--[ RECORD 131 ]----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23234-284587
 job_title                      | Enterprise Programmer Analyst, Intermediate
 employer_name                  | New Mexico State University
@@ -4321,7 +4288,7 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 15-1293.00
 h_1b_dependent                 | No
--[ RECORD 132 ]----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 131 ]----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23257-346978
 job_title                      | Assistant Athletic Trainer
 employer_name                  | New Mexico State University
@@ -4354,8 +4321,41 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 29-9091.00
 h_1b_dependent                 | No
+-[ RECORD 132 ]----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-203-24304-442675
+job_title                      | Assistant Coach
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462808
+employer_poc_first_name        | Joyce
+employer_poc_last_name         | Rindner
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462808
+employer_poc_phone_ext         | 
+worksite_address1              | New Mexico State University Athletics
+worksite_address2              | Fulton Center, 1815 Wells Street
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2024-11-01
+end_date                       | 2026-10-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 27-2022
+h_1b_dependent                 | N/A
 -[ RECORD 133 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23165-111905
+case_number                    | I-200-23167-119606
 job_title                      | BUSINESS ANALYST
 employer_name                  | SALIGRAM SYSTEMS INC
 secondary_entity_business_name | NEW MEXICO REGULATION AND LICENSING DEPARTMENT
@@ -4388,26 +4388,26 @@ employer_name                  | SALIGRAM SYSTEMS INC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 134 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23131-015264
-job_title                      | Business Analyst
-employer_name                  | Source Mantra Inc
-secondary_entity_business_name | State of New Mexico Corrections Department
-employer_phone                 | 19084448940
-employer_poc_first_name        | SRIDHAR
-employer_poc_last_name         | DANDU
-employer_poc_email             | sdandu@sourcemantra.com
-employer_poc_phone             | 19084448940
+case_number                    | I-200-23165-111905
+job_title                      | BUSINESS ANALYST
+employer_name                  | SALIGRAM SYSTEMS INC
+secondary_entity_business_name | NEW MEXICO REGULATION AND LICENSING DEPARTMENT
+employer_phone                 | 16095893900
+employer_poc_first_name        | ARAVIND
+employer_poc_last_name         | DARUVURU
+employer_poc_email             | HR@SALIGRAMS.COM
+employer_poc_phone             | 16095893900
 employer_poc_phone_ext         | 
-worksite_address1              | 260 E Avenida Bernalillo,
+worksite_address1              | 5500 SAN ANTONIO DRIVE NORTHEAST
 worksite_address2              | 
-worksite_city                  | Bernalillo City
+worksite_city                  | ALBUQUERQUE
 worksite_county                | BERNALILLO
-lawfirm_name_business_name     | Vidyadharan Esq. & Associates LLC.
-employer_address1              | 295 Durham Ave
-employer_address2              | STE 201,
-employer_city                  | South Plainfield
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 666 PLAINSBORO ROAD
+employer_address2              | SUITE 1365
+employer_city                  | PLAINSBORO
 employer_state                 | NJ
-employer_postal_code           | 07080
+employer_postal_code           | 08536
 begin_date                     | 2023-10-01
 end_date                       | 2026-09-30
 total_worker_positions         | 1
@@ -4417,7 +4417,7 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Source Mantra Inc
+employer_name                  | SALIGRAM SYSTEMS INC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 135 ]----------------+--------------------------------------------------------------------------------------------------------
@@ -4454,26 +4454,26 @@ employer_name                  | Source Mantra Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 136 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23167-119606
-job_title                      | BUSINESS ANALYST
-employer_name                  | SALIGRAM SYSTEMS INC
-secondary_entity_business_name | NEW MEXICO REGULATION AND LICENSING DEPARTMENT
-employer_phone                 | 16095893900
-employer_poc_first_name        | ARAVIND
-employer_poc_last_name         | DARUVURU
-employer_poc_email             | HR@SALIGRAMS.COM
-employer_poc_phone             | 16095893900
+case_number                    | I-200-23131-015264
+job_title                      | Business Analyst
+employer_name                  | Source Mantra Inc
+secondary_entity_business_name | State of New Mexico Corrections Department
+employer_phone                 | 19084448940
+employer_poc_first_name        | SRIDHAR
+employer_poc_last_name         | DANDU
+employer_poc_email             | sdandu@sourcemantra.com
+employer_poc_phone             | 19084448940
 employer_poc_phone_ext         | 
-worksite_address1              | 5500 SAN ANTONIO DRIVE NORTHEAST
+worksite_address1              | 260 E Avenida Bernalillo,
 worksite_address2              | 
-worksite_city                  | ALBUQUERQUE
+worksite_city                  | Bernalillo City
 worksite_county                | BERNALILLO
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 666 PLAINSBORO ROAD
-employer_address2              | SUITE 1365
-employer_city                  | PLAINSBORO
+lawfirm_name_business_name     | Vidyadharan Esq. & Associates LLC.
+employer_address1              | 295 Durham Ave
+employer_address2              | STE 201,
+employer_city                  | South Plainfield
 employer_state                 | NJ
-employer_postal_code           | 08536
+employer_postal_code           | 07080
 begin_date                     | 2023-10-01
 end_date                       | 2026-09-30
 total_worker_positions         | 1
@@ -4483,7 +4483,7 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | SALIGRAM SYSTEMS INC
+employer_name                  | Source Mantra Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 137 ]----------------+--------------------------------------------------------------------------------------------------------
@@ -4553,10 +4553,10 @@ employer_name                  | New Mexico State University
 soc_code                       | 27-2022.00
 h_1b_dependent                 | No
 -[ RECORD 139 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23230-278811
+case_number                    | I-200-23230-278828
 job_title                      | Software Developer
 employer_name                  | Namitus Technologies Inc
-secondary_entity_business_name | State of New Mexico
+secondary_entity_business_name | State of New Mexico / Deloitte Consulting LLP
 employer_phone                 | 12145133133
 employer_poc_first_name        | Sateesh
 employer_poc_last_name         | Nagilla
@@ -4619,10 +4619,10 @@ employer_name                  | Namitus Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 141 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23230-278828
+case_number                    | I-200-23230-278811
 job_title                      | Software Developer
 employer_name                  | Namitus Technologies Inc
-secondary_entity_business_name | State of New Mexico / Deloitte Consulting LLP
+secondary_entity_business_name | State of New Mexico
 employer_phone                 | 12145133133
 employer_poc_first_name        | Sateesh
 employer_poc_last_name         | Nagilla
@@ -4850,72 +4850,39 @@ employer_name                  | New Mexico State University
 soc_code                       | 25-1042.00
 h_1b_dependent                 | No
 -[ RECORD 148 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23205-209904
+case_number                    | I-200-23206-214068
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
 secondary_entity_business_name | 
 employer_phone                 | 15756462108
 employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
+employer_poc_last_name         | Ulmer
 employer_poc_email             | teamHRS@nmsu.edu
 employer_poc_phone             | 15756462108
 employer_poc_phone_ext         | 
-worksite_address1              | ACES PES
-worksite_address2              | Skeen Hall Room N127
+worksite_address1              | NMSU TPAL
+worksite_address2              | 1220 Stewart Street, ODonnell Hall, Suite 302.
 worksite_city                  | Las Cruces
 worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
+lawfirm_name_business_name     | Maney Gordon Zeller P.A.
+employer_address1              | P.O. Box 30001 MSC 3HRS
+employer_address2              | 
 employer_city                  | Las Cruces
 employer_state                 | NM
 employer_postal_code           | 88003
 begin_date                     | 2023-08-01
 end_date                       | 2026-07-31
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
-soc_code                       | 25-1041.00
+soc_code                       | 25-1081.00
 h_1b_dependent                 | No
 -[ RECORD 149 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23163-099726
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Astronomy New Mexico State University
-worksite_address2              | 1320 Frenger Mall
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1051.00
-h_1b_dependent                 | No
--[ RECORD 150 ]----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23125-997753
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
@@ -4948,7 +4915,7 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 25-1124.00
 h_1b_dependent                 | No
--[ RECORD 151 ]----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 150 ]----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23188-174130
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
@@ -4981,38 +4948,71 @@ amended_petition               | 0
 employer_name                  | New Mexico State University
 soc_code                       | 25-1041.00
 h_1b_dependent                 | No
--[ RECORD 152 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23206-214068
+-[ RECORD 151 ]----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23163-099726
 job_title                      | Assistant Professor
 employer_name                  | New Mexico State University
 secondary_entity_business_name | 
 employer_phone                 | 15756462108
 employer_poc_first_name        | Jessica
-employer_poc_last_name         | Ulmer
+employer_poc_last_name         | ULMER
 employer_poc_email             | teamHRS@nmsu.edu
 employer_poc_phone             | 15756462108
 employer_poc_phone_ext         | 
-worksite_address1              | NMSU TPAL
-worksite_address2              | 1220 Stewart Street, ODonnell Hall, Suite 302.
+worksite_address1              | Department of Astronomy New Mexico State University
+worksite_address2              | 1320 Frenger Mall
 worksite_city                  | Las Cruces
 worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller P.A.
-employer_address1              | P.O. Box 30001 MSC 3HRS
-employer_address2              | 
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
 employer_city                  | Las Cruces
 employer_state                 | NM
 employer_postal_code           | 88003
 begin_date                     | 2023-08-01
 end_date                       | 2026-07-31
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | New Mexico State University
-soc_code                       | 25-1081.00
+soc_code                       | 25-1051.00
+h_1b_dependent                 | No
+-[ RECORD 152 ]----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23205-209904
+job_title                      | Assistant Professor
+employer_name                  | New Mexico State University
+secondary_entity_business_name | 
+employer_phone                 | 15756462108
+employer_poc_first_name        | Jessica
+employer_poc_last_name         | ULMER
+employer_poc_email             | teamHRS@nmsu.edu
+employer_poc_phone             | 15756462108
+employer_poc_phone_ext         | 
+worksite_address1              | ACES PES
+worksite_address2              | Skeen Hall Room N127
+worksite_city                  | Las Cruces
+worksite_county                | DONA ANA
+lawfirm_name_business_name     | Maney Gordon Zeller PA
+employer_address1              | P.O. Box 30001
+employer_address2              | MSC 3HRS
+employer_city                  | Las Cruces
+employer_state                 | NM
+employer_postal_code           | 88003
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | New Mexico State University
+soc_code                       | 25-1041.00
 h_1b_dependent                 | No
 -[ RECORD 153 ]----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23209-223756
@@ -5047,1126 +5047,4 @@ amended_petition               | 1
 employer_name                  | FLYSOFT INC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 154 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23192-181711
-job_title                      | .NET DEVELOPER
-employer_name                  | IT RESOURCES INC
-secondary_entity_business_name | STATE OF NEW MEXICO – STATE LAND OFFICE
-employer_phone                 | 13024440205
-employer_poc_first_name        | CHRISTINA
-employer_poc_last_name         | MITCHELL
-employer_poc_email             | HR@IT-RESINC.COM
-employer_poc_phone             | 13024440205
-employer_poc_phone_ext         | 
-worksite_address1              | 310 OLD SANTA FE TRAIL
-worksite_address2              | 
-worksite_city                  | SANTA FE
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 220 CONTINENTAL DRIVE
-employer_address2              | SUITE 104
-employer_city                  | NEWARK
-employer_state                 | DE
-employer_postal_code           | 19713
-begin_date                     | 2023-07-24
-end_date                       | 2026-07-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | IT RESOURCES INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 155 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23215-235176
-job_title                      | IT Data Specialist
-employer_name                  | New Mexico Higher Education Department
-secondary_entity_business_name | 
-employer_phone                 | 15054768400
-employer_poc_first_name        | Stephanie
-employer_poc_last_name         | Rodriguez
-employer_poc_email             | Stephanie.Rodriguez@hed.nm.gov
-employer_poc_phone             | 15054768400
-employer_poc_phone_ext         | 
-worksite_address1              | 6401 Richards Avenue
-worksite_address2              | Office  418
-worksite_city                  | Santa Fe
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | 2044 Galisteo St
-employer_address2              | STE 4
-employer_city                  | Santa Fe
-employer_state                 | NM
-employer_postal_code           | 87505
-begin_date                     | 2023-08-11
-end_date                       | 2026-07-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | New Mexico Higher Education Department
-soc_code                       | 15-2051.00
-h_1b_dependent                 | No
--[ RECORD 156 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23165-110711
-job_title                      | IT Data Specialist
-employer_name                  | New Mexico Higher Education Department
-secondary_entity_business_name | 
-employer_phone                 | 15054768400
-employer_poc_first_name        | Stephanie
-employer_poc_last_name         | Rodriguez
-employer_poc_email             | Stephanie.Rodriguez@hed.nm.gov
-employer_poc_phone             | 15054768400
-employer_poc_phone_ext         | 
-worksite_address1              | 1157 County Road 110
-worksite_address2              | STE 140A
-worksite_city                  | Rancho de Taos
-worksite_county                | TAOS
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | 2044 Galisteo St
-employer_address2              | STE 4
-employer_city                  | Santa Fe
-employer_state                 | NM
-employer_postal_code           | 87505
-begin_date                     | 2023-07-24
-end_date                       | 2026-07-23
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico Higher Education Department
-soc_code                       | 15-2051.00
-h_1b_dependent                 | No
--[ RECORD 157 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23017-708238
-job_title                      | Software Developer
-employer_name                  | WEB YOGA INC
-secondary_entity_business_name | State of New Mexico - EARLY CHILDHOOD EDUCATION AND CARE DEPARTMENT
-employer_phone                 | 19374280000
-employer_poc_first_name        | Srikanth C.
-employer_poc_last_name         | Paladugu
-employer_poc_email             | hr@webyoga.com
-employer_poc_phone             | 19374280000
-employer_poc_phone_ext         | 
-worksite_address1              | 4801 Indian School Rd. NE, Building  2
-worksite_address2              | 
-worksite_city                  | Albuquerque
-worksite_county                | BERNALILLO
-lawfirm_name_business_name     | Reddy & Neumann PC
-employer_address1              | 1123 Lyons Road
-employer_address2              | 
-employer_city                  | Dayton
-employer_state                 | OH
-employer_postal_code           | 45458
-begin_date                     | 2023-07-16
-end_date                       | 2026-07-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | WEB YOGA INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 158 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23093-899521
-job_title                      | Post Doctoral Fellow
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Mathematical Sciences
-worksite_address2              | 1290 Frenger Mall
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-07-15
-end_date                       | 2026-07-14
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 15-2021.00
-h_1b_dependent                 | No
--[ RECORD 159 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23038-756900
-job_title                      | .NET DEVELOPER
-employer_name                  | TECHSMART GLOBAL INC
-secondary_entity_business_name | STATE OF NEW MEXICO, DEPT. OF HEALTH
-employer_phone                 | 16095893999
-employer_poc_first_name        | ARAVIND
-employer_poc_last_name         | DARUVURU
-employer_poc_email             | HR@TECHSMARTGLOBAL.COM
-employer_poc_phone             | 16095893999
-employer_poc_phone_ext         | 
-worksite_address1              | 1190 ST. FRANCIS DRIVE
-worksite_address2              | 
-worksite_city                  | SANTA FE
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 666 PLAINSBORO ROAD
-employer_address2              | SUITE 1116
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 2023-07-13
-end_date                       | 2026-07-12
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | TECHSMART GLOBAL INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 160 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23167-118792
-job_title                      | Enterprise Database Administrator, Sr.
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU ICT
-worksite_address2              | 1275 Stewart St, Room No 143 F
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 15-1242.00
-h_1b_dependent                 | No
--[ RECORD 161 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23011-696450
-job_title                      | SHAREPOINT DEVELOPER
-employer_name                  | IT RESOURCES INC
-secondary_entity_business_name | NEW MEXICO PUBLIC EDUCATION DEPARTMENT (NMPED)
-employer_phone                 | 13024440205
-employer_poc_first_name        | CHRISTINA
-employer_poc_last_name         | MITCHELL
-employer_poc_email             | HR@IT-RESINC.COM
-employer_poc_phone             | 13024440205
-employer_poc_phone_ext         | 
-worksite_address1              | 300 DON GASPAR AVE.
-worksite_address2              | 
-worksite_city                  | SANTA FE
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 220 CONTINENTAL DRIVE
-employer_address2              | SUITE 104
-employer_city                  | NEWARK
-employer_state                 | DE
-employer_postal_code           | 19713
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | IT RESOURCES INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 162 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23163-100132
-job_title                      | Post Doctoral
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU ACES Jornada Experimental Range
-worksite_address2              | 2995 Knox Street
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-06-20
-end_date                       | 2026-06-19
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 163 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23110-952025
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU  Creative Media Institute
-worksite_address2              | 2915 McFie Circle Milton Hall – Room 172B
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-06-18
-end_date                       | 2026-06-17
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1121.00
-h_1b_dependent                 | No
--[ RECORD 164 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23111-954663
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Creative Media Institute
-worksite_address2              | 2915 McFie Circle, Milton Hall Room 172B
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-06-18
-end_date                       | 2026-06-17
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1121.00
-h_1b_dependent                 | No
--[ RECORD 165 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23136-025478
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU ACES Animal and Range Sciences
-worksite_address2              | Knox Hall, Room 202
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 166 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23145-053774
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | 1290 Frenger Mall, SH 123
-worksite_address2              | 
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1021.00
-h_1b_dependent                 | No
--[ RECORD 167 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23125-996882
-job_title                      | IT Applications Developer II
-employer_name                  | New Mexico Corrections Department
-secondary_entity_business_name | 
-employer_phone                 | 15058278550
-employer_poc_first_name        | Mark
-employer_poc_last_name         | Lovato
-employer_poc_email             | mark.lovato@cd.nm.gov
-employer_poc_phone             | 15058278662
-employer_poc_phone_ext         | 
-worksite_address1              | 4337 State Road 14
-worksite_address2              | 
-worksite_city                  | Santa Fe
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | Vrapi Weeks
-employer_address1              | 4337 State Road 14
-employer_address2              | 
-employer_city                  | Santa Fe
-employer_state                 | NM
-employer_postal_code           | 87508
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico Corrections Department
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 168 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23040-762498
-job_title                      | Post Doctoral
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Leyendecker Plant Science Center
-worksite_address2              | 7700 Plant Science Circle
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-05-31
-end_date                       | 2026-05-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 169 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23144-049024
-job_title                      | IT Data Specialist
-employer_name                  | New Mexico Higher Education Department
-secondary_entity_business_name | 
-employer_phone                 | 15054768400
-employer_poc_first_name        | Stephanie
-employer_poc_last_name         | Rodriguez
-employer_poc_email             | Stephanie.Rodriguez@hed.nm.gov
-employer_poc_phone             | 15054768400
-employer_poc_phone_ext         | 
-worksite_address1              | 2044 Galisteo St
-worksite_address2              | STE 4
-worksite_city                  | Santa FE
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | 2044 Galisteo St
-employer_address2              | STE 4
-employer_city                  | Santa Fe
-employer_state                 | NM
-employer_postal_code           | 87505
-begin_date                     | 2023-05-27
-end_date                       | 2026-05-26
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico Higher Education Department
-soc_code                       | 15-2051.00
-h_1b_dependent                 | No
--[ RECORD 170 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25216-219009
-job_title                      | College Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Business Complex
-worksite_address2              | Room 222 1320 E University Ave.
-worksite_city                  | Las Cruces
-worksite_county                | 
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-08-15
-end_date                       | 2026-05-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 1
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 171 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23130-010931
-job_title                      | Business Analyst
-employer_name                  | DataSoft Global LLC
-secondary_entity_business_name | State of New Mexico
-employer_phone                 | 13144702525
-employer_poc_first_name        | Parveen
-employer_poc_last_name         | PATTAN
-employer_poc_email             | parveen.pattan@DataSoftGlobal.Net
-employer_poc_phone             | 13144702525
-employer_poc_phone_ext         | 
-worksite_address1              | 615 Northwest first street
-worksite_address2              | 
-worksite_city                  | Albuquerque
-worksite_county                | BERNALILLO
-lawfirm_name_business_name     | SOMIREDDY LAW GROUP PLLC
-employer_address1              | 128 Enchanted Parkway,  206B
-employer_address2              | 
-employer_city                  | Manchester
-employer_state                 | MO
-employer_postal_code           | 63021
-begin_date                     | 2023-05-17
-end_date                       | 2026-05-16
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | DataSoft Global LLC
-soc_code                       | 13-1111.00
-h_1b_dependent                 | No
--[ RECORD 172 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23058-807749
-job_title                      | .NET DEVELOPER
-employer_name                  | TECHSMART GLOBAL INC
-secondary_entity_business_name | STATE OF NEW MEXICO, DEPT. OF HEALTH
-employer_phone                 | 16095893999
-employer_poc_first_name        | ARAVIND
-employer_poc_last_name         | DARUVURU
-employer_poc_email             | HR@TECHSMARTGLOBAL.COM
-employer_poc_phone             | 16095893999
-employer_poc_phone_ext         | 
-worksite_address1              | 1190 ST. FRANCIS DRIVE
-worksite_address2              | 
-worksite_city                  | SANTA FE
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 666 PLAINSBORO ROAD
-employer_address2              | SUITE 1116
-employer_city                  | PLAINSBORO
-employer_state                 | NJ
-employer_postal_code           | 08536
-begin_date                     | 2023-05-16
-end_date                       | 2026-05-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | TECHSMART GLOBAL INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 173 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23121-979119
-job_title                      | Research Scientist, Associate
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Ag Science Center
-worksite_address2              | 1300 W Navajo
-worksite_city                  | Farmington
-worksite_county                | SAN JUAN
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-05-15
-end_date                       | 2026-05-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 174 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23059-808135
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Department of Civil Engineering
-worksite_address2              | 
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-05-10
-end_date                       | 2026-05-09
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 175 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23059-808183
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | Ulmer
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Department of Civil Engineerin
-worksite_address2              | 
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller P.A.
-employer_address1              | P.O. Box 30001 MSC 3HRS
-employer_address2              | 
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-05-10
-end_date                       | 2026-05-09
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 176 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22300-554624
-job_title                      | Enterprise Network Dev, Associate
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU ICT 1780 E University Ave
-worksite_address2              | 
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. BOX 30001, MSC 3HRS
-employer_address2              | 
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-04-26
-end_date                       | 2026-04-25
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 15-1231.00
-h_1b_dependent                 | No
--[ RECORD 177 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23110-949516
-job_title                      | Software Developer
-employer_name                  | Strategic Resources International Inc
-secondary_entity_business_name | State of New Mexico Regulations and Licensing Department
-employer_phone                 | 17328874646
-employer_poc_first_name        | Bharath
-employer_poc_last_name         | Sreerangam
-employer_poc_email             | bharath@sriusa.com
-employer_poc_phone             | 17328874646
-employer_poc_phone_ext         | 
-worksite_address1              | 2550 Cerrillos Rd  3rd,
-worksite_address2              | 
-worksite_city                  | Santa Fe
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | 
-employer_address1              | 777 Washington Road
-employer_address2              | 2
-employer_city                  | Parlin
-employer_state                 | NJ
-employer_postal_code           | 08859
-begin_date                     | 2023-04-24
-end_date                       | 2026-04-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Strategic Resources International Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 178 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23094-902102
-job_title                      | Information Technology Applicaiton Developer III
-employer_name                  | New Mexico Taxation and Revenue Department
-secondary_entity_business_name | 
-employer_phone                 | 15056706535
-employer_poc_first_name        | Mike
-employer_poc_last_name         | Baca
-employer_poc_email             | mike.baca@state.nm.us
-employer_poc_phone             | 15056706536
-employer_poc_phone_ext         | 
-worksite_address1              | 1100 S. St. Francis Dr.
-worksite_address2              | 
-worksite_city                  | Santa Fe
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | 1100 South St. Francis Dr.
-employer_address2              | 
-employer_city                  | Santa Fe
-employer_state                 | NM
-employer_postal_code           | 87504
-begin_date                     | 2023-04-17
-end_date                       | 2026-04-16
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico Taxation and Revenue Department
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 179 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23083-874598
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | Ulmer
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | Ed and Harold Foreman Engineering Complex EC III, Room 201
-worksite_address2              | 
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller P.A.
-employer_address1              | P.O. Box 30001 MSC 3HRS
-employer_address2              | 
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-04-16
-end_date                       | 2026-04-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 180 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25044-690173
-job_title                      | Assistant Professor
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462808
-employer_poc_first_name        | Joyce
-employer_poc_last_name         | Rindner
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462808
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU Chemistry and Biochemistry
-worksite_address2              | 1175 N. Horseshoe Dr.
-worksite_city                  | LAS CRUCES
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2025-08-14
-end_date                       | 2026-04-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 25-1052
-h_1b_dependent                 | No
--[ RECORD 181 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23065-825844
-job_title                      | Senior Research Scientist
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU ACESS Extension Plant Sciences
-worksite_address2              | Skeen Hall Room N140
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-04-01
-end_date                       | 2026-03-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 19-3011.01
-h_1b_dependent                 | No
--[ RECORD 182 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23076-858516
-job_title                      | Research Scientist , Intermediate
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU ACES   PES
-worksite_address2              | 
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-04-01
-end_date                       | 2026-03-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 19-2099.01
-h_1b_dependent                 | No
--[ RECORD 183 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23083-875846
-job_title                      | Post Doctoral
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | Carlsbad Environmental Monitoring and Research Center
-worksite_address2              | 1400 University Drive
-worksite_city                  | Carlsbad
-worksite_county                | EDDY
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-04-01
-end_date                       | 2026-03-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 19-2012.00
-h_1b_dependent                 | No
--[ RECORD 184 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24219-246504
-job_title                      | Software Engineer
-employer_name                  | Source Cloud Technologies Inc
-secondary_entity_business_name | State of New Mexico
-employer_phone                 | 15716556100
-employer_poc_first_name        | Preetha
-employer_poc_last_name         | Thoonoli
-employer_poc_email             | hr@sourcecloudinc.com
-employer_poc_phone             | 15716556100
-employer_poc_phone_ext         | 
-worksite_address1              | 237 Don Gaspar Ave
-worksite_address2              | Rm 25
-worksite_city                  | Santa Fe
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | 
-employer_address1              | 1480 Chapel Ridge Road
-employer_address2              | Suite 100
-employer_city                  | Apex
-employer_state                 | NC
-employer_postal_code           | 27502
-begin_date                     | 2024-08-05
-end_date                       | 2026-03-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Source Cloud Technologies Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 185 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23081-870480
-job_title                      | JAVA DEVELOPER
-employer_name                  | IT RESOURCES INC
-secondary_entity_business_name | NEW MEXICO ENVIRONMENT DEPARTMENT (NMED)
-employer_phone                 | 13024440205
-employer_poc_first_name        | CHRISTINA
-employer_poc_last_name         | MITCHELL
-employer_poc_email             | HR@IT-RESINC.COM
-employer_poc_phone             | 13024440205
-employer_poc_phone_ext         | 
-worksite_address1              | 1190 S ST. FRANCIS DR.
-worksite_address2              | 
-worksite_city                  | SANTA FE.
-worksite_county                | SANTA FE
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 220 CONTINENTAL DRIVE
-employer_address2              | SUITE 104
-employer_city                  | NEWARK
-employer_state                 | DE
-employer_postal_code           | 19713
-begin_date                     | 2023-03-30
-end_date                       | 2026-03-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | IT RESOURCES INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 186 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23073-847504
-job_title                      | Software Developer Senior
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | Digital Learning
-worksite_address2              | NMSU Milton Hall, Room 185 2915 McFie Circle
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-03-22
-end_date                       | 2026-03-21
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 187 ]----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-22294-545434
-job_title                      | Enterprise Programmer Analyst, Senior
-employer_name                  | New Mexico State University
-secondary_entity_business_name | 
-employer_phone                 | 15756462108
-employer_poc_first_name        | Jessica
-employer_poc_last_name         | ULMER
-employer_poc_email             | teamHRS@nmsu.edu
-employer_poc_phone             | 15756462108
-employer_poc_phone_ext         | 
-worksite_address1              | NMSU ICT
-worksite_address2              | 
-worksite_city                  | Las Cruces
-worksite_county                | DONA ANA
-lawfirm_name_business_name     | Maney Gordon Zeller PA
-employer_address1              | P.O. Box 30001
-employer_address2              | MSC 3HRS
-employer_city                  | Las Cruces
-employer_state                 | NM
-employer_postal_code           | 88003
-begin_date                     | 2023-03-14
-end_date                       | 2026-03-13
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | New Mexico State University
-soc_code                       | 15-1299.08
-h_1b_dependent                 | No
 

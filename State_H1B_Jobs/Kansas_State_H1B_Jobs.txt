@@ -197,7 +197,7 @@ employer_name                  | Kansas State University
 soc_code                       | 19-4021.00
 h_1b_dependent                 | No
 -[ RECORD 7 ]------------------+--------------------------------------------------------------------
-case_number                    | I-200-25336-450849
+case_number                    | I-200-25328-432479
 job_title                      | Assistant Professor
 employer_name                  | Kansas State University
 secondary_entity_business_name | 
@@ -227,7 +227,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
-soc_code                       | 25-1042.00
+soc_code                       | 25-1041.00
 h_1b_dependent                 | No
 -[ RECORD 8 ]------------------+--------------------------------------------------------------------
 case_number                    | I-200-25310-385221
@@ -263,7 +263,7 @@ employer_name                  | Kansas State University
 soc_code                       | 25-1041.00
 h_1b_dependent                 | No
 -[ RECORD 9 ]------------------+--------------------------------------------------------------------
-case_number                    | I-200-25328-432479
+case_number                    | I-200-25336-450849
 job_title                      | Assistant Professor
 employer_name                  | Kansas State University
 secondary_entity_business_name | 
@@ -293,7 +293,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
-soc_code                       | 25-1041.00
+soc_code                       | 25-1042.00
 h_1b_dependent                 | No
 -[ RECORD 10 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25231-252903
@@ -1352,8 +1352,8 @@ employer_name                  | Kansas State University
 soc_code                       | 19-3022
 h_1b_dependent                 | No
 -[ RECORD 42 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-25097-837262
-job_title                      | Clinical Assistant Professor
+case_number                    | I-200-25148-026106
+job_title                      | Research Assistant Professor
 employer_name                  | Kansas State University
 secondary_entity_business_name | 
 employer_phone                 | 17855326449
@@ -1362,7 +1362,7 @@ employer_poc_last_name         | Robson
 employer_poc_email             | arobson@ksu.edu
 employer_poc_phone             | 17855326449
 employer_poc_phone_ext         | 
-worksite_address1              | 1710 Denison Ave
+worksite_address1              | 1620 Denison Ave
 worksite_address2              | 
 worksite_city                  | Manhattan
 worksite_county                | RILEY
@@ -1385,8 +1385,8 @@ employer_name                  | Kansas State University
 soc_code                       | 25-1071
 h_1b_dependent                 | No
 -[ RECORD 43 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-25148-026106
-job_title                      | Research Assistant Professor
+case_number                    | I-200-25097-837262
+job_title                      | Clinical Assistant Professor
 employer_name                  | Kansas State University
 secondary_entity_business_name | 
 employer_phone                 | 17855326449
@@ -1395,7 +1395,7 @@ employer_poc_last_name         | Robson
 employer_poc_email             | arobson@ksu.edu
 employer_poc_phone             | 17855326449
 employer_poc_phone_ext         | 
-worksite_address1              | 1620 Denison Ave
+worksite_address1              | 1710 Denison Ave
 worksite_address2              | 
 worksite_city                  | Manhattan
 worksite_county                | RILEY
@@ -1547,7 +1547,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
-soc_code                       | 11-9033.00
+soc_code                       | 11-9033
 h_1b_dependent                 | No
 -[ RECORD 48 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25143-014089
@@ -1580,7 +1580,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
-soc_code                       | 11-9033
+soc_code                       | 11-9033.00
 h_1b_dependent                 | No
 -[ RECORD 49 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25038-676768
@@ -1682,39 +1682,6 @@ employer_name                  | Kansas State University
 soc_code                       | 25-1022
 h_1b_dependent                 | No
 -[ RECORD 52 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-25069-761766
-job_title                      | Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Ang
-employer_poc_last_name         | Robson
-employer_poc_email             | arobson@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | 1603 Old Claflin Place
-worksite_address2              | 
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2025-06-01
-end_date                       | 2028-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 25-1042
-h_1b_dependent                 | No
--[ RECORD 53 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25017-627823
 job_title                      | Research Assistant Professor
 employer_name                  | Kansas State University
@@ -1746,6 +1713,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
 soc_code                       | 25-1122
+h_1b_dependent                 | No
+-[ RECORD 53 ]-----------------+--------------------------------------------------------------------
+case_number                    | I-200-25069-761766
+job_title                      | Assistant Professor
+employer_name                  | Kansas State University
+secondary_entity_business_name | 
+employer_phone                 | 17855326449
+employer_poc_first_name        | Ang
+employer_poc_last_name         | Robson
+employer_poc_email             | arobson@ksu.edu
+employer_poc_phone             | 17855326449
+employer_poc_phone_ext         | 
+worksite_address1              | 1603 Old Claflin Place
+worksite_address2              | 
+worksite_city                  | Manhattan
+worksite_county                | RILEY
+lawfirm_name_business_name     | 
+employer_address1              | International Student and Scholar Services
+employer_address2              | 1414 Mid Campus Dr. North
+employer_city                  | Manhattan
+employer_state                 | KS
+employer_postal_code           | 66506
+begin_date                     | 2025-06-01
+end_date                       | 2028-05-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Kansas State University
+soc_code                       | 25-1042
 h_1b_dependent                 | No
 -[ RECORD 54 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-25027-645576
@@ -2507,14 +2507,14 @@ employer_name                  | Kansas State University
 soc_code                       | 19-1022.00
 h_1b_dependent                 | No
 -[ RECORD 77 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24127-963138
-job_title                      | Applications Developer III
+case_number                    | I-200-24127-963085
+job_title                      | Applications Developer II
 employer_name                  | Kansas Department of Transportation
 secondary_entity_business_name | 
 employer_phone                 | 17852963831
 employer_poc_first_name        | Audrey
 employer_poc_last_name         | Mackey
-employer_poc_email             | Audrey.Mackey@ks.gov
+employer_poc_email             | audrey.mackey@ks.gov
 employer_poc_phone             | 17852963831
 employer_poc_phone_ext         | 
 worksite_address1              | 700 SW Harrison St
@@ -2540,14 +2540,14 @@ employer_name                  | Kansas Department of Transportation
 soc_code                       | 15-1295
 h_1b_dependent                 | No
 -[ RECORD 78 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24127-963085
-job_title                      | Applications Developer II
+case_number                    | I-200-24127-963138
+job_title                      | Applications Developer III
 employer_name                  | Kansas Department of Transportation
 secondary_entity_business_name | 
 employer_phone                 | 17852963831
 employer_poc_first_name        | Audrey
 employer_poc_last_name         | Mackey
-employer_poc_email             | audrey.mackey@ks.gov
+employer_poc_email             | Audrey.Mackey@ks.gov
 employer_poc_phone             | 17852963831
 employer_poc_phone_ext         | 
 worksite_address1              | 700 SW Harrison St
@@ -2837,37 +2837,37 @@ employer_name                  | TATA CONSULTANCY SERVICES LIMITED
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
 -[ RECORD 87 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24080-816935
-job_title                      | Teaching Associate Professor
+case_number                    | I-200-24108-897913
+job_title                      | Assistant Professor
 employer_name                  | Kansas State University
 secondary_entity_business_name | 
 employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
+employer_poc_first_name        | Ang
+employer_poc_last_name         | Robson
+employer_poc_email             | arobson@ksu.edu
 employer_poc_phone             | 17855326449
 employer_poc_phone_ext         | 
-worksite_address1              | Center on Aging
-worksite_address2              | 1324 Lovers Lane
+worksite_address1              | 1428 Anderson Ave
+worksite_address2              | Department of Geology
 worksite_city                  | Manhattan
 worksite_county                | RILEY
 lawfirm_name_business_name     | 
 employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
+employer_address2              | 1414 Mid-Campus Drive North
 employer_city                  | Manhattan
 employer_state                 | KS
 employer_postal_code           | 66506
 begin_date                     | 2024-08-18
 end_date                       | 2027-08-17
 total_worker_positions         | 1
-new_employment                 | 1
+new_employment                 | 0
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
-change_employer                | 0
+change_employer                | 1
 amended_petition               | 0
 employer_name                  | Kansas State University
-soc_code                       | 25-1066.00
+soc_code                       | 25-1051.00
 h_1b_dependent                 | No
 -[ RECORD 88 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24198-199216
@@ -2936,37 +2936,37 @@ employer_name                  | Kansas State University
 soc_code                       | 25-1051.00
 h_1b_dependent                 | No
 -[ RECORD 90 ]-----------------+--------------------------------------------------------------------
-case_number                    | I-200-24108-897913
-job_title                      | Assistant Professor
+case_number                    | I-200-24080-816935
+job_title                      | Teaching Associate Professor
 employer_name                  | Kansas State University
 secondary_entity_business_name | 
 employer_phone                 | 17855326449
-employer_poc_first_name        | Ang
-employer_poc_last_name         | Robson
-employer_poc_email             | arobson@ksu.edu
+employer_poc_first_name        | Maria
+employer_poc_last_name         | Beebe
+employer_poc_email             | pappy@ksu.edu
 employer_poc_phone             | 17855326449
 employer_poc_phone_ext         | 
-worksite_address1              | 1428 Anderson Ave
-worksite_address2              | Department of Geology
+worksite_address1              | Center on Aging
+worksite_address2              | 1324 Lovers Lane
 worksite_city                  | Manhattan
 worksite_county                | RILEY
 lawfirm_name_business_name     | 
 employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid-Campus Drive North
+employer_address2              | 1414 Mid Campus Dr. North
 employer_city                  | Manhattan
 employer_state                 | KS
 employer_postal_code           | 66506
 begin_date                     | 2024-08-18
 end_date                       | 2027-08-17
 total_worker_positions         | 1
-new_employment                 | 0
+new_employment                 | 1
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
-change_employer                | 1
+change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
-soc_code                       | 25-1051.00
+soc_code                       | 25-1066.00
 h_1b_dependent                 | No
 -[ RECORD 91 ]-----------------+--------------------------------------------------------------------
 case_number                    | I-200-24156-069611
@@ -4025,39 +4025,6 @@ employer_name                  | Kansas State University
 soc_code                       | 17-2021.00
 h_1b_dependent                 | No
 -[ RECORD 123 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23291-440715
-job_title                      | Research Associate
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Dept. of Diagnostic Medicine/Pathobiology
-worksite_address2              | 1800 Denison Ave
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2024-01-01
-end_date                       | 2026-12-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 19-1041.00
-h_1b_dependent                 | No
--[ RECORD 124 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23214-233415
 job_title                      | Assistant Professor
 employer_name                  | Kansas State University
@@ -4089,6 +4056,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
 soc_code                       | 25-1071.00
+h_1b_dependent                 | No
+-[ RECORD 124 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23291-440715
+job_title                      | Research Associate
+employer_name                  | Kansas State University
+secondary_entity_business_name | 
+employer_phone                 | 17855326449
+employer_poc_first_name        | Maria
+employer_poc_last_name         | Beebe
+employer_poc_email             | pappy@ksu.edu
+employer_poc_phone             | 17855326449
+employer_poc_phone_ext         | 
+worksite_address1              | Dept. of Diagnostic Medicine/Pathobiology
+worksite_address2              | 1800 Denison Ave
+worksite_city                  | Manhattan
+worksite_county                | RILEY
+lawfirm_name_business_name     | 
+employer_address1              | International Student and Scholar Services
+employer_address2              | 1414 Mid Campus Dr. North
+employer_city                  | Manhattan
+employer_state                 | KS
+employer_postal_code           | 66506
+begin_date                     | 2024-01-01
+end_date                       | 2026-12-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Kansas State University
+soc_code                       | 19-1041.00
 h_1b_dependent                 | No
 -[ RECORD 125 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23208-220998
@@ -4454,39 +4454,6 @@ employer_name                  | SDH Systems LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 136 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23129-005989
-job_title                      | Full Stack Java Developer
-employer_name                  | Horizon Softech Inc
-secondary_entity_business_name | Kansas Department of Labor
-employer_phone                 | 12485280227
-employer_poc_first_name        | Mohan
-employer_poc_last_name         | Edara
-employer_poc_email             | mohan@horizonsoftech.net
-employer_poc_phone             | 12485280227
-employer_poc_phone_ext         | 
-worksite_address1              | 1309 SW Topeka Blvd
-worksite_address2              | 
-worksite_city                  | Topeka
-worksite_county                | SHAWNEE
-lawfirm_name_business_name     | Velie Law Firm PLLC
-employer_address1              | 637 E Big Beaver Road
-employer_address2              | Suite 101
-employer_city                  | Troy
-employer_state                 | MI
-employer_postal_code           | 48083
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Horizon Softech Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 137 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23138-033838
 job_title                      | Associate Auditor
 employer_name                  | State of Kansas, Legislative Division of Post Audit
@@ -4519,6 +4486,39 @@ amended_petition               | 0
 employer_name                  | State of Kansas, Legislative Division of Post Audit
 soc_code                       | 13-2011.00
 h_1b_dependent                 | No
+-[ RECORD 137 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23129-005989
+job_title                      | Full Stack Java Developer
+employer_name                  | Horizon Softech Inc
+secondary_entity_business_name | Kansas Department of Labor
+employer_phone                 | 12485280227
+employer_poc_first_name        | Mohan
+employer_poc_last_name         | Edara
+employer_poc_email             | mohan@horizonsoftech.net
+employer_poc_phone             | 12485280227
+employer_poc_phone_ext         | 
+worksite_address1              | 1309 SW Topeka Blvd
+worksite_address2              | 
+worksite_city                  | Topeka
+worksite_county                | SHAWNEE
+lawfirm_name_business_name     | Velie Law Firm PLLC
+employer_address1              | 637 E Big Beaver Road
+employer_address2              | Suite 101
+employer_city                  | Troy
+employer_state                 | MI
+employer_postal_code           | 48083
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Horizon Softech Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 138 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23129-004616
 job_title                      | Software Consultant
@@ -4784,39 +4784,6 @@ employer_name                  | Kansas State University
 soc_code                       | 19-1012.00
 h_1b_dependent                 | No
 -[ RECORD 146 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23229-273526
-job_title                      | Quality Assurance Tester
-employer_name                  | i5 TECH INC
-secondary_entity_business_name | State of Kansas – Kansas Department of Health and Environment
-employer_phone                 | 16096660030
-employer_poc_first_name        | SRINIVAS
-employer_poc_last_name         | MANDIPUDI
-employer_poc_email             | hr@i5techinc.com
-employer_poc_phone             | 16096660030
-employer_poc_phone_ext         | 
-worksite_address1              | 900 SW Jackson
-worksite_address2              | 
-worksite_city                  | Topeka
-worksite_county                | SHAWNEE
-lawfirm_name_business_name     | 
-employer_address1              | 1 ETHEL ROAD
-employer_address2              | SUITE 103B
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 2023-08-28
-end_date                       | 2026-08-21
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | i5 TECH INC
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 147 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23233-280450
 job_title                      | Quality Assurance Tester
 employer_name                  | i5 TECH INC
@@ -4846,6 +4813,39 @@ change_previous_employment     | 1
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
+employer_name                  | i5 TECH INC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 147 ]----------------+--------------------------------------------------------------------
+case_number                    | I-200-23229-273526
+job_title                      | Quality Assurance Tester
+employer_name                  | i5 TECH INC
+secondary_entity_business_name | State of Kansas – Kansas Department of Health and Environment
+employer_phone                 | 16096660030
+employer_poc_first_name        | SRINIVAS
+employer_poc_last_name         | MANDIPUDI
+employer_poc_email             | hr@i5techinc.com
+employer_poc_phone             | 16096660030
+employer_poc_phone_ext         | 
+worksite_address1              | 900 SW Jackson
+worksite_address2              | 
+worksite_city                  | Topeka
+worksite_county                | SHAWNEE
+lawfirm_name_business_name     | 
+employer_address1              | 1 ETHEL ROAD
+employer_address2              | SUITE 103B
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 2023-08-28
+end_date                       | 2026-08-21
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
 employer_name                  | i5 TECH INC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
@@ -4982,7 +4982,7 @@ employer_name                  | Kansas State University
 soc_code                       | 19-1011.00
 h_1b_dependent                 | No
 -[ RECORD 152 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23072-843611
+case_number                    | I-200-23073-845926
 job_title                      | Assistant Professor
 employer_name                  | Kansas State University
 secondary_entity_business_name | 
@@ -4992,8 +4992,8 @@ employer_poc_last_name         | Beebe
 employer_poc_email             | pappy@ksu.edu
 employer_poc_phone             | 17855326449
 employer_poc_phone_ext         | 
-worksite_address1              | Department of History
-worksite_address2              | 802 Mid Campus Dr South
+worksite_address1              | Department of Economics
+worksite_address2              | 1603 Old Claflin Place
 worksite_city                  | Manhattan
 worksite_county                | RILEY
 lawfirm_name_business_name     | 
@@ -5012,7 +5012,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
-soc_code                       | 25-1125.00
+soc_code                       | 25-1063.00
 h_1b_dependent                 | No
 -[ RECORD 153 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-23136-025790
@@ -5081,7 +5081,7 @@ employer_name                  | Kansas State University
 soc_code                       | 25-1054.00
 h_1b_dependent                 | No
 -[ RECORD 155 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23073-845926
+case_number                    | I-200-23072-843611
 job_title                      | Assistant Professor
 employer_name                  | Kansas State University
 secondary_entity_business_name | 
@@ -5091,8 +5091,8 @@ employer_poc_last_name         | Beebe
 employer_poc_email             | pappy@ksu.edu
 employer_poc_phone             | 17855326449
 employer_poc_phone_ext         | 
-worksite_address1              | Department of Economics
-worksite_address2              | 1603 Old Claflin Place
+worksite_address1              | Department of History
+worksite_address2              | 802 Mid Campus Dr South
 worksite_city                  | Manhattan
 worksite_county                | RILEY
 lawfirm_name_business_name     | 
@@ -5111,7 +5111,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
-soc_code                       | 25-1063.00
+soc_code                       | 25-1125.00
 h_1b_dependent                 | No
 -[ RECORD 156 ]----------------+--------------------------------------------------------------------
 case_number                    | I-200-25164-091460
@@ -5145,599 +5145,5 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Kansas State University
 soc_code                       | 19-3011
-h_1b_dependent                 | No
--[ RECORD 157 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23024-723631
-job_title                      | Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Educational Leadership
-worksite_address2              | 1114 Mid Campus Dr. North
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-07-23
-end_date                       | 2026-07-22
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 25-1081.00
-h_1b_dependent                 | No
--[ RECORD 158 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23024-723631
-job_title                      | Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Educational Leadership
-worksite_address2              | 1114 Mid Campus Dr. North
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-07-23
-end_date                       | 2026-07-22
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 25-1081.00
-h_1b_dependent                 | No
--[ RECORD 159 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23033-745610
-job_title                      | Research Associate
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Mechanical & Nuclear Engineering
-worksite_address2              | 1701B Platt St
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-07-17
-end_date                       | 2026-07-16
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 17-2144.00
-h_1b_dependent                 | No
--[ RECORD 160 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23019-713004
-job_title                      | Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | AQ Miller School of Media & Communications
-worksite_address2              | 702 Mid Campus Dr South
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-07-05
-end_date                       | 2026-07-04
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 25-1122.00
-h_1b_dependent                 | No
--[ RECORD 161 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23024-723525
-job_title                      | Teaching Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Civil Engineering
-worksite_address2              | 1701C Platt St
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 162 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23024-723525
-job_title                      | Teaching Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Civil Engineering
-worksite_address2              | 1701C Platt St
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-07-01
-end_date                       | 2026-06-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 25-1032.00
-h_1b_dependent                 | No
--[ RECORD 163 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23095-906052
-job_title                      | Clinical Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Veterinary Diagnostic Lab
-worksite_address2              | 1710 Denison Ave
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 19-1022.00
-h_1b_dependent                 | No
--[ RECORD 164 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23033-745512
-job_title                      | Fellow Post Doc
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Plant Pathology
-worksite_address2              | 1712 Claflin Rd
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-06-01
-end_date                       | 2026-05-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 19-1029.01
-h_1b_dependent                 | No
--[ RECORD 165 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23024-723699
-job_title                      | Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Agronomy
-worksite_address2              | 1712 Claflin Rd
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-05-26
-end_date                       | 2026-05-25
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 25-1041.00
-h_1b_dependent                 | No
--[ RECORD 166 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23004-681295
-job_title                      | Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Depts. of Geography and Political Science
-worksite_address2              | 920 N. 17th St
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-05-14
-end_date                       | 2026-05-13
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 25-1065.00
-h_1b_dependent                 | No
--[ RECORD 167 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23121-980563
-job_title                      | Developer
-employer_name                  | Tata Consultancy Services Limited
-secondary_entity_business_name | Kansas Department of Labor
-employer_phone                 | 13012319083
-employer_poc_first_name        | Amit / Venkata Srinath
-employer_poc_last_name         | Jindal / Yarasinghu
-employer_poc_email             | amit1.jindal@tcs.com
-employer_poc_phone             | 13012319083
-employer_poc_phone_ext         | 
-worksite_address1              | 1309 SW Topeka Blvd
-worksite_address2              | 
-worksite_city                  | Topeka
-worksite_county                | SHAWNEE
-lawfirm_name_business_name     | Goel & Anderson LLC
-employer_address1              | 9201 Corporate Boulevard
-employer_address2              | Suite 320
-employer_city                  | Rockville
-employer_state                 | MD
-employer_postal_code           | 20850
-begin_date                     | 2023-05-12
-end_date                       | 2026-05-11
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Tata Consultancy Services Limited
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 168 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22306-564861
-job_title                      | Senior Research Scientist
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Diagnostic Medicine/Pathobiology
-worksite_address2              | 1800 Denison Ave
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-05-01
-end_date                       | 2026-04-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 19-1042.00
-h_1b_dependent                 | No
--[ RECORD 169 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-22306-564861
-job_title                      | Senior Research Scientist
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Diagnostic Medicine/Pathobiology
-worksite_address2              | 1800 Denison Ave
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-05-01
-end_date                       | 2026-04-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 19-1042.00
-h_1b_dependent                 | No
--[ RECORD 170 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23053-793078
-job_title                      | Director of Advanced Veterinary Education
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Office of the Dean of Veterinary Medicine
-worksite_address2              | 1710 Denison Ave
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-04-16
-end_date                       | 2026-04-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 11-9033.00
-h_1b_dependent                 | No
--[ RECORD 171 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23039-760553
-job_title                      | Assistant Professor
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Clinical Sciences
-worksite_address2              | 1800 Denison Ave
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-04-16
-end_date                       | 2026-04-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 25-1071.00
-h_1b_dependent                 | No
--[ RECORD 172 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23096-908953
-job_title                      | Computer Programmer/Configurer 4
-employer_name                  | Accenture LLP
-secondary_entity_business_name | STATE OF KANSAS
-employer_phone                 | 13126930161
-employer_poc_first_name        | LUCY
-employer_poc_last_name         | KURCZEWSKI
-employer_poc_email             | ACCENTURESITEVISITS@ACCENTURE.COM
-employer_poc_phone             | 13126932825
-employer_poc_phone_ext         | 
-worksite_address1              | 534 S Kansas Avenue Suite 200
-worksite_address2              | .
-worksite_city                  | Topeka
-worksite_county                | SHAWNEE
-lawfirm_name_business_name     | 
-employer_address1              | 500 West Madison Street
-employer_address2              | 
-employer_city                  | Chicago
-employer_state                 | IL
-employer_postal_code           | 60661
-begin_date                     | 2023-04-11
-end_date                       | 2026-04-10
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Accenture LLP
-soc_code                       | 15-1251.00
-h_1b_dependent                 | No
--[ RECORD 173 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23018-711636
-job_title                      | Fellow Post Doc
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Plant Pathology
-worksite_address2              | 1712 Claflin Rd
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-03-19
-end_date                       | 2026-03-18
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 19-1029.03
-h_1b_dependent                 | No
--[ RECORD 174 ]----------------+--------------------------------------------------------------------
-case_number                    | I-200-23018-711636
-job_title                      | Fellow Post Doc
-employer_name                  | Kansas State University
-secondary_entity_business_name | 
-employer_phone                 | 17855326449
-employer_poc_first_name        | Maria
-employer_poc_last_name         | Beebe
-employer_poc_email             | pappy@ksu.edu
-employer_poc_phone             | 17855326449
-employer_poc_phone_ext         | 
-worksite_address1              | Department of Plant Pathology
-worksite_address2              | 1712 Claflin Rd
-worksite_city                  | Manhattan
-worksite_county                | RILEY
-lawfirm_name_business_name     | 
-employer_address1              | International Student and Scholar Services
-employer_address2              | 1414 Mid Campus Dr. North
-employer_city                  | Manhattan
-employer_state                 | KS
-employer_postal_code           | 66506
-begin_date                     | 2023-03-19
-end_date                       | 2026-03-18
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Kansas State University
-soc_code                       | 19-1029.03
 h_1b_dependent                 | No
 
