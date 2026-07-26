@@ -1,4 +1,4 @@
-drop table if exists LCA_Disclosure_Data_2022To2025Q4;
+drop table if exists LCA_Disclosure_Data_2022To2026Q2;
 
 create table LCA_Disclosure_Data_2022To2026Q2 (
 CASE_NUMBER char(18),
