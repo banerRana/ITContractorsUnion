@@ -1,70 +1,4 @@
 -[ RECORD 1 ]------------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25344-472686
-job_title                      | Business Systems Analyst
-employer_name                  | State of New Hampshire, New Hampshire Lottery Commission
-secondary_entity_business_name | 
-employer_phone                 | 16032717132
-employer_poc_first_name        | Sharda
-employer_poc_last_name         | Rao
-employer_poc_email             | Sharda.B.Rao@lottery.nh.gov
-employer_poc_phone             | 16032717132
-employer_poc_phone_ext         | 
-worksite_address1              | 14 Integra Dr
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | 
-lawfirm_name_business_name     | Fisher & Phillips LLP
-employer_address1              | 14 Integra Dr.
-employer_address2              | 
-employer_city                  | Concord
-employer_state                 | NH
-employer_postal_code           | 03301
-begin_date                     | 2025-12-16
-end_date                       | 2028-12-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | State of New Hampshire, New Hampshire Lottery Commission
-soc_code                       | 15-1251.00
-h_1b_dependent                 | No
--[ RECORD 2 ]------------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25323-422469
-job_title                      | Technical Architect
-employer_name                  | Coforge Limited
-secondary_entity_business_name | State of New Hampshire, Department of Information Technology
-employer_phone                 | 17326684134
-employer_poc_first_name        | Vishakha
-employer_poc_last_name         | Gandhi
-employer_poc_email             | Vishakha.Gandhi@coforge.com
-employer_poc_phone             | 17326684134
-employer_poc_phone_ext         | 
-worksite_address1              | 33 Hazen Drive
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | 
-lawfirm_name_business_name     | Greenberg Traurig LLP
-employer_address1              | 502 Carnegie Center Drive
-employer_address2              | Suite 301
-employer_city                  | Princeton
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2025-12-03
-end_date                       | 2028-12-02
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Coforge Limited
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 3 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25135-978203
 job_title                      | Data Analysis Administrator
 employer_name                  | SMA Tech LLC
@@ -97,106 +31,7 @@ amended_petition               | 0
 employer_name                  | SMA Tech LLC
 soc_code                       | 15-1242
 h_1b_dependent                 | No
--[ RECORD 4 ]------------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25160-070679
-job_title                      | COMP & INFORMATION ANALYST 4
-employer_name                  | State of New Hampshire, Department of Administrative Services
-secondary_entity_business_name | 
-employer_phone                 | 16032713088
-employer_poc_first_name        | James
-employer_poc_last_name         | Shepard
-employer_poc_email             | james.a.shepard@das.nh.gov
-employer_poc_phone             | 16032713088
-employer_poc_phone_ext         | 
-worksite_address1              | 105 Pleasant St.
-worksite_address2              | 3rd Floor, Office 302C
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | Fisher & Phillips LLP
-employer_address1              | 25 Capitol Street
-employer_address2              | Suite 308
-employer_city                  | Concord
-employer_state                 | NH
-employer_postal_code           | 03301
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | State of New Hampshire, Department of Administrative Services
-soc_code                       | 15-1299.01
-h_1b_dependent                 | No
--[ RECORD 5 ]------------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25140-997307
-job_title                      | COMP & INFORMATION ANALYST 4
-employer_name                  | State of New Hampshire, Department of Administrative Services,
-secondary_entity_business_name | 
-employer_phone                 | 16032713088
-employer_poc_first_name        | James
-employer_poc_last_name         | Shepard
-employer_poc_email             | james.a.shepard@das.nh.gov
-employer_poc_phone             | 16032713088
-employer_poc_phone_ext         | 
-worksite_address1              | 105 Pleasant St.
-worksite_address2              | 3rd Floor, Office 302C
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | Fisher & Phillips LLP
-employer_address1              | 105 Pleasant St.
-employer_address2              | 3rd Floor, Office 302C
-employer_city                  | Concord
-employer_state                 | NH
-employer_postal_code           | 03301
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | State of New Hampshire, Department of Administrative Services,
-soc_code                       | 15-1299.01
-h_1b_dependent                 | No
--[ RECORD 6 ]------------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25119-915879
-job_title                      | Data and Digital Analyst
-employer_name                  | State of New Hampshire, New Hampshire Lottery Commission
-secondary_entity_business_name | 
-employer_phone                 | 16032717132
-employer_poc_first_name        | Sharda
-employer_poc_last_name         | Rao
-employer_poc_email             | Sharda.B.Rao@lottery.nh.gov
-employer_poc_phone             | 16032717132
-employer_poc_phone_ext         | 
-worksite_address1              | 14 Integra Dr.
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | Fisher & Phillips LLP
-employer_address1              | 14 Integra Dr.
-employer_address2              | 
-employer_city                  | Concord
-employer_state                 | NH
-employer_postal_code           | 03301
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | State of New Hampshire, New Hampshire Lottery Commission
-soc_code                       | 15-2031
-h_1b_dependent                 | No
--[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 2 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25147-020471
 job_title                      | COMP & INFORMATION ANALYST 4
 employer_name                  | State of New Hampshire, Department of Administrative Services,
@@ -229,8 +64,8 @@ amended_petition               | 0
 employer_name                  | State of New Hampshire, Department of Administrative Services,
 soc_code                       | 15-1299.01
 h_1b_dependent                 | No
--[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25147-020586
+-[ RECORD 3 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25140-997307
 job_title                      | COMP & INFORMATION ANALYST 4
 employer_name                  | State of New Hampshire, Department of Administrative Services,
 secondary_entity_business_name | 
@@ -262,7 +97,7 @@ amended_petition               | 0
 employer_name                  | State of New Hampshire, Department of Administrative Services,
 soc_code                       | 15-1299.01
 h_1b_dependent                 | No
--[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 4 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25147-020692
 job_title                      | Planning Business Systems Manager
 employer_name                  | State of New Hampshire, Department of Safety
@@ -295,7 +130,106 @@ amended_petition               | 0
 employer_name                  | State of New Hampshire, Department of Safety
 soc_code                       | 17-1021
 h_1b_dependent                 | No
--[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 5 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25119-915879
+job_title                      | Data and Digital Analyst
+employer_name                  | State of New Hampshire, New Hampshire Lottery Commission
+secondary_entity_business_name | 
+employer_phone                 | 16032717132
+employer_poc_first_name        | Sharda
+employer_poc_last_name         | Rao
+employer_poc_email             | Sharda.B.Rao@lottery.nh.gov
+employer_poc_phone             | 16032717132
+employer_poc_phone_ext         | 
+worksite_address1              | 14 Integra Dr.
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 14 Integra Dr.
+employer_address2              | 
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of New Hampshire, New Hampshire Lottery Commission
+soc_code                       | 15-2031
+h_1b_dependent                 | No
+-[ RECORD 6 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25160-070679
+job_title                      | COMP & INFORMATION ANALYST 4
+employer_name                  | State of New Hampshire, Department of Administrative Services
+secondary_entity_business_name | 
+employer_phone                 | 16032713088
+employer_poc_first_name        | James
+employer_poc_last_name         | Shepard
+employer_poc_email             | james.a.shepard@das.nh.gov
+employer_poc_phone             | 16032713088
+employer_poc_phone_ext         | 
+worksite_address1              | 105 Pleasant St.
+worksite_address2              | 3rd Floor, Office 302C
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 25 Capitol Street
+employer_address2              | Suite 308
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of New Hampshire, Department of Administrative Services
+soc_code                       | 15-1299.01
+h_1b_dependent                 | No
+-[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25147-020586
+job_title                      | COMP & INFORMATION ANALYST 4
+employer_name                  | State of New Hampshire, Department of Administrative Services,
+secondary_entity_business_name | 
+employer_phone                 | 16032713088
+employer_poc_first_name        | James
+employer_poc_last_name         | Shepard
+employer_poc_email             | james.a.shepard@das.nh.gov
+employer_poc_phone             | 16032713088
+employer_poc_phone_ext         | 
+worksite_address1              | 105 Pleasant St.
+worksite_address2              | 3rd Floor, Office 302C
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Fisher & Phillips LLP
+employer_address1              | 105 Pleasant St.
+employer_address2              | 3rd Floor, Office 302C
+employer_city                  | Concord
+employer_state                 | NH
+employer_postal_code           | 03301
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of New Hampshire, Department of Administrative Services,
+soc_code                       | 15-1299.01
+h_1b_dependent                 | No
+-[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25154-044593
 job_title                      | Computer Programmer
 employer_name                  | TECH MAHINDRA (AMERICAS) INC
@@ -328,7 +262,7 @@ amended_petition               | 0
 employer_name                  | TECH MAHINDRA (AMERICAS) INC
 soc_code                       | 15-1251
 h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25106-870192
 job_title                      | Software Developer
 employer_name                  | Coforge DPA NA Inc
@@ -361,7 +295,7 @@ amended_petition               | 1
 employer_name                  | Coforge DPA NA Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24285-401585
 job_title                      | Senior Systems Analyst
 employer_name                  | Coforge Limited
@@ -393,6 +327,72 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Coforge Limited
 soc_code                       | 15-1211
+h_1b_dependent                 | Yes
+-[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24285-401585
+job_title                      | Senior Systems Analyst
+employer_name                  | Coforge Limited
+secondary_entity_business_name | State of New Hampshire Department of Information Technology
+employer_phone                 | 17326684134
+employer_poc_first_name        | Vishakha
+employer_poc_last_name         | Gandhi
+employer_poc_email             | Vishakha.Gandhi@coforge.com
+employer_poc_phone             | 17326684134
+employer_poc_phone_ext         | 
+worksite_address1              | 33 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2025-02-25
+end_date                       | 2028-02-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Coforge Limited
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24285-401585
+job_title                      | Senior Systems Analyst
+employer_name                  | Coforge Limited
+secondary_entity_business_name | State of New Hampshire Department of Information Technology
+employer_phone                 | 17326684134
+employer_poc_first_name        | Vishakha
+employer_poc_last_name         | Gandhi
+employer_poc_email             | Vishakha.Gandhi@coforge.com
+employer_poc_phone             | 17326684134
+employer_poc_phone_ext         | 
+worksite_address1              | 33 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2025-02-25
+end_date                       | 2028-02-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Coforge Limited
+soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
 -[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25028-649092
@@ -428,6 +428,39 @@ employer_name                  | Tech Mahindra (Americas) Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25028-649092
+job_title                      | Software Systems Engineer
+employer_name                  | Tech Mahindra (Americas) Inc
+secondary_entity_business_name | New Hampshire Division of Motor  Vehicles, Department of Safety
+employer_phone                 | 19732169008
+employer_poc_first_name        | Ulpa
+employer_poc_last_name         | Shukla
+employer_poc_email             | LCAMovement@Techmahindra.com
+employer_poc_phone             | 19732169008
+employer_poc_phone_ext         | 
+worksite_address1              | 23 Hazen Drive
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Chugh LLP
+employer_address1              | 500 Hills Drive
+employer_address2              | Suite 200A
+employer_city                  | Bedminster
+employer_state                 | NJ
+employer_postal_code           | 07921
+begin_date                     | 2025-02-04
+end_date                       | 2028-02-03
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Tech Mahindra (Americas) Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 15 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24354-559643
 job_title                      | Systems Analyst
 employer_name                  | Coforge Limited
@@ -460,7 +493,73 @@ amended_petition               | 1
 employer_name                  | Coforge Limited
 soc_code                       | 15-1211
 h_1b_dependent                 | Yes
--[ RECORD 15 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 16 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24354-559643
+job_title                      | Systems Analyst
+employer_name                  | Coforge Limited
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_phone                 | 17326684134
+employer_poc_first_name        | Vishakha
+employer_poc_last_name         | Gandhi
+employer_poc_email             | Vishakha.Gandhi@coforge.com
+employer_poc_phone             | 17326684134
+employer_poc_phone_ext         | 
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2024-12-26
+end_date                       | 2027-12-25
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Coforge Limited
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24354-559643
+job_title                      | Systems Analyst
+employer_name                  | Coforge Limited
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_phone                 | 17326684134
+employer_poc_first_name        | Vishakha
+employer_poc_last_name         | Gandhi
+employer_poc_email             | Vishakha.Gandhi@coforge.com
+employer_poc_phone             | 17326684134
+employer_poc_phone_ext         | 
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | Greenberg Traurig LLP
+employer_address1              | 502 Carnegie Center Drive
+employer_address2              | Suite 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2024-12-26
+end_date                       | 2027-12-25
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Coforge Limited
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24162-090016
 job_title                      | Systems Analyst
 employer_name                  | Coforge Limited
@@ -493,40 +592,7 @@ amended_petition               | 0
 employer_name                  | Coforge Limited
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 16 ]-----------------+--------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24263-350960
-job_title                      | Java Full Stack Developer
-employer_name                  | Conflux Systems Inc
-secondary_entity_business_name | New Hampshire Department of Information Technology
-employer_phone                 | 16783199818
-employer_poc_first_name        | Umamahesh
-employer_poc_last_name         | Karanam
-employer_poc_email             | immigration@confluxsystems.com
-employer_poc_phone             | 16783199818
-employer_poc_phone_ext         | 
-worksite_address1              | 33 Hazen Dr
-worksite_address2              | 
-worksite_city                  | Concord
-worksite_county                | MERRIMACK
-lawfirm_name_business_name     | 
-employer_address1              | 11539 Park Woods Circle
-employer_address2              | Suite 302
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 2024-09-27
-end_date                       | 2027-09-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Conflux Systems Inc
-soc_code                       | 15-1251.00
-h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 19 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24263-350750
 job_title                      | Java Full Stack Developer
 employer_name                  | Conflux Systems Inc
@@ -559,7 +625,40 @@ amended_petition               | 1
 employer_name                  | Conflux Systems Inc
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
--[ RECORD 18 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 20 ]-----------------+--------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24263-350960
+job_title                      | Java Full Stack Developer
+employer_name                  | Conflux Systems Inc
+secondary_entity_business_name | New Hampshire Department of Information Technology
+employer_phone                 | 16783199818
+employer_poc_first_name        | Umamahesh
+employer_poc_last_name         | Karanam
+employer_poc_email             | immigration@confluxsystems.com
+employer_poc_phone             | 16783199818
+employer_poc_phone_ext         | 
+worksite_address1              | 33 Hazen Dr
+worksite_address2              | 
+worksite_city                  | Concord
+worksite_county                | MERRIMACK
+lawfirm_name_business_name     | 
+employer_address1              | 11539 Park Woods Circle
+employer_address2              | Suite 302
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 2024-09-27
+end_date                       | 2027-09-26
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Conflux Systems Inc
+soc_code                       | 15-1251.00
+h_1b_dependent                 | Yes
+-[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24193-190544
 job_title                      | QUALITY ASSURANCE ANALYST
 employer_name                  | COMPUSOFT INTEGRATED SOLUTIONS INC
@@ -592,7 +691,7 @@ amended_petition               | 0
 employer_name                  | COMPUSOFT INTEGRATED SOLUTIONS INC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 19 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24079-813815
 job_title                      | Software Developer
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -625,7 +724,7 @@ amended_petition               | 1
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 20 ]-----------------+--------------------------------------------------------------------------------------------------------
+-[ RECORD 23 ]-----------------+--------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23255-338797
 job_title                      | Software Developer
 employer_name                  | Primesoft Technologies Inc

@@ -1,169 +1,4 @@
 -[ RECORD 1 ]------------------+---------------------------------------------------------------------------
-case_number                    | I-200-25335-445548
-job_title                      | Assistant Professor in Management Information Syst
-employer_name                  | Delaware State University
-secondary_entity_business_name | 
-employer_phone                 | 13028576261
-employer_poc_first_name        | Irene
-employer_poc_last_name         | Hawkins
-employer_poc_email             | ihawkins@desu.edu
-employer_poc_phone             | 13028576261
-employer_poc_phone_ext         | 
-worksite_address1              | 1200 North Dupont Highway
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | 
-lawfirm_name_business_name     | Green & Spiegel LLC
-employer_address1              | 1200 North Dupont Highway
-employer_address2              | 
-employer_city                  | Dover
-employer_state                 | DE
-employer_postal_code           | 19901
-begin_date                     | 2026-05-31
-end_date                       | 2029-05-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Delaware State University
-soc_code                       | 25-1011.00
-h_1b_dependent                 | No
--[ RECORD 2 ]------------------+---------------------------------------------------------------------------
-case_number                    | I-200-25346-479566
-job_title                      | Postdoctoral Research Fellow
-employer_name                  | Delaware State University
-secondary_entity_business_name | 
-employer_phone                 | 13028576261
-employer_poc_first_name        | Irene
-employer_poc_last_name         | Hawkins
-employer_poc_email             | ihawkins@desu.edu
-employer_poc_phone             | 13028576261
-employer_poc_phone_ext         | 
-worksite_address1              | 1200 North Dupont Highway
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | 
-lawfirm_name_business_name     | Green & Spiegel LLC
-employer_address1              | 1200 North Dupont Highway
-employer_address2              | 
-employer_city                  | Dover
-employer_state                 | DE
-employer_postal_code           | 19901
-begin_date                     | 2026-05-01
-end_date                       | 2029-04-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Delaware State University
-soc_code                       | 17-2031.00
-h_1b_dependent                 | No
--[ RECORD 3 ]------------------+---------------------------------------------------------------------------
-case_number                    | I-200-25307-362808
-job_title                      | Peoplesoft Developer
-employer_name                  | ERP Analysts Inc
-secondary_entity_business_name | State of Delaware
-employer_phone                 | 16147189222
-employer_poc_first_name        | Manjusha
-employer_poc_last_name         | Akkapeddi
-employer_poc_email             | erpaimmigration@erpa.com
-employer_poc_phone             | 16147189222
-employer_poc_phone_ext         | 
-worksite_address1              | 900 Public Safety Blvd
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | 
-lawfirm_name_business_name     | Shihab Burke LLC
-employer_address1              | 425 Metro Place North
-employer_address2              | Suite 510
-employer_city                  | Dublin
-employer_state                 | OH
-employer_postal_code           | 43017
-begin_date                     | 2026-04-16
-end_date                       | 2029-04-15
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ERP Analysts Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 4 ]------------------+---------------------------------------------------------------------------
-case_number                    | I-200-25343-467820
-job_title                      | Spanish Immersion Teacher
-employer_name                  | State of Delaware
-secondary_entity_business_name | 
-employer_phone                 | 13026456686
-employer_poc_first_name        | Ned
-employer_poc_last_name         | Gladfelter
-employer_poc_email             | ned.gladfelter@cape.k12.de.us
-employer_poc_phone             | 13026456686
-employer_poc_phone_ext         | 
-worksite_address1              | H.O. Brittingham Elementary School
-worksite_address2              | 402 Mulberry St.
-worksite_city                  | Milton
-worksite_county                | 
-lawfirm_name_business_name     | Cozen OConnor
-employer_address1              | 1270 Kings Highway
-employer_address2              | 
-employer_city                  | Lewes
-employer_state                 | DE
-employer_postal_code           | 19958
-begin_date                     | 2026-04-12
-end_date                       | 2029-04-11
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | State of Delaware
-soc_code                       | 25-2021.00
-h_1b_dependent                 | No
--[ RECORD 5 ]------------------+---------------------------------------------------------------------------
-case_number                    | I-200-25335-447975
-job_title                      | Web Developer
-employer_name                  | Superior Information Technologies LLC
-secondary_entity_business_name | Delaware Department of Transportation
-employer_phone                 | 17346669963
-employer_poc_first_name        | Anurag
-employer_poc_last_name         | Kulshrestha
-employer_poc_email             | anurag@anantics.com
-employer_poc_phone             | 17346669963
-employer_poc_phone_ext         | 
-worksite_address1              | 800 S Bay Rd.
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | 
-lawfirm_name_business_name     | Piston & Carpenter PC
-employer_address1              | 38701 Seven Mile Road
-employer_address2              | Suite 285
-employer_city                  | Livonia
-employer_state                 | MI
-employer_postal_code           | 48152
-begin_date                     | 2026-04-11
-end_date                       | 2029-04-10
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Superior Information Technologies LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 6 ]------------------+---------------------------------------------------------------------------
 case_number                    | I-200-25205-197653
 job_title                      | ERP Technical Coordinator
 employer_name                  | ERP Analysts Inc
@@ -196,73 +31,7 @@ amended_petition               | 0
 employer_name                  | ERP Analysts Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+---------------------------------------------------------------------------
-case_number                    | I-200-25322-417096
-job_title                      | Manager of International Affairs
-employer_name                  | Delaware State University
-secondary_entity_business_name | 
-employer_phone                 | 13028576162
-employer_poc_first_name        | Irene
-employer_poc_last_name         | Hawkins
-employer_poc_email             | ihawkins@desu.edu
-employer_poc_phone             | 13028576261
-employer_poc_phone_ext         | 
-worksite_address1              | 1200 North Dupont Highway
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | 
-lawfirm_name_business_name     | Green & Spiegel LLC
-employer_address1              | 1200 North Dupont Highway
-employer_address2              | 
-employer_city                  | Dover
-employer_state                 | DE
-employer_postal_code           | 19901
-begin_date                     | 2025-12-13
-end_date                       | 2028-12-12
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Delaware State University
-soc_code                       | 21-1012.00
-h_1b_dependent                 | No
--[ RECORD 8 ]------------------+---------------------------------------------------------------------------
-case_number                    | I-200-25268-334885
-job_title                      | Postdoctoral Research Associate- Plant Molecular Genetics
-employer_name                  | Delaware State University
-secondary_entity_business_name | 
-employer_phone                 | 13028576261
-employer_poc_first_name        | Irene
-employer_poc_last_name         | Hawkins
-employer_poc_email             | ihawkins@desu.edu
-employer_poc_phone             | 13028576261
-employer_poc_phone_ext         | 
-worksite_address1              | 1200 North Dupont Highway
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | 
-lawfirm_name_business_name     | Green & Spiegel LLC
-employer_address1              | 1200 North Dupont Highway
-employer_address2              | 
-employer_city                  | Dover
-employer_state                 | DE
-employer_postal_code           | 19901
-begin_date                     | 2025-12-01
-end_date                       | 2028-11-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Delaware State University
-soc_code                       | 19-1029.02
-h_1b_dependent                 | No
--[ RECORD 9 ]------------------+---------------------------------------------------------------------------
+-[ RECORD 2 ]------------------+---------------------------------------------------------------------------
 case_number                    | I-200-25126-944852
 job_title                      | COMPUTER PROGRAMMER
 employer_name                  | DEVCARE SOLUTIONS LIMITED
@@ -295,7 +64,7 @@ amended_petition               | 0
 employer_name                  | DEVCARE SOLUTIONS LIMITED
 soc_code                       | 15-1251
 h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 3 ]------------------+---------------------------------------------------------------------------
 case_number                    | I-200-25177-131578
 job_title                      | Postdoctoral Research Associate
 employer_name                  | Delaware State University
@@ -328,7 +97,7 @@ amended_petition               | 0
 employer_name                  | Delaware State University
 soc_code                       | 19-4021.00
 h_1b_dependent                 | No
--[ RECORD 11 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 4 ]------------------+---------------------------------------------------------------------------
 case_number                    | I-200-25128-952042
 job_title                      | Salesforce Developer
 employer_name                  | Lex Nimble Solutions Inc
@@ -361,40 +130,7 @@ amended_petition               | 0
 employer_name                  | Lex Nimble Solutions Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-25171-114081
-job_title                      | Software Developer
-employer_name                  | Source Cloud Technologies Inc
-secondary_entity_business_name | Delaware Department Transportation (DelDOT)
-employer_phone                 | 15716556100
-employer_poc_first_name        | Preetha
-employer_poc_last_name         | Thoonoli
-employer_poc_email             | hr@sourcecloudinc.com
-employer_poc_phone             | 15716556100
-employer_poc_phone_ext         | 
-worksite_address1              | 800 S Bay Rd
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | KENT
-lawfirm_name_business_name     | 
-employer_address1              | 1480 Chapel Ridge Road
-employer_address2              | Suite 100
-employer_city                  | Apex
-employer_state                 | NC
-employer_postal_code           | 27502
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Source Cloud Technologies Inc
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 5 ]------------------+---------------------------------------------------------------------------
 case_number                    | I-200-25127-946527
 job_title                      | Salesforce Developer
 employer_name                  | Lex Nimble Solutions Inc
@@ -427,7 +163,40 @@ amended_petition               | 0
 employer_name                  | Lex Nimble Solutions Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 6 ]------------------+---------------------------------------------------------------------------
+case_number                    | I-200-25171-114081
+job_title                      | Software Developer
+employer_name                  | Source Cloud Technologies Inc
+secondary_entity_business_name | Delaware Department Transportation (DelDOT)
+employer_phone                 | 15716556100
+employer_poc_first_name        | Preetha
+employer_poc_last_name         | Thoonoli
+employer_poc_email             | hr@sourcecloudinc.com
+employer_poc_phone             | 15716556100
+employer_poc_phone_ext         | 
+worksite_address1              | 800 S Bay Rd
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | 
+employer_address1              | 1480 Chapel Ridge Road
+employer_address2              | Suite 100
+employer_city                  | Apex
+employer_state                 | NC
+employer_postal_code           | 27502
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Source Cloud Technologies Inc
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 7 ]------------------+---------------------------------------------------------------------------
 case_number                    | I-200-25176-128092
 job_title                      | PRODUCT SPECIALIST - 4
 employer_name                  | 3i INFOTECH INC
@@ -460,7 +229,7 @@ amended_petition               | 0
 employer_name                  | 3i INFOTECH INC
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
--[ RECORD 15 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 8 ]------------------+---------------------------------------------------------------------------
 case_number                    | I-200-25241-276264
 job_title                      | PRODUCT SPECIALIST  4
 employer_name                  | 3i INFOTECH INC
@@ -493,7 +262,7 @@ amended_petition               | 0
 employer_name                  | 3i INFOTECH INC
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
--[ RECORD 16 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 9 ]------------------+---------------------------------------------------------------------------
 case_number                    | I-200-25255-306073
 job_title                      | Visiting Assistant Professor, Fashion Design & Merchandising
 employer_name                  | Delaware State University
@@ -526,40 +295,7 @@ amended_petition               | 0
 employer_name                  | Delaware State University
 soc_code                       | 25-1121.00
 h_1b_dependent                 | No
--[ RECORD 17 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-25255-306073
-job_title                      | Visiting Assistant Professor, Fashion Design & Merchandising
-employer_name                  | Delaware State University
-secondary_entity_business_name | 
-employer_phone                 | 13028576261
-employer_poc_first_name        | Irene
-employer_poc_last_name         | Hawkins
-employer_poc_email             | ihawkins@desu.edu
-employer_poc_phone             | 13028576261
-employer_poc_phone_ext         | 
-worksite_address1              | 1200 North Dupont Highway
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | 
-lawfirm_name_business_name     | Green & Spiegel LLC
-employer_address1              | 1200 North Dupont Highway
-employer_address2              | 
-employer_city                  | Dover
-employer_state                 | DE
-employer_postal_code           | 19901
-begin_date                     | 2025-09-22
-end_date                       | 2028-09-21
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Delaware State University
-soc_code                       | 25-1121.00
-h_1b_dependent                 | No
--[ RECORD 18 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 10 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25085-806018
 job_title                      | IT Consultant
 employer_name                  | DELASOFT INC
@@ -592,7 +328,7 @@ amended_petition               | 0
 employer_name                  | DELASOFT INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 19 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 11 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25133-969746
 job_title                      | Application Developer
 employer_name                  | Data S Solutions LLC
@@ -625,7 +361,40 @@ amended_petition               | 0
 employer_name                  | Data S Solutions LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 20 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 12 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25077-785128
+job_title                      | Software Developer
+employer_name                  | American IT Solutions Inc
+secondary_entity_business_name | Delaware Department of Technology & Information
+employer_phone                 | 13022207349
+employer_poc_first_name        | Ramakrishna
+employer_poc_last_name         | Kantamneni
+employer_poc_email             | ramakrishna@americanitsolutionsinc.net
+employer_poc_phone             | 13022207349
+employer_poc_phone_ext         | 
+worksite_address1              | 800 S Bay Road
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | The Law Office of Luke Bowman
+employer_address1              | 10175 Fortune Parkway, Unit 203
+employer_address2              | 
+employer_city                  | Jacksonville
+employer_state                 | FL
+employer_postal_code           | 32256
+begin_date                     | 2025-09-03
+end_date                       | 2028-09-02
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | American IT Solutions Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25077-785128
 job_title                      | Software Developer
 employer_name                  | American IT Solutions Inc
@@ -658,7 +427,40 @@ amended_petition               | 0
 employer_name                  | American IT Solutions Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 14 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25083-798594
+job_title                      | Teacher  Chinese Immersion
+employer_name                  | State of Delaware
+secondary_entity_business_name | 
+employer_phone                 | 13023232712
+employer_poc_first_name        | Holly
+employer_poc_last_name         | Sage
+employer_poc_email             | holly.sage@colonial.k12.de.us
+employer_poc_phone             | 13023232712
+employer_poc_phone_ext         | 
+worksite_address1              | Gunning Bedford Middle School
+worksite_address2              | 801 Cox Neck Road
+worksite_city                  | New Castle
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | Cozen OConnor
+employer_address1              | 318 E. Basin Road
+employer_address2              | 
+employer_city                  | New Castle
+employer_state                 | DE
+employer_postal_code           | 19720
+begin_date                     | 2025-09-03
+end_date                       | 2028-09-02
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of Delaware
+soc_code                       | 25-2022.00
+h_1b_dependent                 | No
+-[ RECORD 15 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25083-798594
 job_title                      | Teacher - Chinese Immersion
 employer_name                  | State of Delaware
@@ -691,7 +493,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2022
 h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 16 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25126-943681
 job_title                      | Application Developer
 employer_name                  | Data S Solutions LLC
@@ -724,7 +526,7 @@ amended_petition               | 0
 employer_name                  | Data S Solutions LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 17 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25056-720879
 job_title                      | Spanish Immersion Teacher
 employer_name                  | State of Delaware d/b/a Cape Henlopen School District
@@ -757,7 +559,40 @@ amended_petition               | 0
 employer_name                  | State of Delaware d/b/a Cape Henlopen School District
 soc_code                       | 25-2021
 h_1b_dependent                 | No
--[ RECORD 24 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 18 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25056-720879
+job_title                      | Spanish Immersion Teacher
+employer_name                  | State of Delaware d/b/a Cape Henlopen School District
+secondary_entity_business_name | 
+employer_phone                 | 13026456686
+employer_poc_first_name        | Ned
+employer_poc_last_name         | Gladfelter
+employer_poc_email             | ned.gladfelter@cape.k12.de.us
+employer_poc_phone             | 13026456686
+employer_poc_phone_ext         | 
+worksite_address1              | 19488 John J Willimas HIghway
+worksite_address2              | 
+worksite_city                  | Lewes
+worksite_county                | SUSSEX
+lawfirm_name_business_name     | Cozen OConnor
+employer_address1              | 1270 Kings Highway
+employer_address2              | 
+employer_city                  | Lewes
+employer_state                 | DE
+employer_postal_code           | 19958
+begin_date                     | 2025-08-24
+end_date                       | 2028-08-23
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of Delaware d/b/a Cape Henlopen School District
+soc_code                       | 25-2021.00
+h_1b_dependent                 | No
+-[ RECORD 19 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25223-234280
 job_title                      | Spanish Immersion Teacher
 employer_name                  | State of Delaware
@@ -790,7 +625,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2021.00
 h_1b_dependent                 | No
--[ RECORD 25 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 20 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25195-173361
 job_title                      | Assistant Professor  in Mathematical Sciences
 employer_name                  | Delaware State University
@@ -823,7 +658,73 @@ amended_petition               | 0
 employer_name                  | Delaware State University
 soc_code                       | 25-1022.00
 h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 21 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25050-706499
+job_title                      | Elementary Spanish Immersion Teacher
+employer_name                  | State of Delaware d/b/a Cape Henlopen School District
+secondary_entity_business_name | 
+employer_phone                 | 13026456686
+employer_poc_first_name        | Ned
+employer_poc_last_name         | Gladfelter
+employer_poc_email             | ned.gladfelter@cape.k12.de.us
+employer_poc_phone             | 13026456686
+employer_poc_phone_ext         | 
+worksite_address1              | 402 Mulberry Street
+worksite_address2              | 
+worksite_city                  | Milton
+worksite_county                | SUSSEX
+lawfirm_name_business_name     | Cozen OConnor
+employer_address1              | 1270 Kings Highway
+employer_address2              | 
+employer_city                  | Lewes
+employer_state                 | DE
+employer_postal_code           | 19958
+begin_date                     | 2025-07-30
+end_date                       | 2028-07-29
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of Delaware d/b/a Cape Henlopen School District
+soc_code                       | 25-2021.00
+h_1b_dependent                 | No
+-[ RECORD 22 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25050-706482
+job_title                      | Elementary Spanish Immersion Teacher
+employer_name                  | State of Delaware d/b/a Cape Henlopen School District
+secondary_entity_business_name | 
+employer_phone                 | 13026456686
+employer_poc_first_name        | Ned
+employer_poc_last_name         | Gladfelter
+employer_poc_email             | ned.gladfelter@cape.k12.de.us
+employer_poc_phone             | 13026456686
+employer_poc_phone_ext         | 
+worksite_address1              | 402 Mulberry Street
+worksite_address2              | 
+worksite_city                  | Milton
+worksite_county                | SUSSEX
+lawfirm_name_business_name     | Cozen OConnor
+employer_address1              | 1270 Kings Highway
+employer_address2              | 
+employer_city                  | Lewes
+employer_state                 | DE
+employer_postal_code           | 19958
+begin_date                     | 2025-07-30
+end_date                       | 2028-07-29
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of Delaware d/b/a Cape Henlopen School District
+soc_code                       | 25-2021.00
+h_1b_dependent                 | No
+-[ RECORD 23 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25050-706482
 job_title                      | Elementary Spanish Immersion Teacher
 employer_name                  | State of Delaware d/b/a Cape Henlopen School District
@@ -856,7 +757,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware d/b/a Cape Henlopen School District
 soc_code                       | 25-2021
 h_1b_dependent                 | No
--[ RECORD 27 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 24 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25050-706499
 job_title                      | Elementary Spanish Immersion Teacher
 employer_name                  | State of Delaware d/b/a Cape Henlopen School District
@@ -889,7 +790,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware d/b/a Cape Henlopen School District
 soc_code                       | 25-2021
 h_1b_dependent                 | No
--[ RECORD 28 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 25 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25196-176551
 job_title                      | Science Spanish Immersion Teacher
 employer_name                  | State of Delaware
@@ -922,7 +823,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2022.00
 h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 26 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25177-133095
 job_title                      | Spanish Immersion & Middle School Social Studies Teacher
 employer_name                  | State of Delaware
@@ -955,7 +856,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2022.00
 h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 27 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25112-891453
 job_title                      | Sr. Programmer Analyst
 employer_name                  | CNT Infotech Corporation
@@ -988,7 +889,7 @@ amended_petition               | 0
 employer_name                  | CNT Infotech Corporation
 soc_code                       | 15-1251
 h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 28 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24362-574007
 job_title                      | Business Analyst
 employer_name                  | Computer Aid Inc
@@ -1021,7 +922,40 @@ amended_petition               | 0
 employer_name                  | Computer Aid Inc
 soc_code                       | 15-1253
 h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 29 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24362-574007
+job_title                      | Business Analyst
+employer_name                  | Computer Aid Inc
+secondary_entity_business_name | State of Delaware
+employer_phone                 | 17176513188
+employer_poc_first_name        | Melanie
+employer_poc_last_name         | Madison
+employer_poc_email             | melanie.madison@cai.io
+employer_poc_phone             | 16105305202
+employer_poc_phone_ext         | 
+worksite_address1              | 252 Chapman Road
+worksite_address2              | 2nd Floor
+worksite_city                  | Newark
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | Meltzer Hellrung LLC
+employer_address1              | 1390 Ridgeview Dr.
+employer_address2              | 300
+employer_city                  | Allentown
+employer_state                 | PA
+employer_postal_code           | 18104
+begin_date                     | 2025-06-27
+end_date                       | 2028-06-26
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Computer Aid Inc
+soc_code                       | 15-1253.00
+h_1b_dependent                 | No
+-[ RECORD 30 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25163-084628
 job_title                      | Spanish Immersion Teacher
 employer_name                  | State of Delaware
@@ -1054,7 +988,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2021
 h_1b_dependent                 | No
--[ RECORD 33 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 31 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25161-074966
 job_title                      | Spanish Immersion Teacher
 employer_name                  | State of Delaware
@@ -1087,7 +1021,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2021
 h_1b_dependent                 | No
--[ RECORD 34 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 32 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25126-943500
 job_title                      | Application Developer
 employer_name                  | Data S Solutions LLC
@@ -1120,7 +1054,40 @@ amended_petition               | 0
 employer_name                  | Data S Solutions LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 35 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 33 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25052-715383
+job_title                      | Software Developer
+employer_name                  | AffluentTEK LLC
+secondary_entity_business_name | Delaware Department of Transportation (DelDOT)
+employer_phone                 | 15855687445
+employer_poc_first_name        | Koushik
+employer_poc_last_name         | SAMA
+employer_poc_email             | ksama@AffluentTEK.com
+employer_poc_phone             | 15855687445
+employer_poc_phone_ext         | 
+worksite_address1              | 800 S Bay Rd
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | Somireddy Law Group PLLC
+employer_address1              | 43676 Trade Center PL
+employer_address2              | Ste 235
+employer_city                  | Dulles
+employer_state                 | VA
+employer_postal_code           | 20166
+begin_date                     | 2025-05-15
+end_date                       | 2028-05-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | AffluentTEK LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 34 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25052-715383
 job_title                      | Software Developer
 employer_name                  | AffluentTEK LLC
@@ -1153,7 +1120,7 @@ amended_petition               | 0
 employer_name                  | AffluentTEK LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 35 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25128-952062
 job_title                      | Salesforce Developer
 employer_name                  | Lex Nimble Solutions Inc
@@ -1186,73 +1153,7 @@ amended_petition               | 1
 employer_name                  | Lex Nimble Solutions Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 37 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-25339-462278
-job_title                      | Security Operations Center Analyst
-employer_name                  | Progressive Software Computing Inc
-secondary_entity_business_name | State of Delaware
-employer_phone                 | 13024799700
-employer_poc_first_name        | Sean
-employer_poc_last_name         | ONeill
-employer_poc_email             | soneill@psci.com
-employer_poc_phone             | 13024799700
-employer_poc_phone_ext         | 
-worksite_address1              | 801 Silver Lake Boulevard
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | 
-lawfirm_name_business_name     | Corpuz Esq LLC
-employer_address1              | Two Righter Parkway
-employer_address2              | Suite 110
-employer_city                  | Wilmington
-employer_state                 | DE
-employer_postal_code           | 19803
-begin_date                     | 2026-05-01
-end_date                       | 2028-05-01
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Progressive Software Computing Inc
-soc_code                       | 15-1212.00
-h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-25339-462385
-job_title                      | Security Operations Center Analyst
-employer_name                  | Progressive Software Computing Inc
-secondary_entity_business_name | State of Delaware
-employer_phone                 | 13024799700
-employer_poc_first_name        | Sean
-employer_poc_last_name         | ONeill
-employer_poc_email             | soneill@psci.com
-employer_poc_phone             | 13024799700
-employer_poc_phone_ext         | 
-worksite_address1              | 3804 Christiana Meadows
-worksite_address2              | 
-worksite_city                  | Bear
-worksite_county                | 
-lawfirm_name_business_name     | Corpuz Esq LLC
-employer_address1              | Two Righter Parkway
-employer_address2              | Suite 110
-employer_city                  | Wilmington
-employer_state                 | DE
-employer_postal_code           | 19803
-begin_date                     | 2026-05-01
-end_date                       | 2028-05-01
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Progressive Software Computing Inc
-soc_code                       | 15-1212.00
-h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 36 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25119-916305
 job_title                      | Product Specialist
 employer_name                  | DELASOFT INC
@@ -1285,7 +1186,40 @@ amended_petition               | 1
 employer_name                  | DELASOFT INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 40 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 37 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25083-797276
+job_title                      | Software Quality Assurance Analyst and Tester
+employer_name                  | HTC GLOBAL SERVICES INC
+secondary_entity_business_name | State of Delaware Division of Public Health
+employer_phone                 | 12487862500
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | SUBRAMANIAN
+employer_poc_email             | IMMIGRATION@HTCINC.COM
+employer_poc_phone             | 12487862500
+employer_poc_phone_ext         | 109
+worksite_address1              | 417 Federal Street
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | 
+employer_address1              | 3270 WEST BIG BEAVER ROAD
+employer_address2              | 
+employer_city                  | TROY
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 2025-04-07
+end_date                       | 2028-04-06
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | HTC GLOBAL SERVICES INC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 38 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25083-797276
 job_title                      | Software Quality Assurance Analyst and Tester
 employer_name                  | HTC GLOBAL SERVICES INC
@@ -1317,6 +1251,72 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | HTC GLOBAL SERVICES INC
 soc_code                       | 15-1253
+h_1b_dependent                 | Yes
+-[ RECORD 39 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24310-452937
+job_title                      | Software Developer
+employer_name                  | 9to9 Software Solutions LLC
+secondary_entity_business_name | Government Information Center, DE Department of State
+employer_phone                 | 18609908610
+employer_poc_first_name        | Ashok
+employer_poc_last_name         | Sukumaran
+employer_poc_email             | ashok@9to9soft.com
+employer_poc_phone             | 18609908610
+employer_poc_phone_ext         | 
+worksite_address1              | 820 N. French St.
+worksite_address2              | 10th Floor
+worksite_city                  | Wilmington
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | Credence Support Services Inc
+employer_address1              | 1224 MILL ST, Bldg B
+employer_address2              | Suite 124
+employer_city                  | EAST BERLIN
+employer_state                 | CT
+employer_postal_code           | 06023
+begin_date                     | 2025-04-01
+end_date                       | 2028-03-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | 9to9 Software Solutions LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 40 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24310-452937
+job_title                      | Software Developer
+employer_name                  | 9to9 Software Solutions LLC
+secondary_entity_business_name | Government Information Center, DE Department of State
+employer_phone                 | 18609908610
+employer_poc_first_name        | Ashok
+employer_poc_last_name         | Sukumaran
+employer_poc_email             | ashok@9to9soft.com
+employer_poc_phone             | 18609908610
+employer_poc_phone_ext         | 
+worksite_address1              | 820 N. French St.
+worksite_address2              | 10th Floor
+worksite_city                  | Wilmington
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | Credence Support Services Inc
+employer_address1              | 1224 MILL ST, Bldg B
+employer_address2              | Suite 124
+employer_city                  | EAST BERLIN
+employer_state                 | CT
+employer_postal_code           | 06023
+begin_date                     | 2025-04-01
+end_date                       | 2028-03-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | 9to9 Software Solutions LLC
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 41 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24310-452937
@@ -1385,28 +1385,28 @@ employer_name                  | DELASOFT INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 43 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-25063-742953
-job_title                      | NETWORK ENGINEER
-employer_name                  | NESTOR TECHNOLOGIES INC
-secondary_entity_business_name | STATE OF DELAWARE - DEPARTMENT OF TECHNOLOGY AND INFORMATION (DTI)
-employer_phone                 | 17326476104
-employer_poc_first_name        | PADMAJA
-employer_poc_last_name         | UPPALAPATI
-employer_poc_email             | OPERATIONS@NESTORTECHNOLOGIES.COM
-employer_poc_phone             | 17326476104
+case_number                    | I-200-25080-795402
+job_title                      | IT Consultant
+employer_name                  | DELASOFT INC
+secondary_entity_business_name | Delaware Department of Transportation
+employer_phone                 | 13023736723
+employer_poc_first_name        | SWAYAM
+employer_poc_last_name         | PRABHA
+employer_poc_email             | SWAYAM.PRABHA@DELASOFT.COM
+employer_poc_phone             | 13023736723
 employer_poc_phone_ext         | 
-worksite_address1              | 801 SILVER LAKE BLVD.
+worksite_address1              | 900 Public Safety Blvd
 worksite_address2              | 
-worksite_city                  | DOVER
+worksite_city                  | Dover
 worksite_county                | KENT
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 15 CORPORATE PLACE S.
-employer_address2              | SUITE 330
-employer_city                  | PISCATAWAY
-employer_state                 | NJ
-employer_postal_code           | 08854
-begin_date                     | 2025-03-19
-end_date                       | 2028-03-18
+lawfirm_name_business_name     | LAW OFFICES OF KESHAB RAJ SEADIE PC
+employer_address1              | 92 READS WAY
+employer_address2              | SUITE 204
+employer_city                  | NEW CASTLE
+employer_state                 | DE
+employer_postal_code           | 19720
+begin_date                     | 2025-03-24
+end_date                       | 2028-03-23
 total_worker_positions         | 1
 new_employment                 | 0
 continued_employment           | 0
@@ -1414,8 +1414,8 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
-employer_name                  | NESTOR TECHNOLOGIES INC
-soc_code                       | 15-1244
+employer_name                  | DELASOFT INC
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 44 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25064-746641
@@ -1484,6 +1484,171 @@ employer_name                  | HTC GLOBAL SERVICES INC
 soc_code                       | 15-1211
 h_1b_dependent                 | Yes
 -[ RECORD 46 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25063-742953
+job_title                      | NETWORK ENGINEER
+employer_name                  | NESTOR TECHNOLOGIES INC
+secondary_entity_business_name | STATE OF DELAWARE - DEPARTMENT OF TECHNOLOGY AND INFORMATION (DTI)
+employer_phone                 | 17326476104
+employer_poc_first_name        | PADMAJA
+employer_poc_last_name         | UPPALAPATI
+employer_poc_email             | OPERATIONS@NESTORTECHNOLOGIES.COM
+employer_poc_phone             | 17326476104
+employer_poc_phone_ext         | 
+worksite_address1              | 801 SILVER LAKE BLVD.
+worksite_address2              | 
+worksite_city                  | DOVER
+worksite_county                | KENT
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 15 CORPORATE PLACE S.
+employer_address2              | SUITE 330
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2025-03-19
+end_date                       | 2028-03-18
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | NESTOR TECHNOLOGIES INC
+soc_code                       | 15-1244.00
+h_1b_dependent                 | Yes
+-[ RECORD 47 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25063-742953
+job_title                      | NETWORK ENGINEER
+employer_name                  | NESTOR TECHNOLOGIES INC
+secondary_entity_business_name | STATE OF DELAWARE - DEPARTMENT OF TECHNOLOGY AND INFORMATION (DTI)
+employer_phone                 | 17326476104
+employer_poc_first_name        | PADMAJA
+employer_poc_last_name         | UPPALAPATI
+employer_poc_email             | OPERATIONS@NESTORTECHNOLOGIES.COM
+employer_poc_phone             | 17326476104
+employer_poc_phone_ext         | 
+worksite_address1              | 801 SILVER LAKE BLVD.
+worksite_address2              | 
+worksite_city                  | DOVER
+worksite_county                | KENT
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 15 CORPORATE PLACE S.
+employer_address2              | SUITE 330
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2025-03-19
+end_date                       | 2028-03-18
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | NESTOR TECHNOLOGIES INC
+soc_code                       | 15-1244
+h_1b_dependent                 | Yes
+-[ RECORD 48 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25064-746641
+job_title                      | NETWORK ENGINEER
+employer_name                  | NESTOR TECHNOLOGIES INC
+secondary_entity_business_name | STATE OF DELAWARE - DEPARTMENT OF TECHNOLOGY AND INFORMATION (DTI)
+employer_phone                 | 17326476104
+employer_poc_first_name        | PADMAJA
+employer_poc_last_name         | UPPALAPATI
+employer_poc_email             | OPERATIONS@NESTORTECHNOLOGIES.COM
+employer_poc_phone             | 17326476104
+employer_poc_phone_ext         | 
+worksite_address1              | 801 SILVER LAKE BLVD.
+worksite_address2              | 
+worksite_city                  | DOVER
+worksite_county                | KENT
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 15 CORPORATE PLACE S.
+employer_address2              | SUITE 330
+employer_city                  | PISCATAWAY
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2025-03-19
+end_date                       | 2028-03-18
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | NESTOR TECHNOLOGIES INC
+soc_code                       | 15-1244.00
+h_1b_dependent                 | Yes
+-[ RECORD 49 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25071-767507
+job_title                      | Systems Analyst
+employer_name                  | HTC GLOBAL SERVICES INC
+secondary_entity_business_name | State of Delaware Division of Public Health
+employer_phone                 | 12487862500
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | SUBRAMANIAN
+employer_poc_email             | IMMIGRATION@HTCINC.COM
+employer_poc_phone             | 12487862500
+employer_poc_phone_ext         | 109
+worksite_address1              | 417 Federal Street
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | 
+employer_address1              | 3270 WEST BIG BEAVER ROAD
+employer_address2              | 
+employer_city                  | TROY
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 2025-03-19
+end_date                       | 2028-03-18
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | HTC GLOBAL SERVICES INC
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 50 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25064-744924
+job_title                      | Software Developer
+employer_name                  | HTC GLOBAL SERVICES INC
+secondary_entity_business_name | State of Delaware Division of Public Health
+employer_phone                 | 12487862500
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | SUBRAMANIAN
+employer_poc_email             | IMMIGRATION@HTCINC.COM
+employer_poc_phone             | 12487862500
+employer_poc_phone_ext         | 109
+worksite_address1              | 417 Federal Street
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | 
+employer_address1              | 3270 WEST BIG BEAVER ROAD
+employer_address2              | 
+employer_city                  | TROY
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 2025-03-12
+end_date                       | 2028-03-11
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | HTC GLOBAL SERVICES INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 51 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25064-744924
 job_title                      | Software Developer
 employer_name                  | HTC GLOBAL SERVICES INC
@@ -1516,7 +1681,40 @@ amended_petition               | 1
 employer_name                  | HTC GLOBAL SERVICES INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 47 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 52 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25059-733018
+job_title                      | Software Quality Assurance Analyst and Tester
+employer_name                  | HTC GLOBAL SERVICES INC
+secondary_entity_business_name | State of Delaware Division of Public Health
+employer_phone                 | 12487862500
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | SUBRAMANIAN
+employer_poc_email             | IMMIGRATION@HTCINC.COM
+employer_poc_phone             | 12487862500
+employer_poc_phone_ext         | 109
+worksite_address1              | 417 Federal Street
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | 
+employer_address1              | 3270 WEST BIG BEAVER ROAD
+employer_address2              | 
+employer_city                  | TROY
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 2025-03-07
+end_date                       | 2028-03-06
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | HTC GLOBAL SERVICES INC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 53 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25059-732703
 job_title                      | Software Developer
 employer_name                  | AffluentTEK LLC
@@ -1549,7 +1747,7 @@ amended_petition               | 1
 employer_name                  | AffluentTEK LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 48 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 54 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25059-733018
 job_title                      | Software Quality Assurance Analyst and Tester
 employer_name                  | HTC GLOBAL SERVICES INC
@@ -1582,7 +1780,73 @@ amended_petition               | 1
 employer_name                  | HTC GLOBAL SERVICES INC
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
--[ RECORD 49 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 55 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25059-732703
+job_title                      | Software Developer
+employer_name                  | AffluentTEK LLC
+secondary_entity_business_name | Delaware Department of Transportation (DelDOT)
+employer_phone                 | 15855687445
+employer_poc_first_name        | Koushik
+employer_poc_last_name         | SAMA
+employer_poc_email             | ksama@AffluentTEK.com
+employer_poc_phone             | 15855687445
+employer_poc_phone_ext         | 
+worksite_address1              | 800 S Bay Rd
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | Somireddy Law Group PLLC
+employer_address1              | 43676 Trade Center PL
+employer_address2              | Ste 235
+employer_city                  | Dulles
+employer_state                 | VA
+employer_postal_code           | 20166
+begin_date                     | 2025-03-07
+end_date                       | 2028-03-06
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | AffluentTEK LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 56 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-25017-626129
+job_title                      | Extension Specialist for Food and Nutrition
+employer_name                  | Delaware State University
+secondary_entity_business_name | 
+employer_phone                 | 13028576261
+employer_poc_first_name        | Irene
+employer_poc_last_name         | Hawkins
+employer_poc_email             | ihawkins@desu.edu
+employer_poc_phone             | 13028576261
+employer_poc_phone_ext         | 
+worksite_address1              | 1200 North Dupont Highway
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | Green & Spiegel LLC
+employer_address1              | 1200 North Dupont Highway
+employer_address2              | 
+employer_city                  | Dover
+employer_state                 | DE
+employer_postal_code           | 19901
+begin_date                     | 2025-02-21
+end_date                       | 2028-02-20
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Delaware State University
+soc_code                       | 29-1031.00
+h_1b_dependent                 | No
+-[ RECORD 57 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-25017-626129
 job_title                      | Extension Specialist for Food and Nutrition
 employer_name                  | Delaware State University
@@ -1615,7 +1879,40 @@ amended_petition               | 0
 employer_name                  | Delaware State University
 soc_code                       | 29-1031
 h_1b_dependent                 | No
--[ RECORD 50 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 58 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24323-481075
+job_title                      | Technical Architect
+employer_name                  | Computer Aid Inc
+secondary_entity_business_name | State of Delaware
+employer_phone                 | 16105305202
+employer_poc_first_name        | Melanie
+employer_poc_last_name         | Madison
+employer_poc_email             | melanie.madison@cai.io
+employer_poc_phone             | 16105305202
+employer_poc_phone_ext         | 
+worksite_address1              | 252 Chapman Road
+worksite_address2              | 
+worksite_city                  | Newark
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | Meltzer Hellrung LLC
+employer_address1              | 1390 Ridgeview Dr
+employer_address2              | Suite 300
+employer_city                  | Allentown
+employer_state                 | PA
+employer_postal_code           | 18104
+begin_date                     | 2024-12-02
+end_date                       | 2027-12-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Computer Aid Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 59 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24323-481075
 job_title                      | Technical Architect
 employer_name                  | Computer Aid Inc
@@ -1648,7 +1945,40 @@ amended_petition               | 0
 employer_name                  | Computer Aid Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 51 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 60 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24323-481075
+job_title                      | Technical Architect
+employer_name                  | Computer Aid Inc
+secondary_entity_business_name | State of Delaware
+employer_phone                 | 16105305202
+employer_poc_first_name        | Melanie
+employer_poc_last_name         | Madison
+employer_poc_email             | melanie.madison@cai.io
+employer_poc_phone             | 16105305202
+employer_poc_phone_ext         | 
+worksite_address1              | 252 Chapman Road
+worksite_address2              | 
+worksite_city                  | Newark
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | Meltzer Hellrung LLC
+employer_address1              | 1390 Ridgeview Dr
+employer_address2              | Suite 300
+employer_city                  | Allentown
+employer_state                 | PA
+employer_postal_code           | 18104
+begin_date                     | 2024-12-02
+end_date                       | 2027-12-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Computer Aid Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 61 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24123-949221
 job_title                      | Sr. Architect
 employer_name                  | Computer Aid Inc
@@ -1681,7 +2011,7 @@ amended_petition               | 0
 employer_name                  | Computer Aid Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 52 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 62 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24285-401900
 job_title                      | Teacher - Spanish Immersion/Early Childhood
 employer_name                  | State of Delaware
@@ -1714,40 +2044,73 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2021
 h_1b_dependent                 | No
--[ RECORD 53 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-24278-387305
-job_title                      | Pega Developer
-employer_name                  | Etekserve Inc
-secondary_entity_business_name | Department PA of Human Services
-employer_phone                 | 13024974301
-employer_poc_first_name        | Sruthi Mounika
-employer_poc_last_name         | Penmetsa
-employer_poc_email             | hr@etekserve.com
-employer_poc_phone             | 13024974301
+-[ RECORD 63 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24285-401900
+job_title                      | Teacher - Spanish Immersion/Early Childhood
+employer_name                  | State of Delaware
+secondary_entity_business_name | 
+employer_phone                 | 13023232712
+employer_poc_first_name        | Holly
+employer_poc_last_name         | Sage
+employer_poc_email             | holly.sage@colonial.k12.de.us
+employer_poc_phone             | 13023232712
 employer_poc_phone_ext         | 
-worksite_address1              | 608 Vessel Dr
+worksite_address1              | 16 Pleasant Place
 worksite_address2              | 
-worksite_city                  | Middletown
+worksite_city                  | New Castle
 worksite_county                | NEW CASTLE
-lawfirm_name_business_name     | 
-employer_address1              | 100 Biddle Avenue
+lawfirm_name_business_name     | Cozen OConnor
+employer_address1              | 318 E Basin Road
 employer_address2              | 
-employer_city                  | Newark
+employer_city                  | New Castle
 employer_state                 | DE
-employer_postal_code           | 19702
-begin_date                     | 2024-10-04
-end_date                       | 2027-10-03
+employer_postal_code           | 19720
+begin_date                     | 2024-10-11
+end_date                       | 2027-10-10
 total_worker_positions         | 1
-new_employment                 | 0
+new_employment                 | 1
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 1
-employer_name                  | Etekserve Inc
-soc_code                       | 15-1252
+amended_petition               | 0
+employer_name                  | State of Delaware
+soc_code                       | 25-2021.00
 h_1b_dependent                 | No
--[ RECORD 54 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 64 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24285-401900
+job_title                      | Teacher - Spanish Immersion/Early Childhood
+employer_name                  | State of Delaware
+secondary_entity_business_name | 
+employer_phone                 | 13023232712
+employer_poc_first_name        | Holly
+employer_poc_last_name         | Sage
+employer_poc_email             | holly.sage@colonial.k12.de.us
+employer_poc_phone             | 13023232712
+employer_poc_phone_ext         | 
+worksite_address1              | 16 Pleasant Place
+worksite_address2              | 
+worksite_city                  | New Castle
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | Cozen OConnor
+employer_address1              | 318 E Basin Road
+employer_address2              | 
+employer_city                  | New Castle
+employer_state                 | DE
+employer_postal_code           | 19720
+begin_date                     | 2024-10-11
+end_date                       | 2027-10-10
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | State of Delaware
+soc_code                       | 25-2021.00
+h_1b_dependent                 | No
+-[ RECORD 65 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24278-387477
 job_title                      | Pega Developer
 employer_name                  | Etekserve Inc
@@ -1780,29 +2143,29 @@ amended_petition               | 1
 employer_name                  | Etekserve Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 55 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-24108-896635
-job_title                      | Software Developers
-employer_name                  | ICloud Technologies Corp.
-secondary_entity_business_name | Delaware Department of Transportation
-employer_phone                 | 15714411147
-employer_poc_first_name        | Krishna
-employer_poc_last_name         | Bandarla
-employer_poc_email             | HR@ICTCRP.COM
-employer_poc_phone             | 15714411147
+-[ RECORD 66 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24278-387305
+job_title                      | Pega Developer
+employer_name                  | Etekserve Inc
+secondary_entity_business_name | Department PA of Human Services
+employer_phone                 | 13024974301
+employer_poc_first_name        | Sruthi Mounika
+employer_poc_last_name         | Penmetsa
+employer_poc_email             | hr@etekserve.com
+employer_poc_phone             | 13024974301
 employer_poc_phone_ext         | 
-worksite_address1              | 800 S Bay Road
+worksite_address1              | 608 Vessel Dr
 worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | KENT
-lawfirm_name_business_name     | Chugh LLP
-employer_address1              | 100 Executive Dr
-employer_address2              | Unit D
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20166
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
+worksite_city                  | Middletown
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | 
+employer_address1              | 100 Biddle Avenue
+employer_address2              | 
+employer_city                  | Newark
+employer_state                 | DE
+employer_postal_code           | 19702
+begin_date                     | 2024-10-04
+end_date                       | 2027-10-03
 total_worker_positions         | 1
 new_employment                 | 0
 continued_employment           | 0
@@ -1810,43 +2173,142 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
-employer_name                  | ICloud Technologies Corp.
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 56 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-24150-049305
-job_title                      | Security Operations Center Analyst
-employer_name                  | Progressive Software Computing Inc
-secondary_entity_business_name | State of Delaware
-employer_phone                 | 13024799700
-employer_poc_first_name        | Kenneth
-employer_poc_last_name         | Hoffmann
-employer_poc_email             | khoffmann@psci.com
-employer_poc_phone             | 13028831429
+employer_name                  | Etekserve Inc
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 67 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24278-387305
+job_title                      | Pega Developer
+employer_name                  | Etekserve Inc
+secondary_entity_business_name | Department PA of Human Services
+employer_phone                 | 13024974301
+employer_poc_first_name        | Sruthi Mounika
+employer_poc_last_name         | Penmetsa
+employer_poc_email             | hr@etekserve.com
+employer_poc_phone             | 13024974301
 employer_poc_phone_ext         | 
-worksite_address1              | 801 Silver Lake Boulevard
+worksite_address1              | 608 Vessel Dr
 worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | KENT
-lawfirm_name_business_name     | Corpuz Esq LLC
-employer_address1              | Two Righter Parkway
-employer_address2              | Suite 110
-employer_city                  | Wilmington
+worksite_city                  | Middletown
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | 
+employer_address1              | 100 Biddle Avenue
+employer_address2              | 
+employer_city                  | Newark
 employer_state                 | DE
-employer_postal_code           | 19803
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
+employer_postal_code           | 19702
+begin_date                     | 2024-10-04
+end_date                       | 2027-10-03
 total_worker_positions         | 1
-new_employment                 | 1
+new_employment                 | 0
 continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
-amended_petition               | 0
-employer_name                  | Progressive Software Computing Inc
-soc_code                       | 15-1212.00
+amended_petition               | 1
+employer_name                  | Etekserve Inc
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 57 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 68 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24278-387305
+job_title                      | Pega Developer
+employer_name                  | Etekserve Inc
+secondary_entity_business_name | Department PA of Human Services
+employer_phone                 | 13024974301
+employer_poc_first_name        | Sruthi Mounika
+employer_poc_last_name         | Penmetsa
+employer_poc_email             | hr@etekserve.com
+employer_poc_phone             | 13024974301
+employer_poc_phone_ext         | 
+worksite_address1              | 608 Vessel Dr
+worksite_address2              | 
+worksite_city                  | Middletown
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | 
+employer_address1              | 100 Biddle Avenue
+employer_address2              | 
+employer_city                  | Newark
+employer_state                 | DE
+employer_postal_code           | 19702
+begin_date                     | 2024-10-04
+end_date                       | 2027-10-03
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Etekserve Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 69 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24278-387477
+job_title                      | Pega Developer
+employer_name                  | Etekserve Inc
+secondary_entity_business_name | Department PA of Human Services
+employer_phone                 | 13024974301
+employer_poc_first_name        | Sruthi Mounika
+employer_poc_last_name         | Penmetsa
+employer_poc_email             | hr@etekserve.com
+employer_poc_phone             | 13024974301
+employer_poc_phone_ext         | 
+worksite_address1              | 608 Vessel Dr
+worksite_address2              | 
+worksite_city                  | Middletown
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | 
+employer_address1              | 100 Biddle Avenue
+employer_address2              | 
+employer_city                  | Newark
+employer_state                 | DE
+employer_postal_code           | 19702
+begin_date                     | 2024-10-04
+end_date                       | 2027-10-03
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Etekserve Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 70 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24278-387477
+job_title                      | Pega Developer
+employer_name                  | Etekserve Inc
+secondary_entity_business_name | Department PA of Human Services
+employer_phone                 | 13024974301
+employer_poc_first_name        | Sruthi Mounika
+employer_poc_last_name         | Penmetsa
+employer_poc_email             | hr@etekserve.com
+employer_poc_phone             | 13024974301
+employer_poc_phone_ext         | 
+worksite_address1              | 608 Vessel Dr
+worksite_address2              | 
+worksite_city                  | Middletown
+worksite_county                | NEW CASTLE
+lawfirm_name_business_name     | 
+employer_address1              | 100 Biddle Avenue
+employer_address2              | 
+employer_city                  | Newark
+employer_state                 | DE
+employer_postal_code           | 19702
+begin_date                     | 2024-10-04
+end_date                       | 2027-10-03
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Etekserve Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 71 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24171-127333
 job_title                      | Software Developer
 employer_name                  | VSION TECHNOLOGIES INC
@@ -1879,7 +2341,40 @@ amended_petition               | 0
 employer_name                  | VSION TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 58 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 72 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24108-896635
+job_title                      | Software Developers
+employer_name                  | ICloud Technologies Corp.
+secondary_entity_business_name | Delaware Department of Transportation
+employer_phone                 | 15714411147
+employer_poc_first_name        | Krishna
+employer_poc_last_name         | Bandarla
+employer_poc_email             | HR@ICTCRP.COM
+employer_poc_phone             | 15714411147
+employer_poc_phone_ext         | 
+worksite_address1              | 800 S Bay Road
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | Chugh LLP
+employer_address1              | 100 Executive Dr
+employer_address2              | Unit D
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20166
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | ICloud Technologies Corp.
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 73 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24123-951178
 job_title                      | Jr. Systems Analyst
 employer_name                  | CNT Infotech Corporation
@@ -1912,7 +2407,40 @@ amended_petition               | 0
 employer_name                  | CNT Infotech Corporation
 soc_code                       | 15-1251.00
 h_1b_dependent                 | No
--[ RECORD 59 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 74 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24150-049305
+job_title                      | Security Operations Center Analyst
+employer_name                  | Progressive Software Computing Inc
+secondary_entity_business_name | State of Delaware
+employer_phone                 | 13024799700
+employer_poc_first_name        | Kenneth
+employer_poc_last_name         | Hoffmann
+employer_poc_email             | khoffmann@psci.com
+employer_poc_phone             | 13028831429
+employer_poc_phone_ext         | 
+worksite_address1              | 801 Silver Lake Boulevard
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | Corpuz Esq LLC
+employer_address1              | Two Righter Parkway
+employer_address2              | Suite 110
+employer_city                  | Wilmington
+employer_state                 | DE
+employer_postal_code           | 19803
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Progressive Software Computing Inc
+soc_code                       | 15-1212.00
+h_1b_dependent                 | No
+-[ RECORD 75 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24107-892487
 job_title                      | SENIOR NETWORK ENGINEER
 employer_name                  | NESTOR TECHNOLOGIES INC
@@ -1945,7 +2473,106 @@ amended_petition               | 0
 employer_name                  | NESTOR TECHNOLOGIES INC
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
--[ RECORD 60 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 76 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24274-375145
+job_title                      | Full stack developer
+employer_name                  | Busitants Incorporated
+secondary_entity_business_name | State of Delaware, Department of Transportation, Division of Motor Vehicle
+employer_phone                 | 14012832008
+employer_poc_first_name        | Krishna
+employer_poc_last_name         | Thapa
+employer_poc_email             | krishna@busitants.com
+employer_poc_phone             | 14012832008
+employer_poc_phone_ext         | 
+worksite_address1              | 800 S. Bay Rd, Administration Building
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 10 Dorrance St
+employer_address2              | Ste 700
+employer_city                  | Providence
+employer_state                 | RI
+employer_postal_code           | 02903
+begin_date                     | 2024-09-30
+end_date                       | 2027-09-29
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Busitants Incorporated
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 77 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24271-371963
+job_title                      | Full Stack Developer
+employer_name                  | Busitants Incorporated
+secondary_entity_business_name | State of Delaware, Department of Transportation, Division of Motor Vehicle
+employer_phone                 | 14016280461
+employer_poc_first_name        | Krishna
+employer_poc_last_name         | Thapa
+employer_poc_email             | krishna@busitants.com
+employer_poc_phone             | 14016280461
+employer_poc_phone_ext         | 
+worksite_address1              | 800 S. Bay Rd, Administration Building
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | 
+employer_address1              | 10 Dorrance St
+employer_address2              | Suite 700
+employer_city                  | Providence
+employer_state                 | RI
+employer_postal_code           | 02903
+begin_date                     | 2024-09-30
+end_date                       | 2027-09-29
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Busitants Incorporated
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 78 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24271-371963
+job_title                      | Full Stack Developer
+employer_name                  | Busitants Incorporated
+secondary_entity_business_name | State of Delaware, Department of Transportation, Division of Motor Vehicle
+employer_phone                 | 14016280461
+employer_poc_first_name        | Krishna
+employer_poc_last_name         | Thapa
+employer_poc_email             | krishna@busitants.com
+employer_poc_phone             | 14016280461
+employer_poc_phone_ext         | 
+worksite_address1              | 800 S. Bay Rd, Administration Building
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | 
+employer_address1              | 10 Dorrance St
+employer_address2              | Suite 700
+employer_city                  | Providence
+employer_state                 | RI
+employer_postal_code           | 02903
+begin_date                     | 2024-09-30
+end_date                       | 2027-09-29
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Busitants Incorporated
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 79 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24274-375145
 job_title                      | Full stack developer
 employer_name                  | Busitants Incorporated
@@ -1978,7 +2605,40 @@ amended_petition               | 0
 employer_name                  | Busitants Incorporated
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 61 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 80 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24274-375145
+job_title                      | Full stack developer
+employer_name                  | Busitants Incorporated
+secondary_entity_business_name | State of Delaware, Department of Transportation, Division of Motor Vehicle
+employer_phone                 | 14012832008
+employer_poc_first_name        | Krishna
+employer_poc_last_name         | Thapa
+employer_poc_email             | krishna@busitants.com
+employer_poc_phone             | 14012832008
+employer_poc_phone_ext         | 
+worksite_address1              | 800 S. Bay Rd, Administration Building
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | Law Offices of Mary Kennedy LLC
+employer_address1              | 10 Dorrance St
+employer_address2              | Ste 700
+employer_city                  | Providence
+employer_state                 | RI
+employer_postal_code           | 02903
+begin_date                     | 2024-09-30
+end_date                       | 2027-09-29
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Busitants Incorporated
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 81 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24271-371963
 job_title                      | Full Stack Developer
 employer_name                  | Busitants Incorporated
@@ -2011,7 +2671,7 @@ amended_petition               | 0
 employer_name                  | Busitants Incorporated
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 62 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 82 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24262-347339
 job_title                      | Elementary Teacher
 employer_name                  | State of Delaware
@@ -2044,7 +2704,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2021.00
 h_1b_dependent                 | No
--[ RECORD 63 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 83 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24241-299336
 job_title                      | Sr. Business Analyst
 employer_name                  | TECHGROUP AMERICA INC
@@ -2077,7 +2737,7 @@ amended_petition               | 0
 employer_name                  | TECHGROUP AMERICA INC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 64 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 84 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24094-851360
 job_title                      | Software Developer
 employer_name                  | EZ Solutions Inc
@@ -2110,7 +2770,7 @@ amended_petition               | 0
 employer_name                  | EZ Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 65 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 85 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24211-228862
 job_title                      | IT ANALYST
 employer_name                  | TEKSTROM INC
@@ -2143,40 +2803,7 @@ amended_petition               | 1
 employer_name                  | TEKSTROM INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 66 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-24170-123788
-job_title                      | Postdoctoral Research Associate - MEA Electrophysiologist
-employer_name                  | Delaware State University
-secondary_entity_business_name | 
-employer_phone                 | 13028576261
-employer_poc_first_name        | Irene
-employer_poc_last_name         | Hawkins
-employer_poc_email             | ihawkins@desu.edu
-employer_poc_phone             | 13028576261
-employer_poc_phone_ext         | 
-worksite_address1              | 1200 N Dupont Highway
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | KENT
-lawfirm_name_business_name     | Green & Spiegel LLC
-employer_address1              | 1200 North Dupont Highway
-employer_address2              | 
-employer_city                  | Dover
-employer_state                 | DE
-employer_postal_code           | 19901
-begin_date                     | 2024-08-01
-end_date                       | 2027-07-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Delaware State University
-soc_code                       | 19-1029.04
-h_1b_dependent                 | No
--[ RECORD 67 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 86 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24039-704154
 job_title                      | Software Developer
 employer_name                  | Icore Infotech Inc
@@ -2209,7 +2836,40 @@ amended_petition               | 0
 employer_name                  | Icore Infotech Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 68 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 87 ]-----------------+---------------------------------------------------------------------------
+case_number                    | I-200-24170-123788
+job_title                      | Postdoctoral Research Associate - MEA Electrophysiologist
+employer_name                  | Delaware State University
+secondary_entity_business_name | 
+employer_phone                 | 13028576261
+employer_poc_first_name        | Irene
+employer_poc_last_name         | Hawkins
+employer_poc_email             | ihawkins@desu.edu
+employer_poc_phone             | 13028576261
+employer_poc_phone_ext         | 
+worksite_address1              | 1200 N Dupont Highway
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | Green & Spiegel LLC
+employer_address1              | 1200 North Dupont Highway
+employer_address2              | 
+employer_city                  | Dover
+employer_state                 | DE
+employer_postal_code           | 19901
+begin_date                     | 2024-08-01
+end_date                       | 2027-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Delaware State University
+soc_code                       | 19-1029.04
+h_1b_dependent                 | No
+-[ RECORD 88 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24177-146404
 job_title                      | Elementary Teacher
 employer_name                  | State of Delaware
@@ -2242,7 +2902,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2021.00
 h_1b_dependent                 | No
--[ RECORD 69 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 89 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24178-151292
 job_title                      | Sr. Programmer Analyst
 employer_name                  | CNT Infotech Corporation
@@ -2275,7 +2935,7 @@ amended_petition               | 0
 employer_name                  | CNT Infotech Corporation
 soc_code                       | 15-1251.00
 h_1b_dependent                 | No
--[ RECORD 70 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 90 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24074-799968
 job_title                      | Programmer/Data Analyst
 employer_name                  | Delaware State University
@@ -2308,7 +2968,7 @@ amended_petition               | 0
 employer_name                  | Delaware State University
 soc_code                       | 15-1242.00
 h_1b_dependent                 | No
--[ RECORD 71 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 91 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24165-108156
 job_title                      | Elementary Teacher
 employer_name                  | State of Delaware
@@ -2341,7 +3001,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2021.00
 h_1b_dependent                 | No
--[ RECORD 72 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 92 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24121-939757
 job_title                      | Sr. Software Developer
 employer_name                  | Computer Aid Inc
@@ -2374,7 +3034,7 @@ amended_petition               | 0
 employer_name                  | Computer Aid Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 73 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 93 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24096-859293
 job_title                      | Head Womens Soccer Coach
 employer_name                  | Delaware State University
@@ -2407,7 +3067,7 @@ amended_petition               | 0
 employer_name                  | Delaware State University
 soc_code                       | 27-2022.00
 h_1b_dependent                 | No
--[ RECORD 74 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 94 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24102-878451
 job_title                      | DelDOT Android Developer
 employer_name                  | V-Soft Consulting Group INC
@@ -2440,7 +3100,7 @@ amended_petition               | 0
 employer_name                  | V-Soft Consulting Group INC
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
--[ RECORD 75 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 95 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24094-851041
 job_title                      | Database Administrator
 employer_name                  | Infomerica Inc
@@ -2473,7 +3133,7 @@ amended_petition               | 1
 employer_name                  | Infomerica Inc
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 76 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 96 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24081-820968
 job_title                      | Programmer/Data Analyst
 employer_name                  | Delaware State University
@@ -2506,40 +3166,7 @@ amended_petition               | 1
 employer_name                  | Delaware State University
 soc_code                       | 15-1242.00
 h_1b_dependent                 | No
--[ RECORD 77 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-24081-820968
-job_title                      | Programmer/Data Analyst
-employer_name                  | Delaware State University
-secondary_entity_business_name | 
-employer_phone                 | 13028576261
-employer_poc_first_name        | Irene
-employer_poc_last_name         | Hawkins
-employer_poc_email             | ihawkins@desu.edu
-employer_poc_phone             | 13028576261
-employer_poc_phone_ext         | 
-worksite_address1              | 1200 North Dupont Highway
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | KENT
-lawfirm_name_business_name     | Green & Spiegel LLC
-employer_address1              | 1200 North Dupont Highway
-employer_address2              | 
-employer_city                  | Dover
-employer_state                 | DE
-employer_postal_code           | 19901
-begin_date                     | 2024-04-01
-end_date                       | 2027-03-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Delaware State University
-soc_code                       | 15-1242.00
-h_1b_dependent                 | No
--[ RECORD 78 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 97 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23332-527027
 job_title                      | Software Engineer
 employer_name                  | AffluentTEK LLC
@@ -2572,7 +3199,7 @@ amended_petition               | 0
 employer_name                  | AffluentTEK LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 79 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 98 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24050-729348
 job_title                      | .NET/ArcGIS Developer
 employer_name                  | Adven Technologies Inc
@@ -2605,7 +3232,7 @@ amended_petition               | 0
 employer_name                  | Adven Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 80 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 99 ]-----------------+---------------------------------------------------------------------------
 case_number                    | I-200-24015-641174
 job_title                      | Sr. Programmer Analyst
 employer_name                  | CNT Infotech Corporation
@@ -2638,7 +3265,7 @@ amended_petition               | 0
 employer_name                  | CNT Infotech Corporation
 soc_code                       | 15-1251.00
 h_1b_dependent                 | No
--[ RECORD 81 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 100 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23219-243768
 job_title                      | TFS ADMINISTRATOR
 employer_name                  | USM Business Sytems Inc
@@ -2671,7 +3298,7 @@ amended_petition               | 0
 employer_name                  | USM Business Sytems Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 82 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 101 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23362-597280
 job_title                      | Jr. Systems Analyst
 employer_name                  | CNT Infotech Corporation
@@ -2704,7 +3331,7 @@ amended_petition               | 0
 employer_name                  | CNT Infotech Corporation
 soc_code                       | 15-1251.00
 h_1b_dependent                 | No
--[ RECORD 83 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 102 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23349-569568
 job_title                      | Product Manager
 employer_name                  | Computer Aid Inc
@@ -2737,7 +3364,7 @@ amended_petition               | 0
 employer_name                  | Computer Aid Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 84 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 103 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23345-558507
 job_title                      | Software Engineer
 employer_name                  | AffluentTEK LLC
@@ -2770,7 +3397,7 @@ amended_petition               | 0
 employer_name                  | AffluentTEK LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 85 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 104 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23338-542667
 job_title                      | Program Manager
 employer_name                  | Computer Aid Inc
@@ -2803,7 +3430,7 @@ amended_petition               | 0
 employer_name                  | Computer Aid Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 86 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 105 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23341-552182
 job_title                      | Software Developer
 employer_name                  | Fortisview LLC
@@ -2836,7 +3463,7 @@ amended_petition               | 0
 employer_name                  | Fortisview LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 87 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 106 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23313-490096
 job_title                      | Assistant Professor Extension Specialist - Poultry Science
 employer_name                  | Delaware State University
@@ -2869,7 +3496,7 @@ amended_petition               | 0
 employer_name                  | Delaware State University
 soc_code                       | 25-1041.00
 h_1b_dependent                 | No
--[ RECORD 88 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 107 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23195-191106
 job_title                      | Software Developer
 employer_name                  | Superior Information Technologies LLC
@@ -2902,73 +3529,7 @@ amended_petition               | 0
 employer_name                  | Superior Information Technologies LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 89 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-23180-154465
-job_title                      | Post-Doctoral Associate
-employer_name                  | Delaware State University
-secondary_entity_business_name | 
-employer_phone                 | 13028576261
-employer_poc_first_name        | Irene
-employer_poc_last_name         | Hawkins
-employer_poc_email             | ihawkins@desu.edu
-employer_poc_phone             | 13028576261
-employer_poc_phone_ext         | 
-worksite_address1              | 1200 North Dupont Highway
-worksite_address2              | 
-worksite_city                  | Dover
-worksite_county                | KENT
-lawfirm_name_business_name     | Green & Spiegel LLC
-employer_address1              | 1200 North Dupont Highway
-employer_address2              | 
-employer_city                  | Dover
-employer_state                 | DE
-employer_postal_code           | 19901
-begin_date                     | 2023-09-01
-end_date                       | 2026-08-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Delaware State University
-soc_code                       | 19-1029.02
-h_1b_dependent                 | No
--[ RECORD 90 ]-----------------+---------------------------------------------------------------------------
-case_number                    | I-200-23082-872080
-job_title                      | NETWORK ENGINEER
-employer_name                  | INTELI PLATFORMS INC
-secondary_entity_business_name | STATE OF DELAWARE, DEPARTMENT OF CORRECTION
-employer_phone                 | 19083045935
-employer_poc_first_name        | VENKAT
-employer_poc_last_name         | DHANIYALA
-employer_poc_email             | VENKY@INTELIPLATFORMS.COM
-employer_poc_phone             | 19083045935
-employer_poc_phone_ext         | 
-worksite_address1              | 245 MCKEE ROAD
-worksite_address2              | 
-worksite_city                  | DOVER
-worksite_county                | KENT
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 196 PRINCETON HIGHTSTOWN ROAD
-employer_address2              | BLDG. 1B, SUITE 5
-employer_city                  | WEST WINDSOR TOWNSHIP
-employer_state                 | NJ
-employer_postal_code           | 08550
-begin_date                     | 2023-08-31
-end_date                       | 2026-08-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | INTELI PLATFORMS INC
-soc_code                       | 15-1244.00
-h_1b_dependent                 | Yes
--[ RECORD 91 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 108 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23151-064522
 job_title                      | Post-Doctoral Associate
 employer_name                  | Delaware State University
@@ -3001,7 +3562,73 @@ amended_petition               | 0
 employer_name                  | Delaware State University
 soc_code                       | 19-1029.02
 h_1b_dependent                 | No
--[ RECORD 92 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 109 ]----------------+---------------------------------------------------------------------------
+case_number                    | I-200-23082-872080
+job_title                      | NETWORK ENGINEER
+employer_name                  | INTELI PLATFORMS INC
+secondary_entity_business_name | STATE OF DELAWARE, DEPARTMENT OF CORRECTION
+employer_phone                 | 19083045935
+employer_poc_first_name        | VENKAT
+employer_poc_last_name         | DHANIYALA
+employer_poc_email             | VENKY@INTELIPLATFORMS.COM
+employer_poc_phone             | 19083045935
+employer_poc_phone_ext         | 
+worksite_address1              | 245 MCKEE ROAD
+worksite_address2              | 
+worksite_city                  | DOVER
+worksite_county                | KENT
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 196 PRINCETON HIGHTSTOWN ROAD
+employer_address2              | BLDG. 1B, SUITE 5
+employer_city                  | WEST WINDSOR TOWNSHIP
+employer_state                 | NJ
+employer_postal_code           | 08550
+begin_date                     | 2023-08-31
+end_date                       | 2026-08-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | INTELI PLATFORMS INC
+soc_code                       | 15-1244.00
+h_1b_dependent                 | Yes
+-[ RECORD 110 ]----------------+---------------------------------------------------------------------------
+case_number                    | I-200-23180-154465
+job_title                      | Post-Doctoral Associate
+employer_name                  | Delaware State University
+secondary_entity_business_name | 
+employer_phone                 | 13028576261
+employer_poc_first_name        | Irene
+employer_poc_last_name         | Hawkins
+employer_poc_email             | ihawkins@desu.edu
+employer_poc_phone             | 13028576261
+employer_poc_phone_ext         | 
+worksite_address1              | 1200 North Dupont Highway
+worksite_address2              | 
+worksite_city                  | Dover
+worksite_county                | KENT
+lawfirm_name_business_name     | Green & Spiegel LLC
+employer_address1              | 1200 North Dupont Highway
+employer_address2              | 
+employer_city                  | Dover
+employer_state                 | DE
+employer_postal_code           | 19901
+begin_date                     | 2023-09-01
+end_date                       | 2026-08-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Delaware State University
+soc_code                       | 19-1029.02
+h_1b_dependent                 | No
+-[ RECORD 111 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23229-272454
 job_title                      | Chinese Immersion – Social Studies Teacher
 employer_name                  | State of Delaware
@@ -3034,7 +3661,7 @@ amended_petition               | 0
 employer_name                  | State of Delaware
 soc_code                       | 25-2022.00
 h_1b_dependent                 | No
--[ RECORD 93 ]-----------------+---------------------------------------------------------------------------
+-[ RECORD 112 ]----------------+---------------------------------------------------------------------------
 case_number                    | I-200-23156-077150
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | MANJU SOFTWARE SOLUTIONS INC

@@ -1,136 +1,4 @@
 -[ RECORD 1 ]------------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25337-452893
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | SOFTTUNE TECHNOLOGIES INC
-secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION
-employer_phone                 | 13093244477
-employer_poc_first_name        | MANOJ
-employer_poc_last_name         | CHIRUMANILLA
-employer_poc_email             | Hr@softtunetech.com
-employer_poc_phone             | 13093244477
-employer_poc_phone_ext         | 
-worksite_address1              | 6610 ULLOM DR
-worksite_address2              | 
-worksite_city                  | LAS VEGAS
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 650 E DEVON AVE
-employer_address2              | SUITE 155
-employer_city                  | ITASCA
-employer_state                 | IL
-employer_postal_code           | 60143
-begin_date                     | 2026-05-21
-end_date                       | 2029-05-20
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SOFTTUNE TECHNOLOGIES INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 2 ]------------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25345-476928
-job_title                      | IT Professional 2
-employer_name                  | Nevada Department of Employment, Training and Rehabilitation
-secondary_entity_business_name | 
-employer_phone                 | 17756849620
-employer_poc_first_name        | Frank
-employer_poc_last_name         | Stanfield
-employer_poc_email             | nvdetr-uscis@detr.nv.gov
-employer_poc_phone             | 17756849620
-employer_poc_phone_ext         | 
-worksite_address1              | 1370 South Curry Street
-worksite_address2              | 
-worksite_city                  | Carson City
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 500 E Third Street
-employer_address2              | 
-employer_city                  | Carson City
-employer_state                 | NV
-employer_postal_code           | 89713
-begin_date                     | 2026-01-20
-end_date                       | 2029-01-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Nevada Department of Employment, Training and Rehabilitation
-soc_code                       | 15-1251.00
-h_1b_dependent                 | No
--[ RECORD 3 ]------------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25325-427494
-job_title                      | Software Developer
-employer_name                  | CGI Technologies and Solutions Inc
-secondary_entity_business_name | State of Nevada
-employer_phone                 | 17032678000
-employer_poc_first_name        | Tamara
-employer_poc_last_name         | Grant
-employer_poc_email             | tamara.grant@cgi.com
-employer_poc_phone             | 12032126527
-employer_poc_phone_ext         | 
-worksite_address1              | 3850 Arrowhead Dr
-worksite_address2              | 
-worksite_city                  | Nevada
-worksite_county                | 
-lawfirm_name_business_name     | EY Law LLP
-employer_address1              | 11325 Random Hills Road
-employer_address2              | 
-employer_city                  | Fairfax
-employer_state                 | VA
-employer_postal_code           | 22030
-begin_date                     | 2025-12-04
-end_date                       | 2028-12-03
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | CGI Technologies and Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 4 ]------------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25316-399457
-job_title                      | Software Developer
-employer_name                  | CGI Technologies and Solutions Inc
-secondary_entity_business_name | State of Nevada
-employer_phone                 | 17032678000
-employer_poc_first_name        | Tamara
-employer_poc_last_name         | Grant
-employer_poc_email             | tamara.grant@cgi.com
-employer_poc_phone             | 12032126527
-employer_poc_phone_ext         | 
-worksite_address1              | 3850 Arrowhead Dr
-worksite_address2              | 
-worksite_city                  | Carson City
-worksite_county                | 
-lawfirm_name_business_name     | EY Law LLP
-employer_address1              | 11325 Random Hills Road
-employer_address2              | 
-employer_city                  | Fairfax
-employer_state                 | VA
-employer_postal_code           | 22030
-begin_date                     | 2025-11-20
-end_date                       | 2028-11-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | CGI Technologies and Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 5 ]------------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25155-053095
 job_title                      | Software Engineer
 employer_name                  | KBTS Technologies Inc
@@ -163,40 +31,7 @@ amended_petition               | 0
 employer_name                  | KBTS Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 6 ]------------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25106-870493
-job_title                      | BUSINESS PROCESS ANALYST
-employer_name                  | TECH SMART SOLUTIONS LLC
-secondary_entity_business_name | Nevada Department of Transportation
-employer_phone                 | 15512270336
-employer_poc_first_name        | VIKRAM
-employer_poc_last_name         | ODEDARA
-employer_poc_email             | ITEAM@TSSUS.NET
-employer_poc_phone             | 15512270336
-employer_poc_phone_ext         | 
-worksite_address1              | 1263 S Stewart St,
-worksite_address2              | 
-worksite_city                  | Carson
-worksite_county                | WASHOE
-lawfirm_name_business_name     | 
-employer_address1              | 190 ROUTE 27 SUITE 107
-employer_address2              | 
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08820
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | TECH SMART SOLUTIONS LLC
-soc_code                       | 15-2051.01
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 2 ]------------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25106-872556
 job_title                      | BUSINESS ANALYST 3
 employer_name                  | TECH SMART SOLUTIONS LLC
@@ -229,7 +64,40 @@ amended_petition               | 0
 employer_name                  | TECH SMART SOLUTIONS LLC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 3 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25106-870493
+job_title                      | BUSINESS PROCESS ANALYST
+employer_name                  | TECH SMART SOLUTIONS LLC
+secondary_entity_business_name | Nevada Department of Transportation
+employer_phone                 | 15512270336
+employer_poc_first_name        | VIKRAM
+employer_poc_last_name         | ODEDARA
+employer_poc_email             | ITEAM@TSSUS.NET
+employer_poc_phone             | 15512270336
+employer_poc_phone_ext         | 
+worksite_address1              | 1263 S Stewart St,
+worksite_address2              | 
+worksite_city                  | Carson
+worksite_county                | WASHOE
+lawfirm_name_business_name     | 
+employer_address1              | 190 ROUTE 27 SUITE 107
+employer_address2              | 
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08820
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | TECH SMART SOLUTIONS LLC
+soc_code                       | 15-2051.01
+h_1b_dependent                 | Yes
+-[ RECORD 4 ]------------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25258-308492
 job_title                      | Management Analyst
 employer_name                  | MAVEN COMPANIES INC
@@ -262,7 +130,7 @@ amended_petition               | 1
 employer_name                  | MAVEN COMPANIES INC
 soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 5 ]------------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25219-227897
 job_title                      | Administrative Assistant 3
 employer_name                  | State of Nevada
@@ -295,7 +163,7 @@ amended_petition               | 0
 employer_name                  | State of Nevada
 soc_code                       | 43-6014.00
 h_1b_dependent                 | No
--[ RECORD 10 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 6 ]------------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25218-224785
 job_title                      | Administrative Assistant 3
 employer_name                  | State of Nevada
@@ -328,7 +196,7 @@ amended_petition               | 0
 employer_name                  | State of Nevada
 soc_code                       | 43-6014.00
 h_1b_dependent                 | No
--[ RECORD 11 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 7 ]------------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25203-192986
 job_title                      | PROJECT MANAGER
 employer_name                  | MAVIN TECHNOLOGIES INC
@@ -361,7 +229,40 @@ amended_petition               | 1
 employer_name                  | MAVIN TECHNOLOGIES INC
 soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 8 ]------------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25003-592311
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | PREMIER IT SOLUTIONS LLC
+secondary_entity_business_name | NEVADA DEPARTMENT OF EMPLOYMENT, TRAINING & REHABILITATION
+employer_phone                 | 19722314747
+employer_poc_first_name        | KRUTIKA
+employer_poc_last_name         | AMIN
+employer_poc_email             | HR@PREMIERITSOLUTIONS.COM
+employer_poc_phone             | 19722314747
+employer_poc_phone_ext         | 301
+worksite_address1              | 1370 S CURRY ST
+worksite_address2              | 
+worksite_city                  | CARSON CITY
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 801 E CAMPBELL ROAD
+employer_address2              | SUITE 270
+employer_city                  | RICHARDSON
+employer_state                 | TX
+employer_postal_code           | 75081
+begin_date                     | 2025-07-01
+end_date                       | 2028-06-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PREMIER IT SOLUTIONS LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 9 ]------------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25003-592311
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | PREMIER IT SOLUTIONS LLC
@@ -394,7 +295,7 @@ amended_petition               | 0
 employer_name                  | PREMIER IT SOLUTIONS LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 10 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-202-25094-834215
 job_title                      | Technical Architect
 employer_name                  | Novalink Solutions LLC
@@ -427,7 +328,7 @@ amended_petition               | 0
 employer_name                  | Novalink Solutions LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | N/A
--[ RECORD 14 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 11 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-202-25094-834261
 job_title                      | Technical Architect
 employer_name                  | Novalink Solutions LLC
@@ -460,7 +361,7 @@ amended_petition               | 0
 employer_name                  | Novalink Solutions LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | N/A
--[ RECORD 15 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 12 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25126-944462
 job_title                      | Software Engineer
 employer_name                  | Ness USA Inc
@@ -493,7 +394,7 @@ amended_petition               | 1
 employer_name                  | Ness USA Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 16 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 13 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24344-527110
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | SOFTTUNE TECHNOLOGIES INC
@@ -526,7 +427,139 @@ amended_petition               | 0
 employer_name                  | SOFTTUNE TECHNOLOGIES INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24344-527110
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | SOFTTUNE TECHNOLOGIES INC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION
+employer_phone                 | 13093244477
+employer_poc_first_name        | PRATHYUSHA
+employer_poc_last_name         | VALLURU
+employer_poc_email             | Hr@softtunetech.com
+employer_poc_phone             | 13093244477
+employer_poc_phone_ext         | 
+worksite_address1              | 6610 ULLOM DR
+worksite_address2              | 
+worksite_city                  | LAS VEGAS
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 650 E DEVON AVE
+employer_address2              | SUITE 155
+employer_city                  | ITASCA
+employer_state                 | IL
+employer_postal_code           | 60143
+begin_date                     | 2025-02-24
+end_date                       | 2028-02-23
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SOFTTUNE TECHNOLOGIES INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 15 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24344-527110
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | SOFTTUNE TECHNOLOGIES INC
+secondary_entity_business_name | NEVADA DEPARTMENT OF TRANSPORTATION
+employer_phone                 | 13093244477
+employer_poc_first_name        | PRATHYUSHA
+employer_poc_last_name         | VALLURU
+employer_poc_email             | Hr@softtunetech.com
+employer_poc_phone             | 13093244477
+employer_poc_phone_ext         | 
+worksite_address1              | 6610 ULLOM DR
+worksite_address2              | 
+worksite_city                  | LAS VEGAS
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 650 E DEVON AVE
+employer_address2              | SUITE 155
+employer_city                  | ITASCA
+employer_state                 | IL
+employer_postal_code           | 60143
+begin_date                     | 2025-02-24
+end_date                       | 2028-02-23
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SOFTTUNE TECHNOLOGIES INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 16 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24288-404797
+job_title                      | Network Engineer
+employer_name                  | COMTEK GLOBAL INC
+secondary_entity_business_name | State of Nevada – Department of Transportation
+employer_phone                 | 19082058990
+employer_poc_first_name        | YOGENDRANATH
+employer_poc_last_name         | PAPAGARI
+employer_poc_email             | IMMIGRATION@CENTILLIONZ.COM
+employer_poc_phone             | 19082058990
+employer_poc_phone_ext         | 
+worksite_address1              | 6610 S Ullom Drive
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 15 Corporate PL S
+employer_address2              | SUITE 402
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2024-12-02
+end_date                       | 2027-12-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | COMTEK GLOBAL INC
+soc_code                       | 15-1244.00
+h_1b_dependent                 | Yes
 -[ RECORD 17 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24288-404797
+job_title                      | Network Engineer
+employer_name                  | COMTEK GLOBAL INC
+secondary_entity_business_name | State of Nevada  Department of Transportation
+employer_phone                 | 19082058990
+employer_poc_first_name        | YOGENDRANATH
+employer_poc_last_name         | PAPAGARI
+employer_poc_email             | IMMIGRATION@CENTILLIONZ.COM
+employer_poc_phone             | 19082058990
+employer_poc_phone_ext         | 
+worksite_address1              | 6610 S Ullom Drive
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 15 Corporate PL S
+employer_address2              | SUITE 402
+employer_city                  | Piscataway
+employer_state                 | NJ
+employer_postal_code           | 08854
+begin_date                     | 2024-12-02
+end_date                       | 2027-12-01
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | COMTEK GLOBAL INC
+soc_code                       | 15-1244.00
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24288-404797
 job_title                      | Network Engineer
 employer_name                  | COMTEK GLOBAL INC
@@ -558,39 +591,6 @@ change_employer                | 0
 amended_petition               | 1
 employer_name                  | COMTEK GLOBAL INC
 soc_code                       | 15-1244
-h_1b_dependent                 | Yes
--[ RECORD 18 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24164-103834
-job_title                      | Database Administrator
-employer_name                  | Appridat Solutions LLC
-secondary_entity_business_name | State of Nevada,Department Of Public Safety
-employer_phone                 | 16786486191
-employer_poc_first_name        | Anj
-employer_poc_last_name         | Balusu
-employer_poc_email             | anj@appridat.com
-employer_poc_phone             | 16786486191
-employer_poc_phone_ext         | 503
-worksite_address1              | 1445 Old Hot Springs Road
-worksite_address2              | 
-worksite_city                  | Carson City
-worksite_county                | CARSON CITY
-lawfirm_name_business_name     | Law Offices of Priti Tripathi PC
-employer_address1              | 5655 Peachtree Parkway
-employer_address2              | Suite 207
-employer_city                  | Peachtree Corners
-employer_state                 | GA
-employer_postal_code           | 30092
-begin_date                     | 2024-11-06
-end_date                       | 2027-11-05
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Appridat Solutions LLC
-soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 19 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24164-103834
@@ -626,6 +626,105 @@ employer_name                  | Appridat Solutions LLC
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
 -[ RECORD 20 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24164-103834
+job_title                      | Database Administrator
+employer_name                  | Appridat Solutions LLC
+secondary_entity_business_name | State of Nevada,Department Of Public Safety
+employer_phone                 | 16786486191
+employer_poc_first_name        | Anj
+employer_poc_last_name         | Balusu
+employer_poc_email             | anj@appridat.com
+employer_poc_phone             | 16786486191
+employer_poc_phone_ext         | 503
+worksite_address1              | 1445 Old Hot Springs Road
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | CARSON CITY
+lawfirm_name_business_name     | Law Offices of Priti Tripathi PC
+employer_address1              | 5655 Peachtree Parkway
+employer_address2              | Suite 207
+employer_city                  | Peachtree Corners
+employer_state                 | GA
+employer_postal_code           | 30092
+begin_date                     | 2024-11-06
+end_date                       | 2027-11-05
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Appridat Solutions LLC
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 21 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24295-421178
+job_title                      | Applications Developer
+employer_name                  | CSXTech Inc
+secondary_entity_business_name | State of Nevada - Division of Welfare and Supportive Services
+employer_phone                 | 14694434700
+employer_poc_first_name        | Hari
+employer_poc_last_name         | Kancharla
+employer_poc_email             | Immigration@csxtech.com
+employer_poc_phone             | 14694434700
+employer_poc_phone_ext         | 
+worksite_address1              | 1470 College Parkway
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | WASHOE
+lawfirm_name_business_name     | 
+employer_address1              | 4975 Preston Park Blvd
+employer_address2              | Suite 55
+employer_city                  | Plano
+employer_state                 | TX
+employer_postal_code           | 75093
+begin_date                     | 2024-10-29
+end_date                       | 2027-10-28
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | CSXTech Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24295-421178
+job_title                      | Applications Developer
+employer_name                  | CSXTech Inc
+secondary_entity_business_name | State of Nevada - Division of Welfare and Supportive Services
+employer_phone                 | 14694434700
+employer_poc_first_name        | Hari
+employer_poc_last_name         | Kancharla
+employer_poc_email             | Immigration@csxtech.com
+employer_poc_phone             | 14694434700
+employer_poc_phone_ext         | 
+worksite_address1              | 1470 College Parkway
+worksite_address2              | 
+worksite_city                  | Carson City
+worksite_county                | WASHOE
+lawfirm_name_business_name     | 
+employer_address1              | 4975 Preston Park Blvd
+employer_address2              | Suite 55
+employer_city                  | Plano
+employer_state                 | TX
+employer_postal_code           | 75093
+begin_date                     | 2024-10-29
+end_date                       | 2027-10-28
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | CSXTech Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 23 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24295-421178
 job_title                      | Applications Developer
 employer_name                  | CSXTech Inc
@@ -658,7 +757,7 @@ amended_petition               | 0
 employer_name                  | CSXTech Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 24 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24201-208158
 job_title                      | Staff Physician (Cardiology)
 employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Administration
@@ -691,7 +790,7 @@ amended_petition               | 0
 employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Administration
 soc_code                       | 29-1229.00
 h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 25 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24123-951293
 job_title                      | Business Data Analyst
 employer_name                  | RS Consulting Services LLC
@@ -724,7 +823,7 @@ amended_petition               | 0
 employer_name                  | RS Consulting Services LLC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 26 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24150-045620
 job_title                      | Network Engineer
 employer_name                  | SWANKTEK INC
@@ -757,40 +856,7 @@ amended_petition               | 0
 employer_name                  | SWANKTEK INC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+---------------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24150-048459
-job_title                      | Staff Physician (Oncologist)
-employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
-secondary_entity_business_name | 
-employer_phone                 | 17027919000
-employer_poc_first_name        | Kristen
-employer_poc_last_name         | Banks
-employer_poc_email             | kristen.banks@va.gov
-employer_poc_phone             | 12023523964
-employer_poc_phone_ext         | 
-worksite_address1              | 6900 North Pecos Road
-worksite_address2              | 
-worksite_city                  | Las Vegas
-worksite_county                | CLARK
-lawfirm_name_business_name     | 
-employer_address1              | 6900 North Pecos Road
-employer_address2              | c/o Triny Cooper, Human Resources
-employer_city                  | Las Vegas
-employer_state                 | NV
-employer_postal_code           | 89086-4400
-begin_date                     | 2024-08-11
-end_date                       | 2027-08-10
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
-soc_code                       | 29-1229.00
-h_1b_dependent                 | No
--[ RECORD 25 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 27 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24150-048472
 job_title                      | Staff Physician (Pulmonary/Critical Care)
 employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
@@ -823,7 +889,40 @@ amended_petition               | 0
 employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
 soc_code                       | 29-1229.00
 h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 28 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24150-048459
+job_title                      | Staff Physician (Oncologist)
+employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
+secondary_entity_business_name | 
+employer_phone                 | 17027919000
+employer_poc_first_name        | Kristen
+employer_poc_last_name         | Banks
+employer_poc_email             | kristen.banks@va.gov
+employer_poc_phone             | 12023523964
+employer_poc_phone_ext         | 
+worksite_address1              | 6900 North Pecos Road
+worksite_address2              | 
+worksite_city                  | Las Vegas
+worksite_county                | CLARK
+lawfirm_name_business_name     | 
+employer_address1              | 6900 North Pecos Road
+employer_address2              | c/o Triny Cooper, Human Resources
+employer_city                  | Las Vegas
+employer_state                 | NV
+employer_postal_code           | 89086-4400
+begin_date                     | 2024-08-11
+end_date                       | 2027-08-10
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | U.S. Department of Veterans Affairs, Veterans Health Adminisatration
+soc_code                       | 29-1229.00
+h_1b_dependent                 | No
+-[ RECORD 29 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24060-757834
 job_title                      | Technical Architect 3
 employer_name                  | USM Business Sytems Inc
@@ -856,7 +955,7 @@ amended_petition               | 0
 employer_name                  | USM Business Sytems Inc
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 30 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24051-732104
 job_title                      | System Administrator 4
 employer_name                  | USM Business Sytems Inc
@@ -889,7 +988,7 @@ amended_petition               | 0
 employer_name                  | USM Business Sytems Inc
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
--[ RECORD 28 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 31 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24095-854409
 job_title                      | SYSTEM ENGINEER
 employer_name                  | TECHNODEED LLC
@@ -922,7 +1021,7 @@ amended_petition               | 1
 employer_name                  | TECHNODEED LLC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
--[ RECORD 29 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 32 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24010-630189
 job_title                      | PROGRAMMER ANALYST
 employer_name                  | IT TRAILBLAZERS LLC
@@ -955,7 +1054,7 @@ amended_petition               | 0
 employer_name                  | IT TRAILBLAZERS LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 30 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 33 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24074-798494
 job_title                      | NETWORK ENGINEER
 employer_name                  | TECHNODEED LLC
@@ -988,7 +1087,7 @@ amended_petition               | 1
 employer_name                  | TECHNODEED LLC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
--[ RECORD 31 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 34 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24071-788783
 job_title                      | System Administrator
 employer_name                  | KEANE SOFT INC
@@ -1021,7 +1120,7 @@ amended_petition               | 0
 employer_name                  | KEANE SOFT INC
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
--[ RECORD 32 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 35 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24009-626387
 job_title                      | Business Systems Analyst
 employer_name                  | CGI Technologies and Solutions Inc
@@ -1054,7 +1153,7 @@ amended_petition               | 0
 employer_name                  | CGI Technologies and Solutions Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | No
--[ RECORD 33 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 36 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23318-500424
 job_title                      | PROJECT MANAGER
 employer_name                  | MAVIN TECHNOLOGIES INC
@@ -1087,7 +1186,7 @@ amended_petition               | 0
 employer_name                  | MAVIN TECHNOLOGIES INC
 soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
--[ RECORD 34 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 37 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23150-062527
 job_title                      | Technical Test Lead
 employer_name                  | Congensys Corp.
@@ -1120,7 +1219,7 @@ amended_petition               | 0
 employer_name                  | Congensys Corp.
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 35 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 38 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23135-021853
 job_title                      | Database Administrator
 employer_name                  | Appridat Solutions LLC
@@ -1153,7 +1252,7 @@ amended_petition               | 0
 employer_name                  | Appridat Solutions LLC
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 36 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 39 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23135-021853
 job_title                      | Database Administrator
 employer_name                  | Appridat Solutions LLC
@@ -1186,7 +1285,7 @@ amended_petition               | 0
 employer_name                  | Appridat Solutions LLC
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 37 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 40 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23275-405481
 job_title                      | Software Engineer
 employer_name                  | KBTS Technologies Inc
@@ -1219,7 +1318,7 @@ amended_petition               | 1
 employer_name                  | KBTS Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 41 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23236-294277
 job_title                      | Technical Project Manager
 employer_name                  | RS Consulting Services LLC
@@ -1252,7 +1351,7 @@ amended_petition               | 0
 employer_name                  | RS Consulting Services LLC
 soc_code                       | 11-3021.00
 h_1b_dependent                 | Yes
--[ RECORD 39 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 42 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23227-265302
 job_title                      | Systems Administrator
 employer_name                  | IT IDEOLOGY LLC
@@ -1285,7 +1384,7 @@ amended_petition               | 0
 employer_name                  | IT IDEOLOGY LLC
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
--[ RECORD 40 ]-----------------+---------------------------------------------------------------------------------------------------------------------
+-[ RECORD 43 ]-----------------+---------------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23220-246671
 job_title                      | Systems Administrator
 employer_name                  | IT IDEOLOGY LLC

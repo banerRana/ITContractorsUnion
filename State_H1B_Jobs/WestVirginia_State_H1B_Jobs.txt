@@ -1,4 +1,4 @@
--[ RECORD 1 ]------------------+--------------------------------------------------------------------------------------
+-[ RECORD 1 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25183-148145
 job_title                      | EXTENSION EDUCATOR, AGRIBUSINESS
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
@@ -31,7 +31,7 @@ amended_petition               | 0
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
 soc_code                       | 11-9033.00
 h_1b_dependent                 | No
--[ RECORD 2 ]------------------+--------------------------------------------------------------------------------------
+-[ RECORD 2 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25181-141345
 job_title                      | POSTDOCTORAL RESEARCH ASSOCIATE
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
@@ -64,73 +64,7 @@ amended_petition               | 0
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
 soc_code                       | 19-1029.04
 h_1b_dependent                 | No
--[ RECORD 3 ]------------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-25342-465952
-job_title                      | TESTING AND OPERATIONS LEAD
-employer_name                  | Gantec Corporation
-secondary_entity_business_name | WEST VIRGINIA DEPARTMENT OF HUMAN SERVICES (WV DoHS)/BERRY, DUNN, MCNEIL & PARKER LLC
-employer_phone                 | 18478857655
-employer_poc_first_name        | Geetha
-employer_poc_last_name         | Venkataswamy
-employer_poc_email             | vr@gantecusa.com
-employer_poc_phone             | 18478857655
-employer_poc_phone_ext         | 
-worksite_address1              | 300 CAPITOL STREET (BERRY, DUNN, MCNEIL & PARKERS OFFICE)
-worksite_address2              | SUITE 1610
-worksite_city                  | CHARLESTON
-worksite_county                | 
-lawfirm_name_business_name     | International Legal & Business Services Group LLP
-employer_address1              | 1100 E. Woodfield Road
-employer_address2              | Suite 104
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60173
-begin_date                     | 2025-12-18
-end_date                       | 2028-12-17
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Gantec Corporation
-soc_code                       | 15-1253.00
-h_1b_dependent                 | No
--[ RECORD 4 ]------------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-25339-462045
-job_title                      | TESTING AND OPERATIONS LEAD
-employer_name                  | Gantec Corporation
-secondary_entity_business_name | WEST VIRGINIA DEPARTMENT OF HUMAN SERVICES (WVDOHS)/BERRY DUNN MCNEIL AND PARKER LLC
-employer_phone                 | 18478857655
-employer_poc_first_name        | Geetha
-employer_poc_last_name         | Venkataswamy
-employer_poc_email             | vr@gantecusa.com
-employer_poc_phone             | 18478857655
-employer_poc_phone_ext         | 
-worksite_address1              | 300 CAPITOL STREET (BERRY, DUNN, MCNEIL AND PARKER LLCS OFF
-worksite_address2              | SUITE 1610
-worksite_city                  | CHARLESTON
-worksite_county                | 
-lawfirm_name_business_name     | International Legal & Business Services Group LLP
-employer_address1              | 1100 E. Woodfield Road
-employer_address2              | Suite 104
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60173
-begin_date                     | 2025-12-18
-end_date                       | 2028-12-17
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Gantec Corporation
-soc_code                       | 15-1253.00
-h_1b_dependent                 | No
--[ RECORD 5 ]------------------+--------------------------------------------------------------------------------------
+-[ RECORD 3 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25143-012140
 job_title                      | Statistical Analyst
 employer_name                  | STATE OF WEST VIRGINIA & ATTORNEY GENERALS OFFICE
@@ -163,7 +97,7 @@ amended_petition               | 0
 employer_name                  | STATE OF WEST VIRGINIA & ATTORNEY GENERALS OFFICE
 soc_code                       | 15-2041
 h_1b_dependent                 | No
--[ RECORD 6 ]------------------+--------------------------------------------------------------------------------------
+-[ RECORD 4 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25076-780438
 job_title                      | DEPUTY CHIEF MEDICAL EXAMINER
 employer_name                  | STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH, OFFICE OF THE CHIEF MEDICAL EXAMINER
@@ -196,7 +130,40 @@ amended_petition               | 1
 employer_name                  | STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH, OFFICE OF THE CHIEF MEDICAL EXAMINER
 soc_code                       | 29-1229
 h_1b_dependent                 | No
--[ RECORD 7 ]------------------+--------------------------------------------------------------------------------------
+-[ RECORD 5 ]------------------+----------------------------------------------------------------------------------
+case_number                    | I-200-25076-780438
+job_title                      | DEPUTY CHIEF MEDICAL EXAMINER
+employer_name                  | STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH, OFFICE OF THE CHIEF MEDICAL EXAMINER
+secondary_entity_business_name | 
+employer_phone                 | 13045586920
+employer_poc_first_name        | MATTHEW
+employer_poc_last_name         | IZZO
+employer_poc_email             | MATTHEW.D.IZZO@WV.GOV
+employer_poc_phone             | 13045586920
+employer_poc_phone_ext         | 
+worksite_address1              | 619 VIRGINIA STREET WEST
+worksite_address2              | 
+worksite_city                  | CHARLESTON
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 619 VIRGINIA STREET WEST
+employer_address2              | 
+employer_city                  | CHARLESTON
+employer_state                 | WV
+employer_postal_code           | 25302
+begin_date                     | 2025-09-05
+end_date                       | 2028-09-04
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | STATE OF WEST VIRGINIA DEPARTMENT OF HEALTH, OFFICE OF THE CHIEF MEDICAL EXAMINER
+soc_code                       | 29-1229.00
+h_1b_dependent                 | No
+-[ RECORD 6 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25195-171552
 job_title                      | DEPUTY CHIEF MEDICAL EXAMINER
 employer_name                  | WEST VIRGINIA STATE HEALTH DEPARTMENT, OFFICE OF THE CHIEF MEDICAL EXAMINER
@@ -229,7 +196,7 @@ amended_petition               | 0
 employer_name                  | WEST VIRGINIA STATE HEALTH DEPARTMENT, OFFICE OF THE CHIEF MEDICAL EXAMINER
 soc_code                       | 29-1229.00
 h_1b_dependent                 | No
--[ RECORD 8 ]------------------+--------------------------------------------------------------------------------------
+-[ RECORD 7 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25154-047436
 job_title                      | System Administrator
 employer_name                  | Techno Tasks Inc
@@ -262,7 +229,7 @@ amended_petition               | 0
 employer_name                  | Techno Tasks Inc
 soc_code                       | 15-1244
 h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+--------------------------------------------------------------------------------------
+-[ RECORD 8 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25181-139211
 job_title                      | Data Engineer
 employer_name                  | IBM Corporation
@@ -295,7 +262,7 @@ amended_petition               | 1
 employer_name                  | IBM Corporation
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
--[ RECORD 10 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 9 ]------------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25157-063601
 job_title                      | RESEARCH ASSISTANT
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
@@ -328,7 +295,7 @@ amended_petition               | 0
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
 soc_code                       | 19-4021
 h_1b_dependent                 | No
--[ RECORD 11 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 10 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25149-032431
 job_title                      | Database Administrator
 employer_name                  | Sonus Software Solutions Inc
@@ -361,7 +328,40 @@ amended_petition               | 0
 employer_name                  | Sonus Software Solutions Inc
 soc_code                       | 15-1242
 h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-24358-566669
+job_title                      | Web Application Developer
+employer_name                  | iZeal Inc
+secondary_entity_business_name | State of West Virginia - Office of Shared Administration
+employer_phone                 | 17037455280
+employer_poc_first_name        | Amrutha
+employer_poc_last_name         | Maddipati
+employer_poc_email             | hr@izealinc.com
+employer_poc_phone             | 17037455280
+employer_poc_phone_ext         | 
+worksite_address1              | 321 Capitol Street
+worksite_address2              | Suite 200
+worksite_city                  | Charleston
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | dehai tao immigration pllc
+employer_address1              | 46090 Lake Center Plaza
+employer_address2              | Suite 100
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20165
+begin_date                     | 2025-05-24
+end_date                       | 2028-05-23
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | iZeal Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24358-566669
 job_title                      | Web Application Developer
 employer_name                  | iZeal Inc
@@ -394,7 +394,40 @@ amended_petition               | 0
 employer_name                  | iZeal Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 13 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-24358-566669
+job_title                      | Web Application Developer
+employer_name                  | iZeal Inc
+secondary_entity_business_name | State of West Virginia - Office of Shared Administration
+employer_phone                 | 17037455280
+employer_poc_first_name        | Amrutha
+employer_poc_last_name         | Maddipati
+employer_poc_email             | hr@izealinc.com
+employer_poc_phone             | 17037455280
+employer_poc_phone_ext         | 
+worksite_address1              | 321 Capitol Street
+worksite_address2              | Suite 200
+worksite_city                  | Charleston
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | dehai tao immigration pllc
+employer_address1              | 46090 Lake Center Plaza
+employer_address2              | Suite 100
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20165
+begin_date                     | 2025-05-24
+end_date                       | 2028-05-23
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | iZeal Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 14 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-25127-949462
 job_title                      | SPECIAL ASSISTANT TO THE PRESIDENT
 employer_name                  | West Virginia State University
@@ -427,7 +460,40 @@ amended_petition               | 1
 employer_name                  | West Virginia State University
 soc_code                       | 13-1199
 h_1b_dependent                 | No
--[ RECORD 14 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 15 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-24285-402415
+job_title                      | ASSISTANT PROFESSOR OF BIOLOGY
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 13047665224
+employer_poc_first_name        | KRYSTAL
+employer_poc_last_name         | SMITH
+employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
+employer_poc_phone             | 13047665224
+employer_poc_phone_ext         | 
+worksite_address1              | 5000 FAIRLAWN AVENUE
+worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 5000 FAIRLAWN AVE
+employer_address2              | 
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 2025-01-13
+end_date                       | 2028-01-12
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+soc_code                       | 25-1042.00
+h_1b_dependent                 | No
+-[ RECORD 16 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24285-402415
 job_title                      | ASSISTANT PROFESSOR OF BIOLOGY
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
@@ -460,7 +526,40 @@ amended_petition               | 0
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 soc_code                       | 25-1042
 h_1b_dependent                 | No
--[ RECORD 15 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 17 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-24285-402415
+job_title                      | ASSISTANT PROFESSOR OF BIOLOGY
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+secondary_entity_business_name | 
+employer_phone                 | 13047665224
+employer_poc_first_name        | KRYSTAL
+employer_poc_last_name         | SMITH
+employer_poc_email             | KRYSTAL.SMITH@WVSTATEU.EDU
+employer_poc_phone             | 13047665224
+employer_poc_phone_ext         | 
+worksite_address1              | 5000 FAIRLAWN AVENUE
+worksite_address2              | 
+worksite_city                  | INSTITUTE
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | BRAVLIN PC
+employer_address1              | 5000 FAIRLAWN AVE
+employer_address2              | 
+employer_city                  | INSTITUTE
+employer_state                 | WV
+employer_postal_code           | 25112
+begin_date                     | 2025-01-13
+end_date                       | 2028-01-12
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | WEST VIRGINIA STATE UNIVERSITY
+soc_code                       | 25-1042.00
+h_1b_dependent                 | No
+-[ RECORD 18 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24144-031989
 job_title                      | Senior Sharepoint Administrator
 employer_name                  | Spartan Solutions Inc
@@ -493,7 +592,7 @@ amended_petition               | 0
 employer_name                  | Spartan Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 16 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 19 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24115-922684
 job_title                      | Sr. Programmer Analyst
 employer_name                  | iZeal Inc
@@ -526,7 +625,7 @@ amended_petition               | 0
 employer_name                  | iZeal Inc
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 20 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24173-137821
 job_title                      | Computational Development and Applications Engineer
 employer_name                  | Leidos Inc
@@ -559,7 +658,7 @@ amended_petition               | 0
 employer_name                  | Leidos Inc
 soc_code                       | 17-2141.00
 h_1b_dependent                 | No
--[ RECORD 18 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 21 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24205-215340
 job_title                      | ASSISTANT PROFESSOR OF COMPUTER SCIENCE
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
@@ -592,7 +691,7 @@ amended_petition               | 0
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
--[ RECORD 19 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 22 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24072-791021
 job_title                      | ACCOUNTANT
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
@@ -625,40 +724,7 @@ amended_petition               | 0
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 soc_code                       | 13-2011.00
 h_1b_dependent                 | No
--[ RECORD 20 ]-----------------+--------------------------------------------------------------------------------------
-case_number                    | I-200-24054-742181
-job_title                      | Testing Manager
-employer_name                  | Gantec Corporation
-secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)/Berry Dunn
-employer_phone                 | 18478857655
-employer_poc_first_name        | Venkat
-employer_poc_last_name         | Ravilla
-employer_poc_email             | vr@gantecusa.com
-employer_poc_phone             | 18478857655
-employer_poc_phone_ext         | 
-worksite_address1              | 300 Capitol Street (Berry Dunn address)
-worksite_address2              | suite   1610
-worksite_city                  | Charleston
-worksite_county                | KANAWHA
-lawfirm_name_business_name     | International Legal & Business Services Group LLP
-employer_address1              | 1000 E. Woodfield Road
-employer_address2              | suite 242
-employer_city                  | Schaumburg
-employer_state                 | IL
-employer_postal_code           | 60173
-begin_date                     | 2024-05-09
-end_date                       | 2027-05-08
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Gantec Corporation
-soc_code                       | 15-1299.09
-h_1b_dependent                 | No
--[ RECORD 21 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 23 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-24023-659493
 job_title                      | Testing Manager
 employer_name                  | Gantec Corporation
@@ -691,7 +757,40 @@ amended_petition               | 0
 employer_name                  | Gantec Corporation
 soc_code                       | 15-1299.09
 h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 24 ]-----------------+----------------------------------------------------------------------------------
+case_number                    | I-200-24054-742181
+job_title                      | Testing Manager
+employer_name                  | Gantec Corporation
+secondary_entity_business_name | West Virginia Department of Human Services (WV DoHS)/Berry Dunn
+employer_phone                 | 18478857655
+employer_poc_first_name        | Venkat
+employer_poc_last_name         | Ravilla
+employer_poc_email             | vr@gantecusa.com
+employer_poc_phone             | 18478857655
+employer_poc_phone_ext         | 
+worksite_address1              | 300 Capitol Street (Berry Dunn address)
+worksite_address2              | suite   1610
+worksite_city                  | Charleston
+worksite_county                | KANAWHA
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 1000 E. Woodfield Road
+employer_address2              | suite 242
+employer_city                  | Schaumburg
+employer_state                 | IL
+employer_postal_code           | 60173
+begin_date                     | 2024-05-09
+end_date                       | 2027-05-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Gantec Corporation
+soc_code                       | 15-1299.09
+h_1b_dependent                 | No
+-[ RECORD 25 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23192-179115
 job_title                      | Coldfusion Software Engineer
 employer_name                  | Adroit Associates Inc
@@ -724,7 +823,7 @@ amended_petition               | 0
 employer_name                  | Adroit Associates Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 26 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23136-026840
 job_title                      | Systems Engineer Senior
 employer_name                  | Spartan Solutions Inc
@@ -757,7 +856,7 @@ amended_petition               | 0
 employer_name                  | Spartan Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23157-082631
 job_title                      | .Net Developer
 employer_name                  | Insource Tech LLC
@@ -790,7 +889,7 @@ amended_petition               | 0
 employer_name                  | Insource Tech LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 25 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 28 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23261-355813
 job_title                      | ASSISTANT PROFESSOR OF COMP SCI & DIR OF CYBERSECURITY
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
@@ -823,7 +922,7 @@ amended_petition               | 1
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 29 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23238-298483
 job_title                      | Director of Cybersecurity
 employer_name                  | West Virginia State University
@@ -856,7 +955,7 @@ amended_petition               | 1
 employer_name                  | West Virginia State University
 soc_code                       | 11-9033.00
 h_1b_dependent                 | No
--[ RECORD 27 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 30 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23226-261878
 job_title                      | EXTENSION SPECIALIST & ASSISTANT RESEARCH PROFESSOR
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
@@ -889,7 +988,7 @@ amended_petition               | 0
 employer_name                  | WEST VIRGINIA STATE UNIVERSITY RESEARCH AND DEVELOPMENT CORPORATION
 soc_code                       | 11-9033.00
 h_1b_dependent                 | No
--[ RECORD 28 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 31 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23220-248126
 job_title                      | ACCOUNTANT SENIOR
 employer_name                  | West Virginia State University
@@ -922,7 +1021,7 @@ amended_petition               | 1
 employer_name                  | West Virginia State University
 soc_code                       | 13-2011.00
 h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+--------------------------------------------------------------------------------------
+-[ RECORD 32 ]-----------------+----------------------------------------------------------------------------------
 case_number                    | I-200-23192-181575
 job_title                      | Catalyst Synthesis Research Scientist
 employer_name                  | Leidos Inc

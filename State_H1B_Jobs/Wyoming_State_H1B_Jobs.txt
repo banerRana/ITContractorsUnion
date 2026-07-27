@@ -1,37 +1,4 @@
 -[ RECORD 1 ]------------------+-------------------------------------------------------------------
-case_number                    | I-200-25351-491752
-job_title                      | Data and Reporting Analyst
-employer_name                  | Wyoming Department of Health
-secondary_entity_business_name | 
-employer_phone                 | 13077777908
-employer_poc_first_name        | Jesse
-employer_poc_last_name         | Springer
-employer_poc_email             | jesse.springer@wyo.gov
-employer_poc_phone             | 13077777908
-employer_poc_phone_ext         | 
-worksite_address1              | 122 West 25th Street
-worksite_address2              | 
-worksite_city                  | Cheyenne
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 2300 Capital Avenue
-employer_address2              | Hathaway 401
-employer_city                  | Cheyenne
-employer_state                 | WY
-employer_postal_code           | 82002
-begin_date                     | 2026-06-15
-end_date                       | 2029-06-14
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Wyoming Department of Health
-soc_code                       | 15-2051.00
-h_1b_dependent                 | No
--[ RECORD 2 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-25162-078514
 job_title                      | Tech Architecture Assoc Manager
 employer_name                  | Accenture LLP
@@ -64,7 +31,7 @@ amended_petition               | 1
 employer_name                  | Accenture LLP
 soc_code                       | 13-1111
 h_1b_dependent                 | No
--[ RECORD 3 ]------------------+-------------------------------------------------------------------
+-[ RECORD 2 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-25125-936043
 job_title                      | Technology Architecture Specialist
 employer_name                  | Accenture LLP
@@ -97,6 +64,39 @@ amended_petition               | 1
 employer_name                  | Accenture LLP
 soc_code                       | 13-1111
 h_1b_dependent                 | No
+-[ RECORD 3 ]------------------+-------------------------------------------------------------------
+case_number                    | I-200-24135-995736
+job_title                      | Software Developer
+employer_name                  | ASR Tech Group Inc
+secondary_entity_business_name | Wyoming Department of Enterprise Technology Services
+employer_phone                 | 17036668797
+employer_poc_first_name        | Aishwarya
+employer_poc_last_name         | PANNEERSELVAM
+employer_poc_email             | aishwarya@asrtechgroup.com
+employer_poc_phone             | 15715287517
+employer_poc_phone_ext         | 
+worksite_address1              | 2001 Capitol Avenue
+worksite_address2              | 
+worksite_city                  | Cheyenne
+worksite_county                | LARAMIE
+lawfirm_name_business_name     | Somireddy Law Group PLLC
+employer_address1              | 11710 Plaza America Drive
+employer_address2              | Suite 2000
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20190
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ASR Tech Group Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
 -[ RECORD 4 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-24135-995644
 job_title                      | Software Developer
@@ -164,39 +164,6 @@ employer_name                  | ASR Tech Group Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 6 ]------------------+-------------------------------------------------------------------
-case_number                    | I-200-24135-995736
-job_title                      | Software Developer
-employer_name                  | ASR Tech Group Inc
-secondary_entity_business_name | Wyoming Department of Enterprise Technology Services
-employer_phone                 | 17036668797
-employer_poc_first_name        | Aishwarya
-employer_poc_last_name         | PANNEERSELVAM
-employer_poc_email             | aishwarya@asrtechgroup.com
-employer_poc_phone             | 15715287517
-employer_poc_phone_ext         | 
-worksite_address1              | 2001 Capitol Avenue
-worksite_address2              | 
-worksite_city                  | Cheyenne
-worksite_county                | LARAMIE
-lawfirm_name_business_name     | Somireddy Law Group PLLC
-employer_address1              | 11710 Plaza America Drive
-employer_address2              | Suite 2000
-employer_city                  | Reston
-employer_state                 | VA
-employer_postal_code           | 20190
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ASR Tech Group Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-24073-795024
 job_title                      | Architect
 employer_name                  | Tata Consultancy Services Limited
@@ -229,7 +196,7 @@ amended_petition               | 1
 employer_name                  | Tata Consultancy Services Limited
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+-------------------------------------------------------------------
+-[ RECORD 7 ]------------------+-------------------------------------------------------------------
 case_number                    | I-200-23108-942227
 job_title                      | JAVA DEVELOPER
 employer_name                  | Datanormus LLC

@@ -41,7 +41,7 @@ EMPLOYER_NAME,
 SOC_CODE,
 H_1B_DEPENDENT
 
-from LCA_Disclosure_Data_2022To2026Q1
+from LCA_Disclosure_Data_2022To2026Q2
 
 where
 (

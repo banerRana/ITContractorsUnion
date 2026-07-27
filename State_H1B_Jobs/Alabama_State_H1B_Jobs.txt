@@ -1,103 +1,4 @@
 -[ RECORD 1 ]------------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25343-469312
-job_title                      | SR. SOFTWARE DEVELOPER
-employer_name                  | HCL GLOBAL SYSTEMS INC
-secondary_entity_business_name | ALABAMA DEPARTMENT OF PUBLIC HEALTH (ADPH)
-employer_phone                 | 12484730720
-employer_poc_first_name        | DURGA PRASAD
-employer_poc_last_name         | GADDE
-employer_poc_email             | GADDE@HCLGLOBAL.COM
-employer_poc_phone             | 12484730720
-employer_poc_phone_ext         | 200
-worksite_address1              | 201 MONROE STREET
-worksite_address2              | SUITE 800
-worksite_city                  | MONTGOMERY
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 24543 INDOPLEX CIRCLE
-employer_address2              | SUITE 220
-employer_city                  | FARMINGTON HILLS
-employer_state                 | MI
-employer_postal_code           | 48335
-begin_date                     | 2026-06-06
-end_date                       | 2029-06-05
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | HCL GLOBAL SYSTEMS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 2 ]------------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25322-419514
-job_title                      | Business Analyst
-employer_name                  | Amensys Inc
-secondary_entity_business_name | Alabama Medicaid Agency (State of Alabama)
-employer_phone                 | 19728019970
-employer_poc_first_name        | Anuradha
-employer_poc_last_name         | Puligandla
-employer_poc_email             | hr@amensys.com
-employer_poc_phone             | 19728019970
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Dexter Avenue
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | 
-lawfirm_name_business_name     | BBI LAW GROUP,P.C.
-employer_address1              | 860 Hebron Pkwy
-employer_address2              | STE 604
-employer_city                  | Lewisville
-employer_state                 | TX
-employer_postal_code           | 75057
-begin_date                     | 2026-04-04
-end_date                       | 2029-04-03
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Amensys Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 3 ]------------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25314-395142
-job_title                      | QA ANALYST
-employer_name                  | ITVORKS INC
-secondary_entity_business_name | STATE OF ALABAMA MEDICAID
-employer_phone                 | 19737958389
-employer_poc_first_name        | SRINIVASA
-employer_poc_last_name         | ADIMULAM
-employer_poc_email             | HR@ITVORKS.COM
-employer_poc_phone             | 19737958389
-employer_poc_phone_ext         | 
-worksite_address1              | 501 DEXTER AVENUE
-worksite_address2              | 
-worksite_city                  | MONTGOMERY
-worksite_county                | 
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 101 COLLEGE ROAD EAST
-employer_address2              | SUITE 302
-employer_city                  | PRINCETON
-employer_state                 | NJ
-employer_postal_code           | 08540
-begin_date                     | 2026-03-27
-end_date                       | 2029-03-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ITVORKS INC
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 4 ]------------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25230-248153
 job_title                      | ServiceNow Developer
 employer_name                  | V-Soft Consulting Group INC
@@ -130,7 +31,7 @@ amended_petition               | 0
 employer_name                  | V-Soft Consulting Group INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 5 ]------------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 2 ]------------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25232-255376
 job_title                      | Senior Data Analyst
 employer_name                  | Cloud BC Labs Inc
@@ -163,172 +64,7 @@ amended_petition               | 0
 employer_name                  | Cloud BC Labs Inc
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 6 ]------------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25310-385188
-job_title                      | Technical Project Manager
-employer_name                  | Soft Nut Inc
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 14708868133
-employer_poc_first_name        | Sachinkumar
-employer_poc_last_name         | Shah
-employer_poc_email             | sachin@softnutinc.com
-employer_poc_phone             | 14708868133
-employer_poc_phone_ext         | 
-worksite_address1              | 100 North Union Street
-worksite_address2              | Suite 500
-worksite_city                  | Montgomery
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 11555 Medlock Bridge Road
-employer_address2              | STE 100
-employer_city                  | Duluth
-employer_state                 | GA
-employer_postal_code           | 30097
-begin_date                     | 2025-12-15
-end_date                       | 2028-12-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Soft Nut Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25323-420018
-job_title                      | Quality Assurance Engineer
-employer_name                  | Matrix Tech Solutions Inc
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 17139293288
-employer_poc_first_name        | Srividya
-employer_poc_last_name         | Jaligama
-employer_poc_email             | hr@matrixtechinc.com
-employer_poc_phone             | 17139293288
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Dexter Ave
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | 
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 1500 S Dairy Ashford Road
-employer_address2              | STE 350
-employer_city                  | Houston
-employer_state                 | TX
-employer_postal_code           | 77077
-begin_date                     | 2025-11-25
-end_date                       | 2028-11-24
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Matrix Tech Solutions Inc
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25318-410659
-job_title                      | Technical Project Manager
-employer_name                  | Soft Nut Inc
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 14708868133
-employer_poc_first_name        | Sachinkumar
-employer_poc_last_name         | Shah
-employer_poc_email             | sachin@softnutinc.com
-employer_poc_phone             | 14708868133
-employer_poc_phone_ext         | 
-worksite_address1              | 100 North Union Street
-worksite_address2              | Suite 500
-worksite_city                  | Montgomery
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 11555 Medlock Bridge Road
-employer_address2              | STE 100
-employer_city                  | Duluth
-employer_state                 | GA
-employer_postal_code           | 30097
-begin_date                     | 2025-11-24
-end_date                       | 2028-11-23
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Soft Nut Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25309-375423
-job_title                      | Software Developer
-employer_name                  | Rigas Technologies Inc
-secondary_entity_business_name | State Of Alabama
-employer_phone                 | 16466665817
-employer_poc_first_name        | Vamsikrishna
-employer_poc_last_name         | KOTA
-employer_poc_email             | immigration@rigastech.com
-employer_poc_phone             | 16466665817
-employer_poc_phone_ext         | 
-worksite_address1              | 64 N Union Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | 
-lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES LLP
-employer_address1              | 50 Cragwood Road
-employer_address2              | Suite 224
-employer_city                  | South Plainfield
-employer_state                 | NJ
-employer_postal_code           | 07080
-begin_date                     | 2025-11-12
-end_date                       | 2028-11-11
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Rigas Technologies Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25309-374149
-job_title                      | Quality Assurance Engineer
-employer_name                  | Matrix Tech Solutions Inc
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 17139293288
-employer_poc_first_name        | Srividya
-employer_poc_last_name         | Jaligama
-employer_poc_email             | hr@matrixtechinc.com
-employer_poc_phone             | 17139293288
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Dexter Ave
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | 
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 1500 S Dairy Ashford Road
-employer_address2              | STE 350
-employer_city                  | Houston
-employer_state                 | TX
-employer_postal_code           | 77077
-begin_date                     | 2025-11-11
-end_date                       | 2028-11-10
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Matrix Tech Solutions Inc
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 3 ]------------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25158-065589
 job_title                      | Software Engineer
 employer_name                  | GRAVITON SOLUTIONS INC
@@ -361,7 +97,7 @@ amended_petition               | 0
 employer_name                  | GRAVITON SOLUTIONS INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 4 ]------------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25217-223278
 job_title                      | Web Applications Programmer
 employer_name                  | GDH Consulting Inc
@@ -394,40 +130,7 @@ amended_petition               | 0
 employer_name                  | GDH Consulting Inc
 soc_code                       | 15-1254.00
 h_1b_dependent                 | No
--[ RECORD 13 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25101-856204
-job_title                      | Software Developer
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-secondary_entity_business_name | Alabama Department of Public Health (ADPH)
-employer_phone                 | 17277230801
-employer_poc_first_name        | Liliana
-employer_poc_last_name         | Torres Valencia
-employer_poc_email             | liliana.torres@sstech.us
-employer_poc_phone             | 17277230801
-employer_poc_phone_ext         | 
-worksite_address1              | 204 Legends Ct
-worksite_address2              | 
-worksite_city                  | Prattville
-worksite_county                | AUTAUGA
-lawfirm_name_business_name     | 
-employer_address1              | 3000 BAYPORT DRIVE
-employer_address2              | SUITE 840
-employer_city                  | TAMPA
-employer_state                 | FL
-employer_postal_code           | 33607
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 5 ]------------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25101-856085
 job_title                      | Software Developer
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
@@ -460,93 +163,27 @@ amended_petition               | 0
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 15 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25153-042429
-job_title                      | Business Intelligence Analyst
-employer_name                  | Right Option Inc
-secondary_entity_business_name | Alabama State Medicaid Agency
-employer_phone                 | 15718884577
-employer_poc_first_name        | Vijaya
-employer_poc_last_name         | Mosali
-employer_poc_email             | hr@rightoptioninc.com
-employer_poc_phone             | 15718884577
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Dexter Ave
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | BBI LAW GROUP PC
-employer_address1              | 22375 Broderick Drive
-employer_address2              | Suite 165 - A105
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20166
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Right Option Inc
-soc_code                       | 15-2051.01
-h_1b_dependent                 | No
--[ RECORD 16 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25155-052563
-job_title                      | Business Intelligence Analyst
-employer_name                  | Right Option Inc
-secondary_entity_business_name | Alabama State Medicaid Agency
-employer_phone                 | 15718884577
-employer_poc_first_name        | Vijaya
-employer_poc_last_name         | Mosali
-employer_poc_email             | hr@rightoptioninc.com
-employer_poc_phone             | 15718884577
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Dexter Ave
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | BBI LAW GROUP PC
-employer_address1              | 22375 Broderick Drive
-employer_address2              | Suite 165 - A105
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20166
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Right Option Inc
-soc_code                       | 15-2051.01
-h_1b_dependent                 | No
--[ RECORD 17 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25134-976523
+-[ RECORD 6 ]------------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25101-856204
 job_title                      | Software Developer
-employer_name                  | SAGE IT INC
-secondary_entity_business_name | Alabama Department of Public Health
-employer_phone                 | 12146192030
-employer_poc_first_name        | Vijay
-employer_poc_last_name         | Pelaprolu
-employer_poc_email             | SJ01@SAGEITINC.COM
-employer_poc_phone             | 12146192030
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
+secondary_entity_business_name | Alabama Department of Public Health (ADPH)
+employer_phone                 | 17277230801
+employer_poc_first_name        | Liliana
+employer_poc_last_name         | Torres Valencia
+employer_poc_email             | liliana.torres@sstech.us
+employer_poc_phone             | 17277230801
 employer_poc_phone_ext         | 
-worksite_address1              | 201 Monroe St, Suite 840
+worksite_address1              | 204 Legends Ct
 worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
+worksite_city                  | Prattville
+worksite_county                | AUTAUGA
 lawfirm_name_business_name     | 
-employer_address1              | 3535 VICTORY GROUP WAY BLDG 4
-employer_address2              | 
-employer_city                  | FRISCO
-employer_state                 | TX
-employer_postal_code           | 75034
+employer_address1              | 3000 BAYPORT DRIVE
+employer_address2              | SUITE 840
+employer_city                  | TAMPA
+employer_state                 | FL
+employer_postal_code           | 33607
 begin_date                     | 2025-10-01
 end_date                       | 2028-09-30
 total_worker_positions         | 1
@@ -556,10 +193,10 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | SAGE IT INC
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 18 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 7 ]------------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25136-987894
 job_title                      | BI Analyst
 employer_name                  | CALIFORNIA CREATIVE SOLUTIONS INC
@@ -592,7 +229,7 @@ amended_petition               | 0
 employer_name                  | CALIFORNIA CREATIVE SOLUTIONS INC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 19 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 8 ]------------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25140-995968
 job_title                      | Quality Assurance Analyst
 employer_name                  | Caliber IT Solutions Inc
@@ -625,40 +262,73 @@ amended_petition               | 0
 employer_name                  | Caliber IT Solutions Inc
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
--[ RECORD 20 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25178-137178
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | CLOUDEND PLATFORM INC
-secondary_entity_business_name | STATE OF ALABAMA, DEPT. OF HUMAN RESOURCES
-employer_phone                 | 19093751818
-employer_poc_first_name        | SREEKANTH
-employer_poc_last_name         | AKKAPALLI
-employer_poc_email             | hr@thecloudend.com
-employer_poc_phone             | 19093751818
+-[ RECORD 9 ]------------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25153-042429
+job_title                      | Business Intelligence Analyst
+employer_name                  | Right Option Inc
+secondary_entity_business_name | Alabama State Medicaid Agency
+employer_phone                 | 15718884577
+employer_poc_first_name        | Vijaya
+employer_poc_last_name         | Mosali
+employer_poc_email             | hr@rightoptioninc.com
+employer_poc_phone             | 15718884577
 employer_poc_phone_ext         | 
-worksite_address1              | 64 N UNION STREET
-worksite_address2              | 6TH FLOOR
-worksite_city                  | MONTGOMERY
+worksite_address1              | 501 Dexter Ave
+worksite_address2              | 
+worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 5757 WOODWAY DR.
-employer_address2              | STE 300D
-employer_city                  | HOUSTON
-employer_state                 | TX
-employer_postal_code           | 77057
+lawfirm_name_business_name     | BBI LAW GROUP PC
+employer_address1              | 22375 Broderick Drive
+employer_address2              | Suite 165 - A105
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20166
 begin_date                     | 2025-10-01
 end_date                       | 2028-09-30
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | CLOUDEND PLATFORM INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+------------------------------------------------------------------------------------------------------------
+employer_name                  | Right Option Inc
+soc_code                       | 15-2051.01
+h_1b_dependent                 | No
+-[ RECORD 10 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25155-052563
+job_title                      | Business Intelligence Analyst
+employer_name                  | Right Option Inc
+secondary_entity_business_name | Alabama State Medicaid Agency
+employer_phone                 | 15718884577
+employer_poc_first_name        | Vijaya
+employer_poc_last_name         | Mosali
+employer_poc_email             | hr@rightoptioninc.com
+employer_poc_phone             | 15718884577
+employer_poc_phone_ext         | 
+worksite_address1              | 501 Dexter Ave
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | BBI LAW GROUP PC
+employer_address1              | 22375 Broderick Drive
+employer_address2              | Suite 165 - A105
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20166
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Right Option Inc
+soc_code                       | 15-2051.01
+h_1b_dependent                 | No
+-[ RECORD 11 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25107-876556
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | RapidIT Inc
@@ -691,27 +361,60 @@ amended_petition               | 0
 employer_name                  | RapidIT Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25113-895127
-job_title                      | Web Applications Programmer
-employer_name                  | Tek Ninjas Solutions LLC
+-[ RECORD 12 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25134-976523
+job_title                      | Software Developer
+employer_name                  | SAGE IT INC
 secondary_entity_business_name | Alabama Department of Public Health
-employer_phone                 | 14697310345
-employer_poc_first_name        | Neelima
-employer_poc_last_name         | Inampudi
-employer_poc_email             | immigration@tekninjas.com
-employer_poc_phone             | 14697310345
+employer_phone                 | 12146192030
+employer_poc_first_name        | Vijay
+employer_poc_last_name         | Pelaprolu
+employer_poc_email             | SJ01@SAGEITINC.COM
+employer_poc_phone             | 12146192030
 employer_poc_phone_ext         | 
-worksite_address1              | 201 Monroe St
+worksite_address1              | 201 Monroe St, Suite 840
 worksite_address2              | 
 worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
 lawfirm_name_business_name     | 
-employer_address1              | 4425 Plano Pkwy Ste 1402
+employer_address1              | 3535 VICTORY GROUP WAY BLDG 4
 employer_address2              | 
-employer_city                  | Carrollton
+employer_city                  | FRISCO
 employer_state                 | TX
-employer_postal_code           | 75010
+employer_postal_code           | 75034
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SAGE IT INC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25178-137178
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | CLOUDEND PLATFORM INC
+secondary_entity_business_name | STATE OF ALABAMA, DEPT. OF HUMAN RESOURCES
+employer_phone                 | 19093751818
+employer_poc_first_name        | SREEKANTH
+employer_poc_last_name         | AKKAPALLI
+employer_poc_email             | hr@thecloudend.com
+employer_poc_phone             | 19093751818
+employer_poc_phone_ext         | 
+worksite_address1              | 64 N UNION STREET
+worksite_address2              | 6TH FLOOR
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 5757 WOODWAY DR.
+employer_address2              | STE 300D
+employer_city                  | HOUSTON
+employer_state                 | TX
+employer_postal_code           | 77057
 begin_date                     | 2025-10-01
 end_date                       | 2028-09-30
 total_worker_positions         | 1
@@ -721,10 +424,10 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Tek Ninjas Solutions LLC
-soc_code                       | 15-1251
+employer_name                  | CLOUDEND PLATFORM INC
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 14 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25150-034709
 job_title                      | Software Developer
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
@@ -757,7 +460,40 @@ amended_petition               | 0
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 15 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25113-895127
+job_title                      | Web Applications Programmer
+employer_name                  | Tek Ninjas Solutions LLC
+secondary_entity_business_name | Alabama Department of Public Health
+employer_phone                 | 14697310345
+employer_poc_first_name        | Neelima
+employer_poc_last_name         | Inampudi
+employer_poc_email             | immigration@tekninjas.com
+employer_poc_phone             | 14697310345
+employer_poc_phone_ext         | 
+worksite_address1              | 201 Monroe St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 4425 Plano Pkwy Ste 1402
+employer_address2              | 
+employer_city                  | Carrollton
+employer_state                 | TX
+employer_postal_code           | 75010
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Tek Ninjas Solutions LLC
+soc_code                       | 15-1251
+h_1b_dependent                 | Yes
+-[ RECORD 16 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25197-178685
 job_title                      | BI/Reporting Analyst
 employer_name                  | CALIFORNIA CREATIVE SOLUTIONS INC
@@ -790,7 +526,7 @@ amended_petition               | 0
 employer_name                  | CALIFORNIA CREATIVE SOLUTIONS INC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 25 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 17 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25197-179994
 job_title                      | BI/Reporting Analyst
 employer_name                  | CALIFORNIA CREATIVE SOLUTIONS INC
@@ -823,7 +559,7 @@ amended_petition               | 0
 employer_name                  | CALIFORNIA CREATIVE SOLUTIONS INC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 26 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 18 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25254-302380
 job_title                      | Software Developer
 employer_name                  | Rigas Technologies Inc
@@ -856,7 +592,7 @@ amended_petition               | 0
 employer_name                  | Rigas Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 19 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25125-936854
 job_title                      | Assistant Professor of Microbiology
 employer_name                  | Alabama State University
@@ -889,7 +625,7 @@ amended_petition               | 0
 employer_name                  | Alabama State University
 soc_code                       | 25-1042
 h_1b_dependent                 | No
--[ RECORD 28 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 20 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25086-809414
 job_title                      | Behavioral Analyst II
 employer_name                  | Auburn University
@@ -922,7 +658,7 @@ amended_petition               | 0
 employer_name                  | Auburn University
 soc_code                       | 19-3033
 h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 21 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25209-205181
 job_title                      | POWER APPS/SQL DEVELOPER
 employer_name                  | MOBICLOUD LLC
@@ -955,7 +691,7 @@ amended_petition               | 0
 employer_name                  | MOBICLOUD LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 30 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 22 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25148-024501
 job_title                      | Assistant Professor
 employer_name                  | Alabama State University
@@ -988,40 +724,7 @@ amended_petition               | 0
 employer_name                  | Alabama State University
 soc_code                       | 25-1063
 h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25055-718864
-job_title                      | Assistant Professor of Biomedical Engineering
-employer_name                  | Alabama State University
-secondary_entity_business_name | 
-employer_phone                 | 13342294667
-employer_poc_first_name        | Renae
-employer_poc_last_name         | Daniel
-employer_poc_email             | rdaniel@alasu.edu
-employer_poc_phone             | 13342294667
-employer_poc_phone_ext         | 
-worksite_address1              | 915 South Jackson
-worksite_address2              | P. O. Box 271
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 915 South Jackson Street
-employer_address2              | 
-employer_city                  | Montgomery
-employer_state                 | AL
-employer_postal_code           | 36101
-begin_date                     | 2025-08-01
-end_date                       | 2028-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Alabama State University
-soc_code                       | 25-1032
-h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 23 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25149-029408
 job_title                      | Assistant Professor of Computer Science
 employer_name                  | Alabama State University
@@ -1054,40 +757,73 @@ amended_petition               | 0
 employer_name                  | Alabama State University
 soc_code                       | 25-1021
 h_1b_dependent                 | No
--[ RECORD 33 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25204-195747
-job_title                      | Instructor of Computer Science
+-[ RECORD 24 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25055-718864
+job_title                      | Assistant Professor of Biomedical Engineering
 employer_name                  | Alabama State University
 secondary_entity_business_name | 
 employer_phone                 | 13342294667
-employer_poc_first_name        | Quinton
-employer_poc_last_name         | Ross, Jr.
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
 employer_poc_email             | rdaniel@alasu.edu
 employer_poc_phone             | 13342294667
 employer_poc_phone_ext         | 
-worksite_address1              | 915 South Jackson Street
-worksite_address2              | P O Box 271
+worksite_address1              | 915 South Jackson
+worksite_address2              | P. O. Box 271
 worksite_city                  | Montgomery
-worksite_county                | 
+worksite_county                | MONTGOMERY
 lawfirm_name_business_name     | 
 employer_address1              | 915 South Jackson Street
-employer_address2              | PO Box 271
+employer_address2              | 
 employer_city                  | Montgomery
 employer_state                 | AL
-employer_postal_code           | 36104
+employer_postal_code           | 36101
 begin_date                     | 2025-08-01
 end_date                       | 2028-07-31
 total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
+new_employment                 | 0
+continued_employment           | 1
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
 employer_name                  | Alabama State University
-soc_code                       | 25-1021.00
+soc_code                       | 25-1032
 h_1b_dependent                 | No
--[ RECORD 34 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 25 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25055-718864
+job_title                      | Assistant Professor of Biomedical Engineering
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_phone                 | 13342294667
+employer_poc_first_name        | Renae
+employer_poc_last_name         | Daniel
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_phone_ext         | 
+worksite_address1              | 915 South Jackson
+worksite_address2              | P. O. Box 271
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | 
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36101
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Alabama State University
+soc_code                       | 25-1032.00
+h_1b_dependent                 | No
+-[ RECORD 26 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25203-191231
 job_title                      | Assistant Professor of Mathematics
 employer_name                  | Alabama State University
@@ -1120,7 +856,40 @@ amended_petition               | 0
 employer_name                  | Alabama State University
 soc_code                       | 25-1022.00
 h_1b_dependent                 | No
--[ RECORD 35 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 27 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25204-195747
+job_title                      | Instructor of Computer Science
+employer_name                  | Alabama State University
+secondary_entity_business_name | 
+employer_phone                 | 13342294667
+employer_poc_first_name        | Quinton
+employer_poc_last_name         | Ross, Jr.
+employer_poc_email             | rdaniel@alasu.edu
+employer_poc_phone             | 13342294667
+employer_poc_phone_ext         | 
+worksite_address1              | 915 South Jackson Street
+worksite_address2              | P O Box 271
+worksite_city                  | Montgomery
+worksite_county                | 
+lawfirm_name_business_name     | 
+employer_address1              | 915 South Jackson Street
+employer_address2              | PO Box 271
+employer_city                  | Montgomery
+employer_state                 | AL
+employer_postal_code           | 36104
+begin_date                     | 2025-08-01
+end_date                       | 2028-07-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Alabama State University
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 28 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25203-191094
 job_title                      | Assistant Professor of Mechanical Engineering
 employer_name                  | Alabama State University
@@ -1153,7 +922,7 @@ amended_petition               | 0
 employer_name                  | Alabama State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 36 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 29 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25199-185785
 job_title                      | Manager
 employer_name                  | PYXIS Management Consulting Group LLC
@@ -1186,7 +955,7 @@ amended_petition               | 1
 employer_name                  | PYXIS Management Consulting Group LLC
 soc_code                       | 15-1299.09
 h_1b_dependent                 | No
--[ RECORD 37 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 30 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25205-196508
 job_title                      | Data Base Analyst
 employer_name                  | Alice Tech Solutions LLC
@@ -1219,7 +988,7 @@ amended_petition               | 1
 employer_name                  | Alice Tech Solutions LLC
 soc_code                       | 15-1243.00
 h_1b_dependent                 | Yes
--[ RECORD 38 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 31 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25191-165062
 job_title                      | Software Application Developer
 employer_name                  | Euniverse Technologies LLC
@@ -1252,7 +1021,7 @@ amended_petition               | 1
 employer_name                  | Euniverse Technologies LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 32 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25087-809893
 job_title                      | Software Quality Assurance Analyst
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -1285,7 +1054,7 @@ amended_petition               | 0
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
--[ RECORD 40 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 33 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25086-809769
 job_title                      | Software Automation Test Engineer
 employer_name                  | Friendly Consultants Inc
@@ -1318,7 +1087,7 @@ amended_petition               | 1
 employer_name                  | Friendly Consultants Inc
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
--[ RECORD 41 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 34 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24296-423544
 job_title                      | Java Developer
 employer_name                  | IT America Inc
@@ -1351,7 +1120,73 @@ amended_petition               | 0
 employer_name                  | IT America Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 42 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 35 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24296-423544
+job_title                      | Java Developer
+employer_name                  | IT America Inc
+secondary_entity_business_name | Alabama Department of Human Resources
+employer_phone                 | 17329855100
+employer_poc_first_name        | Praveen
+employer_poc_last_name         | THADAKAMALLA
+employer_poc_email             | immigration@itamerica.com
+employer_poc_phone             | 17329855100
+employer_poc_phone_ext         | 204
+worksite_address1              | 50 N Ripley St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 100 Metroplex Drive
+employer_address2              | Suite 207
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 2025-04-18
+end_date                       | 2028-04-17
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | IT America Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 36 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24296-423544
+job_title                      | Java Developer
+employer_name                  | IT America Inc
+secondary_entity_business_name | Alabama Department of Human Resources
+employer_phone                 | 17329855100
+employer_poc_first_name        | Praveen
+employer_poc_last_name         | THADAKAMALLA
+employer_poc_email             | immigration@itamerica.com
+employer_poc_phone             | 17329855100
+employer_poc_phone_ext         | 204
+worksite_address1              | 50 N Ripley St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 100 Metroplex Drive
+employer_address2              | Suite 207
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 2025-04-18
+end_date                       | 2028-04-17
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | IT America Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 37 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25013-613631
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | AASRITA CONSULTING LLC
@@ -1384,7 +1219,73 @@ amended_petition               | 0
 employer_name                  | AASRITA CONSULTING LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 43 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 38 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25013-613631
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | AASRITA CONSULTING LLC
+secondary_entity_business_name | ALABAMA DEPARTMENT OF PUBLIC HEALTH
+employer_phone                 | 19734523084
+employer_poc_first_name        | ROSI REDDY
+employer_poc_last_name         | MAMILLA
+employer_poc_email             | ROSI@AASRITACONSULTING.COM
+employer_poc_phone             | 19734523084
+employer_poc_phone_ext         | 
+worksite_address1              | 201 MONROE STREET
+worksite_address2              | STE.  840
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 33 WOOD AVENUE SOUTH
+employer_address2              | SUITE 431
+employer_city                  | ISELIN
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2025-04-11
+end_date                       | 2028-04-10
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | AASRITA CONSULTING LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 39 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25080-793018
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | CONSULTING OPPORTUNITY HOLDINGS LLC
+secondary_entity_business_name | State of Alabama, Department of Human Resources
+employer_phone                 | 13026039976
+employer_poc_first_name        | CHELSEA
+employer_poc_last_name         | NEASON
+employer_poc_email             | chelsea@consultingopportunity.com
+employer_poc_phone             | 13026039976
+employer_poc_phone_ext         | 
+worksite_address1              | 64 N Union Street
+worksite_address2              | 6th floor
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | BHATIA PROFESSIONAL LAW CORPORATION
+employer_address1              | 14800 Quorum Dr
+employer_address2              | STE 271
+employer_city                  | Dallas
+employer_state                 | TX
+employer_postal_code           | 75254
+begin_date                     | 2025-03-20
+end_date                       | 2028-03-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | CONSULTING OPPORTUNITY HOLDINGS LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 40 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25080-793018
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | CONSULTING OPPORTUNITY HOLDINGS LLC
@@ -1417,7 +1318,7 @@ amended_petition               | 1
 employer_name                  | CONSULTING OPPORTUNITY HOLDINGS LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 44 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 41 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24235-285943
 job_title                      | EDI Specialist
 employer_name                  | Arnex Solutions LLC
@@ -1450,7 +1351,7 @@ amended_petition               | 0
 employer_name                  | Arnex Solutions LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 45 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 42 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24235-286014
 job_title                      | EDI Specialist
 employer_name                  | Arnex Solutions LLC
@@ -1483,7 +1384,7 @@ amended_petition               | 0
 employer_name                  | Arnex Solutions LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 46 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 43 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25002-589444
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | CLOUDEND PLATFORM INC
@@ -1514,6 +1415,105 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
 employer_name                  | CLOUDEND PLATFORM INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 44 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25002-589444
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | CLOUDEND PLATFORM INC
+secondary_entity_business_name | STATE OF ALABAMA, DEPT. OF HUMAN RESOURCES
+employer_phone                 | 19093751818
+employer_poc_first_name        | SREEKANTH
+employer_poc_last_name         | AKKAPALLI
+employer_poc_email             | hr@thecloudend.com
+employer_poc_phone             | 19093751818
+employer_poc_phone_ext         | 
+worksite_address1              | 64 N UNION STREET
+worksite_address2              | 6TH FLOOR
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 5757 WOODWAY DR
+employer_address2              | SUITE 300D
+employer_city                  | HOUSTON
+employer_state                 | TX
+employer_postal_code           | 77057
+begin_date                     | 2025-01-06
+end_date                       | 2028-01-05
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | CLOUDEND PLATFORM INC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 45 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24355-561392
+job_title                      | SQL ETL Developer
+employer_name                  | Orpine Inc
+secondary_entity_business_name | State of AL (Department of Human Resources)
+employer_phone                 | 14703001072
+employer_poc_first_name        | Ashwini
+employer_poc_last_name         | Songyan
+employer_poc_email             | immigration@orpine.com
+employer_poc_phone             | 17704751445
+employer_poc_phone_ext         | 
+worksite_address1              | 64 N. Union St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 5865 North Point Parkway
+employer_address2              | Ste 250
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30022
+begin_date                     | 2024-12-20
+end_date                       | 2027-12-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Orpine Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 46 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24355-561392
+job_title                      | SQL ETL Developer
+employer_name                  | Orpine Inc
+secondary_entity_business_name | State of AL (Department of Human Resources)
+employer_phone                 | 14703001072
+employer_poc_first_name        | Ashwini
+employer_poc_last_name         | Songyan
+employer_poc_email             | immigration@orpine.com
+employer_poc_phone             | 17704751445
+employer_poc_phone_ext         | 
+worksite_address1              | 64 N. Union St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 5865 North Point Parkway
+employer_address2              | Ste 250
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30022
+begin_date                     | 2024-12-20
+end_date                       | 2027-12-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Orpine Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 47 ]-----------------+------------------------------------------------------------------------------------------------------------
@@ -1547,7 +1547,7 @@ new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 1
 employer_name                  | Orpine Inc
-soc_code                       | 15-1252
+soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 48 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24221-253984
@@ -1586,6 +1586,72 @@ h_1b_dependent                 | No
 case_number                    | I-200-24338-512309
 job_title                      | Senior Business Analyst
 employer_name                  | Intone Networks Inc
+secondary_entity_business_name | State of Alabama – Medicaid Agency
+employer_phone                 | 17327213002
+employer_poc_first_name        | Sailaja
+employer_poc_last_name         | Allu
+employer_poc_email             | sailaja@intonenetworks.com
+employer_poc_phone             | 19089307189
+employer_poc_phone_ext         | 
+worksite_address1              | 501 Dexter Ave
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
+employer_address1              | 10 Austin Avenue
+employer_address2              | 
+employer_city                  | Iselin
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2024-12-09
+end_date                       | 2027-12-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Intone Networks Inc
+soc_code                       | 15-2031.00
+h_1b_dependent                 | Yes
+-[ RECORD 50 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24338-512309
+job_title                      | Senior Business Analyst
+employer_name                  | Intone Networks Inc
+secondary_entity_business_name | State of Alabama  Medicaid Agency
+employer_phone                 | 17327213002
+employer_poc_first_name        | Sailaja
+employer_poc_last_name         | Allu
+employer_poc_email             | sailaja@intonenetworks.com
+employer_poc_phone             | 19089307189
+employer_poc_phone_ext         | 
+worksite_address1              | 501 Dexter Ave
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
+employer_address1              | 10 Austin Avenue
+employer_address2              | 
+employer_city                  | Iselin
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2024-12-09
+end_date                       | 2027-12-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Intone Networks Inc
+soc_code                       | 15-2031.00
+h_1b_dependent                 | Yes
+-[ RECORD 51 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24338-512309
+job_title                      | Senior Business Analyst
+employer_name                  | Intone Networks Inc
 secondary_entity_business_name | State of Alabama - Medicaid Agency
 employer_phone                 | 17327213002
 employer_poc_first_name        | Sailaja
@@ -1615,7 +1681,7 @@ amended_petition               | 1
 employer_name                  | Intone Networks Inc
 soc_code                       | 15-2031
 h_1b_dependent                 | Yes
--[ RECORD 50 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 52 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24313-465007
 job_title                      | Senior Data Analyst
 employer_name                  | Cloud BC Labs Inc
@@ -1648,7 +1714,73 @@ amended_petition               | 1
 employer_name                  | Cloud BC Labs Inc
 soc_code                       | 15-1242
 h_1b_dependent                 | Yes
--[ RECORD 51 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 53 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24313-465007
+job_title                      | Senior Data Analyst
+employer_name                  | Cloud BC Labs Inc
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 17038842580
+employer_poc_first_name        | Sangharaj
+employer_poc_last_name         | Desai
+employer_poc_email             | sangharaj.desai@cloudbclabs.com
+employer_poc_phone             | 19099999779
+employer_poc_phone_ext         | 
+worksite_address1              | 201 Monroe St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | Chugh LLP
+employer_address1              | 1920 Association Dr
+employer_address2              | Suite 501
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20191
+begin_date                     | 2024-11-15
+end_date                       | 2027-11-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Cloud BC Labs Inc
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 54 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24313-465007
+job_title                      | Senior Data Analyst
+employer_name                  | Cloud BC Labs Inc
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 17038842580
+employer_poc_first_name        | Sangharaj
+employer_poc_last_name         | Desai
+employer_poc_email             | sangharaj.desai@cloudbclabs.com
+employer_poc_phone             | 19099999779
+employer_poc_phone_ext         | 
+worksite_address1              | 201 Monroe St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | Chugh LLP
+employer_address1              | 1920 Association Dr
+employer_address2              | Suite 501
+employer_city                  | Reston
+employer_state                 | VA
+employer_postal_code           | 20191
+begin_date                     | 2024-11-15
+end_date                       | 2027-11-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Cloud BC Labs Inc
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 55 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24256-334112
 job_title                      | SQL Server Developer
 employer_name                  | V3Tech Solutions Inc
@@ -1681,7 +1813,7 @@ amended_petition               | 1
 employer_name                  | V3Tech Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 52 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 56 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24275-378652
 job_title                      | Software Developer
 employer_name                  | Kiranam Technologies Inc
@@ -1714,7 +1846,106 @@ amended_petition               | 0
 employer_name                  | Kiranam Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 53 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 57 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24275-378652
+job_title                      | Software Developer
+employer_name                  | Kiranam Technologies Inc
+secondary_entity_business_name | Alabama Department of Public Health
+employer_phone                 | 19726249864
+employer_poc_first_name        | SOUJANYA
+employer_poc_last_name         | AR
+employer_poc_email             | ImmigrationOps@kiranam.com
+employer_poc_phone             | 19726249864
+employer_poc_phone_ext         | 
+worksite_address1              | 204 Legends Court
+worksite_address2              | 
+worksite_city                  | Prattville
+worksite_county                | AUTAUGA
+lawfirm_name_business_name     | 
+employer_address1              | 196 Southwestern Blvd
+employer_address2              | 
+employer_city                  | Coppell
+employer_state                 | TX
+employer_postal_code           | 75019
+begin_date                     | 2024-11-04
+end_date                       | 2027-11-04
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Kiranam Technologies Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 58 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24275-378652
+job_title                      | Software Developer
+employer_name                  | Kiranam Technologies Inc
+secondary_entity_business_name | Alabama Department of Public Health
+employer_phone                 | 19726249864
+employer_poc_first_name        | SOUJANYA
+employer_poc_last_name         | AR
+employer_poc_email             | ImmigrationOps@kiranam.com
+employer_poc_phone             | 19726249864
+employer_poc_phone_ext         | 
+worksite_address1              | 204 Legends Court
+worksite_address2              | 
+worksite_city                  | Prattville
+worksite_county                | AUTAUGA
+lawfirm_name_business_name     | 
+employer_address1              | 196 Southwestern Blvd
+employer_address2              | 
+employer_city                  | Coppell
+employer_state                 | TX
+employer_postal_code           | 75019
+begin_date                     | 2024-11-04
+end_date                       | 2027-11-04
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Kiranam Technologies Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 59 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24306-446986
+job_title                      | Database Administrator
+employer_name                  | L&T Tech Solutions Inc
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 16305427821
+employer_poc_first_name        | Geetha Lakshmi
+employer_poc_last_name         | Gangavarapu
+employer_poc_email             | GEETHA@LTTECHSOLUTIONS.COM
+employer_poc_phone             | 16305427821
+employer_poc_phone_ext         | 
+worksite_address1              | 64 North Union St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 5 REVERE DR
+employer_address2              | SUITE 200
+employer_city                  | NORTHBROOK
+employer_state                 | IL
+employer_postal_code           | 60062
+begin_date                     | 2024-11-01
+end_date                       | 2027-10-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | L&T Tech Solutions Inc
+soc_code                       | 15-1243.00
+h_1b_dependent                 | No
+-[ RECORD 60 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24306-446986
 job_title                      | Database Administrator
 employer_name                  | L&T Tech Solutions Inc
@@ -1747,7 +1978,40 @@ amended_petition               | 1
 employer_name                  | L&T Tech Solutions Inc
 soc_code                       | 15-1243
 h_1b_dependent                 | No
--[ RECORD 54 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 61 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24306-446986
+job_title                      | Database Administrator
+employer_name                  | L&T Tech Solutions Inc
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 16305427821
+employer_poc_first_name        | Geetha Lakshmi
+employer_poc_last_name         | Gangavarapu
+employer_poc_email             | GEETHA@LTTECHSOLUTIONS.COM
+employer_poc_phone             | 16305427821
+employer_poc_phone_ext         | 
+worksite_address1              | 64 North Union St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 5 REVERE DR
+employer_address2              | SUITE 200
+employer_city                  | NORTHBROOK
+employer_state                 | IL
+employer_postal_code           | 60062
+begin_date                     | 2024-11-01
+end_date                       | 2027-10-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | L&T Tech Solutions Inc
+soc_code                       | 15-1243.00
+h_1b_dependent                 | No
+-[ RECORD 62 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24136-000890
 job_title                      | SENIOR .NET DEVELOPER
 employer_name                  | STEM XPERT LLC
@@ -1780,7 +2044,40 @@ amended_petition               | 0
 employer_name                  | STEM XPERT LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 55 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 63 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24274-374447
+job_title                      | SOFTWARE QUALITY ASSURANCE ANALYSTS AND TESTER
+employer_name                  | AASRITA CONSULTING LLC
+secondary_entity_business_name | ALABAMA DEPARTMENT OF PUBLIC HEALTH
+employer_phone                 | 19734523084
+employer_poc_first_name        | ROSI REDDY
+employer_poc_last_name         | MAMILLA
+employer_poc_email             | ROSI@AASRITACONSULTING.COM
+employer_poc_phone             | 19734523084
+employer_poc_phone_ext         | 
+worksite_address1              | 201 MONROE STREET
+worksite_address2              | STE.  840
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 33 WOOD AVENUE SOUTH
+employer_address2              | SUITE 431
+employer_city                  | ISELIN
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2024-10-14
+end_date                       | 2027-10-13
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | AASRITA CONSULTING LLC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 64 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24274-374447
 job_title                      | SOFTWARE QUALITY ASSURANCE ANALYSTS AND TESTER
 employer_name                  | AASRITA CONSULTING LLC
@@ -1813,7 +2110,40 @@ amended_petition               | 1
 employer_name                  | AASRITA CONSULTING LLC
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
--[ RECORD 56 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 65 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24274-374447
+job_title                      | SOFTWARE QUALITY ASSURANCE ANALYSTS AND TESTER
+employer_name                  | AASRITA CONSULTING LLC
+secondary_entity_business_name | ALABAMA DEPARTMENT OF PUBLIC HEALTH
+employer_phone                 | 19734523084
+employer_poc_first_name        | ROSI REDDY
+employer_poc_last_name         | MAMILLA
+employer_poc_email             | ROSI@AASRITACONSULTING.COM
+employer_poc_phone             | 19734523084
+employer_poc_phone_ext         | 
+worksite_address1              | 201 MONROE STREET
+worksite_address2              | STE.  840
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 33 WOOD AVENUE SOUTH
+employer_address2              | SUITE 431
+employer_city                  | ISELIN
+employer_state                 | NJ
+employer_postal_code           | 08830
+begin_date                     | 2024-10-14
+end_date                       | 2027-10-13
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | AASRITA CONSULTING LLC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 66 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24220-252418
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | KIRANAM TECHNOLOGIES INC
@@ -1846,304 +2176,7 @@ amended_petition               | 0
 employer_name                  | KIRANAM TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 57 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24092-845502
-job_title                      | Application Development Analyst
-employer_name                  | V-Soft Consulting Group INC
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 15024258425
-employer_poc_first_name        | TANYA
-employer_poc_last_name         | BLOCKER
-employer_poc_email             | tanya@vsoftconsulting.com
-employer_poc_phone             | 15024258425
-employer_poc_phone_ext         | 
-worksite_address1              | 649 Monroe St
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 2550 EASTPOINT PARKWAY
-employer_address2              | STE 300
-employer_city                  | LOUISVILLE
-employer_state                 | KY
-employer_postal_code           | 40223
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | V-Soft Consulting Group INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 58 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24122-946140
-job_title                      | Cyber Security Analyst
-employer_name                  | Rubistone Technologies LLC
-secondary_entity_business_name | Alabama Department of Corrections
-employer_phone                 | 19808092009
-employer_poc_first_name        | Balaraj
-employer_poc_last_name         | Cirigiri
-employer_poc_email             | immigration@rubistonetechnogies.com
-employer_poc_phone             | 19808092009
-employer_poc_phone_ext         | 
-worksite_address1              | 301 S Ripley Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 8819 University East Dr
-employer_address2              | Suite 200
-employer_city                  | Charlotte
-employer_state                 | NC
-employer_postal_code           | 28213
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Rubistone Technologies LLC
-soc_code                       | 15-1212.00
-h_1b_dependent                 | No
--[ RECORD 59 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24114-916782
-job_title                      | Sr. Software Developer
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 17038707407
-employer_poc_first_name        | Tzu-Hui
-employer_poc_last_name         | Chien
-employer_poc_email             | olivia.chien@sstech.us
-employer_poc_phone             | 17038707407
-employer_poc_phone_ext         | 
-worksite_address1              | 50 North Ripley Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 2551 DULLES VIEW DRIVE
-employer_address2              | SUITE 350
-employer_city                  | HERNDON
-employer_state                 | VA
-employer_postal_code           | 20171
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 60 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24172-134481
-job_title                      | DATABASE ADMINISTRATOR
-employer_name                  | ROBOTICS TECHNOLOGIES LLC
-secondary_entity_business_name | STATE OF ALABAMA- DEPARTMENT OF HUMAN RESOURCES
-employer_phone                 | 13087372038
-employer_poc_first_name        | PRAMOD NARSIMALU
-employer_poc_last_name         | ALLURWAR
-employer_poc_email             | h1b@roboticstechno.com
-employer_poc_phone             | 13087372038
-employer_poc_phone_ext         | 
-worksite_address1              | 50 N RIPLEY ST
-worksite_address2              | 
-worksite_city                  | MONTGOMERY
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 559 W WHEATLAND ROAD
-employer_address2              | SUITE 113
-employer_city                  | DUNCANVILLE
-employer_state                 | TX
-employer_postal_code           | 75116-4515
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ROBOTICS TECHNOLOGIES LLC
-soc_code                       | 15-1242.00
-h_1b_dependent                 | No
--[ RECORD 61 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24129-970530
-job_title                      | Business Analyst
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 17038707407
-employer_poc_first_name        | Tzu-Hui
-employer_poc_last_name         | Chien
-employer_poc_email             | olivia.chien@sstech.us
-employer_poc_phone             | 17038707407
-employer_poc_phone_ext         | 
-worksite_address1              | 201 Monroe Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 2551 DULLES VIEW DRIVE
-employer_address2              | SUITE 350
-employer_city                  | HERNDON
-employer_state                 | VA
-employer_postal_code           | 20171
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-soc_code                       | 15-2031.00
-h_1b_dependent                 | Yes
--[ RECORD 62 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24141-014940
-job_title                      | Software Developer
-employer_name                  | CloudnineTek LLC
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 12347014004
-employer_poc_first_name        | Nathan
-employer_poc_last_name         | Patel
-employer_poc_email             | Immigration@cloudninetek.com
-employer_poc_phone             | 12347014004
-employer_poc_phone_ext         | 0
-worksite_address1              | 64 N Union Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 10735 David Taylor Dr
-employer_address2              | suite 320
-employer_city                  | Charlotte
-employer_state                 | NC
-employer_postal_code           | 28262
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | CloudnineTek LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 63 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24130-976538
-job_title                      | Software Application Developer
-employer_name                  | Euniverse Technologies LLC
-secondary_entity_business_name | State Of Alabama - Department of Labor
-employer_phone                 | 15182247333
-employer_poc_first_name        | Rajani Priya
-employer_poc_last_name         | challa
-employer_poc_email             | immigration@euniversetechnologies.com
-employer_poc_phone             | 15182247333
-employer_poc_phone_ext         | 
-worksite_address1              | 649 Monroe St
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 1300 W. Walnut Hill Ln
-employer_address2              | STE 107
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75038
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Euniverse Technologies LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 64 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24094-852632
-job_title                      | Software Developer
-employer_name                  | Rigas Technologies Inc
-secondary_entity_business_name | State Of Alabama
-employer_phone                 | 16466665817
-employer_poc_first_name        | Keerthi
-employer_poc_last_name         | VASIREDDY
-employer_poc_email             | immigration@rigastech.com
-employer_poc_phone             | 16466665817
-employer_poc_phone_ext         | 
-worksite_address1              | 64 N Union Street
-worksite_address2              | N/A
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES LLP
-employer_address1              | 50 Cragwood Road
-employer_address2              | Suite 224
-employer_city                  | South Plainfield
-employer_state                 | NJ
-employer_postal_code           | 07080
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Rigas Technologies Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 65 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24108-896467
-job_title                      | Java Developer
-employer_name                  | VIRAT SOLUTIONS INC
-secondary_entity_business_name | Alabama Department of Human Resources
-employer_phone                 | 19728483729
-employer_poc_first_name        | Bhavya
-employer_poc_last_name         | Jakka Sai
-employer_poc_email             | hr@viratsolutions.com
-employer_poc_phone             | 19728483729
-employer_poc_phone_ext         | 
-worksite_address1              | 200 Interstate Parkway Dr
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 25663 Smotherman Road
-employer_address2              | SUITE 202
-employer_city                  | FRISCO
-employer_state                 | TX
-employer_postal_code           | 75033
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | VIRAT SOLUTIONS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 66 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 67 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24154-061005
 job_title                      | Systems Administrator
 employer_name                  | Hashcode Technologies Inc
@@ -2176,7 +2209,304 @@ amended_petition               | 0
 employer_name                  | Hashcode Technologies Inc
 soc_code                       | 15-1244.00
 h_1b_dependent                 | No
--[ RECORD 67 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 68 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24114-916782
+job_title                      | Sr. Software Developer
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 17038707407
+employer_poc_first_name        | Tzu-Hui
+employer_poc_last_name         | Chien
+employer_poc_email             | olivia.chien@sstech.us
+employer_poc_phone             | 17038707407
+employer_poc_phone_ext         | 
+worksite_address1              | 50 North Ripley Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 2551 DULLES VIEW DRIVE
+employer_address2              | SUITE 350
+employer_city                  | HERNDON
+employer_state                 | VA
+employer_postal_code           | 20171
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 69 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24129-970530
+job_title                      | Business Analyst
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 17038707407
+employer_poc_first_name        | Tzu-Hui
+employer_poc_last_name         | Chien
+employer_poc_email             | olivia.chien@sstech.us
+employer_poc_phone             | 17038707407
+employer_poc_phone_ext         | 
+worksite_address1              | 201 Monroe Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 2551 DULLES VIEW DRIVE
+employer_address2              | SUITE 350
+employer_city                  | HERNDON
+employer_state                 | VA
+employer_postal_code           | 20171
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
+soc_code                       | 15-2031.00
+h_1b_dependent                 | Yes
+-[ RECORD 70 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24092-845502
+job_title                      | Application Development Analyst
+employer_name                  | V-Soft Consulting Group INC
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 15024258425
+employer_poc_first_name        | TANYA
+employer_poc_last_name         | BLOCKER
+employer_poc_email             | tanya@vsoftconsulting.com
+employer_poc_phone             | 15024258425
+employer_poc_phone_ext         | 
+worksite_address1              | 649 Monroe St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 2550 EASTPOINT PARKWAY
+employer_address2              | STE 300
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40223
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | V-Soft Consulting Group INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 71 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24108-896467
+job_title                      | Java Developer
+employer_name                  | VIRAT SOLUTIONS INC
+secondary_entity_business_name | Alabama Department of Human Resources
+employer_phone                 | 19728483729
+employer_poc_first_name        | Bhavya
+employer_poc_last_name         | Jakka Sai
+employer_poc_email             | hr@viratsolutions.com
+employer_poc_phone             | 19728483729
+employer_poc_phone_ext         | 
+worksite_address1              | 200 Interstate Parkway Dr
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
+employer_address1              | 25663 Smotherman Road
+employer_address2              | SUITE 202
+employer_city                  | FRISCO
+employer_state                 | TX
+employer_postal_code           | 75033
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | VIRAT SOLUTIONS INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 72 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24130-976538
+job_title                      | Software Application Developer
+employer_name                  | Euniverse Technologies LLC
+secondary_entity_business_name | State Of Alabama - Department of Labor
+employer_phone                 | 15182247333
+employer_poc_first_name        | Rajani Priya
+employer_poc_last_name         | challa
+employer_poc_email             | immigration@euniversetechnologies.com
+employer_poc_phone             | 15182247333
+employer_poc_phone_ext         | 
+worksite_address1              | 649 Monroe St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
+employer_address1              | 1300 W. Walnut Hill Ln
+employer_address2              | STE 107
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75038
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Euniverse Technologies LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 73 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24172-134481
+job_title                      | DATABASE ADMINISTRATOR
+employer_name                  | ROBOTICS TECHNOLOGIES LLC
+secondary_entity_business_name | STATE OF ALABAMA- DEPARTMENT OF HUMAN RESOURCES
+employer_phone                 | 13087372038
+employer_poc_first_name        | PRAMOD NARSIMALU
+employer_poc_last_name         | ALLURWAR
+employer_poc_email             | h1b@roboticstechno.com
+employer_poc_phone             | 13087372038
+employer_poc_phone_ext         | 
+worksite_address1              | 50 N RIPLEY ST
+worksite_address2              | 
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 559 W WHEATLAND ROAD
+employer_address2              | SUITE 113
+employer_city                  | DUNCANVILLE
+employer_state                 | TX
+employer_postal_code           | 75116-4515
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ROBOTICS TECHNOLOGIES LLC
+soc_code                       | 15-1242.00
+h_1b_dependent                 | No
+-[ RECORD 74 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24094-852632
+job_title                      | Software Developer
+employer_name                  | Rigas Technologies Inc
+secondary_entity_business_name | State Of Alabama
+employer_phone                 | 16466665817
+employer_poc_first_name        | Keerthi
+employer_poc_last_name         | VASIREDDY
+employer_poc_email             | immigration@rigastech.com
+employer_poc_phone             | 16466665817
+employer_poc_phone_ext         | 
+worksite_address1              | 64 N Union Street
+worksite_address2              | N/A
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES LLP
+employer_address1              | 50 Cragwood Road
+employer_address2              | Suite 224
+employer_city                  | South Plainfield
+employer_state                 | NJ
+employer_postal_code           | 07080
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Rigas Technologies Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 75 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24141-014940
+job_title                      | Software Developer
+employer_name                  | CloudnineTek LLC
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 12347014004
+employer_poc_first_name        | Nathan
+employer_poc_last_name         | Patel
+employer_poc_email             | Immigration@cloudninetek.com
+employer_poc_phone             | 12347014004
+employer_poc_phone_ext         | 0
+worksite_address1              | 64 N Union Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 10735 David Taylor Dr
+employer_address2              | suite 320
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28262
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CloudnineTek LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 76 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24122-946140
+job_title                      | Cyber Security Analyst
+employer_name                  | Rubistone Technologies LLC
+secondary_entity_business_name | Alabama Department of Corrections
+employer_phone                 | 19808092009
+employer_poc_first_name        | Balaraj
+employer_poc_last_name         | Cirigiri
+employer_poc_email             | immigration@rubistonetechnogies.com
+employer_poc_phone             | 19808092009
+employer_poc_phone_ext         | 
+worksite_address1              | 301 S Ripley Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 8819 University East Dr
+employer_address2              | Suite 200
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28213
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Rubistone Technologies LLC
+soc_code                       | 15-1212.00
+h_1b_dependent                 | No
+-[ RECORD 77 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24181-162366
 job_title                      | Senior Software Developer
 employer_name                  | ITProfound Inc
@@ -2209,7 +2539,7 @@ amended_petition               | 0
 employer_name                  | ITProfound Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 68 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 78 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24088-836662
 job_title                      | Business Intelligence Analyst
 employer_name                  | SOFTNICE INC
@@ -2242,7 +2572,7 @@ amended_petition               | 0
 employer_name                  | SOFTNICE INC
 soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
--[ RECORD 69 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 79 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24220-252510
 job_title                      | Rehabilitaion Counselor
 employer_name                  | Alabama Department of Rehabilitation Services
@@ -2275,7 +2605,7 @@ amended_petition               | 0
 employer_name                  | Alabama Department of Rehabilitation Services
 soc_code                       | 21-1015.00
 h_1b_dependent                 | No
--[ RECORD 70 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 80 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24232-276823
 job_title                      | Senior Developer
 employer_name                  | APPLAB SYSTEMS INC
@@ -2308,7 +2638,7 @@ amended_petition               | 1
 employer_name                  | APPLAB SYSTEMS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 71 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 81 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24057-749157
 job_title                      | Software Developer
 employer_name                  | SVAM International Inc
@@ -2341,7 +2671,7 @@ amended_petition               | 0
 employer_name                  | SVAM International Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 72 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 82 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24229-273826
 job_title                      | Database Analyst
 employer_name                  | APPLAB SYSTEMS INC
@@ -2374,7 +2704,7 @@ amended_petition               | 1
 employer_name                  | APPLAB SYSTEMS INC
 soc_code                       | 15-1242.00
 h_1b_dependent                 | No
--[ RECORD 73 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 83 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-203-25044-692131
 job_title                      | SR. APPLICATION DEVELOPER
 employer_name                  | HCL GLOBAL SYSTEMS INC
@@ -2407,7 +2737,40 @@ amended_petition               | 0
 employer_name                  | HCL GLOBAL SYSTEMS INC
 soc_code                       | 15-1252
 h_1b_dependent                 | N/A
--[ RECORD 74 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 84 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-203-25044-692131
+job_title                      | SR. APPLICATION DEVELOPER
+employer_name                  | HCL GLOBAL SYSTEMS INC
+secondary_entity_business_name | ALABAMA DEPARTMENT OF PUBLIC HEALTH
+employer_phone                 | 12484730720
+employer_poc_first_name        | DURGA PRASAD
+employer_poc_last_name         | GADDE
+employer_poc_email             | GADDE@HCLGLOBAL.COM
+employer_poc_phone             | 12484730720
+employer_poc_phone_ext         | 200
+worksite_address1              | 201 MONROE STREET
+worksite_address2              | SUITE 1500
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 24543 INDOPLEX CIRCLE
+employer_address2              | SUITE 220
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2025-08-15
+end_date                       | 2027-08-14
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | HCL GLOBAL SYSTEMS INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | N/A
+-[ RECORD 85 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-203-25037-673085
 job_title                      | SR. APPLICATION DEVELOPER
 employer_name                  | HCL GLOBAL SYSTEMS INC
@@ -2440,7 +2803,40 @@ amended_petition               | 0
 employer_name                  | HCL GLOBAL SYSTEMS INC
 soc_code                       | 15-1252
 h_1b_dependent                 | N/A
--[ RECORD 75 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 86 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-203-25037-673085
+job_title                      | SR. APPLICATION DEVELOPER
+employer_name                  | HCL GLOBAL SYSTEMS INC
+secondary_entity_business_name | ALABAMA DEPARTMENT OF PUBLIC HEALTH
+employer_phone                 | 12484730720
+employer_poc_first_name        | DURGA PRASAD
+employer_poc_last_name         | GADDE
+employer_poc_email             | GADDE@HCLGLOBAL.COM
+employer_poc_phone             | 12484730720
+employer_poc_phone_ext         | 200
+worksite_address1              | 201 MONROE STREET
+worksite_address2              | SUITE 1500
+worksite_city                  | MONTGOMERY
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 24543 INDOPLEX CIRCLE
+employer_address2              | SUITE 220
+employer_city                  | FARMINGTON HILLS
+employer_state                 | MI
+employer_postal_code           | 48335
+begin_date                     | 2025-08-08
+end_date                       | 2027-08-07
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | HCL GLOBAL SYSTEMS INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | N/A
+-[ RECORD 87 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24180-158496
 job_title                      | Assistant Professor
 employer_name                  | Alabama State University
@@ -2473,7 +2869,7 @@ amended_petition               | 0
 employer_name                  | Alabama State University
 soc_code                       | 25-1021.00
 h_1b_dependent                 | No
--[ RECORD 76 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 88 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24136-998375
 job_title                      | Assistant Professor of Mechanical Engineering
 employer_name                  | Alabama State University
@@ -2506,7 +2902,7 @@ amended_petition               | 0
 employer_name                  | Alabama State University
 soc_code                       | 25-1032.00
 h_1b_dependent                 | No
--[ RECORD 77 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 89 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23314-494060
 job_title                      | DEVELOPER
 employer_name                  | GSS INFOTECH CT INC
@@ -2539,7 +2935,7 @@ amended_petition               | 0
 employer_name                  | GSS INFOTECH CT INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 78 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 90 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24053-741493
 job_title                      | Software Developer
 employer_name                  | Kiranam Technologies Inc
@@ -2572,7 +2968,7 @@ amended_petition               | 0
 employer_name                  | Kiranam Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 79 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 91 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24067-780031
 job_title                      | SERVICENOW DEVELOPER
 employer_name                  | SAION SOLUTION INC
@@ -2605,7 +3001,7 @@ amended_petition               | 1
 employer_name                  | SAION SOLUTION INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 80 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 92 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24071-787502
 job_title                      | SERVICENOW DEVELOPER
 employer_name                  | SAION SOLUTION INC
@@ -2638,7 +3034,7 @@ amended_petition               | 1
 employer_name                  | SAION SOLUTION INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 81 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 93 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24050-729606
 job_title                      | QA Analyst
 employer_name                  | ITvorks Inc
@@ -2671,7 +3067,7 @@ amended_petition               | 1
 employer_name                  | ITvorks Inc
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 82 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 94 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23249-325791
 job_title                      | Software Developer
 employer_name                  | LORSHI SYSTEMS LLC
@@ -2704,7 +3100,40 @@ amended_petition               | 0
 employer_name                  | LORSHI SYSTEMS LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 83 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 95 ]-----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25015-619012
+job_title                      | Software Developer
+employer_name                  | REVIVE SOFTWARE SYSTEMS INC
+secondary_entity_business_name | Acro Services Corp/ State of Alabama
+employer_phone                 | 19452448354
+employer_poc_first_name        | KSHITIJ
+employer_poc_last_name         | ARSID
+employer_poc_email             | hr@reviveinc.us
+employer_poc_phone             | 19452448354
+employer_poc_phone_ext         | 
+worksite_address1              | 64 N UNION STREET
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 8105 RASOR BLVD
+employer_address2              | SUITE 271
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75024
+begin_date                     | 2025-01-22
+end_date                       | 2027-02-04
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | REVIVE SOFTWARE SYSTEMS INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 96 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24026-671447
 job_title                      | Software Developer
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
@@ -2737,7 +3166,7 @@ amended_petition               | 0
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 84 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 97 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25015-619012
 job_title                      | Software Developer
 employer_name                  | REVIVE SOFTWARE SYSTEMS INC
@@ -2770,7 +3199,7 @@ amended_petition               | 1
 employer_name                  | REVIVE SOFTWARE SYSTEMS INC
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 85 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 98 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24026-669379
 job_title                      | Software Developer
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
@@ -2803,7 +3232,7 @@ amended_petition               | 0
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 86 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 99 ]-----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24010-630926
 job_title                      | Software Quality Assurance Analyst
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -2836,7 +3265,7 @@ amended_petition               | 0
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 87 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 100 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23319-503030
 job_title                      | Biomedical Engineering Research Associate
 employer_name                  | Alabama State University
@@ -2869,7 +3298,7 @@ amended_petition               | 0
 employer_name                  | Alabama State University
 soc_code                       | 17-2031.00
 h_1b_dependent                 | No
--[ RECORD 88 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 101 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23317-498730
 job_title                      | Java Developer
 employer_name                  | Nuanza Inc
@@ -2902,40 +3331,7 @@ amended_petition               | 1
 employer_name                  | Nuanza Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 89 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23295-448621
-job_title                      | Business Analyst
-employer_name                  | Regal IT Services Inc
-secondary_entity_business_name | State of ALABAMA
-employer_phone                 | 18322661599
-employer_poc_first_name        | Maliza
-employer_poc_last_name         | Flores
-employer_poc_email             | hr@regalitservices.com
-employer_poc_phone             | 18322661599
-employer_poc_phone_ext         | 
-worksite_address1              | 501 Dexter Ave
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 633 E Fernhurst Dr
-employer_address2              | Ste 904
-employer_city                  | Katy
-employer_state                 | TX
-employer_postal_code           | 77450
-begin_date                     | 2023-10-23
-end_date                       | 2026-10-22
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Regal IT Services Inc
-soc_code                       | 15-1211.00
-h_1b_dependent                 | Yes
--[ RECORD 90 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 102 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23295-448619
 job_title                      | Business Analyst
 employer_name                  | Regal IT Services Inc
@@ -2968,7 +3364,40 @@ amended_petition               | 1
 employer_name                  | Regal IT Services Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 91 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 103 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23295-448621
+job_title                      | Business Analyst
+employer_name                  | Regal IT Services Inc
+secondary_entity_business_name | State of ALABAMA
+employer_phone                 | 18322661599
+employer_poc_first_name        | Maliza
+employer_poc_last_name         | Flores
+employer_poc_email             | hr@regalitservices.com
+employer_poc_phone             | 18322661599
+employer_poc_phone_ext         | 
+worksite_address1              | 501 Dexter Ave
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 633 E Fernhurst Dr
+employer_address2              | Ste 904
+employer_city                  | Katy
+employer_state                 | TX
+employer_postal_code           | 77450
+begin_date                     | 2023-10-23
+end_date                       | 2026-10-22
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Regal IT Services Inc
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 104 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23295-448618
 job_title                      | Business Analyst
 employer_name                  | Regal IT Services Inc
@@ -3001,7 +3430,7 @@ amended_petition               | 1
 employer_name                  | Regal IT Services Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 92 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 105 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23235-287949
 job_title                      | Physician (Cardiology)
 employer_name                  | Department of Veteran Affairs
@@ -3034,139 +3463,7 @@ amended_petition               | 0
 employer_name                  | Department of Veteran Affairs
 soc_code                       | 29-1229.00
 h_1b_dependent                 | No
--[ RECORD 93 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23131-014845
-job_title                      | Business Analyst
-employer_name                  | TECHLIGENT SYSTEMS INC
-secondary_entity_business_name | Alabama Department of Public Health
-employer_phone                 | 17039426560
-employer_poc_first_name        | Viral
-employer_poc_last_name         | Budhecha
-employer_poc_email             | hr@techligent.com
-employer_poc_phone             | 17039426560
-employer_poc_phone_ext         | 
-worksite_address1              | 201 Monroe St
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | Law Offices of Rakesh Mehrotra
-employer_address1              | 8605 WESTWOOD CENTER DRIVE
-employer_address2              | SUITE 503
-employer_city                  | VIENNA
-employer_state                 | VA
-employer_postal_code           | 22182
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | TECHLIGENT SYSTEMS INC
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 94 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23159-090067
-job_title                      | Azure Engineer
-employer_name                  | ITSTAC LLC
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 17037626731
-employer_poc_first_name        | Vamsi
-employer_poc_last_name         | Nagalla
-employer_poc_email             | hr@itstac.tech
-employer_poc_phone             | 17037626731
-employer_poc_phone_ext         | 
-worksite_address1              | 64 N Union St
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | Chugh LLP
-employer_address1              | 20130 Lakeview Center Plaza
-employer_address2              | Suite 400
-employer_city                  | Ashburn
-employer_state                 | VA
-employer_postal_code           | 20147
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | ITSTAC LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 95 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23115-962953
-job_title                      | Business Analyst
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-secondary_entity_business_name | Alabama Department of Public Health
-employer_phone                 | 17038707407
-employer_poc_first_name        | MADHAVI
-employer_poc_last_name         | SAMUDRALA
-employer_poc_email             | madhavi.samudrala@sstech.us
-employer_poc_phone             | 17038707407
-employer_poc_phone_ext         | 
-worksite_address1              | 201 Monroe St
-worksite_address2              | 10th floor
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 2551 DULLES VIEW DRIVE
-employer_address2              | SUITE 350
-employer_city                  | HERNDON
-employer_state                 | VA
-employer_postal_code           | 20171
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
-soc_code                       | 15-2031.00
-h_1b_dependent                 | Yes
--[ RECORD 96 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23146-057548
-job_title                      | Software Developer
-employer_name                  | Antra Inc
-secondary_entity_business_name | State of Alabama
-employer_phone                 | 17038441401
-employer_poc_first_name        | Renee
-employer_poc_last_name         | Gustafson
-employer_poc_email             | renee.gustafson@antra.com
-employer_poc_phone             | 17038441401
-employer_poc_phone_ext         | 
-worksite_address1              | 2715 Gunter Park Drive West
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 21000 Atlantic Boulevard
-employer_address2              | Suite 300
-employer_city                  | Sterling
-employer_state                 | VA
-employer_postal_code           | 20166
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Antra Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 97 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 106 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23115-962232
 job_title                      | Business Analyst
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
@@ -3199,7 +3496,7 @@ amended_petition               | 0
 employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
--[ RECORD 98 ]-----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 107 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23146-057015
 job_title                      | Application Developer
 employer_name                  | Antra Inc
@@ -3232,27 +3529,27 @@ amended_petition               | 0
 employer_name                  | Antra Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 99 ]-----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23255-339917
-job_title                      | Senior Web Developer
-employer_name                  | 22nd Century Technologies Inc
+-[ RECORD 108 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23115-962953
+job_title                      | Business Analyst
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
 secondary_entity_business_name | Alabama Department of Public Health
-employer_phone                 | 17325379191
-employer_poc_first_name        | Satvinder
-employer_poc_last_name         | Singh
-employer_poc_email             | ks@tscti.com
-employer_poc_phone             | 17325379191
+employer_phone                 | 17038707407
+employer_poc_first_name        | MADHAVI
+employer_poc_last_name         | SAMUDRALA
+employer_poc_email             | madhavi.samudrala@sstech.us
+employer_poc_phone             | 17038707407
 employer_poc_phone_ext         | 
-worksite_address1              | 201 Monroe Street
-worksite_address2              | Suite 850
+worksite_address1              | 201 Monroe St
+worksite_address2              | 10th floor
 worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | Capitol Immigration Law Group PLLC
-employer_address1              | 8251 Greensboro Dr
-employer_address2              | Suite 900
-employer_city                  | McLean
+lawfirm_name_business_name     | 
+employer_address1              | 2551 DULLES VIEW DRIVE
+employer_address2              | SUITE 350
+employer_city                  | HERNDON
 employer_state                 | VA
-employer_postal_code           | 22102
+employer_postal_code           | 20171
 begin_date                     | 2023-10-01
 end_date                       | 2026-09-30
 total_worker_positions         | 1
@@ -3262,43 +3559,76 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | 22nd Century Technologies Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 100 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23095-905894
-job_title                      | Software Developer
-employer_name                  | Think Analytix LLC
-secondary_entity_business_name | State of Alabama Department of Labor
-employer_phone                 | 19803334916
-employer_poc_first_name        | Jay Krishna
-employer_poc_last_name         | Reddy
-employer_poc_email             | service@thinkanalytix.com
-employer_poc_phone             | 19803334916
+employer_name                  | SYSTEM SOFT TECHNOLOGIES LLC
+soc_code                       | 15-2031.00
+h_1b_dependent                 | Yes
+-[ RECORD 109 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23131-014845
+job_title                      | Business Analyst
+employer_name                  | TECHLIGENT SYSTEMS INC
+secondary_entity_business_name | Alabama Department of Public Health
+employer_phone                 | 17039426560
+employer_poc_first_name        | Viral
+employer_poc_last_name         | Budhecha
+employer_poc_email             | hr@techligent.com
+employer_poc_phone             | 17039426560
 employer_poc_phone_ext         | 
-worksite_address1              | 649 Monroe St
+worksite_address1              | 201 Monroe St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | Law Offices of Rakesh Mehrotra
+employer_address1              | 8605 WESTWOOD CENTER DRIVE
+employer_address2              | SUITE 503
+employer_city                  | VIENNA
+employer_state                 | VA
+employer_postal_code           | 22182
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | TECHLIGENT SYSTEMS INC
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 110 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23146-057548
+job_title                      | Software Developer
+employer_name                  | Antra Inc
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 17038441401
+employer_poc_first_name        | Renee
+employer_poc_last_name         | Gustafson
+employer_poc_email             | renee.gustafson@antra.com
+employer_poc_phone             | 17038441401
+employer_poc_phone_ext         | 
+worksite_address1              | 2715 Gunter Park Drive West
 worksite_address2              | 
 worksite_city                  | Montgomery
 worksite_county                | MONTGOMERY
 lawfirm_name_business_name     | 
-employer_address1              | 1303 W Walnut Hill Ln , Suite 290
-employer_address2              | 
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75038
+employer_address1              | 21000 Atlantic Boulevard
+employer_address2              | Suite 300
+employer_city                  | Sterling
+employer_state                 | VA
+employer_postal_code           | 20166
 begin_date                     | 2023-10-01
 end_date                       | 2026-09-30
 total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
+new_employment                 | 1
+continued_employment           | 0
 change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | Think Analytix LLC
+employer_name                  | Antra Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 101 ]----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 111 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23144-049682
 job_title                      | IT Business Analyst
 employer_name                  | Amensys Inc
@@ -3331,7 +3661,106 @@ amended_petition               | 0
 employer_name                  | Amensys Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 102 ]----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 112 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23255-339917
+job_title                      | Senior Web Developer
+employer_name                  | 22nd Century Technologies Inc
+secondary_entity_business_name | Alabama Department of Public Health
+employer_phone                 | 17325379191
+employer_poc_first_name        | Satvinder
+employer_poc_last_name         | Singh
+employer_poc_email             | ks@tscti.com
+employer_poc_phone             | 17325379191
+employer_poc_phone_ext         | 
+worksite_address1              | 201 Monroe Street
+worksite_address2              | Suite 850
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | Capitol Immigration Law Group PLLC
+employer_address1              | 8251 Greensboro Dr
+employer_address2              | Suite 900
+employer_city                  | McLean
+employer_state                 | VA
+employer_postal_code           | 22102
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | 22nd Century Technologies Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 113 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23095-905894
+job_title                      | Software Developer
+employer_name                  | Think Analytix LLC
+secondary_entity_business_name | State of Alabama Department of Labor
+employer_phone                 | 19803334916
+employer_poc_first_name        | Jay Krishna
+employer_poc_last_name         | Reddy
+employer_poc_email             | service@thinkanalytix.com
+employer_poc_phone             | 19803334916
+employer_poc_phone_ext         | 
+worksite_address1              | 649 Monroe St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 1303 W Walnut Hill Ln , Suite 290
+employer_address2              | 
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75038
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Think Analytix LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 114 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23159-090067
+job_title                      | Azure Engineer
+employer_name                  | ITSTAC LLC
+secondary_entity_business_name | State of Alabama
+employer_phone                 | 17037626731
+employer_poc_first_name        | Vamsi
+employer_poc_last_name         | Nagalla
+employer_poc_email             | hr@itstac.tech
+employer_poc_phone             | 17037626731
+employer_poc_phone_ext         | 
+worksite_address1              | 64 N Union St
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | Chugh LLP
+employer_address1              | 20130 Lakeview Center Plaza
+employer_address2              | Suite 400
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ITSTAC LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 115 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23257-346861
 job_title                      | APPLICATION DEVELOPMENT ANALYST
 employer_name                  | OREMDA INFOTECH INC
@@ -3364,7 +3793,7 @@ amended_petition               | 0
 employer_name                  | OREMDA INFOTECH INC
 soc_code                       | 15-1211.00
 h_1b_dependent                 | No
--[ RECORD 103 ]----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 116 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23130-011001
 job_title                      | SQL Server Database Administrator
 employer_name                  | SVK Systems Inc
@@ -3397,7 +3826,7 @@ amended_petition               | 0
 employer_name                  | SVK Systems Inc
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 104 ]----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 117 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23241-304918
 job_title                      | SERVICENOW DEVELOPER
 employer_name                  | Saion Solutions Inc
@@ -3430,7 +3859,7 @@ amended_petition               | 1
 employer_name                  | Saion Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 105 ]----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 118 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23236-291166
 job_title                      | Software Developer
 employer_name                  | LORSHI SYSTEMS LLC
@@ -3463,7 +3892,7 @@ amended_petition               | 1
 employer_name                  | LORSHI SYSTEMS LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 106 ]----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 119 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23236-291166
 job_title                      | Software Developer
 employer_name                  | LORSHI SYSTEMS LLC
@@ -3496,40 +3925,7 @@ amended_petition               | 1
 employer_name                  | LORSHI SYSTEMS LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 107 ]----------------+------------------------------------------------------------------------------------------------------------
-case_number                    | I-200-23202-207923
-job_title                      | Business Analyst
-employer_name                  | Cloud5 Solutions Inc
-secondary_entity_business_name | Alabama Department of Public Health
-employer_phone                 | 12012904385
-employer_poc_first_name        | Srinivas
-employer_poc_last_name         | Mandipudi
-employer_poc_email             | hr@cloud5.ai
-employer_poc_phone             | 12012904385
-employer_poc_phone_ext         | 
-worksite_address1              | 201 Monroe Street
-worksite_address2              | 
-worksite_city                  | Montgomery
-worksite_county                | MONTGOMERY
-lawfirm_name_business_name     | 
-employer_address1              | 295 Durham Ave
-employer_address2              | Suite 102
-employer_city                  | South Plainfield
-employer_state                 | NJ
-employer_postal_code           | 07080
-begin_date                     | 2023-08-01
-end_date                       | 2026-07-31
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Cloud5 Solutions Inc
-soc_code                       | 15-1211.00
-h_1b_dependent                 | No
--[ RECORD 108 ]----------------+------------------------------------------------------------------------------------------------------------
+-[ RECORD 120 ]----------------+------------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23152-068585
 job_title                      | Assistant Professor
 employer_name                  | Alabama State University
@@ -3561,5 +3957,38 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | Alabama State University
 soc_code                       | 25-1063.00
+h_1b_dependent                 | No
+-[ RECORD 121 ]----------------+------------------------------------------------------------------------------------------------------------
+case_number                    | I-200-23202-207923
+job_title                      | Business Analyst
+employer_name                  | Cloud5 Solutions Inc
+secondary_entity_business_name | Alabama Department of Public Health
+employer_phone                 | 12012904385
+employer_poc_first_name        | Srinivas
+employer_poc_last_name         | Mandipudi
+employer_poc_email             | hr@cloud5.ai
+employer_poc_phone             | 12012904385
+employer_poc_phone_ext         | 
+worksite_address1              | 201 Monroe Street
+worksite_address2              | 
+worksite_city                  | Montgomery
+worksite_county                | MONTGOMERY
+lawfirm_name_business_name     | 
+employer_address1              | 295 Durham Ave
+employer_address2              | Suite 102
+employer_city                  | South Plainfield
+employer_state                 | NJ
+employer_postal_code           | 07080
+begin_date                     | 2023-08-01
+end_date                       | 2026-07-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Cloud5 Solutions Inc
+soc_code                       | 15-1211.00
 h_1b_dependent                 | No
 

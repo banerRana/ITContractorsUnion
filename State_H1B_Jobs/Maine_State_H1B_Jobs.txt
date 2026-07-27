@@ -1,37 +1,4 @@
 -[ RECORD 1 ]------------------+-------------------------------------------------------
-case_number                    | I-200-25354-499973
-job_title                      | SYSTEMS CONSULTANT
-employer_name                  | ACCELYST LLC
-secondary_entity_business_name | Global Technical Talent (project for State of Maine)
-employer_phone                 | 14073768909
-employer_poc_first_name        | Suresh
-employer_poc_last_name         | Chigurupati
-employer_poc_email             | Suresh.C@accelyst.ai
-employer_poc_phone             | 14073768909
-employer_poc_phone_ext         | 
-worksite_address1              | 145 State House Station
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | 
-lawfirm_name_business_name     | LAW OFFICES OF MADHAVI SAMUDRALA PC
-employer_address1              | 400 N Tampa St.
-employer_address2              | 15th FLOOR
-employer_city                  | TAMPA
-employer_state                 | FL
-employer_postal_code           | 33602
-begin_date                     | 2026-01-12
-end_date                       | 2029-01-11
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | ACCELYST LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 2 ]------------------+-------------------------------------------------------
 case_number                    | I-200-25262-321688
 job_title                      | Dynamics 365 Developer
 employer_name                  | BI Labs Inc
@@ -64,8 +31,41 @@ amended_petition               | 0
 employer_name                  | BI Labs Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 3 ]------------------+-------------------------------------------------------
+-[ RECORD 2 ]------------------+-------------------------------------------------------
 case_number                    | I-200-25241-276216
+job_title                      | SOFTWARE DEVELOPER
+employer_name                  | 3i INFOTECH INC
+secondary_entity_business_name | STATE OF MAINE, OIT, DEPARTMENT OF LABOR
+employer_phone                 | 17327104440
+employer_poc_first_name        | SATISH
+employer_poc_last_name         | PALUKURI
+employer_poc_email             | IMMIGRATION.US@3I-INFOTECH.COM
+employer_poc_phone             | 17327104440
+employer_poc_phone_ext         | 
+worksite_address1              | 51 COMMERCE DRIVE
+worksite_address2              | 
+worksite_city                  | AUGUSTA
+worksite_county                | 
+lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
+employer_address1              | 110 FIELDCREST AVENUE
+employer_address2              | SUITE 25
+employer_city                  | EDISON
+employer_state                 | NJ
+employer_postal_code           | 08837
+begin_date                     | 2025-12-27
+end_date                       | 2028-12-26
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | 3i INFOTECH INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 3 ]------------------+-------------------------------------------------------
+case_number                    | I-200-25198-182126
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | 3i INFOTECH INC
 secondary_entity_business_name | STATE OF MAINE, OIT, DEPARTMENT OF LABOR
@@ -131,39 +131,6 @@ employer_name                  | 3i INFOTECH INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
 -[ RECORD 5 ]------------------+-------------------------------------------------------
-case_number                    | I-200-25198-182126
-job_title                      | SOFTWARE DEVELOPER
-employer_name                  | 3i INFOTECH INC
-secondary_entity_business_name | STATE OF MAINE, OIT, DEPARTMENT OF LABOR
-employer_phone                 | 17327104440
-employer_poc_first_name        | SATISH
-employer_poc_last_name         | PALUKURI
-employer_poc_email             | IMMIGRATION.US@3I-INFOTECH.COM
-employer_poc_phone             | 17327104440
-employer_poc_phone_ext         | 
-worksite_address1              | 51 COMMERCE DRIVE
-worksite_address2              | 
-worksite_city                  | AUGUSTA
-worksite_county                | 
-lawfirm_name_business_name     | LAW OFFICE OF THOMAS V. ALLEN PLLC.
-employer_address1              | 110 FIELDCREST AVENUE
-employer_address2              | SUITE 25
-employer_city                  | EDISON
-employer_state                 | NJ
-employer_postal_code           | 08837
-begin_date                     | 2025-12-27
-end_date                       | 2028-12-26
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | 3i INFOTECH INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 6 ]------------------+-------------------------------------------------------
 case_number                    | I-200-25240-272413
 job_title                      | Software Developer
 employer_name                  | PIONEER CONSULTING LLC
@@ -195,6 +162,39 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | PIONEER CONSULTING LLC
 soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 6 ]------------------+-------------------------------------------------------
+case_number                    | I-200-25108-880345
+job_title                      | SOFTWARE ENGINEER
+employer_name                  | RapidIT Inc
+secondary_entity_business_name | State of Maine / Knowledge Services
+employer_phone                 | 16783663820
+employer_poc_first_name        | Sai K K
+employer_poc_last_name         | Vemulapalli
+employer_poc_email             | hradmin@rapiditinc.com
+employer_poc_phone             | 16783663820
+employer_poc_phone_ext         | 27
+worksite_address1              | 286 Water Street
+worksite_address2              | FLOOR 6
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 4080 McGinnis Ferry Road
+employer_address2              | Suite 1206
+employer_city                  | Alpharetta
+employer_state                 | GA
+employer_postal_code           | 30005
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | RapidIT Inc
+soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 7 ]------------------+-------------------------------------------------------
 case_number                    | I-200-25107-878127
@@ -230,39 +230,6 @@ employer_name                  | RapidIT Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 8 ]------------------+-------------------------------------------------------
-case_number                    | I-200-25108-880345
-job_title                      | SOFTWARE ENGINEER
-employer_name                  | RapidIT Inc
-secondary_entity_business_name | State of Maine / Knowledge Services
-employer_phone                 | 16783663820
-employer_poc_first_name        | Sai K K
-employer_poc_last_name         | Vemulapalli
-employer_poc_email             | hradmin@rapiditinc.com
-employer_poc_phone             | 16783663820
-employer_poc_phone_ext         | 27
-worksite_address1              | 286 Water Street
-worksite_address2              | FLOOR 6
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | 
-employer_address1              | 4080 McGinnis Ferry Road
-employer_address2              | Suite 1206
-employer_city                  | Alpharetta
-employer_state                 | GA
-employer_postal_code           | 30005
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | RapidIT Inc
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+-------------------------------------------------------
 case_number                    | I-200-25199-183917
 job_title                      | Software Engineer
 employer_name                  | Maruthi Technologies Inc
@@ -295,7 +262,7 @@ amended_petition               | 0
 employer_name                  | Maruthi Technologies Inc
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+-------------------------------------------------------
+-[ RECORD 9 ]------------------+-------------------------------------------------------
 case_number                    | I-200-25143-010769
 job_title                      | Software Developer
 employer_name                  | Vejars Technologies Inc
@@ -328,7 +295,7 @@ amended_petition               | 1
 employer_name                  | Vejars Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+-------------------------------------------------------
+-[ RECORD 10 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-25140-996012
 job_title                      | Software Developer
 employer_name                  | Vejars Technologies Inc
@@ -361,7 +328,73 @@ amended_petition               | 1
 employer_name                  | Vejars Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
+-[ RECORD 11 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24324-485085
+job_title                      | Multilingual Teacher
+employer_name                  | Town of Gorham-School Department
+secondary_entity_business_name | 
+employer_phone                 | 12072221012
+employer_poc_first_name        | Heather
+employer_poc_last_name         | Perry
+employer_poc_email             | heather.perry@gorhamschools.org
+employer_poc_phone             | 12072221012
+employer_poc_phone_ext         | 
+worksite_address1              | 106 Weeks Road
+worksite_address2              | 
+worksite_city                  | Gorham
+worksite_county                | GORHAM TOWN
+lawfirm_name_business_name     | Drummond Woodsum & MacMahon
+employer_address1              | 75 South Street
+employer_address2              | Suite 2
+employer_city                  | Gorham
+employer_state                 | ME
+employer_postal_code           | 04038
+begin_date                     | 2025-02-04
+end_date                       | 2028-02-03
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Town of Gorham-School Department
+soc_code                       | 25-2022.00
+h_1b_dependent                 | No
 -[ RECORD 12 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24324-485085
+job_title                      | Multilingual Teacher
+employer_name                  | Town of Gorham-School Department
+secondary_entity_business_name | 
+employer_phone                 | 12072221012
+employer_poc_first_name        | Heather
+employer_poc_last_name         | Perry
+employer_poc_email             | heather.perry@gorhamschools.org
+employer_poc_phone             | 12072221012
+employer_poc_phone_ext         | 
+worksite_address1              | 106 Weeks Road
+worksite_address2              | 
+worksite_city                  | Gorham
+worksite_county                | GORHAM TOWN
+lawfirm_name_business_name     | Drummond Woodsum & MacMahon
+employer_address1              | 75 South Street
+employer_address2              | Suite 2
+employer_city                  | Gorham
+employer_state                 | ME
+employer_postal_code           | 04038
+begin_date                     | 2025-02-04
+end_date                       | 2028-02-03
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Town of Gorham-School Department
+soc_code                       | 25-2022.00
+h_1b_dependent                 | No
+-[ RECORD 13 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24324-485085
 job_title                      | Multilingual Teacher
 employer_name                  | Town of Gorham-School Department
@@ -394,7 +427,7 @@ amended_petition               | 0
 employer_name                  | Town of Gorham-School Department
 soc_code                       | 25-2022
 h_1b_dependent                 | No
--[ RECORD 13 ]-----------------+-------------------------------------------------------
+-[ RECORD 14 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24346-536276
 job_title                      | SharePoint Developer
 employer_name                  | Maxary LLC
@@ -427,7 +460,73 @@ amended_petition               | 1
 employer_name                  | Maxary LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+-------------------------------------------------------
+-[ RECORD 15 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24346-536276
+job_title                      | SharePoint Developer
+employer_name                  | Maxary LLC
+secondary_entity_business_name | State of Maine
+employer_phone                 | 15712740719
+employer_poc_first_name        | Rajendar
+employer_poc_last_name         | Aitha
+employer_poc_email             | rajaitha@maxary.com
+employer_poc_phone             | 15712740719
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Dr (End Client address)
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | 
+employer_address1              | 722 E Market St
+employer_address2              | St 102
+employer_city                  | Leesburg
+employer_state                 | VA
+employer_postal_code           | 20176
+begin_date                     | 2024-12-11
+end_date                       | 2027-12-10
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Maxary LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 16 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24346-536276
+job_title                      | SharePoint Developer
+employer_name                  | Maxary LLC
+secondary_entity_business_name | State of Maine
+employer_phone                 | 15712740719
+employer_poc_first_name        | Rajendar
+employer_poc_last_name         | Aitha
+employer_poc_email             | rajaitha@maxary.com
+employer_poc_phone             | 15712740719
+employer_poc_phone_ext         | 
+worksite_address1              | 51 Commerce Dr (End Client address)
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | KENNEBUNK TOWN
+lawfirm_name_business_name     | 
+employer_address1              | 722 E Market St
+employer_address2              | St 102
+employer_city                  | Leesburg
+employer_state                 | VA
+employer_postal_code           | 20176
+begin_date                     | 2024-12-11
+end_date                       | 2027-12-10
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Maxary LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24117-928775
 job_title                      | React Developer
 employer_name                  | Avco Consulting Inc
@@ -460,7 +559,7 @@ amended_petition               | 0
 employer_name                  | Avco Consulting Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 15 ]-----------------+-------------------------------------------------------
+-[ RECORD 18 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24142-019236
 job_title                      | CYBER SECURITY ENGINEER
 employer_name                  | DIZER CORP
@@ -493,7 +592,7 @@ amended_petition               | 0
 employer_name                  | DIZER CORP
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
--[ RECORD 16 ]-----------------+-------------------------------------------------------
+-[ RECORD 19 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24133-985380
 job_title                      | Software Developer
 employer_name                  | Vejars Technologies Inc
@@ -526,7 +625,7 @@ amended_petition               | 0
 employer_name                  | Vejars Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+-------------------------------------------------------
+-[ RECORD 20 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24165-105255
 job_title                      | Software Developer
 employer_name                  | PIONEER CONSULTING LLC
@@ -559,7 +658,7 @@ amended_petition               | 0
 employer_name                  | PIONEER CONSULTING LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 18 ]-----------------+-------------------------------------------------------
+-[ RECORD 21 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24082-822090
 job_title                      | Systems Administrator
 employer_name                  | CNET GLOBAL SOLUTIONS INC
@@ -592,40 +691,7 @@ amended_petition               | 1
 employer_name                  | CNET GLOBAL SOLUTIONS INC
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
--[ RECORD 19 ]-----------------+-------------------------------------------------------
-case_number                    | I-200-24185-173884
-job_title                      | QA Systems Engineer
-employer_name                  | NIFTEK INC
-secondary_entity_business_name | State of Maine (Department of Health & Human Services)
-employer_phone                 | 17039627755
-employer_poc_first_name        | MAHEEDHAR
-employer_poc_last_name         | SIRIGIREDDY
-employer_poc_email             | immig@niftek.com
-employer_poc_phone             | 17039627755
-employer_poc_phone_ext         | 
-worksite_address1              | 2 Anthony Ave
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Akula & Associates PC
-employer_address1              | 5899 PRESTON ROAD
-employer_address2              | SUITE 1204
-employer_city                  | FRISCO
-employer_state                 | TX
-employer_postal_code           | 75034
-begin_date                     | 2024-08-20
-end_date                       | 2027-08-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | NIFTEK INC
-soc_code                       | 15-1253.00
-h_1b_dependent                 | Yes
--[ RECORD 20 ]-----------------+-------------------------------------------------------
+-[ RECORD 22 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24190-180181
 job_title                      | QA Systems Engineer
 employer_name                  | NIFTEK INC
@@ -658,7 +724,40 @@ amended_petition               | 0
 employer_name                  | NIFTEK INC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+-------------------------------------------------------
+-[ RECORD 23 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-24185-173884
+job_title                      | QA Systems Engineer
+employer_name                  | NIFTEK INC
+secondary_entity_business_name | State of Maine (Department of Health & Human Services)
+employer_phone                 | 17039627755
+employer_poc_first_name        | MAHEEDHAR
+employer_poc_last_name         | SIRIGIREDDY
+employer_poc_email             | immig@niftek.com
+employer_poc_phone             | 17039627755
+employer_poc_phone_ext         | 
+worksite_address1              | 2 Anthony Ave
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Akula & Associates PC
+employer_address1              | 5899 PRESTON ROAD
+employer_address2              | SUITE 1204
+employer_city                  | FRISCO
+employer_state                 | TX
+employer_postal_code           | 75034
+begin_date                     | 2024-08-20
+end_date                       | 2027-08-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | NIFTEK INC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 24 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24213-233728
 job_title                      | Analyst
 employer_name                  | Tata Consultancy Services Limited
@@ -691,7 +790,7 @@ amended_petition               | 0
 employer_name                  | Tata Consultancy Services Limited
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+-------------------------------------------------------
+-[ RECORD 25 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24200-206899
 job_title                      | Oracle Developer
 employer_name                  | RITWIK Infotech Inc
@@ -724,7 +823,7 @@ amended_petition               | 0
 employer_name                  | RITWIK Infotech Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 23 ]-----------------+-------------------------------------------------------
+-[ RECORD 26 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24205-214307
 job_title                      | JAVA FULL STACK DEVELOPER
 employer_name                  | JNIT Technologies Inc
@@ -757,7 +856,7 @@ amended_petition               | 0
 employer_name                  | JNIT Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+-------------------------------------------------------
+-[ RECORD 27 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24204-213895
 job_title                      | Business Analyst
 employer_name                  | Bhrigus Inc
@@ -790,7 +889,7 @@ amended_petition               | 1
 employer_name                  | Bhrigus Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 25 ]-----------------+-------------------------------------------------------
+-[ RECORD 28 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23303-465874
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | THINKLUSIVE INC
@@ -823,7 +922,7 @@ amended_petition               | 0
 employer_name                  | THINKLUSIVE INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 26 ]-----------------+-------------------------------------------------------
+-[ RECORD 29 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23278-413624
 job_title                      | ARCHITECT
 employer_name                  | TATA CONSULTANCY SERVICES LIMITED
@@ -856,7 +955,7 @@ amended_petition               | 0
 employer_name                  | TATA CONSULTANCY SERVICES LIMITED
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+-------------------------------------------------------
+-[ RECORD 30 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23313-489199
 job_title                      | Software Developer
 employer_name                  | PIONEER CONSULTING LLC
@@ -889,73 +988,7 @@ amended_petition               | 1
 employer_name                  | PIONEER CONSULTING LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 28 ]-----------------+-------------------------------------------------------
-case_number                    | I-200-23326-521123
-job_title                      | Software Developer
-employer_name                  | CEO Foundry LLC
-secondary_entity_business_name | State of Maine (Secretary of State) BMV
-employer_phone                 | 12145041818
-employer_poc_first_name        | Venkata
-employer_poc_last_name         | Vadlamani
-employer_poc_email             | venky@ceofoundry.com
-employer_poc_phone             | 12145041818
-employer_poc_phone_ext         | 
-worksite_address1              | 101 Hospital St.
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Ahluwalia Law Offices PC
-employer_address1              | 5600 Tennyson Pkwy
-employer_address2              | Suite 155
-employer_city                  | Plano
-employer_state                 | TX
-employer_postal_code           | 75024
-begin_date                     | 2023-12-04
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | CEO Foundry LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 29 ]-----------------+-------------------------------------------------------
-case_number                    | I-200-23326-521411
-job_title                      | Software Developer
-employer_name                  | CEO Foundry LLC
-secondary_entity_business_name | State of Maine (Secretary of State) BMV
-employer_phone                 | 12145041818
-employer_poc_first_name        | Venkata
-employer_poc_last_name         | Vadlamani
-employer_poc_email             | venky@ceofoundry.com
-employer_poc_phone             | 12145041818
-employer_poc_phone_ext         | 
-worksite_address1              | 101 Hospital St.
-worksite_address2              | 
-worksite_city                  | Augusta
-worksite_county                | AUGUSTA CITY
-lawfirm_name_business_name     | Ahluwalia Law Offices PC
-employer_address1              | 5600 Tennyson Pkwy
-employer_address2              | Suite 155
-employer_city                  | Plano
-employer_state                 | TX
-employer_postal_code           | 75024
-begin_date                     | 2023-12-04
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | CEO Foundry LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 30 ]-----------------+-------------------------------------------------------
+-[ RECORD 31 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23262-360407
 job_title                      | Software Developer
 employer_name                  | CEO Foundry LLC
@@ -988,7 +1021,73 @@ amended_petition               | 0
 employer_name                  | CEO Foundry LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+-------------------------------------------------------
+-[ RECORD 32 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23326-521411
+job_title                      | Software Developer
+employer_name                  | CEO Foundry LLC
+secondary_entity_business_name | State of Maine (Secretary of State) BMV
+employer_phone                 | 12145041818
+employer_poc_first_name        | Venkata
+employer_poc_last_name         | Vadlamani
+employer_poc_email             | venky@ceofoundry.com
+employer_poc_phone             | 12145041818
+employer_poc_phone_ext         | 
+worksite_address1              | 101 Hospital St.
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Ahluwalia Law Offices PC
+employer_address1              | 5600 Tennyson Pkwy
+employer_address2              | Suite 155
+employer_city                  | Plano
+employer_state                 | TX
+employer_postal_code           | 75024
+begin_date                     | 2023-12-04
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | CEO Foundry LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 33 ]-----------------+-------------------------------------------------------
+case_number                    | I-200-23326-521123
+job_title                      | Software Developer
+employer_name                  | CEO Foundry LLC
+secondary_entity_business_name | State of Maine (Secretary of State) BMV
+employer_phone                 | 12145041818
+employer_poc_first_name        | Venkata
+employer_poc_last_name         | Vadlamani
+employer_poc_email             | venky@ceofoundry.com
+employer_poc_phone             | 12145041818
+employer_poc_phone_ext         | 
+worksite_address1              | 101 Hospital St.
+worksite_address2              | 
+worksite_city                  | Augusta
+worksite_county                | AUGUSTA CITY
+lawfirm_name_business_name     | Ahluwalia Law Offices PC
+employer_address1              | 5600 Tennyson Pkwy
+employer_address2              | Suite 155
+employer_city                  | Plano
+employer_state                 | TX
+employer_postal_code           | 75024
+begin_date                     | 2023-12-04
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | CEO Foundry LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 34 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23124-991485
 job_title                      | Software Developer
 employer_name                  | RapidIT - Cloudbera Inc
@@ -1021,7 +1120,7 @@ amended_petition               | 0
 employer_name                  | RapidIT - Cloudbera Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+-------------------------------------------------------
+-[ RECORD 35 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23109-947707
 job_title                      | SQL Developer
 employer_name                  | IT CATS LLC
@@ -1054,7 +1153,7 @@ amended_petition               | 0
 employer_name                  | IT CATS LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 33 ]-----------------+-------------------------------------------------------
+-[ RECORD 36 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23258-351855
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | RAPIDIT INC
@@ -1087,7 +1186,7 @@ amended_petition               | 0
 employer_name                  | RAPIDIT INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 34 ]-----------------+-------------------------------------------------------
+-[ RECORD 37 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23257-346632
 job_title                      | Software Developer
 employer_name                  | IOASIZ INC
@@ -1120,7 +1219,7 @@ amended_petition               | 0
 employer_name                  | IOASIZ INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 35 ]-----------------+-------------------------------------------------------
+-[ RECORD 38 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23082-874116
 job_title                      | DEVELOPER
 employer_name                  | TATA CONSULTANCY SERVICES LIMITED
@@ -1153,7 +1252,7 @@ amended_petition               | 0
 employer_name                  | TATA CONSULTANCY SERVICES LIMITED
 soc_code                       | 15-1251.00
 h_1b_dependent                 | Yes
--[ RECORD 36 ]-----------------+-------------------------------------------------------
+-[ RECORD 39 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23255-340101
 job_title                      | NETWORK ENGINEER
 employer_name                  | LOGIXtech Solutions LLC
@@ -1186,7 +1285,7 @@ amended_petition               | 0
 employer_name                  | LOGIXtech Solutions LLC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
--[ RECORD 37 ]-----------------+-------------------------------------------------------
+-[ RECORD 40 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-24060-757873
 job_title                      | Sr. Programmer Analyst
 employer_name                  | CipherQore Solutions Inc
@@ -1219,7 +1318,7 @@ amended_petition               | 1
 employer_name                  | CipherQore Solutions Inc
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 38 ]-----------------+-------------------------------------------------------
+-[ RECORD 41 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23152-068179
 job_title                      | World Language Teacher - High School
 employer_name                  | City of Lewiston School Department
@@ -1252,7 +1351,7 @@ amended_petition               | 0
 employer_name                  | City of Lewiston School Department
 soc_code                       | 25-2031.00
 h_1b_dependent                 | No
--[ RECORD 39 ]-----------------+-------------------------------------------------------
+-[ RECORD 42 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23229-275164
 job_title                      | CYBER SECURITY ENGINEER
 employer_name                  | DIZER CORP
@@ -1285,7 +1384,7 @@ amended_petition               | 1
 employer_name                  | DIZER CORP
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
--[ RECORD 40 ]-----------------+-------------------------------------------------------
+-[ RECORD 43 ]-----------------+-------------------------------------------------------
 case_number                    | I-200-23061-817384
 job_title                      | Programmer Analyst
 employer_name                  | SUNRAY INFORMATION TECHNOLOGIES INC

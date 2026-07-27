@@ -1,37 +1,4 @@
 -[ RECORD 1 ]------------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-25273-346204
-job_title                      | Sr. Software Developer
-employer_name                  | Technosoft Group Inc
-secondary_entity_business_name | MASSACHUSETTS DEPARTMENT OF TRANSPORTATION
-employer_phone                 | 19452449906
-employer_poc_first_name        | Suchit
-employer_poc_last_name         | Ineni
-employer_poc_email             | hr@technosoftgroup.com
-employer_poc_phone             | 19452449906
-employer_poc_phone_ext         | 
-worksite_address1              | 10 PARK PLAZA  4160
-worksite_address2              | 
-worksite_city                  | BOSTON
-worksite_county                | 
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 2300 Valley View Ln
-employer_address2              | Suite 380
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75062
-begin_date                     | 2026-02-26
-end_date                       | 2029-02-25
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Technosoft Group Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 2 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25232-255467
 job_title                      | SR. NETWORK ENGINEER
 employer_name                  | BEEJAUM TECHNOLOGY GROUP INC
@@ -64,7 +31,7 @@ amended_petition               | 0
 employer_name                  | BEEJAUM TECHNOLOGY GROUP INC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
--[ RECORD 3 ]------------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 2 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25252-296084
 job_title                      | Security Engineer/Firewall Administrator
 employer_name                  | Insight Global LLC
@@ -80,7 +47,7 @@ worksite_address2              |
 worksite_city                  | Chelsea
 worksite_county                | 
 lawfirm_name_business_name     | Graham & Ketkar PLLC
-employer_address1              | 1224 Hammond Drive
+employer_address1              | 1224  Hammond Drive
 employer_address2              | STE 1500
 employer_city                  | Atlanta
 employer_state                 | GA
@@ -97,7 +64,7 @@ amended_petition               | 0
 employer_name                  | Insight Global LLC
 soc_code                       | 15-1212.00
 h_1b_dependent                 | No
--[ RECORD 4 ]------------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 3 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25188-155924
 job_title                      | SOFTWARE ENGINEER
 employer_name                  | DOTCOM TEAM LLC
@@ -130,7 +97,7 @@ amended_petition               | 0
 employer_name                  | DOTCOM TEAM LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 5 ]------------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 4 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25155-050179
 job_title                      | Clinician
 employer_name                  | Riverside Community Care Inc
@@ -163,7 +130,7 @@ amended_petition               | 1
 employer_name                  | Riverside Community Care Inc
 soc_code                       | 21-1014
 h_1b_dependent                 | No
--[ RECORD 6 ]------------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 5 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25174-118976
 job_title                      | BI Analyst
 employer_name                  | Spark Technologies Inc
@@ -196,7 +163,7 @@ amended_petition               | 0
 employer_name                  | Spark Technologies Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 6 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25172-118535
 job_title                      | BI Analyst
 employer_name                  | Spark Technologies Inc
@@ -229,7 +196,7 @@ amended_petition               | 0
 employer_name                  | Spark Technologies Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 7 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25198-180872
 job_title                      | Web Technology Consultant
 employer_name                  | MOURI Tech LLC
@@ -262,7 +229,7 @@ amended_petition               | 0
 employer_name                  | MOURI Tech LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 8 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25100-851599
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | ANDHUS TECHNOLOGIES INC
@@ -295,7 +262,7 @@ amended_petition               | 0
 employer_name                  | ANDHUS TECHNOLOGIES INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 10 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 9 ]------------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25115-905576
 job_title                      | Network Engineer
 employer_name                  | Techno9 Solutions Inc
@@ -328,7 +295,7 @@ amended_petition               | 0
 employer_name                  | Techno9 Solutions Inc
 soc_code                       | 15-1244
 h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 10 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25238-268905
 job_title                      | Business Analyst
 employer_name                  | SASInfo Inc
@@ -361,7 +328,7 @@ amended_petition               | 1
 employer_name                  | SASInfo Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | No
--[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 11 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25218-224910
 job_title                      | Software Developer/ Salesforce Developer
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
@@ -394,7 +361,7 @@ amended_petition               | 1
 employer_name                  | COMPUNNEL SOFTWARE GROUP INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 12 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25148-026173
 job_title                      | Senior Systems Analyst
 employer_name                  | THE BSST SOFTWARE GROUP
@@ -427,7 +394,7 @@ amended_petition               | 1
 employer_name                  | THE BSST SOFTWARE GROUP
 soc_code                       | 15-1251
 h_1b_dependent                 | Yes
--[ RECORD 14 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 13 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25129-960400
 job_title                      | Cloud Architect
 employer_name                  | ePromptus Inc
@@ -460,7 +427,7 @@ amended_petition               | 0
 employer_name                  | ePromptus Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 15 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 14 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25108-881452
 job_title                      | SENIOR BUSINESS ANALYST
 employer_name                  | NAGARRO INC
@@ -493,7 +460,73 @@ amended_petition               | 1
 employer_name                  | NAGARRO INC
 soc_code                       | 13-1111
 h_1b_dependent                 | Yes
+-[ RECORD 15 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24296-422787
+job_title                      | Software Quality Assurance Analyst and Tester
+employer_name                  | HTC GLOBAL SERVICES INC
+secondary_entity_business_name | Massachusetts Department of Public Health
+employer_phone                 | 12487862500
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | SUBRAMANIAN
+employer_poc_email             | IMMIGRATION@HTCINC.COM
+employer_poc_phone             | 12487862500
+employer_poc_phone_ext         | 109
+worksite_address1              | 250 Washington Street, 6th Floor
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 3270 WEST BIG BEAVER ROAD
+employer_address2              | 
+employer_city                  | TROY
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 2025-04-08
+end_date                       | 2028-04-07
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | HTC GLOBAL SERVICES INC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
 -[ RECORD 16 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24296-422787
+job_title                      | Software Quality Assurance Analyst and Tester
+employer_name                  | HTC GLOBAL SERVICES INC
+secondary_entity_business_name | Massachusetts Department of Public Health
+employer_phone                 | 12487862500
+employer_poc_first_name        | SURESH
+employer_poc_last_name         | SUBRAMANIAN
+employer_poc_email             | IMMIGRATION@HTCINC.COM
+employer_poc_phone             | 12487862500
+employer_poc_phone_ext         | 109
+worksite_address1              | 250 Washington Street, 6th Floor
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 3270 WEST BIG BEAVER ROAD
+employer_address2              | 
+employer_city                  | TROY
+employer_state                 | MI
+employer_postal_code           | 48084
+begin_date                     | 2025-04-08
+end_date                       | 2028-04-07
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | HTC GLOBAL SERVICES INC
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 17 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24296-422787
 job_title                      | Software Quality Assurance Analyst and Tester
 employer_name                  | HTC GLOBAL SERVICES INC
@@ -526,7 +559,40 @@ amended_petition               | 0
 employer_name                  | HTC GLOBAL SERVICES INC
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 18 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25074-779192
+job_title                      | Business Analyst
+employer_name                  | California SoftTech Inc
+secondary_entity_business_name | State of MA- Education Department
+employer_phone                 | 14085208758
+employer_poc_first_name        | Ashok
+employer_poc_last_name         | Kondapalli
+employer_poc_email             | hr@calisofttech.com
+employer_poc_phone             | 14085208758
+employer_poc_phone_ext         | 
+worksite_address1              | 135 Santilli Highway
+worksite_address2              | 
+worksite_city                  | Everett
+worksite_county                | EVERETT CITY
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 5600 W Maple Road
+employer_address2              | STE C307
+employer_city                  | West Bloomfield Township
+employer_state                 | MI
+employer_postal_code           | 48322
+begin_date                     | 2025-03-21
+end_date                       | 2028-03-20
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | California SoftTech Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 19 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25074-779192
 job_title                      | Business Analyst
 employer_name                  | California SoftTech Inc
@@ -559,7 +625,40 @@ amended_petition               | 1
 employer_name                  | California SoftTech Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 18 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 20 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25071-768311
+job_title                      | Business Analyst
+employer_name                  | California SoftTech Inc
+secondary_entity_business_name | State of MA- Education Department
+employer_phone                 | 14085208758
+employer_poc_first_name        | Ashok
+employer_poc_last_name         | Kondapalli
+employer_poc_email             | hr@calisofttech.com
+employer_poc_phone             | 14085208758
+employer_poc_phone_ext         | 
+worksite_address1              | 135 Santilli Highway
+worksite_address2              | 
+worksite_city                  | Everett
+worksite_county                | EVERETT CITY
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 5600 W Maple Road
+employer_address2              | STE C307
+employer_city                  | West Bloomfield Township
+employer_state                 | MI
+employer_postal_code           | 48322
+begin_date                     | 2025-03-19
+end_date                       | 2028-03-18
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | California SoftTech Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 21 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25071-768311
 job_title                      | Business Analyst
 employer_name                  | California SoftTech Inc
@@ -592,7 +691,40 @@ amended_petition               | 1
 employer_name                  | California SoftTech Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 19 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 22 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25037-671439
+job_title                      | Computer Programmer
+employer_name                  | GATEWAY SOLUTIONS INC
+secondary_entity_business_name | State of Massachusetts - Department of Education
+employer_phone                 | 19134404867
+employer_poc_first_name        | SIVA
+employer_poc_last_name         | JASTI
+employer_poc_email             | HR@GATEWAYSI.COM
+employer_poc_phone             | 19134404867
+employer_poc_phone_ext         | 
+worksite_address1              | 135 Santilli Highway
+worksite_address2              | 
+worksite_city                  | Everett
+worksite_county                | EVERETT CITY
+lawfirm_name_business_name     | HALLETT MCCANN LAW GROUP LTD.
+employer_address1              | 12980 METCALF AVENUE
+employer_address2              | SUITE 330
+employer_city                  | OVERLAND PARK
+employer_state                 | KS
+employer_postal_code           | 66213
+begin_date                     | 2025-03-01
+end_date                       | 2028-02-28
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | GATEWAY SOLUTIONS INC
+soc_code                       | 15-1251.00
+h_1b_dependent                 | Yes
+-[ RECORD 23 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25037-671439
 job_title                      | Computer Programmer
 employer_name                  | GATEWAY SOLUTIONS INC
@@ -625,7 +757,40 @@ amended_petition               | 0
 employer_name                  | GATEWAY SOLUTIONS INC
 soc_code                       | 15-1251
 h_1b_dependent                 | Yes
--[ RECORD 20 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 24 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25042-683392
+job_title                      | Web Software Developer
+employer_name                  | Kyyba Tech Inc
+secondary_entity_business_name | Department of Transitional Assistance, Commonwealth of Massachusetts
+employer_phone                 | 12482902910
+employer_poc_first_name        | Kavidha
+employer_poc_last_name         | Selvaraj
+employer_poc_email             | kavi@kyyba.com
+employer_poc_phone             | 12482902910
+employer_poc_phone_ext         | 
+worksite_address1              | 1 Ashburton Pl
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | Joseph Kallabat & Associates PC
+employer_address1              | 28230 Orchard Lake Road
+employer_address2              | Suite 130
+employer_city                  | Farmington Hills
+employer_state                 | MI
+employer_postal_code           | 48334
+begin_date                     | 2025-02-24
+end_date                       | 2028-02-23
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Kyyba Tech Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 25 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25042-683392
 job_title                      | Web Software Developer
 employer_name                  | Kyyba Tech Inc
@@ -658,7 +823,7 @@ amended_petition               | 0
 employer_name                  | Kyyba Tech Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 26 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24264-352211
 job_title                      | Database Architect (Data Architect)
 employer_name                  | CGI Technologies and Solutions Inc
@@ -691,7 +856,40 @@ amended_petition               | 0
 employer_name                  | CGI Technologies and Solutions Inc
 soc_code                       | 15-1243.00
 h_1b_dependent                 | No
--[ RECORD 22 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25016-623422
+job_title                      | Snowflake Data Engineer
+employer_name                  | Morlogic Inc
+secondary_entity_business_name | State of Massachusetts
+employer_phone                 | 17349292151
+employer_poc_first_name        | Chamu
+employer_poc_last_name         | Pammi
+employer_poc_email             | accounts@morlogic.com
+employer_poc_phone             | 17349292151
+employer_poc_phone_ext         | 
+worksite_address1              | 100 Cambridge, Suite 300
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 2500 Packard Street
+employer_address2              | Suite 201
+employer_city                  | Ann Arbor
+employer_state                 | MI
+employer_postal_code           | 48104
+begin_date                     | 2025-01-21
+end_date                       | 2028-01-20
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Morlogic Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 28 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25016-623422
 job_title                      | Snowflake Data Engineer
 employer_name                  | Morlogic Inc
@@ -724,7 +922,40 @@ amended_petition               | 0
 employer_name                  | Morlogic Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 29 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25010-610353
+job_title                      | Snowflake Data Engineer
+employer_name                  | Imetris Corporation
+secondary_entity_business_name | State of Massachusetts
+employer_phone                 | 17344706819
+employer_poc_first_name        | Carol
+employer_poc_last_name         | Sperr
+employer_poc_email             | carol@imetris.com
+employer_poc_phone             | 17344706819
+employer_poc_phone_ext         | 
+worksite_address1              | 100 Cambridge Street Suite 300
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | 
+employer_address1              | 162 South Industrial Drive
+employer_address2              | 
+employer_city                  | Saline
+employer_state                 | MI
+employer_postal_code           | 48176
+begin_date                     | 2025-01-13
+end_date                       | 2028-01-12
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Imetris Corporation
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 30 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25010-610353
 job_title                      | Snowflake Data Engineer
 employer_name                  | Imetris Corporation
@@ -757,7 +988,7 @@ amended_petition               | 0
 employer_name                  | Imetris Corporation
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 31 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25003-590887
 job_title                      | Computer Programmer
 employer_name                  | WIZCOM CORPORATION
@@ -790,7 +1021,40 @@ amended_petition               | 1
 employer_name                  | WIZCOM CORPORATION
 soc_code                       | 15-1251
 h_1b_dependent                 | Yes
--[ RECORD 25 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 32 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-25003-590887
+job_title                      | Computer Programmer
+employer_name                  | WIZCOM CORPORATION
+secondary_entity_business_name | EOHHS MA (Department of Public Health)
+employer_phone                 | 16099369400
+employer_poc_first_name        | Venkat
+employer_poc_last_name         | MARAM
+employer_poc_email             | vmaram@wizcom.com
+employer_poc_phone             | 16099369400
+employer_poc_phone_ext         | 
+worksite_address1              | 250 Washington Street
+worksite_address2              | N/A
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | SHARMA YASKHI & ASSOCIATES LLP
+employer_address1              | 742 Alexander Road
+employer_address2              | Ste 301
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2025-01-09
+end_date                       | 2028-01-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | WIZCOM CORPORATION
+soc_code                       | 15-1251.00
+h_1b_dependent                 | Yes
+-[ RECORD 33 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24201-210109
 job_title                      | Development Lead
 employer_name                  | Digit Outsource Inc
@@ -823,40 +1087,7 @@ amended_petition               | 0
 employer_name                  | Digit Outsource Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24169-119735
-job_title                      | Software Developer
-employer_name                  | DATICS INC
-secondary_entity_business_name | State of Massachusetts Administration and Finance ITA&F
-employer_phone                 | 17044538128
-employer_poc_first_name        | Shraddha Reddy
-employer_poc_last_name         | Aileni
-employer_poc_email             | immigration@daticsinc.com
-employer_poc_phone             | 17044538128
-employer_poc_phone_ext         | 
-worksite_address1              | McCormack Building, 1 Ashburton Pl
-worksite_address2              | 
-worksite_city                  | Boston
-worksite_county                | BOSTON CITY
-lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
-employer_address1              | 1315 Macom Drive
-employer_address2              | Suite 004
-employer_city                  | Naperville
-employer_state                 | IL
-employer_postal_code           | 60564
-begin_date                     | 2024-10-01
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | DATICS INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 27 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 34 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24270-365826
 job_title                      | Tableau Developer
 employer_name                  | Cognowiz LLC
@@ -889,7 +1120,73 @@ amended_petition               | 0
 employer_name                  | Cognowiz LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 28 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 35 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24270-365826
+job_title                      | Tableau Developer
+employer_name                  | Cognowiz LLC
+secondary_entity_business_name | Commonwealth of MA – the Department of Public Health
+employer_phone                 | 12024654858
+employer_poc_first_name        | Isha
+employer_poc_last_name         | Shah
+employer_poc_email             | ishashah@cognowiz.com
+employer_poc_phone             | 12024654858
+employer_poc_phone_ext         | 
+worksite_address1              | 250 Washington St
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 44679 Endicott Drive
+employer_address2              | Suite 300-778
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Cognowiz LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 36 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24169-119735
+job_title                      | Software Developer
+employer_name                  | DATICS INC
+secondary_entity_business_name | State of Massachusetts Administration and Finance ITA&F
+employer_phone                 | 17044538128
+employer_poc_first_name        | Shraddha Reddy
+employer_poc_last_name         | Aileni
+employer_poc_email             | immigration@daticsinc.com
+employer_poc_phone             | 17044538128
+employer_poc_phone_ext         | 
+worksite_address1              | McCormack Building, 1 Ashburton Pl
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | THE LAW FIRM OF SIM PARVATHANENI & BROWN PLLC
+employer_address1              | 1315 Macom Drive
+employer_address2              | Suite 004
+employer_city                  | Naperville
+employer_state                 | IL
+employer_postal_code           | 60564
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | DATICS INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 37 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24122-945698
 job_title                      | Java Developer
 employer_name                  | Prime Software Technologies Inc
@@ -922,7 +1219,40 @@ amended_petition               | 0
 employer_name                  | Prime Software Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 29 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 38 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24270-365826
+job_title                      | Tableau Developer
+employer_name                  | Cognowiz LLC
+secondary_entity_business_name | Commonwealth of MA  the Department of Public Health
+employer_phone                 | 12024654858
+employer_poc_first_name        | Isha
+employer_poc_last_name         | Shah
+employer_poc_email             | ishashah@cognowiz.com
+employer_poc_phone             | 12024654858
+employer_poc_phone_ext         | 
+worksite_address1              | 250 Washington St
+worksite_address2              | 
+worksite_city                  | Boston
+worksite_county                | BOSTON CITY
+lawfirm_name_business_name     | International Legal & Business Services Group LLP
+employer_address1              | 44679 Endicott Drive
+employer_address2              | Suite 300-778
+employer_city                  | Ashburn
+employer_state                 | VA
+employer_postal_code           | 20147
+begin_date                     | 2024-10-01
+end_date                       | 2027-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Cognowiz LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 39 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24172-131516
 job_title                      | Full-stack Developer
 employer_name                  | MOURI Tech LLC
@@ -955,7 +1285,7 @@ amended_petition               | 0
 employer_name                  | MOURI Tech LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 30 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 40 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24165-108750
 job_title                      | Talend ETL Developer
 employer_name                  | Artificial Inventions LLC
@@ -988,7 +1318,7 @@ amended_petition               | 0
 employer_name                  | Artificial Inventions LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 31 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 41 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24253-324557
 job_title                      | Technical Architect
 employer_name                  | Kyyba Tech Inc
@@ -1021,7 +1351,7 @@ amended_petition               | 1
 employer_name                  | Kyyba Tech Inc
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 42 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24219-248466
 job_title                      | SOFTWARE TESTER
 employer_name                  | IT RESILIENCE INC
@@ -1054,7 +1384,7 @@ amended_petition               | 0
 employer_name                  | IT RESILIENCE INC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | No
--[ RECORD 33 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 43 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24200-206224
 job_title                      | SOFTWARE TESTER
 employer_name                  | IT RESILIENCE INC
@@ -1087,7 +1417,7 @@ amended_petition               | 0
 employer_name                  | IT RESILIENCE INC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | No
--[ RECORD 34 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 44 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24026-671565
 job_title                      | Sr. Business Analyst
 employer_name                  | LanceSoft Inc
@@ -1103,7 +1433,7 @@ worksite_address2              |
 worksite_city                  | Boston
 worksite_county                | BOSTON CITY
 lawfirm_name_business_name     | Piston & Carpenter PC
-employer_address1              | 2121 Cooperative Way
+employer_address1              | 2121  Cooperative Way
 employer_address2              | Suite 130
 employer_city                  | Herndon
 employer_state                 | VA
@@ -1120,7 +1450,7 @@ amended_petition               | 0
 employer_name                  | LanceSoft Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | No
--[ RECORD 35 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 45 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24073-796057
 job_title                      | SQA Engineer (Performance)
 employer_name                  | ConglomerateIT LLC
@@ -1153,7 +1483,7 @@ amended_petition               | 1
 employer_name                  | ConglomerateIT LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 36 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 46 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24116-923897
 job_title                      | IT Business Analyst
 employer_name                  | Inrika Inc
@@ -1186,7 +1516,7 @@ amended_petition               | 1
 employer_name                  | Inrika Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 37 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 47 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23326-521223
 job_title                      | Technical Advisor – Software Engineering - KBGFJG138441-7
 employer_name                  | KBR Wyle Services LLC
@@ -1219,7 +1549,7 @@ amended_petition               | 0
 employer_name                  | KBR Wyle Services LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 38 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 48 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24079-811454
 job_title                      | .NET Developer
 employer_name                  | Cloudbridge Solutions Inc
@@ -1252,7 +1582,7 @@ amended_petition               | 0
 employer_name                  | Cloudbridge Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 39 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 49 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-25261-318248
 job_title                      | Business Analyst
 employer_name                  | SPRUCE TECHNOLOGY INC
@@ -1285,7 +1615,7 @@ amended_petition               | 1
 employer_name                  | SPRUCE TECHNOLOGY INC
 soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
--[ RECORD 40 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 50 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24052-736079
 job_title                      | Sr. Software Developer
 employer_name                  | TECHNOSOFT GROUP INC
@@ -1318,7 +1648,7 @@ amended_petition               | 1
 employer_name                  | TECHNOSOFT GROUP INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 41 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 51 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24047-726716
 job_title                      | SOFTWARE QA ENGINEER
 employer_name                  | ILOGIC INC
@@ -1351,7 +1681,7 @@ amended_petition               | 1
 employer_name                  | ILOGIC INC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 42 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 52 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23257-345583
 job_title                      | Salesforce Developer
 employer_name                  | Collaborate Solutions Inc
@@ -1384,7 +1714,7 @@ amended_petition               | 0
 employer_name                  | Collaborate Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 43 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 53 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24026-670761
 job_title                      | Software Developer
 employer_name                  | GATEWAY SOLUTIONS INC
@@ -1417,40 +1747,7 @@ amended_petition               | 1
 employer_name                  | GATEWAY SOLUTIONS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 44 ]-----------------+----------------------------------------------------------------------------------------------------------
-case_number                    | I-200-24022-655040
-job_title                      | QA Analyst
-employer_name                  | IP HEIGHTS LLC
-secondary_entity_business_name | The Commonwealth of Massachusetts, Department of Revenue (DOR)
-employer_phone                 | 17324551455
-employer_poc_first_name        | Shiva kumar
-employer_poc_last_name         | Chikine
-employer_poc_email             | Hr@ipheights.com
-employer_poc_phone             | 17324551455
-employer_poc_phone_ext         | 
-worksite_address1              | 200 Arlington St
-worksite_address2              | 
-worksite_city                  | Chelsea
-worksite_county                | CHELSEA CITY
-lawfirm_name_business_name     | 
-employer_address1              | 145 Talmadge Road
-employer_address2              | Suite 18
-employer_city                  | Edison
-employer_state                 | NJ
-employer_postal_code           | 08817
-begin_date                     | 2024-01-22
-end_date                       | 2027-01-21
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | IP HEIGHTS LLC
-soc_code                       | 15-1299.00
-h_1b_dependent                 | Yes
--[ RECORD 45 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 54 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-24022-655038
 job_title                      | QA Analyst
 employer_name                  | IP HEIGHTS LLC
@@ -1483,7 +1780,40 @@ amended_petition               | 0
 employer_name                  | IP HEIGHTS LLC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 46 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 55 ]-----------------+----------------------------------------------------------------------------------------------------------
+case_number                    | I-200-24022-655040
+job_title                      | QA Analyst
+employer_name                  | IP HEIGHTS LLC
+secondary_entity_business_name | The Commonwealth of Massachusetts, Department of Revenue (DOR)
+employer_phone                 | 17324551455
+employer_poc_first_name        | Shiva kumar
+employer_poc_last_name         | Chikine
+employer_poc_email             | Hr@ipheights.com
+employer_poc_phone             | 17324551455
+employer_poc_phone_ext         | 
+worksite_address1              | 200 Arlington St
+worksite_address2              | 
+worksite_city                  | Chelsea
+worksite_county                | CHELSEA CITY
+lawfirm_name_business_name     | 
+employer_address1              | 145 Talmadge Road
+employer_address2              | Suite 18
+employer_city                  | Edison
+employer_state                 | NJ
+employer_postal_code           | 08817
+begin_date                     | 2024-01-22
+end_date                       | 2027-01-21
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | IP HEIGHTS LLC
+soc_code                       | 15-1299.00
+h_1b_dependent                 | Yes
+-[ RECORD 56 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23286-429905
 job_title                      | Software Developer
 employer_name                  | WIZCOM CORPORATION
@@ -1516,7 +1846,7 @@ amended_petition               | 0
 employer_name                  | WIZCOM CORPORATION
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 47 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 57 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23188-172441
 job_title                      | Technical Project Manager
 employer_name                  | Ventois Inc
@@ -1549,7 +1879,7 @@ amended_petition               | 0
 employer_name                  | Ventois Inc
 soc_code                       | 15-1299.09
 h_1b_dependent                 | Yes
--[ RECORD 48 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 58 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23353-576355
 job_title                      | Software QA Analyst
 employer_name                  | ABD Solutions Inc
@@ -1582,7 +1912,7 @@ amended_petition               | 0
 employer_name                  | ABD Solutions Inc
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 49 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 59 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23355-585608
 job_title                      | Database Administrator
 employer_name                  | Sunmerge Systems Inc
@@ -1615,7 +1945,7 @@ amended_petition               | 1
 employer_name                  | Sunmerge Systems Inc
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 50 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 60 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23145-054674
 job_title                      | PEGA Systems Architect
 employer_name                  | Comptech Associates Inc
@@ -1648,7 +1978,7 @@ amended_petition               | 0
 employer_name                  | Comptech Associates Inc
 soc_code                       | 15-1251.00
 h_1b_dependent                 | No
--[ RECORD 51 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 61 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23133-019591
 job_title                      | Information Security Engineer
 employer_name                  | Socotra Tech Services LLC
@@ -1681,7 +2011,7 @@ amended_petition               | 0
 employer_name                  | Socotra Tech Services LLC
 soc_code                       | 15-1299.05
 h_1b_dependent                 | Yes
--[ RECORD 52 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 62 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23107-937085
 job_title                      | Software Developer - KBGFJG190550-2
 employer_name                  | KBR Wyle Services LLC
@@ -1714,7 +2044,7 @@ amended_petition               | 0
 employer_name                  | KBR Wyle Services LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 53 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 63 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23094-901089
 job_title                      | Software Developer - KBGFJG190550-2
 employer_name                  | KBR Wyle Services LLC
@@ -1747,7 +2077,7 @@ amended_petition               | 0
 employer_name                  | KBR Wyle Services LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 54 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 64 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23145-053493
 job_title                      | Technical Developer
 employer_name                  | Global Bridge Infotech Inc
@@ -1780,7 +2110,7 @@ amended_petition               | 0
 employer_name                  | Global Bridge Infotech Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 55 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 65 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23064-823459
 job_title                      | Business Analyst
 employer_name                  | Adroit Associates Inc
@@ -1813,7 +2143,7 @@ amended_petition               | 0
 employer_name                  | Adroit Associates Inc
 soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
--[ RECORD 56 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 66 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23220-247420
 job_title                      | Functional Analyst
 employer_name                  | Software Associates Inc
@@ -1846,7 +2176,7 @@ amended_petition               | 0
 employer_name                  | Software Associates Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 57 ]-----------------+----------------------------------------------------------------------------------------------------------
+-[ RECORD 67 ]-----------------+----------------------------------------------------------------------------------------------------------
 case_number                    | I-200-23223-259813
 job_title                      | Sr. Java Developer
 employer_name                  | Noblesoft Technologies Inc

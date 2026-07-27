@@ -1,70 +1,4 @@
 -[ RECORD 1 ]------------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25346-478833
-job_title                      | Software Developer
-employer_name                  | RESOURCE POINT LLC
-secondary_entity_business_name | State of South Carolina Department of Social Services
-employer_phone                 | 12486495600
-employer_poc_first_name        | Ramesh
-employer_poc_last_name         | Veluru
-employer_poc_email             | rveluru@resourcepoint.net
-employer_poc_phone             | 12486495600
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Road
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | John Clement PLC
-employer_address1              | 3310 W. BIG BEAVER ROAD
-employer_address2              | SUITE 144
-employer_city                  | Troy
-employer_state                 | MI
-employer_postal_code           | 48084
-begin_date                     | 2026-05-30
-end_date                       | 2029-05-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | RESOURCE POINT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 2 ]------------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25344-473073
-job_title                      | Database Administrator II
-employer_name                  | South Carolina Department of Education
-secondary_entity_business_name | 
-employer_phone                 | 18037348511
-employer_poc_first_name        | Lisa
-employer_poc_last_name         | McCloud
-employer_poc_email             | lmccloud@ed.sc.gov
-employer_poc_phone             | 18037348511
-employer_poc_phone_ext         | 
-worksite_address1              | 849 Learning Lane
-worksite_address2              | 
-worksite_city                  | West Columbia
-worksite_county                | 
-lawfirm_name_business_name     | Burr & Forman LLP
-employer_address1              | 849 Learning Lane
-employer_address2              | 
-employer_city                  | West Columbia
-employer_state                 | SC
-employer_postal_code           | 29172
-begin_date                     | 2026-03-10
-end_date                       | 2029-03-09
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Carolina Department of Education
-soc_code                       | 15-1242.00
-h_1b_dependent                 | No
--[ RECORD 3 ]------------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25251-293607
 job_title                      | Salesforce Database Coordinator/Administrator
 employer_name                  | South Carolina State University
@@ -97,73 +31,7 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 15-1242.00
 h_1b_dependent                 | No
--[ RECORD 4 ]------------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25356-500873
-job_title                      | Network Architect
-employer_name                  | Avco Consulting Inc
-secondary_entity_business_name | South Carolina Department of Revenue
-employer_phone                 | 15082924795
-employer_poc_first_name        | Sudhir Reddy
-employer_poc_last_name         | Prodduturi
-employer_poc_email             | SUDHIR@AVCOCONSULTING.COM
-employer_poc_phone             | 15082924795
-employer_poc_phone_ext         | 
-worksite_address1              | 300A Market pointe Blvd.
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | International Legal & Business Services Group LLP
-employer_address1              | 38 Front St
-employer_address2              | FL 4
-employer_city                  | Worcester
-employer_state                 | MA
-employer_postal_code           | 01608
-begin_date                     | 2026-02-02
-end_date                       | 2029-02-01
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Avco Consulting Inc
-soc_code                       | 15-1241.00
-h_1b_dependent                 | Yes
--[ RECORD 5 ]------------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25356-503926
-job_title                      | Principal Consultant
-employer_name                  | Merative US LP
-secondary_entity_business_name | South Carolina Department of Health & Human Services
-employer_phone                 | 19132262026
-employer_poc_first_name        | Shubhda
-employer_poc_last_name         | Saran
-employer_poc_email             | shubhda.saran@merative.com
-employer_poc_phone             | 17346190199
-employer_poc_phone_ext         | 
-worksite_address1              | 1801 Main Street
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
-employer_address1              | 100 Phoenix Drive
-employer_address2              | 
-employer_city                  | Ann Arbor
-employer_state                 | MI
-employer_postal_code           | 48108
-begin_date                     | 2026-01-07
-end_date                       | 2029-01-06
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Merative US LP
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 6 ]------------------+-------------------------------------------------------------------------------
+-[ RECORD 2 ]------------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25188-157093
 job_title                      | Network Security Engineer
 employer_name                  | Digerati Systems Inc
@@ -196,7 +64,7 @@ amended_petition               | 0
 employer_name                  | Digerati Systems Inc
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
--[ RECORD 7 ]------------------+-------------------------------------------------------------------------------
+-[ RECORD 3 ]------------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25261-317886
 job_title                      | SENIOR DATABASE ADMINISTRATOR
 employer_name                  | ARKSTEK INC
@@ -212,7 +80,7 @@ worksite_address2              | SUITE A
 worksite_city                  | COLUMBIA
 worksite_county                | 
 lawfirm_name_business_name     | 
-employer_address1              | 2600 S. PARKER ROAD, BUILDING 7
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
 employer_address2              | SUITE 377
 employer_city                  | AURORA
 employer_state                 | CO
@@ -229,7 +97,7 @@ amended_petition               | 0
 employer_name                  | ARKSTEK INC
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 8 ]------------------+-------------------------------------------------------------------------------
+-[ RECORD 4 ]------------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25238-268454
 job_title                      | Sr. Software Engineer
 employer_name                  | Scepter Technologies Inc
@@ -262,73 +130,7 @@ amended_petition               | 0
 employer_name                  | Scepter Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 9 ]------------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25335-447093
-job_title                      | Lead Quantitative Researcher
-employer_name                  | South Carolina Department of Education
-secondary_entity_business_name | 
-employer_phone                 | 18037348511
-employer_poc_first_name        | Lisa
-employer_poc_last_name         | McCloud
-employer_poc_email             | lmccloud@ed.sc.gov
-employer_poc_phone             | 18037348511
-employer_poc_phone_ext         | 
-worksite_address1              | 849 Learning Lane
-worksite_address2              | 
-worksite_city                  | West Columbia
-worksite_county                | 
-lawfirm_name_business_name     | Burr & Forman LLP
-employer_address1              | 849 Learning Lane
-employer_address2              | 
-employer_city                  | West Columbia
-employer_state                 | SC
-employer_postal_code           | 29172
-begin_date                     | 2025-12-15
-end_date                       | 2028-12-14
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | South Carolina Department of Education
-soc_code                       | 15-2051.00
-h_1b_dependent                 | No
--[ RECORD 10 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25323-422871
-job_title                      | Project Manager
-employer_name                  | DIGITALBYTES INC
-secondary_entity_business_name | South Carolina Department of Administration
-employer_phone                 | 12159991450
-employer_poc_first_name        | ROSEMARIE
-employer_poc_last_name         | LEDERER
-employer_poc_email             | IMMIGRATION@DIGITALBYTESINC.COM
-employer_poc_phone             | 12159991450
-employer_poc_phone_ext         | 
-worksite_address1              | 301 Gervais Street
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | PRADEEK SUSHEELAN PC
-employer_address1              | 2300 LINCOLN HWY
-employer_address2              | SUITE 301
-employer_city                  | LANGHORNE
-employer_state                 | PA
-employer_postal_code           | 19047
-begin_date                     | 2025-12-01
-end_date                       | 2028-11-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | DIGITALBYTES INC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 11 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 5 ]------------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25169-109546
 job_title                      | Lead Developer
 employer_name                  | Arkstek Inc
@@ -361,7 +163,7 @@ amended_petition               | 0
 employer_name                  | Arkstek Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 12 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 6 ]------------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25190-161824
 job_title                      | Senior Software Developer
 employer_name                  | USM Business Sytems Inc
@@ -394,40 +196,7 @@ amended_petition               | 0
 employer_name                  | USM Business Sytems Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 13 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25309-378960
-job_title                      | Quality Assurance Analyst
-employer_name                  | DIVINE GLOBAL SOLUTIONS LLC
-secondary_entity_business_name | South Carolina Department of Health & Human Services (SC DHHS)
-employer_phone                 | 18033509191
-employer_poc_first_name        | Mohana
-employer_poc_last_name         | Katukuti
-employer_poc_email             | info@divineglobalsolutions.com
-employer_poc_phone             | 18033509191
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Rd
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | Law Offices of Kamlesh Tewary PC
-employer_address1              | 1350 Bush River Road
-employer_address2              | Suite A
-employer_city                  | Columbia
-employer_state                 | SC
-employer_postal_code           | 29210
-begin_date                     | 2025-11-16
-end_date                       | 2028-11-15
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | DIVINE GLOBAL SOLUTIONS LLC
-soc_code                       | 15-1253.00
-h_1b_dependent                 | No
--[ RECORD 14 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 7 ]------------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25124-935058
 job_title                      | ETL DEVELOPER
 employer_name                  | PIONEER CONSULTING SERVICES LLC
@@ -460,40 +229,7 @@ amended_petition               | 0
 employer_name                  | PIONEER CONSULTING SERVICES LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 15 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25268-334844
-job_title                      | Research Scientist I
-employer_name                  | South Carolina State University
-secondary_entity_business_name | 
-employer_phone                 | 18035367000
-employer_poc_first_name        | Ronald
-employer_poc_last_name         | York
-employer_poc_email             | ryork1@scsu.edu
-employer_poc_phone             | 18035367000
-employer_poc_phone_ext         | 
-worksite_address1              | 300 College Avenue
-worksite_address2              | 
-worksite_city                  | Orangeburg
-worksite_county                | 
-lawfirm_name_business_name     | Ogletree Deakins Law Firm
-employer_address1              | 300 College Avenue
-employer_address2              | 
-employer_city                  | Orangeburg
-employer_state                 | SC
-employer_postal_code           | 29117
-begin_date                     | 2025-10-20
-end_date                       | 2028-10-19
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Carolina State University
-soc_code                       | 19-1013.00
-h_1b_dependent                 | No
--[ RECORD 16 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 8 ]------------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25246-283396
 job_title                      | Business Analyst - Advanced
 employer_name                  | RICEFW Technologies Inc
@@ -526,7 +262,7 @@ amended_petition               | 0
 employer_name                  | RICEFW Technologies Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 17 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 9 ]------------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25122-931882
 job_title                      | Senior .Net Developer
 employer_name                  | Refulgent Technologies Inc
@@ -559,73 +295,7 @@ amended_petition               | 0
 employer_name                  | Refulgent Technologies Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | No
--[ RECORD 18 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25268-334181
-job_title                      | Technical Test Lead
-employer_name                  | Software People Inc
-secondary_entity_business_name | St. of SC-South Carolina Department of Health & Human Services
-employer_phone                 | 16318630299
-employer_poc_first_name        | SANDEEP
-employer_poc_last_name         | JAIN
-employer_poc_email             | sandeep.jain@softwarepeople.us
-employer_poc_phone             | 16318630299
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Rd
-worksite_address2              | Suite 225
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | JOHN J. BOUDIA & ASSOCIATES PLC
-employer_address1              | 738 Smithtown Bypass
-employer_address2              | Suite 102
-employer_city                  | Smithtown
-employer_state                 | NY
-employer_postal_code           | 11780
-begin_date                     | 2025-10-02
-end_date                       | 2028-10-01
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 1
-amended_petition               | 0
-employer_name                  | Software People Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 19 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25120-922853
-job_title                      | CL - Systems Software Programmer - Advanced
-employer_name                  | DIVINE GLOBAL SOLUTIONS LLC
-secondary_entity_business_name | South Carolina Department of Social Services
-employer_phone                 | 18033509191
-employer_poc_first_name        | Mohana
-employer_poc_last_name         | Katukuti
-employer_poc_email             | info@divineglobalsolutions.com
-employer_poc_phone             | 18033509191
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Rd
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Law Offices of Kamlesh Tewary PC
-employer_address1              | 1350 Bush River Road
-employer_address2              | Suite A
-employer_city                  | Columbia
-employer_state                 | SC
-employer_postal_code           | 29210
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | DIVINE GLOBAL SOLUTIONS LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | No
--[ RECORD 20 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 10 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25147-020176
 job_title                      | Software Developer/AWS Developer
 employer_name                  | Raven Software Solutions Inc
@@ -658,40 +328,7 @@ amended_petition               | 0
 employer_name                  | Raven Software Solutions Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 21 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25161-074509
-job_title                      | Database Administrator
-employer_name                  | Information Resource Group Inc
-secondary_entity_business_name | South Carolina Department of Correction
-employer_phone                 | 15732308547
-employer_poc_first_name        | Shyam
-employer_poc_last_name         | Goel
-employer_poc_email             | sgoel@irginc.net
-employer_poc_phone             | 15732308547
-employer_poc_phone_ext         | 
-worksite_address1              | 1700 St Andrews Terrace Rd
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Law Offices of Amarnath Gowda
-employer_address1              | 1617 Southridge Dr.
-employer_address2              | Suite 200
-employer_city                  | Jefferson City
-employer_state                 | MO
-employer_postal_code           | 65109
-begin_date                     | 2025-10-01
-end_date                       | 2028-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Information Resource Group Inc
-soc_code                       | 15-1242
-h_1b_dependent                 | Yes
--[ RECORD 22 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 11 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25118-911945
 job_title                      | Business Analyst
 employer_name                  | NS IT Solutions LLC
@@ -724,7 +361,73 @@ amended_petition               | 0
 employer_name                  | NS IT Solutions LLC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 23 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 12 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-25161-074509
+job_title                      | Database Administrator
+employer_name                  | Information Resource Group Inc
+secondary_entity_business_name | South Carolina Department of Correction
+employer_phone                 | 15732308547
+employer_poc_first_name        | Shyam
+employer_poc_last_name         | Goel
+employer_poc_email             | sgoel@irginc.net
+employer_poc_phone             | 15732308547
+employer_poc_phone_ext         | 
+worksite_address1              | 1700 St Andrews Terrace Rd
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Law Offices of Amarnath Gowda
+employer_address1              | 1617 Southridge Dr.
+employer_address2              | Suite 200
+employer_city                  | Jefferson City
+employer_state                 | MO
+employer_postal_code           | 65109
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Information Resource Group Inc
+soc_code                       | 15-1242
+h_1b_dependent                 | Yes
+-[ RECORD 13 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-25120-922853
+job_title                      | CL - Systems Software Programmer - Advanced
+employer_name                  | DIVINE GLOBAL SOLUTIONS LLC
+secondary_entity_business_name | South Carolina Department of Social Services
+employer_phone                 | 18033509191
+employer_poc_first_name        | Mohana
+employer_poc_last_name         | Katukuti
+employer_poc_email             | info@divineglobalsolutions.com
+employer_poc_phone             | 18033509191
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Rd
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Law Offices of Kamlesh Tewary PC
+employer_address1              | 1350 Bush River Road
+employer_address2              | Suite A
+employer_city                  | Columbia
+employer_state                 | SC
+employer_postal_code           | 29210
+begin_date                     | 2025-10-01
+end_date                       | 2028-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | DIVINE GLOBAL SOLUTIONS LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | No
+-[ RECORD 14 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25118-911820
 job_title                      | Business Analyst
 employer_name                  | NS IT Solutions LLC
@@ -757,40 +460,7 @@ amended_petition               | 0
 employer_name                  | NS IT Solutions LLC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 24 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25273-348346
-job_title                      | Business Analyst
-employer_name                  | Infoyuga Technologies Inc
-secondary_entity_business_name | South Carolina Department of Health and Human Services
-employer_phone                 | 14129731323
-employer_poc_first_name        | Balaji
-employer_poc_last_name         | Lanka
-employer_poc_email             | balaji@infoyuga.com
-employer_poc_phone             | 14129731323
-employer_poc_phone_ext         | 
-worksite_address1              | 1801 Main St.
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | Seth Law Offices PC t/d/b/a Seth Law Associates
-employer_address1              | 280B Moon Clinton Road
-employer_address2              | 
-employer_city                  | Moon Township
-employer_state                 | PA
-employer_postal_code           | 15108
-begin_date                     | 2025-09-30
-end_date                       | 2028-09-29
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Infoyuga Technologies Inc
-soc_code                       | 15-2051.01
-h_1b_dependent                 | Yes
--[ RECORD 25 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 15 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25245-281576
 job_title                      | Psychiatrist
 employer_name                  | Serenity Psychiatric Services LLC
@@ -823,7 +493,7 @@ amended_petition               | 0
 employer_name                  | Serenity Psychiatric Services LLC
 soc_code                       | 29-1223.00
 h_1b_dependent                 | No
--[ RECORD 26 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 16 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25073-776793
 job_title                      | Software Engineer
 employer_name                  | Skywalk Global LLC
@@ -856,7 +526,40 @@ amended_petition               | 0
 employer_name                  | Skywalk Global LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 27 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 17 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-25073-776793
+job_title                      | Software Engineer
+employer_name                  | Skywalk Global LLC
+secondary_entity_business_name | South Carolina Department of Health and Human Services
+employer_phone                 | 15159749712
+employer_poc_first_name        | Henry
+employer_poc_last_name         | Wood
+employer_poc_email             | henry.wood@skywalkglobal.net
+employer_poc_phone             | 15159749712
+employer_poc_phone_ext         | 
+worksite_address1              | 1801 Main St
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Law Offices of Keshab Raj Seadie PC
+employer_address1              | 5548 NW 2nd Street
+employer_address2              | Suite 104
+employer_city                  | Des Moines
+employer_state                 | IA
+employer_postal_code           | 50313
+begin_date                     | 2025-09-09
+end_date                       | 2028-09-08
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Skywalk Global LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 18 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25057-726129
 job_title                      | IT Network Engineer
 employer_name                  | Ana-Data Consulting Inc
@@ -889,7 +592,40 @@ amended_petition               | 0
 employer_name                  | Ana-Data Consulting Inc
 soc_code                       | 15-1241
 h_1b_dependent                 | Yes
--[ RECORD 28 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 19 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-25057-726129
+job_title                      | IT Network Engineer
+employer_name                  | Ana-Data Consulting Inc
+secondary_entity_business_name | State of South Carolina, Department of Probation, Parole & Pardon Services
+employer_phone                 | 12013243910
+employer_poc_first_name        | Meenakshi
+employer_poc_last_name         | Avancha
+employer_poc_email             | mavancha@anadata.com
+employer_poc_phone             | 12013243910
+employer_poc_phone_ext         | 
+worksite_address1              | 293 Greystone Blvd.
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Law Offices of Keshab Raj Seadie PC
+employer_address1              | 515 Jefferson St
+employer_address2              | 1st Floor
+employer_city                  | Hoboken
+employer_state                 | NJ
+employer_postal_code           | 07030
+begin_date                     | 2025-07-31
+end_date                       | 2028-07-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Ana-Data Consulting Inc
+soc_code                       | 15-1241.00
+h_1b_dependent                 | Yes
+-[ RECORD 20 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25205-198779
 job_title                      | Salesforce Developer
 employer_name                  | VedamSoft Inc
@@ -922,7 +658,40 @@ amended_petition               | 1
 employer_name                  | VedamSoft Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 29 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 21 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-25036-667198
+job_title                      | Application Developer
+employer_name                  | ASTIR IT SOLUTIONS INC
+secondary_entity_business_name | State of South Carolina
+employer_phone                 | 19082798670
+employer_poc_first_name        | ROBERT
+employer_poc_last_name         | MARKOWITZ
+employer_poc_email             | BOBM@ASTIRIT.COM
+employer_poc_phone             | 19082798670
+employer_poc_phone_ext         | 704
+worksite_address1              | 10311 Wilson Blvd, R40
+worksite_address2              | 
+worksite_city                  | Blythewood
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 50 CRAGWOOD ROAD
+employer_address2              | STE 219
+employer_city                  | SOUTH PLAINFIELD
+employer_state                 | NJ
+employer_postal_code           | 07080
+begin_date                     | 2025-07-25
+end_date                       | 2028-07-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ASTIR IT SOLUTIONS INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 22 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25036-667198
 job_title                      | Application Developer
 employer_name                  | ASTIR IT SOLUTIONS INC
@@ -955,7 +724,7 @@ amended_petition               | 0
 employer_name                  | ASTIR IT SOLUTIONS INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 30 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 23 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25175-122810
 job_title                      | Business Analyst
 employer_name                  | PROGRAMSOFT LLC
@@ -988,7 +757,7 @@ amended_petition               | 0
 employer_name                  | PROGRAMSOFT LLC
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 31 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 24 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25176-126526
 job_title                      | Climate Smart Extension Agent
 employer_name                  | South Carolina State University
@@ -1021,7 +790,7 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
--[ RECORD 32 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 25 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24361-571655
 job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
 employer_name                  | ARKSTEK INC
@@ -1037,7 +806,40 @@ worksite_address2              | 225
 worksite_city                  | COLUMBIA
 worksite_county                | RICHLAND
 lawfirm_name_business_name     | 
-employer_address1              | 2600 S. PARKER ROAD, BUILDING 7
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
+employer_address2              | SUITE 377
+employer_city                  | AURORA
+employer_state                 | CO
+employer_postal_code           | 80014
+begin_date                     | 2025-06-25
+end_date                       | 2028-06-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ARKSTEK INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 26 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24361-571655
+job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
+employer_name                  | ARKSTEK INC
+secondary_entity_business_name | SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES (SCDHHS)
+employer_phone                 | 17202120828
+employer_poc_first_name        | SHILPA
+employer_poc_last_name         | AMMISETTY
+employer_poc_email             | legal@arkstek.com
+employer_poc_phone             | 17202120828
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 BROWNING RD
+worksite_address2              | 225
+worksite_city                  | COLUMBIA
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
 employer_address2              | SUITE 377
 employer_city                  | AURORA
 employer_state                 | CO
@@ -1054,7 +856,40 @@ amended_petition               | 0
 employer_name                  | ARKSTEK INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 33 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 27 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24361-571655
+job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
+employer_name                  | ARKSTEK INC
+secondary_entity_business_name | SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES (SCDHHS)
+employer_phone                 | 17202120828
+employer_poc_first_name        | SHILPA
+employer_poc_last_name         | AMMISETTY
+employer_poc_email             | legal@arkstek.com
+employer_poc_phone             | 17202120828
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 BROWNING RD
+worksite_address2              | 225
+worksite_city                  | COLUMBIA
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
+employer_address2              | SUITE 377
+employer_city                  | AURORA
+employer_state                 | CO
+employer_postal_code           | 80014
+begin_date                     | 2025-06-25
+end_date                       | 2028-06-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ARKSTEK INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 28 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24361-571832
 job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
 employer_name                  | ARKSTEK INC
@@ -1070,7 +905,7 @@ worksite_address2              | 225
 worksite_city                  | COLUMBIA
 worksite_county                | RICHLAND
 lawfirm_name_business_name     | 
-employer_address1              | 2600 S. PARKER ROAD, BUILDING 7
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
 employer_address2              | SUITE 377
 employer_city                  | AURORA
 employer_state                 | CO
@@ -1087,7 +922,40 @@ amended_petition               | 0
 employer_name                  | ARKSTEK INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 34 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 29 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24361-571832
+job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
+employer_name                  | ARKSTEK INC
+secondary_entity_business_name | SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES (SCDHHS)
+employer_phone                 | 17202120828
+employer_poc_first_name        | SHILPA
+employer_poc_last_name         | AMMISETTY
+employer_poc_email             | legal@arkstek.com
+employer_poc_phone             | 17202120828
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 BROWNING RD
+worksite_address2              | 225
+worksite_city                  | COLUMBIA
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
+employer_address2              | SUITE 377
+employer_city                  | AURORA
+employer_state                 | CO
+employer_postal_code           | 80014
+begin_date                     | 2025-06-25
+end_date                       | 2028-06-24
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | ARKSTEK INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 30 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25143-014727
 job_title                      | Computer Programmer
 employer_name                  | GATEWAY SOLUTIONS INC
@@ -1120,7 +988,40 @@ amended_petition               | 0
 employer_name                  | GATEWAY SOLUTIONS INC
 soc_code                       | 15-1251
 h_1b_dependent                 | Yes
--[ RECORD 35 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 31 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24341-524844
+job_title                      | Quality Assurance Analyst
+employer_name                  | Iconsoft Inc
+secondary_entity_business_name | South Carolina Department of Health and Human Services
+employer_phone                 | 18882054614
+employer_poc_first_name        | Manju
+employer_poc_last_name         | Sehgal
+employer_poc_email             | hr@iconsoft.net
+employer_poc_phone             | 18882054614
+employer_poc_phone_ext         | 
+worksite_address1              | 1024 Moore Gate Ct
+worksite_address2              | 
+worksite_city                  | Lexington
+worksite_county                | LEXINGTON
+lawfirm_name_business_name     | Tadmor & Tadmor LLP
+employer_address1              | 101 Cambridge St
+employer_address2              | Suite 360
+employer_city                  | Burlington
+employer_state                 | MA
+employer_postal_code           | 01803
+begin_date                     | 2025-05-31
+end_date                       | 2028-05-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Iconsoft Inc
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 32 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24341-524844
 job_title                      | Quality Assurance Analyst
 employer_name                  | Iconsoft Inc
@@ -1153,29 +1054,29 @@ amended_petition               | 0
 employer_name                  | Iconsoft Inc
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
--[ RECORD 36 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25337-453911
-job_title                      | Software Developer
-employer_name                  | RESOURCE POINT LLC
-secondary_entity_business_name | State of South Carolina Department of Social Services
-employer_phone                 | 12486495600
-employer_poc_first_name        | Ramesh
-employer_poc_last_name         | Veluru
-employer_poc_email             | rveluru@resourcepoint.net
-employer_poc_phone             | 12486495600
+-[ RECORD 33 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24341-524844
+job_title                      | Quality Assurance Analyst
+employer_name                  | Iconsoft Inc
+secondary_entity_business_name | South Carolina Department of Health and Human Services
+employer_phone                 | 18882054614
+employer_poc_first_name        | Manju
+employer_poc_last_name         | Sehgal
+employer_poc_email             | hr@iconsoft.net
+employer_poc_phone             | 18882054614
 employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Road
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | John Clement PLC
-employer_address1              | 3310 W. BIG BEAVER ROAD
-employer_address2              | SUITE 144
-employer_city                  | Troy
-employer_state                 | MI
-employer_postal_code           | 48084
-begin_date                     | 2026-05-30
-end_date                       | 2028-05-29
+worksite_address1              | 1024 Moore Gate Ct
+worksite_address2              | 
+worksite_city                  | Lexington
+worksite_county                | LEXINGTON
+lawfirm_name_business_name     | Tadmor & Tadmor LLP
+employer_address1              | 101 Cambridge St
+employer_address2              | Suite 360
+employer_city                  | Burlington
+employer_state                 | MA
+employer_postal_code           | 01803
+begin_date                     | 2025-05-31
+end_date                       | 2028-05-30
 total_worker_positions         | 1
 new_employment                 | 0
 continued_employment           | 1
@@ -1183,10 +1084,10 @@ change_previous_employment     | 0
 new_concurrent_employment      | 0
 change_employer                | 0
 amended_petition               | 0
-employer_name                  | RESOURCE POINT LLC
-soc_code                       | 15-1252.00
+employer_name                  | Iconsoft Inc
+soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 37 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 34 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25142-006302
 job_title                      | Software Developer
 employer_name                  | Consultadd Inc
@@ -1219,7 +1120,7 @@ amended_petition               | 1
 employer_name                  | Consultadd Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 38 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 35 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24341-523646
 job_title                      | Associate Professor of Computer Science
 employer_name                  | South Carolina State University
@@ -1251,6 +1152,105 @@ change_employer                | 0
 amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 25-1021
+h_1b_dependent                 | No
+-[ RECORD 36 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24341-523646
+job_title                      | Associate Professor of Computer Science
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_phone                 | 18035367000
+employer_poc_first_name        | Frederick
+employer_poc_last_name         | Evans
+employer_poc_email             | fevans6@scsu.edu
+employer_poc_phone             | 18035367180
+employer_poc_phone_ext         | 
+worksite_address1              | 300 College Street NE
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree Deakins Nash Smoak & Stewart PC
+employer_address1              | 300 College Street NE
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 2025-04-16
+end_date                       | 2028-04-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Carolina State University
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 37 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24341-523646
+job_title                      | Associate Professor of Computer Science
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_phone                 | 18035367000
+employer_poc_first_name        | Frederick
+employer_poc_last_name         | Evans
+employer_poc_email             | fevans6@scsu.edu
+employer_poc_phone             | 18035367180
+employer_poc_phone_ext         | 
+worksite_address1              | 300 College Street NE
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree Deakins Nash Smoak & Stewart PC
+employer_address1              | 300 College Street NE
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 2025-04-16
+end_date                       | 2028-04-15
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Carolina State University
+soc_code                       | 25-1021.00
+h_1b_dependent                 | No
+-[ RECORD 38 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-25072-774601
+job_title                      | .Net Developer
+employer_name                  | Refulgent Technologies Inc
+secondary_entity_business_name | State of South Carolina
+employer_phone                 | 17044054238
+employer_poc_first_name        | Surendra
+employer_poc_last_name         | VEMUGUNTA
+employer_poc_email             | sv@refulgent-tech.com
+employer_poc_phone             | 17044054238
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Rd.
+worksite_address2              | Ste. 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Kan Law PC
+employer_address1              | 112 S. Tryon St.
+employer_address2              | Suite 1270
+employer_city                  | Charlotte
+employer_state                 | NC
+employer_postal_code           | 28284
+begin_date                     | 2025-04-01
+end_date                       | 2028-03-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | Refulgent Technologies Inc
+soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 39 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25072-774601
@@ -1319,6 +1319,72 @@ employer_name                  | COOLSOFT LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
 -[ RECORD 41 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24277-383524
+job_title                      | Software Engineer - Lead
+employer_name                  | COOLSOFT LLC
+secondary_entity_business_name | State of South Carolina - Department of Motor Vehicles (DMV)
+employer_phone                 | 15023279805
+employer_poc_first_name        | Roger
+employer_poc_last_name         | Natarajan
+employer_poc_email             | roger@coolsofttech.com
+employer_poc_phone             | 15023279805
+employer_poc_phone_ext         | 5003
+worksite_address1              | 10311 Wilson Blvd
+worksite_address2              | 
+worksite_city                  | Blythewood
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 3240 OFFICE POINTE PLACE
+employer_address2              | SUITE 200
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40220
+begin_date                     | 2025-03-27
+end_date                       | 2028-03-26
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | COOLSOFT LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 42 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24277-383524
+job_title                      | Software Engineer - Lead
+employer_name                  | COOLSOFT LLC
+secondary_entity_business_name | State of South Carolina - Department of Motor Vehicles (DMV)
+employer_phone                 | 15023279805
+employer_poc_first_name        | Roger
+employer_poc_last_name         | Natarajan
+employer_poc_email             | roger@coolsofttech.com
+employer_poc_phone             | 15023279805
+employer_poc_phone_ext         | 5003
+worksite_address1              | 10311 Wilson Blvd
+worksite_address2              | 
+worksite_city                  | Blythewood
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 3240 OFFICE POINTE PLACE
+employer_address2              | SUITE 200
+employer_city                  | LOUISVILLE
+employer_state                 | KY
+employer_postal_code           | 40220
+begin_date                     | 2025-03-27
+end_date                       | 2028-03-26
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | COOLSOFT LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 43 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24297-427133
 job_title                      | Software Quality Assurance Analyst
 employer_name                  | RICEFW Technologies Inc
@@ -1351,7 +1417,106 @@ amended_petition               | 0
 employer_name                  | RICEFW Technologies Inc
 soc_code                       | 15-1253
 h_1b_dependent                 | Yes
--[ RECORD 42 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 44 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24297-427133
+job_title                      | Software Quality Assurance Analyst
+employer_name                  | RICEFW Technologies Inc
+secondary_entity_business_name | State of South Carolina
+employer_phone                 | 15862325001
+employer_poc_first_name        | Mary
+employer_poc_last_name         | Yeddula
+employer_poc_email             | hr@ricefwtech.com
+employer_poc_phone             | 15862325001
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Rd
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Joseph Kallabat & Associates PC
+employer_address1              | 2150 Association Drive
+employer_address2              | Suite 270
+employer_city                  | Okemos
+employer_state                 | MI
+employer_postal_code           | 48864
+begin_date                     | 2025-03-14
+end_date                       | 2028-03-13
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | RICEFW Technologies Inc
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 45 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24297-427133
+job_title                      | Software Quality Assurance Analyst
+employer_name                  | RICEFW Technologies Inc
+secondary_entity_business_name | State of South Carolina
+employer_phone                 | 15862325001
+employer_poc_first_name        | Mary
+employer_poc_last_name         | Yeddula
+employer_poc_email             | hr@ricefwtech.com
+employer_poc_phone             | 15862325001
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Rd
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Joseph Kallabat & Associates PC
+employer_address1              | 2150 Association Drive
+employer_address2              | Suite 270
+employer_city                  | Okemos
+employer_state                 | MI
+employer_postal_code           | 48864
+begin_date                     | 2025-03-14
+end_date                       | 2028-03-13
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | RICEFW Technologies Inc
+soc_code                       | 15-1253.00
+h_1b_dependent                 | Yes
+-[ RECORD 46 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-25070-765008
+job_title                      | Software Engineer
+employer_name                  | Skywalk Global LLC
+secondary_entity_business_name | South Carolina Department of Health and Human Services
+employer_phone                 | 15159749712
+employer_poc_first_name        | Henry
+employer_poc_last_name         | Wood
+employer_poc_email             | henry.wood@skywalkglobal.net
+employer_poc_phone             | 15159749712
+employer_poc_phone_ext         | 
+worksite_address1              | 1801 Main St
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Law Offices of Keshab Raj Seadie PC
+employer_address1              | 5548 NW 2nd Street
+employer_address2              | Suite 104
+employer_city                  | Des Moines
+employer_state                 | IA
+employer_postal_code           | 50313
+begin_date                     | 2025-03-12
+end_date                       | 2028-03-11
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Skywalk Global LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 47 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25070-765008
 job_title                      | Software Engineer
 employer_name                  | Skywalk Global LLC
@@ -1384,7 +1549,40 @@ amended_petition               | 1
 employer_name                  | Skywalk Global LLC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 43 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 48 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-25023-638518
+job_title                      | Software Engineer
+employer_name                  | AMERICAN BUSINESS SOLUTIONS INC
+secondary_entity_business_name | The State of SC - Department of Health and Human Services
+employer_phone                 | 16148882227
+employer_poc_first_name        | ANISSA
+employer_poc_last_name         | SCHISLER
+employer_poc_email             | info@absi-usa.com
+employer_poc_phone             | 16148882227
+employer_poc_phone_ext         | 
+worksite_address1              | 1801 Main Street
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 8850 WHITNEY DRIVE
+employer_address2              | 
+employer_city                  | LEWIS CENTER
+employer_state                 | OH
+employer_postal_code           | 43035
+begin_date                     | 2025-02-03
+end_date                       | 2028-02-02
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | AMERICAN BUSINESS SOLUTIONS INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 49 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-25023-638518
 job_title                      | Software Engineer
 employer_name                  | AMERICAN BUSINESS SOLUTIONS INC
@@ -1417,7 +1615,7 @@ amended_petition               | 0
 employer_name                  | AMERICAN BUSINESS SOLUTIONS INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 44 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 50 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24355-564169
 job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
 employer_name                  | ARKSTEK INC
@@ -1433,7 +1631,73 @@ worksite_address2              | 225
 worksite_city                  | COLUMBIA
 worksite_county                | RICHLAND
 lawfirm_name_business_name     | 
-employer_address1              | 2600 S. PARKER ROAD, BUILDING 7
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
+employer_address2              | SUITE 377
+employer_city                  | AURORA
+employer_state                 | CO
+employer_postal_code           | 80014
+begin_date                     | 2025-01-01
+end_date                       | 2027-12-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | ARKSTEK INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 51 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24355-564169
+job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
+employer_name                  | ARKSTEK INC
+secondary_entity_business_name | SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES (SCDHHS)
+employer_phone                 | 17202120828
+employer_poc_first_name        | SHILPA
+employer_poc_last_name         | AMMISETTY
+employer_poc_email             | legal@arkstek.com
+employer_poc_phone             | 17202120828
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 BROWNING RD
+worksite_address2              | 225
+worksite_city                  | COLUMBIA
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
+employer_address2              | SUITE 377
+employer_city                  | AURORA
+employer_state                 | CO
+employer_postal_code           | 80014
+begin_date                     | 2025-01-01
+end_date                       | 2027-12-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | ARKSTEK INC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 52 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24355-564169
+job_title                      | SOFTWARE DEVELOPER (JAVA) - CONSULTANT
+employer_name                  | ARKSTEK INC
+secondary_entity_business_name | SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES (SCDHHS)
+employer_phone                 | 17202120828
+employer_poc_first_name        | SHILPA
+employer_poc_last_name         | AMMISETTY
+employer_poc_email             | legal@arkstek.com
+employer_poc_phone             | 17202120828
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 BROWNING RD
+worksite_address2              | 225
+worksite_city                  | COLUMBIA
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 2600 S. PARKER ROAD,  BUILDING 7
 employer_address2              | SUITE 377
 employer_city                  | AURORA
 employer_state                 | CO
@@ -1450,7 +1714,40 @@ amended_petition               | 1
 employer_name                  | ARKSTEK INC
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 45 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 53 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24341-524584
+job_title                      | SQL Database Administrator
+employer_name                  | ALGOBRAINZ LLC
+secondary_entity_business_name | South Carolina Department of social services
+employer_phone                 | 16096190838
+employer_poc_first_name        | Chandra
+employer_poc_last_name         | Kondapalli
+employer_poc_email             | hr@algobrainz.com
+employer_poc_phone             | 16096190838
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning rd,
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 5 Independence way
+employer_address2              | Suite 147
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2024-12-20
+end_date                       | 2027-12-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | ALGOBRAINZ LLC
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 54 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24341-524584
 job_title                      | SQL Database Administrator
 employer_name                  | ALGOBRAINZ LLC
@@ -1483,7 +1780,106 @@ amended_petition               | 0
 employer_name                  | ALGOBRAINZ LLC
 soc_code                       | 15-1242
 h_1b_dependent                 | Yes
--[ RECORD 46 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 55 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24341-524584
+job_title                      | SQL Database Administrator
+employer_name                  | ALGOBRAINZ LLC
+secondary_entity_business_name | South Carolina Department of social services
+employer_phone                 | 16096190838
+employer_poc_first_name        | Chandra
+employer_poc_last_name         | Kondapalli
+employer_poc_email             | hr@algobrainz.com
+employer_poc_phone             | 16096190838
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning rd,
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 5 Independence way
+employer_address2              | Suite 147
+employer_city                  | Princeton
+employer_state                 | NJ
+employer_postal_code           | 08540
+begin_date                     | 2024-12-20
+end_date                       | 2027-12-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | ALGOBRAINZ LLC
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 56 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24348-540944
+job_title                      | Software Developer
+employer_name                  | Talent IT Services Inc
+secondary_entity_business_name | S.C. Department of Public Health (DPH)
+employer_phone                 | 18606435307
+employer_poc_first_name        | Rajitha
+employer_poc_last_name         | Galva
+employer_poc_email             | suvarchala@ittalents.com
+employer_poc_phone             | 18606435307
+employer_poc_phone_ext         | 
+worksite_address1              | COLUMBIA MILLS, 301 GERVAIS STREET
+worksite_address2              | 
+worksite_city                  | COLUMBIA
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | IMM Laws
+employer_address1              | 776 N. Main St.
+employer_address2              | 2nd Floor
+employer_city                  | Manchester
+employer_state                 | CT
+employer_postal_code           | 06042
+begin_date                     | 2024-12-13
+end_date                       | 2027-12-12
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Talent IT Services Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 57 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24348-540944
+job_title                      | Software Developer
+employer_name                  | Talent IT Services Inc
+secondary_entity_business_name | S.C. Department of Public Health (DPH)
+employer_phone                 | 18606435307
+employer_poc_first_name        | Rajitha
+employer_poc_last_name         | Galva
+employer_poc_email             | suvarchala@ittalents.com
+employer_poc_phone             | 18606435307
+employer_poc_phone_ext         | 
+worksite_address1              | COLUMBIA MILLS, 301 GERVAIS STREET
+worksite_address2              | 
+worksite_city                  | COLUMBIA
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | IMM Laws
+employer_address1              | 776 N. Main St.
+employer_address2              | 2nd Floor
+employer_city                  | Manchester
+employer_state                 | CT
+employer_postal_code           | 06042
+begin_date                     | 2024-12-13
+end_date                       | 2027-12-12
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Talent IT Services Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 58 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24348-540944
 job_title                      | Software Developer
 employer_name                  | Talent IT Services Inc
@@ -1516,7 +1912,7 @@ amended_petition               | 0
 employer_name                  | Talent IT Services Inc
 soc_code                       | 15-1252
 h_1b_dependent                 | Yes
--[ RECORD 47 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 59 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24134-988567
 job_title                      | Sr. Business Analyst
 employer_name                  | RICEFW Technologies Inc
@@ -1549,7 +1945,7 @@ amended_petition               | 0
 employer_name                  | RICEFW Technologies Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 48 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 60 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24123-949025
 job_title                      | System Software Programmer – Project Lead
 employer_name                  | Iconsoft Inc
@@ -1582,7 +1978,7 @@ amended_petition               | 0
 employer_name                  | Iconsoft Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 49 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 61 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24123-949141
 job_title                      | System Software Programmer – Project Lead
 employer_name                  | Iconsoft Inc
@@ -1615,7 +2011,7 @@ amended_petition               | 0
 employer_name                  | Iconsoft Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 50 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 62 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24291-415560
 job_title                      | Business Analyst - Advanced
 employer_name                  | PROGRAMSOFT LLC
@@ -1648,7 +2044,73 @@ amended_petition               | 0
 employer_name                  | PROGRAMSOFT LLC
 soc_code                       | 15-1211
 h_1b_dependent                 | Yes
--[ RECORD 51 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 63 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24291-415560
+job_title                      | Business Analyst – Advanced
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | South Carolina Department of Health and Human Services
+employer_phone                 | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_phone_ext         | 
+worksite_address1              | 1100 Richland St
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 2024-11-01
+end_date                       | 2027-10-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | PROGRAMSOFT LLC
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 64 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24291-415560
+job_title                      | Business Analyst  Advanced
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | South Carolina Department of Health and Human Services
+employer_phone                 | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_phone_ext         | 
+worksite_address1              | 1100 Richland St
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 2024-11-01
+end_date                       | 2027-10-31
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 1
+amended_petition               | 0
+employer_name                  | PROGRAMSOFT LLC
+soc_code                       | 15-1211.00
+h_1b_dependent                 | Yes
+-[ RECORD 65 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24099-866015
 job_title                      | Network Engineer Consultant
 employer_name                  | Arkstek Inc
@@ -1681,7 +2143,7 @@ amended_petition               | 0
 employer_name                  | Arkstek Inc
 soc_code                       | 15-1299.08
 h_1b_dependent                 | Yes
--[ RECORD 52 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 66 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24146-038093
 job_title                      | .Net Developer
 employer_name                  | Euniverse Technologies LLC
@@ -1714,73 +2176,7 @@ amended_petition               | 0
 employer_name                  | Euniverse Technologies LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 53 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25323-421103
-job_title                      | DotNet Developer
-employer_name                  | Euniverse Technologies LLC
-secondary_entity_business_name | South Carolina Department of Probation, Parole and Pardon Services
-employer_phone                 | 15182247333
-employer_poc_first_name        | Rajani Priya
-employer_poc_last_name         | Challa
-employer_poc_email             | immigration@euniversetechnologies.com
-employer_poc_phone             | 15182247333
-employer_poc_phone_ext         | 
-worksite_address1              | 293 Greystone Blvd
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 1300 W Walnut Hills Ln
-employer_address2              | STE 107
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75038
-begin_date                     | 2025-11-27
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Euniverse Technologies LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 54 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25269-337697
-job_title                      | DotNet Developer
-employer_name                  | Euniverse Technologies LLC
-secondary_entity_business_name | South Carolina Department of Probation, Parole and Pardon Services
-employer_phone                 | 15182247333
-employer_poc_first_name        | Rajani Priya
-employer_poc_last_name         | Challa
-employer_poc_email             | immigration@euniversetechnologies.com
-employer_poc_phone             | 15182247333
-employer_poc_phone_ext         | 
-worksite_address1              | 293 Greystone Blvd
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | 
-lawfirm_name_business_name     | 
-employer_address1              | 1300 W Walnut Hills Ln
-employer_address2              | STE 107
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75038
-begin_date                     | 2025-10-03
-end_date                       | 2027-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Euniverse Technologies LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 55 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 67 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24253-323035
 job_title                      | Systems Software Programmer
 employer_name                  | Iconsoft Inc
@@ -1813,7 +2209,7 @@ amended_petition               | 0
 employer_name                  | Iconsoft Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 56 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 68 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24218-244387
 job_title                      | AUTHENTICATION ENGINEER
 employer_name                  | AMSOFT CORP
@@ -1846,7 +2242,7 @@ amended_petition               | 0
 employer_name                  | AMSOFT CORP
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 57 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 69 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24239-292937
 job_title                      | Database Developer
 employer_name                  | Companion Professional Services LLC
@@ -1879,7 +2275,7 @@ amended_petition               | 0
 employer_name                  | Companion Professional Services LLC
 soc_code                       | 15-1242.00
 h_1b_dependent                 | No
--[ RECORD 58 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 70 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24253-324353
 job_title                      | Business Analyst
 employer_name                  | Asta CRS Inc
@@ -1912,40 +2308,7 @@ amended_petition               | 1
 employer_name                  | Asta CRS Inc
 soc_code                       | 15-2051.01
 h_1b_dependent                 | Yes
--[ RECORD 59 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-24253-324353
-job_title                      | Business Analyst
-employer_name                  | Asta CRS Inc
-secondary_entity_business_name | South Carolina Department of Health and Human Services
-employer_phone                 | 17038898511
-employer_poc_first_name        | Usha
-employer_poc_last_name         | Chitrala
-employer_poc_email             | chitrala.usha@astacrs.com
-employer_poc_phone             | 17038898511
-employer_poc_phone_ext         | 111
-worksite_address1              | Jefferson Square, 1801 Main Street
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Seth Law Offices PC t/d/b/a Seth Law Associates
-employer_address1              | 44121 Leesburg Pike
-employer_address2              | Suite 230
-employer_city                  | Ashburn
-employer_state                 | VA
-employer_postal_code           | 20147
-begin_date                     | 2024-09-09
-end_date                       | 2027-09-08
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Asta CRS Inc
-soc_code                       | 15-2051.01
-h_1b_dependent                 | Yes
--[ RECORD 60 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 71 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24123-950451
 job_title                      | Database Administrator II
 employer_name                  | South Carolina Department of Education
@@ -1978,7 +2341,7 @@ amended_petition               | 0
 employer_name                  | South Carolina Department of Education
 soc_code                       | 15-1242.00
 h_1b_dependent                 | No
--[ RECORD 61 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 72 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24232-277036
 job_title                      | Sr. Software Engineer
 employer_name                  | RICEFW Technologies Inc
@@ -2011,7 +2374,7 @@ amended_petition               | 0
 employer_name                  | RICEFW Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 62 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 73 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24212-231141
 job_title                      | Assistant Professor
 employer_name                  | Trustees of Boston univeristy
@@ -2044,7 +2407,7 @@ amended_petition               | 0
 employer_name                  | Trustees of Boston univeristy
 soc_code                       | 25-1071.00
 h_1b_dependent                 | No
--[ RECORD 63 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 74 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24221-255246
 job_title                      | Database Developer
 employer_name                  | Cloud Consulting Services Inc
@@ -2077,7 +2440,7 @@ amended_petition               | 0
 employer_name                  | Cloud Consulting Services Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 64 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 75 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24155-061296
 job_title                      | Systems Analyst
 employer_name                  | PROGRAMSOFT LLC
@@ -2110,7 +2473,7 @@ amended_petition               | 0
 employer_name                  | PROGRAMSOFT LLC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | No
--[ RECORD 65 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 76 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24218-245089
 job_title                      | IT Healthcare Consultant - Software Engineer
 employer_name                  | Companion Professional Services LLC
@@ -2143,7 +2506,7 @@ amended_petition               | 0
 employer_name                  | Companion Professional Services LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 66 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 77 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24081-819681
 job_title                      | Business Analyst
 employer_name                  | RICEFW Technologies Inc
@@ -2176,7 +2539,7 @@ amended_petition               | 0
 employer_name                  | RICEFW Technologies Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 67 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 78 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24198-200158
 job_title                      | Computer Systems Engineer
 employer_name                  | PROGRAMSOFT LLC
@@ -2209,7 +2572,7 @@ amended_petition               | 0
 employer_name                  | PROGRAMSOFT LLC
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
--[ RECORD 68 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 79 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24200-205211
 job_title                      | Senior Java Developer
 employer_name                  | VISTA APPLIED SOLUTIONS GROUP INC
@@ -2242,7 +2605,7 @@ amended_petition               | 1
 employer_name                  | VISTA APPLIED SOLUTIONS GROUP INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 69 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 80 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24184-166516
 job_title                      | Information Security Engineer
 employer_name                  | Sparity Inc
@@ -2275,7 +2638,7 @@ amended_petition               | 0
 employer_name                  | Sparity Inc
 soc_code                       | 15-1299.05
 h_1b_dependent                 | Yes
--[ RECORD 70 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 81 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24047-726189
 job_title                      | Business Analyst
 employer_name                  | Genius Minds LLC
@@ -2308,7 +2671,7 @@ amended_petition               | 0
 employer_name                  | Genius Minds LLC
 soc_code                       | 13-1111.00
 h_1b_dependent                 | Yes
--[ RECORD 71 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 82 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24061-762748
 job_title                      | SOFTWARE DEVELOPER
 employer_name                  | SYSSOL INC
@@ -2341,7 +2704,7 @@ amended_petition               | 0
 employer_name                  | SYSSOL INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 72 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 83 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24059-756995
 job_title                      | INFORMATION TECHNOLOGY PROJECT MANAGER
 employer_name                  | Infojini Inc
@@ -2374,7 +2737,7 @@ amended_petition               | 0
 employer_name                  | Infojini Inc
 soc_code                       | 15-1299.09
 h_1b_dependent                 | No
--[ RECORD 73 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 84 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24081-819262
 job_title                      | Nurse Practitioner I
 employer_name                  | South Carolina Department of Mental Health
@@ -2407,7 +2770,7 @@ amended_petition               | 0
 employer_name                  | South Carolina Department of Mental Health
 soc_code                       | 29-1171.00
 h_1b_dependent                 | No
--[ RECORD 74 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 85 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23339-546303
 job_title                      | SOLUTIONS ARCHITECT
 employer_name                  | KP INFOSYSTEMS INC
@@ -2440,7 +2803,7 @@ amended_petition               | 1
 employer_name                  | KP INFOSYSTEMS INC
 soc_code                       | 15-1299.08
 h_1b_dependent                 | No
--[ RECORD 75 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 86 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24136-000256
 job_title                      | .Net Software Programmer
 employer_name                  | Intellibee Inc
@@ -2473,7 +2836,7 @@ amended_petition               | 0
 employer_name                  | Intellibee Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 76 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 87 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24141-013082
 job_title                      | Postdoctoral Scientist
 employer_name                  | South Carolina State University
@@ -2506,7 +2869,7 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
--[ RECORD 77 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 88 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24113-912292
 job_title                      | Wildlife Biologist II
 employer_name                  | S.C. Department of Natural Resources
@@ -2539,7 +2902,7 @@ amended_petition               | 0
 employer_name                  | S.C. Department of Natural Resources
 soc_code                       | 19-1023.00
 h_1b_dependent                 | No
--[ RECORD 78 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 89 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24116-926310
 job_title                      | Wildlife Biologist II
 employer_name                  | S.C. Department of Natural Resources
@@ -2572,7 +2935,7 @@ amended_petition               | 0
 employer_name                  | S.C. Department of Natural Resources
 soc_code                       | 19-1023.00
 h_1b_dependent                 | No
--[ RECORD 79 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 90 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24128-967951
 job_title                      | Program Coordinator, Climate-Smart Project
 employer_name                  | South Carolina State University
@@ -2605,7 +2968,7 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 19-2041.03
 h_1b_dependent                 | No
--[ RECORD 80 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 91 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24130-978313
 job_title                      | Postdoctoral Scientist
 employer_name                  | South Carolina State University
@@ -2638,7 +3001,7 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 19-1031.00
 h_1b_dependent                 | No
--[ RECORD 81 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 92 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24127-960205
 job_title                      | Wildlife Biologist II
 employer_name                  | S.C. Department of Natural Resources
@@ -2671,7 +3034,7 @@ amended_petition               | 0
 employer_name                  | S.C. Department of Natural Resources
 soc_code                       | 19-1023.00
 h_1b_dependent                 | No
--[ RECORD 82 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 93 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24128-967938
 job_title                      | Postdoctoral Scientist
 employer_name                  | South Carolina State University
@@ -2704,7 +3067,40 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
--[ RECORD 83 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 94 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24128-967938
+job_title                      | Postdoctoral Scientist
+employer_name                  | South Carolina State University
+secondary_entity_business_name | 
+employer_phone                 | 18035367000
+employer_poc_first_name        | Ronald
+employer_poc_last_name         | York
+employer_poc_email             | ryork1@scsu.edu
+employer_poc_phone             | 18035367000
+employer_poc_phone_ext         | 
+worksite_address1              | 300 College Street NE
+worksite_address2              | 
+worksite_city                  | Orangeburg
+worksite_county                | ORANGEBURG
+lawfirm_name_business_name     | Ogletree Deakins Law Firm
+employer_address1              | 300 College Street NE
+employer_address2              | 
+employer_city                  | Orangeburg
+employer_state                 | SC
+employer_postal_code           | 29117
+begin_date                     | 2024-05-13
+end_date                       | 2027-05-12
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Carolina State University
+soc_code                       | 19-1013.00
+h_1b_dependent                 | No
+-[ RECORD 95 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24128-967938
 job_title                      | Postdoctoral Scientist
 employer_name                  | South Carolina State University
@@ -2737,40 +3133,7 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 19-1013
 h_1b_dependent                 | No
--[ RECORD 84 ]-----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-24034-691102
-job_title                      | Network Consultant
-employer_name                  | GOCOOL INC
-secondary_entity_business_name | State of South Carolina Department of Revenue
-employer_phone                 | 14253411214
-employer_poc_first_name        | Ranga
-employer_poc_last_name         | Bondada
-employer_poc_email             | ADMIN@GOCOOLINC.COM
-employer_poc_phone             | 14253411214
-employer_poc_phone_ext         | 
-worksite_address1              | 300 A Outlet Pointe Blvd
-worksite_address2              | N/A
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | 
-employer_address1              | 12303 Meridian St E
-employer_address2              | Suite 203
-employer_city                  | Puyallup
-employer_state                 | WA
-employer_postal_code           | 98374
-begin_date                     | 2024-04-20
-end_date                       | 2027-04-19
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 1
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | GOCOOL INC
-soc_code                       | 15-1241.00
-h_1b_dependent                 | No
--[ RECORD 85 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 96 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24037-695979
 job_title                      | Network Consultant
 employer_name                  | GOCOOL INC
@@ -2803,7 +3166,40 @@ amended_petition               | 0
 employer_name                  | GOCOOL INC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
--[ RECORD 86 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 97 ]-----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24034-691102
+job_title                      | Network Consultant
+employer_name                  | GOCOOL INC
+secondary_entity_business_name | State of South Carolina Department of Revenue
+employer_phone                 | 14253411214
+employer_poc_first_name        | Ranga
+employer_poc_last_name         | Bondada
+employer_poc_email             | ADMIN@GOCOOLINC.COM
+employer_poc_phone             | 14253411214
+employer_poc_phone_ext         | 
+worksite_address1              | 300 A Outlet Pointe Blvd
+worksite_address2              | N/A
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 12303 Meridian St E
+employer_address2              | Suite 203
+employer_city                  | Puyallup
+employer_state                 | WA
+employer_postal_code           | 98374
+begin_date                     | 2024-04-20
+end_date                       | 2027-04-19
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 1
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | GOCOOL INC
+soc_code                       | 15-1241.00
+h_1b_dependent                 | No
+-[ RECORD 98 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23304-468282
 job_title                      | NETWORK ENGINEER
 employer_name                  | MERIDIANSOFT INC
@@ -2836,7 +3232,7 @@ amended_petition               | 0
 employer_name                  | MERIDIANSOFT INC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | Yes
--[ RECORD 87 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 99 ]-----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24081-819732
 job_title                      | Business Analyst
 employer_name                  | RICEFW Technologies Inc
@@ -2869,7 +3265,7 @@ amended_petition               | 1
 employer_name                  | RICEFW Technologies Inc
 soc_code                       | 15-1211.00
 h_1b_dependent                 | Yes
--[ RECORD 88 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 100 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23318-500268
 job_title                      | QA Lead
 employer_name                  | RICEFW Technologies Inc
@@ -2902,7 +3298,7 @@ amended_petition               | 0
 employer_name                  | RICEFW Technologies Inc
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 89 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 101 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24053-739472
 job_title                      | Software Engineer - Lead
 employer_name                  | COOLSOFT LLC
@@ -2935,7 +3331,7 @@ amended_petition               | 0
 employer_name                  | COOLSOFT LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 90 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 102 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23262-359238
 job_title                      | Software Engineer
 employer_name                  | RICEFW Technologies Inc
@@ -2968,7 +3364,7 @@ amended_petition               | 0
 employer_name                  | RICEFW Technologies Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 91 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 103 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23258-351657
 job_title                      | Internet/Web Engineer
 employer_name                  | Innovative Intelligent Solutions LLC
@@ -3001,7 +3397,7 @@ amended_petition               | 0
 employer_name                  | Innovative Intelligent Solutions LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 92 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 104 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23256-342413
 job_title                      | Internet/Web Engineer
 employer_name                  | Innovative Intelligent Solutions LLC
@@ -3034,7 +3430,7 @@ amended_petition               | 0
 employer_name                  | Innovative Intelligent Solutions LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 93 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 105 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24030-678133
 job_title                      | Sensor Research Assistant
 employer_name                  | South Carolina State University
@@ -3067,7 +3463,7 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 17-2063
 h_1b_dependent                 | No
--[ RECORD 94 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 106 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24026-669564
 job_title                      | Sensor Research Assistant
 employer_name                  | South Carolina State University
@@ -3100,7 +3496,7 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 17-2063
 h_1b_dependent                 | No
--[ RECORD 95 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 107 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24039-705326
 job_title                      | QA Manager
 employer_name                  | Sagitec Solutions LLC
@@ -3133,7 +3529,7 @@ amended_petition               | 1
 employer_name                  | Sagitec Solutions LLC
 soc_code                       | 15-1253.00
 h_1b_dependent                 | Yes
--[ RECORD 96 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 108 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24031-680141
 job_title                      | Software Developer
 employer_name                  | RAPS Consulting Inc
@@ -3166,7 +3562,7 @@ amended_petition               | 0
 employer_name                  | RAPS Consulting Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 97 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 109 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-24018-648419
 job_title                      | Research Scientist and Extension Specialist
 employer_name                  | South Carolina State University
@@ -3199,7 +3595,7 @@ amended_petition               | 0
 employer_name                  | South Carolina State University
 soc_code                       | 19-1013.00
 h_1b_dependent                 | No
--[ RECORD 98 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 110 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23214-232956
 job_title                      | Software Engineer - Lead
 employer_name                  | COOLSOFT LLC
@@ -3232,7 +3628,7 @@ amended_petition               | 0
 employer_name                  | COOLSOFT LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 99 ]-----------------+-------------------------------------------------------------------------------
+-[ RECORD 111 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23312-487088
 job_title                      | Software Engineer – Internet/Web
 employer_name                  | COOLSOFT LLC
@@ -3265,7 +3661,7 @@ amended_petition               | 0
 employer_name                  | COOLSOFT LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 100 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 112 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23335-537150
 job_title                      | Resident Consultant
 employer_name                  | Trimble Inc
@@ -3298,7 +3694,7 @@ amended_petition               | 0
 employer_name                  | Trimble Inc
 soc_code                       | 17-2051.00
 h_1b_dependent                 | No
--[ RECORD 101 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 113 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23177-143158
 job_title                      | Sr. Network Engineer
 employer_name                  | COOLSOFT LLC
@@ -3331,7 +3727,7 @@ amended_petition               | 0
 employer_name                  | COOLSOFT LLC
 soc_code                       | 15-1244.00
 h_1b_dependent                 | Yes
--[ RECORD 102 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 114 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23278-412098
 job_title                      | Sr. Software Developer
 employer_name                  | SIRI INFOSOLUTIONS INC
@@ -3364,7 +3760,7 @@ amended_petition               | 0
 employer_name                  | SIRI INFOSOLUTIONS INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 103 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 115 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23125-996230
 job_title                      | PROGRAM BUSINESS ANALYST
 employer_name                  | Enterprise IT Solutions LLC
@@ -3397,7 +3793,7 @@ amended_petition               | 0
 employer_name                  | Enterprise IT Solutions LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 104 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 116 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23295-448678
 job_title                      | Network Consultant
 employer_name                  | GOCOOL INC
@@ -3430,7 +3826,7 @@ amended_petition               | 0
 employer_name                  | GOCOOL INC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
--[ RECORD 105 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 117 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23293-445496
 job_title                      | Network Consultant
 employer_name                  | GOCOOL INC
@@ -3463,7 +3859,7 @@ amended_petition               | 0
 employer_name                  | GOCOOL INC
 soc_code                       | 15-1241.00
 h_1b_dependent                 | No
--[ RECORD 106 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 118 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23108-944738
 job_title                      | Database Administrator
 employer_name                  | ePathUSA Inc
@@ -3496,7 +3892,7 @@ amended_petition               | 0
 employer_name                  | ePathUSA Inc
 soc_code                       | 15-1242.00
 h_1b_dependent                 | Yes
--[ RECORD 107 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 119 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23130-009226
 job_title                      | Software Engineer
 employer_name                  | Riverpoint Management LLC
@@ -3529,402 +3925,6 @@ amended_petition               | 0
 employer_name                  | Riverpoint Management LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 108 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-24107-893060
-job_title                      | Systems Software Programmer
-employer_name                  | Intellibee Inc
-secondary_entity_business_name | South Carolina Department of Social Services
-employer_phone                 | 13135864100
-employer_poc_first_name        | Nitya
-employer_poc_last_name         | Khatiwara
-employer_poc_email             | nitya@intellibee.com
-employer_poc_phone             | 13135864100
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Road
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Joseph Kallabat & Associates PC
-employer_address1              | 400 Renaissance Center
-employer_address2              | Suite 2600
-employer_city                  | Detroit
-employer_state                 | MI
-employer_postal_code           | 48243
-begin_date                     | 2024-04-24
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | Intellibee Inc
-soc_code                       | 15-1299.08
-h_1b_dependent                 | Yes
--[ RECORD 109 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-25121-925295
-job_title                      | ServiceNow Developer
-employer_name                  | MOURI Tech LLC
-secondary_entity_business_name | South Carolina Department of Motor Vehicles
-employer_phone                 | 19727561500
-employer_poc_first_name        | Anil
-employer_poc_last_name         | Yerramreddy
-employer_poc_email             | Immigration@mouritech.com
-employer_poc_phone             | 12149606924
-employer_poc_phone_ext         | 
-worksite_address1              | 10311 Wilson Blvd, C
-worksite_address2              | 
-worksite_city                  | Blythewood
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
-employer_address1              | 1183 W. John Carpenter Freeway
-employer_address2              | 
-employer_city                  | Irving
-employer_state                 | TX
-employer_postal_code           | 75039
-begin_date                     | 2025-05-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 1
-employer_name                  | MOURI Tech LLC
-soc_code                       | 15-1252
-h_1b_dependent                 | Yes
--[ RECORD 110 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23125-998085
-job_title                      | SQL Database Administrator
-employer_name                  | SIRI SOFTWARE SOLUTIONS LLC
-secondary_entity_business_name | South Carolina Department of social services
-employer_phone                 | 17328440244
-employer_poc_first_name        | PAVAN
-employer_poc_last_name         | TATA
-employer_poc_email             | immigration@sirisoftsolutions.com
-employer_poc_phone             | 17328440244
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning rd, Suite 100
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | 
-employer_address1              | 1100 Cornwall Road
-employer_address2              | Suite 218
-employer_city                  | Monmouth Junction
-employer_state                 | NJ
-employer_postal_code           | 08852
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SIRI SOFTWARE SOLUTIONS LLC
-soc_code                       | 15-1242.00
-h_1b_dependent                 | Yes
--[ RECORD 111 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23168-121439
-job_title                      | AWS Developer
-employer_name                  | Raven Software Solutions Inc
-secondary_entity_business_name | South Carolina Department of Health and Human Services
-employer_phone                 | 12142543373
-employer_poc_first_name        | Aliza
-employer_poc_last_name         | Singh
-employer_poc_email             | hr@ravensoftwaresolutions.com
-employer_poc_phone             | 12142543373
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Rd
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Kodem Law Firm PLLC
-employer_address1              | 1503 Lyndon B Johnson Fwy
-employer_address2              | STE 250
-employer_city                  | Farmers Branch
-employer_state                 | TX
-employer_postal_code           | 75234
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | Raven Software Solutions Inc
-soc_code                       | 15-1252.00
-h_1b_dependent                 | Yes
--[ RECORD 112 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23178-146148
-job_title                      | Geologist / Hydrologist II
-employer_name                  | SC Department of Natural Resources
-secondary_entity_business_name | 
-employer_phone                 | 18037343833
-employer_poc_first_name        | Ken
-employer_poc_last_name         | Rentiers
-employer_poc_email             | rentiersk@dnr.sc.gov
-employer_poc_phone             | 18037349035
-employer_poc_phone_ext         | 
-worksite_address1              | 1000 Assembly St.
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | Ogletree Deakins Law Firm
-employer_address1              | 1000 Assembly St.
-employer_address2              | 
-employer_city                  | Columbia
-employer_state                 | SC
-employer_postal_code           | 29201
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 0
-continued_employment           | 1
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | SC Department of Natural Resources
-soc_code                       | 19-2043.00
-h_1b_dependent                 | No
--[ RECORD 113 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23152-071322
-job_title                      | Senior Software Engineer
-employer_name                  | PROGRAMSOFT LLC
-secondary_entity_business_name | SC Department Of Health and Human Services (SCDHHS)
-employer_phone                 | 18059903251
-employer_poc_first_name        | ASHOK
-employer_poc_last_name         | REDDY
-employer_poc_email             | HR@PRGMSOFT.COM
-employer_poc_phone             | 18059903251
-employer_poc_phone_ext         | 
-worksite_address1              | 1801 Main Street
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
-employer_address1              | 2000 N CENTRAL EXPY
-employer_address2              | SUITE 219
-employer_city                  | PLANO
-employer_state                 | TX
-employer_postal_code           | 75074
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | PROGRAMSOFT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 114 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23152-071339
-job_title                      | Information Security Engineer
-employer_name                  | PROGRAMSOFT LLC
-secondary_entity_business_name | SC Department Of Social Services (SCDSS)
-employer_phone                 | 18059903251
-employer_poc_first_name        | ASHOK
-employer_poc_last_name         | REDDY
-employer_poc_email             | HR@PRGMSOFT.COM
-employer_poc_phone             | 18059903251
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Rd
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
-employer_address1              | 2000 N CENTRAL EXPY
-employer_address2              | SUITE 219
-employer_city                  | PLANO
-employer_state                 | TX
-employer_postal_code           | 75074
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | PROGRAMSOFT LLC
-soc_code                       | 15-1299.05
-h_1b_dependent                 | No
--[ RECORD 115 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23152-071306
-job_title                      | Senior Software Engineer
-employer_name                  | PROGRAMSOFT LLC
-secondary_entity_business_name | SC Department Of Social Services (SCDSS)
-employer_phone                 | 18059903251
-employer_poc_first_name        | ASHOK
-employer_poc_last_name         | REDDY
-employer_poc_email             | HR@PRGMSOFT.COM
-employer_poc_phone             | 18059903251
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Rd
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
-employer_address1              | 2000 N CENTRAL EXPY
-employer_address2              | SUITE 219
-employer_city                  | PLANO
-employer_state                 | TX
-employer_postal_code           | 75074
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | PROGRAMSOFT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 116 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23152-071417
-job_title                      | Senior Software Engineer
-employer_name                  | PROGRAMSOFT LLC
-secondary_entity_business_name | SC Department Of Social Services (SCDSS)
-employer_phone                 | 18059903251
-employer_poc_first_name        | ASHOK
-employer_poc_last_name         | REDDY
-employer_poc_email             | HR@PRGMSOFT.COM
-employer_poc_phone             | 18059903251
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Rd
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
-employer_address1              | 2000 N CENTRAL EXPY
-employer_address2              | SUITE 219
-employer_city                  | PLANO
-employer_state                 | TX
-employer_postal_code           | 75074
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | PROGRAMSOFT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 117 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23152-071404
-job_title                      | Senior Software Engineer
-employer_name                  | PROGRAMSOFT LLC
-secondary_entity_business_name | SC Department Of Social Services (SCDSS)
-employer_phone                 | 18059903251
-employer_poc_first_name        | ASHOK
-employer_poc_last_name         | REDDY
-employer_poc_email             | HR@PRGMSOFT.COM
-employer_poc_phone             | 18059903251
-employer_poc_phone_ext         | 
-worksite_address1              | 1628 Browning Rd
-worksite_address2              | Suite 100
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
-employer_address1              | 2000 N CENTRAL EXPY
-employer_address2              | SUITE 219
-employer_city                  | PLANO
-employer_state                 | TX
-employer_postal_code           | 75074
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | PROGRAMSOFT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 118 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23152-071387
-job_title                      | Senior Software Engineer
-employer_name                  | PROGRAMSOFT LLC
-secondary_entity_business_name | SC Department Of Health and Human Services (SCDHHS)
-employer_phone                 | 18059903251
-employer_poc_first_name        | ASHOK
-employer_poc_last_name         | REDDY
-employer_poc_email             | HR@PRGMSOFT.COM
-employer_poc_phone             | 18059903251
-employer_poc_phone_ext         | 
-worksite_address1              | 1801 Main Street
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
-employer_address1              | 2000 N CENTRAL EXPY
-employer_address2              | SUITE 219
-employer_city                  | PLANO
-employer_state                 | TX
-employer_postal_code           | 75074
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | PROGRAMSOFT LLC
-soc_code                       | 15-1252.00
-h_1b_dependent                 | No
--[ RECORD 119 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23152-071379
-job_title                      | Information Security Engineer
-employer_name                  | PROGRAMSOFT LLC
-secondary_entity_business_name | SC Department of Transportation (SCDOT)
-employer_phone                 | 18059903251
-employer_poc_first_name        | ASHOK
-employer_poc_last_name         | REDDY
-employer_poc_email             | HR@PRGMSOFT.COM
-employer_poc_phone             | 18059903251
-employer_poc_phone_ext         | 
-worksite_address1              | 955 Park Street
-worksite_address2              | 
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
-employer_address1              | 2000 N CENTRAL EXPY
-employer_address2              | SUITE 219
-employer_city                  | PLANO
-employer_state                 | TX
-employer_postal_code           | 75074
-begin_date                     | 2023-10-01
-end_date                       | 2026-09-30
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | PROGRAMSOFT LLC
-soc_code                       | 15-1244.00
-h_1b_dependent                 | No
 -[ RECORD 120 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23152-071354
 job_title                      | Senior Software Engineer
@@ -3959,6 +3959,402 @@ employer_name                  | PROGRAMSOFT LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
 -[ RECORD 121 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23152-071387
+job_title                      | Senior Software Engineer
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | SC Department Of Health and Human Services (SCDHHS)
+employer_phone                 | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_phone_ext         | 
+worksite_address1              | 1801 Main Street
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PROGRAMSOFT LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 122 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23178-146148
+job_title                      | Geologist / Hydrologist II
+employer_name                  | SC Department of Natural Resources
+secondary_entity_business_name | 
+employer_phone                 | 18037343833
+employer_poc_first_name        | Ken
+employer_poc_last_name         | Rentiers
+employer_poc_email             | rentiersk@dnr.sc.gov
+employer_poc_phone             | 18037349035
+employer_poc_phone_ext         | 
+worksite_address1              | 1000 Assembly St.
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Ogletree Deakins Law Firm
+employer_address1              | 1000 Assembly St.
+employer_address2              | 
+employer_city                  | Columbia
+employer_state                 | SC
+employer_postal_code           | 29201
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 1
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SC Department of Natural Resources
+soc_code                       | 19-2043.00
+h_1b_dependent                 | No
+-[ RECORD 123 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-25121-925295
+job_title                      | ServiceNow Developer
+employer_name                  | MOURI Tech LLC
+secondary_entity_business_name | South Carolina Department of Motor Vehicles
+employer_phone                 | 19727561500
+employer_poc_first_name        | Anil
+employer_poc_last_name         | Yerramreddy
+employer_poc_email             | Immigration@mouritech.com
+employer_poc_phone             | 12149606924
+employer_poc_phone_ext         | 
+worksite_address1              | 10311 Wilson Blvd, C
+worksite_address2              | 
+worksite_city                  | Blythewood
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Fragomen Del Rey Bernsen & Loewy LLP
+employer_address1              | 1183 W. John Carpenter Freeway
+employer_address2              | 
+employer_city                  | Irving
+employer_state                 | TX
+employer_postal_code           | 75039
+begin_date                     | 2025-05-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | MOURI Tech LLC
+soc_code                       | 15-1252
+h_1b_dependent                 | Yes
+-[ RECORD 124 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23152-071379
+job_title                      | Information Security Engineer
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | SC Department of Transportation (SCDOT)
+employer_phone                 | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_phone_ext         | 
+worksite_address1              | 955 Park Street
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PROGRAMSOFT LLC
+soc_code                       | 15-1244.00
+h_1b_dependent                 | No
+-[ RECORD 125 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23152-071339
+job_title                      | Information Security Engineer
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | SC Department Of Social Services (SCDSS)
+employer_phone                 | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Rd
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PROGRAMSOFT LLC
+soc_code                       | 15-1299.05
+h_1b_dependent                 | No
+-[ RECORD 126 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23152-071322
+job_title                      | Senior Software Engineer
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | SC Department Of Health and Human Services (SCDHHS)
+employer_phone                 | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_phone_ext         | 
+worksite_address1              | 1801 Main Street
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PROGRAMSOFT LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 127 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23152-071404
+job_title                      | Senior Software Engineer
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | SC Department Of Social Services (SCDSS)
+employer_phone                 | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Rd
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PROGRAMSOFT LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 128 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23152-071306
+job_title                      | Senior Software Engineer
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | SC Department Of Social Services (SCDSS)
+employer_phone                 | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Rd
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PROGRAMSOFT LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 129 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23152-071417
+job_title                      | Senior Software Engineer
+employer_name                  | PROGRAMSOFT LLC
+secondary_entity_business_name | SC Department Of Social Services (SCDSS)
+employer_phone                 | 18059903251
+employer_poc_first_name        | ASHOK
+employer_poc_last_name         | REDDY
+employer_poc_email             | HR@PRGMSOFT.COM
+employer_poc_phone             | 18059903251
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Rd
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | PUNHANI LAW FIRM LLC
+employer_address1              | 2000 N CENTRAL EXPY
+employer_address2              | SUITE 219
+employer_city                  | PLANO
+employer_state                 | TX
+employer_postal_code           | 75074
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | PROGRAMSOFT LLC
+soc_code                       | 15-1252.00
+h_1b_dependent                 | No
+-[ RECORD 130 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-24107-893060
+job_title                      | Systems Software Programmer
+employer_name                  | Intellibee Inc
+secondary_entity_business_name | South Carolina Department of Social Services
+employer_phone                 | 13135864100
+employer_poc_first_name        | Nitya
+employer_poc_last_name         | Khatiwara
+employer_poc_email             | nitya@intellibee.com
+employer_poc_phone             | 13135864100
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Road
+worksite_address2              | Suite 100
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Joseph Kallabat & Associates PC
+employer_address1              | 400 Renaissance Center
+employer_address2              | Suite 2600
+employer_city                  | Detroit
+employer_state                 | MI
+employer_postal_code           | 48243
+begin_date                     | 2024-04-24
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 0
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 1
+employer_name                  | Intellibee Inc
+soc_code                       | 15-1299.08
+h_1b_dependent                 | Yes
+-[ RECORD 131 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23125-998085
+job_title                      | SQL Database Administrator
+employer_name                  | SIRI SOFTWARE SOLUTIONS LLC
+secondary_entity_business_name | South Carolina Department of social services
+employer_phone                 | 17328440244
+employer_poc_first_name        | PAVAN
+employer_poc_last_name         | TATA
+employer_poc_email             | immigration@sirisoftsolutions.com
+employer_poc_phone             | 17328440244
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning rd, Suite 100
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | 
+employer_address1              | 1100 Cornwall Road
+employer_address2              | Suite 218
+employer_city                  | Monmouth Junction
+employer_state                 | NJ
+employer_postal_code           | 08852
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | SIRI SOFTWARE SOLUTIONS LLC
+soc_code                       | 15-1242.00
+h_1b_dependent                 | Yes
+-[ RECORD 132 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23168-121439
+job_title                      | AWS Developer
+employer_name                  | Raven Software Solutions Inc
+secondary_entity_business_name | South Carolina Department of Health and Human Services
+employer_phone                 | 12142543373
+employer_poc_first_name        | Aliza
+employer_poc_last_name         | Singh
+employer_poc_email             | hr@ravensoftwaresolutions.com
+employer_poc_phone             | 12142543373
+employer_poc_phone_ext         | 
+worksite_address1              | 1628 Browning Rd
+worksite_address2              | 
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | Kodem Law Firm PLLC
+employer_address1              | 1503 Lyndon B Johnson Fwy
+employer_address2              | STE 250
+employer_city                  | Farmers Branch
+employer_state                 | TX
+employer_postal_code           | 75234
+begin_date                     | 2023-10-01
+end_date                       | 2026-09-30
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | Raven Software Solutions Inc
+soc_code                       | 15-1252.00
+h_1b_dependent                 | Yes
+-[ RECORD 133 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23109-947574
 job_title                      | Software Developer (Quality Assurance Analyst)
 employer_name                  | NS IT SOLUTIONS LLC
@@ -3991,7 +4387,7 @@ amended_petition               | 0
 employer_name                  | NS IT SOLUTIONS LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 122 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 134 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23201-205075
 job_title                      | Sr. Software Developer
 employer_name                  | Smart Solutions Inc
@@ -4024,7 +4420,7 @@ amended_petition               | 0
 employer_name                  | Smart Solutions Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 123 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 135 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23121-981725
 job_title                      | Business Intelligence Consultant
 employer_name                  | VISAM TECHNOLOGIES INC
@@ -4057,7 +4453,7 @@ amended_petition               | 0
 employer_name                  | VISAM TECHNOLOGIES INC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 124 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 136 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23255-339882
 job_title                      | Sr. Software Engineer
 employer_name                  | RAPS Consulting Inc
@@ -4090,7 +4486,7 @@ amended_petition               | 0
 employer_name                  | RAPS Consulting Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 125 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 137 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23255-339934
 job_title                      | Sr. Software Engineer & Systems Software Programmer
 employer_name                  | RAPS Consulting Inc
@@ -4123,40 +4519,7 @@ amended_petition               | 0
 employer_name                  | RAPS Consulting Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | No
--[ RECORD 126 ]----------------+-------------------------------------------------------------------------------
-case_number                    | I-200-23233-282120
-job_title                      | Counselor III
-employer_name                  | South Carolina Department of Mental Health
-secondary_entity_business_name | 
-employer_phone                 | 18039355715
-employer_poc_first_name        | Sandy
-employer_poc_last_name         | Hyre
-employer_poc_email             | sandy.hyre@scdmh.org
-employer_poc_phone             | 18039355715
-employer_poc_phone_ext         | 
-worksite_address1              | 7901 Farrow Road
-worksite_address2              | Bldg. 3
-worksite_city                  | Columbia
-worksite_county                | RICHLAND
-lawfirm_name_business_name     | The Beard Law Group LLC
-employer_address1              | 2414 Bull Street
-employer_address2              | 
-employer_city                  | Columbia
-employer_state                 | SC
-employer_postal_code           | 29201
-begin_date                     | 2023-09-01
-end_date                       | 2026-08-31
-total_worker_positions         | 1
-new_employment                 | 1
-continued_employment           | 0
-change_previous_employment     | 0
-new_concurrent_employment      | 0
-change_employer                | 0
-amended_petition               | 0
-employer_name                  | South Carolina Department of Mental Health
-soc_code                       | 21-1014.00
-h_1b_dependent                 | No
--[ RECORD 127 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 138 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23164-105809
 job_title                      | Data / Information Architect
 employer_name                  | Kennedy International Software Inc
@@ -4189,7 +4552,40 @@ amended_petition               | 0
 employer_name                  | Kennedy International Software Inc
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 128 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 139 ]----------------+-------------------------------------------------------------------------------
+case_number                    | I-200-23233-282120
+job_title                      | Counselor III
+employer_name                  | South Carolina Department of Mental Health
+secondary_entity_business_name | 
+employer_phone                 | 18039355715
+employer_poc_first_name        | Sandy
+employer_poc_last_name         | Hyre
+employer_poc_email             | sandy.hyre@scdmh.org
+employer_poc_phone             | 18039355715
+employer_poc_phone_ext         | 
+worksite_address1              | 7901 Farrow Road
+worksite_address2              | Bldg. 3
+worksite_city                  | Columbia
+worksite_county                | RICHLAND
+lawfirm_name_business_name     | The Beard Law Group LLC
+employer_address1              | 2414 Bull Street
+employer_address2              | 
+employer_city                  | Columbia
+employer_state                 | SC
+employer_postal_code           | 29201
+begin_date                     | 2023-09-01
+end_date                       | 2026-08-31
+total_worker_positions         | 1
+new_employment                 | 1
+continued_employment           | 0
+change_previous_employment     | 0
+new_concurrent_employment      | 0
+change_employer                | 0
+amended_petition               | 0
+employer_name                  | South Carolina Department of Mental Health
+soc_code                       | 21-1014.00
+h_1b_dependent                 | No
+-[ RECORD 140 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23229-273493
 job_title                      | Software Engineer
 employer_name                  | COOLSOFT LLC
@@ -4222,7 +4618,7 @@ amended_petition               | 0
 employer_name                  | COOLSOFT LLC
 soc_code                       | 15-1252.00
 h_1b_dependent                 | Yes
--[ RECORD 129 ]----------------+-------------------------------------------------------------------------------
+-[ RECORD 141 ]----------------+-------------------------------------------------------------------------------
 case_number                    | I-200-23233-281018
 job_title                      | Software Engineer/Programmer-Advanced
 employer_name                  | RAPS Consulting Inc
