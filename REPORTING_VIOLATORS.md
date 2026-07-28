@@ -21,6 +21,16 @@ https://reportfraud.ftc.gov/
 United States Department Of Justice:<br>
 https://www.justice.gov/crt/reporting-unfair-visa-related-employment-practices
 
+Email Addresses:<br>
+ReportH1BAbuse@uscis.dhs.gov<br>
+IER@usdoj.gov<br>
+info@eeoc.gov<br>
+PassportVisaFraud@state.gov<br>
+LCACompliance@ITContractorsUnion.com<br>
+
+Use the above email addresses to report violators, or copy those email addresses<br>
+in your communications with the Employer POC or Agent Attorney from the LCAs.<br>
+
 Tips:
 1. Keep Records Of All The Contacts You Make.
 2. Look For LCAs That Are Filed By SHITCOs That Post Jobs On The Usual Bullshit Job Websites Like DICE, ZipRecruiter, Monster, LinkedIn, Indeed, CyberCoders, And The Like. 
